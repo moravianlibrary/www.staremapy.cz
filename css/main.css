@@ -287,7 +287,7 @@ h5 {
 }
 
 
-#content.subpage #aside-right ul {
+#content.subpage #aside-right .right-links ul {
   color: #545454;
   font-size: 0.9em;
   line-height: 1.4em;
@@ -295,14 +295,14 @@ h5 {
   list-style: disc;
 }
 
-#content.subpage #aside-right li {
+#content.subpage #aside-right .right-links li {
 	margin-bottom:20px;
 }
 
-#content.subpage #aside-right li a {
+#content.subpage #aside-right .right-links li a {
   color: #b78308;
 }
-#content.subpage #aside-right li a:hover {
+#content.subpage #aside-right .right-links li a:hover {
   color: #b78308;
   text-decoration:underline;
 }
@@ -353,7 +353,7 @@ h5 {
   clear: both;
 }
 #content .cols li {
-  width: 25%;
+  width: 32%;
   float: left;
   text-align: center;
 }
@@ -389,10 +389,13 @@ h5 {
 }
 #content .article .content h3 {
   font-size: 1.1em;
+  margin-top: 0px;
 }
+
 #content .article .content p {
   font-size: 0.8em;
   font-weight: bold;
+  margin-bottom:5px;
 }
 #content .article .content a {
   font-size: 0.8em;
@@ -759,9 +762,7 @@ button {
 	width: 180px;
 	height:auto;
 	float:left;
-	margin-bottom:10px;
-	margin-top:20px;
-	margin-left:28px;
+	margin: auto 0;
 	border: 1px solid #958771;
 	-webkit-border-radius: 4px;
 	-moz-border-radius: 4px;
@@ -789,6 +790,26 @@ button {
 	float:left;
 	text-align:center;
 	height:auto;
+}
+
+.zpracovat {
+	padding: 5px;
+	line-height: 1.2em;
+	text-align:center;
+}
+
+.start-projekt {
+	text-align:center;
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+
+.start-projekt a {
+	opacity: 0.85;
+}
+
+.start-projekt a:hover {
+	opacity: 1;
 }
 
 /* This beautiful CSS-File has been crafted with LESS (lesscss.org) and compiled by simpLESS (wearekiss.com/simpless) */
