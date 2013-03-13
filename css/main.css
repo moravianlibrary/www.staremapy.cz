@@ -132,6 +132,7 @@ h6 {
 }
 h1 {
   margin-bottom: 15px;
+  line-height: 1.4em;
 }
 h2 {
   font-weight: 300;
@@ -237,6 +238,10 @@ h5 {
   padding: 50px 40px;
   *zoom: 1;
   margin-bottom: 30px;
+  background-image: url('../img/background-content.png');
+  background-repeat: no-repeat;
+  background-position: top right;   
+  
 }
 #content.subpage:before,
 #content.subpage:after {
@@ -250,7 +255,9 @@ h5 {
 #content.subpage #main {
   float: left;
   width: 610px;
-}
+  border-right: 1px solid #e4dbc8;
+  padding-right:20px;
+ }
 #content.subpage #main h2 {
   font-size: 1.3em;
   font-weight: 300;
@@ -273,7 +280,7 @@ h5 {
 }
 #content.subpage #aside-right {
   float: right;
-  width: 205px;
+  width: 207px;
 }
 #content.subpage #aside-right #side-menu li a {
   color: #545454;
@@ -281,9 +288,12 @@ h5 {
   display: block;
   padding: 15px;
   border-bottom: 1px solid #d8cdb6;
+  background-color:#FFF;
+  opacity: 0.5;
 }
 #content.subpage #aside-right #side-menu li a:hover {
   color: #b78308;
+  opacity: 1;
 }
 
 
@@ -291,12 +301,13 @@ h5 {
   color: #545454;
   font-size: 0.9em;
   line-height: 1.4em;
-  margin: 10px;
+  margin-top: 10px;
   list-style: disc;
 }
 
 #content.subpage #aside-right .right-links li {
 	margin-bottom:20px;
+	list-style:none;
 }
 
 #content.subpage #aside-right .right-links li a {
@@ -810,6 +821,49 @@ button {
 
 .start-projekt a:hover {
 	opacity: 1;
+}
+
+.download-image {
+	border: 1px solid #999;
+}
+
+.download-image a {
+	opacity: 1;
+}
+
+.download-image a:hover {
+	opacity: 0.5;
+	-webkit-transition: opacity 0.2s ease-in-out;
+    -moz-transition: opacity 0.2s ease-in-out;
+    -o-transition: opacity 0.2s ease-in-out;
+    -ms-transition: opacity 0.2s ease-in-out;    
+    transition: opacity 0.2s ease-in-out;	
+}
+
+.download-all {
+	margin-bottom:20px;
+}
+
+.download-all a {
+	color:#900;
+}
+
+.banner-right a {
+	opacity: 1;
+}
+
+.banner-right a:hover {
+	opacity: 0.8;	
+}
+
+.napoveda-picture {
+	text-align:center;
+}
+
+.napoveda-popis {
+	margin-top: 10px;
+	margin-bottom:30px;
+	font-style: italic;
 }
 
 /* This beautiful CSS-File has been crafted with LESS (lesscss.org) and compiled by simpLESS (wearekiss.com/simpless) */
