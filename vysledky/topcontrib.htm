@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Top 5 Contributors</title>
+	<style type="text/css" media="screen">
+		body, html { font-family: arial, sans-serif; font-size: 12px; text-align: center; padding:0; margin:0;}
+		#selections { margin-top: 5px;}
+	</style>
+	<meta name="author" content="Petr Pridal - Klokan Technologies GmbH">
+	<!--  Date: 2011-10-24 -->
+	<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+	<script type="text/javascript" id="script">
+	google.load('visualization', '1', {'packages':['table']});
+
+	function gup(name) {
+	  name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+	  var regexS = "[\\?&]"+name+"=([^&#]*)";
+	  var regex = new RegExp( regexS );
+	  var results = regex.exec( window.location.href );
+	  if( results == null ) return "";
+	  else return results[1];
+	}
+
+	function changeData(period) {
+	  var whereClause = "date_time > '01-01-2000 00:00'";
+	  if(period) {
+	    var now = new Date();
+	    var d = new Date(now - period);
+		var datum =  (d.getMonth()+1) + "-" + d.getDate() + "-" + d.getFullYear() + ' '+ d.getHours() + ':' + d.getMinutes();
+		// console.log(datum);
+	    whereClause =  "date_time > '" + datum + "'";
+	  }
+	  var tableid = gup('tid'); // 1957455
+	  var col = gup('col'); // 1957455
+	
+	  if (col) whereClause += ' AND collection = \''+col+'\'';
+	
+	  // GCPS: 2851832
+	  // var queryText = encodeURIComponent("SELECT user_name AS 'Name', SUM(gcps_diff) as 'Control points' FROM "+ tableid + " WHERE "+ whereClause +" GROUP BY user_name, user_identity ORDER BY SUM(gcps_diff) DESC LIMIT 5");
+	  var queryText = encodeURIComponent("SELECT user_name AS 'Name', SUM(gcps_diff) as 'Control points' FROM "+ tableid + " WHERE "+ whereClause +" GROUP BY user_name ORDER BY SUM(gcps_diff) DESC LIMIT 5");
+	
+	  // DEPRECATED MAPS: 1957455
+	  if (tableid == 1957455) {
+			var queryText = encodeURIComponent("SELECT user_name AS 'Name', count() as 'Maps' FROM "+ tableid + " WHERE " + whereClause +" AND status='georeferenced' GROUP BY user_name, user_identity ORDER BY Count() DESC LIMIT 5");
+	  }
+	  var query = new google.visualization.Query('http://www.google.com/fusiontables/gvizdata?tq='  + queryText);
+	  query.send(getData);
+	}
+
+	function getData(response) {
+	  var table = new google.visualization.Table(document.getElementById('visualization'));
+      var dataTable = response.getDataTable();
+      dataTable.setColumnLabel(0, 'Uživatelské jméno');
+      dataTable.setColumnLabel(1, 'Počet kontrolních bodů');
+	  table.draw(response.getDataTable(), {showRowNumber: true});
+	}
+
+	</script>
+	</head>
+	<body onload="changeData();">
+	<div id="visualization"></div>
+	<select id="selections" onchange="changeData(this.value);">
+	  <option value="" selected>Za celou dobu</option>
+	  <option value="2592000000">Za posledních 30 dní</option>
+	  <option value="1209600000">Za posledních 14 dní</option>
+	  <option value="604800000">Za posledních 7 dní</option>
+	  <option value="86400000">Za posledních 24 hodin</option>
+	</select>
+</body>
+</html>
