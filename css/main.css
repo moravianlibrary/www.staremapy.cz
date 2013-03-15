@@ -855,8 +855,12 @@ button {
 	opacity: 0.8;	
 }
 
-.napoveda-picture {
+.napoveda {
 	text-align:center;
+}
+
+.napoveda-picture img {
+	border: 1px solid #e3dbc8;
 }
 
 .napoveda-popis {
