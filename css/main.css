@@ -752,6 +752,7 @@ button {
 }
 .progress .statusbar{
     margin-bottom:-100px;
+	background-color: transparent;
 }
 .table .table-contributors{
     margin-bottom:10px;
@@ -761,12 +762,14 @@ button {
 	width: 100%;
 	height:200px;
 	margin-bottom:30px;
+	background-color: transparent;
 }
 
 .table-contributors {
 	width: 100%;
 	height:200px;
 	margin-bottom:30px;
+	background-color: transparent;
 }
 
 .google-map {
@@ -874,6 +877,8 @@ button {
 	margin-top: 10px;
 	margin-bottom:30px;
 	font-style: italic;
+	font-size:11px;
+	line-height: 1.4em;
 }
 
 /* This beautiful CSS-File has been crafted with LESS (lesscss.org) and compiled by simpLESS (wearekiss.com/simpless) */
