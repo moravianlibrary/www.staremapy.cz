@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Top Contributors</title>
+	<style>
+    body{
+        margin:0px;
+        margin-left:-20px;
+    }
+    </style>
+    <script type="text/javascript" src="http://www.google.com/jsapi"></script>
+	<script>
+	google.load("visualization", "1", {packages: ['corechart']});
+	
+	gup = function(name) {
+  name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+  var regexS = "[\\?&]"+name+"=([^&#]*)";
+  var regex = new RegExp( regexS );
+  var results = regex.exec( window.location.href );
+  if( results == null ) return "";
+  else return results[1];
+}
+
+drawVisualization = function() {
+  var query = decodeURIComponent(gup('sql'));
+  google.visualization.drawChart({
+    "containerId": "visualization",
+    "dataSourceUrl": "http://www.google.com/fusiontables/gvizdata?tq=",
+    "query": query, 
+    "chartType": "PieChart",
+    "options": {
+      "width": 390,
+      "height" : 250,
+      "is3D": true,
+      "backgroundColor" : 'transparent'//,
+    }
+  });
+}
+	</script>
+</head>
+	<body onload="drawVisualization();">
+	<div id="visualization"></div>
+</body>
+</html>

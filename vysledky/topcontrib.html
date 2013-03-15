@@ -35,11 +35,11 @@
 	}
 
 	function changeData(period) {
-	  var whereClause = "date_time > '01-01-2000 00:00'";
+	  var whereClause = "date_time > '2000-01-01 00:00'";
 	  if(period) {
 	    var now = new Date();
 	    var d = new Date(now - period);
-		var datum =  (d.getMonth()+1) + "-" + d.getDate() + "-" + d.getFullYear() + ' '+ d.getHours() + ':' + d.getMinutes();
+		var datum =  d.getFullYear() + "-" + (d.getMonth()+1) + "-" + d.getDate() + ' '+ d.getHours() + ':' + d.getMinutes() + ':' + d.getSeconds();
 		// console.log(datum);
 	    whereClause =  "date_time > '" + datum + "'";
 	  }
@@ -67,12 +67,8 @@
       dataTable.setColumnLabel(1, 'Počet kontrolních bodů');
       var cssClassNames = {headerRow: 'headerRow',
 		tableRow: "tableRow",
-        //oddTableRow: "oddTableRow",
-//selectedTableRow: "selectedTableRow",
-        //hoverTableRow: "hoverTableRow",
         headerCell: "tableCell",
         tableCell: "tableCell",
-//rowNumberCell: "rowNumberCell"		
         };
 	  table.draw(response.getDataTable(), {showRowNumber: true, alternatingRowStyle: false, cssClassNames: cssClassNames,});
 	}
