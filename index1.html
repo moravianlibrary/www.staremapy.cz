@@ -100,9 +100,7 @@
                 <div class="two-cols">
 
                     <div class="column-left">
-
-			<h2>Pět minut vašeho času umožní:</h2>
-
+                        <h2>Pět minut vašeho času umožní:</h2>
                         <article>
                             <div class="article">
                                 <div class="thumb">
@@ -145,42 +143,35 @@
                     </div>
 
                     <div class="column-right">
-                    
-			<h2>Průběh pilotního projektu:</h2>
-
-			<div class="progress">
-				<h3>Počet již zpracovaných map</h3>
-                <div class="statusbar">
-           			<iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0px" src="vysledky/progressbar.html?sql=SELECT+status,count()+FROM+1gpUBes9cpOkH3h-fNyS_4dnuLelIY-bSuWdNfqw+GROUP+BY+status"></iframe>
-            	</div>
+                        <h2>Průběh pilotního projektu:</h2>
+                        <div class="progress">
+                            <h3>Počet již zpracovaných map</h3>
+                            <div class="statusbar">
+                                <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="vysledky/progressbar.html?sql=SELECT+status,count()+FROM+1gpUBes9cpOkH3h-fNyS_4dnuLelIY-bSuWdNfqw+GROUP+BY+status"></iframe>
+                            </div>
                         </div>
                         <div class="table">
-                        	<h3>Nejaktivnější dobrovolníci</h3>
+                            <h3>Nejaktivnější dobrovolníci</h3>
                             <div class="table-contributors">
-                    <iframe width="100%" height="100%" scrolling="no" frameborder="no" src="topcontrib.html?tid=1_uRktLvvt2dG34WBfBEZ5cedz5dAW-rosXXXd1o"></iframe>
-                    
-                    
-            	</div>
+                                <iframe width="100%" height="100%" scrolling="no" frameborder="no" src="topcontrib.html?tid=1_uRktLvvt2dG34WBfBEZ5cedz5dAW-rosXXXd1o"></iframe>
+                            </div>
                         </div>
-
-                        <div class="facebook">
-                            <h4>Vaši známí</h4>
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/cs_CZ/all.js#xfbml=1&appId=287942511246168";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-<div class="fb-like" data-href="http://www.staremapy.cz/" data-send="true" data-width="440" data-show-faces="true"></div>
-                        </div>
-                        
-
                     </div>
-
                 </div>
-
+                <div class="facebook">
+                    <h3>Vaši známí</h3>
+                    <div id="fb-root"></div>
+                    <script>
+                        (function(d, s, id) {
+                            var js, fjs = d.getElementsByTagName(s)[0];
+                            if (d.getElementById(id)) return;
+                            js = d.createElement(s); js.id = id;
+                            js.src = "//connect.facebook.net/cs_CZ/all.js#xfbml=1&appId=287942511246168";
+                            fjs.parentNode.insertBefore(js, fjs);
+                        }(document, 'script', 'facebook-jssdk'));
+                    </script>
+                    <div class="fb-like" data-href="http://www.staremapy.cz/" data-send="true" data-width="440" data-show-faces="true"></div>
+                </div>
             </div> <!-- / #content -->
 
             <hr class="sep">   
