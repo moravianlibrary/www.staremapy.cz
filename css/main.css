@@ -130,6 +130,7 @@ h6 {
   font-weight: 700;
   margin-bottom: 15px;
   text-rendering: optimizelegibility;
+  text-align:left;
 }
 h1 {
   margin-bottom: 15px;
@@ -241,7 +242,9 @@ h5 {
   margin-bottom: 30px;
   background-image: url('../img/background-content.png');
   background-repeat: no-repeat;
-  background-position: top right;   
+  background-position: top right;
+  font-size: 12px;
+  text-align:justify;
   
 }
 #content.subpage:before,
@@ -267,14 +270,14 @@ h5 {
 #content.subpage #main p {
   color: #545454;
   font-size: 0.9em;
-  line-height: 1.4em;
+  line-height: 1.6em;
 }
 #content.subpage #main ul {
   color: #545454;
   font-size: 0.9em;
-  line-height: 1.4em;
+  line-height: 1.6em;
   margin: 10px;
-  list-style: disc;
+  list-style: none;
 }
 #content.subpage #main a {
   color: #b78308;
@@ -282,6 +285,7 @@ h5 {
 #content.subpage #aside-right {
   float: right;
   width: 207px;
+  text-align:left;
 }
 #content.subpage #aside-right #side-menu li a {
   color: #545454;
