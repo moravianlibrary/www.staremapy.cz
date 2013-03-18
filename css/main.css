@@ -260,7 +260,7 @@ h5 {
   float: left;
   width: 610px;
   border-right: 1px solid #e4dbc8;
-  padding-right:20px;
+  padding-right:30px;
  }
 #content.subpage #main h2 {
   font-size: 1.3em;
@@ -285,11 +285,11 @@ h5 {
 #content.subpage #aside-right {
   float: right;
   width: 207px;
-  text-align:left;
+  text-align:left;  
 }
 #content.subpage #aside-right #side-menu li a {
   color: #545454;
-  font-size: 0.9em;
+  font-size: 12px;
   display: block;
   padding: 15px;
   border-bottom: 1px solid #d8cdb6;
