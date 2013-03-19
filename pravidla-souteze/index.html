@@ -6,7 +6,7 @@
         <meta name="description" content="">
         <meta name="keywords" content="">
         <meta name="author" content="">     
-        <link rel="stylesheet" href="../css/main.css" media="all">
+        <link rel="stylesheet" href="/css/main.css" media="all">
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>        
         <!--[if lt IE 9]>
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -45,42 +45,40 @@
             <hr>        
 
             <div id="content" class="subpage">
-            
-            <h1>Naposledy přidané mapy</h1>
-                <div class="recent-maps">
-                    <iframe src="recent-maps.html?sql=SELECT+id,date_time,title,thumbnail+FROM+1gpUBes9cpOkH3h-fNyS_4dnuLelIY-bSuWdNfqw+WHERE+status+=+'georeferenced'+ORDER+BY+date_time+DESC" width="860" height="150" frameBorder="0"></iframe>
-                </div>
-            	<div class="google-map">
-                    <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/fusiontables/embedviz?viz=MAP&amp;q=select+col7+from+1gpUBes9cpOkH3h-fNyS_4dnuLelIY-bSuWdNfqw&amp;h=false&amp;lat=49.46882995503961&amp;lng=14.668144835937493&amp;z=6&amp;t=1&amp;l=col7&amp;y=3&amp;tmplt=3"></iframe>            
-            	</div>            
 
+                <h1>Pravidla soutěže</h1>
                 
                 <div id="main">                    
 
-                    <h2>Zatím nejvíce přispěli</h2>
+                    <h2>O projektu</h2>
+                    <p>Devět českých paměťových institucí spojilo síly v projektu Staré mapy (www.staremapy.cz), jehož cílem je zvýšit úroveň zpřístupnění digitalizovaných mapových sbírek. Knihovny a muzea vyzývají veřejnost ke spolupráci při odkrývání zapomenutého obsahu starých map. Uživatelé tak mohou poznávat zastřené stopy dávné minulosti v současné krajině a přitom přispět k lepší dostupnosti vzácných děl. Projekt bude zahájen 21.3.2013.</p>
                     
-            	<div class="table-contributors">
-           			<iframe style="float:right; background-color:transparent; margin-top:-60px;" width="50%" height="120%" scrolling="no" frameborder="no" src="charts.html?sql=select%20col3,%20SUM(col2)%20from%201_uRktLvvt2dG34WBfBEZ5cedz5dAW-rosXXXd1o%20group%20by%20col3%20order%20by%20SUM(col2)%20desc%20limit%2020"></iframe>
-                    <iframe width="50%" height="100%" scrolling="no" frameborder="no" src="topcontrib.html?tid=1_uRktLvvt2dG34WBfBEZ5cedz5dAW-rosXXXd1o"></iframe>
+                    <ul>
+                        <li><a href="http://www.mzk.cz/">Moravská zemská knihovna</a></li>
+                        <li><a href="http://www.cuni.cz/">Univerzita Karlova v Praze</a></li>
+                        <li><a href="http://www.muni.cz/">Masarykova univerzita</a></li>
+                        <li><a href="http://www.nkp.cz/">Národní knihovna ČR</a></li>
+                        <li><a href="http://www.zcm.cz/">Západočeské muzeum v Plzni</a></li>
+                        <li><a href="http://www.ujep.cz/">Univerzita Jana Evangelisty Purkyně</a></li>
+                        <li><a href="http://www.vkol.cz/">Vědecká knihovna v Olomouci</a></li>
+                        <li><a href="http://www.cbvk.cz/">Jihočeská vědecká knihovna</a></li>
+                        <li><a href="http://www.techlib.cz/">Národní technická knihovna</a></li>
+                    </ul>                       
+
                     
                     
-            	</div>   
-                
-                    <h2>Zbývající mapy</h2>
-            	<div class="statusbar">
-           			<iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="progressbar.html?sql=SELECT+status,count()+FROM+1gpUBes9cpOkH3h-fNyS_4dnuLelIY-bSuWdNfqw+GROUP+BY+status"></iframe>
-            	</div>
+                                   
+                                          
 
                 </div><!-- / #main -->
 
                 <aside>
                     <div id="aside-right">
-                        <div class="banner-right"><a href="/pravidla-souteze/"><img src="/img/staremapy-banner-soutez.png" alt="Soutěž StaréMapy.cz"></a></div>
-                    </div> <!-- / .aside-right -->  
+                        <div class="banner-right"><img src="/img/staremapy-banner-soutez-detail.png" alt="Soutěž StaréMapy.cz"></div>
+                    </div> <!-- / .aside-right -->
                 </aside>           
 
             </div> <!-- / #content -->
-
 
             <footer>
                 <div id="footer">
