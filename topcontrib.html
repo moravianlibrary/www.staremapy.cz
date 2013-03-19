@@ -12,7 +12,7 @@
             margin-top:10px;
             float:right;
         }
-		body, html {background-color: #ECE5D1; font-family: arial, sans-serif; font-size: 12px; text-align: center; padding:0; margin:0;}
+		body, html {background-image: url('/img/background-html.png'); font-family: arial, sans-serif; font-size: 12px; text-align: center; padding:0; margin:0;}
 		#selections { margin-top: 5px;}
         .headerRow {
             background-color:#DCD8CE;
@@ -58,7 +58,7 @@
 	
 	  // GCPS: 2851832
 	  // var queryText = encodeURIComponent("SELECT user_name AS 'Name', SUM(gcps_diff) as 'Control points' FROM "+ tableid + " WHERE "+ whereClause +" GROUP BY user_name, user_identity ORDER BY SUM(gcps_diff) DESC LIMIT 5");
-	  var queryText = encodeURIComponent("SELECT user_name AS 'Name', SUM(gcps_diff) as 'Control points' FROM "+ tableid + " WHERE "+ whereClause +" GROUP BY user_name ORDER BY SUM(gcps_diff) DESC LIMIT 7");
+	  var queryText = encodeURIComponent("SELECT user_name AS 'Name', SUM(gcps_diff) as 'Control points' FROM "+ tableid + " WHERE "+ whereClause +" GROUP BY user_name ORDER BY SUM(gcps_diff) DESC LIMIT 5");
 	
 	  // DEPRECATED MAPS: 1957455
 	  if (tableid == 1957455) {
