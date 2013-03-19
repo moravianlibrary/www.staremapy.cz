@@ -12,7 +12,7 @@
             margin-top:10px;
             float:right;
         }
-		body, html { font-family: arial, sans-serif; font-size: 12px; text-align: center; padding:0; margin:0;}
+		body, html {background-color: #F0ECE1;font-family: arial, sans-serif; font-size: 12px; text-align: center; padding:0; margin:0;}
 		#selections { margin-top: 5px;}
         .headerRow {
             background-color:#DCD8CE;
@@ -76,14 +76,14 @@
       var cssClassNames = {headerRow: 'headerRow',
 		tableRow: "tableRow",
         headerCell: "tableCell",
-        tableCell: "tableCell",
+        tableCell: "tableCell"
         };
-	  table.draw(response.getDataTable(), {showRowNumber: true, alternatingRowStyle: false, cssClassNames: cssClassNames,});
+	  table.draw(response.getDataTable(), {showRowNumber: true, alternatingRowStyle: false, cssClassNames: cssClassNames});
 	}
 
 	</script>
 	</head>
-	<body onload="changeData();">
+	<body onload="changeData(null);">
 	<div id="visualization"></div>
     <div id="powered_img">
         <img src="/img/powered.png"/>
