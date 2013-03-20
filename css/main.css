@@ -921,6 +921,7 @@ button {
     display:none;
 }
 .top-contrib-table{
+    display: inline-block;
     width:293px;
     margin:0px;
     padding:0px;
@@ -928,7 +929,7 @@ button {
 }
 
 .top-contrib-chart{
-    float:right;
+    display: inline-block;
     width:293px;
     margin:0px;
     padding:0px;
