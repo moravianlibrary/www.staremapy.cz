@@ -386,7 +386,8 @@ h5 {
   line-height: 1.2em;
 }
 #content .article {
-  margin: 25px 0;
+  margin-top: 25px;
+  margin-bottom:50px;
   *zoom: 1;
 }
 #content .article:before,
