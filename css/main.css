@@ -920,5 +920,19 @@ button {
 .invisible-div{
     display:none;
 }
+.top-contrib-table{
+    width:293px;
+    margin:0px;
+    padding:0px;
+    height:200px;
+}
+
+.top-contrib-chart{
+    float:right;
+    width:293px;
+    margin:0px;
+    padding:0px;
+    height:200px;
+}
 
 /* This beautiful CSS-File has been crafted with LESS (lesscss.org) and compiled by simpLESS (wearekiss.com/simpless) */
