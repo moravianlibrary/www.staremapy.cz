@@ -936,4 +936,14 @@ button {
     height:200px;
 }
 
+.google-map-popis {
+  background-image: url('../img/map-bullet.png');
+  background-repeat: no-repeat;
+  padding-left:16px;
+  margin-top: 8px;
+  font-size:11px;
+  background-position: left 0px;
+  color: #000;
+}
+
 /* This beautiful CSS-File has been crafted with LESS (lesscss.org) and compiled by simpLESS (wearekiss.com/simpless) */
