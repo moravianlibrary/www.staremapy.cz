@@ -56,14 +56,8 @@
 	
 	  if (col) whereClause += ' AND collection = \''+col+'\'';
 	
-	  // GCPS: 2851832
-	  // var queryText = encodeURIComponent("SELECT user_name AS 'Name', SUM(gcps_diff) as 'Control points' FROM "+ tableid + " WHERE "+ whereClause +" GROUP BY user_name, user_identity ORDER BY SUM(gcps_diff) DESC LIMIT 5");
-	  var queryText = encodeURIComponent("SELECT user_name AS 'Name', SUM(gcps_diff) as 'Control points' FROM "+ tableid + " WHERE "+ whereClause +" GROUP BY user_name ORDER BY SUM(gcps_diff) DESC LIMIT 5");
-	
-	  // DEPRECATED MAPS: 1957455
-	  if (tableid == 1957455) {
-			var queryText = encodeURIComponent("SELECT user_name AS 'Name', count() as 'Maps' FROM "+ tableid + " WHERE " + whereClause +" AND status='georeferenced' GROUP BY user_name, user_identity ORDER BY Count() DESC LIMIT 5");
-	  }
+	  var queryText = encodeURIComponent("SELECT user_name AS 'Name', SUM(gcps_diff) as 'Control points' FROM "+ tableid + " WHERE "+ whereClause +" AND user_name not equal to 'jirduf' AND user_name not equal to 'Magdalena' AND user_name not equal to 'Petr Pridal' AND user_name not equal to 'Radim Kacer' AND user_name not equal to 'Petr Žabička' GROUP BY user_name ORDER BY SUM(gcps_diff) DESC LIMIT 5");
+
 	  var query = new google.visualization.Query('http://www.google.com/fusiontables/gvizdata?tq='  + queryText);
 	  query.send(getData);
 	}
