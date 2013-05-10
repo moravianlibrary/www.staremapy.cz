@@ -960,4 +960,27 @@ button {
 	opacity: 1;
 }
 
+#competition-tabs{
+    font-size:18px;
+    margin-left:-40px;
+    margin-top:-50px;
+}
+#competition-tabs a{
+    color:rgb(107, 75, 46);
+}
+#competition-tabs a:hover{
+    color: #6b4b2e;
+}
+#competition-tabs .inactive-tab{
+    display: inline-block;
+    padding:20px;
+    border:1px solid #ede5d1;
+    background-color:#e2dbc7;
+}
+#competition-tabs .active-tab{
+    display: inline-block;
+    padding:20px;
+    border:none;
+}
+
 /* This beautiful CSS-File has been crafted with LESS (lesscss.org) and compiled by simpLESS (wearekiss.com/simpless) */
