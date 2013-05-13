@@ -7,8 +7,35 @@
         <meta name="keywords" content="">
         <meta name="author" content="">     
         <link rel="stylesheet" href="/css/main.css" media="all">
-        <!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>-->
-        <script type="text/javascript" src="jquery-latest.js"></script>
+        <style>
+            th.header {
+                background-image: url(../img/bg.gif);
+                cursor: pointer;
+                font-weight: bold;
+                background-repeat: no-repeat;
+                background-position: center right;
+                padding-right: 20px;
+                border: 1px solid #dad9c7;
+                margin-left: -1px;
+            }
+            th.headerSortUp {
+                background-image: url(../img/asc.gif);
+            }
+            th.headerSortDown {
+                background-image: url(../img/desc.gif);
+            }
+            table {
+                margin: 10px 0px 10px 0px;
+            }
+            th {
+                background-color: #ede4cf;
+                text-align: center;
+            }
+            td{
+                border: 1px solid #dad9c7;
+            }
+        </style>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <script type="text/javascript" src="jquery.tablesorter.min.js"></script>
         <!--[if lt IE 9]>
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -16,7 +43,7 @@
         <script type="text/javascript">
             $(document).ready(function()
                 {
-                    $("#top10-table").tablesorter();
+                    $("#top10-table").tablesorter( {widthFixed: true, headers: { 0: { sorter: false}}});
                     $("#top10-table").bind("sortEnd",function() {
                         var i = 1;
                         $("#top10-table").find("tr:gt(0)").each(function(){
@@ -112,10 +139,10 @@
 
                 <div id="competition-tabs">
                     <div class="inactive-tab">
-                        <a href="../pravidla-souteze/index.html">Pravidla soutěže</a>
+                        <a href="/pravidla-souteze/index.html">Pravidla soutěže</a>
                     </div>
                     <div class="active-tab">
-                        <a href="../vysledky-souteze/">Výsledky soutěže</a>
+                        <a href="/vysledky-souteze/">Výsledky soutěže</a>
                     </div>
                 </div>
 
@@ -174,8 +201,8 @@ Protože příští rok připravujeme spuštění druhé velké vlny umisťován
                     <a href="javascript:showTop100()">Zobrazit 100 nejlepších.</a>
                     </div>
 
-                    <div id="top100-table-div" style="display:none; height:0px;">
-                    Prvních 10 nejaktivnějších uživatelů s počtem umístěných bodů a zpracovaných map:
+                    <div id="top100-table-div" style="visibility:hidden; height:0px;">
+                    Prvních 100 nejaktivnějších uživatelů s počtem umístěných bodů a zpracovaných map:
                     <table id="top100-table" class="tablesorter">
                         <thead>
                         <tr>
