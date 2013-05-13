@@ -15,7 +15,6 @@
                 background-repeat: no-repeat;
                 background-position: center right;
                 padding-right: 20px;
-                border: 1px solid #dad9c7;
                 margin-left: -1px;
             }
             th.headerSortUp {
@@ -25,14 +24,27 @@
                 background-image: url(../img/desc.gif);
             }
             table {
-                margin: 10px 0px 10px 0px;
+                margin-top: 10px;
+                margin-bottom: 10px;
+                margin-left: auto;
+                margin-right: auto;
             }
             th {
+                border: 1px solid #dad9c7;
                 background-color: #ede4cf;
+                padding: 5px;
+            }
+            td {
+                border: 1px solid #dad9c7;
+                padding: 5px;
+            }
+            #top10-table-div{
+                color: #545454;
                 text-align: center;
             }
-            td{
-                border: 1px solid #dad9c7;
+            #top100-table-div{
+                color: #545454;
+                text-align: center;
             }
         </style>
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
@@ -43,7 +55,7 @@
         <script type="text/javascript">
             $(document).ready(function()
                 {
-                    $("#top10-table").tablesorter({widthFixed: true, headers: { 0: { sorter: false}}});
+                    $("#top10-table").tablesorter({headers: { 0: { sorter: false}}});
                     $("#top10-table").bind("sortEnd",function() {
                         var i = 1;
                         $("#top10-table").find("tr:gt(0)").each(function(){
@@ -52,7 +64,7 @@
                         });
                     });
 
-                    $("#top100-table").tablesorter({widthFixed: true, headers: { 0: { sorter: false}}});
+                    $("#top100-table").tablesorter({headers: { 0: { sorter: false}}});
                     $("#top100-table").bind("sortEnd",function() {
                         var i = 1;
                         $("#top100-table").find("tr:gt(0)").each(function(){
@@ -149,15 +161,16 @@
 
                 <h1>Výsledky soutěže</h1>
                 
-                <div id="main">                    
+                <div id="main">
+                    <p>
                     Vážení přátelé,<br/>
                     <br/>
-rádi bychom Vám poděkovali za Vaši účast v projektu StaréMapy.cz! V rekordním čase se podařilo umístit mimořádně velké množství naskenovaných map. V rychlosti zpracování map se Vám podařilo předčit podobné projekty v zahraničí, např. v British Library! Vaší pomoci si opravdu vysoce ceníme, velmi mile jste nás překvapili. Protože ještě zbývá zpracovat téměř 1000 map, rozhodli jsme se projekt neukončovat a průběžně budeme doplňovat mapy tak, abyste nemuseli po dokončení současné dávky dlouho čekat na další mapy.<br/>
-                    <br/>
-Protože příští rok připravujeme spuštění druhé velké vlny umisťování starých map, rádi bychom od Vás získali Vaše připomínky a doporučení. Plánujeme totiž nejen nabídnout novou dávku digitalizovaných map, ale provést také několik změn v používaném softwaru Georeferencer. Řada potřebných úprav je již v přípravě (kvalitnější výběr map pro zpracování, možnost vytvářet knihovny map zpracovaných konkrétním uživatelem, možnost pootočit starou mapu), rádi bychom ale znali i Vaše postřehy a nápady získané při umisťování map. Jestli si najdete pár minut času, budeme rádi když nám odpovíte na 5 krátkých otázek v dotazníku, který najdete <a href="https://docs.google.com/spreadsheet/viewform?formkey=dHhkSldMU2c1akgyN1VRVk92dThSZ3c6MQ" target="_blank">zde</a>.<br/>
-                    <br/>
-                     <b>Nejvíce bodů umístil a soutěž tedy vyhrál uživatel risoft, který umístil spolu 20000 kontrolních bodů na 660 různých map. Gratulujeme!</b><br/>
-                    <br/>
+rádi bychom Vám poděkovali za Vaši účast v projektu StaréMapy.cz! V rekordním čase se podařilo umístit mimořádně velké množství naskenovaných map. V rychlosti zpracování map se Vám podařilo předčit podobné projekty v zahraničí. Vaší pomoci si opravdu vysoce ceníme, velmi mile jste nás překvapili. Protože ještě zbývá zpracovat téměř 1000 map, rozhodli jsme se projekt neukončovat a průběžně budeme doplňovat mapy tak, abyste nemuseli po dokončení současné dávky dlouho čekat na další mapy.
+                    </p>
+                    <p>
+Protože příští rok připravujeme spuštění druhé velké vlny umisťování starých map, rádi bychom od Vás získali Vaše připomínky a doporučení. Plánujeme totiž nejen nabídnout novou dávku digitalizovaných map, ale provést také několik změn v používaném softwaru Georeferencer. Řada potřebných úprav je již v přípravě (kvalitnější výběr map pro zpracování, možnost vytvářet knihovny map zpracovaných konkrétním uživatelem, možnost pootočit starou mapu), rádi bychom ale znali i Vaše postřehy a nápady získané při umisťování map. Jestli si najdete pár minut času, budeme rádi když nám odpovíte na 5 krátkých otázek v dotazníku, který najdete <a href="https://docs.google.com/spreadsheet/viewform?formkey=dHhkSldMU2c1akgyN1VRVk92dThSZ3c6MQ" target="_blank">zde</a>.</p>
+
+                    <p><b>Nejvíce bodů umístil a soutěž tedy vyhrál uživatel risoft, který umístil spolu 20000 kontrolních bodů na 660 různých map. Gratulujeme!</b></p>
                     <div id="top10-table-div">
                     Prvních 10 nejaktivnějších uživatelů s počtem umístěných bodů a zpracovaných map:
                     <table id="top10-table" class="tablesorter">
