@@ -83,16 +83,6 @@
                     document.getElementById('top10-table-div').style.height = '0px';
                     document.getElementById('top100-table-div').style.height = 'auto';
                 }
-                else {
-                    if (document.layers) { // Netscape 4
-                        document.top10-table-div.visibility = 'hidden';
-                        document.top100-table-div.visibility = 'visible';
-                    }
-                    else { // IE 4
-                        document.all.top10-table-div.style.visibility = 'hidden';
-                        document.all.top100-table-div.style.visibility = 'visible';
-                    }
-                }
             }
 
             function showTop10() {
@@ -102,16 +92,6 @@
                     document.getElementById('top100-table-div').style.visibility = 'hidden';
                     document.getElementById('top10-table-div').style.height = 'auto';
                     document.getElementById('top100-table-div').style.height = '0px';
-                }
-                else {
-                    if (document.layers) { // Netscape 4
-                        document.top10-table-div.visibility = 'visible';
-                        document.top100-table-div.visibility = 'hidden';
-                    }
-                    else { // IE 4
-                        document.all.top10-table-div.style.visibility = 'visible';
-                        document.all.top100-table-div.style.visibility = 'hidden';
-                    }
                 }
             }
         </script>
