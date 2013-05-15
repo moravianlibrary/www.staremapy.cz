@@ -78,8 +78,8 @@
         <script type="text/javascript">
         function showTop100() {
                 if (document.getElementById) { // DOM3 = IE5, NS6
-                    document.getElementById('top10-table-div').style.visibility = 'hidden';
-                    document.getElementById('top100-table-div').style.visibility = 'visible';
+                    document.getElementById('top10-table-div').style.display = 'none';
+                    document.getElementById('top100-table-div').style.display = 'block';
                     document.getElementById('top10-table-div').style.height = '0px';
                     document.getElementById('top100-table-div').style.height = 'auto';
                 }
@@ -88,8 +88,8 @@
             function showTop10() {
                 window.scrollTo(0, 0);
                 if (document.getElementById) { // DOM3 = IE5, NS6
-                    document.getElementById('top10-table-div').style.visibility = 'visible';
-                    document.getElementById('top100-table-div').style.visibility = 'hidden';
+                    document.getElementById('top10-table-div').style.display = 'block';
+                    document.getElementById('top100-table-div').style.display = 'none';
                     document.getElementById('top10-table-div').style.height = 'auto';
                     document.getElementById('top100-table-div').style.height = '0px';
                 }
@@ -196,7 +196,7 @@ Protože příští rok připravujeme spuštění druhé velké vlny umisťován
                     <a href="javascript:showTop100()">Zobrazit 100 nejlepších.</a>
                     </div>
 
-                    <div id="top100-table-div" style="visibility:hidden; height:0px;">
+                    <div id="top100-table-div" style="display:none; height:0px;">
                     Prvních 100 nejaktivnějších uživatelů s počtem umístěných bodů a zpracovaných map:
                     <table id="top100-table" class="tablesorter">
                         <thead>
