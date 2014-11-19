@@ -7,20 +7,20 @@
         <meta name="keywords" content="">
         <meta name="author" content="">
         <link rel="stylesheet" href="../css/main.css" media="all">
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>        
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <!--[if lt IE 9]>
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
     </head>
-    <body>                                
+    <body>
 
         <div id="page">
 
             <header>
-                <div id="header">                   
+                <div id="header">
 
                     <a href="http://www.staremapy.cz/" title="Staré mapy" id="logo">Staré mapy</a>
-                    
+
                     <hr>
 
                     <nav>
@@ -39,32 +39,32 @@
 
                         </div> <!-- / #navigation -->
                     </nav>
-                   
+
                 </div> <!-- / #header -->
             </header>
-        
-            <hr>        
+
+            <hr>
 
             <div id="content" class="subpage">
-            
+
             <h1>Již zpracované mapy</h1>
                 <div class="recent-maps" style="-webkit-overflow-scrolling:touch; overflow: hidden;">
                     <iframe width="860" height="150" frameBorder="0" marginheight="0" marginwidth="0" src="recent-maps.html?sql=SELECT+id,date_time,title,thumbnail,collection+FROM+1gpUBes9cpOkH3h-fNyS_4dnuLelIY-bSuWdNfqw+WHERE+status+=+'georeferenced'+ORDER+BY+date_time+DESC"></iframe>
                 </div>
             	<div class="google-map">
                     <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/fusiontables/embedviz?viz=MAP&amp;q=select+col7+from+1gpUBes9cpOkH3h-fNyS_4dnuLelIY-bSuWdNfqw&amp;h=false&amp;lat=49.46882995503961&amp;lng=14.668144835937493&amp;z=6&amp;t=1&amp;l=col7&amp;y=3&amp;tmplt=3"></iframe>
-                	<div class="google-map-popis">   
-                   		Označení místa již zpracovaných map (Pro vyhledávání zpracovaných map použijte <a href="http://www.oldmapsonline.org/">OldMapsOnline.org</a>)            
+                	<div class="google-map-popis">
+                   		Označení místa již zpracovaných map (Pro vyhledávání zpracovaných map použijte <a href="http://www.oldmapsonline.org/">OldMapsOnline.org</a>)
             		</div>
-                </div>    
-                
-                        
+                </div>
 
-                
-                <div id="main">                    
+
+
+
+                <div id="main">
 
                     <h2>Zatím nejvíce přispěli</h2>
-                    
+
             	<div class="table-contributors">
                 <div class="top-contrib-table">
                     <iframe width="100%" height="100%" scrolling="no" frameborder="no" src="topcontrib.html?tid=1_uRktLvvt2dG34WBfBEZ5cedz5dAW-rosXXXd1o"></iframe>
@@ -72,54 +72,54 @@
                 <div class="top-contrib-chart">
                     <iframe style="background-color:transparent; margin-top:-50px;" width="100%" height="140%" scrolling="no" frameborder="no" src="charts.html?sql=select%20col3,%20SUM(col2)%20from%201_uRktLvvt2dG34WBfBEZ5cedz5dAW-rosXXXd1o%20group%20by%20col3%20order%20by%20SUM(col2)%20desc"></iframe>
                 </div>
-                </div>   
-                
+                </div>
+
                     <h2>Zbývající mapy</h2>
             	<div class="statusbar">
            			<iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="progressbar.html?sql=SELECT+status,count()+FROM+1gpUBes9cpOkH3h-fNyS_4dnuLelIY-bSuWdNfqw+GROUP+BY+status"></iframe>
             	</div>
-                
+
                 <div class="zpracovat-mapu">
                 	<a href="http://staremapy.georeferencer.cz/random"><img src="/img/button-zpracovat-mapu.png" alt="Zpracovat mapu"></a>
-                </div>                
-                
-                
-                
-                
+                </div>
+
+
+
+
                     <h2>Využití a cíl projektu</h2>
-                    <p>Běžní uživatelé internetu mohou pomocí několika málo kliknutí vytvořit přitažlivou 3D vizualizaci starých map v Google Earth a sami překládat mapy přes současné satelitní snímky a porovnat proměny území v čase. Díky spolupráci s dobrovolníky bude možné využít výsledky tohoto projektu i pro další výzkum a zavést vizuální vyhledávání v mapových sbírkách. V budoucnu nebudete muset znát ani přesný název ani jméno autora hledané mapy, postačí jen označit území, případně zpřesnit dotaz údajem na časové ose. Získaná data umožní zapojení zpracovaných map do mezinárodních vyhledávacích databází jako je například <a href="http://www.oldmapsonline.org/">OldMapsOnline.org</a>.</p>  
-                    
-                    <p><a href="/projekt/">Více informací najdete zde.</a>.</p>     
-                    
-					<p>Pokud máte dotazy k tomuto projektu nebo ke konkrétním mapám, pošlete email Moravské zemské knihovně, která web spravuje (mapy@mzk.cz). Pro spojení s ostatními uživateli této technologie a pro účast na diskuzích se připojte na facebookovou stránku: <a href="http://www.facebook.com/staremapy.cz">http://www.facebook.com/staremapy.cz.</a></p>                                 
-                
+                    <p>Běžní uživatelé internetu mohou pomocí několika málo kliknutí vytvořit přitažlivou 3D vizualizaci starých map v Google Earth a sami překládat mapy přes současné satelitní snímky a porovnat proměny území v čase. Díky spolupráci s dobrovolníky bude možné využít výsledky tohoto projektu i pro další výzkum a zavést vizuální vyhledávání v mapových sbírkách. V budoucnu nebudete muset znát ani přesný název ani jméno autora hledané mapy, postačí jen označit území, případně zpřesnit dotaz údajem na časové ose. Získaná data umožní zapojení zpracovaných map do mezinárodních vyhledávacích databází jako je například <a href="http://www.oldmapsonline.org/">OldMapsOnline.org</a>.</p>
+
+                    <p><a href="/projekt/">Více informací najdete zde.</a>.</p>
+
+					<p>Pokud máte dotazy k tomuto projektu nebo ke konkrétním mapám, pošlete email Moravské zemské knihovně, která web spravuje (mapy@mzk.cz). Pro spojení s ostatními uživateli této technologie a pro účast na diskuzích se připojte na facebookovou stránku: <a href="http://www.facebook.com/staremapy.cz">http://www.facebook.com/staremapy.cz.</a></p>
+
 
                 </div><!-- / #main -->
 
                 <aside>
                     <div id="aside-right">
-                        
-                        
+
+
                         <h3>Najdete nás na</h3>
                         <div class="banner-right" style="margin-bottom:10px;"><a href="http://www.facebook.com/staremapy.cz"><img src="/img/staremapy-facebook.png" alt="StaréMapy.cz na Facebook"></a></div>
-                                <p style="margin-bottom:10px;">Pro spojení s ostatními uživateli této technologie a pro účast na diskuzích se připojte na facebook:</p><p><a href="http://www.facebook.com/staremapy.cz">www.facebook.com/staremapy.cz</a></p>  
-                                                      
+                                <p style="margin-bottom:10px;">Pro spojení s ostatními uživateli této technologie a pro účast na diskuzích se připojte na facebook:</p><p><a href="http://www.facebook.com/staremapy.cz">www.facebook.com/staremapy.cz</a></p>
+
                         <div class="social-icons-right">
                             <iframe width="100%" height="50px" scrolling="no" frameborder="no" src="../socials.html"></iframe>
                         </div>
-                        
-                        <div class="banner-right" style="margin-top:20px;"><a href="/pravidla-souteze/"><img src="/img/staremapy-banner-soutez.png" alt="Soutěž StaréMapy.cz"></a></div>
-                    </div> <!-- / .aside-right -->  
-                </aside>           
+
+                        <!--div class="banner-right" style="margin-top:20px;"><a href="/pravidla-souteze/"><img src="/img/staremapy-banner-soutez.png" alt="Soutěž StaréMapy.cz"></a></div-->
+                    </div> <!-- / .aside-right -->
+                </aside>
 
             </div> <!-- / #content -->
 
 
             <footer>
                 <div id="footer">
-                        
+
                     <p class="companies">
-                    
+
                         <a href="http://www.mzk.cz/"><img src="/img/loga/georeferencer-logo-mzk.png" alt="Moravská zemská knihovna"></a>
                         <a href="http://www.cuni.cz/"><img src="/img/loga/georeferencer-logo-cuni.png" alt="Univerzita Karlova v Praze"></a>
                         <a href="http://www.muni.cz/"><img src="/img/loga/georeferencer-logo-mu.png" alt="Masarykova univerzita"></a>
@@ -173,7 +173,7 @@
                         	Projekt <a href="http://www.staremapy.cz/" title="Staré a historické mapy Čech, Moravy a Slezska">Staré Mapy</a> založil <a href="http://www.klokantech.com/">Klokan Petr Přidal</a>
                         </p>
                         <p class="column-left">
-				<a href="http://www.radimkacer.com/">Design Radim Kacer</a> 
+				<a href="http://www.radimkacer.com/">Design Radim Kacer</a>
                         </p>
                         <p style="display:none">
                         	Reklama: <a href="http://www.scootland.cz/">Scootland - </a><a href="http://www.scootland.cz/skutry/">skútry, </a><a href="http://www.scootland.cz/scooter-tuning-jaknato/">scooter tuning, </a><a href="http://www.scootland.cz/eshop/">náhradní díly</a>
@@ -192,7 +192,7 @@
             </footer>
 
         </div> <!-- / #page -->
-        
+
         <!-- Analytics -->
         <script type="text/javascript">
             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
