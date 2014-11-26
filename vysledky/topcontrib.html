@@ -42,13 +42,26 @@
 	  else return results[1];
 	}
 
+	function dateToStr(d) {
+		return d.getFullYear() + "-" + (d.getMonth()+1) + "-" + d.getDate() + ' '+ d.getHours() + ':' + d.getMinutes() + ':' + d.getSeconds();
+	}
+
 	function changeData(period) {
-	  var whereClause = "date_time > '2014-11-26 00:00'";
+		var startDate;
+		if (gup('date')) {
+			startDate = new Date(decodeURIComponent(gup('date')));
+		} else {
+			startDate = new Date('2000-01-01 00:00');
+		}
+
+	  var whereClause = "date_time > '" + dateToStr(startDate) + "'";
 	  if(period) {
 	    var now = new Date();
 	    var d = new Date(now - period);
-		var datum =  d.getFullYear() + "-" + (d.getMonth()+1) + "-" + d.getDate() + ' '+ d.getHours() + ':' + d.getMinutes() + ':' + d.getSeconds();
-		// console.log(datum);
+			if (d < startDate) {
+				d = startDate;
+			}
+		var datum = dateToStr(d);
 	    whereClause =  "date_time > '" + datum + "'";
 	  }
 	  var tableid = gup('tid'); // 1957455
