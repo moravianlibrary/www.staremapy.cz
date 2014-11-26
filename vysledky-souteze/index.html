@@ -5,106 +5,22 @@
         <title>Staré mapy</title>
         <meta name="description" content="">
         <meta name="keywords" content="">
-        <meta name="author" content="">     
+        <meta name="author" content="">
         <link rel="stylesheet" href="/css/main.css" media="all">
-        <style>
-            th.header {
-                background-image: url(../img/bg.gif);
-                cursor: pointer;
-                font-weight: bold;
-                background-repeat: no-repeat;
-                background-position: center right;
-                padding-right: 20px;
-                margin-left: -1px;
-            }
-            th.headerSortUp {
-                background-image: url(../img/asc.gif);
-            }
-            th.headerSortDown {
-                background-image: url(../img/desc.gif);
-            }
-            table {
-                margin-top: 10px;
-                margin-bottom: 10px;
-                margin-left: auto;
-                margin-right: auto;
-            }
-            th {
-                border: 1px solid #dad9c7;
-                background-color: #ede4cf;
-                padding: 5px;
-            }
-            td {
-                border: 1px solid #dad9c7;
-                padding: 5px;
-            }
-            #top10-table-div{
-                color: #545454;
-                text-align: center;
-            }
-            #top100-table-div{
-                color: #545454;
-                text-align: center;
-            }
-        </style>
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-        <script type="text/javascript" src="jquery.tablesorter.min.js"></script>
         <!--[if lt IE 9]>
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
-        <script type="text/javascript">
-            $(document).ready(function()
-                {
-                    $("#top10-table").tablesorter({headers: { 0: { sorter: false}}});
-                    $("#top10-table").bind("sortEnd",function() {
-                        var i = 1;
-                        $("#top10-table").find("tr:gt(0)").each(function(){
-                            $(this).find("td:eq(0)").text(i);
-                            i++;
-                        });
-                    });
-
-                    $("#top100-table").tablesorter({headers: { 0: { sorter: false}}});
-                    $("#top100-table").bind("sortEnd",function() {
-                        var i = 1;
-                        $("#top100-table").find("tr:gt(0)").each(function(){
-                            $(this).find("td:eq(0)").text(i);
-                            i++;
-                        });
-                    });
-                }
-            );
-        </script>
-        <script type="text/javascript">
-        function showTop100() {
-                if (document.getElementById) { // DOM3 = IE5, NS6
-                    document.getElementById('top10-table-div').style.display = 'none';
-                    document.getElementById('top100-table-div').style.display = 'block';
-                    document.getElementById('top10-table-div').style.height = '0px';
-                    document.getElementById('top100-table-div').style.height = 'auto';
-                }
-            }
-
-            function showTop10() {
-                window.scrollTo(0, 0);
-                if (document.getElementById) { // DOM3 = IE5, NS6
-                    document.getElementById('top10-table-div').style.display = 'block';
-                    document.getElementById('top100-table-div').style.display = 'none';
-                    document.getElementById('top10-table-div').style.height = 'auto';
-                    document.getElementById('top100-table-div').style.height = '0px';
-                }
-            }
-        </script>
     </head>
-    <body>                                
+    <body>
 
         <div id="page">
 
             <header>
-                <div id="header">                   
+                <div id="header">
 
                     <a href="http://www.staremapy.cz/" title="Staré mapy" id="logo">Staré mapy</a>
-                    
+
                     <hr>
 
                     <nav>
@@ -123,414 +39,83 @@
 
                         </div> <!-- / #navigation -->
                     </nav>
-                   
+
                 </div> <!-- / #header -->
             </header>
-        
-            <hr>        
+
+            <hr>
 
             <div id="content" class="subpage">
 
-                <div id="competition-tabs">
-                    <div class="inactive-tab">
-                        <a href="/pravidla-souteze/">Pravidla soutěže</a>
-                    </div>
-                    <div class="active-tab">
-                        <a href="/vysledky-souteze/">Výsledky soutěže</a>
-                    </div>
-                </div>
+                <h1>Pravidla soutěže</h1>
 
-                <h1>Výsledky soutěže</h1>
-                
                 <div id="main">
-                    <p>
-                    Vážení přátelé,<br/>
-                    <br/>
-rádi bychom Vám poděkovali za Vaši účast v projektu StaréMapy.cz! V rekordním čase se podařilo umístit mimořádně velké množství naskenovaných map. V rychlosti zpracování map se Vám podařilo předčit podobné projekty v zahraničí. Vaší pomoci si opravdu vysoce ceníme, velmi mile jste nás překvapili. Protože ještě zbývá zpracovat téměř 1000 map, rozhodli jsme se projekt neukončovat a průběžně budeme doplňovat mapy tak, abyste nemuseli po dokončení současné dávky dlouho čekat na další mapy.
-                    </p>
-                    <p>
-Protože příští rok připravujeme spuštění druhé velké vlny umisťování starých map, rádi bychom od Vás získali Vaše připomínky a doporučení. Plánujeme totiž nejen nabídnout novou dávku digitalizovaných map, ale provést také několik změn v používaném softwaru Georeferencer. Řada potřebných úprav je již v přípravě (kvalitnější výběr map pro zpracování, možnost vytvářet knihovny map zpracovaných konkrétním uživatelem, možnost pootočit starou mapu), rádi bychom ale znali i Vaše postřehy a nápady získané při umisťování map. Jestli si najdete pár minut času, budeme rádi když nám odpovíte na 5 krátkých otázek v dotazníku, který najdete <a href="https://docs.google.com/spreadsheet/viewform?formkey=dHhkSldMU2c1akgyN1VRVk92dThSZ3c6MQ" target="_blank">zde</a>.</p>
 
-                    <p><b>Nejvíce bodů umístil a soutěž tedy vyhrál uživatel risoft, který umístil spolu 20000 kontrolních bodů na 660 různých map. Gratulujeme!</b></p>
-                    <div id="top10-table-div">
-                    Prvních 10 nejaktivnějších uživatelů s počtem umístěných bodů a zpracovaných map:
-                    <table id="top10-table" class="tablesorter">
-                        <thead>
-                        <tr>
-                            <th></th><th>Jméno</th><th>Počet bodů</th><th>Počet map</th>
-                        </tr>
-                        </thead>
-                        <tbody>
-                        <tr>
-                            <td>1</td><td>risoft</td><td>20000</td><td>660</td>
-                        </tr>
-                        <tr>
-                            <td>2</td><td>Janátor</td><td>15896</td><td>258</td>
-                        </tr>
-                        <tr>
-                            <td>3</td><td>Miki Hamza</td><td>13126</td><td>113</td>
-                        </tr>
-                        <tr>
-                            <td>4</td><td>dedeon</td><td>10440</td><td>181</td>
-                        </tr>
-                        <tr>
-                            <td>5</td><td>Marta Ryšavá</td><td>8268</td><td>126</td>
-                        </tr>
-                        <tr>
-                            <td>6</td><td>Jan Masak</td><td>7995</td><td>244</td>
-                        </tr>
-                        <tr>
-                            <td>7</td><td>jirásková</td><td>5575</td><td>99</td>
-                        </tr>
-                        <tr>
-                            <td>8</td><td>Petr Kinšt</td><td>4424</td><td>109</td>
-                        </tr>
-                        <tr>
-                            <td>9</td><td>Marta Kloučková</td><td>4037</td><td>164</td>
-                        </tr>
-                        <tr>
-                            <td>10</td><td>snail</td><td>3699</td><td>40</td>
-                        </tr>
-                        </tbody>
-                    </table>
-                    <a href="javascript:showTop100()">Zobrazit 100 nejlepších.</a>
-                    </div>
+                    <p>Soutěže o cenu se mohou zúčastnit pouze osoby registrované na webu <a href="http://www.staremapy.cz/" title="StaréMapy.cz">StaréMapy.cz</a>. V rámci registrace si zvolte uživatelské jméno, heslo a uveďte svůj e-mail, abychom vás mohli v případě výhry kontaktovat. Přihlašovací údaje budete moci využívat nejen ke umisťování starých map, ale budete moci také vylepšovat své pořadí v žebříčku nejaktivnějších hráčů.</p>
 
-                    <div id="top100-table-div" style="display:none; height:0px;">
-                    Prvních 100 nejaktivnějších uživatelů s počtem umístěných bodů a zpracovaných map:
-                    <table id="top100-table" class="tablesorter">
-                        <thead>
-                        <tr>
-                            <th></th><th>Jméno</th><th>Počet bodů</th><th>Počet map</th>
-                        </tr>
-                        </thead>
-                        <tbody>
-                        <tr>
-                            <td>1</td><td>risoft</td><td>20000</td><td>660</td>
-                        </tr>
-                        <tr>
-                            <td>2</td><td>Janátor</td><td>15896</td><td>258</td>
-                        </tr>
-                        <tr>
-                            <td>3</td><td>Miki Hamza</td><td>13126</td><td>113</td>
-                        </tr>
-                        <tr>
-                            <td>4</td><td>dedeon</td><td>10440</td><td>181</td>
-                        </tr>
-                        <tr>
-                            <td>5</td><td>Marta Ryšavá</td><td>8268</td><td>126</td>
-                        </tr>
-                        <tr>
-                            <td>6</td><td>Jan Masak</td><td>7995</td><td>244</td>
-                        </tr>
-                        <tr>
-                            <td>7</td><td>jirásková</td><td>5575</td><td>99</td>
-                        </tr>
-                        <tr>
-                            <td>8</td><td>Petr Kinšt</td><td>4424</td><td>109</td>
-                        </tr>
-                        <tr>
-                            <td>9</td><td>Marta Kloučková</td><td>4037</td><td>164</td>
-                        </tr>
-                        <tr>
-                            <td>10</td><td>snail</td><td>3699</td><td>40</td>
-                        </tr>
-                        <tr>
-                            <td>11</td><td>Ladislav Kosour</td><td>3353</td><td>122</td>
-                        </tr>
-                        <tr>
-                            <td>12</td><td>jandrs</td><td>2613</td><td>89</td>
-                        </tr>
-                        <tr>
-                            <td>13</td><td>Anča Jančová</td><td>2377</td><td>136</td>
-                        </tr>
-                        <tr>
-                            <td>14</td><td>kutilšlapanice</td><td>2340</td><td>192</td>
-                        </tr>
-                        <tr>
-                            <td>15</td><td>Milan Štěpánek</td><td>1995</td><td>80</td>
-                        </tr>
-                        <tr>
-                            <td>16</td><td>Aleš Král</td><td>1873</td><td>46</td>
-                        </tr>
-                        <tr>
-                            <td>17</td><td>Jannep</td><td>1502</td><td>32</td>
-                        </tr>
-                        <tr>
-                            <td>18</td><td>Daniel Spáčil</td><td>1404</td><td>89</td>
-                        </tr>
-                        <tr>
-                            <td>19</td><td>JanCap</td><td>1385</td><td>92</td>
-                        </tr>
-                        <tr>
-                            <td>20</td><td>Adam Hauner</td><td>1378</td><td>48</td>
-                        </tr>
-                        <tr>
-                            <td>21</td><td>LoskotJ</td><td>1369</td><td>36</td>
-                        </tr>
-                        <tr>
-                            <td>22</td><td>zdaratom</td><td>1331</td><td>82</td>
-                        </tr>
-                        <tr>
-                            <td>23</td><td>Tomas Slavkovsky</td><td>1266</td><td>31</td>
-                        </tr>
-                        <tr>
-                            <td>24</td><td>piatak</td><td>1216</td><td>104</td>
-                        </tr>
-                        <tr>
-                            <td>25</td><td>Drx001</td><td>1210</td><td>27</td>
-                        </tr>
-                        <tr>
-                            <td>26</td><td>Vladimír Slávik</td><td>1173</td><td>23</td>
-                        </tr>
-                        <tr>
-                            <td>27</td><td>Vladimír Volný</td><td>1145</td><td>135</td>
-                        </tr>
-                        <tr>
-                            <td>28</td><td>pavel.hanacek</td><td>1008</td><td>85</td>
-                        </tr>
-                        <tr>
-                            <td>29</td><td>Martin Steinhauser</td><td>993</td><td>42</td>
-                        </tr>
-                        <tr>
-                            <td>30</td><td>Filip Dvořák</td><td>887</td><td>62</td>
-                        </tr>
-                        <tr>
-                            <td>31</td><td>PetrK</td><td>873</td><td>28</td>
-                        </tr>
-                        <tr>
-                            <td>32</td><td>Pavla Švástová</td><td>827</td><td>20</td>
-                        </tr>
-                        <tr>
-                            <td>33</td><td>jirduf</td><td>762</td><td>67</td>
-                        </tr>
-                        <tr>
-                            <td>34</td><td>Kojupa</td><td>757</td><td>3</td>
-                        </tr>
-                        <tr>
-                            <td>35</td><td>David Horák</td><td>740</td><td>31</td>
-                        </tr>
-                        <tr>
-                            <td>36</td><td>Martin Šálek</td><td>723</td><td>19</td>
-                        </tr>
-                        <tr>
-                            <td>37</td><td>Cvrcek</td><td>687</td><td>51</td>
-                        </tr>
-                        <tr>
-                            <td>38</td><td>Jan Kolář</td><td>682</td><td>18</td>
-                        </tr>
-                        <tr>
-                            <td>39</td><td>fanča</td><td>672</td><td>8</td>
-                        </tr>
-                        <tr>
-                            <td>40</td><td>limojoe</td><td>604</td><td>81</td>
-                        </tr>
-                        <tr>
-                            <td>41</td><td>Jaroslav Mrázek</td><td>578</td><td>16</td>
-                        </tr>
-                        <tr>
-                            <td>42</td><td>Vilda Blažek</td><td>574</td><td>45</td>
-                        </tr>
-                        <tr>
-                            <td>43</td><td>Jan Mánek</td><td>514</td><td>83</td>
-                        </tr>
-                        <tr>
-                            <td>44</td><td>mycroft</td><td>510</td><td>28</td>
-                        </tr>
-                        <tr>
-                            <td>45</td><td>trololog</td><td>488</td><td>9</td>
-                        </tr>
-                        <tr>
-                            <td>46</td><td>kraak</td><td>464</td><td>62</td>
-                        </tr>
-                        <tr>
-                            <td>47</td><td>Tomáš</td><td>445</td><td>15</td>
-                        </tr>
-                        <tr>
-                            <td>48</td><td>Jan Málek</td><td>435</td><td>26</td>
-                        </tr>
-                        <tr>
-                            <td>49</td><td>Jaroslav Lehečka</td><td>424</td><td>38</td>
-                        </tr>
-                        <tr>
-                            <td>50</td><td>kampj</td><td>421</td><td>34</td>
-                        </tr>
-                        <tr>
-                            <td>51</td><td>Pavel</td><td>413</td><td>30</td>
-                        </tr>
-                        <tr>
-                            <td>52</td><td>Tonda</td><td>405</td><td>40</td>
-                        </tr>
-                        <tr>
-                            <td>53</td><td>Václav Zeman</td><td>396</td><td>19</td>
-                        </tr>
-                        <tr>
-                            <td>54</td><td>Martin Palát</td><td>358</td><td>38</td>
-                        </tr>
-                        <tr>
-                            <td>55</td><td>petrt</td><td>357</td><td>11</td>
-                        </tr>
-                        <tr>
-                            <td>56</td><td>mandlova</td><td>354</td><td>12</td>
-                        </tr>
-                        <tr>
-                            <td>57</td><td>oldmaps</td><td>346</td><td>40</td>
-                        </tr>
-                        <tr>
-                            <td>58</td><td>Jiří Zýka</td><td>344</td><td>39</td>
-                        </tr>
-                        <tr>
-                            <td>59</td><td>David</td><td>326</td><td>18</td>
-                        </tr>
-                        <tr>
-                            <td>60</td><td>lukipuk</td><td>326</td><td>20</td>
-                        </tr>
-                        <tr>
-                            <td>61</td><td>Tomas</td><td>316</td><td>21</td>
-                        </tr>
-                        <tr>
-                            <td>62</td><td>Jan Tyle</td><td>312</td><td>13</td>
-                        </tr>
-                        <tr>
-                            <td>63</td><td>Kimac</td><td>300</td><td>7</td>
-                        </tr>
-                        <tr>
-                            <td>64</td><td>Mark</td><td>300</td><td>24</td>
-                        </tr>
-                        <tr>
-                            <td>65</td><td>Martin</td><td>298</td><td>20</td>
-                        </tr>
-                        <tr>
-                            <td>66</td><td>LovecAnimuk</td><td>291</td><td>9</td>
-                        </tr>
-                        <tr>
-                            <td>67</td><td>Olexa</td><td>290</td><td>6</td>
-                        </tr>
-                        <tr>
-                            <td>68</td><td>Vladimír Vojta</td><td>283</td><td>29</td>
-                        </tr>
-                        <tr>
-                            <td>69</td><td>kelum</td><td>283</td><td>23</td>
-                        </tr>
-                        <tr>
-                            <td>70</td><td>medlinka</td><td>281</td><td>37</td>
-                        </tr>
-                        <tr>
-                            <td>71</td><td>Tomáš Kroupa</td><td>276</td><td>17</td>
-                        </tr>
-                        <tr>
-                            <td>72</td><td>mencovo</td><td>274</td><td>25</td>
-                        </tr>
-                        <tr>
-                            <td>73</td><td>Pavel Jaworek</td><td>262</td><td>12</td>
-                        </tr>
-                        <tr>
-                            <td>74</td><td>Pavel Černík</td><td>262</td><td>2</td>
-                        </tr>
-                        <tr>
-                            <td>75</td><td>Jakub Plešinger</td><td>260</td><td>29</td>
-                        </tr>
-                        <tr>
-                            <td>76</td><td>Petr Dresler</td><td>260</td><td>16</td>
-                        </tr>
-                        <tr>
-                            <td>77</td><td>David Kopal</td><td>248</td><td>3</td>
-                        </tr>
-                        <tr>
-                            <td>78</td><td>Mištu</td><td>247</td><td>4</td>
-                        </tr>
-                        <tr>
-                            <td>79</td><td>honz@</td><td>244</td><td>16</td>
-                        </tr>
-                        <tr>
-                            <td>80</td><td>Malik</td><td>239</td><td>5</td>
-                        </tr>
-                        <tr>
-                            <td>81</td><td>Vojtěch Nosek</td><td>238</td><td>9</td>
-                        </tr>
-                        <tr>
-                            <td>82</td><td>K4rm4d0n</td><td>226</td><td>19</td>
-                        </tr>
-                        <tr>
-                            <td>83</td><td>jfstod</td><td>225</td><td>15</td>
-                        </tr>
-                        <tr>
-                            <td>84</td><td>jamesek</td><td>224</td><td>15</td>
-                        </tr>
-                        <tr>
-                            <td>85</td><td>Petr Pridal</td><td>221</td><td>69</td>
-                        </tr>
-                        <tr>
-                            <td>86</td><td>MildaPajda</td><td>217</td><td>11</td>
-                        </tr>
-                        <tr>
-                            <td>87</td><td>tdriza</td><td>212</td><td>9</td>
-                        </tr>
-                        <tr>
-                            <td>88</td><td>luke11</td><td>208</td><td>30</td>
-                        </tr>
-                        <tr>
-                            <td>89</td><td>Lukáš</td><td>204</td><td>7</td>
-                        </tr>
-                        <tr>
-                            <td>90</td><td>František Příhoda</td><td>198</td><td>9</td>
-                        </tr>
-                        <tr>
-                            <td>91</td><td>Vojtěch Látal</td><td>198</td><td>9</td>
-                        </tr>
-                        <tr>
-                            <td>92</td><td>loobo</td><td>193</td><td>4</td>
-                        </tr>
-                        <tr>
-                            <td>93</td><td>zbyšek</td><td>191</td><td>8</td>
-                        </tr>
-                        <tr>
-                            <td>94</td><td>Tomáš Suchánek</td><td>186</td><td>25</td>
-                        </tr>
-                        <tr>
-                            <td>95</td><td>pavlas</td><td>184</td><td>11</td>
-                        </tr>
-                        <tr>
-                            <td>96</td><td>Marek Blaha</td><td>182</td><td>17</td>
-                        </tr>
-                        <tr>
-                            <td>97</td><td>Jan Falhar</td><td>181</td><td>21</td>
-                        </tr>
-                        <tr>
-                            <td>98</td><td>Azaz163</td><td>180</td><td>21</td>
-                        </tr>
-                        <tr>
-                            <td>99</td><td>Vojtěch Zatloukal</td><td>177</td><td>14</td>
-                        </tr>
-                        <tr>
-                            <td>100</td><td>gxorg</td><td>174</td><td>17</td>
-                        </tr>
-                        </tbody>
-                    </table>
-                    <a href="javascript:showTop10()">Zobrazit 10 nejlepších.</a>
-                    </div>
+
+
+                    <ul class="soutez">
+                        <li>
+                            a) Pořadatelem soutěže je Moravská zemská knihovna v Brně, se sídlem
+                            Kounicova 65a, 601 87 Brno (dále jen „pořadatel“). Spolupořadatelem soutěže
+                            je Mapová sbírka PřF UK v Praze, se sídlem Albertov 6, Praha 2, 128 43
+                            (dále jen "spolupořadatel").
+                        </li>
+                        <li>b) Soutěže se mohou zúčastnit pouze fyzické osoby registrované na webu StaréMapy.cz (dále jen “soutěžící“).</li>
+                        <li>c) Přihlášením na web StaréMapy.cz soutěžící souhlasí s pravidly soutěže.</li>
+                        <li>d) Soutěž probíhá od <b>27. 11. 2014 do 31. 1. 2015</b>.</li>
+                        <li>e) Předmětem soutěže je ztotožnění co největšího počtu míst na staré a současné mapě. Pouze v případě splnění této povinnosti má soutěžící nárok na zařazení do soutěže.</li>
+                        <li>
+                            f) Oceněni budou soutěžící se třemi nejvyššími počty dosažených editací
+                            získaných během trvání soutěže. Soutěžící s nejvyšším počtem bodů získá
+                            faksimili mapy Evropy Everta Gijsbertsze z roku 1598, soutěžící s druhým
+                            nejvyšším počtem bodů kopii mapy Moravy Jana Amose Komenského, třetí cenou
+                            bude katalog výstavy Poklady mapové sbírky. Na výhry nevzniká soutěžícím
+                            právní nárok a jedná se o tzv. naturální obligaci nevymahatelnou soudně.
+                        </li>
+                        <li>g) Průběžné pořadí pěti soutěžících s nejvyšším počtem editací je uveřejněno pod odkazem <a href="http://www.staremapy.cz/" title="StaréMapy.cz">www.staremapy.cz</a> v žebříčku <b>„Nejúspěšnější dobrovolníci“</b>. Pořadatel v žebříčku zveřejňuje vždy pouze uživatelské jméno soutěžícího uvedené při registraci.</li>
+                        <li>h) Uživatelského jméno nejúspěšnějšího soutěžícího - výherce soutěže (dále jen „výherce“) pořadatel uveřejní po skončení soutěže na webu <a href="http://www.staremapy.cz/" title="StaréMapy.cz">www.staremapy.cz</a>. Průběžné pořadí nejúspěšnějších soutěžících a uživatelské jméno výherce může pořadatel zveřejnit také na svých internetových stránkách <a href="http://www.staremapy.cz/" title="StaréMapy.cz">www.staremapy.cz</a></li>
+                        <li>j) Výherce bude pořadatel kontaktovat e-mailem zaslaným na e-mailovou adresu uvedenou soutěžícím při registraci, a to do 7 dnů od ukončení soutěže.</li>
+                        <li>k) Pokud se výherce na základě zaslaného e-mailu o výhře či na základě uveřejnění výherce na webu pořadatele z do 30 dnů od skončení soutěže o výhru nepřihlásí, výherci nebude odměna poskytnuta a pořadatele soutěže je oprávněn udělit ji dalšímu výherci v pořadí.</li>
+                        <li>
+                            l) Pořadatel uvědomí výherce o datu převzetí výhry elektronickou poštou,
+                            výherce je povinen si výhru převzít do 14 dnů ode dne tohoto uvědomění.
+                            V případě, že si v tomto termínu výhru nepřevezme, je pořadatel oprávněn si
+                            tuto výhru ponechat.
+                        </li>
+                        <li>m) Pořadatel si vyhrazuje právo bez udání důvodu vyloučit soutěžící, kteří postupovali v rozporu s pravidly soutěže a jejichž jednání je v rozporu s dobrými mravy. Dále si pořadatel vyhrazuje právo vyloučit ze soutěže soutěžící s vysokým počtem chybných editací.</li>
+                        <li>n) Účastí v soutěži soutěžící výslovně souhlasí s tím, aby pořadatel soutěže ve smyslu zákona č. 101/2000 Sb., o ochraně osobních údajů, zpracovával a uchovával jemu poskytnuté osobní údaje, a to pro účely vyhodnocení soutěže, pro potřeby informování hráče o výhře, informování o způsobu převzetí výhry, o průběhu a ukončení soutěže nebo informování o vyhlášení dalšího kola soutěže či soutěže nové. Soutěžící zároveň uděluje souhlas k uchovávání a zpracovávání poskytnutých osobních údajů i prostřednictvím třetích osob pověřených pořadatelem.</li>
+
+                    </ul>
+
+
+
+
+
+
                 </div><!-- / #main -->
 
                 <aside>
                     <div id="aside-right">
                         <div class="banner-right"><img src="/img/staremapy-banner-soutez-detail.png" alt="Soutěž StaréMapy.cz"></div>
-                   
+
                         <h3>Najdete nás na</h3>
                         <div class="banner-right" style="margin-bottom:10px;"><a href="http://www.facebook.com/staremapy.cz"><img src="/img/staremapy-facebook.png" alt="StaréMapy.cz na Facebook"></a></div>
-                                <p style="margin-bottom:10px;">Pro spojení s ostatními uživateli této technologie a pro účast na diskuzích se připojte na facebook:</p><p><a href="http://www.facebook.com/staremapy.cz">www.facebook.com/staremapy.cz</a></p>                    
+                                <p style="margin-bottom:10px;">Pro spojení s ostatními uživateli této technologie a pro účast na diskuzích se připojte na facebook:</p><p><a href="http://www.facebook.com/staremapy.cz">www.facebook.com/staremapy.cz</a></p>
                         <div class="social-icons-right">
                             <iframe width="100%" height="50px" scrolling="no" frameborder="no" src="../socials.html"></iframe>
                         </div>
                     </div> <!-- / .aside-right -->
-                </aside>           
+                </aside>
 
             </div> <!-- / #content -->
 
             <footer>
                 <div id="footer">
-                        
+
                     <p class="companies">
-                    
+
                         <a href="http://www.mzk.cz/"><img src="/img/loga/georeferencer-logo-mzk.png" alt="Moravská zemská knihovna"></a>
                         <a href="http://www.cuni.cz/"><img src="/img/loga/georeferencer-logo-cuni.png" alt="Univerzita Karlova v Praze"></a>
                         <a href="http://www.muni.cz/"><img src="/img/loga/georeferencer-logo-mu.png" alt="Masarykova univerzita"></a>
@@ -583,9 +168,12 @@ Protože příští rok připravujeme spuštění druhé velké vlny umisťován
                         	Projekt <a href="http://www.staremapy.cz/" title="Staré a historické mapy Čech, Moravy a Slezska">Staré Mapy</a> založil <a href="http://www.klokantech.com/">Klokan Petr Přidal</a>
                         </p>
                         <p class="column-left">
-				<a href="http://www.radimkacer.com/">Design Radim Kacer</a> 
+				<a href="http://www.radimkacer.com/">Design Radim Kacer</a>
                         </p>
-                        
+                        <p style="display:none">
+                        	Reklama: <a href="http://www.scootland.cz/">Scootland - </a><a href="http://www.scootland.cz/skutry/">skútry, </a><a href="http://www.scootland.cz/scooter-tuning-jaknato/">scooter tuning, </a><a href="http://www.scootland.cz/eshop/">náhradní díly</a>
+                        </p>
+
                         <p class="column-right">
                         	<a href="http://www.temap.cz/">Výzkumný projekt TEMAP.</a>
                         </p>
@@ -599,7 +187,7 @@ Protože příští rok připravujeme spuštění druhé velké vlny umisťován
             </footer>
 
         </div> <!-- / #page -->
-        
+
         <!-- Analytics -->
         <script type="text/javascript">
             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
