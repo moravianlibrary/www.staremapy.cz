@@ -51,7 +51,7 @@
 		if (gup('date')) {
 			startDate = new Date(decodeURIComponent(gup('date')));
 		} else {
-			startDate = new Date('2000-01-01 00:00');
+			startDate = new Date('2000-01-01T00:00');
 		}
 
 	  var whereClause = "date_time > '" + dateToStr(startDate) + "'";
