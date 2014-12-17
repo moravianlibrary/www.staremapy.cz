@@ -464,23 +464,21 @@ h5 {
   display: inline-block;
   margin: 0 8px;
   opacity: 0.5;
+  vertical-align: middle;
 }
-
 #footer .companies a:hover {
 	opacity: 1;
 }
-.facebook{
-    margin-top:0px;
-}
-
 #footer .companies table {
   display: inline-block;
+  vertical-align: middle;
 }
-
 #footer .companies .first-pilot {
   margin-bottom: 15px;
 }
-
+.facebook {
+    margin-top:0px;
+}
 #footer .facebook {
   margin-bottom: 50px;
 }
