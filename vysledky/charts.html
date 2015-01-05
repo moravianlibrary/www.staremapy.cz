@@ -14,7 +14,7 @@
     <script type="text/javascript" src="http://www.google.com/jsapi"></script>
 	<script>
 	google.load("visualization", "1", {packages: ['corechart']});
-	
+
 	gup = function(name) {
   name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
   var regexS = "[\\?&]"+name+"=([^&#]*)";
@@ -25,11 +25,25 @@
 }
 
 drawVisualization = function() {
-  var query = decodeURIComponent(gup('sql'));
+  var queryText = decodeURIComponent(gup('sql'));
+	var query = new google.visualization.Query('http://www.google.com/fusiontables/gvizdata?tq=' + queryText);
+	query.send(getData);
+}
+
+function getData(response) {
+	var dataTable = response.getDataTable();
+
+	for (var i = 0; i < dataTable.getNumberOfRows();) {
+		if (dataTable.getValue(i, 1) < 0) {
+			dataTable.removeRow(i);
+		} else {
+			i++;
+		}
+	}
+
   google.visualization.drawChart({
     "containerId": "visualization",
-    "dataSourceUrl": "http://www.google.com/fusiontables/gvizdata?tq=",
-    "query": query, 
+    "dataTable": dataTable,
     "chartType": "PieChart",
     "options": {
       "legend": {textStyle: {color: 'black', fontName:'"Arial"', fontSize: 11}},
