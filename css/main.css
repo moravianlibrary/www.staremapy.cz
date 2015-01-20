@@ -1000,5 +1000,8 @@ table.zbyva-zpracovat th:first-child, table.zbyva-zpracovat td:first-child {
   width: 80%;
   text-align: left;
 }
-
+#generated-date {
+  color: #737373;
+  padding-top: 15px;
+}
 /* This beautiful CSS-File has been crafted with LESS (lesscss.org) and compiled by simpLESS (wearekiss.com/simpless) */
