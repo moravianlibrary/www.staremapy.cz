@@ -988,5 +988,17 @@ button {
     padding:20px;
     border:none;
 }
+table.zbyva-zpracovat tr {
+  border-style: solid;
+  border-width: 1px;
+}
+table.zbyva-zpracovat td, table.zbyva-zpracovat th {
+  padding: 5px;
+  text-align: right;
+}
+table.zbyva-zpracovat th:first-child, table.zbyva-zpracovat td:first-child {
+  width: 80%;
+  text-align: left;
+}
 
 /* This beautiful CSS-File has been crafted with LESS (lesscss.org) and compiled by simpLESS (wearekiss.com/simpless) */
