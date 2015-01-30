@@ -48,10 +48,16 @@
 
 	function changeData(period) {
 		var startDate;
-		if (gup('date')) {
-			startDate = new Date(decodeURIComponent(gup('date')));
+		var endDate;
+		if (gup('startdate')) {
+			startDate = new Date(decodeURIComponent(gup('startdate')));
 		} else {
 			startDate = new Date('2000-01-01T00:00');
+		}
+		if (gup('enddate')) {
+			endDate = new Date(decodeURIComponent(gup('enddate')));
+		} else {
+			endDate = null;
 		}
 
 	  var whereClause = "date_time > '" + dateToStr(startDate) + "'";
@@ -61,9 +67,12 @@
 			if (d < startDate) {
 				d = startDate;
 			}
-		var datum = dateToStr(d);
+			var datum = dateToStr(d);
 	    whereClause =  "date_time > '" + datum + "'";
 	  }
+		if (endDate) {
+			whereClause += " AND date_time <= '" + dateToStr(endDate) + "'";
+		}
 	  var tableid = gup('tid'); // 1957455
 	  var col = gup('col'); // 1957455
 
