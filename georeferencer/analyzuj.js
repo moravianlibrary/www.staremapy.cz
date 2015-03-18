@@ -89,6 +89,16 @@ var detectprojBttnOnClick = function() {
           if (callback) {
             callback();
           }
+        } else if (data.status == 'DetectprojError') {
+          alert('Pro tuto mapu nie je možné spočítať projekciu.');
+          log.error(data.message);
+          document.getElementById('detectproj-loading').style.display = 'none';
+          if (timer) {
+            clearInterval(timer);
+            timer = null;
+          }
+          this_.checked = false;
+          detectprojBttnOnClick.call(this_);
         } else {
           alert('Někde se stala chyba. Kontaktujte nás, prosím, na mapy@mzk.cz.');
           console.error(data);
