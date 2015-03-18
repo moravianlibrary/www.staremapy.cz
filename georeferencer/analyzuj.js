@@ -91,7 +91,7 @@ var detectprojBttnOnClick = function() {
           }
         } else if (data.status == 'DetectprojError') {
           alert('Pro tuto mapu nie je možné spočítať projekciu.');
-          log.error(data.message);
+          console.log.error(data.message);
           document.getElementById('detectproj-loading').style.display = 'none';
           if (timer) {
             clearInterval(timer);
