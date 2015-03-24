@@ -212,7 +212,7 @@ function getURLcustom (bounds) {
 };
 
 function getDetectProjJSON(postData, callback) {
-  var url = "http://detectproj.mzk.cz/";
+  var url = "http://detectproj.mzk.cz/v1";
   var xmlhttp = new XMLHttpRequest();
   xmlhttp.onreadystatechange = function() {
     if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
