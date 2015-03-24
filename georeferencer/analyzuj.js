@@ -47,8 +47,11 @@ var detectprojBttnOnClick = function() {
     }
     var this_ = this;
     var showDetectproj = function(callback) {
-      var paramMap = window.georef.name + "/" + window.georef.version;
-      getDetectProjJSON(paramMap, function(data) {
+      var postData =  {};
+      postData['name'] = window.georef.name;
+      postData['version'] = window.georef.version;
+      postData['control_points'] = window.georef.control_points;
+      getDetectProjJSON(JSON.stringify(postData), function(data) {
         if (data.status == 'Done') {
           document.getElementById('detectproj-loading').style.display = 'none';
           if (timer) {
@@ -208,8 +211,8 @@ function getURLcustom (bounds) {
   return url + path;
 };
 
-function getDetectProjJSON(map, callback) {
-  var url = "http://detectproj.mzk.cz/?map=" + map;
+function getDetectProjJSON(postData, callback) {
+  var url = "http://detectproj.mzk.cz/";
   var xmlhttp = new XMLHttpRequest();
   xmlhttp.onreadystatechange = function() {
     if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
@@ -217,6 +220,6 @@ function getDetectProjJSON(map, callback) {
       callback(json);
     }
   };
-  xmlhttp.open("GET", url, true);
-  xmlhttp.send();
+  xmlhttp.open("POST", url, true);
+  xmlhttp.send(postData);
 }
