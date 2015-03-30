@@ -86,7 +86,7 @@ var detectprojBttnOnClick = function() {
               );
             }
           });
-          layer.addFeatures(geojsonFormat.read(data.projections[0]));
+          layer.addFeatures(geojsonFormat.read(data.projections[0].geojson));
           map.addLayer(layer);
         } else if (data.status == 'Processed') {
           if (callback) {
