@@ -186,7 +186,7 @@ function createLoadingDiv() {
   div.style.right = '0px';
   div.style.top = '0px';
   div.style.bottom = '0px';
-  div.style.zIndex = '1000';
+  div.style.zIndex = '10000';
   div.style.backgroundImage = 'url(http://staremapy.cz/img/ajax-loader.gif)';
   div.style.backgroundRepeat = 'no-repeat';
   div.style.backgroundPosition = 'center';
