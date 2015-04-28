@@ -28,7 +28,7 @@ georeferencer.umisti.main = function() {
   var addPointBttn = new goog.ui.ToggleButton(addPointCnt, goog.ui.FlatButtonRenderer.getInstance());
   addPointBttn.addClassName('addpoint');
   goog.events.listen(addPointBttn, goog.ui.Component.EventType.ACTION, function(e) {
-    e.stopPropagation();
+    e.preventDefault();
   });
 
   addPointBttn.render(zoomPanel);
