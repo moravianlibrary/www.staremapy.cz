@@ -24,7 +24,13 @@ georeferencer.umisti.main = function() {
   addPointBttn.style.height = '30px';
   addPointBttn.style.position = 'absolute';
   addPointBttn.style.left = '0';
-  addPointBttn.style.top = '50px';
+  addPointBttn.style.top = '64px';
+  addPointBttn.style.fontSize = '25px';
+  addPointBttn.style.color = 'white';
+  addPointBttn.style.backgroundColor = 'rgb(145, 143, 134)';
+  addPointBttn.style.textAlign = 'center';
+  addPointBttn.style.lineHeight = '30px';
+  addPointBttn.style.borderRadius = '4px';
   goog.dom.classes.add(addPointBttn, 'icon-map-marker');
 
   goog.dom.append(zoomPanel, addPointBttn);
