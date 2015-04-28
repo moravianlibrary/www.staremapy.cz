@@ -4,9 +4,6 @@ goog.require('goog.asserts');
 goog.require('goog.dom');
 goog.require('goog.dom.classes');
 
-georeferencer = {};
-georeferencer.umisti = {};
-
 georeferencer.umisti.loadCss = function(url) {
   var head = goog.dom.getDocument().getElementsByTagName('head')[0];
   var link =  goog.dom.createElement('link');
