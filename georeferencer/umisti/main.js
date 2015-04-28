@@ -28,6 +28,8 @@ georeferencer.umisti.main = function() {
   var addPointBttn = new goog.ui.ToggleButton(addPointCnt, goog.ui.FlatButtonRenderer.getInstance());
   addPointBttn.addClassName('addpoint');
   goog.events.listen(addPointBttn, goog.ui.Component.EventType.ACTION, function(e) {
+    window.console.log('clicked');
+    e.stopPropagation();
     e.preventDefault();
   });
 
