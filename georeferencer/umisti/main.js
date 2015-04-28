@@ -30,7 +30,6 @@ georeferencer.umisti.main = function() {
   goog.events.listen(addPointBttn, goog.ui.Component.EventType.ACTION, function(e) {
     window.console.log('clicked');
     e.stopPropagation();
-    e.preventDefault();
   });
 
   addPointBttn.render(scan);
