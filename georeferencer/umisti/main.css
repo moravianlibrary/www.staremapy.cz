@@ -1,0 +1,15 @@
+#addpoint {
+  width: '30px';
+  height: '30px';
+  position: 'absolute';
+  left: '0';
+  top: '64px';
+  font-size: '25px';
+  color: 'white';
+  background-color: 'rgb(145, 143, 134)';
+  text-align: 'center';
+  lineHeight: '30px';
+  border-radius: '4px';
+  -webkit-border-radius: '4px';
+  -moz-border-radius: '4px';
+}
