@@ -3,6 +3,8 @@ goog.provide('georeferencer.umisti.main');
 goog.require('goog.asserts');
 goog.require('goog.dom');
 goog.require('goog.dom.classes');
+goog.require('goog.ui.ToggleButton');
+goog.require('goog.ui.FlatButtonRenderer');
 
 georeferencer.umisti.loadCss = function(url) {
   var head = goog.dom.getDocument().getElementsByTagName('head')[0];
@@ -20,11 +22,13 @@ georeferencer.umisti.main = function() {
   var zoomPanel = document.querySelector('#main-left .olControlZoomPanel');
   goog.asserts.assertObject(zoomPanel);
 
-  var addPointBttn = goog.dom.createElement('div');
-  addPointBttn.id = 'addpoint';
-  goog.dom.classes.add(addPointBttn, 'icon-map-marker');
+  var addPointCnt = goog.dom.createElement('span');
+  goog.dom.classes.add(addPointCnt, 'icon-map-marker');
 
-  goog.dom.append(zoomPanel, addPointBttn);
+  var addPointBttn = new goog.ui.ToggleButton(addPointCnt, goog.ui.FlatButtonRenderer.getInstance());
+  addPointBttn.addClassName('addpoint');
+
+  addPointBttn.render(zoomPanel);
 };
 
 goog.exportSymbol('georeferencer.umisti.main', georeferencer.umisti.main);
