@@ -19,8 +19,8 @@ georeferencer.umisti.main = function() {
   georeferencer.umisti.loadCss('http://staremapy.cz/css/fonts.css');
   georeferencer.umisti.loadCss('http://staremapy.cz/georeferencer/umisti/main.css');
 
-  var zoomPanel = document.querySelector('#main-left .olControlZoomPanel');
-  goog.asserts.assertObject(zoomPanel);
+  var scan = goog.dom.getElement('scan');
+  goog.asserts.assertObject(scan);
 
   var addPointCnt = goog.dom.createElement('span');
   goog.dom.classes.add(addPointCnt, 'icon-map-marker');
@@ -33,7 +33,7 @@ georeferencer.umisti.main = function() {
     e.preventDefault();
   });
 
-  addPointBttn.render(zoomPanel);
+  addPointBttn.render(scan);
 };
 
 goog.exportSymbol('georeferencer.umisti.main', georeferencer.umisti.main);
