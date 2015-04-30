@@ -4440,17 +4440,17 @@ function $opt_object$$inline_782$$() {
   $georeferencer$umisti$loadCss$$("http://staremapy.cz/css/fonts.css");
   $georeferencer$umisti$loadCss$$("http://staremapy.cz/georeferencer/umisti/css/main.css");
   $georeferencer$umisti$loadCss$$("http://staremapy.cz/georeferencer/umisti/css/dialog.css");
-  var $scan$$ = $goog$isString$$("main-right") ? document.getElementById("main-right") : "main-right";
-  $goog$asserts$assertObject$$($scan$$);
-  var $addPointBttn_addPointCnt$$ = $goog$dom$createElement$$("span");
+  var $rightPanel$$ = $goog$isString$$("main-right") ? document.getElementById("main-right") : "main-right";
+  $goog$asserts$assertObject$$($rightPanel$$);
+  var $addPointDialog$$ = new $georeferencer$umisti$AddPointDialog$$, $addPointBttn_addPointCnt$$ = $goog$dom$createElement$$("span");
   $goog$dom$classes$add$$($addPointBttn_addPointCnt$$, "icon-target");
   $addPointBttn_addPointCnt$$ = new $goog$ui$Button$$($addPointBttn_addPointCnt$$, $goog$ui$FlatButtonRenderer$$.$getInstance$());
   $JSCompiler_StaticMethods_addClassName$$($addPointBttn_addPointCnt$$, "addpoint");
   $goog$events$listen$$($addPointBttn_addPointCnt$$, "action", function($e$$103$$) {
-    (new $georeferencer$umisti$AddPointDialog$$).$setVisible$(!0);
+    $addPointDialog$$.$setVisible$(!0);
     $e$$103$$.stopPropagation()
   });
-  $addPointBttn_addPointCnt$$.$render$($scan$$)
+  $addPointBttn_addPointCnt$$.$render$($rightPanel$$)
 }
 var $parts$$inline_784$$ = ["georeferencer", "umisti", "main"], $cur$$inline_785$$ = $goog$global$$;
 $parts$$inline_784$$[0] in $cur$$inline_785$$ || !$cur$$inline_785$$.execScript || $cur$$inline_785$$.execScript("var " + $parts$$inline_784$$[0]);

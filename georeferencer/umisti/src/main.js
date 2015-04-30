@@ -13,8 +13,10 @@ georeferencer.umisti.main = function() {
   georeferencer.umisti.loadCss('http://staremapy.cz/georeferencer/umisti/css/main.css');
   georeferencer.umisti.loadCss('http://staremapy.cz/georeferencer/umisti/css/dialog.css');
 
-  var scan = goog.dom.getElement('main-right');
-  goog.asserts.assertObject(scan);
+  var rightPanel = goog.dom.getElement('main-right');
+  goog.asserts.assertObject(rightPanel);
+
+  var addPointDialog = new georeferencer.umisti.AddPointDialog();
 
   var addPointCnt = goog.dom.createElement('span');
   goog.dom.classes.add(addPointCnt, 'icon-target');
@@ -22,12 +24,11 @@ georeferencer.umisti.main = function() {
   var addPointBttn = new goog.ui.Button(addPointCnt, goog.ui.FlatButtonRenderer.getInstance());
   addPointBttn.addClassName('addpoint');
   goog.events.listen(addPointBttn, goog.ui.Component.EventType.ACTION, function(e) {
-    var dialog = new georeferencer.umisti.AddPointDialog();
-    dialog.setVisible(true);
+    addPointDialog.setVisible(true);
     e.stopPropagation();
   });
 
-  addPointBttn.render(scan);
+  addPointBttn.render(rightPanel);
 };
 
 georeferencer.umisti.loadCss = function(url) {
