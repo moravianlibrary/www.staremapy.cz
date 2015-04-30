@@ -21,27 +21,42 @@ goog.inherits(georeferencer.umisti.AddPointDialog, goog.ui.Dialog);
  * @return {!string}
  */
 georeferencer.umisti.AddPointDialog.prototype.generateContent_ = function() {
-  var content = goog.dom.createElement('content');
+  var table = goog.dom.createElement('table');
+  var trLat = goog.dom.createElement('tr');
+  var thLat = goog.dom.createElement('th');
+  var tdLat = goog.dom.createElement('td');
   var inputLat = goog.dom.createElement('input');
+  var trLon = goog.dom.createElement('tr');
+  var thLon = goog.dom.createElement('th');
+  var tdLon = goog.dom.createElement('td');
   var inputLon = goog.dom.createElement('input');
+  var trProj = goog.dom.createElement('tr');
+  var thProj = goog.dom.createElement('th');
+  var tdProj = goog.dom.createElement('td');
   var inputProj = goog.dom.createElement('input');
-  var labelLat = goog.dom.createElement('label');
-  var labelLon = goog.dom.createElement('label');
-  var labelProj = goog.dom.createElement('label');
+
+  goog.dom.appendChild(table, trLat);
+  goog.dom.appendChild(table, trLon);
+  goog.dom.appendChild(table, trProj);
+
+  goog.dom.appendChild(trLat, thLat);
+  goog.dom.appendChild(trLat, tdLat);
+  goog.dom.appendChild(trLon, thLon);
+  goog.dom.appendChild(trLon, tdLon);
+  goog.dom.appendChild(trProj, thProj);
+  goog.dom.appendChild(trProj, tdProj);
+
+  goog.dom.setTextContent(thLat, 'Zeměpisná šířka:');
+  goog.dom.setTextContent(thLon, 'Zeměpisná délka:');
+  goog.dom.setTextContent(thProj, 'Kartografická projekce:');
+
+  goog.dom.appendChild(tdLat, inputLat);
+  goog.dom.appendChild(tdLon, inputLon);
+  goog.dom.appendChild(tdProj, inputProj);
 
   inputLat.id = 'input-lat';
   inputLon.id = 'input-lon';
   inputProj.id = 'input-proj';
-  labelLat.htmlFor = 'input-lat';
-  labelLon.htmlFor = 'input-lon';
-  labelProj.htmlFor = 'input-proj';
 
-  goog.dom.appendChild(content, labelLat);
-  goog.dom.appendChild(content, labelLon);
-  goog.dom.appendChild(content, labelProj);
-  goog.dom.appendChild(content, inputLat);
-  goog.dom.appendChild(content, inputLon);
-  goog.dom.appendChild(content, inputProj);
-
-  return goog.dom.getOuterHtml(content);
+  return goog.dom.getOuterHtml(table);
 }

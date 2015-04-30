@@ -19,6 +19,7 @@
   color: #000;
   padding: 4px;
   position: absolute;
+  z-index: 20000;
 }
 
 .modal-dialog a,
@@ -33,6 +34,7 @@
   left: 0;
   position: absolute;
   top: 0;
+  z-index: 10000;
 }
 
 .modal-dialog-title {
@@ -67,6 +69,3 @@
   padding: 8px;
 }
 
-.goog-buttonset-default {
-  font-weight: bold;
-}
