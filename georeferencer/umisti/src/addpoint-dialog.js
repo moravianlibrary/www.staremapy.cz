@@ -1,6 +1,7 @@
 goog.provide('georeferencer.umisti.AddPointDialog');
 
 goog.require('goog.dom');
+goog.require('goog.events');
 goog.require('goog.ui.Dialog');
 goog.require('goog.ui.ac.AutoComplete');
 goog.require('goog.ui.ac.Renderer');
@@ -33,7 +34,7 @@ georeferencer.umisti.AddPointDialog.prototype.onShow = function() {
   inputHandler.attachInputs(goog.dom.getElement('input-proj'));
   goog.events.listen(ac, goog.ui.ac.AutoComplete.EventType.UPDATE, function(e) {
     window.console.log(e);
-    goog.dom.getElement('input-proj').value = e.row;
+    //goog.dom.getElement('input-proj').value = e.row;
   });
 };
 
