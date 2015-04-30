@@ -32,8 +32,10 @@ georeferencer.umisti.AddPointDialog = function() {
   this.setContent(this.generateContent_());
 
   goog.events.listen(this, goog.ui.Dialog.EventType.SELECT, function(e) {
-    window.console.log(e);
-    return this.validate();
+    if (e.key == goog.ui.Dialog.DefaultButtonKeys.OK) {
+      return this.validate();
+    }
+    return true;
   });
 }
 
