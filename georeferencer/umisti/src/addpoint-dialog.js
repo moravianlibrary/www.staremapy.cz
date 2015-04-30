@@ -2,6 +2,11 @@ goog.provide('georeferencer.umisti.AddPointDialog');
 
 goog.require('goog.dom');
 goog.require('goog.ui.Dialog');
+goog.require('goog.ui.ac.AutoComplete');
+goog.require('goog.ui.ac.Renderer');
+goog.require('goog.ui.ac.InputHandler');
+
+goog.require('georeferencer.umisti.EpsgMatcher');
 
 /**
  * @constructor
@@ -57,6 +62,12 @@ georeferencer.umisti.AddPointDialog.prototype.generateContent_ = function() {
   inputLat.id = 'input-lat';
   inputLon.id = 'input-lon';
   inputProj.id = 'input-proj';
+
+  var ac = new goog.ui.ac.AutoComplete(
+    new georeferencer.umisti.EpsgMatcher(),
+    new goog.ui.ac.Renderer(),
+    new goog.ui.ac.InputHandler(undefined, undefined, false));
+  ac.attachInputs(inputProj);
 
   return goog.dom.getOuterHtml(table);
 }
