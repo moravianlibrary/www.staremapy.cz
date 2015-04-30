@@ -31,6 +31,9 @@ georeferencer.umisti.AddPointDialog.prototype.onShow = function() {
     new goog.ui.ac.InputHandler(undefined, undefined, false));
   inputHandler.attachAutoComplete(ac);
   inputHandler.attachInputs(goog.dom.getElement('input-proj'));
+  goog.events.listen(ac, goog.ui.ac.AutoComplete.EventType.UPDATE, function(e) {
+    goog.dom.getElement('input-proj').value = e.row;
+  });
 };
 
 /**
