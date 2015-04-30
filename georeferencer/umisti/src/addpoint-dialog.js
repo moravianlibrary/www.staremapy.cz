@@ -72,8 +72,12 @@ georeferencer.umisti.AddPointDialog.prototype.onShow = function() {
   goog.base(this, 'onShow');
   var inputLat = goog.dom.getElement('input-lat');
   var inputLon = goog.dom.getElement('input-lon');
+  var inputProj = goog.dom.getElement('input-proj');
   inputLat.value = '';
   inputLon.value = '';
+  goog.dom.classes.remove(inputLat, 'goog-error-empty', 'goog-error-format');
+  goog.dom.classes.remove(inputLon, 'goog-error-empty', 'goog-error-format');
+  goog.dom.classes.remove(inputProj, 'goog-error-empty', 'goog-error-format');
 }
 
 georeferencer.umisti.AddPointDialog.prototype.validate = function() {

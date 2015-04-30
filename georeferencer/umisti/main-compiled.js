@@ -4432,13 +4432,16 @@ $georeferencer$umisti$AddPointDialog$$.prototype.$exitDocument$ = function $$geo
 };
 $georeferencer$umisti$AddPointDialog$$.prototype.$onShow$ = function $$georeferencer$umisti$AddPointDialog$$$$$onShow$$() {
   $georeferencer$umisti$AddPointDialog$$.$superClass_$.$onShow$.call(this);
-  var $inputLon$$ = $goog$dom$getElement$$("input-lon");
-  $goog$dom$getElement$$("input-lat").value = "";
-  $inputLon$$.value = ""
+  var $inputLat$$ = $goog$dom$getElement$$("input-lat"), $inputLon$$ = $goog$dom$getElement$$("input-lon"), $inputProj$$ = $goog$dom$getElement$$("input-proj");
+  $inputLat$$.value = "";
+  $inputLon$$.value = "";
+  $goog$dom$classes$remove$$($inputLat$$, "goog-error-empty", "goog-error-format");
+  $goog$dom$classes$remove$$($inputLon$$, "goog-error-empty", "goog-error-format");
+  $goog$dom$classes$remove$$($inputProj$$, "goog-error-empty", "goog-error-format")
 };
 function $JSCompiler_StaticMethods_generateContent_$$() {
   var $JSCompiler_inline_result$$31_table$$ = $goog$dom$createElement$$("table"), $div$$inline_604_trLat$$ = $goog$dom$createElement$$("tr"), $thLat$$ = $goog$dom$createElement$$("th"), $tdLat$$ = $goog$dom$createElement$$("td"), $inputLat$$2$$ = $goog$dom$createElement$$("input"), $trLon$$ = $goog$dom$createElement$$("tr"), $thLon$$ = $goog$dom$createElement$$("th"), $tdLon$$ = $goog$dom$createElement$$("td"), $inputLon$$2$$ = $goog$dom$createElement$$("input"), $trProj$$ = $goog$dom$createElement$$("tr"), 
-  $thProj$$ = $goog$dom$createElement$$("th"), $tdProj$$ = $goog$dom$createElement$$("td"), $inputProj$$1$$ = $goog$dom$createElement$$("input");
+  $thProj$$ = $goog$dom$createElement$$("th"), $tdProj$$ = $goog$dom$createElement$$("td"), $inputProj$$2$$ = $goog$dom$createElement$$("input");
   $JSCompiler_inline_result$$31_table$$.appendChild($div$$inline_604_trLat$$);
   $JSCompiler_inline_result$$31_table$$.appendChild($trLon$$);
   $JSCompiler_inline_result$$31_table$$.appendChild($trProj$$);
@@ -4453,10 +4456,10 @@ function $JSCompiler_StaticMethods_generateContent_$$() {
   $goog$dom$setTextContent$$($thProj$$, "Kartografick\u00e1 projekce:");
   $tdLat$$.appendChild($inputLat$$2$$);
   $tdLon$$.appendChild($inputLon$$2$$);
-  $tdProj$$.appendChild($inputProj$$1$$);
+  $tdProj$$.appendChild($inputProj$$2$$);
   $inputLat$$2$$.id = "input-lat";
   $inputLon$$2$$.id = "input-lon";
-  $inputProj$$1$$.id = "input-proj";
+  $inputProj$$2$$.id = "input-proj";
   "outerHTML" in $JSCompiler_inline_result$$31_table$$ ? $JSCompiler_inline_result$$31_table$$ = $JSCompiler_inline_result$$31_table$$.outerHTML : ($div$$inline_604_trLat$$ = $goog$dom$getOwnerDocument$$($JSCompiler_inline_result$$31_table$$).createElement("div"), $div$$inline_604_trLat$$.appendChild($JSCompiler_inline_result$$31_table$$.cloneNode(!0)), $JSCompiler_inline_result$$31_table$$ = $div$$inline_604_trLat$$.innerHTML);
   return $JSCompiler_inline_result$$31_table$$
 }
