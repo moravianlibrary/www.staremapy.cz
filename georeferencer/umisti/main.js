@@ -19,7 +19,7 @@ georeferencer.umisti.main = function() {
   georeferencer.umisti.loadCss('http://staremapy.cz/css/fonts.css');
   georeferencer.umisti.loadCss('http://staremapy.cz/georeferencer/umisti/main.css');
 
-  var scan = goog.dom.getElement('scan');
+  var scan = goog.dom.getElement('main-right');
   goog.asserts.assertObject(scan);
 
   var addPointCnt = goog.dom.createElement('span');
@@ -28,7 +28,6 @@ georeferencer.umisti.main = function() {
   var addPointBttn = new goog.ui.ToggleButton(addPointCnt, goog.ui.FlatButtonRenderer.getInstance());
   addPointBttn.addClassName('addpoint');
   goog.events.listen(addPointBttn, goog.ui.Component.EventType.ACTION, function(e) {
-    window.console.log('clicked');
     e.stopPropagation();
   });
 
