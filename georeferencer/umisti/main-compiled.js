@@ -4386,6 +4386,7 @@ function $JSCompiler_StaticMethods_requestMatchingRows$$($token$$14$$, $matchHan
   this.$title_$ = "Vlo\u017ei\u0165 bod.";
   this.$titleTextEl_$ && $goog$dom$setTextContent$$(this.$titleTextEl_$, "Vlo\u017ei\u0165 bod.");
   this.$setContent$($JSCompiler_StaticMethods_generateContent_$$());
+  this.$render$();
   var $inputHandler$$inline_560$$ = new $goog$ui$ac$InputHandler$$(null, null, !1), $ac$$inline_561$$ = new $goog$ui$ac$AutoComplete$$(new $georeferencer$umisti$EpsgMatcher$$, new $goog$ui$ac$Renderer$$, new $goog$ui$ac$InputHandler$$(void 0, void 0, !1));
   $inputHandler$$inline_560$$.$ac_$ = $ac$$inline_561$$;
   $inputHandler$$inline_560$$.$attachInputs$($goog$isString$$("input-proj") ? document.getElementById("input-proj") : "input-proj")

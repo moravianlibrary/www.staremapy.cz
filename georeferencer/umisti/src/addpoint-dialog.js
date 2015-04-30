@@ -18,6 +18,7 @@ georeferencer.umisti.AddPointDialog = function() {
   this.setModal(true);
   this.setTitle('Vložiť bod.');
   this.setContent(this.generateContent_());
+  this.render();
   this.attachAC_();
 }
 
