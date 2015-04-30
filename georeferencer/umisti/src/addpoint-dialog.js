@@ -28,7 +28,7 @@ georeferencer.umisti.AddPointDialog = function() {
    */
   this.inputHandler_ = null;
   this.setModal(true);
-  this.setTitle('Vložiť bod.');
+  this.setTitle('Vložiť bod. (Právě ve vývoji..)');
   this.setContent(this.generateContent_());
 
   goog.events.listen(this, goog.ui.Dialog.EventType.SELECT, function(e) {

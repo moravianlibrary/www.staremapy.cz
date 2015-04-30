@@ -4390,8 +4390,8 @@ function $JSCompiler_StaticMethods_requestMatchingRows$$($token$$14$$, $matchHan
   $goog$ui$Dialog$$.call(this);
   this.$inputHandler_$ = this.$ac_$ = null;
   !0 != this.$modal_$ && $JSCompiler_StaticMethods_setModalInternal_$$(this, !0);
-  this.$title_$ = "Vlo\u017ei\u0165 bod.";
-  this.$titleTextEl_$ && $goog$dom$setTextContent$$(this.$titleTextEl_$, "Vlo\u017ei\u0165 bod.");
+  this.$title_$ = "Vlo\u017ei\u0165 bod. (Pr\u00e1v\u011b ve v\u00fdvoji..)";
+  this.$titleTextEl_$ && $goog$dom$setTextContent$$(this.$titleTextEl_$, "Vlo\u017ei\u0165 bod. (Pr\u00e1v\u011b ve v\u00fdvoji..)");
   this.$setContent$($JSCompiler_StaticMethods_generateContent_$$());
   $goog$events$listen$$(this, $goog$ui$Dialog$EventType$SELECT$$, function($JSCompiler_temp$$11_e$$103_inputLat$$inline_555$$) {
     if("ok" == $JSCompiler_temp$$11_e$$103_inputLat$$inline_555$$.key) {
