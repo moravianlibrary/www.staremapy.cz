@@ -21,3 +21,7 @@
 .goog-flat-button-hover.addpoint {
   opacity: 0.7;
 }
+
+.ac-renderer {
+  z-index: 1000000;
+}
