@@ -69,6 +69,10 @@ georeferencer.umisti.AddPointDialog.prototype.validate = function() {
   var valid = true;
   var projFormat = new RegExp(/^\d+/);
 
+  goog.dom.classes.remove(inputLat, 'goog-error-empty', 'goog-error-format');
+  goog.dom.classes.remove(inputLon, 'goog-error-empty', 'goog-error-format');
+  goog.dom.classes.remove(inputProj, 'goog-error-empty', 'goog-error-format');
+
   if (goog.string.isEmptySafe(inputLat.value)) {
     valid = false;
     goog.dom.classes.add(inputLat, 'goog-error-empty');
@@ -82,17 +86,17 @@ georeferencer.umisti.AddPointDialog.prototype.validate = function() {
     goog.dom.classes.add(inputProj, 'goog-error-empty');
   }
   if (!goog.string.isEmptySafe(inputLat.value)
-      && goog.string.isNumeric(inputLat.value)) {
+      && !goog.string.isNumeric(inputLat.value)) {
     valid = false;
     goog.dom.classes.add(inputLat, 'goog-error-format');
   }
   if (!goog.string.isEmptySafe(inputLon.value)
-      && goog.string.isNumeric(inputLon.value)) {
+      && !goog.string.isNumeric(inputLon.value)) {
     valid = false;
     goog.dom.classes.add(inputLon, 'goog-error-format');
   }
   if (!goog.string.isEmptySafe(inputProj.value)
-      && projFormat.test(inputProj.value)) {
+      && !projFormat.test(inputProj.value)) {
     valid = false;
     goog.dom.classes.add(inputProj, 'goog-error-format');
   }
