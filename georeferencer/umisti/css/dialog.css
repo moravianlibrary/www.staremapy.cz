@@ -69,3 +69,6 @@
   padding: 8px;
 }
 
+.modal-dialog-content .goog-error-empty, .modal-dialog-content .goog-error-format {
+  background-color: #FFE5E5;
+}
