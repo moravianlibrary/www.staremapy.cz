@@ -23,7 +23,7 @@ georeferencer.umisti.main = function() {
   goog.asserts.assertObject(scan);
 
   var addPointCnt = goog.dom.createElement('span');
-  goog.dom.classes.add(addPointCnt, 'icon-map-marker');
+  goog.dom.classes.add(addPointCnt, 'icon-target');
 
   var addPointBttn = new goog.ui.ToggleButton(addPointCnt, goog.ui.FlatButtonRenderer.getInstance());
   addPointBttn.addClassName('addpoint');
