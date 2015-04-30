@@ -1,7 +1,7 @@
 {
   "id": "umisti",
-  "paths": ".",
-  "inputs": "main.js",
+  "paths": "src",
+  "inputs": "src/main.js",
   "mode": "ADVANCED",
   "level": "VERBOSE",
   "checks": {
