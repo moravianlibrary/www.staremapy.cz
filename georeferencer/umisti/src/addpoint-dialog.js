@@ -25,17 +25,15 @@ goog.inherits(georeferencer.umisti.AddPointDialog, goog.ui.Dialog);
 /** @override */
 georeferencer.umisti.AddPointDialog.prototype.onShow = function() {
   goog.base(this, 'onShow');
-  var inputHandler = new goog.ui.ac.InputHandler(null, null, false);
-  var ac = new goog.ui.ac.AutoComplete(
-    new georeferencer.umisti.EpsgMatcher(),
-    new goog.ui.ac.Renderer(),
-    new goog.ui.ac.InputHandler(undefined, undefined, false));
-  inputHandler.attachAutoComplete(ac);
-  inputHandler.attachInputs(goog.dom.getElement('input-proj'));
-  goog.events.listen(ac, goog.ui.ac.AutoComplete.EventType.UPDATE, function(e) {
-    window.console.log(e);
-    //goog.dom.getElement('input-proj').value = e.row;
-  });
+  if (!this.isInDocument()) {
+    var inputHandler = new goog.ui.ac.InputHandler(null, null, false);
+    var ac = new goog.ui.ac.AutoComplete(
+      new georeferencer.umisti.EpsgMatcher(),
+      new goog.ui.ac.Renderer(),
+      new goog.ui.ac.InputHandler(undefined, undefined, false));
+    inputHandler.attachAutoComplete(ac);
+    inputHandler.attachInputs(goog.dom.getElement('input-proj'));
+  }
 };
 
 /**

@@ -4390,12 +4390,11 @@ function $JSCompiler_StaticMethods_requestMatchingRows$$($token$$14$$, $matchHan
 $goog$inherits$$($georeferencer$umisti$AddPointDialog$$, $goog$ui$Dialog$$);
 $georeferencer$umisti$AddPointDialog$$.prototype.$onShow$ = function $$georeferencer$umisti$AddPointDialog$$$$$onShow$$() {
   $georeferencer$umisti$AddPointDialog$$.$superClass_$.$onShow$.call(this);
-  var $inputHandler$$3$$ = new $goog$ui$ac$InputHandler$$(null, null, !1), $ac$$1$$ = new $goog$ui$ac$AutoComplete$$(new $georeferencer$umisti$EpsgMatcher$$, new $goog$ui$ac$Renderer$$, new $goog$ui$ac$InputHandler$$(void 0, void 0, !1));
-  $inputHandler$$3$$.$ac_$ = $ac$$1$$;
-  $inputHandler$$3$$.$attachInputs$($goog$isString$$("input-proj") ? document.getElementById("input-proj") : "input-proj");
-  $goog$events$listen$$($ac$$1$$, "update", function($e$$103$$) {
-    window.console.log($e$$103$$)
-  })
+  if(!this.$inDocument_$) {
+    var $inputHandler$$3$$ = new $goog$ui$ac$InputHandler$$(null, null, !1), $ac$$1$$ = new $goog$ui$ac$AutoComplete$$(new $georeferencer$umisti$EpsgMatcher$$, new $goog$ui$ac$Renderer$$, new $goog$ui$ac$InputHandler$$(void 0, void 0, !1));
+    $inputHandler$$3$$.$ac_$ = $ac$$1$$;
+    $inputHandler$$3$$.$attachInputs$($goog$isString$$("input-proj") ? document.getElementById("input-proj") : "input-proj")
+  }
 };
 function $JSCompiler_StaticMethods_generateContent_$$() {
   var $JSCompiler_inline_result$$30_table$$ = $goog$dom$createElement$$("table"), $div$$inline_600_trLat$$ = $goog$dom$createElement$$("tr"), $thLat$$ = $goog$dom$createElement$$("th"), $tdLat$$ = $goog$dom$createElement$$("td"), $inputLat$$ = $goog$dom$createElement$$("input"), $trLon$$ = $goog$dom$createElement$$("tr"), $thLon$$ = $goog$dom$createElement$$("th"), $tdLon$$ = $goog$dom$createElement$$("td"), $inputLon$$ = $goog$dom$createElement$$("input"), $trProj$$ = $goog$dom$createElement$$("tr"), 
@@ -4438,9 +4437,9 @@ function $opt_object$$inline_779$$() {
   $goog$dom$classes$add$$($addPointBttn_addPointCnt$$, "icon-target");
   $addPointBttn_addPointCnt$$ = new $goog$ui$Button$$($addPointBttn_addPointCnt$$, $goog$ui$FlatButtonRenderer$$.$getInstance$());
   $JSCompiler_StaticMethods_addClassName$$($addPointBttn_addPointCnt$$, "addpoint");
-  $goog$events$listen$$($addPointBttn_addPointCnt$$, "action", function($e$$104$$) {
+  $goog$events$listen$$($addPointBttn_addPointCnt$$, "action", function($e$$103$$) {
     (new $georeferencer$umisti$AddPointDialog$$).$setVisible$(!0);
-    $e$$104$$.stopPropagation()
+    $e$$103$$.stopPropagation()
   });
   $addPointBttn_addPointCnt$$.$render$($scan$$)
 }
