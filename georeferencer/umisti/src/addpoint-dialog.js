@@ -15,14 +15,46 @@ goog.require('georeferencer.umisti.EpsgMatcher');
  */
 georeferencer.umisti.AddPointDialog = function() {
   goog.ui.Dialog.call(this);
+  /**
+   * @type {goog.ui.ac.AutoComplete}
+   * @private
+   */
+  this.ac_ = null;
+  /**
+   * @type {goog.ui.ac.InputHandler}
+   * @private
+   */
+  this.inputHandler_ = null;
   this.setModal(true);
   this.setTitle('Vložiť bod.');
   this.setContent(this.generateContent_());
-  this.render();
-  this.attachAC_();
 }
 
 goog.inherits(georeferencer.umisti.AddPointDialog, goog.ui.Dialog);
+
+/**
+ * @override
+ */
+georeferencer.umisti.AddPointDialog.prototype.enterDocument = function() {
+  goog.base(this, 'enterDocument');
+  this.inputHandler_ = new goog.ui.ac.InputHandler(null, null, false);
+  this.ac_ = new goog.ui.ac.AutoComplete(
+    new georeferencer.umisti.EpsgMatcher(),
+    new goog.ui.ac.Renderer(),
+    this.inputHandler_);
+  this.inputHandler_.attachAutoComplete(this.ac_);
+  this.inputHandler_.attachInputs(goog.dom.getElement('input-proj'));
+};
+
+/**
+ * @override
+ */
+georeferencer.umisti.AddPointDialog.prototype.exitDocument = function() {
+  this.inputHandler_.detachInput(goog.dom.getElement('input-proj'));
+  this.ac_ = null;
+  this.inputHandler_ = null;
+  goog.base(this, 'exitDocument');
+};
 
 /**
  * @protected
@@ -68,16 +100,3 @@ georeferencer.umisti.AddPointDialog.prototype.generateContent_ = function() {
 
   return goog.dom.getOuterHtml(table);
 }
-
-/**
- * @protected
- */
-georeferencer.umisti.AddPointDialog.prototype.attachAC_ = function() {
-  var inputHandler = new goog.ui.ac.InputHandler(null, null, false);
-  var ac = new goog.ui.ac.AutoComplete(
-    new georeferencer.umisti.EpsgMatcher(),
-    new goog.ui.ac.Renderer(),
-    new goog.ui.ac.InputHandler(undefined, undefined, false));
-  inputHandler.attachAutoComplete(ac);
-  inputHandler.attachInputs(goog.dom.getElement('input-proj'));
-};
