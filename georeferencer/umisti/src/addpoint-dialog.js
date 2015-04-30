@@ -1,7 +1,9 @@
 goog.provide('georeferencer.umisti.AddPointDialog');
 
 goog.require('goog.dom');
+goog.require('goog.dom.classes');
 goog.require('goog.events');
+goog.require('goog.string');
 goog.require('goog.ui.Dialog');
 goog.require('goog.ui.ac.AutoComplete');
 goog.require('goog.ui.ac.Renderer');
@@ -28,6 +30,10 @@ georeferencer.umisti.AddPointDialog = function() {
   this.setModal(true);
   this.setTitle('Vložiť bod.');
   this.setContent(this.generateContent_());
+
+  goog.events.listen(this, goog.ui.Dialog.EventType.SELECT, function(e) {
+    return this.validate();
+  });
 }
 
 goog.inherits(georeferencer.umisti.AddPointDialog, goog.ui.Dialog);
@@ -54,6 +60,44 @@ georeferencer.umisti.AddPointDialog.prototype.exitDocument = function() {
   this.ac_ = null;
   this.inputHandler_ = null;
   goog.base(this, 'exitDocument');
+};
+
+georeferencer.umisti.AddPointDialog.prototype.validate = function() {
+  var inputLat = goog.dom.getElement('input-lat');
+  var inputLon = goog.dom.getElement('input-lon');
+  var inputProj = goog.dom.getElement('input-proj');
+  var valid = true;
+  var projFormat = new RegExp(/^\d+/);
+
+  if (goog.string.isEmptySafe(inputLat.value)) {
+    valid = false;
+    goog.dom.classes.add(inputLat, 'goog-error-empty');
+  }
+  if (goog.string.isEmptySafe(inputLon.value)) {
+    valid = false;
+    goog.dom.classes.add(inputLon, 'goog-error-empty');
+  }
+  if (goog.string.isEmptySafe(inputProj.value)) {
+    valid = false;
+    goog.dom.classes.add(inputProj, 'goog-error-empty');
+  }
+  if (!goog.string.isEmptySafe(inputLat.value)
+      && goog.string.isNumeric(inputLat.value)) {
+    valid = false;
+    goog.dom.classes.add(inputLat, 'goog-error-format');
+  }
+  if (!goog.string.isEmptySafe(inputLon.value)
+      && goog.string.isNumeric(inputLon.value)) {
+    valid = false;
+    goog.dom.classes.add(inputLon, 'goog-error-format');
+  }
+  if (!goog.string.isEmptySafe(inputProj.value)
+      && projFormat.test(inputProj.value)) {
+    valid = false;
+    goog.dom.classes.add(inputProj, 'goog-error-format');
+  }
+
+  return valid;
 };
 
 /**
