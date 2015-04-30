@@ -4419,7 +4419,10 @@ $georeferencer$umisti$AddPointDialog$$.prototype.$enterDocument$ = function $$ge
   this.$inputHandler_$ = new $goog$ui$ac$InputHandler$$(null, null, !1);
   this.$ac_$ = new $goog$ui$ac$AutoComplete$$(new $georeferencer$umisti$EpsgMatcher$$, new $goog$ui$ac$Renderer$$, this.$inputHandler_$);
   this.$inputHandler_$.$ac_$ = this.$ac_$;
-  this.$inputHandler_$.$attachInputs$($goog$dom$getElement$$("input-proj"))
+  this.$inputHandler_$.$attachInputs$($goog$dom$getElement$$("input-proj"));
+  var $inputLon$$ = $goog$dom$getElement$$("input-lon");
+  $goog$dom$getElement$$("input-lat").value = "";
+  $inputLon$$.value = ""
 };
 $georeferencer$umisti$AddPointDialog$$.prototype.$exitDocument$ = function $$georeferencer$umisti$AddPointDialog$$$$$exitDocument$$() {
   var $JSCompiler_StaticMethods_detachInput$self$$inline_564$$ = this.$inputHandler_$, $target$$inline_565$$ = $goog$dom$getElement$$("input-proj");
@@ -4431,7 +4434,7 @@ $georeferencer$umisti$AddPointDialog$$.prototype.$exitDocument$ = function $$geo
   $georeferencer$umisti$AddPointDialog$$.$superClass_$.$exitDocument$.call(this)
 };
 function $JSCompiler_StaticMethods_generateContent_$$() {
-  var $JSCompiler_inline_result$$31_table$$ = $goog$dom$createElement$$("table"), $div$$inline_604_trLat$$ = $goog$dom$createElement$$("tr"), $thLat$$ = $goog$dom$createElement$$("th"), $tdLat$$ = $goog$dom$createElement$$("td"), $inputLat$$1$$ = $goog$dom$createElement$$("input"), $trLon$$ = $goog$dom$createElement$$("tr"), $thLon$$ = $goog$dom$createElement$$("th"), $tdLon$$ = $goog$dom$createElement$$("td"), $inputLon$$1$$ = $goog$dom$createElement$$("input"), $trProj$$ = $goog$dom$createElement$$("tr"), 
+  var $JSCompiler_inline_result$$31_table$$ = $goog$dom$createElement$$("table"), $div$$inline_604_trLat$$ = $goog$dom$createElement$$("tr"), $thLat$$ = $goog$dom$createElement$$("th"), $tdLat$$ = $goog$dom$createElement$$("td"), $inputLat$$2$$ = $goog$dom$createElement$$("input"), $trLon$$ = $goog$dom$createElement$$("tr"), $thLon$$ = $goog$dom$createElement$$("th"), $tdLon$$ = $goog$dom$createElement$$("td"), $inputLon$$2$$ = $goog$dom$createElement$$("input"), $trProj$$ = $goog$dom$createElement$$("tr"), 
   $thProj$$ = $goog$dom$createElement$$("th"), $tdProj$$ = $goog$dom$createElement$$("td"), $inputProj$$1$$ = $goog$dom$createElement$$("input");
   $JSCompiler_inline_result$$31_table$$.appendChild($div$$inline_604_trLat$$);
   $JSCompiler_inline_result$$31_table$$.appendChild($trLon$$);
@@ -4445,11 +4448,11 @@ function $JSCompiler_StaticMethods_generateContent_$$() {
   $goog$dom$setTextContent$$($thLat$$, "Zem\u011bpisn\u00e1 \u0161\u00ed\u0159ka:");
   $goog$dom$setTextContent$$($thLon$$, "Zem\u011bpisn\u00e1 d\u00e9lka:");
   $goog$dom$setTextContent$$($thProj$$, "Kartografick\u00e1 projekce:");
-  $tdLat$$.appendChild($inputLat$$1$$);
-  $tdLon$$.appendChild($inputLon$$1$$);
+  $tdLat$$.appendChild($inputLat$$2$$);
+  $tdLon$$.appendChild($inputLon$$2$$);
   $tdProj$$.appendChild($inputProj$$1$$);
-  $inputLat$$1$$.id = "input-lat";
-  $inputLon$$1$$.id = "input-lon";
+  $inputLat$$2$$.id = "input-lat";
+  $inputLon$$2$$.id = "input-lon";
   $inputProj$$1$$.id = "input-proj";
   "outerHTML" in $JSCompiler_inline_result$$31_table$$ ? $JSCompiler_inline_result$$31_table$$ = $JSCompiler_inline_result$$31_table$$.outerHTML : ($div$$inline_604_trLat$$ = $goog$dom$getOwnerDocument$$($JSCompiler_inline_result$$31_table$$).createElement("div"), $div$$inline_604_trLat$$.appendChild($JSCompiler_inline_result$$31_table$$.cloneNode(!0)), $JSCompiler_inline_result$$31_table$$ = $div$$inline_604_trLat$$.innerHTML);
   return $JSCompiler_inline_result$$31_table$$

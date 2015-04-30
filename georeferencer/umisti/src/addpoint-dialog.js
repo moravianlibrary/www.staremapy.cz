@@ -53,6 +53,10 @@ georeferencer.umisti.AddPointDialog.prototype.enterDocument = function() {
     this.inputHandler_);
   this.inputHandler_.attachAutoComplete(this.ac_);
   this.inputHandler_.attachInputs(goog.dom.getElement('input-proj'));
+  var inputLat = goog.dom.getElement('input-lat');
+  var inputLon = goog.dom.getElement('input-lon');
+  inputLat.value = '';
+  inputLon.value = '';
 };
 
 /**
