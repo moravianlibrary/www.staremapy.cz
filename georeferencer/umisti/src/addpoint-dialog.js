@@ -23,7 +23,7 @@ goog.inherits(georeferencer.umisti.AddPointDialog, goog.ui.Dialog);
 
 /** @override */
 georeferencer.umisti.AddPointDialog.prototype.onShow = function() {
-  goog.ui.Dialog.base(this, 'onShow');
+  goog.base(this, 'onShow');
   var inputHandler = new goog.ui.ac.InputHandler(null, null, false);
   var ac = new goog.ui.ac.AutoComplete(
     new georeferencer.umisti.EpsgMatcher(),
