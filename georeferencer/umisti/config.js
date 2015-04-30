@@ -5,6 +5,7 @@
   "mode": "ADVANCED",
   "level": "VERBOSE",
   "pretty-print": true,
+  "debug": true,
   "checks": {
     "deprecated": "ERROR",
     "checkTypes": "ERROR",
