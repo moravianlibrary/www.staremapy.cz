@@ -63,11 +63,13 @@ georeferencer.umisti.AddPointDialog.prototype.generateContent_ = function() {
   inputLon.id = 'input-lon';
   inputProj.id = 'input-proj';
 
+  var inputHandler = new goog.ui.ac.InputHandler(null, null, false);
   var ac = new goog.ui.ac.AutoComplete(
     new georeferencer.umisti.EpsgMatcher(),
     new goog.ui.ac.Renderer(),
     new goog.ui.ac.InputHandler(undefined, undefined, false));
-  ac.attachInputs(inputProj);
+  inputHandler.attachAutoComplete(ac);
+  inputHandler.attachInputs(inputProj);
 
   return goog.dom.getOuterHtml(table);
 }
