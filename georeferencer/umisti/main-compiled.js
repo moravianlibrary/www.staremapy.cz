@@ -4385,15 +4385,17 @@ function $JSCompiler_StaticMethods_requestMatchingRows$$($token$$14$$, $matchHan
   !0 != this.$modal_$ && $JSCompiler_StaticMethods_setModalInternal_$$(this, !0);
   this.$title_$ = "Vlo\u017ei\u0165 bod.";
   this.$titleTextEl_$ && $goog$dom$setTextContent$$(this.$titleTextEl_$, "Vlo\u017ei\u0165 bod.");
-  this.$setContent$($JSCompiler_StaticMethods_generateContent_$$())
+  this.$setContent$($JSCompiler_StaticMethods_generateContent_$$());
+  this.$attachedAC_$ = !1
 }
 $goog$inherits$$($georeferencer$umisti$AddPointDialog$$, $goog$ui$Dialog$$);
 $georeferencer$umisti$AddPointDialog$$.prototype.$onShow$ = function $$georeferencer$umisti$AddPointDialog$$$$$onShow$$() {
   $georeferencer$umisti$AddPointDialog$$.$superClass_$.$onShow$.call(this);
-  if(!this.$inDocument_$) {
+  if(!this.$attachedAC_$) {
     var $inputHandler$$3$$ = new $goog$ui$ac$InputHandler$$(null, null, !1), $ac$$1$$ = new $goog$ui$ac$AutoComplete$$(new $georeferencer$umisti$EpsgMatcher$$, new $goog$ui$ac$Renderer$$, new $goog$ui$ac$InputHandler$$(void 0, void 0, !1));
     $inputHandler$$3$$.$ac_$ = $ac$$1$$;
-    $inputHandler$$3$$.$attachInputs$($goog$isString$$("input-proj") ? document.getElementById("input-proj") : "input-proj")
+    $inputHandler$$3$$.$attachInputs$($goog$isString$$("input-proj") ? document.getElementById("input-proj") : "input-proj");
+    this.$attachedAC_$ = !0
   }
 };
 function $JSCompiler_StaticMethods_generateContent_$$() {

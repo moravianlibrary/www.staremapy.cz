@@ -18,6 +18,11 @@ georeferencer.umisti.AddPointDialog = function() {
   this.setModal(true);
   this.setTitle('Vložiť bod.');
   this.setContent(this.generateContent_());
+  /**
+   * @type {boolean}
+   * @private
+   */
+  this.attachedAC_ = false;
 }
 
 goog.inherits(georeferencer.umisti.AddPointDialog, goog.ui.Dialog);
@@ -25,7 +30,7 @@ goog.inherits(georeferencer.umisti.AddPointDialog, goog.ui.Dialog);
 /** @override */
 georeferencer.umisti.AddPointDialog.prototype.onShow = function() {
   goog.base(this, 'onShow');
-  if (!this.isInDocument()) {
+  if (!this.attachedAC_) {
     var inputHandler = new goog.ui.ac.InputHandler(null, null, false);
     var ac = new goog.ui.ac.AutoComplete(
       new georeferencer.umisti.EpsgMatcher(),
@@ -33,6 +38,7 @@ georeferencer.umisti.AddPointDialog.prototype.onShow = function() {
       new goog.ui.ac.InputHandler(undefined, undefined, false));
     inputHandler.attachAutoComplete(ac);
     inputHandler.attachInputs(goog.dom.getElement('input-proj'));
+    this.attachedAC_ = true;
   }
 };
 
