@@ -21,6 +21,18 @@ georeferencer.umisti.AddPointDialog = function() {
 
 goog.inherits(georeferencer.umisti.AddPointDialog, goog.ui.Dialog);
 
+/** @override */
+georeferencer.umisti.AddPointDialog.prototype.onShow = function() {
+  goog.ui.Dialog.base(this, 'onShow');
+  var inputHandler = new goog.ui.ac.InputHandler(null, null, false);
+  var ac = new goog.ui.ac.AutoComplete(
+    new georeferencer.umisti.EpsgMatcher(),
+    new goog.ui.ac.Renderer(),
+    new goog.ui.ac.InputHandler(undefined, undefined, false));
+  inputHandler.attachAutoComplete(ac);
+  inputHandler.attachInputs(goog.dom.getElement('input-proj'));
+};
+
 /**
  * @protected
  * @return {!string}
@@ -62,14 +74,6 @@ georeferencer.umisti.AddPointDialog.prototype.generateContent_ = function() {
   inputLat.id = 'input-lat';
   inputLon.id = 'input-lon';
   inputProj.id = 'input-proj';
-
-  var inputHandler = new goog.ui.ac.InputHandler(null, null, false);
-  var ac = new goog.ui.ac.AutoComplete(
-    new georeferencer.umisti.EpsgMatcher(),
-    new goog.ui.ac.Renderer(),
-    new goog.ui.ac.InputHandler(undefined, undefined, false));
-  inputHandler.attachAutoComplete(ac);
-  inputHandler.attachInputs(inputProj);
 
   return goog.dom.getOuterHtml(table);
 }
