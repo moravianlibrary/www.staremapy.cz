@@ -4419,10 +4419,7 @@ $georeferencer$umisti$AddPointDialog$$.prototype.$enterDocument$ = function $$ge
   this.$inputHandler_$ = new $goog$ui$ac$InputHandler$$(null, null, !1);
   this.$ac_$ = new $goog$ui$ac$AutoComplete$$(new $georeferencer$umisti$EpsgMatcher$$, new $goog$ui$ac$Renderer$$, this.$inputHandler_$);
   this.$inputHandler_$.$ac_$ = this.$ac_$;
-  this.$inputHandler_$.$attachInputs$($goog$dom$getElement$$("input-proj"));
-  var $inputLon$$ = $goog$dom$getElement$$("input-lon");
-  $goog$dom$getElement$$("input-lat").value = "";
-  $inputLon$$.value = ""
+  this.$inputHandler_$.$attachInputs$($goog$dom$getElement$$("input-proj"))
 };
 $georeferencer$umisti$AddPointDialog$$.prototype.$exitDocument$ = function $$georeferencer$umisti$AddPointDialog$$$$$exitDocument$$() {
   var $JSCompiler_StaticMethods_detachInput$self$$inline_564$$ = this.$inputHandler_$, $target$$inline_565$$ = $goog$dom$getElement$$("input-proj");
@@ -4432,6 +4429,12 @@ $georeferencer$umisti$AddPointDialog$$.prototype.$exitDocument$ = function $$geo
   $JSCompiler_StaticMethods_detachInput$self$$inline_564$$.$activeElement_$ || $JSCompiler_StaticMethods_detachInput$self$$inline_564$$.$activateHandler_$.$unlisten$($target$$inline_565$$, "keydown", $JSCompiler_StaticMethods_detachInput$self$$inline_564$$.$onKeyDownOnInactiveElement_$);
   this.$inputHandler_$ = this.$ac_$ = null;
   $georeferencer$umisti$AddPointDialog$$.$superClass_$.$exitDocument$.call(this)
+};
+$georeferencer$umisti$AddPointDialog$$.prototype.$onShow$ = function $$georeferencer$umisti$AddPointDialog$$$$$onShow$$() {
+  $georeferencer$umisti$AddPointDialog$$.$superClass_$.$onShow$.call(this);
+  var $inputLon$$ = $goog$dom$getElement$$("input-lon");
+  $goog$dom$getElement$$("input-lat").value = "";
+  $inputLon$$.value = ""
 };
 function $JSCompiler_StaticMethods_generateContent_$$() {
   var $JSCompiler_inline_result$$31_table$$ = $goog$dom$createElement$$("table"), $div$$inline_604_trLat$$ = $goog$dom$createElement$$("tr"), $thLat$$ = $goog$dom$createElement$$("th"), $tdLat$$ = $goog$dom$createElement$$("td"), $inputLat$$2$$ = $goog$dom$createElement$$("input"), $trLon$$ = $goog$dom$createElement$$("tr"), $thLon$$ = $goog$dom$createElement$$("th"), $tdLon$$ = $goog$dom$createElement$$("td"), $inputLon$$2$$ = $goog$dom$createElement$$("input"), $trProj$$ = $goog$dom$createElement$$("tr"), 

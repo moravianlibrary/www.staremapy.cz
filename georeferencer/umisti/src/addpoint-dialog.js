@@ -53,10 +53,6 @@ georeferencer.umisti.AddPointDialog.prototype.enterDocument = function() {
     this.inputHandler_);
   this.inputHandler_.attachAutoComplete(this.ac_);
   this.inputHandler_.attachInputs(goog.dom.getElement('input-proj'));
-  var inputLat = goog.dom.getElement('input-lat');
-  var inputLon = goog.dom.getElement('input-lon');
-  inputLat.value = '';
-  inputLon.value = '';
 };
 
 /**
@@ -68,6 +64,17 @@ georeferencer.umisti.AddPointDialog.prototype.exitDocument = function() {
   this.inputHandler_ = null;
   goog.base(this, 'exitDocument');
 };
+
+/**
+ * @override
+ */
+georeferencer.umisti.AddPointDialog.prototype.onShow = function() {
+  goog.base(this, 'onShow');
+  var inputLat = goog.dom.getElement('input-lat');
+  var inputLon = goog.dom.getElement('input-lon');
+  inputLat.value = '';
+  inputLon.value = '';
+}
 
 georeferencer.umisti.AddPointDialog.prototype.validate = function() {
   var inputLat = goog.dom.getElement('input-lat');
