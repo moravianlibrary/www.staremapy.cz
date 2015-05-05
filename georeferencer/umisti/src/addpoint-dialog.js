@@ -68,9 +68,9 @@ goog.inherits(georeferencer.umisti.AddPointDialog, goog.ui.Dialog);
  */
 georeferencer.umisti.AddPointDialog.prototype.enterDocument = function() {
   goog.base(this, 'enterDocument');
-  var northLabelInput = new goog.ui.LabelInput("'49.5' nebo '49 30' nebo '49 30.5' nebo '49 30 30'");
-  var eastLabelInput = new goog.ui.LabelInput("'49.5' nebo '49 30' nebo '49 30.5' nebo '49 30 30'");
-  var projLabelInput = new goog.ui.LabelInput("'WGS84' nebo 4326 nebo 'jtsk' nebo 'czech'");
+  var northLabelInput = new goog.ui.LabelInput("'49.5', '49 30'");
+  var eastLabelInput = new goog.ui.LabelInput("'49 30.5', '49 30 30'");
+  var projLabelInput = new goog.ui.LabelInput("'WGS84', '4326', 'jtsk', 'czech'");
   northLabelInput.decorate(goog.dom.getElement('input-north'));
   eastLabelInput.decorate(goog.dom.getElement('input-east'));
   projLabelInput.decorate(goog.dom.getElement('input-proj'));
