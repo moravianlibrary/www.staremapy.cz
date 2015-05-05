@@ -4395,8 +4395,8 @@ function $JSCompiler_StaticMethods_requestMatchingRows$$($token$$14$$, $matchHan
   this.$parentElement_$ = $parentElement$$2$$;
   this.$inputHandler_$ = this.$ac_$ = null;
   !0 != this.$modal_$ && $JSCompiler_StaticMethods_setModalInternal_$$(this, !0);
-  this.$title_$ = "Zadat vlicovac\u00ed bod pomoc\u00ed \u010d\u00edseln\u00fdch sou\u0159adnic. (Pr\u00e1v\u011b ve v\u00fdvoji..)";
-  this.$titleTextEl_$ && $goog$dom$setTextContent$$(this.$titleTextEl_$, "Zadat vlicovac\u00ed bod pomoc\u00ed \u010d\u00edseln\u00fdch sou\u0159adnic. (Pr\u00e1v\u011b ve v\u00fdvoji..)");
+  this.$title_$ = "Zadat vlicovac\u00ed bod pomoc\u00ed \u010d\u00edseln\u00fdch sou\u0159adnic.";
+  this.$titleTextEl_$ && $goog$dom$setTextContent$$(this.$titleTextEl_$, "Zadat vlicovac\u00ed bod pomoc\u00ed \u010d\u00edseln\u00fdch sou\u0159adnic.");
   this.$setContent$($JSCompiler_StaticMethods_generateContent_$$());
   $goog$events$listen$$(this, $goog$ui$Dialog$EventType$SELECT$$, function($e$$103_lat$$) {
     if("ok" == $e$$103_lat$$.key) {
