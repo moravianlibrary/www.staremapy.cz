@@ -94,3 +94,12 @@
 #input-lat-grad, #input-lat-min, #input-lat-sec, #input-lon-grad, #input-lon-min, #input-lon-sec {
   width: 25px
 }
+
+.modal-dialog table td span {
+  font-size: 17px;
+  padding: 2px
+}
+
+#input-proj {
+  width: 110px
+}
