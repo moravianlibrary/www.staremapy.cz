@@ -36,7 +36,7 @@ georeferencer.umisti.AddPointDialog = function(parentElement) {
    */
   this.inputHandler_ = null;
   this.setModal(true);
-  this.setTitle('Zadat vlicovací bod pomocí číselných souřadnic. (Právě ve vývoji..)');
+  this.setTitle('Zadat vlicovací bod pomocí číselných souřadnic.');
   this.setContent(this.generateContent_());
 
   goog.events.listen(this, goog.ui.Dialog.EventType.SELECT, function(e) {
