@@ -4398,39 +4398,52 @@ function $JSCompiler_StaticMethods_requestMatchingRows$$($token$$14$$, $matchHan
   this.$title_$ = "Zadat vlicovac\u00ed bod pomoc\u00ed \u010d\u00edseln\u00fdch sou\u0159adnic.";
   this.$titleTextEl_$ && $goog$dom$setTextContent$$(this.$titleTextEl_$, "Zadat vlicovac\u00ed bod pomoc\u00ed \u010d\u00edseln\u00fdch sou\u0159adnic.");
   this.$setContent$($JSCompiler_StaticMethods_generateContent_$$());
-  $goog$events$listen$$(this, $goog$ui$Dialog$EventType$SELECT$$, function($e$$103_lat$$) {
-    if("ok" == $e$$103_lat$$.key) {
-      var $inputLatGrad$$inline_555_lon$$ = $goog$dom$getElement$$("input-lat-grad"), $inputLatMin$$inline_556_proj$$ = $goog$dom$getElement$$("input-lat-min"), $event$$5_inputLatSec$$inline_557$$ = $goog$dom$getElement$$("input-lat-sec"), $inputLonGrad$$inline_558$$ = $goog$dom$getElement$$("input-lon-grad"), $inputLonMin$$inline_559$$ = $goog$dom$getElement$$("input-lon-min"), $inputLonSec$$inline_560$$ = $goog$dom$getElement$$("input-lon-sec"), $inputProj$$inline_561$$ = $goog$dom$getElement$$("input-proj"), 
-      $valid$$inline_562$$ = !0, $decimalNumFormat$$inline_563$$ = RegExp(/^\d+([.,]\d+)?$/), $projFormat$$inline_564$$ = RegExp(/^\d+/);
-      $goog$dom$classes$remove$$($inputLatGrad$$inline_555_lon$$, "goog-error-empty", "goog-error-format");
-      $goog$dom$classes$remove$$($inputLatMin$$inline_556_proj$$, "goog-error-empty", "goog-error-format");
-      $goog$dom$classes$remove$$($event$$5_inputLatSec$$inline_557$$, "goog-error-empty", "goog-error-format");
-      $goog$dom$classes$remove$$($inputLonGrad$$inline_558$$, "goog-error-empty", "goog-error-format");
-      $goog$dom$classes$remove$$($inputLonMin$$inline_559$$, "goog-error-empty", "goog-error-format");
-      $goog$dom$classes$remove$$($inputLonSec$$inline_560$$, "goog-error-empty", "goog-error-format");
+  $goog$events$listen$$(this, $goog$ui$Dialog$EventType$SELECT$$, function($e$$103_proj_projParser$$) {
+    if("ok" == $e$$103_proj_projParser$$.key) {
+      var $inputLatGrad$$inline_555_lon_lonGrad$$ = $goog$dom$getElement$$("input-lat-grad"), $event$$5_inputLatMin$$inline_556_lonMin$$ = $goog$dom$getElement$$("input-lat-min"), $inputLatSec$$inline_557_lonSec$$ = $goog$dom$getElement$$("input-lat-sec"), $inputLonGrad$$inline_558_lat_latGrad$$ = $goog$dom$getElement$$("input-lon-grad"), $inputLonMin$$inline_559_latMin$$ = $goog$dom$getElement$$("input-lon-min"), $inputLonSec$$inline_560_latSec$$ = $goog$dom$getElement$$("input-lon-sec"), $inputProj$$inline_561$$ = 
+      $goog$dom$getElement$$("input-proj"), $valid$$inline_562$$ = !0, $decimalNumFormat$$inline_563$$ = RegExp(/^\d+([.,]\d+)?$/), $projFormat$$inline_564$$ = RegExp(/^\d+/);
+      $goog$dom$classes$remove$$($inputLatGrad$$inline_555_lon_lonGrad$$, "goog-error-empty", "goog-error-format");
+      $goog$dom$classes$remove$$($event$$5_inputLatMin$$inline_556_lonMin$$, "goog-error-empty", "goog-error-format");
+      $goog$dom$classes$remove$$($inputLatSec$$inline_557_lonSec$$, "goog-error-empty", "goog-error-format");
+      $goog$dom$classes$remove$$($inputLonGrad$$inline_558_lat_latGrad$$, "goog-error-empty", "goog-error-format");
+      $goog$dom$classes$remove$$($inputLonMin$$inline_559_latMin$$, "goog-error-empty", "goog-error-format");
+      $goog$dom$classes$remove$$($inputLonSec$$inline_560_latSec$$, "goog-error-empty", "goog-error-format");
       $goog$dom$classes$remove$$($inputProj$$inline_561$$, "goog-error-empty", "goog-error-format");
-      $goog$string$isEmptySafe$$($inputLatGrad$$inline_555_lon$$.value) && ($valid$$inline_562$$ = !1, $goog$dom$classes$add$$($inputLatGrad$$inline_555_lon$$, "goog-error-empty"));
-      $goog$string$isEmptySafe$$($inputLonGrad$$inline_558$$.value) && ($valid$$inline_562$$ = !1, $goog$dom$classes$add$$($inputLonGrad$$inline_558$$, "goog-error-empty"));
+      $goog$string$isEmptySafe$$($inputLatGrad$$inline_555_lon_lonGrad$$.value) && ($valid$$inline_562$$ = !1, $goog$dom$classes$add$$($inputLatGrad$$inline_555_lon_lonGrad$$, "goog-error-empty"));
+      $goog$string$isEmptySafe$$($inputLonGrad$$inline_558_lat_latGrad$$.value) && ($valid$$inline_562$$ = !1, $goog$dom$classes$add$$($inputLonGrad$$inline_558_lat_latGrad$$, "goog-error-empty"));
       $goog$string$isEmptySafe$$($inputProj$$inline_561$$.value) && ($valid$$inline_562$$ = !1, $goog$dom$classes$add$$($inputProj$$inline_561$$, "goog-error-empty"));
-      $goog$string$isEmptySafe$$($inputLatGrad$$inline_555_lon$$.value) || $decimalNumFormat$$inline_563$$.test($inputLatGrad$$inline_555_lon$$.value) || ($valid$$inline_562$$ = !1, $goog$dom$classes$add$$($inputLatGrad$$inline_555_lon$$, "goog-error-format"));
-      !$goog$string$isEmptySafe$$($inputLatMin$$inline_556_proj$$.value) && /[^0-9]/.test($inputLatMin$$inline_556_proj$$.value) && ($valid$$inline_562$$ = !1, $goog$dom$classes$add$$($inputLatMin$$inline_556_proj$$, "goog-error-format"));
-      !$goog$string$isEmptySafe$$($event$$5_inputLatSec$$inline_557$$.value) && /[^0-9]/.test($event$$5_inputLatSec$$inline_557$$.value) && ($valid$$inline_562$$ = !1, $goog$dom$classes$add$$($event$$5_inputLatSec$$inline_557$$, "goog-error-format"));
-      $goog$string$isEmptySafe$$($inputLonGrad$$inline_558$$.value) || $decimalNumFormat$$inline_563$$.test($inputLonGrad$$inline_558$$.value) || ($valid$$inline_562$$ = !1, $goog$dom$classes$add$$($inputLonGrad$$inline_558$$, "goog-error-format"));
-      !$goog$string$isEmptySafe$$($inputLonMin$$inline_559$$.value) && /[^0-9]/.test($inputLonMin$$inline_559$$.value) && ($valid$$inline_562$$ = !1, $goog$dom$classes$add$$($inputLonMin$$inline_559$$, "goog-error-format"));
-      !$goog$string$isEmptySafe$$($inputLonSec$$inline_560$$.value) && /[^0-9]/.test($inputLonSec$$inline_560$$.value) && ($valid$$inline_562$$ = !1, $goog$dom$classes$add$$($inputLonSec$$inline_560$$, "goog-error-format"));
+      $goog$string$isEmptySafe$$($inputLatGrad$$inline_555_lon_lonGrad$$.value) || $decimalNumFormat$$inline_563$$.test($inputLatGrad$$inline_555_lon_lonGrad$$.value) || ($valid$$inline_562$$ = !1, $goog$dom$classes$add$$($inputLatGrad$$inline_555_lon_lonGrad$$, "goog-error-format"));
+      !$goog$string$isEmptySafe$$($event$$5_inputLatMin$$inline_556_lonMin$$.value) && /[^0-9]/.test($event$$5_inputLatMin$$inline_556_lonMin$$.value) && ($valid$$inline_562$$ = !1, $goog$dom$classes$add$$($event$$5_inputLatMin$$inline_556_lonMin$$, "goog-error-format"));
+      !$goog$string$isEmptySafe$$($inputLatSec$$inline_557_lonSec$$.value) && /[^0-9]/.test($inputLatSec$$inline_557_lonSec$$.value) && ($valid$$inline_562$$ = !1, $goog$dom$classes$add$$($inputLatSec$$inline_557_lonSec$$, "goog-error-format"));
+      $goog$string$isEmptySafe$$($inputLonGrad$$inline_558_lat_latGrad$$.value) || $decimalNumFormat$$inline_563$$.test($inputLonGrad$$inline_558_lat_latGrad$$.value) || ($valid$$inline_562$$ = !1, $goog$dom$classes$add$$($inputLonGrad$$inline_558_lat_latGrad$$, "goog-error-format"));
+      !$goog$string$isEmptySafe$$($inputLonMin$$inline_559_latMin$$.value) && /[^0-9]/.test($inputLonMin$$inline_559_latMin$$.value) && ($valid$$inline_562$$ = !1, $goog$dom$classes$add$$($inputLonMin$$inline_559_latMin$$, "goog-error-format"));
+      !$goog$string$isEmptySafe$$($inputLonSec$$inline_560_latSec$$.value) && /[^0-9]/.test($inputLonSec$$inline_560_latSec$$.value) && ($valid$$inline_562$$ = !1, $goog$dom$classes$add$$($inputLonSec$$inline_560_latSec$$, "goog-error-format"));
       $goog$string$isEmptySafe$$($inputProj$$inline_561$$.value) || $projFormat$$inline_564$$.test($inputProj$$inline_561$$.value) || ($valid$$inline_562$$ = !1, $goog$dom$classes$add$$($inputProj$$inline_561$$, "goog-error-format"));
       if(!$valid$$inline_562$$) {
-        return $e$$103_lat$$.stopPropagation(), !1
+        return $e$$103_proj_projParser$$.stopPropagation(), !1
       }
-      $e$$103_lat$$ = $goog$string$toNumber$$($goog$dom$getElement$$("input-lat-grad").value) + $goog$string$toNumber$$($goog$dom$getElement$$("input-lat-min").value) / 60 + $goog$string$toNumber$$($goog$dom$getElement$$("input-lat-sec").value) / 3600;
-      $inputLatGrad$$inline_555_lon$$ = $goog$string$toNumber$$($goog$dom$getElement$$("input-lon-grad").value) + $goog$string$toNumber$$($goog$dom$getElement$$("input-lon-min").value) / 60 + $goog$string$toNumber$$($goog$dom$getElement$$("input-lon-sec").value) / 3600;
-      $inputLatMin$$inline_556_proj$$ = RegExp(/^(\d+).*/).exec($goog$dom$getElement$$("input-proj").value)[1];
-      $event$$5_inputLatSec$$inline_557$$ = {};
-      $event$$5_inputLatSec$$inline_557$$.type = $georeferencer$umisti$AddPointDialog$EventType$SELECT$$;
-      $event$$5_inputLatSec$$inline_557$$.lat = $e$$103_lat$$.toString();
-      $event$$5_inputLatSec$$inline_557$$.lon = $inputLatGrad$$inline_555_lon$$.toString();
-      $event$$5_inputLatSec$$inline_557$$.proj = $inputLatMin$$inline_556_proj$$;
-      this.dispatchEvent($event$$5_inputLatSec$$inline_557$$)
+      $e$$103_proj_projParser$$ = RegExp(/^(\d+).*/);
+      $inputLonGrad$$inline_558_lat_latGrad$$ = $goog$string$toNumber$$($goog$dom$getElement$$("input-lat-grad").value);
+      $inputLonMin$$inline_559_latMin$$ = $goog$string$toNumber$$($goog$dom$getElement$$("input-lat-min").value);
+      $inputLonSec$$inline_560_latSec$$ = $goog$string$toNumber$$($goog$dom$getElement$$("input-lat-sec").value);
+      $inputLatGrad$$inline_555_lon_lonGrad$$ = $goog$string$toNumber$$($goog$dom$getElement$$("input-lon-grad").value);
+      $event$$5_inputLatMin$$inline_556_lonMin$$ = $goog$string$toNumber$$($goog$dom$getElement$$("input-lon-min").value);
+      $inputLatSec$$inline_557_lonSec$$ = $goog$string$toNumber$$($goog$dom$getElement$$("input-lon-sec").value);
+      window.console.log($inputLonGrad$$inline_558_lat_latGrad$$);
+      window.console.log($inputLonMin$$inline_559_latMin$$);
+      window.console.log($inputLonSec$$inline_560_latSec$$);
+      window.console.log($inputLatGrad$$inline_555_lon_lonGrad$$);
+      window.console.log($event$$5_inputLatMin$$inline_556_lonMin$$);
+      window.console.log($inputLatSec$$inline_557_lonSec$$);
+      $inputLonGrad$$inline_558_lat_latGrad$$ = $inputLonGrad$$inline_558_lat_latGrad$$ + $inputLonMin$$inline_559_latMin$$ / 60 + $inputLonSec$$inline_560_latSec$$ / 3600;
+      $inputLatGrad$$inline_555_lon_lonGrad$$ = $inputLatGrad$$inline_555_lon_lonGrad$$ + $event$$5_inputLatMin$$inline_556_lonMin$$ / 60 + $inputLatSec$$inline_557_lonSec$$ / 3600;
+      $e$$103_proj_projParser$$ = $e$$103_proj_projParser$$.exec($goog$dom$getElement$$("input-proj").value)[1];
+      $event$$5_inputLatMin$$inline_556_lonMin$$ = {};
+      $event$$5_inputLatMin$$inline_556_lonMin$$.type = $georeferencer$umisti$AddPointDialog$EventType$SELECT$$;
+      $event$$5_inputLatMin$$inline_556_lonMin$$.lat = $inputLonGrad$$inline_558_lat_latGrad$$.toString();
+      $event$$5_inputLatMin$$inline_556_lonMin$$.lon = $inputLatGrad$$inline_555_lon_lonGrad$$.toString();
+      $event$$5_inputLatMin$$inline_556_lonMin$$.proj = $e$$103_proj_projParser$$;
+      this.dispatchEvent($event$$5_inputLatMin$$inline_556_lonMin$$)
     }
     return!0
   })
