@@ -17,7 +17,7 @@ georeferencer.umisti.main = function() {
   var rightPanel = goog.dom.getElement('main-right');
   goog.asserts.assertObject(rightPanel);
 
-  var addPointDialog = new georeferencer.umisti.AddPointDialog();
+  var addPointDialog = new georeferencer.umisti.AddPointDialog(goog.dom.getElement('map'));
 
   var addPointCnt = goog.dom.createElement('span');
   goog.dom.classes.add(addPointCnt, 'icon-target');

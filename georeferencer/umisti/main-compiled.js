@@ -4386,8 +4386,9 @@ function $JSCompiler_StaticMethods_requestMatchingRows$$($token$$14$$, $matchHan
     $matchHandler$$($token$$14$$, $rows$$7$$)
   })
 }
-;function $georeferencer$umisti$AddPointDialog$$() {
+;function $georeferencer$umisti$AddPointDialog$$($parentElement$$2$$) {
   $goog$ui$Dialog$$.call(this);
+  this.$parentElement_$ = $parentElement$$2$$;
   this.$inputHandler_$ = this.$ac_$ = null;
   !0 != this.$modal_$ && $JSCompiler_StaticMethods_setModalInternal_$$(this, !0);
   this.$title_$ = "Vlo\u017ei\u0165 bod. (Pr\u00e1v\u011b ve v\u00fdvoji..)";
@@ -4437,6 +4438,9 @@ $georeferencer$umisti$AddPointDialog$$.prototype.$exitDocument$ = function $$geo
   $JSCompiler_StaticMethods_detachInput$self$$inline_565$$.$activeElement_$ || $JSCompiler_StaticMethods_detachInput$self$$inline_565$$.$activateHandler_$.$unlisten$($target$$inline_566$$, "keydown", $JSCompiler_StaticMethods_detachInput$self$$inline_565$$.$onKeyDownOnInactiveElement_$);
   this.$inputHandler_$ = this.$ac_$ = null;
   $georeferencer$umisti$AddPointDialog$$.$superClass_$.$exitDocument$.call(this)
+};
+$georeferencer$umisti$AddPointDialog$$.prototype.$render$ = function $$georeferencer$umisti$AddPointDialog$$$$$render$$($parentElement$$3$$) {
+  $parentElement$$3$$ ? $georeferencer$umisti$AddPointDialog$$.$superClass_$.$render$.call(this, $parentElement$$3$$) : $georeferencer$umisti$AddPointDialog$$.$superClass_$.$render$.call(this, this.$parentElement_$)
 };
 $georeferencer$umisti$AddPointDialog$$.prototype.$onShow$ = function $$georeferencer$umisti$AddPointDialog$$$$$onShow$$() {
   $georeferencer$umisti$AddPointDialog$$.$superClass_$.$onShow$.call(this);
@@ -4502,7 +4506,7 @@ function $opt_object$$inline_788$$() {
   $georeferencer$umisti$loadCss$$("http://staremapy.cz/georeferencer/umisti/css/dialog.css");
   var $rightPanel$$ = $goog$dom$getElement$$("main-right");
   $goog$asserts$assertObject$$($rightPanel$$);
-  var $addPointDialog$$ = new $georeferencer$umisti$AddPointDialog$$, $addPointBttn_addPointCnt$$ = $goog$dom$createElement$$("span");
+  var $addPointDialog$$ = new $georeferencer$umisti$AddPointDialog$$($goog$dom$getElement$$("map")), $addPointBttn_addPointCnt$$ = $goog$dom$createElement$$("span");
   $goog$dom$classes$add$$($addPointBttn_addPointCnt$$, "icon-target");
   $addPointBttn_addPointCnt$$ = new $goog$ui$Button$$($addPointBttn_addPointCnt$$, $goog$ui$FlatButtonRenderer$$.$getInstance$());
   $JSCompiler_StaticMethods_addClassName$$($addPointBttn_addPointCnt$$, "addpoint");

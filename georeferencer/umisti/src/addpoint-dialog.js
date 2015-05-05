@@ -15,9 +15,15 @@ goog.require('georeferencer.umisti.EpsgMatcher');
 /**
  * @constructor
  * @extends {goog.ui.Dialog}
+ * @param {Element} parentElement
  */
-georeferencer.umisti.AddPointDialog = function() {
+georeferencer.umisti.AddPointDialog = function(parentElement) {
   goog.ui.Dialog.call(this);
+  /**
+   * @type {Element}
+   * @private
+   */
+  this.parentElement_ = parentElement;
   /**
    * @type {goog.ui.ac.AutoComplete}
    * @private
@@ -78,6 +84,17 @@ georeferencer.umisti.AddPointDialog.prototype.exitDocument = function() {
   this.inputHandler_ = null;
   goog.base(this, 'exitDocument');
 };
+
+/**
+ * @override
+ */
+georeferencer.umisti.AddPointDialog.prototype.render = function(parentElement) {
+  if (parentElement) {
+    goog.base(this, 'render', parentElement);
+  } else {
+    goog.base(this, 'render', this.parentElement_);
+  }
+}
 
 /**
  * @override
