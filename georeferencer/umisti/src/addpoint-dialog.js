@@ -136,49 +136,89 @@ georeferencer.umisti.AddPointDialog.prototype.reposition = function() {
  */
 georeferencer.umisti.AddPointDialog.prototype.onShow = function() {
   goog.base(this, 'onShow');
-  var inputLat = goog.dom.getElement('input-lat');
-  var inputLon = goog.dom.getElement('input-lon');
+  var inputLatGrad = goog.dom.getElement('input-lat-grad');
+  var inputLatMin = goog.dom.getElement('input-lat-min');
+  var inputLatSec = goog.dom.getElement('input-lat-sec');
+  var inputLonGrad = goog.dom.getElement('input-lon-grad');
+  var inputLonMin = goog.dom.getElement('input-lon-min');
+  var inputLonSec = goog.dom.getElement('input-lon-sec');
   var inputProj = goog.dom.getElement('input-proj');
-  inputLat.value = '';
-  inputLon.value = '';
-  goog.dom.classes.remove(inputLat, 'goog-error-empty', 'goog-error-format');
-  goog.dom.classes.remove(inputLon, 'goog-error-empty', 'goog-error-format');
+  inputLatGrad.value = '';
+  inputLatMin.value = '';
+  inputLatSec.value = '';
+  inputLonGrad.value = '';
+  inputLonMin.value = '';
+  inputLonSec.value = '';
+  goog.dom.classes.remove(inputLatGrad, 'goog-error-empty', 'goog-error-format');
+  goog.dom.classes.remove(inputLatMin, 'goog-error-empty', 'goog-error-format');
+  goog.dom.classes.remove(inputLatSec, 'goog-error-empty', 'goog-error-format');
+  goog.dom.classes.remove(inputLonGrad, 'goog-error-empty', 'goog-error-format');
+  goog.dom.classes.remove(inputLonMin, 'goog-error-empty', 'goog-error-format');
+  goog.dom.classes.remove(inputLonSec, 'goog-error-empty', 'goog-error-format');
   goog.dom.classes.remove(inputProj, 'goog-error-empty', 'goog-error-format');
 }
 
 georeferencer.umisti.AddPointDialog.prototype.validate = function() {
-  var inputLat = goog.dom.getElement('input-lat');
-  var inputLon = goog.dom.getElement('input-lon');
+  var inputLatGrad = goog.dom.getElement('input-lat-grad');
+  var inputLatMin = goog.dom.getElement('input-lat-min');
+  var inputLatSec = goog.dom.getElement('input-lat-sec');
+  var inputLonGrad = goog.dom.getElement('input-lon-grad');
+  var inputLonMin = goog.dom.getElement('input-lon-min');
+  var inputLonSec = goog.dom.getElement('input-lon-sec');
   var inputProj = goog.dom.getElement('input-proj');
   var valid = true;
   var decimalNumFormat = new RegExp(/^\d+([.,]\d+)?$/);
   var projFormat = new RegExp(/^\d+/);
 
-  goog.dom.classes.remove(inputLat, 'goog-error-empty', 'goog-error-format');
-  goog.dom.classes.remove(inputLon, 'goog-error-empty', 'goog-error-format');
+  goog.dom.classes.remove(inputLatGrad, 'goog-error-empty', 'goog-error-format');
+  goog.dom.classes.remove(inputLatMin, 'goog-error-empty', 'goog-error-format');
+  goog.dom.classes.remove(inputLatSec, 'goog-error-empty', 'goog-error-format');
+  goog.dom.classes.remove(inputLonGrad, 'goog-error-empty', 'goog-error-format');
+  goog.dom.classes.remove(inputLonMin, 'goog-error-empty', 'goog-error-format');
+  goog.dom.classes.remove(inputLonSec, 'goog-error-empty', 'goog-error-format');
   goog.dom.classes.remove(inputProj, 'goog-error-empty', 'goog-error-format');
 
-  if (goog.string.isEmptySafe(inputLat.value)) {
+  if (goog.string.isEmptySafe(inputLatGrad.value)) {
     valid = false;
-    goog.dom.classes.add(inputLat, 'goog-error-empty');
+    goog.dom.classes.add(inputLatGrad, 'goog-error-empty');
   }
-  if (goog.string.isEmptySafe(inputLon.value)) {
+  if (goog.string.isEmptySafe(inputLonGrad.value)) {
     valid = false;
-    goog.dom.classes.add(inputLon, 'goog-error-empty');
+    goog.dom.classes.add(inputLonGrad, 'goog-error-empty');
   }
   if (goog.string.isEmptySafe(inputProj.value)) {
     valid = false;
     goog.dom.classes.add(inputProj, 'goog-error-empty');
   }
-  if (!goog.string.isEmptySafe(inputLat.value)
-      && !decimalNumFormat.test(inputLat.value)) {
+  if (!goog.string.isEmptySafe(inputLatGrad.value)
+      && !decimalNumFormat.test(inputLatGrad.value)) {
     valid = false;
-    goog.dom.classes.add(inputLat, 'goog-error-format');
+    goog.dom.classes.add(inputLatGrad, 'goog-error-format');
   }
-  if (!goog.string.isEmptySafe(inputLon.value)
-      && !decimalNumFormat.test(inputLon.value)) {
+  if (!goog.string.isEmptySafe(inputLatMin.value)
+      && !goog.string.isNumeric(inputLatMin.value)) {
     valid = false;
-    goog.dom.classes.add(inputLon, 'goog-error-format');
+    goog.dom.classes.add(inputLatMin, 'goog-error-format');
+  }
+  if (!goog.string.isEmptySafe(inputLatSec.value)
+      && !goog.string.isNumeric(inputLatSec.value)) {
+    valid = false;
+    goog.dom.classes.add(inputLatSec, 'goog-error-format');
+  }
+  if (!goog.string.isEmptySafe(inputLonGrad.value)
+      && !decimalNumFormat.test(inputLonGrad.value)) {
+    valid = false;
+    goog.dom.classes.add(inputLonGrad, 'goog-error-format');
+  }
+  if (!goog.string.isEmptySafe(inputLonMin.value)
+      && !goog.string.isNumeric(inputLonMin.value)) {
+    valid = false;
+    goog.dom.classes.add(inputLonMin, 'goog-error-format');
+  }
+  if (!goog.string.isEmptySafe(inputLonSec.value)
+      && !goog.string.isNumeric(inputLonSec.value)) {
+    valid = false;
+    goog.dom.classes.add(inputLonSec, 'goog-error-format');
   }
   if (!goog.string.isEmptySafe(inputProj.value)
       && !projFormat.test(inputProj.value)) {
@@ -198,11 +238,15 @@ georeferencer.umisti.AddPointDialog.prototype.generateContent_ = function() {
   var trLat = goog.dom.createElement('tr');
   var thLat = goog.dom.createElement('th');
   var tdLat = goog.dom.createElement('td');
-  var inputLat = goog.dom.createElement('input');
+  var inputLatGrad = goog.dom.createElement('input');
+  var inputLatMin = goog.dom.createElement('input');
+  var inputLatSec = goog.dom.createElement('input');
   var trLon = goog.dom.createElement('tr');
   var thLon = goog.dom.createElement('th');
   var tdLon = goog.dom.createElement('td');
-  var inputLon = goog.dom.createElement('input');
+  var inputLonGrad = goog.dom.createElement('input');
+  var inputLonMin = goog.dom.createElement('input');
+  var inputLonSec = goog.dom.createElement('input');
   var trProj = goog.dom.createElement('tr');
   var thProj = goog.dom.createElement('th');
   var tdProj = goog.dom.createElement('td');
@@ -223,12 +267,20 @@ georeferencer.umisti.AddPointDialog.prototype.generateContent_ = function() {
   goog.dom.setTextContent(thLon, 'Zeměpisná délka:');
   goog.dom.setTextContent(thProj, 'Kartografická projekce:');
 
-  goog.dom.appendChild(tdLat, inputLat);
-  goog.dom.appendChild(tdLon, inputLon);
+  goog.dom.appendChild(tdLat, inputLatGrad);
+  goog.dom.appendChild(tdLat, inputLatMin);
+  goog.dom.appendChild(tdLat, inputLatSec);
+  goog.dom.appendChild(tdLon, inputLonGrad);
+  goog.dom.appendChild(tdLon, inputLonMin);
+  goog.dom.appendChild(tdLon, inputLonSec);
   goog.dom.appendChild(tdProj, inputProj);
 
-  inputLat.id = 'input-lat';
-  inputLon.id = 'input-lon';
+  inputLatGrad.id = 'input-lat-grad';
+  inputLatMin.id = 'input-lat-min';
+  inputLatSec.id = 'input-lat-sec';
+  inputLonGrad.id = 'input-lon-grad';
+  inputLonMin.id = 'input-lon-min';
+  inputLonSec.id = 'input-lon-sec';
   inputProj.id = 'input-proj';
 
   return goog.dom.getOuterHtml(table);
