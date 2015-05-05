@@ -42,12 +42,12 @@ georeferencer.umisti.AddPointDialog = function() {
       var lat = goog.dom.getElement('input-lat').value;
       var lon = goog.dom.getElement('input-lon').value;
       var proj = projParser.exec(goog.dom.getElement('input-proj').value)[1];
-      this.dispatchEvent({
-        type: georeferencer.umisti.AddPointDialog.EventType.SELECT,
-        lat: lat,
-        lon: lon,
-        proj: proj
-      });
+      var event = {};
+      event.type = georeferencer.umisti.AddPointDialog.EventType.SELECT;
+      event['lat'] = lat;
+      event['lon'] = lon;
+      event['proj'] = proj;
+      this.dispatchEvent(event);
     }
     return true;
   });

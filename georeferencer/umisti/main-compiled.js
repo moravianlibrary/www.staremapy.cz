@@ -4395,23 +4395,28 @@ function $JSCompiler_StaticMethods_requestMatchingRows$$($token$$14$$, $matchHan
   this.$setContent$($JSCompiler_StaticMethods_generateContent_$$());
   $goog$events$listen$$(this, $goog$ui$Dialog$EventType$SELECT$$, function($e$$103_lat$$) {
     if("ok" == $e$$103_lat$$.key) {
-      var $inputLat$$inline_555_lon$$ = $goog$dom$getElement$$("input-lat"), $inputLon$$inline_556_proj$$ = $goog$dom$getElement$$("input-lon"), $inputProj$$inline_557$$ = $goog$dom$getElement$$("input-proj"), $valid$$inline_558$$ = !0, $decimalNumFormat$$inline_559$$ = RegExp(/^\d+([.,]\d+)?$/), $projFormat$$inline_560$$ = RegExp(/^\d+/);
+      var $inputLat$$inline_555_lon$$ = $goog$dom$getElement$$("input-lat"), $inputLon$$inline_556_proj$$ = $goog$dom$getElement$$("input-lon"), $event$$5_inputProj$$inline_557$$ = $goog$dom$getElement$$("input-proj"), $valid$$inline_558$$ = !0, $decimalNumFormat$$inline_559$$ = RegExp(/^\d+([.,]\d+)?$/), $projFormat$$inline_560$$ = RegExp(/^\d+/);
       $goog$dom$classes$remove$$($inputLat$$inline_555_lon$$, "goog-error-empty", "goog-error-format");
       $goog$dom$classes$remove$$($inputLon$$inline_556_proj$$, "goog-error-empty", "goog-error-format");
-      $goog$dom$classes$remove$$($inputProj$$inline_557$$, "goog-error-empty", "goog-error-format");
+      $goog$dom$classes$remove$$($event$$5_inputProj$$inline_557$$, "goog-error-empty", "goog-error-format");
       $goog$string$isEmptySafe$$($inputLat$$inline_555_lon$$.value) && ($valid$$inline_558$$ = !1, $goog$dom$classes$add$$($inputLat$$inline_555_lon$$, "goog-error-empty"));
       $goog$string$isEmptySafe$$($inputLon$$inline_556_proj$$.value) && ($valid$$inline_558$$ = !1, $goog$dom$classes$add$$($inputLon$$inline_556_proj$$, "goog-error-empty"));
-      $goog$string$isEmptySafe$$($inputProj$$inline_557$$.value) && ($valid$$inline_558$$ = !1, $goog$dom$classes$add$$($inputProj$$inline_557$$, "goog-error-empty"));
+      $goog$string$isEmptySafe$$($event$$5_inputProj$$inline_557$$.value) && ($valid$$inline_558$$ = !1, $goog$dom$classes$add$$($event$$5_inputProj$$inline_557$$, "goog-error-empty"));
       $goog$string$isEmptySafe$$($inputLat$$inline_555_lon$$.value) || $decimalNumFormat$$inline_559$$.test($inputLat$$inline_555_lon$$.value) || ($valid$$inline_558$$ = !1, $goog$dom$classes$add$$($inputLat$$inline_555_lon$$, "goog-error-format"));
       $goog$string$isEmptySafe$$($inputLon$$inline_556_proj$$.value) || $decimalNumFormat$$inline_559$$.test($inputLon$$inline_556_proj$$.value) || ($valid$$inline_558$$ = !1, $goog$dom$classes$add$$($inputLon$$inline_556_proj$$, "goog-error-format"));
-      $goog$string$isEmptySafe$$($inputProj$$inline_557$$.value) || $projFormat$$inline_560$$.test($inputProj$$inline_557$$.value) || ($valid$$inline_558$$ = !1, $goog$dom$classes$add$$($inputProj$$inline_557$$, "goog-error-format"));
+      $goog$string$isEmptySafe$$($event$$5_inputProj$$inline_557$$.value) || $projFormat$$inline_560$$.test($event$$5_inputProj$$inline_557$$.value) || ($valid$$inline_558$$ = !1, $goog$dom$classes$add$$($event$$5_inputProj$$inline_557$$, "goog-error-format"));
       if(!$valid$$inline_558$$) {
         return $e$$103_lat$$.stopPropagation(), !1
       }
       $e$$103_lat$$ = $goog$dom$getElement$$("input-lat").value;
       $inputLat$$inline_555_lon$$ = $goog$dom$getElement$$("input-lon").value;
       $inputLon$$inline_556_proj$$ = RegExp(/^(\d+).*/).exec($goog$dom$getElement$$("input-proj").value)[1];
-      this.dispatchEvent({type:$georeferencer$umisti$AddPointDialog$EventType$SELECT$$, $lat$:$e$$103_lat$$, $lon$:$inputLat$$inline_555_lon$$, $proj$:$inputLon$$inline_556_proj$$})
+      $event$$5_inputProj$$inline_557$$ = {};
+      $event$$5_inputProj$$inline_557$$.type = $georeferencer$umisti$AddPointDialog$EventType$SELECT$$;
+      $event$$5_inputProj$$inline_557$$.lat = $e$$103_lat$$;
+      $event$$5_inputProj$$inline_557$$.lon = $inputLat$$inline_555_lon$$;
+      $event$$5_inputProj$$inline_557$$.proj = $inputLon$$inline_556_proj$$;
+      this.dispatchEvent($event$$5_inputProj$$inline_557$$)
     }
     return!0
   })
