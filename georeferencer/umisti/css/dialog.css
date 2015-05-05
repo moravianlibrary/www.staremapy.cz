@@ -91,8 +91,12 @@
   background-color: #FFE5E5;
 }
 
-#input-lat-grad, #input-lat-min, #input-lat-sec, #input-lon-grad, #input-lon-min, #input-lon-sec {
+#input-lat-min, #input-lat-sec, #input-lon-min, #input-lon-sec {
   width: 25px
+}
+
+#input-lat-grad, #input-lon-grad {
+  width: 100px
 }
 
 .modal-dialog table td span {
@@ -101,5 +105,5 @@
 }
 
 #input-proj {
-  width: 110px
+  width: 185px
 }
