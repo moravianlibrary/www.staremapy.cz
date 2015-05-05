@@ -1,9 +1,9 @@
 goog.provide('georeferencer.umisti.AddPointDialog');
+goog.provide('georeferencer.umisti.AddPointDialog.EventType');
 
 goog.require('goog.dom');
 goog.require('goog.dom.classes');
 goog.require('goog.events');
-goog.require('goog.object');
 goog.require('goog.string');
 goog.require('goog.ui.Dialog');
 goog.require('goog.ui.ac.AutoComplete');
@@ -42,7 +42,12 @@ georeferencer.umisti.AddPointDialog = function() {
       var lat = goog.dom.getElement('input-lat').value;
       var lon = goog.dom.getElement('input-lon').value;
       var proj = projParser.exec(goog.dom.getElement('input-proj').value)[1];
-      goog.object.extend(e, {lat: lat, lon: lon, proj: proj});
+      this.dispatchEvent({
+        type: georeferencer.umisti.AddPointDialog.EventType.SELECT,
+        lat: lat,
+        lon: lon,
+        proj: proj
+      });
     }
     return true;
   });
@@ -176,3 +181,11 @@ georeferencer.umisti.AddPointDialog.prototype.generateContent_ = function() {
 
   return goog.dom.getOuterHtml(table);
 }
+
+/**
+ * Events dispatched by dialog.
+ * @enum {string}
+ */
+georeferencer.umisti.AddPointDialog.EventType = {
+  SELECT: 'georeferencer.umisti.AddPointDialog.EventType.SELECT'
+};

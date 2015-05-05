@@ -4393,25 +4393,25 @@ function $JSCompiler_StaticMethods_requestMatchingRows$$($token$$14$$, $matchHan
   this.$title_$ = "Vlo\u017ei\u0165 bod. (Pr\u00e1v\u011b ve v\u00fdvoji..)";
   this.$titleTextEl_$ && $goog$dom$setTextContent$$(this.$titleTextEl_$, "Vlo\u017ei\u0165 bod. (Pr\u00e1v\u011b ve v\u00fdvoji..)");
   this.$setContent$($JSCompiler_StaticMethods_generateContent_$$());
-  $goog$events$listen$$(this, $goog$ui$Dialog$EventType$SELECT$$, function($e$$103$$) {
-    if("ok" == $e$$103$$.key) {
-      var $inputLat$$inline_555_lat$$ = $goog$dom$getElement$$("input-lat"), $inputLon$$inline_556_lon$$ = $goog$dom$getElement$$("input-lon"), $inputProj$$inline_557_proj$$ = $goog$dom$getElement$$("input-proj"), $valid$$inline_558$$ = !0, $decimalNumFormat$$inline_559$$ = RegExp(/^\d+([.,]\d+)?$/), $projFormat$$inline_560$$ = RegExp(/^\d+/);
-      $goog$dom$classes$remove$$($inputLat$$inline_555_lat$$, "goog-error-empty", "goog-error-format");
-      $goog$dom$classes$remove$$($inputLon$$inline_556_lon$$, "goog-error-empty", "goog-error-format");
-      $goog$dom$classes$remove$$($inputProj$$inline_557_proj$$, "goog-error-empty", "goog-error-format");
-      $goog$string$isEmptySafe$$($inputLat$$inline_555_lat$$.value) && ($valid$$inline_558$$ = !1, $goog$dom$classes$add$$($inputLat$$inline_555_lat$$, "goog-error-empty"));
-      $goog$string$isEmptySafe$$($inputLon$$inline_556_lon$$.value) && ($valid$$inline_558$$ = !1, $goog$dom$classes$add$$($inputLon$$inline_556_lon$$, "goog-error-empty"));
-      $goog$string$isEmptySafe$$($inputProj$$inline_557_proj$$.value) && ($valid$$inline_558$$ = !1, $goog$dom$classes$add$$($inputProj$$inline_557_proj$$, "goog-error-empty"));
-      $goog$string$isEmptySafe$$($inputLat$$inline_555_lat$$.value) || $decimalNumFormat$$inline_559$$.test($inputLat$$inline_555_lat$$.value) || ($valid$$inline_558$$ = !1, $goog$dom$classes$add$$($inputLat$$inline_555_lat$$, "goog-error-format"));
-      $goog$string$isEmptySafe$$($inputLon$$inline_556_lon$$.value) || $decimalNumFormat$$inline_559$$.test($inputLon$$inline_556_lon$$.value) || ($valid$$inline_558$$ = !1, $goog$dom$classes$add$$($inputLon$$inline_556_lon$$, "goog-error-format"));
-      $goog$string$isEmptySafe$$($inputProj$$inline_557_proj$$.value) || $projFormat$$inline_560$$.test($inputProj$$inline_557_proj$$.value) || ($valid$$inline_558$$ = !1, $goog$dom$classes$add$$($inputProj$$inline_557_proj$$, "goog-error-format"));
+  $goog$events$listen$$(this, $goog$ui$Dialog$EventType$SELECT$$, function($e$$103_lat$$) {
+    if("ok" == $e$$103_lat$$.key) {
+      var $inputLat$$inline_555_lon$$ = $goog$dom$getElement$$("input-lat"), $inputLon$$inline_556_proj$$ = $goog$dom$getElement$$("input-lon"), $inputProj$$inline_557$$ = $goog$dom$getElement$$("input-proj"), $valid$$inline_558$$ = !0, $decimalNumFormat$$inline_559$$ = RegExp(/^\d+([.,]\d+)?$/), $projFormat$$inline_560$$ = RegExp(/^\d+/);
+      $goog$dom$classes$remove$$($inputLat$$inline_555_lon$$, "goog-error-empty", "goog-error-format");
+      $goog$dom$classes$remove$$($inputLon$$inline_556_proj$$, "goog-error-empty", "goog-error-format");
+      $goog$dom$classes$remove$$($inputProj$$inline_557$$, "goog-error-empty", "goog-error-format");
+      $goog$string$isEmptySafe$$($inputLat$$inline_555_lon$$.value) && ($valid$$inline_558$$ = !1, $goog$dom$classes$add$$($inputLat$$inline_555_lon$$, "goog-error-empty"));
+      $goog$string$isEmptySafe$$($inputLon$$inline_556_proj$$.value) && ($valid$$inline_558$$ = !1, $goog$dom$classes$add$$($inputLon$$inline_556_proj$$, "goog-error-empty"));
+      $goog$string$isEmptySafe$$($inputProj$$inline_557$$.value) && ($valid$$inline_558$$ = !1, $goog$dom$classes$add$$($inputProj$$inline_557$$, "goog-error-empty"));
+      $goog$string$isEmptySafe$$($inputLat$$inline_555_lon$$.value) || $decimalNumFormat$$inline_559$$.test($inputLat$$inline_555_lon$$.value) || ($valid$$inline_558$$ = !1, $goog$dom$classes$add$$($inputLat$$inline_555_lon$$, "goog-error-format"));
+      $goog$string$isEmptySafe$$($inputLon$$inline_556_proj$$.value) || $decimalNumFormat$$inline_559$$.test($inputLon$$inline_556_proj$$.value) || ($valid$$inline_558$$ = !1, $goog$dom$classes$add$$($inputLon$$inline_556_proj$$, "goog-error-format"));
+      $goog$string$isEmptySafe$$($inputProj$$inline_557$$.value) || $projFormat$$inline_560$$.test($inputProj$$inline_557$$.value) || ($valid$$inline_558$$ = !1, $goog$dom$classes$add$$($inputProj$$inline_557$$, "goog-error-format"));
       if(!$valid$$inline_558$$) {
-        return $e$$103$$.stopPropagation(), !1
+        return $e$$103_lat$$.stopPropagation(), !1
       }
-      $inputLat$$inline_555_lat$$ = $goog$dom$getElement$$("input-lat").value;
-      $inputLon$$inline_556_lon$$ = $goog$dom$getElement$$("input-lon").value;
-      $inputProj$$inline_557_proj$$ = RegExp(/^(\d+).*/).exec($goog$dom$getElement$$("input-proj").value)[1];
-      $goog$object$extend$$($e$$103$$, {$lat$:$inputLat$$inline_555_lat$$, $lon$:$inputLon$$inline_556_lon$$, $proj$:$inputProj$$inline_557_proj$$})
+      $e$$103_lat$$ = $goog$dom$getElement$$("input-lat").value;
+      $inputLat$$inline_555_lon$$ = $goog$dom$getElement$$("input-lon").value;
+      $inputLon$$inline_556_proj$$ = RegExp(/^(\d+).*/).exec($goog$dom$getElement$$("input-proj").value)[1];
+      this.dispatchEvent({type:$georeferencer$umisti$AddPointDialog$EventType$SELECT$$, $lat$:$e$$103_lat$$, $lon$:$inputLat$$inline_555_lon$$, $proj$:$inputLon$$inline_556_proj$$})
     }
     return!0
   })
@@ -4466,7 +4466,8 @@ function $JSCompiler_StaticMethods_generateContent_$$() {
   "outerHTML" in $JSCompiler_inline_result$$31_table$$ ? $JSCompiler_inline_result$$31_table$$ = $JSCompiler_inline_result$$31_table$$.outerHTML : ($div$$inline_605_trLat$$ = $goog$dom$getOwnerDocument$$($JSCompiler_inline_result$$31_table$$).createElement("div"), $div$$inline_605_trLat$$.appendChild($JSCompiler_inline_result$$31_table$$.cloneNode(!0)), $JSCompiler_inline_result$$31_table$$ = $div$$inline_605_trLat$$.innerHTML);
   return $JSCompiler_inline_result$$31_table$$
 }
-;function $georeferencer$umisti$loadCss$$($url$$25$$) {
+var $georeferencer$umisti$AddPointDialog$EventType$SELECT$$ = "georeferencer.umisti.AddPointDialog.EventType.SELECT";
+function $georeferencer$umisti$loadCss$$($url$$25$$) {
   var $head$$1$$ = document.getElementsByTagName("head")[0], $link$$ = $goog$dom$createElement$$("link");
   $link$$.type = "text/css";
   $link$$.rel = "stylesheet";
@@ -4487,7 +4488,7 @@ function $opt_object$$inline_788$$() {
     $addPointDialog$$.$setVisible$(!0);
     $e$$104$$.stopPropagation()
   });
-  $goog$events$listen$$($addPointDialog$$, $goog$ui$Dialog$EventType$SELECT$$, function($e$$105$$) {
+  $goog$events$listen$$($addPointDialog$$, $georeferencer$umisti$AddPointDialog$EventType$SELECT$$, function($e$$105$$) {
     window.console.log($e$$105$$)
   });
   $addPointBttn_addPointCnt$$.$render$($rightPanel$$)

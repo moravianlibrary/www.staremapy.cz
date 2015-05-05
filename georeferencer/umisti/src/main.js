@@ -7,6 +7,7 @@ goog.require('goog.ui.Button');
 goog.require('goog.ui.FlatButtonRenderer');
 
 goog.require('georeferencer.umisti.AddPointDialog');
+goog.require('georeferencer.umisti.AddPointDialog.EventType');
 
 georeferencer.umisti.main = function() {
   georeferencer.umisti.loadCss('http://staremapy.cz/css/fonts.css');
@@ -27,7 +28,7 @@ georeferencer.umisti.main = function() {
     addPointDialog.setVisible(true);
     e.stopPropagation();
   });
-  goog.events.listen(addPointDialog, goog.ui.Dialog.EventType.SELECT, function (e) {
+  goog.events.listen(addPointDialog, georeferencer.umisti.AddPointDialog.EventType.SELECT, function (e) {
     window.console.log(e);
   });
 
