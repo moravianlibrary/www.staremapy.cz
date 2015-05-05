@@ -85,6 +85,7 @@ georeferencer.umisti.AddPointDialog.prototype.validate = function() {
   var inputLon = goog.dom.getElement('input-lon');
   var inputProj = goog.dom.getElement('input-proj');
   var valid = true;
+  var decimalNumFormat = new RegExp(/^\d+([.,]\d+)?$/);
   var projFormat = new RegExp(/^\d+/);
 
   goog.dom.classes.remove(inputLat, 'goog-error-empty', 'goog-error-format');
@@ -104,12 +105,12 @@ georeferencer.umisti.AddPointDialog.prototype.validate = function() {
     goog.dom.classes.add(inputProj, 'goog-error-empty');
   }
   if (!goog.string.isEmptySafe(inputLat.value)
-      && !goog.string.isNumeric(inputLat.value)) {
+      && !decimalNumFormat.test(inputLat.value)) {
     valid = false;
     goog.dom.classes.add(inputLat, 'goog-error-format');
   }
   if (!goog.string.isEmptySafe(inputLon.value)
-      && !goog.string.isNumeric(inputLon.value)) {
+      && !decimalNumFormat.test(inputLon.value)) {
     valid = false;
     goog.dom.classes.add(inputLon, 'goog-error-format');
   }
