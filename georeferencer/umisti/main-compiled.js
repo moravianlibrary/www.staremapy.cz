@@ -4485,7 +4485,7 @@ function $georeferencer$umisti$transform$$($x$$74$$, $y$$46$$, $proj$$1$$, $call
     if(200 != $JSCompiler_StaticMethods_getStatus$$($e$$106_response$$1_xhr$$3$$)) {
       window.alert("Slu\u017eba epsg.io neodpov\u00edd\u00e1. Skuste to pozd\u011bji.")
     }else {
-      if($e$$106_response$$1_xhr$$3$$ = $JSCompiler_StaticMethods_getResponseJson$$($e$$106_response$$1_xhr$$3$$), $e$$106_response$$1_xhr$$3$$.status) {
+      if($e$$106_response$$1_xhr$$3$$ = $JSCompiler_StaticMethods_getResponseJson$$($e$$106_response$$1_xhr$$3$$), "error" == $e$$106_response$$1_xhr$$3$$.status) {
         window.alert("Zadali jste nespr\u00e1vn\u00e9 vstupn\u00ed data.")
       }else {
         var $data$$23$$ = {};

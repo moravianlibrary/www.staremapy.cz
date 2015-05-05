@@ -55,7 +55,7 @@ georeferencer.umisti.transform = function(x, y, proj, callback) {
       return;
     }
     var response = xhr.getResponseJson();
-    if (response['status']) {
+    if (response['status'] == 'error') {
       window.alert('Zadali jste nesprávné vstupní data.');
       return;
     }
