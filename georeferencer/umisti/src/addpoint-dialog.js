@@ -241,12 +241,18 @@ georeferencer.umisti.AddPointDialog.prototype.generateContent_ = function() {
   var inputLatGrad = goog.dom.createElement('input');
   var inputLatMin = goog.dom.createElement('input');
   var inputLatSec = goog.dom.createElement('input');
+  var inputLatGradUnit = goog.dom.createElement('span');
+  var inputLatMinUnit = goog.dom.createElement('span');
+  var inputLatSecUnit = goog.dom.createElement('span');
   var trLon = goog.dom.createElement('tr');
   var thLon = goog.dom.createElement('th');
   var tdLon = goog.dom.createElement('td');
   var inputLonGrad = goog.dom.createElement('input');
   var inputLonMin = goog.dom.createElement('input');
   var inputLonSec = goog.dom.createElement('input');
+  var inputLonGradUnit = goog.dom.createElement('span');
+  var inputLonMinUnit = goog.dom.createElement('span');
+  var inputLonSecUnit = goog.dom.createElement('span');
   var trProj = goog.dom.createElement('tr');
   var thProj = goog.dom.createElement('th');
   var tdProj = goog.dom.createElement('td');
@@ -268,11 +274,17 @@ georeferencer.umisti.AddPointDialog.prototype.generateContent_ = function() {
   goog.dom.setTextContent(thProj, 'Kartografická projekce:');
 
   goog.dom.appendChild(tdLat, inputLatGrad);
+  goog.dom.appendChild(tdLat, inputLatGradUnit);
   goog.dom.appendChild(tdLat, inputLatMin);
+  goog.dom.appendChild(tdLat, inputLatMinUnit);
   goog.dom.appendChild(tdLat, inputLatSec);
+  goog.dom.appendChild(tdLat, inputLatSecUnit);
   goog.dom.appendChild(tdLon, inputLonGrad);
+  goog.dom.appendChild(tdLon, inputLonGradUnit);
   goog.dom.appendChild(tdLon, inputLonMin);
+  goog.dom.appendChild(tdLon, inputLonMinUnit);
   goog.dom.appendChild(tdLon, inputLonSec);
+  goog.dom.appendChild(tdLon, inputLonSecUnit);
   goog.dom.appendChild(tdProj, inputProj);
 
   inputLatGrad.id = 'input-lat-grad';
@@ -282,6 +294,14 @@ georeferencer.umisti.AddPointDialog.prototype.generateContent_ = function() {
   inputLonMin.id = 'input-lon-min';
   inputLonSec.id = 'input-lon-sec';
   inputProj.id = 'input-proj';
+
+  goog.dom.setTextContent(inputLatGradUnit, '°');
+  goog.dom.setTextContent(inputLatMinUnit, "'");
+  goog.dom.setTextContent(inputLatSecUnit, '"');
+  goog.dom.setTextContent(inputLonGradUnit, '°');
+  goog.dom.setTextContent(inputLonMinUnit, "'");
+  goog.dom.setTextContent(inputLonSecUnit, '"');
+
 
   return goog.dom.getOuterHtml(table);
 }

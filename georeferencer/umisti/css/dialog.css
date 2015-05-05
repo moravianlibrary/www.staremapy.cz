@@ -90,3 +90,7 @@
 .modal-dialog-content .goog-error-empty, .modal-dialog-content .goog-error-format {
   background-color: #FFE5E5;
 }
+
+#input-lat-grad, #input-lat-min, #input-lat-sec, #input-lon-grad, #input-lon-min, #input-lon-sec {
+  width: 25px
+}
