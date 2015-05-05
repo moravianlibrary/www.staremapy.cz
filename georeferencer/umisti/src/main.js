@@ -29,7 +29,9 @@ georeferencer.umisti.main = function() {
     e.stopPropagation();
   });
   goog.events.listen(addPointDialog, georeferencer.umisti.AddPointDialog.EventType.SELECT, function (e) {
-    window.console.log(e);
+    georeferencer.umisti.transform(e['lon'], e['lat'], e['proj'], function(data) {
+      window.alert('X: ' + data['x'] + ', Y: ' + data['y']);
+    });
   });
 
   addPointBttn.render(rightPanel);
@@ -43,5 +45,25 @@ georeferencer.umisti.loadCss = function(url) {
   link.href = url;
   goog.dom.append(head, link);
 };
+
+georeferencer.umisti.transform = function(x, y, proj, callback) {
+  var url = "http://epsg.io/trans?x=" + x + "&y=" + y + "&s_srs=" + proj + "&t_srs=4326";
+  goog.net.XhrIo.send(url, function(e) {
+    var xhr = e.target;
+    if (xhr.getStatus() != 200) {
+      window.alert('Služba epsg.io neodpovídá. Skuste to později.');
+      return;
+    }
+    var response = xhr.getResponseJson();
+    if (response['status']) {
+      window.alert('Zadali jste nesprávné vstupní data.');
+      return;
+    }
+    var data = {};
+    data['x'] = response['x'];
+    data['y'] = response['y'];
+    callback(data);
+  });
+}
 
 goog.exportSymbol('georeferencer.umisti.main', georeferencer.umisti.main);

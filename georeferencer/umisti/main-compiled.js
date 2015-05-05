@@ -4479,6 +4479,23 @@ function $georeferencer$umisti$loadCss$$($url$$25$$) {
   $link$$.href = $url$$25$$;
   $goog$dom$append$$($head$$1$$, $link$$)
 }
+function $georeferencer$umisti$transform$$($x$$74$$, $y$$46$$, $proj$$1$$, $callback$$37$$) {
+  $goog$net$XhrIo$send$$("http://epsg.io/trans?x\x3d" + $x$$74$$ + "\x26y\x3d" + $y$$46$$ + "\x26s_srs\x3d" + $proj$$1$$ + "\x26t_srs\x3d4326", function($e$$106_response$$1_xhr$$3$$) {
+    $e$$106_response$$1_xhr$$3$$ = $e$$106_response$$1_xhr$$3$$.target;
+    if(200 != $JSCompiler_StaticMethods_getStatus$$($e$$106_response$$1_xhr$$3$$)) {
+      window.alert("Slu\u017eba epsg.io neodpov\u00edd\u00e1. Skuste to pozd\u011bji.")
+    }else {
+      if($e$$106_response$$1_xhr$$3$$ = $JSCompiler_StaticMethods_getResponseJson$$($e$$106_response$$1_xhr$$3$$), $e$$106_response$$1_xhr$$3$$.status) {
+        window.alert("Zadali jste nespr\u00e1vn\u00e9 vstupn\u00ed data.")
+      }else {
+        var $data$$23$$ = {};
+        $data$$23$$.x = $e$$106_response$$1_xhr$$3$$.x;
+        $data$$23$$.y = $e$$106_response$$1_xhr$$3$$.y;
+        $callback$$37$$($data$$23$$)
+      }
+    }
+  })
+}
 function $opt_object$$inline_788$$() {
   $georeferencer$umisti$loadCss$$("http://staremapy.cz/css/fonts.css");
   $georeferencer$umisti$loadCss$$("http://staremapy.cz/georeferencer/umisti/css/main.css");
@@ -4494,7 +4511,9 @@ function $opt_object$$inline_788$$() {
     $e$$104$$.stopPropagation()
   });
   $goog$events$listen$$($addPointDialog$$, $georeferencer$umisti$AddPointDialog$EventType$SELECT$$, function($e$$105$$) {
-    window.console.log($e$$105$$)
+    $georeferencer$umisti$transform$$($e$$105$$.lon, $e$$105$$.lat, $e$$105$$.proj, function($data$$22$$) {
+      window.alert("X: " + $data$$22$$.x + ", Y: " + $data$$22$$.y)
+    })
   });
   $addPointBttn_addPointCnt$$.$render$($rightPanel$$)
 }
