@@ -167,6 +167,10 @@ var $goog$string$amperRe_$$ = /&/g, $goog$string$ltRe_$$ = /</g, $goog$string$gt
 function $goog$string$regExpEscape$$($s$$12$$) {
   return String($s$$12$$).replace(/([-()\[\]{}+?*.$\^|,:#<!\\])/g, "\\$1").replace(/\x08/g, "\\x08")
 }
+function $goog$string$toNumber$$($str$$41$$) {
+  var $num$$5$$ = Number($str$$41$$);
+  return 0 == $num$$5$$ && /^[\s\xa0]*$/.test($str$$41$$) ? NaN : $num$$5$$
+}
 ;function $goog$asserts$AssertionError$$($messagePattern$$, $messageArgs$$) {
   $messageArgs$$.unshift($messagePattern$$);
   $goog$debug$Error$$.call(this, $goog$string$subs$$.apply(null, $messageArgs$$));
@@ -4391,8 +4395,8 @@ function $JSCompiler_StaticMethods_requestMatchingRows$$($token$$14$$, $matchHan
   this.$parentElement_$ = $parentElement$$2$$;
   this.$inputHandler_$ = this.$ac_$ = null;
   !0 != this.$modal_$ && $JSCompiler_StaticMethods_setModalInternal_$$(this, !0);
-  this.$title_$ = "Vlo\u017ei\u0165 bod. (Pr\u00e1v\u011b ve v\u00fdvoji..)";
-  this.$titleTextEl_$ && $goog$dom$setTextContent$$(this.$titleTextEl_$, "Vlo\u017ei\u0165 bod. (Pr\u00e1v\u011b ve v\u00fdvoji..)");
+  this.$title_$ = "Zadat vlicovac\u00ed bod pomoc\u00ed \u010d\u00edseln\u00fdch sou\u0159adnic. (Pr\u00e1v\u011b ve v\u00fdvoji..)";
+  this.$titleTextEl_$ && $goog$dom$setTextContent$$(this.$titleTextEl_$, "Zadat vlicovac\u00ed bod pomoc\u00ed \u010d\u00edseln\u00fdch sou\u0159adnic. (Pr\u00e1v\u011b ve v\u00fdvoji..)");
   this.$setContent$($JSCompiler_StaticMethods_generateContent_$$());
   $goog$events$listen$$(this, $goog$ui$Dialog$EventType$SELECT$$, function($e$$103_lat$$) {
     if("ok" == $e$$103_lat$$.key) {
@@ -4418,13 +4422,13 @@ function $JSCompiler_StaticMethods_requestMatchingRows$$($token$$14$$, $matchHan
       if(!$valid$$inline_562$$) {
         return $e$$103_lat$$.stopPropagation(), !1
       }
-      $e$$103_lat$$ = $goog$dom$getElement$$("input-lat").value;
-      $inputLatGrad$$inline_555_lon$$ = $goog$dom$getElement$$("input-lon").value;
+      $e$$103_lat$$ = $goog$string$toNumber$$($goog$dom$getElement$$("input-lat-grad").value) + $goog$string$toNumber$$($goog$dom$getElement$$("input-lat-min").value) / 60 + $goog$string$toNumber$$($goog$dom$getElement$$("input-lat-sec").value) / 3600;
+      $inputLatGrad$$inline_555_lon$$ = $goog$string$toNumber$$($goog$dom$getElement$$("input-lon-grad").value) + $goog$string$toNumber$$($goog$dom$getElement$$("input-lon-min").value) / 60 + $goog$string$toNumber$$($goog$dom$getElement$$("input-lon-sec").value) / 3600;
       $inputLatMin$$inline_556_proj$$ = RegExp(/^(\d+).*/).exec($goog$dom$getElement$$("input-proj").value)[1];
       $event$$5_inputLatSec$$inline_557$$ = {};
       $event$$5_inputLatSec$$inline_557$$.type = $georeferencer$umisti$AddPointDialog$EventType$SELECT$$;
-      $event$$5_inputLatSec$$inline_557$$.lat = $e$$103_lat$$;
-      $event$$5_inputLatSec$$inline_557$$.lon = $inputLatGrad$$inline_555_lon$$;
+      $event$$5_inputLatSec$$inline_557$$.lat = $e$$103_lat$$.toString();
+      $event$$5_inputLatSec$$inline_557$$.lon = $inputLatGrad$$inline_555_lon$$.toString();
       $event$$5_inputLatSec$$inline_557$$.proj = $inputLatMin$$inline_556_proj$$;
       this.dispatchEvent($event$$5_inputLatSec$$inline_557$$)
     }
@@ -4494,9 +4498,9 @@ function $JSCompiler_StaticMethods_generateContent_$$() {
   $trLon$$.appendChild($tdLon$$);
   $trProj$$.appendChild($thProj$$);
   $trProj$$.appendChild($tdProj$$);
-  $goog$dom$setTextContent$$($thLat$$, "Zem\u011bpisn\u00e1 \u0161\u00ed\u0159ka:");
-  $goog$dom$setTextContent$$($thLon$$, "Zem\u011bpisn\u00e1 d\u00e9lka:");
-  $goog$dom$setTextContent$$($thProj$$, "Kartografick\u00e1 projekce:");
+  $goog$dom$setTextContent$$($thLat$$, "Sever:");
+  $goog$dom$setTextContent$$($thLon$$, "V\u00fdchod:");
+  $goog$dom$setTextContent$$($thProj$$, "Sou\u0159adnicov\u00fd syst\u00e9m:");
   $tdLat$$.appendChild($inputLatGrad$$2$$);
   $tdLat$$.appendChild($inputLatGradUnit$$);
   $tdLat$$.appendChild($inputLatMin$$2$$);

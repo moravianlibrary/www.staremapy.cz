@@ -36,7 +36,7 @@ georeferencer.umisti.AddPointDialog = function(parentElement) {
    */
   this.inputHandler_ = null;
   this.setModal(true);
-  this.setTitle('Vložiť bod. (Právě ve vývoji..)');
+  this.setTitle('Zadat vlicovací bod pomocí číselných souřadnic. (Právě ve vývoji..)');
   this.setContent(this.generateContent_());
 
   goog.events.listen(this, goog.ui.Dialog.EventType.SELECT, function(e) {
@@ -46,13 +46,19 @@ georeferencer.umisti.AddPointDialog = function(parentElement) {
         return false;
       }
       var projParser = new RegExp(/^(\d+).*/);
-      var lat = goog.dom.getElement('input-lat').value;
-      var lon = goog.dom.getElement('input-lon').value;
+      var latGrad = goog.string.toNumber(goog.dom.getElement('input-lat-grad').value);
+      var latMin = goog.string.toNumber(goog.dom.getElement('input-lat-min').value);
+      var latSec = goog.string.toNumber(goog.dom.getElement('input-lat-sec').value);
+      var lonGrad = goog.string.toNumber(goog.dom.getElement('input-lon-grad').value);
+      var lonMin = goog.string.toNumber(goog.dom.getElement('input-lon-min').value);
+      var lonSec = goog.string.toNumber(goog.dom.getElement('input-lon-sec').value);
+      var lat = latGrad + latMin / 60.0 + latSec / 3600.0;
+      var lon = lonGrad + lonMin / 60.0 + lonSec / 3600.0;
       var proj = projParser.exec(goog.dom.getElement('input-proj').value)[1];
       var event = {};
       event.type = georeferencer.umisti.AddPointDialog.EventType.SELECT;
-      event['lat'] = lat;
-      event['lon'] = lon;
+      event['lat'] = lat.toString();
+      event['lon'] = lon.toString();
       event['proj'] = proj;
       this.dispatchEvent(event);
     }
@@ -269,9 +275,9 @@ georeferencer.umisti.AddPointDialog.prototype.generateContent_ = function() {
   goog.dom.appendChild(trProj, thProj);
   goog.dom.appendChild(trProj, tdProj);
 
-  goog.dom.setTextContent(thLat, 'Zeměpisná šířka:');
-  goog.dom.setTextContent(thLon, 'Zeměpisná délka:');
-  goog.dom.setTextContent(thProj, 'Kartografická projekce:');
+  goog.dom.setTextContent(thLat, 'Sever:');
+  goog.dom.setTextContent(thLon, 'Východ:');
+  goog.dom.setTextContent(thProj, 'Souřadnicový systém:');
 
   goog.dom.appendChild(tdLat, inputLatGrad);
   goog.dom.appendChild(tdLat, inputLatGradUnit);
