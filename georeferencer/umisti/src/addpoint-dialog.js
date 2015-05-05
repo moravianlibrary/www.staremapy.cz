@@ -46,23 +46,13 @@ georeferencer.umisti.AddPointDialog = function(parentElement) {
         return false;
       }
       var projParser = new RegExp(/^(\d+).*/);
-      var latGrad = goog.string.toNumber(goog.dom.getElement('input-lat-grad').value);
-      var latMin = goog.string.toNumber(goog.dom.getElement('input-lat-min').value);
-      var latSec = goog.string.toNumber(goog.dom.getElement('input-lat-sec').value);
-      var lonGrad = goog.string.toNumber(goog.dom.getElement('input-lon-grad').value);
-      var lonMin = goog.string.toNumber(goog.dom.getElement('input-lon-min').value);
-      var lonSec = goog.string.toNumber(goog.dom.getElement('input-lon-sec').value);
-      latMin = latMin || 0;
-      latSec = latSec || 0;
-      lonMin = lonMin || 0;
-      lonSec = lonSec || 0;
-      var lat = latGrad + latMin / 60.0 + latSec / 3600.0;
-      var lon = lonGrad + lonMin / 60.0 + lonSec / 3600.0;
+      var north = goog.dom.getElement('input-north').value;
+      var east = goog.dom.getElement('input-east').value;
       var proj = projParser.exec(goog.dom.getElement('input-proj').value)[1];
       var event = {};
       event.type = georeferencer.umisti.AddPointDialog.EventType.SELECT;
-      event['lat'] = lat.toString();
-      event['lon'] = lon.toString();
+      event['north'] = georeferencer.umisti.AddPointDialog.coorStrToNum(north).toString();
+      event['east'] = georeferencer.umisti.AddPointDialog.coorStrToNum(east).toString();
       event['proj'] = proj;
       this.dispatchEvent(event);
     }
@@ -146,89 +136,49 @@ georeferencer.umisti.AddPointDialog.prototype.reposition = function() {
  */
 georeferencer.umisti.AddPointDialog.prototype.onShow = function() {
   goog.base(this, 'onShow');
-  var inputLatGrad = goog.dom.getElement('input-lat-grad');
-  var inputLatMin = goog.dom.getElement('input-lat-min');
-  var inputLatSec = goog.dom.getElement('input-lat-sec');
-  var inputLonGrad = goog.dom.getElement('input-lon-grad');
-  var inputLonMin = goog.dom.getElement('input-lon-min');
-  var inputLonSec = goog.dom.getElement('input-lon-sec');
+  var inputNorth = goog.dom.getElement('input-north');
+  var inputEast = goog.dom.getElement('input-east');
   var inputProj = goog.dom.getElement('input-proj');
-  inputLatGrad.value = '';
-  inputLatMin.value = '';
-  inputLatSec.value = '';
-  inputLonGrad.value = '';
-  inputLonMin.value = '';
-  inputLonSec.value = '';
-  goog.dom.classes.remove(inputLatGrad, 'goog-error-empty', 'goog-error-format');
-  goog.dom.classes.remove(inputLatMin, 'goog-error-empty', 'goog-error-format');
-  goog.dom.classes.remove(inputLatSec, 'goog-error-empty', 'goog-error-format');
-  goog.dom.classes.remove(inputLonGrad, 'goog-error-empty', 'goog-error-format');
-  goog.dom.classes.remove(inputLonMin, 'goog-error-empty', 'goog-error-format');
-  goog.dom.classes.remove(inputLonSec, 'goog-error-empty', 'goog-error-format');
+  inputNorth.value = '';
+  inputEast.value = '';
+  goog.dom.classes.remove(inputNorth, 'goog-error-empty', 'goog-error-format');
+  goog.dom.classes.remove(inputEast, 'goog-error-empty', 'goog-error-format');
   goog.dom.classes.remove(inputProj, 'goog-error-empty', 'goog-error-format');
 }
 
 georeferencer.umisti.AddPointDialog.prototype.validate = function() {
-  var inputLatGrad = goog.dom.getElement('input-lat-grad');
-  var inputLatMin = goog.dom.getElement('input-lat-min');
-  var inputLatSec = goog.dom.getElement('input-lat-sec');
-  var inputLonGrad = goog.dom.getElement('input-lon-grad');
-  var inputLonMin = goog.dom.getElement('input-lon-min');
-  var inputLonSec = goog.dom.getElement('input-lon-sec');
+  var inputNorth = goog.dom.getElement('input-north');
+  var inputEast = goog.dom.getElement('input-east');
   var inputProj = goog.dom.getElement('input-proj');
   var valid = true;
-  var decimalNumFormat = new RegExp(/^\d+([.,]\d+)?$/);
+  var coorFormat = new RegExp(/^\s*\d+(\.\d+)?(\s+\d+(\.\d+)?)?(\s+\d+(\.\d+)?)?\s*$/);
   var projFormat = new RegExp(/^\d+/);
 
-  goog.dom.classes.remove(inputLatGrad, 'goog-error-empty', 'goog-error-format');
-  goog.dom.classes.remove(inputLatMin, 'goog-error-empty', 'goog-error-format');
-  goog.dom.classes.remove(inputLatSec, 'goog-error-empty', 'goog-error-format');
-  goog.dom.classes.remove(inputLonGrad, 'goog-error-empty', 'goog-error-format');
-  goog.dom.classes.remove(inputLonMin, 'goog-error-empty', 'goog-error-format');
-  goog.dom.classes.remove(inputLonSec, 'goog-error-empty', 'goog-error-format');
+  goog.dom.classes.remove(inputNorth, 'goog-error-empty', 'goog-error-format');
+  goog.dom.classes.remove(inputEast, 'goog-error-empty', 'goog-error-format');
   goog.dom.classes.remove(inputProj, 'goog-error-empty', 'goog-error-format');
 
-  if (goog.string.isEmptySafe(inputLatGrad.value)) {
+  if (goog.string.isEmptySafe(inputNorth.value)) {
     valid = false;
-    goog.dom.classes.add(inputLatGrad, 'goog-error-empty');
+    goog.dom.classes.add(inputNorth, 'goog-error-empty');
   }
-  if (goog.string.isEmptySafe(inputLonGrad.value)) {
+  if (goog.string.isEmptySafe(inputEast.value)) {
     valid = false;
-    goog.dom.classes.add(inputLonGrad, 'goog-error-empty');
+    goog.dom.classes.add(inputEast, 'goog-error-empty');
   }
   if (goog.string.isEmptySafe(inputProj.value)) {
     valid = false;
     goog.dom.classes.add(inputProj, 'goog-error-empty');
   }
-  if (!goog.string.isEmptySafe(inputLatGrad.value)
-      && !decimalNumFormat.test(inputLatGrad.value)) {
+  if (!goog.string.isEmptySafe(inputNorth.value)
+      && !coorFormat.test(inputNorth.value)) {
     valid = false;
-    goog.dom.classes.add(inputLatGrad, 'goog-error-format');
+    goog.dom.classes.add(inputNorth, 'goog-error-format');
   }
-  if (!goog.string.isEmptySafe(inputLatMin.value)
-      && !goog.string.isNumeric(inputLatMin.value)) {
+  if (!goog.string.isEmptySafe(inputEast.value)
+      && !coorFormat.test(inputEast.value)) {
     valid = false;
-    goog.dom.classes.add(inputLatMin, 'goog-error-format');
-  }
-  if (!goog.string.isEmptySafe(inputLatSec.value)
-      && !goog.string.isNumeric(inputLatSec.value)) {
-    valid = false;
-    goog.dom.classes.add(inputLatSec, 'goog-error-format');
-  }
-  if (!goog.string.isEmptySafe(inputLonGrad.value)
-      && !decimalNumFormat.test(inputLonGrad.value)) {
-    valid = false;
-    goog.dom.classes.add(inputLonGrad, 'goog-error-format');
-  }
-  if (!goog.string.isEmptySafe(inputLonMin.value)
-      && !goog.string.isNumeric(inputLonMin.value)) {
-    valid = false;
-    goog.dom.classes.add(inputLonMin, 'goog-error-format');
-  }
-  if (!goog.string.isEmptySafe(inputLonSec.value)
-      && !goog.string.isNumeric(inputLonSec.value)) {
-    valid = false;
-    goog.dom.classes.add(inputLonSec, 'goog-error-format');
+    goog.dom.classes.add(inputEast, 'goog-error-format');
   }
   if (!goog.string.isEmptySafe(inputProj.value)
       && !projFormat.test(inputProj.value)) {
@@ -245,75 +195,58 @@ georeferencer.umisti.AddPointDialog.prototype.validate = function() {
  */
 georeferencer.umisti.AddPointDialog.prototype.generateContent_ = function() {
   var table = goog.dom.createElement('table');
-  var trLat = goog.dom.createElement('tr');
-  var thLat = goog.dom.createElement('th');
-  var tdLat = goog.dom.createElement('td');
-  var inputLatGrad = goog.dom.createElement('input');
-  var inputLatMin = goog.dom.createElement('input');
-  var inputLatSec = goog.dom.createElement('input');
-  var inputLatGradUnit = goog.dom.createElement('span');
-  var inputLatMinUnit = goog.dom.createElement('span');
-  var inputLatSecUnit = goog.dom.createElement('span');
-  var trLon = goog.dom.createElement('tr');
-  var thLon = goog.dom.createElement('th');
-  var tdLon = goog.dom.createElement('td');
-  var inputLonGrad = goog.dom.createElement('input');
-  var inputLonMin = goog.dom.createElement('input');
-  var inputLonSec = goog.dom.createElement('input');
-  var inputLonGradUnit = goog.dom.createElement('span');
-  var inputLonMinUnit = goog.dom.createElement('span');
-  var inputLonSecUnit = goog.dom.createElement('span');
+  var trNorth = goog.dom.createElement('tr');
+  var thNorth = goog.dom.createElement('th');
+  var tdNorth = goog.dom.createElement('td');
+  var inputNorth = goog.dom.createElement('input');
+  var trEast = goog.dom.createElement('tr');
+  var thEast = goog.dom.createElement('th');
+  var tdEast = goog.dom.createElement('td');
+  var inputEast = goog.dom.createElement('input');
   var trProj = goog.dom.createElement('tr');
   var thProj = goog.dom.createElement('th');
   var tdProj = goog.dom.createElement('td');
   var inputProj = goog.dom.createElement('input');
 
-  goog.dom.appendChild(table, trLat);
-  goog.dom.appendChild(table, trLon);
+  goog.dom.appendChild(table, trNorth);
+  goog.dom.appendChild(table, trEast);
   goog.dom.appendChild(table, trProj);
 
-  goog.dom.appendChild(trLat, thLat);
-  goog.dom.appendChild(trLat, tdLat);
-  goog.dom.appendChild(trLon, thLon);
-  goog.dom.appendChild(trLon, tdLon);
+  goog.dom.appendChild(trNorth, thNorth);
+  goog.dom.appendChild(trNorth, tdNorth);
+  goog.dom.appendChild(trEast, thEast);
+  goog.dom.appendChild(trEast, tdEast);
   goog.dom.appendChild(trProj, thProj);
   goog.dom.appendChild(trProj, tdProj);
 
-  goog.dom.setTextContent(thLat, 'Sever:');
-  goog.dom.setTextContent(thLon, 'Východ:');
+  goog.dom.setTextContent(thNorth, 'Sever:');
+  goog.dom.setTextContent(thEast, 'Východ:');
   goog.dom.setTextContent(thProj, 'Souřadnicový systém:');
 
-  goog.dom.appendChild(tdLat, inputLatGrad);
-  goog.dom.appendChild(tdLat, inputLatGradUnit);
-  goog.dom.appendChild(tdLat, inputLatMin);
-  goog.dom.appendChild(tdLat, inputLatMinUnit);
-  goog.dom.appendChild(tdLat, inputLatSec);
-  goog.dom.appendChild(tdLat, inputLatSecUnit);
-  goog.dom.appendChild(tdLon, inputLonGrad);
-  goog.dom.appendChild(tdLon, inputLonGradUnit);
-  goog.dom.appendChild(tdLon, inputLonMin);
-  goog.dom.appendChild(tdLon, inputLonMinUnit);
-  goog.dom.appendChild(tdLon, inputLonSec);
-  goog.dom.appendChild(tdLon, inputLonSecUnit);
+  goog.dom.appendChild(tdNorth, inputNorth);
+  goog.dom.appendChild(tdEast, inputEast);
   goog.dom.appendChild(tdProj, inputProj);
 
-  inputLatGrad.id = 'input-lat-grad';
-  inputLatMin.id = 'input-lat-min';
-  inputLatSec.id = 'input-lat-sec';
-  inputLonGrad.id = 'input-lon-grad';
-  inputLonMin.id = 'input-lon-min';
-  inputLonSec.id = 'input-lon-sec';
+  inputNorth.id = 'input-north';
+  inputEast.id = 'input-east';
   inputProj.id = 'input-proj';
 
-  goog.dom.setTextContent(inputLatGradUnit, '°');
-  goog.dom.setTextContent(inputLatMinUnit, "'");
-  goog.dom.setTextContent(inputLatSecUnit, '"');
-  goog.dom.setTextContent(inputLonGradUnit, '°');
-  goog.dom.setTextContent(inputLonMinUnit, "'");
-  goog.dom.setTextContent(inputLonSecUnit, '"');
-
-
   return goog.dom.getOuterHtml(table);
+}
+
+/**
+ * @param {string} coor
+ * @return {number}
+ */
+georeferencer.umisti.AddPointDialog.coorStrToNum = function(coor) {
+  var re = new RegExp(/\s*(\d+(\.\d+)?)\s+(\d+(\.\d+)?)\s+(\d+(\.\d+)?)/);
+  var matches = re.exec(coor);
+  var grad = goog.string.toNumber(matches[1]);
+  var min = goog.string.toNumber(matches[3]);
+  var sec = goog.string.toNumber(matches[5]);
+  min = min || 0;
+  sec = sec || 0;
+  return grad + min / 60.0 + sec / 3600.0;
 }
 
 /**
