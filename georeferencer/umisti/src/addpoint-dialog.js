@@ -52,6 +52,10 @@ georeferencer.umisti.AddPointDialog = function(parentElement) {
       var lonGrad = goog.string.toNumber(goog.dom.getElement('input-lon-grad').value);
       var lonMin = goog.string.toNumber(goog.dom.getElement('input-lon-min').value);
       var lonSec = goog.string.toNumber(goog.dom.getElement('input-lon-sec').value);
+      latMin = latMin || 0;
+      latSec = latSec || 0;
+      lonMin = lonMin || 0;
+      lonSec = lonSec || 0;
       window.console.log(latGrad);
       window.console.log(latMin);
       window.console.log(latSec);

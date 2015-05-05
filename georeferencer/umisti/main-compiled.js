@@ -4429,6 +4429,10 @@ function $JSCompiler_StaticMethods_requestMatchingRows$$($token$$14$$, $matchHan
       $inputLatGrad$$inline_555_lon_lonGrad$$ = $goog$string$toNumber$$($goog$dom$getElement$$("input-lon-grad").value);
       $event$$5_inputLatMin$$inline_556_lonMin$$ = $goog$string$toNumber$$($goog$dom$getElement$$("input-lon-min").value);
       $inputLatSec$$inline_557_lonSec$$ = $goog$string$toNumber$$($goog$dom$getElement$$("input-lon-sec").value);
+      $inputLonMin$$inline_559_latMin$$ = $inputLonMin$$inline_559_latMin$$ || 0;
+      $inputLonSec$$inline_560_latSec$$ = $inputLonSec$$inline_560_latSec$$ || 0;
+      $event$$5_inputLatMin$$inline_556_lonMin$$ = $event$$5_inputLatMin$$inline_556_lonMin$$ || 0;
+      $inputLatSec$$inline_557_lonSec$$ = $inputLatSec$$inline_557_lonSec$$ || 0;
       window.console.log($inputLonGrad$$inline_558_lat_latGrad$$);
       window.console.log($inputLonMin$$inline_559_latMin$$);
       window.console.log($inputLonSec$$inline_560_latSec$$);
