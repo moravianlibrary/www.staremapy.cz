@@ -68,8 +68,8 @@ goog.inherits(georeferencer.umisti.AddPointDialog, goog.ui.Dialog);
  */
 georeferencer.umisti.AddPointDialog.prototype.enterDocument = function() {
   goog.base(this, 'enterDocument');
-  var northLabelInput = new goog.ui.LabelInput("'49.5' nebo '49 30'");
-  var eastLabelInput = new goog.ui.LabelInput("'49 30.5' nebo '49 30 30'");
+  var northLabelInput = new goog.ui.LabelInput("'49.5' nebo '49 30'nebo '49 30.5' nebo '49 30 30'");
+  var eastLabelInput = new goog.ui.LabelInput("'49.5' nebo '49 30'nebo '49 30.5' nebo '49 30 30'");
   var projLabelInput = new goog.ui.LabelInput("'WGS84' nebo '4326' nebo 'jtsk' nebo 'czech'");
   northLabelInput.decorate(goog.dom.getElement('input-north'));
   eastLabelInput.decorate(goog.dom.getElement('input-east'));
@@ -254,9 +254,6 @@ georeferencer.umisti.AddPointDialog.coorStrToNum = function(coor) {
   var sec = goog.string.toNumber(matches[7]);
   min = min || 0;
   sec = sec || 0;
-  window.console.log(grad);
-  window.console.log(min);
-  window.console.log(sec);
   return grad + min / 60.0 + sec / 3600.0;
 }
 

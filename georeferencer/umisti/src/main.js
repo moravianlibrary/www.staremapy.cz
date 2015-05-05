@@ -29,7 +29,7 @@ georeferencer.umisti.main = function() {
     e.stopPropagation();
   });
   goog.events.listen(addPointDialog, georeferencer.umisti.AddPointDialog.EventType.SELECT, function (e) {
-    georeferencer.umisti.transform(e['lon'], e['lat'], e['proj'], function(data) {
+    georeferencer.umisti.transform(e['east'], e['north'], e['proj'], function(data) {
       window.alert('X: ' + data['x'] + ', Y: ' + data['y']);
     });
   });
