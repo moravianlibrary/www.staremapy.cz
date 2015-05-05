@@ -4423,14 +4423,15 @@ function $JSCompiler_StaticMethods_requestMatchingRows$$($token$$14$$, $matchHan
   })
 }
 $goog$inherits$$($georeferencer$umisti$AddPointDialog$$, $goog$ui$Dialog$$);
-$georeferencer$umisti$AddPointDialog$$.prototype.$enterDocument$ = function $$georeferencer$umisti$AddPointDialog$$$$$enterDocument$$() {
+$JSCompiler_prototypeAlias$$ = $georeferencer$umisti$AddPointDialog$$.prototype;
+$JSCompiler_prototypeAlias$$.$enterDocument$ = function $$JSCompiler_prototypeAlias$$$$enterDocument$$() {
   $georeferencer$umisti$AddPointDialog$$.$superClass_$.$enterDocument$.call(this);
   this.$inputHandler_$ = new $goog$ui$ac$InputHandler$$(null, null, !1);
   this.$ac_$ = new $goog$ui$ac$AutoComplete$$(new $georeferencer$umisti$EpsgMatcher$$, new $goog$ui$ac$Renderer$$, this.$inputHandler_$);
   this.$inputHandler_$.$ac_$ = this.$ac_$;
   this.$inputHandler_$.$attachInputs$($goog$dom$getElement$$("input-proj"))
 };
-$georeferencer$umisti$AddPointDialog$$.prototype.$exitDocument$ = function $$georeferencer$umisti$AddPointDialog$$$$$exitDocument$$() {
+$JSCompiler_prototypeAlias$$.$exitDocument$ = function $$JSCompiler_prototypeAlias$$$$exitDocument$$() {
   var $JSCompiler_StaticMethods_detachInput$self$$inline_565$$ = this.$inputHandler_$, $target$$inline_566$$ = $goog$dom$getElement$$("input-proj");
   $target$$inline_566$$ == $JSCompiler_StaticMethods_detachInput$self$$inline_565$$.$activeElement_$ && $JSCompiler_StaticMethods_detachInput$self$$inline_565$$.$handleBlur$();
   $JSCompiler_StaticMethods_detachInput$self$$inline_565$$.$eh_$.$unlisten$($target$$inline_566$$, "focus", $JSCompiler_StaticMethods_detachInput$self$$inline_565$$.$handleFocus$);
@@ -4439,10 +4440,22 @@ $georeferencer$umisti$AddPointDialog$$.prototype.$exitDocument$ = function $$geo
   this.$inputHandler_$ = this.$ac_$ = null;
   $georeferencer$umisti$AddPointDialog$$.$superClass_$.$exitDocument$.call(this)
 };
-$georeferencer$umisti$AddPointDialog$$.prototype.$render$ = function $$georeferencer$umisti$AddPointDialog$$$$$render$$($parentElement$$3$$) {
+$JSCompiler_prototypeAlias$$.$render$ = function $$JSCompiler_prototypeAlias$$$$render$$($parentElement$$3$$) {
   $parentElement$$3$$ ? $georeferencer$umisti$AddPointDialog$$.$superClass_$.$render$.call(this, $parentElement$$3$$) : $georeferencer$umisti$AddPointDialog$$.$superClass_$.$render$.call(this, this.$parentElement_$)
 };
-$georeferencer$umisti$AddPointDialog$$.prototype.$onShow$ = function $$georeferencer$umisti$AddPointDialog$$$$$onShow$$() {
+$JSCompiler_prototypeAlias$$.$reposition$ = function $$JSCompiler_prototypeAlias$$$$reposition$$() {
+  var $doc$$45_left$$12_x$$74$$ = $JSCompiler_StaticMethods_getDocument$$(this.$getDomHelper$()), $viewSize$$3_win$$9$$ = $goog$dom$getWindow$$($doc$$45_left$$12_x$$74$$) || window;
+  if("fixed" == $goog$style$getComputedPosition$$(this.$getElement$())) {
+    var $scroll$$1_top$$10_y$$46$$ = $doc$$45_left$$12_x$$74$$ = 0
+  }else {
+    $scroll$$1_top$$10_y$$46$$ = $JSCompiler_StaticMethods_getDocumentScroll$$(this.$getDomHelper$()), $doc$$45_left$$12_x$$74$$ = $scroll$$1_top$$10_y$$46$$.x, $scroll$$1_top$$10_y$$46$$ = $scroll$$1_top$$10_y$$46$$.y
+  }
+  var $popupSize$$1$$ = $goog$style$evaluateWithTemporaryDisplay_$$(this.$getElement$()), $viewSize$$3_win$$9$$ = this.$parentElement_$ ? new $goog$math$Size$$(this.$parentElement_$.offsetWidth, this.$parentElement_$.offsetHeight) : $goog$dom$getViewportSize_$$($viewSize$$3_win$$9$$ || window), $doc$$45_left$$12_x$$74$$ = Math.max($doc$$45_left$$12_x$$74$$ + $viewSize$$3_win$$9$$.width / 2 - $popupSize$$1$$.width / 2, 0), $scroll$$1_top$$10_y$$46$$ = Math.max($scroll$$1_top$$10_y$$46$$ + $viewSize$$3_win$$9$$.height / 
+  2 - $popupSize$$1$$.height / 2, 0);
+  $goog$style$setPosition$$(this.$getElement$(), $doc$$45_left$$12_x$$74$$, $scroll$$1_top$$10_y$$46$$);
+  $goog$style$setPosition$$(this.$tabCatcherElement_$, $doc$$45_left$$12_x$$74$$, $scroll$$1_top$$10_y$$46$$)
+};
+$JSCompiler_prototypeAlias$$.$onShow$ = function $$JSCompiler_prototypeAlias$$$$onShow$$() {
   $georeferencer$umisti$AddPointDialog$$.$superClass_$.$onShow$.call(this);
   var $inputLat$$ = $goog$dom$getElement$$("input-lat"), $inputLon$$ = $goog$dom$getElement$$("input-lon"), $inputProj$$ = $goog$dom$getElement$$("input-proj");
   $inputLat$$.value = "";
@@ -4483,8 +4496,8 @@ function $georeferencer$umisti$loadCss$$($url$$25$$) {
   $link$$.href = $url$$25$$;
   $goog$dom$append$$($head$$1$$, $link$$)
 }
-function $georeferencer$umisti$transform$$($x$$74$$, $y$$46$$, $proj$$1$$, $callback$$37$$) {
-  $goog$net$XhrIo$send$$("http://epsg.io/trans?x\x3d" + $x$$74$$ + "\x26y\x3d" + $y$$46$$ + "\x26s_srs\x3d" + $proj$$1$$ + "\x26t_srs\x3d4326", function($e$$106_response$$1_xhr$$3$$) {
+function $georeferencer$umisti$transform$$($x$$75$$, $y$$47$$, $proj$$1$$, $callback$$37$$) {
+  $goog$net$XhrIo$send$$("http://epsg.io/trans?x\x3d" + $x$$75$$ + "\x26y\x3d" + $y$$47$$ + "\x26s_srs\x3d" + $proj$$1$$ + "\x26t_srs\x3d4326", function($e$$106_response$$1_xhr$$3$$) {
     $e$$106_response$$1_xhr$$3$$ = $e$$106_response$$1_xhr$$3$$.target;
     if(200 != $JSCompiler_StaticMethods_getStatus$$($e$$106_response$$1_xhr$$3$$)) {
       window.alert("Slu\u017eba epsg.io neodpov\u00edd\u00e1. Skuste to pozd\u011bji.")

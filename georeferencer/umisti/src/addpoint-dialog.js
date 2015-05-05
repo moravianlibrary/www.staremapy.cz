@@ -4,6 +4,7 @@ goog.provide('georeferencer.umisti.AddPointDialog.EventType');
 goog.require('goog.dom');
 goog.require('goog.dom.classes');
 goog.require('goog.events');
+goog.require('goog.math');
 goog.require('goog.string');
 goog.require('goog.ui.Dialog');
 goog.require('goog.ui.ac.AutoComplete');
@@ -94,6 +95,40 @@ georeferencer.umisti.AddPointDialog.prototype.render = function(parentElement) {
   } else {
     goog.base(this, 'render', this.parentElement_);
   }
+}
+
+/**
+ * @override
+ */
+georeferencer.umisti.AddPointDialog.prototype.reposition = function() {
+  var doc = this.getDomHelper().getDocument();
+  var win = goog.dom.getWindow(doc) || window;
+  if (goog.style.getComputedPosition(this.getElement()) == 'fixed') {
+    var x = 0;
+    var y = 0;
+  } else {
+    var scroll = this.getDomHelper().getDocumentScroll();
+    var x = scroll.x;
+    var y = scroll.y;
+  }
+
+  var popupSize = goog.style.getSize(this.getElement());
+  var viewSize;
+  if (this.parentElement_) {
+    viewSize = new goog.math.Size(
+      this.parentElement_.offsetWidth, this.parentElement_.offsetHeight);
+  } else {
+    viewSize = goog.dom.getViewportSize(win);
+  }
+
+  // Make sure left and top are non-negatives.
+  var left = Math.max(x + viewSize.width / 2 - popupSize.width / 2, 0);
+  var top = Math.max(y + viewSize.height / 2 - popupSize.height / 2, 0);
+  goog.style.setPosition(this.getElement(), left, top);
+
+  // We place the tab catcher at the same position as the dialog to
+  // prevent IE from scrolling when users try to tab out of the dialog.
+  goog.style.setPosition(this.tabCatcherElement_, left, top);
 }
 
 /**
