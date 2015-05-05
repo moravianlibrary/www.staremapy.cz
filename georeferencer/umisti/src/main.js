@@ -27,6 +27,9 @@ georeferencer.umisti.main = function() {
     addPointDialog.setVisible(true);
     e.stopPropagation();
   });
+  goog.events.listen(addPointDialog, goog.ui.Dialog.EventType.SELECT, function (e) {
+    window.console.log(e);
+  });
 
   addPointBttn.render(rightPanel);
 };
