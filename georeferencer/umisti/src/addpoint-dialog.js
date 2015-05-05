@@ -35,6 +35,7 @@ georeferencer.umisti.AddPointDialog = function() {
   goog.events.listen(this, goog.ui.Dialog.EventType.SELECT, function(e) {
     if (e.key == goog.ui.Dialog.DefaultButtonKeys.OK) {
       if (!this.validate()) {
+        e.stopPropagation();
         return false;
       }
       var projParser = new RegExp(/^(\d+).*/);

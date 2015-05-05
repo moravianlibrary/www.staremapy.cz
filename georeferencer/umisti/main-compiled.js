@@ -4406,7 +4406,7 @@ function $JSCompiler_StaticMethods_requestMatchingRows$$($token$$14$$, $matchHan
       $goog$string$isEmptySafe$$($inputLon$$inline_556_lon$$.value) || $decimalNumFormat$$inline_559$$.test($inputLon$$inline_556_lon$$.value) || ($valid$$inline_558$$ = !1, $goog$dom$classes$add$$($inputLon$$inline_556_lon$$, "goog-error-format"));
       $goog$string$isEmptySafe$$($inputProj$$inline_557_proj$$.value) || $projFormat$$inline_560$$.test($inputProj$$inline_557_proj$$.value) || ($valid$$inline_558$$ = !1, $goog$dom$classes$add$$($inputProj$$inline_557_proj$$, "goog-error-format"));
       if(!$valid$$inline_558$$) {
-        return!1
+        return $e$$103$$.stopPropagation(), !1
       }
       $inputLat$$inline_555_lat$$ = $goog$dom$getElement$$("input-lat").value;
       $inputLon$$inline_556_lon$$ = $goog$dom$getElement$$("input-lon").value;
