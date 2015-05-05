@@ -78,6 +78,7 @@ margin: 0;
 overflow-x: visible;
 position: relative;
 width: 100%;
+left: 20px;
 }
 .metrics ul {
   list-style: none;
@@ -175,12 +176,11 @@ visibility: hidden;
 }
 .metrics .pipeline .group:first-child .state, .metrics .pipeline .group:first-child .status {
 position: relative;
-left: -55px;
 text-align: center;
 }
   </style>
   <script>
-var firstPilot = 12997;
+var firstPilot = 0;
 var g=this;function j(a,b){var d=a.split("."),e=g;!(d[0]in e)&&e.execScript&&e.execScript("var "+d[0]);for(var f;d.length&&(f=d.shift());)!d.length&&void 0!==b?e[f]=b:e=e[f]?e[f]:e[f]={}}Math.floor(2147483648*Math.random()).toString(36);var k,m,n,p;function q(){return g.navigator?g.navigator.userAgent:null}p=n=m=k=!1;var r;if(r=q()){var s=g.navigator;k=0==r.indexOf("Opera");m=!k&&-1!=r.indexOf("MSIE");n=!k&&-1!=r.indexOf("WebKit");p=!k&&!n&&"Gecko"==s.product}var u=m,v=p,w=n,x;
 a:{var y="",z;if(k&&g.opera)var A=g.opera.version,y="function"==typeof A?A():A;else if(v?z=/rv\:([^\);]+)(\)|;)/:u?z=/MSIE\s+([^\);]+)(\)|;)/:w&&(z=/WebKit\/(\S+)/),z)var B=z.exec(q()),y=B?B[1]:"";if(u){var C,D=g.document;C=D?D.documentMode:void 0;if(C>parseFloat(y)){x=""+C;break a}}x=y}var E={};
 function F(a){var b;if(!(b=E[a])){b=0;for(var d=(""+x).replace(/^[\s\xa0]+|[\s\xa0]+$/g,"").split("."),e=(""+a).replace(/^[\s\xa0]+|[\s\xa0]+$/g,"").split("."),f=Math.max(d.length,e.length),c=0;0==b&&c<f;c++){var o=d[c]||"",l=e[c]||"",t=RegExp("(\\d*)(\\D*)","g"),J=RegExp("(\\d*)(\\D*)","g");do{var h=t.exec(o)||["","",""],i=J.exec(l)||["","",""];if(0==h[0].length&&0==i[0].length)break;b=((0==h[1].length?0:parseInt(h[1],10))<(0==i[1].length?0:parseInt(i[1],10))?-1:(0==h[1].length?0:parseInt(h[1],10))>
