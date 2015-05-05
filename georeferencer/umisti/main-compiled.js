@@ -4756,7 +4756,7 @@ $goog$inherits$$($georeferencer$umisti$AddPointDialog$$, $goog$ui$Dialog$$);
 $JSCompiler_prototypeAlias$$ = $georeferencer$umisti$AddPointDialog$$.prototype;
 $JSCompiler_prototypeAlias$$.$enterDocument$ = function $$JSCompiler_prototypeAlias$$$$enterDocument$$() {
   $georeferencer$umisti$AddPointDialog$$.$superClass_$.$enterDocument$.call(this);
-  var $northLabelInput$$ = new $goog$ui$LabelInput$$("'49.5', '49 30'"), $eastLabelInput$$ = new $goog$ui$LabelInput$$("'49 30.5', '49 30 30'"), $projLabelInput$$ = new $goog$ui$LabelInput$$("'WGS84', '4326', 'jtsk', 'czech'");
+  var $northLabelInput$$ = new $goog$ui$LabelInput$$("'49.5' nebo '49 30'"), $eastLabelInput$$ = new $goog$ui$LabelInput$$("'49 30.5' nebo '49 30 30'"), $projLabelInput$$ = new $goog$ui$LabelInput$$("'WGS84' nebo '4326' nebo 'jtsk' nebo 'czech'");
   $northLabelInput$$.$decorate$($goog$dom$getElement$$("input-north"));
   $eastLabelInput$$.$decorate$($goog$dom$getElement$$("input-east"));
   $projLabelInput$$.$decorate$($goog$dom$getElement$$("input-proj"));
@@ -4823,10 +4823,13 @@ function $JSCompiler_StaticMethods_generateContent_$$() {
   return $JSCompiler_inline_result$$34_table$$
 }
 function $georeferencer$umisti$AddPointDialog$coorStrToNum$$($coor_grad$$) {
-  var $matches$$2_sec$$ = RegExp(/\s*(\d+(\.\d+)?)\s+(\d+(\.\d+)?)\s+(\d+(\.\d+)?)/).exec($coor_grad$$);
+  var $matches$$2_sec$$ = RegExp(/\s*(\d+(\.\d+)?)(\s+(\d+(\.\d+)?))?(\s+(\d+(\.\d+)?))?/).exec($coor_grad$$);
   $coor_grad$$ = $goog$string$toNumber$$($matches$$2_sec$$[1]);
-  var $min$$3$$ = $goog$string$toNumber$$($matches$$2_sec$$[3]), $matches$$2_sec$$ = $goog$string$toNumber$$($matches$$2_sec$$[5]);
-  return $coor_grad$$ + ($min$$3$$ || 0) / 60 + ($matches$$2_sec$$ || 0) / 3600
+  var $min$$3$$ = $goog$string$toNumber$$($matches$$2_sec$$[4]), $matches$$2_sec$$ = $goog$string$toNumber$$($matches$$2_sec$$[7]), $min$$3$$ = $min$$3$$ || 0, $matches$$2_sec$$ = $matches$$2_sec$$ || 0;
+  window.console.log($coor_grad$$);
+  window.console.log($min$$3$$);
+  window.console.log($matches$$2_sec$$);
+  return $coor_grad$$ + $min$$3$$ / 60 + $matches$$2_sec$$ / 3600
 }
 var $georeferencer$umisti$AddPointDialog$EventType$SELECT$$ = "georeferencer.umisti.AddPointDialog.EventType.SELECT";
 function $georeferencer$umisti$loadCss$$($url$$25$$) {
