@@ -7,6 +7,7 @@ goog.require('goog.events');
 goog.require('goog.math');
 goog.require('goog.string');
 goog.require('goog.ui.Dialog');
+goog.require('goog.ui.LabelInput');
 goog.require('goog.ui.ac.AutoComplete');
 goog.require('goog.ui.ac.Renderer');
 goog.require('goog.ui.ac.InputHandler');
@@ -67,6 +68,13 @@ goog.inherits(georeferencer.umisti.AddPointDialog, goog.ui.Dialog);
  */
 georeferencer.umisti.AddPointDialog.prototype.enterDocument = function() {
   goog.base(this, 'enterDocument');
+  var northLabelInput = new goog.ui.LabelInput("'49.5' nebo '49 30' nebo '49 30.5' nebo '49 30 30'");
+  var eastLabelInput = new goog.ui.LabelInput("'49.5' nebo '49 30' nebo '49 30.5' nebo '49 30 30'");
+  var projLabelInput = new goog.ui.LabelInput("'WGS84' nebo 4326 nebo 'jtsk' nebo 'czech'");
+  northLabelInput.decorate(goog.dom.getElement('input-north'));
+  eastLabelInput.decorate(goog.dom.getElement('input-east'));
+  projLabelInput.decorate(goog.dom.getElement('input-proj'));
+
   this.inputHandler_ = new goog.ui.ac.InputHandler(null, null, false);
   this.ac_ = new goog.ui.ac.AutoComplete(
     new georeferencer.umisti.EpsgMatcher(),

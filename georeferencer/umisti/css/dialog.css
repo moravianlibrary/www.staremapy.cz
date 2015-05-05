@@ -91,19 +91,6 @@
   background-color: #FFE5E5;
 }
 
-#input-lat-min, #input-lat-sec, #input-lon-min, #input-lon-sec {
-  width: 25px
-}
-
-#input-lat-grad, #input-lon-grad {
-  width: 100px
-}
-
-.modal-dialog table td span {
-  font-size: 17px;
-  padding: 2px
-}
-
-#input-proj {
-  width: 185px
+.modal-dialog table th {
+  text-align: left;
 }
