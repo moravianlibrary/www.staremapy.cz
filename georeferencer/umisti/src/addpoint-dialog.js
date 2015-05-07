@@ -73,7 +73,7 @@ georeferencer.umisti.AddPointDialog.prototype.enterDocument = function() {
   goog.base(this, 'enterDocument');
   var northInput = goog.dom.getElement('input-north');
   var eastInput = goog.dom.getElement('input-east');
-  var projInput = goog.dom.getElement('input-east');
+  var projInput = goog.dom.getElement('input-proj');
   var northLabelInput = new goog.ui.LabelInput("'49.5' nebo '49 30' nebo '49 30.5' nebo '49 30 30'");
   var eastLabelInput = new goog.ui.LabelInput("'49.5' nebo '49 30' nebo '49 30.5' nebo '49 30 30'");
   var projLabelInput = new goog.ui.LabelInput("'WGS84' nebo '4326' nebo 'jtsk' nebo 'czech'");

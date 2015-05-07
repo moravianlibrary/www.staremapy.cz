@@ -4768,7 +4768,7 @@ $goog$inherits$$($georeferencer$umisti$AddPointDialog$$, $goog$ui$Dialog$$);
 $JSCompiler_prototypeAlias$$ = $georeferencer$umisti$AddPointDialog$$.prototype;
 $JSCompiler_prototypeAlias$$.$enterDocument$ = function $$JSCompiler_prototypeAlias$$$$enterDocument$$() {
   $georeferencer$umisti$AddPointDialog$$.$superClass_$.$enterDocument$.call(this);
-  var $northInput_northInputKH$$ = $goog$dom$getElement$$("input-north"), $eastInput_eastInputKH$$ = $goog$dom$getElement$$("input-east"), $projInput$$ = $goog$dom$getElement$$("input-east"), $northLabelInput$$ = new $goog$ui$LabelInput$$("'49.5' nebo '49 30' nebo '49 30.5' nebo '49 30 30'"), $eastLabelInput$$ = new $goog$ui$LabelInput$$("'49.5' nebo '49 30' nebo '49 30.5' nebo '49 30 30'"), $projLabelInput$$ = new $goog$ui$LabelInput$$("'WGS84' nebo '4326' nebo 'jtsk' nebo 'czech'");
+  var $northInput_northInputKH$$ = $goog$dom$getElement$$("input-north"), $eastInput_eastInputKH$$ = $goog$dom$getElement$$("input-east"), $projInput$$ = $goog$dom$getElement$$("input-proj"), $northLabelInput$$ = new $goog$ui$LabelInput$$("'49.5' nebo '49 30' nebo '49 30.5' nebo '49 30 30'"), $eastLabelInput$$ = new $goog$ui$LabelInput$$("'49.5' nebo '49 30' nebo '49 30.5' nebo '49 30 30'"), $projLabelInput$$ = new $goog$ui$LabelInput$$("'WGS84' nebo '4326' nebo 'jtsk' nebo 'czech'");
   $northLabelInput$$.$decorate$($northInput_northInputKH$$);
   $eastLabelInput$$.$decorate$($eastInput_eastInputKH$$);
   $projLabelInput$$.$decorate$($projInput$$);
