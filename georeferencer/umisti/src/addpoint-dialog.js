@@ -3,7 +3,10 @@ goog.provide('georeferencer.umisti.AddPointDialog.EventType');
 
 goog.require('goog.dom');
 goog.require('goog.dom.classes');
+goog.require('goog.dom.selection');
 goog.require('goog.events');
+goog.require('goog.events.KeyCodes');
+goog.require('goog.events.KeyHandler');
 goog.require('goog.math');
 goog.require('goog.string');
 goog.require('goog.ui.Dialog');
@@ -270,8 +273,63 @@ georeferencer.umisti.AddPointDialog.coorStrToNum = function(coor) {
  * @param {goog.events.Event} e
  */
 georeferencer.umisti.AddPointDialog.coorInputHandler = function(e) {
-  window.console.log(e);
-}
+  var carret = goog.dom.selection.getEndPoints(/** @type {Element} */(e.target));
+  var start = e.target.value.substring(0, carret[0]);
+  var end = e.target.value.substring(carret[1]);
+
+  var startContainsDegree = goog.string.contains(start, '°');
+  var startContainsMinute = goog.string.contains(start, "'");
+  var startContainsSecond = goog.string.contains(start, '"');
+  var endContainsDegree = goog.string.contains(end, '°');
+  var endContainsMinute = goog.string.contains(end, "'");
+  var endContainsSecond = goog.string.contains(end, '"');
+
+  var isNumber = e.charCode >= '0'.charCodeAt(0)
+    && e.charCode <= '9'.charCodeAt(0);
+  var isNavigation = e.keyCode == goog.events.KeyCodes.LEFT
+    || e.keyCode == goog.events.KeyCodes.RIGHT
+    || e.keyCode == goog.events.KeyCodes.HOME
+    || e.keyCode == goog.events.KeyCodes.END;
+  var isRemove = e.keyCode == goog.events.KeyCodes.BACKSPACE
+    || e.keyCode == goog.events.KeyCodes.DELETE;
+  var isCopyPaste = (e.ctrlKey && e.keyCode == goog.events.KeyCodes.C)
+    || (e.ctrlKey && e.keyCode == goog.events.KeyCodes.V);
+  var isMarkAll = e.ctrlKey && e.keyCode == goog.events.KeyCodes.A;
+
+  if (isNavigation || isRemove || isCopyPaste || isMarkAll) {
+    // Preserves default behavior
+    return;
+  }
+
+  if (startContainsSecond) {
+    // we do not allow adding any new character
+    e.preventDefault();
+    return;
+  }
+
+  if (isNumber) {
+    // Preserves default behavior
+    return;
+  } else if (e.charCode == ' '.charCodeAt(0)) {
+    var changed = false;
+    if (startContainsMinute && !endContainsSecond) {
+      e.target.value = start + '"' + end;
+      changed = true;
+    } else if (startContainsDegree && !startContainsMinute && !endContainsMinute) {
+      e.target.value = start + "'" + end;
+      changed = true;
+    } else if (!startContainsDegree && !endContainsDegree) {
+      e.target.value = start + '°' + end;
+      changed = true;
+    }
+
+    if (changed) {
+      goog.dom.selection.setStart(/** @type {Element} */(e.target), carret[0] + 1);
+      goog.dom.selection.setEnd(/** @type {Element} */(e.target), carret[0] + 1);
+    }
+  }
+  e.preventDefault();
+};
 
 /**
  * Events dispatched by dialog.
