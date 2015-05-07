@@ -258,6 +258,13 @@ georeferencer.umisti.AddPointDialog.coorStrToNum = function(coor) {
 }
 
 /**
+ * @param {goog.events.Event} e
+ */
+georeferencer.umisti.AddPointDialog.coorInputHandler = function(e) {
+  window.console.log(e);
+}
+
+/**
  * Events dispatched by dialog.
  * @enum {string}
  */

@@ -4837,17 +4837,17 @@ function $georeferencer$umisti$loadCss$$($url$$25$$) {
   $goog$dom$append$$($head$$1$$, $link$$)
 }
 function $georeferencer$umisti$transform$$($x$$75$$, $y$$47$$, $proj$$1$$, $callback$$37$$) {
-  $goog$net$XhrIo$send$$("http://epsg.io/trans?x\x3d" + $x$$75$$ + "\x26y\x3d" + $y$$47$$ + "\x26s_srs\x3d" + $proj$$1$$ + "\x26t_srs\x3d4326", function($e$$112_response$$1_xhr$$3$$) {
-    $e$$112_response$$1_xhr$$3$$ = $e$$112_response$$1_xhr$$3$$.target;
-    if(200 != $JSCompiler_StaticMethods_getStatus$$($e$$112_response$$1_xhr$$3$$)) {
+  $goog$net$XhrIo$send$$("http://epsg.io/trans?x\x3d" + $x$$75$$ + "\x26y\x3d" + $y$$47$$ + "\x26s_srs\x3d" + $proj$$1$$ + "\x26t_srs\x3d4326", function($e$$113_response$$1_xhr$$3$$) {
+    $e$$113_response$$1_xhr$$3$$ = $e$$113_response$$1_xhr$$3$$.target;
+    if(200 != $JSCompiler_StaticMethods_getStatus$$($e$$113_response$$1_xhr$$3$$)) {
       window.alert("Slu\u017eba epsg.io neodpov\u00edd\u00e1. Skuste to pozd\u011bji.")
     }else {
-      if($e$$112_response$$1_xhr$$3$$ = $JSCompiler_StaticMethods_getResponseJson$$($e$$112_response$$1_xhr$$3$$), "error" == $e$$112_response$$1_xhr$$3$$.status) {
+      if($e$$113_response$$1_xhr$$3$$ = $JSCompiler_StaticMethods_getResponseJson$$($e$$113_response$$1_xhr$$3$$), "error" == $e$$113_response$$1_xhr$$3$$.status) {
         window.alert("Zadali jste nespr\u00e1vn\u00e9 vstupn\u00ed data.")
       }else {
         var $data$$23$$ = {};
-        $data$$23$$.x = $e$$112_response$$1_xhr$$3$$.x;
-        $data$$23$$.y = $e$$112_response$$1_xhr$$3$$.y;
+        $data$$23$$.x = $e$$113_response$$1_xhr$$3$$.x;
+        $data$$23$$.y = $e$$113_response$$1_xhr$$3$$.y;
         $callback$$37$$($data$$23$$)
       }
     }
@@ -4863,12 +4863,12 @@ function $opt_object$$inline_821$$() {
   $goog$dom$classes$add$$($addPointBttn_addPointCnt$$, "icon-target");
   $addPointBttn_addPointCnt$$ = new $goog$ui$Button$$($addPointBttn_addPointCnt$$, $goog$ui$FlatButtonRenderer$$.$getInstance$());
   $JSCompiler_StaticMethods_addClassName$$($addPointBttn_addPointCnt$$, "addpoint");
-  $goog$events$listen$$($addPointBttn_addPointCnt$$, "action", function($e$$110$$) {
+  $goog$events$listen$$($addPointBttn_addPointCnt$$, "action", function($e$$111$$) {
     $addPointDialog$$.$setVisible$(!0);
-    $e$$110$$.stopPropagation()
+    $e$$111$$.stopPropagation()
   });
-  $goog$events$listen$$($addPointDialog$$, $georeferencer$umisti$AddPointDialog$EventType$SELECT$$, function($e$$111$$) {
-    $georeferencer$umisti$transform$$($e$$111$$.east, $e$$111$$.north, $e$$111$$.proj, function($data$$22$$) {
+  $goog$events$listen$$($addPointDialog$$, $georeferencer$umisti$AddPointDialog$EventType$SELECT$$, function($e$$112$$) {
+    $georeferencer$umisti$transform$$($e$$112$$.east, $e$$112$$.north, $e$$112$$.proj, function($data$$22$$) {
       window.alert("X: " + $data$$22$$.x + ", Y: " + $data$$22$$.y)
     })
   });
