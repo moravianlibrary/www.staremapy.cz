@@ -75,6 +75,9 @@ georeferencer.umisti.AddPointDialog.prototype.enterDocument = function() {
   eastLabelInput.decorate(goog.dom.getElement('input-east'));
   projLabelInput.decorate(goog.dom.getElement('input-proj'));
 
+  goog.events.listen(northLabelInput, 'key', georeferencer.umisti.AddPointDialog.coorInputHandler);
+  goog.events.listen(eastLabelInput, 'key', georeferencer.umisti.AddPointDialog.coorInputHandler);
+
   this.inputHandler_ = new goog.ui.ac.InputHandler(null, null, false);
   this.ac_ = new goog.ui.ac.AutoComplete(
     new georeferencer.umisti.EpsgMatcher(),

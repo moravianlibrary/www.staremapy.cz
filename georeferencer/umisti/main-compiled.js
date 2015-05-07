@@ -4760,6 +4760,8 @@ $JSCompiler_prototypeAlias$$.$enterDocument$ = function $$JSCompiler_prototypeAl
   $northLabelInput$$.$decorate$($goog$dom$getElement$$("input-north"));
   $eastLabelInput$$.$decorate$($goog$dom$getElement$$("input-east"));
   $projLabelInput$$.$decorate$($goog$dom$getElement$$("input-proj"));
+  $goog$events$listen$$($northLabelInput$$, "key", $georeferencer$umisti$AddPointDialog$coorInputHandler$$);
+  $goog$events$listen$$($eastLabelInput$$, "key", $georeferencer$umisti$AddPointDialog$coorInputHandler$$);
   this.$inputHandler_$ = new $goog$ui$ac$InputHandler$$(null, null, !1);
   this.$ac_$ = new $goog$ui$ac$AutoComplete$$(new $georeferencer$umisti$EpsgMatcher$$, new $goog$ui$ac$Renderer$$, this.$inputHandler_$);
   this.$inputHandler_$.$ac_$ = this.$ac_$;
@@ -4827,6 +4829,9 @@ function $georeferencer$umisti$AddPointDialog$coorStrToNum$$($coor_grad$$) {
   $coor_grad$$ = $goog$string$toNumber$$($matches$$2_sec$$[1]);
   var $min$$3$$ = $goog$string$toNumber$$($matches$$2_sec$$[4]), $matches$$2_sec$$ = $goog$string$toNumber$$($matches$$2_sec$$[7]);
   return $coor_grad$$ + ($min$$3$$ || 0) / 60 + ($matches$$2_sec$$ || 0) / 3600
+}
+function $georeferencer$umisti$AddPointDialog$coorInputHandler$$($e$$110$$) {
+  window.console.log($e$$110$$)
 }
 var $georeferencer$umisti$AddPointDialog$EventType$SELECT$$ = "georeferencer.umisti.AddPointDialog.EventType.SELECT";
 function $georeferencer$umisti$loadCss$$($url$$25$$) {
