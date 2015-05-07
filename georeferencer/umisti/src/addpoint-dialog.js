@@ -171,7 +171,8 @@ georeferencer.umisti.AddPointDialog.prototype.validate = function() {
   var inputEast = goog.dom.getElement('input-east');
   var inputProj = goog.dom.getElement('input-proj');
   var valid = true;
-  var coorFormat = new RegExp(/^\s*\d+(\.\d+)?(\s+\d+(\.\d+)?)?(\s+\d+(\.\d+)?)?\s*$/);
+
+  var coorFormat = new RegExp(/^\s*\d+(\.\d+)?\s*°?\s*(\d+(\.\d+)?)?\s*'?\s*(\d+(\.\d+)?)?\s*"?\s*$/);
   var projFormat = new RegExp(/^\d+/);
 
   goog.dom.classes.remove(inputNorth, 'goog-error-empty', 'goog-error-format');
@@ -259,11 +260,11 @@ georeferencer.umisti.AddPointDialog.prototype.generateContent_ = function() {
  * @return {number}
  */
 georeferencer.umisti.AddPointDialog.coorStrToNum = function(coor) {
-  var re = new RegExp(/\s*(\d+(\.\d+)?)(\s+(\d+(\.\d+)?))?(\s+(\d+(\.\d+)?))?/);
+  var re = new RegExp(/\s*(\d+(\.\d+)?)\s*°?\s*(\d+(\.\d+)?)\s*'?\s*(\d+(\.\d+)?)?\s*"?\s*/);
   var matches = re.exec(coor);
   var grad = goog.string.toNumber(matches[1]);
-  var min = goog.string.toNumber(matches[4]);
-  var sec = goog.string.toNumber(matches[7]);
+  var min = goog.string.toNumber(matches[3]);
+  var sec = goog.string.toNumber(matches[5]);
   min = min || 0;
   sec = sec || 0;
   return grad + min / 60.0 + sec / 3600.0;

@@ -4738,7 +4738,7 @@ function $JSCompiler_StaticMethods_requestMatchingRows$$($token$$14$$, $matchHan
   this.$setContent$($JSCompiler_StaticMethods_generateContent_$$());
   $goog$events$listen$$(this, $goog$ui$Dialog$EventType$SELECT$$, function($e$$109_north$$) {
     if("ok" == $e$$109_north$$.key) {
-      var $east_inputNorth$$inline_588$$ = $goog$dom$getElement$$("input-north"), $inputEast$$inline_589_proj$$ = $goog$dom$getElement$$("input-east"), $event$$5_inputProj$$inline_590$$ = $goog$dom$getElement$$("input-proj"), $valid$$inline_591$$ = !0, $coorFormat$$inline_592$$ = RegExp(/^\s*\d+(\.\d+)?(\s+\d+(\.\d+)?)?(\s+\d+(\.\d+)?)?\s*$/), $projFormat$$inline_593$$ = RegExp(/^\d+/);
+      var $east_inputNorth$$inline_588$$ = $goog$dom$getElement$$("input-north"), $inputEast$$inline_589_proj$$ = $goog$dom$getElement$$("input-east"), $event$$5_inputProj$$inline_590$$ = $goog$dom$getElement$$("input-proj"), $valid$$inline_591$$ = !0, $coorFormat$$inline_592$$ = RegExp(/^\s*\d+(\.\d+)?\s*\u00b0?\s*(\d+(\.\d+)?)?\s*'?\s*(\d+(\.\d+)?)?\s*"?\s*$/), $projFormat$$inline_593$$ = RegExp(/^\d+/);
       $goog$dom$classes$remove$$($east_inputNorth$$inline_588$$, "goog-error-empty", "goog-error-format");
       $goog$dom$classes$remove$$($inputEast$$inline_589_proj$$, "goog-error-empty", "goog-error-format");
       $goog$dom$classes$remove$$($event$$5_inputProj$$inline_590$$, "goog-error-empty", "goog-error-format");
@@ -4839,9 +4839,9 @@ function $JSCompiler_StaticMethods_generateContent_$$() {
   return $JSCompiler_inline_result$$34_table$$
 }
 function $georeferencer$umisti$AddPointDialog$coorStrToNum$$($coor_grad$$) {
-  var $matches$$2_sec$$ = RegExp(/\s*(\d+(\.\d+)?)(\s+(\d+(\.\d+)?))?(\s+(\d+(\.\d+)?))?/).exec($coor_grad$$);
+  var $matches$$2_sec$$ = RegExp(/\s*(\d+(\.\d+)?)\s*\u00b0?\s*(\d+(\.\d+)?)\s*'?\s*(\d+(\.\d+)?)?\s*"?\s*/).exec($coor_grad$$);
   $coor_grad$$ = $goog$string$toNumber$$($matches$$2_sec$$[1]);
-  var $min$$3$$ = $goog$string$toNumber$$($matches$$2_sec$$[4]), $matches$$2_sec$$ = $goog$string$toNumber$$($matches$$2_sec$$[7]);
+  var $min$$3$$ = $goog$string$toNumber$$($matches$$2_sec$$[3]), $matches$$2_sec$$ = $goog$string$toNumber$$($matches$$2_sec$$[5]);
   return $coor_grad$$ + ($min$$3$$ || 0) / 60 + ($matches$$2_sec$$ || 0) / 3600
 }
 function $georeferencer$umisti$AddPointDialog$coorInputHandler$$($e$$110$$) {
