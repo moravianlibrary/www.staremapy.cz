@@ -286,6 +286,8 @@ georeferencer.umisti.AddPointDialog.coorInputHandler = function(e) {
 
   var isNumber = e.charCode >= '0'.charCodeAt(0)
     && e.charCode <= '9'.charCodeAt(0);
+  var isDecimalSep = e.charCode == '.'.charCodeAt(0);
+  var isSpace = e.charCode == ' '.charCodeAt(0);
   var isNavigation = e.keyCode == goog.events.KeyCodes.LEFT
     || e.keyCode == goog.events.KeyCodes.RIGHT
     || e.keyCode == goog.events.KeyCodes.HOME
@@ -295,6 +297,7 @@ georeferencer.umisti.AddPointDialog.coorInputHandler = function(e) {
   var isCopyPaste = (e.ctrlKey && e.keyCode == goog.events.KeyCodes.C)
     || (e.ctrlKey && e.keyCode == goog.events.KeyCodes.V);
   var isMarkAll = e.ctrlKey && e.keyCode == goog.events.KeyCodes.A;
+  var isDigit = function(x) { return (x > '0' && x < '9') || x == '.' };
 
   if (isNavigation || isRemove || isCopyPaste || isMarkAll) {
     // Preserves default behavior
@@ -310,7 +313,25 @@ georeferencer.umisti.AddPointDialog.coorInputHandler = function(e) {
   if (isNumber) {
     // Preserves default behavior
     return;
-  } else if (e.charCode == ' '.charCodeAt(0)) {
+  } else if (isDecimalSep) {
+    var i = carret[0];
+    var j = carret[0];
+    var value = e.target.value;
+
+    while ((i > 0 && isDigit(value[i])) || (i == value.length)) i--;
+    while (j < value.length && isDigit(value[j])) j++;
+
+    if (!isDigit(value[i])) i++;
+    if (!isDigit(value[j])) j--;
+
+    var number = value.substring(i, j+1);
+
+    if (!goog.string.contains(number, '.')) {
+      // Allows adding decimal point
+      return;
+    }
+
+  } else if (isSpace) {
     var changed = false;
     if (startContainsMinute && !endContainsSecond) {
       e.target.value = start + '"' + end;

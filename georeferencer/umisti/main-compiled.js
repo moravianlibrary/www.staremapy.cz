@@ -4845,10 +4845,38 @@ function $georeferencer$umisti$AddPointDialog$coorStrToNum$$($coor_grad$$) {
   return $coor_grad$$ + ($min$$3$$ || 0) / 60 + ($matches$$2_sec$$ || 0) / 3600
 }
 function $georeferencer$umisti$AddPointDialog$coorInputHandler$$($e$$110$$) {
-  var $carret$$ = $goog$dom$selection$getEndPoints_$$($e$$110$$.target, !1), $start$$21$$ = $e$$110$$.target.value.substring(0, $carret$$[0]), $end$$16$$ = $e$$110$$.target.value.substring($carret$$[1]), $startContainsDegree$$ = -1 != $start$$21$$.indexOf("\u00b0"), $startContainsMinute$$ = -1 != $start$$21$$.indexOf("'"), $changed_startContainsSecond$$ = -1 != $start$$21$$.indexOf('"'), $endContainsDegree$$ = -1 != $end$$16$$.indexOf("\u00b0"), $endContainsMinute$$ = -1 != $end$$16$$.indexOf("'"), 
-  $endContainsSecond$$ = -1 != $end$$16$$.indexOf('"'), $isNumber$$ = 48 <= $e$$110$$.charCode && 57 >= $e$$110$$.charCode, $isRemove$$ = 8 == $e$$110$$.keyCode || 46 == $e$$110$$.keyCode, $isCopyPaste$$ = $e$$110$$.ctrlKey && 67 == $e$$110$$.keyCode || $e$$110$$.ctrlKey && 86 == $e$$110$$.keyCode, $isMarkAll$$ = $e$$110$$.ctrlKey && 65 == $e$$110$$.keyCode;
-  37 == $e$$110$$.keyCode || (39 == $e$$110$$.keyCode || 36 == $e$$110$$.keyCode || 35 == $e$$110$$.keyCode) || ($isRemove$$ || $isCopyPaste$$ || $isMarkAll$$) || ($changed_startContainsSecond$$ ? $e$$110$$.preventDefault() : $isNumber$$ || (32 == $e$$110$$.charCode && ($changed_startContainsSecond$$ = !1, $startContainsMinute$$ && !$endContainsSecond$$ ? ($e$$110$$.target.value = $start$$21$$ + '"' + $end$$16$$, $changed_startContainsSecond$$ = !0) : !$startContainsDegree$$ || $startContainsMinute$$ || 
-  $endContainsMinute$$ ? $startContainsDegree$$ || $endContainsDegree$$ || ($e$$110$$.target.value = $start$$21$$ + "\u00b0" + $end$$16$$, $changed_startContainsSecond$$ = !0) : ($e$$110$$.target.value = $start$$21$$ + "'" + $end$$16$$, $changed_startContainsSecond$$ = !0), $changed_startContainsSecond$$ && ($goog$dom$selection$setStart$$($e$$110$$.target, $carret$$[0] + 1), $goog$dom$selection$setEnd$$($e$$110$$.target, $carret$$[0] + 1))), $e$$110$$.preventDefault()))
+  function $isDigit$$($x$$75$$) {
+    return"0" < $x$$75$$ && "9" > $x$$75$$ || "." == $x$$75$$
+  }
+  var $carret_j$$8$$ = $goog$dom$selection$getEndPoints_$$($e$$110$$.target, !1), $i$$134_start$$21$$ = $e$$110$$.target.value.substring(0, $carret_j$$8$$[0]), $end$$16_value$$90$$ = $e$$110$$.target.value.substring($carret_j$$8$$[1]), $startContainsDegree$$ = -1 != $i$$134_start$$21$$.indexOf("\u00b0"), $startContainsMinute$$ = -1 != $i$$134_start$$21$$.indexOf("'"), $changed_startContainsSecond$$ = -1 != $i$$134_start$$21$$.indexOf('"'), $endContainsDegree$$ = -1 != $end$$16_value$$90$$.indexOf("\u00b0"), 
+  $endContainsMinute$$ = -1 != $end$$16_value$$90$$.indexOf("'"), $endContainsSecond$$ = -1 != $end$$16_value$$90$$.indexOf('"'), $isNumber$$ = 48 <= $e$$110$$.charCode && 57 >= $e$$110$$.charCode, $isDecimalSep$$ = 46 == $e$$110$$.charCode, $isSpace$$ = 32 == $e$$110$$.charCode, $isRemove$$ = 8 == $e$$110$$.keyCode || 46 == $e$$110$$.keyCode, $isCopyPaste$$ = $e$$110$$.ctrlKey && 67 == $e$$110$$.keyCode || $e$$110$$.ctrlKey && 86 == $e$$110$$.keyCode, $isMarkAll$$ = $e$$110$$.ctrlKey && 65 == $e$$110$$.keyCode;
+  if(!(37 == $e$$110$$.keyCode || 39 == $e$$110$$.keyCode || 36 == $e$$110$$.keyCode || 35 == $e$$110$$.keyCode || $isRemove$$ || $isCopyPaste$$ || $isMarkAll$$)) {
+    if($changed_startContainsSecond$$) {
+      $e$$110$$.preventDefault()
+    }else {
+      if(!$isNumber$$) {
+        if($isDecimalSep$$) {
+          $i$$134_start$$21$$ = $carret_j$$8$$[0];
+          $carret_j$$8$$ = $carret_j$$8$$[0];
+          for($end$$16_value$$90$$ = $e$$110$$.target.value;0 < $i$$134_start$$21$$ && $isDigit$$($end$$16_value$$90$$[$i$$134_start$$21$$]) || $i$$134_start$$21$$ == $end$$16_value$$90$$.length;) {
+            $i$$134_start$$21$$--
+          }
+          for(;$carret_j$$8$$ < $end$$16_value$$90$$.length && $isDigit$$($end$$16_value$$90$$[$carret_j$$8$$]);) {
+            $carret_j$$8$$++
+          }
+          $isDigit$$($end$$16_value$$90$$[$i$$134_start$$21$$]) || $i$$134_start$$21$$++;
+          $isDigit$$($end$$16_value$$90$$[$carret_j$$8$$]) || $carret_j$$8$$--;
+          if(-1 == $end$$16_value$$90$$.substring($i$$134_start$$21$$, $carret_j$$8$$ + 1).indexOf(".")) {
+            return
+          }
+        }else {
+          $isSpace$$ && ($changed_startContainsSecond$$ = !1, $startContainsMinute$$ && !$endContainsSecond$$ ? ($e$$110$$.target.value = $i$$134_start$$21$$ + '"' + $end$$16_value$$90$$, $changed_startContainsSecond$$ = !0) : !$startContainsDegree$$ || $startContainsMinute$$ || $endContainsMinute$$ ? $startContainsDegree$$ || $endContainsDegree$$ || ($e$$110$$.target.value = $i$$134_start$$21$$ + "\u00b0" + $end$$16_value$$90$$, $changed_startContainsSecond$$ = !0) : ($e$$110$$.target.value = $i$$134_start$$21$$ + 
+          "'" + $end$$16_value$$90$$, $changed_startContainsSecond$$ = !0), $changed_startContainsSecond$$ && ($goog$dom$selection$setStart$$($e$$110$$.target, $carret_j$$8$$[0] + 1), $goog$dom$selection$setEnd$$($e$$110$$.target, $carret_j$$8$$[0] + 1)))
+        }
+        $e$$110$$.preventDefault()
+      }
+    }
+  }
 }
 var $georeferencer$umisti$AddPointDialog$EventType$SELECT$$ = "georeferencer.umisti.AddPointDialog.EventType.SELECT";
 function $georeferencer$umisti$loadCss$$($url$$25$$) {
@@ -4858,8 +4886,8 @@ function $georeferencer$umisti$loadCss$$($url$$25$$) {
   $link$$.href = $url$$25$$;
   $goog$dom$append$$($head$$1$$, $link$$)
 }
-function $georeferencer$umisti$transform$$($x$$75$$, $y$$47$$, $proj$$1$$, $callback$$37$$) {
-  $goog$net$XhrIo$send$$("http://epsg.io/trans?x\x3d" + $x$$75$$ + "\x26y\x3d" + $y$$47$$ + "\x26s_srs\x3d" + $proj$$1$$ + "\x26t_srs\x3d4326", function($e$$113_response$$1_xhr$$3$$) {
+function $georeferencer$umisti$transform$$($x$$76$$, $y$$47$$, $proj$$1$$, $callback$$37$$) {
+  $goog$net$XhrIo$send$$("http://epsg.io/trans?x\x3d" + $x$$76$$ + "\x26y\x3d" + $y$$47$$ + "\x26s_srs\x3d" + $proj$$1$$ + "\x26t_srs\x3d4326", function($e$$113_response$$1_xhr$$3$$) {
     $e$$113_response$$1_xhr$$3$$ = $e$$113_response$$1_xhr$$3$$.target;
     if(200 != $JSCompiler_StaticMethods_getStatus$$($e$$113_response$$1_xhr$$3$$)) {
       window.alert("Slu\u017eba epsg.io neodpov\u00edd\u00e1. Skuste to pozd\u011bji.")
