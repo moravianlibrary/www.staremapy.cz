@@ -293,6 +293,7 @@ georeferencer.umisti.AddPointDialog.coorInputHandler = function(e) {
     || e.keyCode == goog.events.KeyCodes.RIGHT
     || e.keyCode == goog.events.KeyCodes.HOME
     || e.keyCode == goog.events.KeyCodes.END;
+  var isTab = e.keyCode == goog.events.KeyCodes.TAB;
   var isRemove = e.keyCode == goog.events.KeyCodes.BACKSPACE
     || e.keyCode == goog.events.KeyCodes.DELETE;
   var isCopyPaste = (e.ctrlKey && e.keyCode == goog.events.KeyCodes.C)
@@ -300,7 +301,7 @@ georeferencer.umisti.AddPointDialog.coorInputHandler = function(e) {
   var isMarkAll = e.ctrlKey && e.keyCode == goog.events.KeyCodes.A;
   var isDigit = function(x) { return (x > '0' && x < '9') || x == '.' };
 
-  if (isNavigation || isRemove || isCopyPaste || isMarkAll) {
+  if (isNavigation || isTab || isRemove || isCopyPaste || isMarkAll) {
     // Preserves default behavior
     return;
   }

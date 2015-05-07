@@ -4849,8 +4849,9 @@ function $georeferencer$umisti$AddPointDialog$coorInputHandler$$($e$$110$$) {
     return"0" < $x$$75$$ && "9" > $x$$75$$ || "." == $x$$75$$
   }
   var $carret_j$$8$$ = $goog$dom$selection$getEndPoints_$$($e$$110$$.target, !1), $i$$134_start$$21$$ = $e$$110$$.target.value.substring(0, $carret_j$$8$$[0]), $end$$16_value$$90$$ = $e$$110$$.target.value.substring($carret_j$$8$$[1]), $startContainsDegree$$ = -1 != $i$$134_start$$21$$.indexOf("\u00b0"), $startContainsMinute$$ = -1 != $i$$134_start$$21$$.indexOf("'"), $changed_startContainsSecond$$ = -1 != $i$$134_start$$21$$.indexOf('"'), $endContainsDegree$$ = -1 != $end$$16_value$$90$$.indexOf("\u00b0"), 
-  $endContainsMinute$$ = -1 != $end$$16_value$$90$$.indexOf("'"), $endContainsSecond$$ = -1 != $end$$16_value$$90$$.indexOf('"'), $isNumber$$ = 48 <= $e$$110$$.charCode && 57 >= $e$$110$$.charCode, $isDecimalSep$$ = 46 == $e$$110$$.charCode, $isSpace$$ = 32 == $e$$110$$.charCode, $isRemove$$ = 8 == $e$$110$$.keyCode || 46 == $e$$110$$.keyCode, $isCopyPaste$$ = $e$$110$$.ctrlKey && 67 == $e$$110$$.keyCode || $e$$110$$.ctrlKey && 86 == $e$$110$$.keyCode, $isMarkAll$$ = $e$$110$$.ctrlKey && 65 == $e$$110$$.keyCode;
-  if(!(37 == $e$$110$$.keyCode || 39 == $e$$110$$.keyCode || 36 == $e$$110$$.keyCode || 35 == $e$$110$$.keyCode || $isRemove$$ || $isCopyPaste$$ || $isMarkAll$$)) {
+  $endContainsMinute$$ = -1 != $end$$16_value$$90$$.indexOf("'"), $endContainsSecond$$ = -1 != $end$$16_value$$90$$.indexOf('"'), $isNumber$$ = 48 <= $e$$110$$.charCode && 57 >= $e$$110$$.charCode, $isDecimalSep$$ = 46 == $e$$110$$.charCode, $isSpace$$ = 32 == $e$$110$$.charCode, $isTab$$ = 9 == $e$$110$$.keyCode, $isRemove$$ = 8 == $e$$110$$.keyCode || 46 == $e$$110$$.keyCode, $isCopyPaste$$ = $e$$110$$.ctrlKey && 67 == $e$$110$$.keyCode || $e$$110$$.ctrlKey && 86 == $e$$110$$.keyCode, $isMarkAll$$ = 
+  $e$$110$$.ctrlKey && 65 == $e$$110$$.keyCode;
+  if(!(37 == $e$$110$$.keyCode || 39 == $e$$110$$.keyCode || 36 == $e$$110$$.keyCode || 35 == $e$$110$$.keyCode || $isTab$$ || $isRemove$$ || $isCopyPaste$$ || $isMarkAll$$)) {
     if($changed_startContainsSecond$$) {
       $e$$110$$.preventDefault()
     }else {
