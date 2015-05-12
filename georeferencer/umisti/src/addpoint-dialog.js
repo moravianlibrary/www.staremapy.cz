@@ -283,6 +283,7 @@ georeferencer.umisti.AddPointDialog.coorInputHandler = function(e) {
   var startContainsSecond = goog.string.contains(start, '"');
   var startIsEmpty = goog.string.isEmptySafe(start);
 
+  var endContainsMinus = goog.string.contains(end, '-');
   var endContainsDegree = goog.string.contains(end, '°');
   var endContainsMinute = goog.string.contains(end, "'");
   var endContainsSecond = goog.string.contains(end, '"');
@@ -315,7 +316,7 @@ georeferencer.umisti.AddPointDialog.coorInputHandler = function(e) {
     return;
   }
 
-  if (isMinus && startIsEmpty) {
+  if (isMinus && startIsEmpty && !endContainsMinus) {
     // Preserves default behavior
     return;
   } else if (isNumber) {
