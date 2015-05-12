@@ -4738,7 +4738,7 @@ function $JSCompiler_StaticMethods_requestMatchingRows$$($token$$14$$, $matchHan
   this.$setContent$($JSCompiler_StaticMethods_generateContent_$$());
   $goog$events$listen$$(this, $goog$ui$Dialog$EventType$SELECT$$, function($e$$109_north$$) {
     if("ok" == $e$$109_north$$.key) {
-      var $east_inputNorth$$inline_588$$ = $goog$dom$getElement$$("input-north"), $inputEast$$inline_589_proj$$ = $goog$dom$getElement$$("input-east"), $event$$5_inputProj$$inline_590$$ = $goog$dom$getElement$$("input-proj"), $valid$$inline_591$$ = !0, $coorFormat$$inline_592$$ = RegExp(/\s*(\d+(\.\d+)?)\s*([\u00b0|\s]\s*(\d+(\.\d+)?)?)?\s*(['|\s]\s*(\d+(\.\d+)?)?)?\s*"?\s*/), $projFormat$$inline_593$$ = RegExp(/^\d+/);
+      var $east_inputNorth$$inline_588$$ = $goog$dom$getElement$$("input-north"), $inputEast$$inline_589_proj$$ = $goog$dom$getElement$$("input-east"), $event$$5_inputProj$$inline_590$$ = $goog$dom$getElement$$("input-proj"), $valid$$inline_591$$ = !0, $coorFormat$$inline_592$$ = RegExp(/^\s*(-?\d+(\.\d+)?)\s*([\u00b0|\s]\s*(\d+(\.\d+)?)?)?\s*(['|\s]\s*(\d+(\.\d+)?)?)?\s*"?\s*$/), $projFormat$$inline_593$$ = RegExp(/^\d+/);
       $goog$dom$classes$remove$$($east_inputNorth$$inline_588$$, "goog-error-empty", "goog-error-format");
       $goog$dom$classes$remove$$($inputEast$$inline_589_proj$$, "goog-error-empty", "goog-error-format");
       $goog$dom$classes$remove$$($event$$5_inputProj$$inline_590$$, "goog-error-empty", "goog-error-format");
@@ -4839,7 +4839,7 @@ function $JSCompiler_StaticMethods_generateContent_$$() {
   return $JSCompiler_inline_result$$34_table$$
 }
 function $georeferencer$umisti$AddPointDialog$coorStrToNum$$($coor_grad$$) {
-  var $matches$$2_sec$$ = RegExp(/\s*(\d+(\.\d+)?)\s*([\u00b0|\s]\s*(\d+(\.\d+)?)?)?\s*(['|\s]\s*(\d+(\.\d+)?)?)?\s*"?\s*/).exec($coor_grad$$);
+  var $matches$$2_sec$$ = RegExp(/^\s*(-?\d+(\.\d+)?)\s*([\u00b0|\s]\s*(\d+(\.\d+)?)?)?\s*(['|\s]\s*(\d+(\.\d+)?)?)?\s*"?\s*$/).exec($coor_grad$$);
   $coor_grad$$ = $goog$string$toNumber$$($matches$$2_sec$$[1]);
   var $min$$3$$ = $goog$string$toNumber$$($matches$$2_sec$$[4]), $matches$$2_sec$$ = $goog$string$toNumber$$($matches$$2_sec$$[7]);
   return $coor_grad$$ + ($min$$3$$ || 0) / 60 + ($matches$$2_sec$$ || 0) / 3600
@@ -4848,14 +4848,14 @@ function $georeferencer$umisti$AddPointDialog$coorInputHandler$$($e$$110$$) {
   function $isDigit$$($x$$75$$) {
     return"0" < $x$$75$$ && "9" > $x$$75$$ || "." == $x$$75$$
   }
-  var $carret_j$$8$$ = $goog$dom$selection$getEndPoints_$$($e$$110$$.target, !1), $i$$134_start$$21$$ = $e$$110$$.target.value.substring(0, $carret_j$$8$$[0]), $end$$16_value$$90$$ = $e$$110$$.target.value.substring($carret_j$$8$$[1]), $startContainsDegree$$ = -1 != $i$$134_start$$21$$.indexOf("\u00b0"), $startContainsMinute$$ = -1 != $i$$134_start$$21$$.indexOf("'"), $changed_startContainsSecond$$ = -1 != $i$$134_start$$21$$.indexOf('"'), $endContainsDegree$$ = -1 != $end$$16_value$$90$$.indexOf("\u00b0"), 
-  $endContainsMinute$$ = -1 != $end$$16_value$$90$$.indexOf("'"), $endContainsSecond$$ = -1 != $end$$16_value$$90$$.indexOf('"'), $isNumber$$ = 48 <= $e$$110$$.charCode && 57 >= $e$$110$$.charCode, $isDecimalSep$$ = 46 == $e$$110$$.charCode, $isSpace$$ = 32 == $e$$110$$.charCode, $isTab$$ = 9 == $e$$110$$.keyCode, $isRemove$$ = 8 == $e$$110$$.keyCode || 46 == $e$$110$$.keyCode, $isCopyPaste$$ = $e$$110$$.ctrlKey && 67 == $e$$110$$.keyCode || $e$$110$$.ctrlKey && 86 == $e$$110$$.keyCode, $isMarkAll$$ = 
-  $e$$110$$.ctrlKey && 65 == $e$$110$$.keyCode;
+  var $carret_j$$8$$ = $goog$dom$selection$getEndPoints_$$($e$$110$$.target, !1), $i$$134_start$$21$$ = $e$$110$$.target.value.substring(0, $carret_j$$8$$[0]), $end$$16_value$$90$$ = $e$$110$$.target.value.substring($carret_j$$8$$[1]), $startContainsDegree$$ = -1 != $i$$134_start$$21$$.indexOf("\u00b0"), $startContainsMinute$$ = -1 != $i$$134_start$$21$$.indexOf("'"), $changed_startContainsSecond$$ = -1 != $i$$134_start$$21$$.indexOf('"'), $startIsEmpty$$ = $goog$string$isEmptySafe$$($i$$134_start$$21$$), 
+  $endContainsDegree$$ = -1 != $end$$16_value$$90$$.indexOf("\u00b0"), $endContainsMinute$$ = -1 != $end$$16_value$$90$$.indexOf("'"), $endContainsSecond$$ = -1 != $end$$16_value$$90$$.indexOf('"'), $isMinus$$ = 45 == $e$$110$$.charCode, $isNumber$$ = 48 <= $e$$110$$.charCode && 57 >= $e$$110$$.charCode, $isDecimalSep$$ = 46 == $e$$110$$.charCode, $isSpace$$ = 32 == $e$$110$$.charCode, $isTab$$ = 9 == $e$$110$$.keyCode, $isRemove$$ = 8 == $e$$110$$.keyCode || 46 == $e$$110$$.keyCode, $isCopyPaste$$ = 
+  $e$$110$$.ctrlKey && 67 == $e$$110$$.keyCode || $e$$110$$.ctrlKey && 86 == $e$$110$$.keyCode, $isMarkAll$$ = $e$$110$$.ctrlKey && 65 == $e$$110$$.keyCode;
   if(!(37 == $e$$110$$.keyCode || 39 == $e$$110$$.keyCode || 36 == $e$$110$$.keyCode || 35 == $e$$110$$.keyCode || $isTab$$ || $isRemove$$ || $isCopyPaste$$ || $isMarkAll$$)) {
     if($changed_startContainsSecond$$) {
       $e$$110$$.preventDefault()
     }else {
-      if(!$isNumber$$) {
+      if(!($isMinus$$ && $startIsEmpty$$ || $isNumber$$)) {
         if($isDecimalSep$$) {
           $i$$134_start$$21$$ = $carret_j$$8$$[0];
           $carret_j$$8$$ = $carret_j$$8$$[0];

@@ -172,7 +172,7 @@ georeferencer.umisti.AddPointDialog.prototype.validate = function() {
   var inputProj = goog.dom.getElement('input-proj');
   var valid = true;
 
-  var coorFormat = new RegExp(/\s*(\d+(\.\d+)?)\s*([°|\s]\s*(\d+(\.\d+)?)?)?\s*(['|\s]\s*(\d+(\.\d+)?)?)?\s*"?\s*/);
+  var coorFormat = new RegExp(/^\s*(-?\d+(\.\d+)?)\s*([°|\s]\s*(\d+(\.\d+)?)?)?\s*(['|\s]\s*(\d+(\.\d+)?)?)?\s*"?\s*$/);
   var projFormat = new RegExp(/^\d+/);
 
   goog.dom.classes.remove(inputNorth, 'goog-error-empty', 'goog-error-format');
@@ -260,7 +260,7 @@ georeferencer.umisti.AddPointDialog.prototype.generateContent_ = function() {
  * @return {number}
  */
 georeferencer.umisti.AddPointDialog.coorStrToNum = function(coor) {
-  var re = new RegExp(/\s*(\d+(\.\d+)?)\s*([°|\s]\s*(\d+(\.\d+)?)?)?\s*(['|\s]\s*(\d+(\.\d+)?)?)?\s*"?\s*/);
+  var re = new RegExp(/^\s*(-?\d+(\.\d+)?)\s*([°|\s]\s*(\d+(\.\d+)?)?)?\s*(['|\s]\s*(\d+(\.\d+)?)?)?\s*"?\s*$/);
   var matches = re.exec(coor);
   var grad = goog.string.toNumber(matches[1]);
   var min = goog.string.toNumber(matches[4]);
@@ -281,10 +281,13 @@ georeferencer.umisti.AddPointDialog.coorInputHandler = function(e) {
   var startContainsDegree = goog.string.contains(start, '°');
   var startContainsMinute = goog.string.contains(start, "'");
   var startContainsSecond = goog.string.contains(start, '"');
+  var startIsEmpty = goog.string.isEmptySafe(start);
+
   var endContainsDegree = goog.string.contains(end, '°');
   var endContainsMinute = goog.string.contains(end, "'");
   var endContainsSecond = goog.string.contains(end, '"');
 
+  var isMinus = e.charCode == '-'.charCodeAt(0);
   var isNumber = e.charCode >= '0'.charCodeAt(0)
     && e.charCode <= '9'.charCodeAt(0);
   var isDecimalSep = e.charCode == '.'.charCodeAt(0);
@@ -312,7 +315,10 @@ georeferencer.umisti.AddPointDialog.coorInputHandler = function(e) {
     return;
   }
 
-  if (isNumber) {
+  if (isMinus && startIsEmpty) {
+    // Preserves default behavior
+    return;
+  } else if (isNumber) {
     // Preserves default behavior
     return;
   } else if (isDecimalSep) {
