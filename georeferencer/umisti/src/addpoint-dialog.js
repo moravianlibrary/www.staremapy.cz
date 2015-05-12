@@ -219,14 +219,17 @@ georeferencer.umisti.AddPointDialog.prototype.generateContent_ = function() {
   var trNorth = goog.dom.createElement('tr');
   var thNorth = goog.dom.createElement('th');
   var tdNorth = goog.dom.createElement('td');
+  var aNorth = goog.dom.createElement('a');
   var inputNorth = goog.dom.createElement('input');
   var trEast = goog.dom.createElement('tr');
   var thEast = goog.dom.createElement('th');
   var tdEast = goog.dom.createElement('td');
+  var aEast = goog.dom.createElement('a');
   var inputEast = goog.dom.createElement('input');
   var trProj = goog.dom.createElement('tr');
   var thProj = goog.dom.createElement('th');
   var tdProj = goog.dom.createElement('td');
+  var aProj = goog.dom.createElement('a');
   var inputProj = goog.dom.createElement('input');
 
   goog.dom.appendChild(table, trNorth);
@@ -240,9 +243,20 @@ georeferencer.umisti.AddPointDialog.prototype.generateContent_ = function() {
   goog.dom.appendChild(trProj, thProj);
   goog.dom.appendChild(trProj, tdProj);
 
-  goog.dom.setTextContent(thNorth, 'Sever:');
-  goog.dom.setTextContent(thEast, 'Východ:');
-  goog.dom.setTextContent(thProj, 'Souřadnicový systém:');
+  goog.dom.appendChild(thNorth, aNorth);
+  goog.dom.appendChild(thEast, aEast);
+  goog.dom.appendChild(thProj, aProj);
+
+  goog.dom.setTextContent(aNorth, 'Severní souřadnice:');
+  goog.dom.setTextContent(aEast, 'Východní souřadnice:');
+  goog.dom.setTextContent(aProj, 'Souřadnicový systém:');
+
+  aNorth.href = 'https://www.vugtk.cz/slovnik/termin.php?jazykova_verze=&tid=6455&l=northing-%28n%29';
+  aNorth.target = '_blank';
+  aEast.href = 'https://www.vugtk.cz/slovnik/termin.php?jazykova_verze=&tid=6455&l=northing-%28n%29';
+  aEast.target = '_blank';
+  aProj.href = 'https://www.vugtk.cz/slovnik/termin.php?jazykova_verze=&tid=1220&l=spatial-reference-system';
+  aProj.target = '_blank';
 
   goog.dom.appendChild(tdNorth, inputNorth);
   goog.dom.appendChild(tdEast, inputEast);
