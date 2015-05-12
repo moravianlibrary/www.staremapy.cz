@@ -253,7 +253,7 @@ georeferencer.umisti.AddPointDialog.prototype.generateContent_ = function() {
 
   aNorth.href = 'https://www.vugtk.cz/slovnik/termin.php?jazykova_verze=&tid=6455&l=northing-%28n%29';
   aNorth.target = '_blank';
-  aEast.href = 'https://www.vugtk.cz/slovnik/termin.php?jazykova_verze=&tid=6455&l=northing-%28n%29';
+  aEast.href = 'https://www.vugtk.cz/slovnik/termin.php?jazykova_verze=&tid=6456&l=easting-%28e%29';
   aEast.target = '_blank';
   aProj.href = 'https://www.vugtk.cz/slovnik/termin.php?jazykova_verze=&tid=1220&l=spatial-reference-system';
   aProj.target = '_blank';

@@ -4834,7 +4834,7 @@ function $JSCompiler_StaticMethods_generateContent_$$() {
   $goog$dom$setTextContent$$($aProj$$, "Sou\u0159adnicov\u00fd syst\u00e9m:");
   $aNorth$$.href = "https://www.vugtk.cz/slovnik/termin.php?jazykova_verze\x3d\x26tid\x3d6455\x26l\x3dnorthing-%28n%29";
   $aNorth$$.target = "_blank";
-  $aEast$$.href = "https://www.vugtk.cz/slovnik/termin.php?jazykova_verze\x3d\x26tid\x3d6455\x26l\x3dnorthing-%28n%29";
+  $aEast$$.href = "https://www.vugtk.cz/slovnik/termin.php?jazykova_verze\x3d\x26tid\x3d6456\x26l\x3deasting-%28e%29";
   $aEast$$.target = "_blank";
   $aProj$$.href = "https://www.vugtk.cz/slovnik/termin.php?jazykova_verze\x3d\x26tid\x3d1220\x26l\x3dspatial-reference-system";
   $aProj$$.target = "_blank";
