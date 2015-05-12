@@ -164,6 +164,9 @@ function $goog$string$htmlEscape$$($str$$31$$) {
   return $str$$31$$
 }
 var $goog$string$amperRe_$$ = /&/g, $goog$string$ltRe_$$ = /</g, $goog$string$gtRe_$$ = />/g, $goog$string$quotRe_$$ = /\"/g, $goog$string$allRe_$$ = /[&<>\"]/;
+function $goog$string$contains$$($s$$7$$, $ss$$) {
+  return-1 != $s$$7$$.indexOf($ss$$)
+}
 function $goog$string$regExpEscape$$($s$$12$$) {
   return String($s$$12$$).replace(/([-()\[\]{}+?*.$\^|,:#<!\\])/g, "\\$1").replace(/\x08/g, "\\x08")
 }
@@ -299,13 +302,13 @@ var $ua$$inline_74$$;
 if($ua$$inline_74$$ = $goog$userAgent$getUserAgentString$$()) {
   var $navigator$$inline_75$$ = $goog$userAgent$getNavigator$$();
   $goog$userAgent$detectedOpera_$$ = 0 == $ua$$inline_74$$.lastIndexOf("Opera", 0);
-  $goog$userAgent$detectedIe_$$ = !$goog$userAgent$detectedOpera_$$ && (-1 != $ua$$inline_74$$.indexOf("MSIE") || -1 != $ua$$inline_74$$.indexOf("Trident"));
-  $goog$userAgent$detectedWebkit_$$ = !$goog$userAgent$detectedOpera_$$ && -1 != $ua$$inline_74$$.indexOf("WebKit");
+  $goog$userAgent$detectedIe_$$ = !$goog$userAgent$detectedOpera_$$ && ($goog$string$contains$$($ua$$inline_74$$, "MSIE") || $goog$string$contains$$($ua$$inline_74$$, "Trident"));
+  $goog$userAgent$detectedWebkit_$$ = !$goog$userAgent$detectedOpera_$$ && $goog$string$contains$$($ua$$inline_74$$, "WebKit");
   $goog$userAgent$detectedGecko_$$ = !$goog$userAgent$detectedOpera_$$ && !$goog$userAgent$detectedWebkit_$$ && !$goog$userAgent$detectedIe_$$ && "Gecko" == $navigator$$inline_75$$.product
 }
 var $goog$userAgent$OPERA$$ = $goog$userAgent$detectedOpera_$$, $goog$userAgent$IE$$ = $goog$userAgent$detectedIe_$$, $goog$userAgent$GECKO$$ = $goog$userAgent$detectedGecko_$$, $goog$userAgent$WEBKIT$$ = $goog$userAgent$detectedWebkit_$$, $navigator$$inline_77$$ = $goog$userAgent$getNavigator$$();
-$goog$userAgent$detectedMac_$$ = -1 != ($navigator$$inline_77$$ && $navigator$$inline_77$$.platform || "").indexOf("Mac");
-var $goog$userAgent$X11$$ = !!$goog$userAgent$getNavigator$$() && -1 != ($goog$userAgent$getNavigator$$().appVersion || "").indexOf("X11");
+$goog$userAgent$detectedMac_$$ = $goog$string$contains$$($navigator$$inline_77$$ && $navigator$$inline_77$$.platform || "", "Mac");
+var $goog$userAgent$X11$$ = !!$goog$userAgent$getNavigator$$() && $goog$string$contains$$($goog$userAgent$getNavigator$$().appVersion || "", "X11");
 function $goog$userAgent$getDocumentMode_$$() {
   var $doc$$4$$ = $goog$global$$.document;
   return $doc$$4$$ ? $doc$$4$$.documentMode : void 0
@@ -4855,33 +4858,32 @@ function $georeferencer$umisti$AddPointDialog$coorStrToNum$$($coor_grad$$) {
 }
 function $georeferencer$umisti$AddPointDialog$coorInputHandler$$($e$$110$$) {
   function $isDigit$$($x$$75$$) {
-    return"0" < $x$$75$$ && "9" > $x$$75$$ || "." == $x$$75$$
+    return"0" < $x$$75$$ && "9" > $x$$75$$ || "." == $x$$75$$ || "," == $x$$75$$
   }
-  var $carret_j$$8$$ = $goog$dom$selection$getEndPoints_$$($e$$110$$.target, !1), $i$$134_start$$21$$ = $e$$110$$.target.value.substring(0, $carret_j$$8$$[0]), $end$$16_value$$90$$ = $e$$110$$.target.value.substring($carret_j$$8$$[1]), $startContainsDegree$$ = -1 != $i$$134_start$$21$$.indexOf("\u00b0"), $startContainsMinute$$ = -1 != $i$$134_start$$21$$.indexOf("'"), $changed_startContainsSecond$$ = -1 != $i$$134_start$$21$$.indexOf('"'), $startIsEmpty$$ = $goog$string$isEmptySafe$$($i$$134_start$$21$$), 
-  $endContainsMinus$$ = -1 != $end$$16_value$$90$$.indexOf("-"), $endContainsDegree$$ = -1 != $end$$16_value$$90$$.indexOf("\u00b0"), $endContainsMinute$$ = -1 != $end$$16_value$$90$$.indexOf("'"), $endContainsSecond$$ = -1 != $end$$16_value$$90$$.indexOf('"'), $isMinus$$ = 45 == $e$$110$$.charCode, $isNumber$$ = 48 <= $e$$110$$.charCode && 57 >= $e$$110$$.charCode, $isDecimalSep$$ = 46 == $e$$110$$.charCode, $isSpace$$ = 32 == $e$$110$$.charCode, $isTab$$ = 9 == $e$$110$$.keyCode, $isRemove$$ = 
-  8 == $e$$110$$.keyCode || 46 == $e$$110$$.keyCode, $isCopyPaste$$ = $e$$110$$.ctrlKey && 67 == $e$$110$$.keyCode || $e$$110$$.ctrlKey && 86 == $e$$110$$.keyCode, $isMarkAll$$ = $e$$110$$.ctrlKey && 65 == $e$$110$$.keyCode;
+  var $carret_j$$8_number$$ = $goog$dom$selection$getEndPoints_$$($e$$110$$.target, !1), $start$$21$$ = $e$$110$$.target.value.substring(0, $carret_j$$8_number$$[0]), $end$$16$$ = $e$$110$$.target.value.substring($carret_j$$8_number$$[1]), $i$$134_startContainsDegree$$ = $goog$string$contains$$($start$$21$$, "\u00b0"), $startContainsMinute_value$$90$$ = $goog$string$contains$$($start$$21$$, "'"), $changed_startContainsSecond$$ = $goog$string$contains$$($start$$21$$, '"'), $startIsEmpty$$ = $goog$string$isEmptySafe$$($start$$21$$), 
+  $endContainsMinus$$ = $goog$string$contains$$($end$$16$$, "-"), $endContainsDegree$$ = $goog$string$contains$$($end$$16$$, "\u00b0"), $endContainsMinute$$ = $goog$string$contains$$($end$$16$$, "'"), $endContainsSecond$$ = $goog$string$contains$$($end$$16$$, '"'), $isMinus$$ = 45 == $e$$110$$.charCode, $isNumber$$ = 48 <= $e$$110$$.charCode && 57 >= $e$$110$$.charCode, $isDecimalSep$$ = 46 == $e$$110$$.charCode || 44 == $e$$110$$.charCode, $isSpace$$ = 32 == $e$$110$$.charCode, $isTab$$ = 9 == $e$$110$$.keyCode, 
+  $isRemove$$ = 8 == $e$$110$$.keyCode || 46 == $e$$110$$.keyCode, $isCopyPaste$$ = $e$$110$$.ctrlKey && 67 == $e$$110$$.keyCode || $e$$110$$.ctrlKey && 86 == $e$$110$$.keyCode, $isMarkAll$$ = $e$$110$$.ctrlKey && 65 == $e$$110$$.keyCode;
   if(!(37 == $e$$110$$.keyCode || 39 == $e$$110$$.keyCode || 36 == $e$$110$$.keyCode || 35 == $e$$110$$.keyCode || $isTab$$ || $isRemove$$ || $isCopyPaste$$ || $isMarkAll$$)) {
     if($changed_startContainsSecond$$) {
       $e$$110$$.preventDefault()
     }else {
       if(!($isMinus$$ && $startIsEmpty$$ && !$endContainsMinus$$ || $isNumber$$)) {
         if($isDecimalSep$$) {
-          $i$$134_start$$21$$ = $carret_j$$8$$[0];
-          $carret_j$$8$$ = $carret_j$$8$$[0];
-          for($end$$16_value$$90$$ = $e$$110$$.target.value;0 < $i$$134_start$$21$$ && $isDigit$$($end$$16_value$$90$$[$i$$134_start$$21$$]) || $i$$134_start$$21$$ == $end$$16_value$$90$$.length;) {
-            $i$$134_start$$21$$--
+          $i$$134_startContainsDegree$$ = $carret_j$$8_number$$[0];
+          $carret_j$$8_number$$ = $carret_j$$8_number$$[0];
+          for($startContainsMinute_value$$90$$ = $e$$110$$.target.value;0 < $i$$134_startContainsDegree$$ && $isDigit$$($startContainsMinute_value$$90$$[$i$$134_startContainsDegree$$]) || $i$$134_startContainsDegree$$ == $startContainsMinute_value$$90$$.length;) {
+            $i$$134_startContainsDegree$$--
           }
-          for(;$carret_j$$8$$ < $end$$16_value$$90$$.length && $isDigit$$($end$$16_value$$90$$[$carret_j$$8$$]);) {
-            $carret_j$$8$$++
+          for(;$carret_j$$8_number$$ < $startContainsMinute_value$$90$$.length && $isDigit$$($startContainsMinute_value$$90$$[$carret_j$$8_number$$]);) {
+            $carret_j$$8_number$$++
           }
-          $isDigit$$($end$$16_value$$90$$[$i$$134_start$$21$$]) || $i$$134_start$$21$$++;
-          $isDigit$$($end$$16_value$$90$$[$carret_j$$8$$]) || $carret_j$$8$$--;
-          if(-1 == $end$$16_value$$90$$.substring($i$$134_start$$21$$, $carret_j$$8$$ + 1).indexOf(".")) {
-            return
-          }
+          $isDigit$$($startContainsMinute_value$$90$$[$i$$134_startContainsDegree$$]) || $i$$134_startContainsDegree$$++;
+          $isDigit$$($startContainsMinute_value$$90$$[$carret_j$$8_number$$]) || $carret_j$$8_number$$--;
+          $carret_j$$8_number$$ = $startContainsMinute_value$$90$$.substring($i$$134_startContainsDegree$$, $carret_j$$8_number$$ + 1);
+          $goog$string$contains$$($carret_j$$8_number$$, ".") || $goog$string$contains$$($carret_j$$8_number$$, ",") || ($e$$110$$.target.value = $start$$21$$ + "." + $end$$16$$)
         }else {
-          $isSpace$$ && ($changed_startContainsSecond$$ = !1, $startContainsMinute$$ && !$endContainsSecond$$ ? ($e$$110$$.target.value = $i$$134_start$$21$$ + '"' + $end$$16_value$$90$$, $changed_startContainsSecond$$ = !0) : !$startContainsDegree$$ || $startContainsMinute$$ || $endContainsMinute$$ ? $startContainsDegree$$ || $endContainsDegree$$ || ($e$$110$$.target.value = $i$$134_start$$21$$ + "\u00b0" + $end$$16_value$$90$$, $changed_startContainsSecond$$ = !0) : ($e$$110$$.target.value = $i$$134_start$$21$$ + 
-          "'" + $end$$16_value$$90$$, $changed_startContainsSecond$$ = !0), $changed_startContainsSecond$$ && ($goog$dom$selection$setStart$$($e$$110$$.target, $carret_j$$8$$[0] + 1), $goog$dom$selection$setEnd$$($e$$110$$.target, $carret_j$$8$$[0] + 1)))
+          $isSpace$$ && ($changed_startContainsSecond$$ = !1, $startContainsMinute_value$$90$$ && !$endContainsSecond$$ ? ($e$$110$$.target.value = $start$$21$$ + '"' + $end$$16$$, $changed_startContainsSecond$$ = !0) : !$i$$134_startContainsDegree$$ || $startContainsMinute_value$$90$$ || $endContainsMinute$$ ? $i$$134_startContainsDegree$$ || $endContainsDegree$$ || ($e$$110$$.target.value = $start$$21$$ + "\u00b0" + $end$$16$$, $changed_startContainsSecond$$ = !0) : ($e$$110$$.target.value = $start$$21$$ + 
+          "'" + $end$$16$$, $changed_startContainsSecond$$ = !0), $changed_startContainsSecond$$ && ($goog$dom$selection$setStart$$($e$$110$$.target, $carret_j$$8_number$$[0] + 1), $goog$dom$selection$setEnd$$($e$$110$$.target, $carret_j$$8_number$$[0] + 1)))
         }
         $e$$110$$.preventDefault()
       }
