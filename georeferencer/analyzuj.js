@@ -1,3 +1,4 @@
+document.getElementById('ominfo').style.display = 'none';
 var accuracy = document.getElementById('accuracy');
 var proj4 = document.createElement('div');
 proj4.style.display = 'none';
@@ -99,7 +100,7 @@ var detectprojBttnOnClick = function() {
           }
           // add new one
           map.addLayer(layer);
-          proj4.innerHTML = data.projections[0].proj4;
+          proj4.innerHTML = '<strong>Proj4 string:&nbsp;</strong>' data.projections[0].proj4;
           proj4.style.display = 'block';
         } else if (data.status == 'Processed') {
           if (callback) {
@@ -148,6 +149,7 @@ var detectprojBttnOnClick = function() {
     }
     scan.style.display = 'block';
     document.getElementById('detectproj-map').style.display = 'none';
+    proj4.style.display = 'none';
   }
 }
 
