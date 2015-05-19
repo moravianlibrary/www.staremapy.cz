@@ -100,7 +100,7 @@ var detectprojBttnOnClick = function() {
           }
           // add new one
           map.addLayer(layer);
-          proj4.innerHTML = '<strong>Proj4 string:&nbsp;</strong>' data.projections[0].proj4;
+          proj4.innerHTML = '<strong>Proj4 string:&nbsp;</strong>' + data.projections[0].proj4;
           proj4.style.display = 'block';
         } else if (data.status == 'Processed') {
           if (callback) {
