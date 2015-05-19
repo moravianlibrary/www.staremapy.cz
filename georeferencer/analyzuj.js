@@ -1,4 +1,7 @@
 var accuracy = document.getElementById('accuracy');
+var proj4 = document.createElement('div');
+proj4.style.display = 'none';
+accuracy.appendChild(proj4);
 
 var checkboxContainer = null;
 var map = null;
@@ -87,7 +90,17 @@ var detectprojBttnOnClick = function() {
             }
           });
           layer.addFeatures(geojsonFormat.read(data.projections[0].geojson));
+          // remove old layers
+          var layers = map.getLayersByName('projection');
+          if (layers.length) {
+            for (var i = 0; i < layers.length; i++) {
+              map.removeLayer(layers[i]);
+            }
+          }
+          // add new one
           map.addLayer(layer);
+          proj4.innerHTML = data.projections[0].proj4;
+          proj4.style.display = 'block';
         } else if (data.status == 'Processed') {
           if (callback) {
             callback();
