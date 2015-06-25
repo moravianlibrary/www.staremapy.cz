@@ -15,7 +15,7 @@ georeferencer.review.labelMap = function(bttn, author, id, value) {
   var token = 'cab08dc4-e7c6-4ca1-b2ad-393ec198c31d';
   var requestParams = '?author=' + authorParam + '&key=' + idParam + '&value=' + valueParam + '&token=' + token;
   var url = 'http://195.113.155.123/cgi-bin/addlabeltomap.py' + requestParams;
-  xmlhttp.open(url, 'GET', true);
+  xmlhttp.open('GET', url, true);
   xmlhttp.send();
 };
 
