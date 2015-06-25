@@ -1,14 +1,14 @@
 var georeferencer = georeferencer || {};
 georeferencer.review = georeferencer.review || {};
 
-georeferencer.review.labelMap = function(id, value) {
+georeferencer.review.labelMap = function(author, id, value) {
   alert(author + ': ' + id + ': ' + value);
 };
 
-georeferencer.review.createButton = function(label, id, value) {
+georeferencer.review.createButton = function(label, author, id, value) {
   var button = document.createElement('BUTTON');
   button.innerHTML = label;
-  button.onclick = function() { georeferencer.review.labelMap(id, value); return false; };
+  button.onclick = function() { georeferencer.review.labelMap(author, id, value); return false; };
   return button;
 };
 
