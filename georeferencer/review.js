@@ -5,7 +5,7 @@ georeferencer.review.labelMap = function(bttn, author, id, value) {
   var xmlhttp = new XMLHttpRequest();
   xmlhttp.onreadystatechange = function() {
     if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
-      response = JSON.parse(xmlhttp.responseText);
+      var response = JSON.parse(xmlhttp.responseText);
       console.log(response);
     }
   };
