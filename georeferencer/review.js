@@ -7,14 +7,18 @@ georeferencer.review.labelMap = function(bttn, author, id, value) {
   xmlhttp.onreadystatechange = function() {
     if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
       var response = JSON.parse(xmlhttp.responseText);
-      img.src = 'http://www.staremapy.cz/img/success.png';
-      var form = document.getElementById('review-form');
-      var buttons = form.getElementsByClassName('addLabelBttn');
-      for (var i = 0; i < buttons.length; i++) {
-        var button = buttons[i];
-        if (button != bttn) {
-          button.disabled = true;
+      if (response.status == 'ok') {
+        img.src = 'http://www.staremapy.cz/img/success.png';
+        var form = document.getElementById('review-form');
+        var buttons = form.getElementsByClassName('addLabelBttn');
+        for (var i = 0; i < buttons.length; i++) {
+          var button = buttons[i];
+          if (button != bttn) {
+            button.disabled = true;
+          }
         }
+      } else {
+        img.src = 'http://www.staremapy.cz/img/error.png';
       }
 
     }
@@ -22,7 +26,7 @@ georeferencer.review.labelMap = function(bttn, author, id, value) {
   var authorParam = encodeURIComponent(author);
   var idParam = encodeURIComponent(id);
   var valueParam = encodeURIComponent(value);
-  var token = 'cab08dc4-e7c6-4ca1-b2ad-393ec198c31d';
+  var token = 'cab08dc4-e7c6-4ca1-b2ad-393ec198c31d0';
   var requestParams = '?author=' + authorParam + '&key=' + idParam + '&value=' + valueParam + '&token=' + token;
   var url = 'http://195.113.155.123/cgi-bin/addlabeltomap.py' + requestParams;
   xmlhttp.open('GET', url, true);
