@@ -15,6 +15,7 @@ georeferencer.review.createButton = function(label, id, value) {
 georeferencer.review.main = function() {
   var form = document.getElementById('review-form');
   var buttons = form.childNodes[0];
+  console.log(form);
   console.log(buttons);
   var id = georef.name + '/' + georef.version;
 
