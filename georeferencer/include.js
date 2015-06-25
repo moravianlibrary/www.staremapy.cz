@@ -43,5 +43,6 @@ if (activeItem.innerHTML.trim() == 'Umísti') {
 }
 
 if (document.getElementById('review-form')) {
+  loadCss('http://staremapy.cz/georeferencer/review.css');
   loadScript('http://staremapy.cz/georeferencer/review.js');
 }

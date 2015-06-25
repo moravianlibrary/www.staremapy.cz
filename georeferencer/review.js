@@ -2,7 +2,7 @@ var georeferencer = georeferencer || {};
 georeferencer.review = georeferencer.review || {};
 
 georeferencer.review.labelMap = function(id, value) {
-  alert(id + ': ' + value);
+  alert(author + ': ' + id + ': ' + value);
 };
 
 georeferencer.review.createButton = function(label, id, value) {
@@ -22,13 +22,12 @@ georeferencer.review.main = function() {
       break;
     }
   }
-  console.log(form);
-  console.log(buttons);
+  var author = document.getElementById('header-userinfo-name').innerHTML;
   var id = georef.name + '/' + georef.version;
 
-  buttons.appendChild(georeferencer.review.createButton('Více map', id, 'vicemap'));
-  buttons.appendChild(georeferencer.review.createButton('Rozřezaná', id, 'rozrezana'));
-  buttons.appendChild(georeferencer.review.createButton('Nelze umístit', id, 'nelzeumistit'));
+  buttons.appendChild(georeferencer.review.createButton('Více map', author, id, 'vicemap'));
+  buttons.appendChild(georeferencer.review.createButton('Rozřezaná', author, id, 'rozrezana'));
+  buttons.appendChild(georeferencer.review.createButton('Nelze umístit', author, id, 'nelzeumistit'));
 };
 
 georeferencer.review.main();
