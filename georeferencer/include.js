@@ -41,3 +41,7 @@ if (activeItem.innerHTML.trim() == 'Umísti') {
 } else if (activeItem.innerHTML.trim() == 'Analyzuj') {
   loadScript('http://staremapy.cz/georeferencer/analyzuj.js');
 }
+
+if (document.getElementById('review-form')) {
+  loadScript('http://staremapy.cz/georeferencer/review.js');
+}
