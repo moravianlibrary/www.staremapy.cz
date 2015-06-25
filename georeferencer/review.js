@@ -1,18 +1,18 @@
 var georeferencer = georeferencer || {};
-var georeferencer.review = georeferencer.review || {};
+georeferencer.review = georeferencer.review || {};
 
-var georeferencer.review.labelMap = function(id, value) {
+georeferencer.review.labelMap = function(id, value) {
   alert(id + ': ' + value);
 };
 
-var georeferencer.review.createButton = function(label, id, value) {
+georeferencer.review.createButton = function(label, id, value) {
   var button = document.createElement('BUTTON');
   button.value = label;
   button.onclick = function() { georeferencer.review.labelMap(id, value); };
   return button;
 };
 
-var georeferencer.review.main = function() {
+georeferencer.review.main = function() {
   var form = document.getElementById('review-form');
   var buttons = form.childNodes[0];
   var id = georef.name + '/' + georef.version;
