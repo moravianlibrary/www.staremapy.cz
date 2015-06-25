@@ -1,8 +1,22 @@
 var georeferencer = georeferencer || {};
 georeferencer.review = georeferencer.review || {};
 
-georeferencer.review.labelMap = function(author, id, value) {
-  alert(author + ': ' + id + ': ' + value);
+georeferencer.review.labelMap = function(bttn, author, id, value) {
+  var xmlhttp = new XMLHttpRequest();
+  xmlhttp.onreadystatechange = function() {
+    if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+      response = JSON.parse(xmlhttp.responseText);
+      console.log(response);
+    }
+  }
+  author = encodeURI(author);
+  id = encodeURI(id);
+  value = encodeURI(value);
+  var token = 'cab08dc4-e7c6-4ca1-b2ad-393ec198c31d';
+  var requestParams = '?author=' + author '&key=' + id + '&value=' + value + '&token=' + token;
+  var url = 'http://195.113.155.123/cgi-bin/addlabeltomap.py' + requestParams;
+  xmlhttp.open(url, 'GET', true);
+  xmlhttp.send();
 };
 
 georeferencer.review.createButton = function(label, author, id, value) {
