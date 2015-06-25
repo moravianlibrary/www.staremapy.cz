@@ -46,7 +46,7 @@ georeferencer.review.main = function() {
   var form = document.getElementById('review-form');
   var buttons = form.getElementsByClassName('buttons')[0];
   var author = document.getElementById('header-userinfo-name').innerHTML;
-  var id = georef.name + '/' + georef.version;
+  var id = /^.*\/map\/([^\/]+\/[^\/]+).*$/.exec(location.href)[1];
 
   buttons.appendChild(georeferencer.review.createButton('Více map', author, id, 'vicemap'));
   buttons.appendChild(georeferencer.review.createButton('Rozřezaná', author, id, 'rozrezana'));
