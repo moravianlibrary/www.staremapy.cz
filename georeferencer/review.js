@@ -8,10 +8,10 @@ georeferencer.review.labelMap = function(bttn, author, id, value) {
       response = JSON.parse(xmlhttp.responseText);
       console.log(response);
     }
-  }
-  var authorParam = encodeURI(author);
-  var idParam = encodeURI(id);
-  var valueParam = encodeURI(value);
+  };
+  var authorParam = encodeURIComponent(author);
+  var idParam = encodeURIComponent(id);
+  var valueParam = encodeURIComponent(value);
   var token = 'cab08dc4-e7c6-4ca1-b2ad-393ec198c31d';
   var requestParams = '?author=' + authorParam '&key=' + idParam + '&value=' + valueParam + '&token=' + token;
   var url = 'http://195.113.155.123/cgi-bin/addlabeltomap.py' + requestParams;
