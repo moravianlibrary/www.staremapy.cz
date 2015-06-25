@@ -2,11 +2,12 @@ var georeferencer = georeferencer || {};
 georeferencer.review = georeferencer.review || {};
 
 georeferencer.review.labelMap = function(bttn, author, id, value) {
+  var img = bttn.getElementsByTagName('img')[0];
   var xmlhttp = new XMLHttpRequest();
   xmlhttp.onreadystatechange = function() {
     if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
       var response = JSON.parse(xmlhttp.responseText);
-      bttn.style.backgroundImage = 'url("http://www.staremapy.cz/img/success.png")';
+      img.src = 'http://www.staremapy.cz/img/success.png';
     }
   };
   var authorParam = encodeURIComponent(author);
@@ -17,12 +18,12 @@ georeferencer.review.labelMap = function(bttn, author, id, value) {
   var url = 'http://195.113.155.123/cgi-bin/addlabeltomap.py' + requestParams;
   xmlhttp.open('GET', url, true);
   xmlhttp.send();
-  bttn.style.backgroundImage = 'url("http://www.staremapy.cz/img/ajax-loader-mini.gif")';
+  img.src = 'http://www.staremapy.cz/img/ajax-loader-mini.gif';
 };
 
 georeferencer.review.createButton = function(label, author, id, value) {
   var button = document.createElement('BUTTON');
-  button.innerHTML = label;
+  button.innerHTML = label + ' <img>';
   button.onclick = function() { georeferencer.review.labelMap(this, author, id, value); return false; };
   return button;
 };
