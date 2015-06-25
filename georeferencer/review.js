@@ -9,11 +9,11 @@ georeferencer.review.labelMap = function(bttn, author, id, value) {
       console.log(response);
     }
   }
-  author = encodeURI(author);
-  id = encodeURI(id);
-  value = encodeURI(value);
+  var authorParam = encodeURI(author);
+  var idParam = encodeURI(id);
+  var valueParam = encodeURI(value);
   var token = 'cab08dc4-e7c6-4ca1-b2ad-393ec198c31d';
-  var requestParams = '?author=' + author '&key=' + id + '&value=' + value + '&token=' + token;
+  var requestParams = '?author=' + authorParam '&key=' + idParam + '&value=' + valueParam + '&token=' + token;
   var url = 'http://195.113.155.123/cgi-bin/addlabeltomap.py' + requestParams;
   xmlhttp.open(url, 'GET', true);
   xmlhttp.send();
@@ -22,7 +22,7 @@ georeferencer.review.labelMap = function(bttn, author, id, value) {
 georeferencer.review.createButton = function(label, author, id, value) {
   var button = document.createElement('BUTTON');
   button.innerHTML = label;
-  button.onclick = function() { georeferencer.review.labelMap(author, id, value); return false; };
+  button.onclick = function() { georeferencer.review.labelMap(this, author, id, value); return false; };
   return button;
 };
 
