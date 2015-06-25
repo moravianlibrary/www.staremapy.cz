@@ -1,5 +1,5 @@
 var georeferencer = georeferencer || {};
-var review = review || {};
+var georeferencer.review = georeferencer.review || {};
 
 var georeferencer.review.labelMap = function(id, value) {
   alert(id + ': ' + value);
