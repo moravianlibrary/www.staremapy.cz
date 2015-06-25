@@ -8,7 +8,7 @@ georeferencer.review.labelMap = function(id, value) {
 georeferencer.review.createButton = function(label, id, value) {
   var button = document.createElement('BUTTON');
   button.innerHTML = label;
-  button.onclick = function() { georeferencer.review.labelMap(id, value); };
+  button.onclick = function() { georeferencer.review.labelMap(id, value); return false; };
   return button;
 };
 
