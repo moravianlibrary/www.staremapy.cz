@@ -99,3 +99,11 @@
   font-size: 12px;
   width: 300px;
 }
+
+.goog-tooltip {
+  background: #ffe;
+  border: 1px solid #999;
+  border-width: 1px 2px 2px 1px;
+  padding: 6px;
+  z-index: 30000;
+}
