@@ -11,6 +11,7 @@ goog.require('goog.math');
 goog.require('goog.string');
 goog.require('goog.ui.Dialog');
 goog.require('goog.ui.LabelInput');
+goog.require('goog.ui.Tooltip');
 goog.require('goog.ui.ac.AutoComplete');
 goog.require('goog.ui.ac.Renderer');
 goog.require('goog.ui.ac.InputHandler');
@@ -94,6 +95,15 @@ georeferencer.umisti.AddPointDialog.prototype.enterDocument = function() {
     this.inputHandler_);
   this.inputHandler_.attachAutoComplete(this.ac_);
   this.inputHandler_.attachInputs(goog.dom.getElement('input-proj'));
+
+  var northLabel = goog.dom.getElement('addpointdialog-label-north');
+  var eastLabel = goog.dom.getElement('addpointdialog-label-east');
+  var projLabel = goog.dom.getElement('addpointdialog-label-proj');
+  var northTooltip = 'Vzdálenost v souřadnicovém systému severně (kladná) nebo jižně (záporná), měřená od východozápadní referenční linie.';
+  var eastTooltip = 'Vzdálenost v souřadnicovém systému východně (kladná) nebo západně (záporná) od severojižní referenční linie.';
+
+  new goog.ui.Tooltip(northLabel, northTooltip);
+  new goog.ui.Tooltip(eastLabel, eastTooltip);
 };
 
 /**
@@ -219,17 +229,14 @@ georeferencer.umisti.AddPointDialog.prototype.generateContent_ = function() {
   var trNorth = goog.dom.createElement('tr');
   var thNorth = goog.dom.createElement('th');
   var tdNorth = goog.dom.createElement('td');
-  var aNorth = goog.dom.createElement('a');
   var inputNorth = goog.dom.createElement('input');
   var trEast = goog.dom.createElement('tr');
   var thEast = goog.dom.createElement('th');
   var tdEast = goog.dom.createElement('td');
-  var aEast = goog.dom.createElement('a');
   var inputEast = goog.dom.createElement('input');
   var trProj = goog.dom.createElement('tr');
   var thProj = goog.dom.createElement('th');
   var tdProj = goog.dom.createElement('td');
-  var aProj = goog.dom.createElement('a');
   var inputProj = goog.dom.createElement('input');
 
   goog.dom.appendChild(table, trNorth);
@@ -243,20 +250,20 @@ georeferencer.umisti.AddPointDialog.prototype.generateContent_ = function() {
   goog.dom.appendChild(trProj, thProj);
   goog.dom.appendChild(trProj, tdProj);
 
-  goog.dom.appendChild(thNorth, aNorth);
-  goog.dom.appendChild(thEast, aEast);
-  goog.dom.appendChild(thProj, aProj);
+  goog.dom.setTextContent(thNorth, 'Severní souřadnice:');
+  goog.dom.setTextContent(thEast, 'Východní souřadnice:');
+  goog.dom.setTextContent(thProj, 'Souřadnicový systém:');
 
-  goog.dom.setTextContent(aNorth, 'Severní souřadnice:');
-  goog.dom.setTextContent(aEast, 'Východní souřadnice:');
-  goog.dom.setTextContent(aProj, 'Souřadnicový systém:');
+  thEast.id = 'addpointdialog-label-east';
+  thNorth.id = 'addpointdialog-label-north';
+  thProj.id = 'addpointdialog-label-proj';
 
-  aNorth.href = 'https://www.vugtk.cz/slovnik/termin.php?jazykova_verze=&tid=6455&l=northing-%28n%29';
-  aNorth.target = '_blank';
-  aEast.href = 'https://www.vugtk.cz/slovnik/termin.php?jazykova_verze=&tid=6456&l=easting-%28e%29';
-  aEast.target = '_blank';
-  aProj.href = 'https://www.vugtk.cz/slovnik/termin.php?jazykova_verze=&tid=1220&l=spatial-reference-system';
-  aProj.target = '_blank';
+  // aNorth.href = 'https://www.vugtk.cz/slovnik/termin.php?jazykova_verze=&tid=6455&l=northing-%28n%29';
+  // aNorth.target = '_blank';
+  // aEast.href = 'https://www.vugtk.cz/slovnik/termin.php?jazykova_verze=&tid=6456&l=easting-%28e%29';
+  // aEast.target = '_blank';
+  // aProj.href = 'https://www.vugtk.cz/slovnik/termin.php?jazykova_verze=&tid=1220&l=spatial-reference-system';
+  // aProj.target = '_blank';
 
   goog.dom.appendChild(tdNorth, inputNorth);
   goog.dom.appendChild(tdEast, inputEast);
