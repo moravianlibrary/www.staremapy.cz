@@ -101,7 +101,7 @@ georeferencer.umisti.AddPointDialog.prototype.enterDocument = function() {
   var projLabel = goog.dom.getElement('addpointdialog-label-proj');
   var northTooltipText = 'Vzdálenost v souřadnicovém systému severně (kladná) nebo <br> jižně (záporná), měřená od východozápadní referenční linie.';
   var eastTooltipText = 'Vzdálenost v souřadnicovém systému východně (kladná) <br> nebo západně (záporná) od severojižní referenční linie.';
-  var projTooltipText = 'Souřadnicový systém umožňuje popsat polohu míst na pomocí údajů o zeměpisné šířce a délce.<br> Definice jsou převzaty z databáze <a href="http://epsg.io/" target="_blank">epsg.io</a>, ve které je každý systém označen jednoznačným identifikátorem.';
+  var projTooltipText = 'Souřadnicový systém umožňuje popsat polohu míst pomocí údajů <br> o zeměpisné šířce a délce. Definice jsou převzaty z databáze <a href="http://epsg.io/" target="_blank">epsg.io</a>, <br> ve které je každý systém označen jednoznačným identifikátorem.';
 
   var northTooltip = new goog.ui.Tooltip(northLabel);
   var eastTooltip = new goog.ui.Tooltip(eastLabel);
