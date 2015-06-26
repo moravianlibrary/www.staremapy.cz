@@ -99,13 +99,17 @@ georeferencer.umisti.AddPointDialog.prototype.enterDocument = function() {
   var northLabel = goog.dom.getElement('addpointdialog-label-north');
   var eastLabel = goog.dom.getElement('addpointdialog-label-east');
   var projLabel = goog.dom.getElement('addpointdialog-label-proj');
-  var northTooltip = 'Vzdálenost v souřadnicovém systému severně (kladná) nebo <br> jižně (záporná), měřená od východozápadní referenční linie.';
-  var eastTooltip = 'Vzdálenost v souřadnicovém systému východně (kladná) nebo <br> západně (záporná) od severojižní referenční linie.';
-  var projTooltip = 'Souřadnicový systém umožňuje popsat polohu míst na pomocí údajů o zeměpisné šířce a délce. Definice jsou převzaty z databáze epsg.io, ve které je každý systém označen jednoznačným identifikátorem.';
+  var northTooltipText = 'Vzdálenost v souřadnicovém systému severně (kladná) nebo <br> jižně (záporná), měřená od východozápadní referenční linie.';
+  var eastTooltipText = 'Vzdálenost v souřadnicovém systému východně (kladná) nebo <br> západně (záporná) od severojižní referenční linie.';
+  var projTooltipText = 'Souřadnicový systém umožňuje popsat polohu míst na pomocí údajů o zeměpisné šířce a délce. Definice jsou převzaty z databáze epsg.io, ve které je každý systém označen jednoznačným identifikátorem.';
 
-  new goog.ui.Tooltip(northLabel, northTooltip);
-  new goog.ui.Tooltip(eastLabel, eastTooltip);
-  new goog.ui.Tooltip(projLabel, projTooltip);
+  var northTooltip = new goog.ui.Tooltip(northLabel);
+  var eastTooltip = new goog.ui.Tooltip(eastLabel);
+  var projTooltip = new goog.ui.Tooltip(projLabel);
+
+  northTooltip.setHtml(northTooltipText);
+  eastTooltip.setHtml(eastTooltipText);
+  projTooltip.setHtml(projTooltipText);
 };
 
 /**
