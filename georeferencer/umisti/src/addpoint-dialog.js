@@ -99,8 +99,8 @@ georeferencer.umisti.AddPointDialog.prototype.enterDocument = function() {
   var northLabel = goog.dom.getElement('addpointdialog-label-north');
   var eastLabel = goog.dom.getElement('addpointdialog-label-east');
   var projLabel = goog.dom.getElement('addpointdialog-label-proj');
-  var northTooltip = 'Vzdálenost v souřadnicovém systému severně (kladná) nebo jižně (záporná), měřená od východozápadní referenční linie.';
-  var eastTooltip = 'Vzdálenost v souřadnicovém systému východně (kladná) nebo západně (záporná) od severojižní referenční linie.';
+  var northTooltip = 'Vzdálenost v souřadnicovém systému severně (kladná) nebo <br> jižně (záporná), měřená od východozápadní referenční linie.';
+  var eastTooltip = 'Vzdálenost v souřadnicovém systému východně (kladná) nebo <br> západně (záporná) od severojižní referenční linie.';
 
   new goog.ui.Tooltip(northLabel, northTooltip);
   new goog.ui.Tooltip(eastLabel, eastTooltip);
