@@ -5171,21 +5171,23 @@ $goog$inherits$$($georeferencer$umisti$AddPointDialog$$, $goog$ui$Dialog$$);
 $JSCompiler_prototypeAlias$$ = $georeferencer$umisti$AddPointDialog$$.prototype;
 $JSCompiler_prototypeAlias$$.$enterDocument$ = function $$JSCompiler_prototypeAlias$$$$enterDocument$$() {
   $georeferencer$umisti$AddPointDialog$$.$superClass_$.$enterDocument$.call(this);
-  var $northInput_northInputKH$$ = $goog$dom$getElement$$("input-north"), $eastInput_eastInputKH_eastLabel$$ = $goog$dom$getElement$$("input-east"), $projInput$$ = $goog$dom$getElement$$("input-proj"), $northLabelInput$$ = new $goog$ui$LabelInput$$("'49.5' nebo '49 30' nebo '49 30.5' nebo '49 30 30'"), $eastLabelInput$$ = new $goog$ui$LabelInput$$("'49.5' nebo '49 30' nebo '49 30.5' nebo '49 30 30'"), $projLabelInput$$ = new $goog$ui$LabelInput$$("'WGS84' nebo '4326' nebo 'jtsk' nebo 'czech'");
-  $northLabelInput$$.$decorate$($northInput_northInputKH$$);
+  var $northInput_northInputKH_projLabel$$ = $goog$dom$getElement$$("input-north"), $eastInput_eastInputKH_eastLabel$$ = $goog$dom$getElement$$("input-east"), $projInput$$ = $goog$dom$getElement$$("input-proj"), $northLabelInput$$ = new $goog$ui$LabelInput$$("'49.5' nebo '49 30' nebo '49 30.5' nebo '49 30 30'"), $eastLabelInput$$ = new $goog$ui$LabelInput$$("'49.5' nebo '49 30' nebo '49 30.5' nebo '49 30 30'"), $projLabelInput$$ = new $goog$ui$LabelInput$$("'WGS84' nebo '4326' nebo 'jtsk' nebo 'czech'");
+  $northLabelInput$$.$decorate$($northInput_northInputKH_projLabel$$);
   $eastLabelInput$$.$decorate$($eastInput_eastInputKH_eastLabel$$);
   $projLabelInput$$.$decorate$($projInput$$);
-  $northInput_northInputKH$$ = new $goog$events$KeyHandler$$($northInput_northInputKH$$);
+  $northInput_northInputKH_projLabel$$ = new $goog$events$KeyHandler$$($northInput_northInputKH_projLabel$$);
   $eastInput_eastInputKH_eastLabel$$ = new $goog$events$KeyHandler$$($eastInput_eastInputKH_eastLabel$$);
-  $goog$events$listen$$($northInput_northInputKH$$, "key", $georeferencer$umisti$AddPointDialog$coorInputHandler$$);
+  $goog$events$listen$$($northInput_northInputKH_projLabel$$, "key", $georeferencer$umisti$AddPointDialog$coorInputHandler$$);
   $goog$events$listen$$($eastInput_eastInputKH_eastLabel$$, "key", $georeferencer$umisti$AddPointDialog$coorInputHandler$$);
   this.$inputHandler_$ = new $goog$ui$ac$InputHandler$$(null, null, !1);
   this.$ac_$ = new $goog$ui$ac$AutoComplete$$(new $georeferencer$umisti$EpsgMatcher$$, new $goog$ui$ac$Renderer$$, this.$inputHandler_$);
   this.$inputHandler_$.$ac_$ = this.$ac_$;
   this.$inputHandler_$.$attachInputs$($goog$dom$getElement$$("input-proj"));
   $eastInput_eastInputKH_eastLabel$$ = $goog$dom$getElement$$("addpointdialog-label-east");
-  new $goog$ui$Tooltip$$($goog$dom$getElement$$("addpointdialog-label-north"), "Vzd\u00e1lenost v sou\u0159adnicov\u00e9m syst\u00e9mu severn\u011b (kladn\u00e1) nebo ji\u017en\u011b (z\u00e1porn\u00e1), m\u011b\u0159en\u00e1 od v\u00fdchodoz\u00e1padn\u00ed referen\u010dn\u00ed linie.");
-  new $goog$ui$Tooltip$$($eastInput_eastInputKH_eastLabel$$, "Vzd\u00e1lenost v sou\u0159adnicov\u00e9m syst\u00e9mu v\u00fdchodn\u011b (kladn\u00e1) nebo z\u00e1padn\u011b (z\u00e1porn\u00e1) od severoji\u017en\u00ed referen\u010dn\u00ed linie.")
+  $northInput_northInputKH_projLabel$$ = $goog$dom$getElement$$("addpointdialog-label-proj");
+  new $goog$ui$Tooltip$$($goog$dom$getElement$$("addpointdialog-label-north"), "Vzd\u00e1lenost v sou\u0159adnicov\u00e9m syst\u00e9mu severn\u011b (kladn\u00e1) nebo \x3cbr\x3e ji\u017en\u011b (z\u00e1porn\u00e1), m\u011b\u0159en\u00e1 od v\u00fdchodoz\u00e1padn\u00ed referen\u010dn\u00ed linie.");
+  new $goog$ui$Tooltip$$($eastInput_eastInputKH_eastLabel$$, "Vzd\u00e1lenost v sou\u0159adnicov\u00e9m syst\u00e9mu v\u00fdchodn\u011b (kladn\u00e1) nebo \x3cbr\x3e z\u00e1padn\u011b (z\u00e1porn\u00e1) od severoji\u017en\u00ed referen\u010dn\u00ed linie.");
+  new $goog$ui$Tooltip$$($northInput_northInputKH_projLabel$$, "Sou\u0159adnicov\u00fd syst\u00e9m umo\u017e\u0148uje popsat polohu m\u00edst na pomoc\u00ed \u00fadaj\u016f o zem\u011bpisn\u00e9 \u0161\u00ed\u0159ce a d\u00e9lce. Definice jsou p\u0159evzaty z datab\u00e1ze epsg.io, ve kter\u00e9 je ka\u017ed\u00fd syst\u00e9m ozna\u010den jednozna\u010dn\u00fdm identifik\u00e1torem.")
 };
 $JSCompiler_prototypeAlias$$.$exitDocument$ = function $$JSCompiler_prototypeAlias$$$$exitDocument$$() {
   var $JSCompiler_StaticMethods_detachInput$self$$inline_620$$ = this.$inputHandler_$, $target$$inline_621$$ = $goog$dom$getElement$$("input-proj");
