@@ -82,6 +82,7 @@ georeferencer.review.getLabel = function(bttn, id, value) {
       var response = JSON.parse(xmlhttp.responseText);
       if (response.status == 'ok') {
         if (response.data.value == value) {
+          bttn.className = 'active';
           img.src = 'http://www.staremapy.cz/img/success.png';
           var form = document.getElementById('review-form');
           georeferencer.review.enableButtons(form.getElementsByTagName('INPUT'), bttn, false);
