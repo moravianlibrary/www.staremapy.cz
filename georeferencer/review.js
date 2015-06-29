@@ -55,7 +55,7 @@ georeferencer.review.unlabelMap = function(bttn, id) {
       var response = JSON.parse(xmlhttp.responseText);
       if (response.status == 'ok') {
         bttn.className = '';
-        img.src = undefined;
+        img.src = '#';
         var form = document.getElementById('review-form');
         georeferencer.review.enableButtons(form.getElementsByTagName('INPUT'), null, true);
         georeferencer.review.enableButtons(form.getElementsByTagName('BUTTON'), null, true);
