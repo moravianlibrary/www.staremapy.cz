@@ -1,10 +1,10 @@
 var georeferencer = georeferencer || {};
 georeferencer.review = georeferencer.review || {};
 
-georeferencer.review.disableButtons = function(buttons) {
+georeferencer.review.disableButtons = function(buttons, activeBttn) {
   for (var i = 0; i < buttons.length; i++) {
     var button = buttons[i];
-    if (button != bttn) {
+    if (button != activeBttn) {
       button.disabled = true;
     }
   }
@@ -48,8 +48,8 @@ georeferencer.review.getLabel = function(bttn, id, value) {
         if (response.data.value == value) {
           img.src = 'http://www.staremapy.cz/img/success.png';
           var form = document.getElementById('review-form');
-          georeferencer.review.disableButtons(form.getElementsByTagName('INPUT'));
-          georeferencer.review.disableButtons(form.getElementsByTagName('BUTTON'));
+          georeferencer.review.disableButtons(form.getElementsByTagName('INPUT'), bttn);
+          georeferencer.review.disableButtons(form.getElementsByTagName('BUTTON'), bttn);
         }
       }
     }
