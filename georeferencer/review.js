@@ -102,7 +102,7 @@ georeferencer.review.getLabel = function(bttn, id, value) {
 georeferencer.review.createButton = function(label, author, id, value) {
   var button = document.createElement('BUTTON');
   button.innerHTML = label + ' <img>';
-  button.onclick = function() { georeferencer.review.labelMap(this, author, id, value); return false; };
+  button.onclick = function() { georeferencer.review.actionBttn(this, author, id, value); return false; };
   georeferencer.review.getLabel(button, id, value);
   return button;
 };
