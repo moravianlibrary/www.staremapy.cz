@@ -4,8 +4,8 @@ georeferencer.review = georeferencer.review || {};
 georeferencer.review.enableButtons = function(buttons, activeBttn, value) {
   for (var i = 0; i < buttons.length; i++) {
     var button = buttons[i];
-    if ((button.tagName == "INPUT" || button.tagName == "BUTTON") && button != activeBttn) {
-      button.disabled = value;
+    if (button != activeBttn) {
+      button.disabled = !value;
     }
   }
 };
