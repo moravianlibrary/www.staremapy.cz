@@ -11,6 +11,7 @@ georeferencer.review.labelMap = function(bttn, author, id, value) {
         img.src = 'http://www.staremapy.cz/img/success.png';
         var form = document.getElementById('review-form');
         var buttons = form.getElementsByTagName('INPUT');
+        buttons.concat(form.getElementsByTagName('BUTTON'));
         for (var i = 0; i < buttons.length; i++) {
           var button = buttons[i];
           if (button != bttn) {
@@ -45,6 +46,7 @@ georeferencer.review.getLabel = function(bttn, id, value) {
           img.src = 'http://www.staremapy.cz/img/success.png';
           var form = document.getElementById('review-form');
           var buttons = form.getElementsByTagName('INPUT');
+          buttons.concat(form.getElementsByTagName('BUTTON'));
           for (var i = 0; i < buttons.length; i++) {
             var button = buttons[i];
             if (button != bttn) {
@@ -64,8 +66,7 @@ georeferencer.review.getLabel = function(bttn, id, value) {
 }
 
 georeferencer.review.createButton = function(label, author, id, value) {
-  var button = document.createElement('INPUT');
-  button.type = 'button';
+  var button = document.createElement('BUTTON');
   button.className = 'addLabelBttn';
   button.innerHTML = label + ' <img>';
   button.onclick = function() { georeferencer.review.labelMap(this, author, id, value); return false; };
