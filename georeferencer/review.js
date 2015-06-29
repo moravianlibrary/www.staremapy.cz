@@ -1,6 +1,15 @@
 var georeferencer = georeferencer || {};
 georeferencer.review = georeferencer.review || {};
 
+georeferencer.review.disableButtons = function(buttons) {
+  for (var i = 0; i < buttons.length; i++) {
+    var button = buttons[i];
+    if (button != bttn) {
+      button.disabled = true;
+    }
+  }
+};
+
 georeferencer.review.labelMap = function(bttn, author, id, value) {
   var img = bttn.getElementsByTagName('img')[0];
   var xmlhttp = new XMLHttpRequest();
@@ -10,14 +19,8 @@ georeferencer.review.labelMap = function(bttn, author, id, value) {
       if (response.status == 'ok') {
         img.src = 'http://www.staremapy.cz/img/success.png';
         var form = document.getElementById('review-form');
-        var buttons = form.getElementsByTagName('INPUT');
-        buttons.concat(form.getElementsByTagName('BUTTON'));
-        for (var i = 0; i < buttons.length; i++) {
-          var button = buttons[i];
-          if (button != bttn) {
-            button.disabled = true;
-          }
-        }
+        georeferencer.review.disableButtons(form.getElementsByTagName('INPUT'));
+        georeferencer.review.disableButtons(form.getElementsByTagName('BUTTON'));
       } else {
         img.src = 'http://www.staremapy.cz/img/error.png';
       }
@@ -45,14 +48,8 @@ georeferencer.review.getLabel = function(bttn, id, value) {
         if (response.data.value == value) {
           img.src = 'http://www.staremapy.cz/img/success.png';
           var form = document.getElementById('review-form');
-          var buttons = form.getElementsByTagName('INPUT');
-          buttons.concat(form.getElementsByTagName('BUTTON'));
-          for (var i = 0; i < buttons.length; i++) {
-            var button = buttons[i];
-            if (button != bttn) {
-              button.disabled = true;
-            }
-          }
+          georeferencer.review.disableButtons(form.getElementsByTagName('INPUT'));
+          georeferencer.review.disableButtons(form.getElementsByTagName('BUTTON'));
         }
       }
     }
