@@ -41,7 +41,7 @@ georeferencer.review.getLabel = function(bttn, id, value) {
     if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
       var response = JSON.parse(xmlhttp.responseText);
       if (response.status == 'ok') {
-        if (reponse.data.value = value) {
+        if (response.data.value = value) {
           img.src = 'http://www.staremapy.cz/img/success.png';
           var form = document.getElementById('review-form');
           var buttons = form.getElementsByClassName('addLabelBttn');
