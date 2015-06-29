@@ -19,8 +19,8 @@ georeferencer.review.labelMap = function(bttn, author, id, value) {
       if (response.status == 'ok') {
         img.src = 'http://www.staremapy.cz/img/success.png';
         var form = document.getElementById('review-form');
-        georeferencer.review.disableButtons(form.getElementsByTagName('INPUT'));
-        georeferencer.review.disableButtons(form.getElementsByTagName('BUTTON'));
+        georeferencer.review.disableButtons(form.getElementsByTagName('INPUT'), bttn);
+        georeferencer.review.disableButtons(form.getElementsByTagName('BUTTON'), bttn);
       } else {
         img.src = 'http://www.staremapy.cz/img/error.png';
       }
