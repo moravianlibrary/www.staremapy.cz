@@ -30,7 +30,7 @@ class LabelData:
     label_data = None
 
     def _downloadData(self, institution):
-        url = "http://195.113.155.123/cgi-bin/addlabeltomap.py?action=getall&institution={}&token=cab08dc4-e7c6-4ca1-b2ad-393ec198c31d".format(institution)
+        url = "http://195.113.155.123/cgi-bin/addlabeltomap.py?action=getall&institution=%s&token=cab08dc4-e7c6-4ca1-b2ad-393ec198c31d" % institution
         response = json.load(urllib2.urlopen(url))
 
         self.label_data = {}
@@ -131,7 +131,7 @@ def generateCSV(table, institution = None, printHeader = False):
   query = "SELECT * FROM {0}".format(table)
   params = urllib.urlencode({'query' : query})
   conn = httplib.HTTPSConnection("www.google.com", timeout=300)
-  conn.request("GET", "/fusiontables/exporttable?{0}".format(params))
+  conn.request("GET", "/fusiontables/exporttable?%s" % params)
   response = conn.getresponse()
   if response.status == 200:
     if printHeader:
