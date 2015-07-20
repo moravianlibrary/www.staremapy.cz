@@ -10,7 +10,7 @@ georeferencer.review.enableButtons = function(buttons, activeBttn, value) {
   }
 };
 
-georeferencer.review.actionBttn = function(bttn, author, id, value) {
+georeferencer.review.actionBttn = function(bttn, author, id, institution, value) {
   if (bttn.className == 'active') {
     georeferencer.review.unlabelMap(bttn, id, institution);
   } else {
