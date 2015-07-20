@@ -130,7 +130,7 @@ def transformData(header, data):
 def generateCSV(table, institution = None, printHeader = False):
   query = "SELECT * FROM %s" % table
   params = urllib.urlencode({'query' : query})
-  conn = httplib.HTTPSConnection("www.google.com", timeout=300)
+  conn = httplib.HTTPSConnection("www.google.com")
   conn.request("GET", "/fusiontables/exporttable?%s" % params)
   response = conn.getresponse()
   if response.status == 200:
