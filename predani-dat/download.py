@@ -3,11 +3,16 @@
 
 import cgi, cgitb
 import httplib, urllib
-import csv, json
+import csv
 import sys
 import HTMLParser
 import re
 import urllib2
+
+try:
+    import json
+except ImportError:
+    import simplejson as json 
 
 cgitb.enable()
 
