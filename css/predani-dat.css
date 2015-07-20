@@ -1,0 +1,12 @@
+#content.subpage #main ul {
+  list-style: disc;
+}
+table {
+  text-align: left;
+}
+table, th, td {
+  border: 1px solid #e4dbc8;
+}
+th, td {
+  padding: 5px;
+}

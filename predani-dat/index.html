@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="cs">
+    <head>
+        <meta charset="utf-8">
+        <title>Staré mapy</title>
+        <meta name="description" content="">
+        <meta name="keywords" content="">
+        <meta name="author" content="">
+        <link rel="stylesheet" href="../css/main.css" media="all">
+        <link rel="stylesheet" href="../css/predani-dat.css" media="all">
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <!--[if lt IE 9]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+    </head>
+    <body>
+
+        <div id="page">
+
+            <header>
+                <div id="header">
+
+                    <a href="http://www.staremapy.cz/" title="Staré mapy" id="logo">Staré mapy</a>
+
+                    <hr>
+
+                    <nav>
+                        <div id="navigation">
+
+                            <strong>Menu</strong>
+
+                            <ul id="main-menu">
+                                <li><a href="/" title="Hlavní stránka">Hlavní stránka</a></li>
+                                <li><a href="/sbirky-starych-map-v-cr/" title="Sbírky starých map v ČR">Sbírky v ČR</a></li>
+                                <li><a href="/projekt/" title="Projekt">Projekt</a></li>
+                                <li><a href="/vysledky/" title="Výsledky">Výsledky</a></li>
+                                <li><a href="/vysledky-souteze/" title="Soutěž">Soutěž</a></li>
+                                <li><a href="/napoveda/" title="Nápověda">Nápověda</a></li>
+                            </ul> <!-- / #main-menu -->
+
+                        </div> <!-- / #navigation -->
+                    </nav>
+
+                </div> <!-- / #header -->
+            </header>
+
+            <hr>
+
+            <div id="content" class="subpage">
+                <div id="main">
+
+                    <h1>Předání dat</h1>
+                    <p>Digitalizovali jste mapovou sbírku? Chybí vám prostředky nebo nápady, jak ji atraktivně zpřístupnit? Zapojte se do projektu Staré mapy.cz!</p>
+                    <p>
+                        <h2>Získáte:</h2>
+                        <ul>
+                            <li>možnost přiložit starou mapu na současnou a porovnat změny území na ploše i v trojrozměrné vizualizaci (GoogleEarth)</li>
+                            <li>vyhledávání nad svou sbírkou podle území s možností zasadit jej do designu vašeho webu
+    </li>
+                            <li>zapojení do mezinárodního souborného vyhledávače oldmapsonline.org</li>
+                        </ul>
+                    </p>
+                    <p>
+                        <h2>Potřebujeme od Vás:</h2>
+                        <ul>
+                            <li>stálou webovou adresu skenu mapy</li>
+                            <li>jednoznačný identifikátor mapy</li>
+                            <li>další údaje o mapě jsou výhodou, nikoliv podmínkou (seznam zde: <a target="_blank" href="http://help.georeferencer.org/metadata">http://help.georeferencer.org/metadata</a>)
+    </li>
+                        </ul>
+                    </p>
+                    <p>Web www.staremapy.cz je založen na spolupráci s dobrovolníky při georeferencování starších map, na knihovnících zůstává jen dohled nad výsledky práce s pravomocí vyloučit nekorektní zpracování nebo přispěvatele.
+</p>
+                    <h2>Jak zkontrolovat správnost umístění vašich map</h2>
+                    <h3>Přístup</h3>
+                    <p>Požádejte o přístup na INSTITUCE.georeferencer.com/review. Po přihlášení uvidíte stránku s výsledky kontrolorů za vaši instituci. Klikněte na Review a random map a otevřete editační okno.</p>
+                    <h3>Pracovní prostředí</h3>
+                    <p>Pracovní plochu tvoří podkladová mapa, na níž je umístěna mapa stará. Při jejím dolním okraji jsou umístěny nástroje pro kontrolory. Pomocí jezdce v horní části mapy můžete nastavit průhlednost překryvu podkladové a staré mapy a kontrolovat tak přesnost umístění. Mapu můžete upravit po kliknutí na nápis Umísti. Pokud jste s umístěním spokojeni, můžete tlačítkem Approve potvrdit jeho správnost. V případě, že mapa nebyla oříznuta, tlačítko Approve se nzobrazuje a musíte nejdříve provést ořez (tlačítko Add clipping). Pokud nechce z nějakého důvodu mapu potvrzovat, nebo jste naopak mapu právě potvrdili, můžete se prostřednictvím tlačítka Review another map přesunout k jiné mapě. Své potvrzení správného umístění můžete také kdykoliv odvolat tlačítkem Reject approval, které vám bude nabídnuto po vašem potvrzení.
+Tlačítko See dashboard vás potom vrátí zpět na úvodní stránku s výsledky kontrolorů.</p>
+                    <h2>Jak naložit s výsledky</h2>
+                    <p>Po dokončení georefencování obdržíte tabulku s následujícími údaji.</p>
+                    <table>
+                        <tr>
+                            <th>název položky</th>
+                            <th>co znamená</th>
+                            <th>k čemu slouží</th>
+                        </tr>
+                        <tr>
+                            <th>title</th>
+                            <td>název mapy</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th>institution</th>
+                            <td>zkratka vaší instituce</td>
+                            <td>umožňuje vytvářet odkazy z vašich stránek</td>
+                        </tr>
+                        <tr>
+                            <th>status</th>
+                            <td>určuje status zpracování mapy (<i>georeferenced</i> = zpracovaná mapa, <i>prázdny sloupec</i> = nezpracovaná)</td>
+                            <td>pro zpřístupnění na vlastním webu</td>
+                        </tr>
+                        <tr>
+                            <th>georeferencer_id</th>
+                            <td>ID pro <a href="http://www.staremapy.cz/">StaréMapy.cz</a></td>
+                            <td>pro export do formátu GeoTIFF</td>
+                        </tr>
+                        <tr>
+                            <th>id</th>
+                            <td>váš interní identifikátor mapy</td>
+                            <td>umožňuje např. porovnávat naskenované mapy se současným stavem (překládat přes sebe  a nastavovat průhlednost)</td>
+                        </tr>
+                        <tr>
+                            <th>thumbnail</th>
+                            <td>odkaz na náhled mapy</td>
+                            <td>možné využít při prezentaci sbírky</td>
+                        </tr>
+                        <tr>
+                            <th>num_gcps</th>
+                            <td>počet lícovacích (ztotožených) bodů na staré mapě vs. současné</td>
+                            <td>vypovídá o přesnosti umístění mapy</td>
+                        </tr>
+                        <tr>
+                            <th>center</th>
+                            <td>zeměpisné souřadnice středu zobrazeného území</td>
+                            <td>vhodné např. pro bodové znázornění dostupných map na podkladové mapě</td>
+                        </tr>
+                        <tr>
+                            <th>south_west</th>
+                            <td>zeměpisné souřadnice jižního a západního mezního bodu zobrazeného území</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th>north_east</th>
+                            <td>zeměpisné souřadnice severního a východního mezního bodu zobrazeného území</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th>rms_error</th>
+                            <td>Udává míru přesnosti zpracování. Čím je číslo bližší nule, tím  přesněji byla mapa georeferencovaná. Číslo je samozřejmě relevantní pouze u map vzniklých na základě geodetických měření.</td>
+                            <td>vypovídá o přesnosti umístění mapy</td>
+                        </tr>
+                        <tr>
+                            <th>date_time</th>
+                            <td>datum a čas poslední editace</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th>marc034</th>
+                            <td>obsah podpolí $$d,$$e,$$f a $$g pro pole 034 ve formátu MARC21</td>
+                            <td>doplnění bibliografického záznamu</td>
+                        </tr>
+                        <tr>
+                            <th>marc255</th>
+                            <td>obsah podpole $$c pro pole 255 ve formátu MARC21</td>
+                            <td>doplnění bibliografického záznamu</td>
+                        </tr>
+                    </table>
+
+                    <h2>Propojení se stránkami instituce</h2>
+                    <p>Díky jednoznačně definovaným odkazům je možné poměrně jednoduše propojit službu s webovými stránkami spolupracujících institucí. Tato možnost je dostupná pouze pro instituce, které dodaly metadata ve formátu MARC21 do souborného katalogu <a target="_blank" href="http://www.caslin.cz/">CASLIN</a>.</p>
+
+                    <table>
+                        <tr>
+                            <th>struktura odkazu</th>
+                            <th>funkce</th>
+                        </tr>
+                        <tr>
+                            <td>http://staremapy.georeferencer.cz/api/external/[INSTITUTION]/[ID]</td>
+                            <td>poslední vytvořená revizi georeference</td>
+                        </tr>
+                        <tr>
+                            <td>http://staremapy.georeferencer.cz/api/external/[INSTITUTION]/[ID]/link</td>
+                            <td>originální prezentace mapy na webu</td>
+                        </tr>
+                        <tr>
+                            <td>http://staremapy.georeferencer.cz/api/external/[INSTITUTION]/[ID]/state</td>
+                            <td>Tlačítko s odkazem na staré mapy. Možné odpovědi: ‘georeferenced’, ‘ungeoreferenced’, nebo ‘not_found’. Příklad použití zde: <a target="_blank" href="http://jsfiddle.net/JA6Rt/2/">http://jsfiddle.net/JA6Rt/2/</a></td>
+                        </tr>
+                        <tr>
+                            <td>Přístup k plnohodnotným kompletním datům vytvořeným v nástroji Georeferencer je možný přes OAuth autentizovaný HTTP požadavek.</td>
+                            <td>kompletní data vytvořená v nástroji Staré mapy.cz</td>
+                        </tr>
+                    </table>
+
+                    <h2>Tlačítka pro zobrazení na Starých mapách.cz</h2>
+                    <p>si můžete stáhnout <a href="http://www.staremapy.cz/img/staremapy-zobrazit.png">zde</a> (pro zobrazení) a <a href="http://www.staremapy.cz/img/staremapy-zpracovat.png">zde</a> (pro zpracování)</p>
+
+                    <h2>Vložení aplikace MapRankSearch do vlastního webu</h2>
+                    <p>Tato možnost je dostupná pouze pro instituce, které dodaly metadata ve formátu MARC21 do souborného katalogu <a target="_blank" href="http://www.caslin.cz/">CASLIN</a>.</p>
+
+                    <h2>Vytvoření GeoTIFFu</h2>
+                    <p>GeoTIFF je standardizovaný formát, který kromě obrazových dat dokáže ukládat do téhož souboru i údaje o georeferenci.
+Pokud byly Vaše skeny vytvořeny ve formátu JPEG, JPEG2000 nebo TIFF, můžete z nich prostřednícvím nástroje uloženého zde: <a target="_blank" href="https://github.com/klokantech/gdal_georeferencer">https://github.com/klokantech/gdal_georeferencer</a> GeoTIFF snadno vytvořit. Lze s ním také aplikovat identické body v prostorovém referenčním systému zadaném pomocí EPSG kódu, čímž můžete získat například geodata v S-JTSK s použitím existujících identických bodů.</p>
+
+                </div><!-- / #main -->
+
+                <aside>
+                    <div id="aside-right">
+
+
+                        <h3>Najdete nás na</h3>
+                        <div class="banner-right" style="margin-bottom:10px;"><a href="http://www.facebook.com/staremapy.cz"><img src="/img/staremapy-facebook.png" alt="StaréMapy.cz na Facebook"></a></div>
+                                <p style="margin-bottom:10px;">Pro spojení s ostatními uživateli této technologie a pro účast na diskuzích se připojte na facebook:</p><p><a href="http://www.facebook.com/staremapy.cz">www.facebook.com/staremapy.cz</a></p>
+
+                        <div class="social-icons-right">
+                            <iframe width="100%" height="50px" scrolling="no" frameborder="no" src="../socials.html"></iframe>
+                        </div>
+
+                        <div class="banner-right" style="margin-top:20px;"><a href="/pravidla-souteze/"><img src="/img/staremapy-banner-soutez.png" alt="Soutěž StaréMapy.cz"></a></div>
+                    </div> <!-- / .aside-right -->
+                </aside>
+
+            </div> <!-- / #content -->
+
+
+            <footer>
+                <div id="footer">
+
+                    <p class="companies">
+
+                        <a href="http://www.mzk.cz/"><img src="/img/loga/georeferencer-logo-mzk.png" alt="Moravská zemská knihovna"></a>
+                        <a href="http://www.cuni.cz/"><img src="/img/loga/georeferencer-logo-cuni.png" alt="Univerzita Karlova v Praze"></a>
+                        <a href="http://www.muni.cz/"><img src="/img/loga/georeferencer-logo-mu.png" alt="Masarykova univerzita"></a>
+                        <a href="http://www.nkp.cz/"><img src="/img/loga/georeferencer-logo-mns.png" alt="Národní knihovna ČR"></a>
+                        <a href="http://www.zcm.cz/"><img src="/img/loga/georeferencer-logo-zcm.png" alt="Západočeské muzeum v Plzni"></a>
+                        <a href="http://www.ujep.cz/"><img src="/img/loga/georeferencer-logo-fzp.png" alt="Univerzita Jana Evangelisty Purkyně"></a>
+                        <a href="http://www.vkol.cz/"><img src="/img/loga/georeferencer-logo-vkol.png" alt="Vědecká knihovna v Olomouci"></a>
+                        <a href="http://www.cbvk.cz/"><img src="/img/loga/georeferencer-logo-cbvk.png" alt="Jihočeská vědecká knihovna"></a>
+                        <a href="http://www.techlib.cz/"><img src="/img/loga/georeferencer-logo-ntk.png" alt="Národní technická knihovna"></a>
+
+                    </p>
+
+                    <!--<div class="facebook">
+                        facebook plugin...
+                    </div>-->
+
+                    <div class="bottom">
+
+                        <div class="col1">
+                            <img src="/img/map.png" alt="">
+
+                            <p>
+
+                                <a href="/sbirky-starych-map-v-cr">Seznam digitalizovaných sbírek starých map českého území.</a>
+                            </p>
+                        </div>
+
+                        <div class="col2">
+
+                            <ul>
+                                <li><a href="http://www.staremapy.cz/">Staré a historické mapy</a></li>
+                                <li><a href="/sbirky-starych-map-v-cr/">Sbírky starých map v ČR</a></li>
+                                <li><a href="/stare-mapy-v-zahranici/">Staré mapy v zahraničí</a></li>
+                                <li><a href="/historicke-mapy-archiv/">Historické mapy, archiv</a></li>
+                            </ul>
+
+                        </div>
+
+                        <div class="col3">
+
+                            <a href="http://www.temap.cz/"><img src="/img/temap.png" alt=""></a>
+                            <p>Technologie pro zpřístupnění mapových sbírek ČR (DF11P01OVV003)</p>
+
+                        </div>
+
+                    </div>
+
+                    <div class="copyright">
+
+                        <p class="column-left">
+                        	Projekt <a href="http://www.staremapy.cz/" title="Staré a historické mapy Čech, Moravy a Slezska">Staré Mapy</a> založil <a href="http://www.klokantech.com/">Klokan Petr Přidal</a>
+                        </p>
+                        <p class="column-left">
+				<a href="http://www.radimkacer.com/">Design Radim Kacer</a>
+                        </p>
+                        <p style="display:none">
+                        	Reklama: <a href="http://www.scootland.cz/">Scootland - </a><a href="http://www.scootland.cz/skutry/">skútry, </a><a href="http://www.scootland.cz/scooter-tuning-jaknato/">scooter tuning, </a><a href="http://www.scootland.cz/eshop/">náhradní díly</a>
+                        </p>
+
+                        <p class="column-right">
+                        	<a href="http://www.temap.cz/">Výzkumný projekt TEMAP.</a>
+                        </p>
+                        <p class="column-right">
+                        	Copyright © 2013 <a href="http://www.mzk.cz/">Moravská zemská knihovna.</a>
+                        </p>
+
+                    </div>
+
+                </div> <!-- / #footer -->
+            </footer>
+
+        </div> <!-- / #page -->
+
+        <!-- Analytics -->
+        <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script>
+
+        <script type="text/javascript">
+            var pageTracker = _gat._getTracker("UA-241776-5");
+            pageTracker._trackPageview();
+        </script>
+
+        <div class="invisible-div"><a href="http://navrcholu.cz/"><img src="http://c1.navrcholu.cz/hit?site=100272;t=lb14;ref=;jss=0" width="14" height="14" alt="NAVRCHOLU.cz" style="border:none;visibility:hidden"></a></div>
+    </body>
+</html>
