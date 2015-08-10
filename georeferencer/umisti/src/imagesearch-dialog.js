@@ -43,7 +43,7 @@ georeferencer.imagesearch.Dialog.prototype.enterDocument = function() {
 
   goog.events.listen(this.georeferencedFilter_, goog.ui.Component.EventType.ACTION, function(e) {
     var checkbox = e.target;
-    if (checkbox.getChecked) {
+    if (checkbox.getChecked()) {
       var elements = goog.dom.getElementsByClass('imagesearch-result-georeferenced');
       goog.array.forEach(elements, function(item, i, arr) {
         item.style.display = 'none';
@@ -51,7 +51,7 @@ georeferencer.imagesearch.Dialog.prototype.enterDocument = function() {
     } else {
       var elements = goog.dom.getElementsByClass('imagesearch-result-georeferenced');
       goog.array.forEach(elements, function(item, i, arr) {
-        item.style.display = 'block';
+        item.style.display = 'inline-block';
       });
     }
   });
@@ -97,7 +97,7 @@ georeferencer.imagesearch.Dialog.prototype.generateResult_ = function(data) {
     var img = goog.dom.createElement('IMG');
     img.src = item['record']['thumbnail'];
     if (item['record']['metadata']['georeferenced']) {
-      goog.dom.classlist.add(img, 'imagesearch-result-georeferenced');
+      goog.dom.classlist.add(wrapper, 'imagesearch-result-georeferenced');
     }
     goog.dom.appendChild(result, wrapper);
     goog.dom.appendChild(wrapper, a);
