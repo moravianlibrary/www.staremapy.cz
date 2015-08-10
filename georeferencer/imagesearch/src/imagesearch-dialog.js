@@ -21,7 +21,7 @@ georeferencer.imagesearch.Dialog = function() {
   this.georeferencedFilter_ = null;
 
   var content = this.generateContent_();
-  goog.html.SafeHtml.unwrap(goog.html.legacyconversions.safeHtmlFromString(content));
+  //goog.html.SafeHtml.unwrap(goog.html.legacyconversions.safeHtmlFromString(content));
 
   this.setModal(true);
   this.setTitle('Najít podobnou mapu.');
