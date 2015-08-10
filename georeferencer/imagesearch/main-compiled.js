@@ -3097,8 +3097,8 @@ function $JSCompiler_StaticMethods_generateContent_$$() {
 }
 ;function $opt_object$$inline_477$$() {
   var $dialog$$ = new $georeferencer$imagesearch$Dialog$$, $searchSimilarBttn$$ = new $goog$ui$Button$$("N\u00e1jdi podobn\u00e9", $goog$ui$Css3ButtonRenderer$$.$getInstance$());
-  $searchSimilarBttn$$.$getElement$().id = "georeferencer-imagesearch-find-similar";
   $searchSimilarBttn$$.$render$($goog$isString$$("main-left") ? document.getElementById("main-left") : "main-left");
+  $searchSimilarBttn$$.$getElement$().id = "georeferencer-imagesearch-find-similar";
   $goog$events$listen$$($searchSimilarBttn$$, "action", function() {
     $dialog$$.$setVisible$(!0)
   })
