@@ -4,8 +4,8 @@
   "inputs": "src/main.js",
   "mode": "ADVANCED",
   "level": "VERBOSE",
-  "pretty-print": false,
-  "debug": false,
+  "pretty-print": true,
+  "debug": true,
   "checks": {
     "deprecated": "ERROR",
     "checkTypes": "ERROR",
