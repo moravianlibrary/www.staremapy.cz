@@ -3093,7 +3093,7 @@ function $JSCompiler_StaticMethods_generateContent_$$() {
   $dialogContent$$.appendChild($container$$2$$);
   $header$$2$$.appendChild($georeferencedFilter$$);
   $header$$2$$.appendChild($georeferencedFilterLabel$$);
-  return $container$$2$$
+  return $dialogContent$$
 }
 ;function $opt_object$$inline_477$$() {
   var $dialog$$ = new $georeferencer$imagesearch$Dialog$$, $searchSimilarBttn$$ = new $goog$ui$Button$$("N\u00e1jdi podobn\u00e9", $goog$ui$Css3ButtonRenderer$$.$getInstance$());

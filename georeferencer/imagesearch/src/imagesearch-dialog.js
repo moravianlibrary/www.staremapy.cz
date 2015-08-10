@@ -53,5 +53,5 @@ georeferencer.imagesearch.Dialog.prototype.generateContent_ = function() {
   goog.dom.appendChild(header, georeferencedFilter);
   goog.dom.appendChild(header, georeferencedFilterLabel);
 
-  return container;
+  return dialogContent;
 }
