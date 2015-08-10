@@ -43,8 +43,7 @@ georeferencer.imagesearch.Dialog.prototype.enterDocument = function() {
 
   goog.events.listen(this.georeferencedFilter_, goog.ui.Component.EventType.ACTION, function(e) {
     var checkbox = e.target;
-    window.console.log(checkbox.getChecked());
-    if (checkbox.getChecked()) {
+    if (!checkbox.getChecked()) {
       var elements = goog.dom.getElementsByClass('imagesearch-result-georeferenced');
       goog.array.forEach(elements, function(item, i, arr) {
         item.style.display = 'none';
