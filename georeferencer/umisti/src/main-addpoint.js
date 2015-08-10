@@ -10,10 +10,6 @@ goog.require('georeferencer.umisti.AddPointDialog');
 goog.require('georeferencer.umisti.AddPointDialog.EventType');
 
 georeferencer.umisti.main = function() {
-  georeferencer.umisti.loadCss('http://staremapy.cz/css/fonts.css');
-  georeferencer.umisti.loadCss('http://staremapy.cz/georeferencer/umisti/css/main.css');
-  georeferencer.umisti.loadCss('http://staremapy.cz/georeferencer/umisti/css/dialog.css');
-
   var rightPanel = goog.dom.getElement('main-right');
   goog.asserts.assertObject(rightPanel);
 

@@ -1,7 +1,7 @@
 {
   "id": "umisti",
   "paths": "src",
-  "inputs": "src/main.js",
+  "inputs": ["src/main-addpoint.js", "src/main-imagesearch.js"],
   "mode": "ADVANCED",
   "level": "VERBOSE",
   "pretty-print": false,

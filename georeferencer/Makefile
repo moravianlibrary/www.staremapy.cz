@@ -1,4 +1,4 @@
-PROJS = umisti imagesearch
+PROJS = umisti
 
 all: compile
 
