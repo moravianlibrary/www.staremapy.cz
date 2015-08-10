@@ -32,3 +32,11 @@
   bottom: 25px;
   z-index: 99999;
 }
+
+.imagesearch-result-wrapper {
+  display: inline-block;
+}
+
+.imagesearch-result-wrapper img {
+  width: 200px;
+}
