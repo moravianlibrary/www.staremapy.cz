@@ -49,7 +49,7 @@ georeferencer.imagesearch.Dialog.prototype.generateContent_ = function() {
   var header = goog.dom.createElement('DIV');
   var georeferencedFilter = goog.dom.createElement('SPAN');
   georeferencedFilter.id = 'imagesearch-dialog-georeferenced';
-  goog.dom.classlist.add(georeferencedFilter, 'goog-checkbox-undetermined');
+  goog.dom.classlist.add(georeferencedFilter, 'goog-checkbox');
   var georeferencedFilterLabel = goog.dom.createElement('SPAN');
   goog.dom.setTextContent(georeferencedFilterLabel, 'Georeferencované');
 
