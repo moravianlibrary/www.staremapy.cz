@@ -3,7 +3,9 @@ goog.provide('georeferencer.imagesearch.Dialog');
 goog.require('goog.array');
 goog.require('goog.dom');
 goog.require('goog.dom.classlist');
+goog.require('goog.events');
 goog.require('goog.html.SafeHtml');
+goog.require('goog.ui.Component.EventType');
 goog.require('goog.ui.Checkbox');
 goog.require('goog.ui.Dialog');
 goog.require('goog.html.legacyconversions');
@@ -38,6 +40,10 @@ georeferencer.imagesearch.Dialog.prototype.enterDocument = function() {
 
   this.georeferencedFilter_ = new goog.ui.Checkbox();
   this.georeferencedFilter_.decorate(goog.dom.getElement('imagesearch-dialog-georeferenced'));
+
+  goog.events.listen(this.georeferencedFilter_, goog.ui.Component.EventType.ACTION, function(e) {
+    window.console.log(e);
+  });
 };
 
 /**
@@ -79,6 +85,9 @@ georeferencer.imagesearch.Dialog.prototype.generateResult_ = function(data) {
     a.href = 'http://staremapy.georeferencer.cz/map/' + item['record']['id'];
     var img = goog.dom.createElement('IMG');
     img.src = item['record']['thumbnail'];
+    if (item['record']['metadata']['georeferenced']) {
+      goog.dom.classlist.add(img, 'imagesearch-result-georeferenced');
+    }
     goog.dom.appendChild(result, wrapper);
     goog.dom.appendChild(wrapper, a);
     goog.dom.appendChild(a, img);
