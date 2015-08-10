@@ -2049,12 +2049,12 @@ $JSCompiler_prototypeAlias$$.$setChecked$ = function $$JSCompiler_prototypeAlias
 $JSCompiler_prototypeAlias$$.$setState$ = function $$JSCompiler_prototypeAlias$$$$setState$$($state$$9$$, $enable$$10$$) {
   this.$supportedStates_$ & $state$$9$$ && $enable$$10$$ != !!(this.$state_$ & $state$$9$$) && (this.$renderer_$.$setState$(this, $state$$9$$, $enable$$10$$), this.$state_$ = $enable$$10$$ ? this.$state_$ | $state$$9$$ : this.$state_$ & ~$state$$9$$)
 };
-function $JSCompiler_StaticMethods_setSupportedState$$($JSCompiler_StaticMethods_setSupportedState$self$$) {
-  if($JSCompiler_StaticMethods_setSupportedState$self$$.$inDocument_$ && $JSCompiler_StaticMethods_setSupportedState$self$$.$state_$ & 32) {
+function $JSCompiler_StaticMethods_setSupportedState$$($JSCompiler_StaticMethods_setSupportedState$self$$, $state$$12$$, $support$$) {
+  if($JSCompiler_StaticMethods_setSupportedState$self$$.$inDocument_$ && $JSCompiler_StaticMethods_setSupportedState$self$$.$state_$ & $state$$12$$ && !$support$$) {
     throw Error("Component already rendered");
   }
-  $JSCompiler_StaticMethods_setSupportedState$self$$.$state_$ & 32 && $JSCompiler_StaticMethods_setSupportedState$self$$.$setState$(32, !1);
-  $JSCompiler_StaticMethods_setSupportedState$self$$.$supportedStates_$ &= -33
+  !$support$$ && $JSCompiler_StaticMethods_setSupportedState$self$$.$state_$ & $state$$12$$ && $JSCompiler_StaticMethods_setSupportedState$self$$.$setState$($state$$12$$, !1);
+  $JSCompiler_StaticMethods_setSupportedState$self$$.$supportedStates_$ = $support$$ ? $JSCompiler_StaticMethods_setSupportedState$self$$.$supportedStates_$ | $state$$12$$ : $JSCompiler_StaticMethods_setSupportedState$self$$.$supportedStates_$ & ~$state$$12$$
 }
 function $JSCompiler_StaticMethods_isAutoState$$($JSCompiler_StaticMethods_isAutoState$self$$, $state$$13$$) {
   return!!($JSCompiler_StaticMethods_isAutoState$self$$.$autoStates_$ & $state$$13$$) && !!($JSCompiler_StaticMethods_isAutoState$self$$.$supportedStates_$ & $state$$13$$)
@@ -2123,7 +2123,7 @@ $JSCompiler_prototypeAlias$$.$getAriaRole$ = $JSCompiler_emptyFn$$();
 $JSCompiler_prototypeAlias$$.$createDom$ = function $$JSCompiler_prototypeAlias$$$$createDom$$($button$$4$$) {
   $JSCompiler_StaticMethods_setHandleMouseEvents$$($button$$4$$);
   $button$$4$$.$autoStates_$ &= -256;
-  $JSCompiler_StaticMethods_setSupportedState$$($button$$4$$);
+  $JSCompiler_StaticMethods_setSupportedState$$($button$$4$$, 32, !1);
   return $button$$4$$.$getDomHelper$().$createDom$("button", {"class":$JSCompiler_StaticMethods_getClassNames$$(this, $button$$4$$).join(" "), disabled:!$button$$4$$.isEnabled(), title:$button$$4$$.$getTooltip$() || "", value:$button$$4$$.$getValue$() || ""}, $JSCompiler_StaticMethods_getCaption$$($button$$4$$) || "")
 };
 $JSCompiler_prototypeAlias$$.$canDecorate$ = function $$JSCompiler_prototypeAlias$$$$canDecorate$$($element$$119$$) {
@@ -2132,7 +2132,7 @@ $JSCompiler_prototypeAlias$$.$canDecorate$ = function $$JSCompiler_prototypeAlia
 $JSCompiler_prototypeAlias$$.$decorate$ = function $$JSCompiler_prototypeAlias$$$$decorate$$($button$$5$$, $element$$120$$) {
   $JSCompiler_StaticMethods_setHandleMouseEvents$$($button$$5$$);
   $button$$5$$.$autoStates_$ &= -256;
-  $JSCompiler_StaticMethods_setSupportedState$$($button$$5$$);
+  $JSCompiler_StaticMethods_setSupportedState$$($button$$5$$, 32, !1);
   $element$$120$$.disabled && $goog$dom$classes$add$$($element$$120$$, $JSCompiler_StaticMethods_getClassForState$$(this, 1));
   return $goog$ui$NativeButtonRenderer$$.$superClass_$.$decorate$.call(this, $button$$5$$, $element$$120$$)
 };
@@ -2189,49 +2189,77 @@ $JSCompiler_prototypeAlias$$.$handleKeyEventInternal$ = function $$JSCompiler_pr
 $goog$ui$registry$setDecoratorByClassName$$("goog-button", function() {
   return new $goog$ui$Button$$(null)
 });
-var $goog$dom$classlist$NATIVE_DOM_TOKEN_LIST_$$ = !!$goog$global$$.DOMTokenList, $goog$dom$classlist$get$$ = $goog$dom$classlist$NATIVE_DOM_TOKEN_LIST_$$ ? function($element$$124$$) {
-  return $element$$124$$.classList
-} : function($className$$27_element$$125$$) {
-  $className$$27_element$$125$$ = $className$$27_element$$125$$.className;
-  return $goog$isString$$($className$$27_element$$125$$) && $className$$27_element$$125$$.match(/\S+/g) || []
-}, $goog$dom$classlist$contains$$ = $goog$dom$classlist$NATIVE_DOM_TOKEN_LIST_$$ ? function($element$$127$$, $className$$29$$) {
-  $goog$asserts$assert$$(!!$element$$127$$.classList);
-  return $element$$127$$.classList.contains($className$$29$$)
-} : function($element$$128$$, $className$$30$$) {
-  return $goog$array$contains$$($goog$dom$classlist$get$$($element$$128$$), $className$$30$$)
-}, $goog$dom$classlist$add$$ = $goog$dom$classlist$NATIVE_DOM_TOKEN_LIST_$$ ? function($element$$129$$, $className$$31$$) {
-  $element$$129$$.classList.add($className$$31$$)
-} : function($element$$130$$, $className$$32$$) {
-  $goog$dom$classlist$contains$$($element$$130$$, $className$$32$$) || ($element$$130$$.className += 0 < $element$$130$$.className.length ? " " + $className$$32$$ : $className$$32$$)
+function $goog$ui$Css3ButtonRenderer$$() {
+}
+$goog$inherits$$($goog$ui$Css3ButtonRenderer$$, $goog$ui$ButtonRenderer$$);
+$goog$addSingletonGetter$$($goog$ui$Css3ButtonRenderer$$);
+$JSCompiler_prototypeAlias$$ = $goog$ui$Css3ButtonRenderer$$.prototype;
+$JSCompiler_prototypeAlias$$.$getContentElement$ = function $$JSCompiler_prototypeAlias$$$$getContentElement$$($element$$124$$) {
+  return $element$$124$$
+};
+$JSCompiler_prototypeAlias$$.$createDom$ = function $$JSCompiler_prototypeAlias$$$$createDom$$($control$$11$$) {
+  var $attr$$1$$ = {"class":"goog-inline-block " + $JSCompiler_StaticMethods_getClassNames$$(this, $control$$11$$).join(" "), title:$control$$11$$.$getTooltip$() || ""};
+  return $control$$11$$.$getDomHelper$().$createDom$("div", $attr$$1$$, $control$$11$$.$content_$)
+};
+$JSCompiler_prototypeAlias$$.$canDecorate$ = function $$JSCompiler_prototypeAlias$$$$canDecorate$$($element$$125$$) {
+  return"DIV" == $element$$125$$.tagName
+};
+$JSCompiler_prototypeAlias$$.$decorate$ = function $$JSCompiler_prototypeAlias$$$$decorate$$($button$$11$$, $element$$126$$) {
+  $goog$dom$classes$add$$($element$$126$$, "goog-inline-block", this.$getCssClass$());
+  return $goog$ui$Css3ButtonRenderer$$.$superClass_$.$decorate$.call(this, $button$$11$$, $element$$126$$)
+};
+$JSCompiler_prototypeAlias$$.$getCssClass$ = $JSCompiler_returnArg$$("goog-css3-button");
+$goog$ui$registry$setDecoratorByClassName$$("goog-css3-button", function() {
+  return new $goog$ui$Button$$(null, $goog$ui$Css3ButtonRenderer$$.$getInstance$())
+});
+$goog$ui$registry$setDecoratorByClassName$$("goog-css3-toggle-button", function() {
+  var $button$$12$$ = new $goog$ui$Button$$(null, $goog$ui$Css3ButtonRenderer$$.$getInstance$());
+  $JSCompiler_StaticMethods_setSupportedState$$($button$$12$$, 16, !0);
+  return $button$$12$$
+});
+var $goog$dom$classlist$NATIVE_DOM_TOKEN_LIST_$$ = !!$goog$global$$.DOMTokenList, $goog$dom$classlist$get$$ = $goog$dom$classlist$NATIVE_DOM_TOKEN_LIST_$$ ? function($element$$127$$) {
+  return $element$$127$$.classList
+} : function($className$$27_element$$128$$) {
+  $className$$27_element$$128$$ = $className$$27_element$$128$$.className;
+  return $goog$isString$$($className$$27_element$$128$$) && $className$$27_element$$128$$.match(/\S+/g) || []
+}, $goog$dom$classlist$contains$$ = $goog$dom$classlist$NATIVE_DOM_TOKEN_LIST_$$ ? function($element$$130$$, $className$$29$$) {
+  $goog$asserts$assert$$(!!$element$$130$$.classList);
+  return $element$$130$$.classList.contains($className$$29$$)
+} : function($element$$131$$, $className$$30$$) {
+  return $goog$array$contains$$($goog$dom$classlist$get$$($element$$131$$), $className$$30$$)
+}, $goog$dom$classlist$add$$ = $goog$dom$classlist$NATIVE_DOM_TOKEN_LIST_$$ ? function($element$$132$$, $className$$31$$) {
+  $element$$132$$.classList.add($className$$31$$)
+} : function($element$$133$$, $className$$32$$) {
+  $goog$dom$classlist$contains$$($element$$133$$, $className$$32$$) || ($element$$133$$.className += 0 < $element$$133$$.className.length ? " " + $className$$32$$ : $className$$32$$)
 };
 function $goog$ui$CheckboxRenderer$$() {
 }
 $goog$inherits$$($goog$ui$CheckboxRenderer$$, $goog$ui$ControlRenderer$$);
 $goog$addSingletonGetter$$($goog$ui$CheckboxRenderer$$);
 $goog$ui$CheckboxRenderer$$.prototype.$createDom$ = function $$goog$ui$CheckboxRenderer$$$$$createDom$$($checkbox$$) {
-  var $element$$141$$ = $checkbox$$.$getDomHelper$().$createDom$("span", $JSCompiler_StaticMethods_getClassNames$$(this, $checkbox$$).join(" "));
-  $JSCompiler_StaticMethods_setCheckboxState$$(this, $element$$141$$, $checkbox$$.$checked_$);
-  return $element$$141$$
+  var $element$$144$$ = $checkbox$$.$getDomHelper$().$createDom$("span", $JSCompiler_StaticMethods_getClassNames$$(this, $checkbox$$).join(" "));
+  $JSCompiler_StaticMethods_setCheckboxState$$(this, $element$$144$$, $checkbox$$.$checked_$);
+  return $element$$144$$
 };
-$goog$ui$CheckboxRenderer$$.prototype.$decorate$ = function $$goog$ui$CheckboxRenderer$$$$$decorate$$($checkbox$$1$$, $element$$142$$) {
-  $element$$142$$ = $goog$ui$CheckboxRenderer$$.$superClass_$.$decorate$.call(this, $checkbox$$1$$, $element$$142$$);
-  var $classes$$6$$ = $goog$dom$classes$get$$($element$$142$$), $checked$$ = $goog$ui$Checkbox$State$UNCHECKED$$;
+$goog$ui$CheckboxRenderer$$.prototype.$decorate$ = function $$goog$ui$CheckboxRenderer$$$$$decorate$$($checkbox$$1$$, $element$$145$$) {
+  $element$$145$$ = $goog$ui$CheckboxRenderer$$.$superClass_$.$decorate$.call(this, $checkbox$$1$$, $element$$145$$);
+  var $classes$$6$$ = $goog$dom$classes$get$$($element$$145$$), $checked$$ = $goog$ui$Checkbox$State$UNCHECKED$$;
   $goog$array$contains$$($classes$$6$$, $JSCompiler_StaticMethods_getClassForCheckboxState$$(this, $goog$ui$Checkbox$State$UNDETERMINED$$)) ? $checked$$ = $goog$ui$Checkbox$State$UNDETERMINED$$ : $goog$array$contains$$($classes$$6$$, $JSCompiler_StaticMethods_getClassForCheckboxState$$(this, $goog$ui$Checkbox$State$CHECKED$$)) ? $checked$$ = $goog$ui$Checkbox$State$CHECKED$$ : $goog$array$contains$$($classes$$6$$, $JSCompiler_StaticMethods_getClassForCheckboxState$$(this, $goog$ui$Checkbox$State$UNCHECKED$$)) && 
   ($checked$$ = $goog$ui$Checkbox$State$UNCHECKED$$);
   $checkbox$$1$$.$checked_$ = $checked$$;
-  $goog$asserts$assert$$($element$$142$$, "The element cannot be null.");
-  $goog$a11y$aria$setState$$($element$$142$$, "checked", $checked$$ == $goog$ui$Checkbox$State$UNDETERMINED$$ ? "mixed" : $checked$$ == $goog$ui$Checkbox$State$CHECKED$$ ? "true" : "false");
-  return $element$$142$$
+  $goog$asserts$assert$$($element$$145$$, "The element cannot be null.");
+  $goog$a11y$aria$setState$$($element$$145$$, "checked", $checked$$ == $goog$ui$Checkbox$State$UNDETERMINED$$ ? "mixed" : $checked$$ == $goog$ui$Checkbox$State$CHECKED$$ ? "true" : "false");
+  return $element$$145$$
 };
 $goog$ui$CheckboxRenderer$$.prototype.$getAriaRole$ = $JSCompiler_returnArg$$("checkbox");
-function $JSCompiler_StaticMethods_setCheckboxState$$($JSCompiler_StaticMethods_setCheckboxState$self$$, $element$$143$$, $state$$18$$) {
-  if($element$$143$$) {
+function $JSCompiler_StaticMethods_setCheckboxState$$($JSCompiler_StaticMethods_setCheckboxState$self$$, $element$$146$$, $state$$18$$) {
+  if($element$$146$$) {
     var $classToAdd$$1$$ = $JSCompiler_StaticMethods_getClassForCheckboxState$$($JSCompiler_StaticMethods_setCheckboxState$self$$, $state$$18$$);
     $goog$asserts$assert$$($classToAdd$$1$$);
-    $goog$array$contains$$($goog$dom$classes$get$$($element$$143$$), $classToAdd$$1$$) || ($goog$object$forEach$$($goog$ui$Checkbox$State$$, function($className$$43_state$$19$$) {
+    $goog$array$contains$$($goog$dom$classes$get$$($element$$146$$), $classToAdd$$1$$) || ($goog$object$forEach$$($goog$ui$Checkbox$State$$, function($className$$43_state$$19$$) {
       $className$$43_state$$19$$ = $JSCompiler_StaticMethods_getClassForCheckboxState$$(this, $className$$43_state$$19$$);
-      $className$$43_state$$19$$ == $classToAdd$$1$$ ? $goog$dom$classes$add$$($element$$143$$, $className$$43_state$$19$$) : $goog$dom$classes$remove$$($element$$143$$, $className$$43_state$$19$$)
-    }, $JSCompiler_StaticMethods_setCheckboxState$self$$), $goog$a11y$aria$setState$$($element$$143$$, "checked", $state$$18$$ == $goog$ui$Checkbox$State$UNDETERMINED$$ ? "mixed" : $state$$18$$ == $goog$ui$Checkbox$State$CHECKED$$ ? "true" : "false"))
+      $className$$43_state$$19$$ == $classToAdd$$1$$ ? $goog$dom$classes$add$$($element$$146$$, $className$$43_state$$19$$) : $goog$dom$classes$remove$$($element$$146$$, $className$$43_state$$19$$)
+    }, $JSCompiler_StaticMethods_setCheckboxState$self$$), $goog$a11y$aria$setState$$($element$$146$$, "checked", $state$$18$$ == $goog$ui$Checkbox$State$UNDETERMINED$$ ? "mixed" : $state$$18$$ == $goog$ui$Checkbox$State$CHECKED$$ ? "true" : "false"))
   }
 }
 $goog$ui$CheckboxRenderer$$.prototype.$getCssClass$ = $JSCompiler_returnArg$$("goog-checkbox");
@@ -2571,12 +2599,12 @@ function $goog$Timer$callOnce$$($listener$$62$$, $opt_handler$$14$$) {
   }
   $goog$global$$.setTimeout($listener$$62$$, 0)
 }
-;function $goog$events$FocusHandler$$($element$$147_typeOut$$) {
+;function $goog$events$FocusHandler$$($element$$150_typeOut$$) {
   $goog$events$EventTarget$$.call(this);
-  this.$element_$ = $element$$147_typeOut$$;
-  $element$$147_typeOut$$ = $goog$userAgent$IE$$ ? "focusout" : "blur";
+  this.$element_$ = $element$$150_typeOut$$;
+  $element$$150_typeOut$$ = $goog$userAgent$IE$$ ? "focusout" : "blur";
   this.$listenKeyIn_$ = $goog$events$listen$$(this.$element_$, $goog$userAgent$IE$$ ? "focusin" : "focus", this, !$goog$userAgent$IE$$);
-  this.$listenKeyOut_$ = $goog$events$listen$$(this.$element_$, $element$$147_typeOut$$, this, !$goog$userAgent$IE$$)
+  this.$listenKeyOut_$ = $goog$events$listen$$(this.$element_$, $element$$150_typeOut$$, this, !$goog$userAgent$IE$$)
 }
 $goog$inherits$$($goog$events$FocusHandler$$, $goog$events$EventTarget$$);
 $goog$events$FocusHandler$$.prototype.handleEvent = function $$goog$events$FocusHandler$$$$handleEvent$($e$$56$$) {
@@ -2607,10 +2635,10 @@ $JSCompiler_prototypeAlias$$.$getCssClass$ = $JSCompiler_returnArg$$("goog-modal
 $JSCompiler_prototypeAlias$$.$getBackgroundElement$ = $JSCompiler_get$$("$bgEl_$");
 $JSCompiler_prototypeAlias$$.$createDom$ = function $$JSCompiler_prototypeAlias$$$$createDom$$() {
   $goog$ui$ModalPopup$$.$superClass_$.$createDom$.call(this);
-  var $element$$149$$ = this.$getElement$();
-  $goog$dom$classes$add$$($element$$149$$, this.$getCssClass$());
-  $goog$dom$setFocusableTabIndex$$($element$$149$$, !0);
-  $goog$style$setElementShown$$($element$$149$$, !1);
+  var $element$$152$$ = this.$getElement$();
+  $goog$dom$classes$add$$($element$$152$$, this.$getCssClass$());
+  $goog$dom$setFocusableTabIndex$$($element$$152$$, !0);
+  $goog$style$setElementShown$$($element$$152$$, !1);
   $JSCompiler_StaticMethods_manageBackgroundDom_$$(this);
   $JSCompiler_StaticMethods_createTabCatcher_$$(this)
 };
@@ -2632,11 +2660,11 @@ function $JSCompiler_StaticMethods_createTabCatcher_$$($JSCompiler_StaticMethods
 $JSCompiler_prototypeAlias$$.$resetBackwardTabWrap_$ = function $$JSCompiler_prototypeAlias$$$$resetBackwardTabWrap_$$() {
   this.$backwardTabWrapInProgress_$ = !1
 };
-$JSCompiler_prototypeAlias$$.$canDecorate$ = function $$JSCompiler_prototypeAlias$$$$canDecorate$$($element$$150$$) {
-  return!!$element$$150$$ && "DIV" == $element$$150$$.tagName
+$JSCompiler_prototypeAlias$$.$canDecorate$ = function $$JSCompiler_prototypeAlias$$$$canDecorate$$($element$$153$$) {
+  return!!$element$$153$$ && "DIV" == $element$$153$$.tagName
 };
-$JSCompiler_prototypeAlias$$.$decorateInternal$ = function $$JSCompiler_prototypeAlias$$$$decorateInternal$$($element$$151$$) {
-  $goog$ui$ModalPopup$$.$superClass_$.$decorateInternal$.call(this, $element$$151$$);
+$JSCompiler_prototypeAlias$$.$decorateInternal$ = function $$JSCompiler_prototypeAlias$$$$decorateInternal$$($element$$154$$) {
+  $goog$ui$ModalPopup$$.$superClass_$.$decorateInternal$.call(this, $element$$154$$);
   $goog$dom$classes$add$$(this.$getElement$(), this.$getCssClass$());
   $JSCompiler_StaticMethods_manageBackgroundDom_$$(this);
   $JSCompiler_StaticMethods_createTabCatcher_$$(this);
@@ -2817,37 +2845,37 @@ function $JSCompiler_StaticMethods_setDraggingEnabled_$$($JSCompiler_StaticMetho
 }
 $JSCompiler_prototypeAlias$$.$createDom$ = function $$JSCompiler_prototypeAlias$$$$createDom$$() {
   $goog$ui$Dialog$$.$superClass_$.$createDom$.call(this);
-  var $JSCompiler_StaticMethods_attachToElement$self$$inline_361_element$$153$$ = this.$getElement$();
-  $goog$asserts$assert$$($JSCompiler_StaticMethods_attachToElement$self$$inline_361_element$$153$$, "getElement() returns null");
+  var $JSCompiler_StaticMethods_attachToElement$self$$inline_361_element$$156$$ = this.$getElement$();
+  $goog$asserts$assert$$($JSCompiler_StaticMethods_attachToElement$self$$inline_361_element$$156$$, "getElement() returns null");
   var $dom$$2$$ = this.$getDomHelper$();
   this.$titleEl_$ = $dom$$2$$.$createDom$("div", {className:this.$class_$ + "-title", id:$JSCompiler_StaticMethods_getId$$(this)}, this.$titleTextEl_$ = $dom$$2$$.$createDom$("span", this.$class_$ + "-title-text", this.$title_$), this.$titleCloseEl_$ = $dom$$2$$.$createDom$("span", this.$class_$ + "-title-close"));
-  $goog$dom$append$$($JSCompiler_StaticMethods_attachToElement$self$$inline_361_element$$153$$, this.$titleEl_$, this.$contentEl_$ = $dom$$2$$.$createDom$("div", this.$class_$ + "-content"), this.$buttonEl_$ = $dom$$2$$.$createDom$("div", this.$class_$ + "-buttons"));
+  $goog$dom$append$$($JSCompiler_StaticMethods_attachToElement$self$$inline_361_element$$156$$, this.$titleEl_$, this.$contentEl_$ = $dom$$2$$.$createDom$("div", this.$class_$ + "-content"), this.$buttonEl_$ = $dom$$2$$.$createDom$("div", this.$class_$ + "-buttons"));
   this.$titleId_$ = this.$titleEl_$.id;
-  $goog$a11y$aria$setRole$$($JSCompiler_StaticMethods_attachToElement$self$$inline_361_element$$153$$, this.$preferredAriaRole_$);
-  $goog$a11y$aria$setState$$($JSCompiler_StaticMethods_attachToElement$self$$inline_361_element$$153$$, "labelledby", this.$titleId_$ || "");
+  $goog$a11y$aria$setRole$$($JSCompiler_StaticMethods_attachToElement$self$$inline_361_element$$156$$, this.$preferredAriaRole_$);
+  $goog$a11y$aria$setState$$($JSCompiler_StaticMethods_attachToElement$self$$inline_361_element$$156$$, "labelledby", this.$titleId_$ || "");
   this.$content_$ && (this.$contentEl_$.innerHTML = this.$content_$);
   $goog$style$setElementShown$$(this.$titleCloseEl_$, this.$hasTitleCloseButton_$);
-  this.$buttons_$ && ($JSCompiler_StaticMethods_attachToElement$self$$inline_361_element$$153$$ = this.$buttons_$, $JSCompiler_StaticMethods_attachToElement$self$$inline_361_element$$153$$.$element_$ = this.$buttonEl_$, $JSCompiler_StaticMethods_attachToElement$self$$inline_361_element$$153$$.$render$());
+  this.$buttons_$ && ($JSCompiler_StaticMethods_attachToElement$self$$inline_361_element$$156$$ = this.$buttons_$, $JSCompiler_StaticMethods_attachToElement$self$$inline_361_element$$156$$.$element_$ = this.$buttonEl_$, $JSCompiler_StaticMethods_attachToElement$self$$inline_361_element$$156$$.$render$());
   $goog$style$setElementShown$$(this.$buttonEl_$, !!this.$buttons_$);
   $JSCompiler_StaticMethods_setBackgroundElementOpacity$$(this, this.$backgroundElementOpacity_$)
 };
-$JSCompiler_prototypeAlias$$.$decorateInternal$ = function $$JSCompiler_prototypeAlias$$$$decorateInternal$$($JSCompiler_StaticMethods_attachToElement$self$$inline_364_dialogElement_element$$154$$) {
-  $goog$ui$Dialog$$.$superClass_$.$decorateInternal$.call(this, $JSCompiler_StaticMethods_attachToElement$self$$inline_364_dialogElement_element$$154$$);
-  $JSCompiler_StaticMethods_attachToElement$self$$inline_364_dialogElement_element$$154$$ = this.$getElement$();
-  $goog$asserts$assert$$($JSCompiler_StaticMethods_attachToElement$self$$inline_364_dialogElement_element$$154$$, "The DOM element for dialog cannot be null.");
+$JSCompiler_prototypeAlias$$.$decorateInternal$ = function $$JSCompiler_prototypeAlias$$$$decorateInternal$$($JSCompiler_StaticMethods_attachToElement$self$$inline_364_dialogElement_element$$157$$) {
+  $goog$ui$Dialog$$.$superClass_$.$decorateInternal$.call(this, $JSCompiler_StaticMethods_attachToElement$self$$inline_364_dialogElement_element$$157$$);
+  $JSCompiler_StaticMethods_attachToElement$self$$inline_364_dialogElement_element$$157$$ = this.$getElement$();
+  $goog$asserts$assert$$($JSCompiler_StaticMethods_attachToElement$self$$inline_364_dialogElement_element$$157$$, "The DOM element for dialog cannot be null.");
   var $buttonsClass_contentClass_titleClass$$ = this.$class_$ + "-content";
-  (this.$contentEl_$ = $goog$dom$getElementsByTagNameAndClass_$$($buttonsClass_contentClass_titleClass$$, $JSCompiler_StaticMethods_attachToElement$self$$inline_364_dialogElement_element$$154$$)[0]) ? this.$content_$ = this.$contentEl_$.innerHTML : (this.$contentEl_$ = this.$getDomHelper$().$createDom$("div", $buttonsClass_contentClass_titleClass$$), this.$content_$ && (this.$contentEl_$.innerHTML = this.$content_$), $JSCompiler_StaticMethods_attachToElement$self$$inline_364_dialogElement_element$$154$$.appendChild(this.$contentEl_$));
+  (this.$contentEl_$ = $goog$dom$getElementsByTagNameAndClass_$$($buttonsClass_contentClass_titleClass$$, $JSCompiler_StaticMethods_attachToElement$self$$inline_364_dialogElement_element$$157$$)[0]) ? this.$content_$ = this.$contentEl_$.innerHTML : (this.$contentEl_$ = this.$getDomHelper$().$createDom$("div", $buttonsClass_contentClass_titleClass$$), this.$content_$ && (this.$contentEl_$.innerHTML = this.$content_$), $JSCompiler_StaticMethods_attachToElement$self$$inline_364_dialogElement_element$$157$$.appendChild(this.$contentEl_$));
   var $buttonsClass_contentClass_titleClass$$ = this.$class_$ + "-title", $titleTextClass$$ = this.$class_$ + "-title-text", $titleCloseClass$$ = this.$class_$ + "-title-close";
-  (this.$titleEl_$ = $goog$dom$getElementsByTagNameAndClass_$$($buttonsClass_contentClass_titleClass$$, $JSCompiler_StaticMethods_attachToElement$self$$inline_364_dialogElement_element$$154$$)[0]) ? (this.$titleTextEl_$ = $goog$dom$getElementsByTagNameAndClass_$$($titleTextClass$$, this.$titleEl_$)[0], this.$titleCloseEl_$ = $goog$dom$getElementsByTagNameAndClass_$$($titleCloseClass$$, this.$titleEl_$)[0], this.$titleEl_$.id || (this.$titleEl_$.id = $JSCompiler_StaticMethods_getId$$(this))) : (this.$titleEl_$ = 
-  this.$getDomHelper$().$createDom$("div", {className:$buttonsClass_contentClass_titleClass$$, id:$JSCompiler_StaticMethods_getId$$(this)}), $JSCompiler_StaticMethods_attachToElement$self$$inline_364_dialogElement_element$$154$$.insertBefore(this.$titleEl_$, this.$contentEl_$));
+  (this.$titleEl_$ = $goog$dom$getElementsByTagNameAndClass_$$($buttonsClass_contentClass_titleClass$$, $JSCompiler_StaticMethods_attachToElement$self$$inline_364_dialogElement_element$$157$$)[0]) ? (this.$titleTextEl_$ = $goog$dom$getElementsByTagNameAndClass_$$($titleTextClass$$, this.$titleEl_$)[0], this.$titleCloseEl_$ = $goog$dom$getElementsByTagNameAndClass_$$($titleCloseClass$$, this.$titleEl_$)[0], this.$titleEl_$.id || (this.$titleEl_$.id = $JSCompiler_StaticMethods_getId$$(this))) : (this.$titleEl_$ = 
+  this.$getDomHelper$().$createDom$("div", {className:$buttonsClass_contentClass_titleClass$$, id:$JSCompiler_StaticMethods_getId$$(this)}), $JSCompiler_StaticMethods_attachToElement$self$$inline_364_dialogElement_element$$157$$.insertBefore(this.$titleEl_$, this.$contentEl_$));
   this.$titleId_$ = this.$titleEl_$.id;
   this.$titleTextEl_$ ? this.$title_$ = $goog$dom$getTextContent$$(this.$titleTextEl_$) : (this.$titleTextEl_$ = this.$getDomHelper$().$createDom$("span", $titleTextClass$$, this.$title_$), this.$titleEl_$.appendChild(this.$titleTextEl_$));
-  $goog$a11y$aria$setState$$($JSCompiler_StaticMethods_attachToElement$self$$inline_364_dialogElement_element$$154$$, "labelledby", this.$titleId_$ || "");
+  $goog$a11y$aria$setState$$($JSCompiler_StaticMethods_attachToElement$self$$inline_364_dialogElement_element$$157$$, "labelledby", this.$titleId_$ || "");
   this.$titleCloseEl_$ || (this.$titleCloseEl_$ = this.$getDomHelper$().$createDom$("span", $titleCloseClass$$), this.$titleEl_$.appendChild(this.$titleCloseEl_$));
   $goog$style$setElementShown$$(this.$titleCloseEl_$, this.$hasTitleCloseButton_$);
   $buttonsClass_contentClass_titleClass$$ = this.$class_$ + "-buttons";
-  (this.$buttonEl_$ = $goog$dom$getElementsByTagNameAndClass_$$($buttonsClass_contentClass_titleClass$$, $JSCompiler_StaticMethods_attachToElement$self$$inline_364_dialogElement_element$$154$$)[0]) ? (this.$buttons_$ = new $goog$ui$Dialog$ButtonSet$$(this.$getDomHelper$()), this.$buttons_$.$decorate$(this.$buttonEl_$)) : (this.$buttonEl_$ = this.$getDomHelper$().$createDom$("div", $buttonsClass_contentClass_titleClass$$), $JSCompiler_StaticMethods_attachToElement$self$$inline_364_dialogElement_element$$154$$.appendChild(this.$buttonEl_$), 
-  this.$buttons_$ && ($JSCompiler_StaticMethods_attachToElement$self$$inline_364_dialogElement_element$$154$$ = this.$buttons_$, $JSCompiler_StaticMethods_attachToElement$self$$inline_364_dialogElement_element$$154$$.$element_$ = this.$buttonEl_$, $JSCompiler_StaticMethods_attachToElement$self$$inline_364_dialogElement_element$$154$$.$render$()), $goog$style$setElementShown$$(this.$buttonEl_$, !!this.$buttons_$));
+  (this.$buttonEl_$ = $goog$dom$getElementsByTagNameAndClass_$$($buttonsClass_contentClass_titleClass$$, $JSCompiler_StaticMethods_attachToElement$self$$inline_364_dialogElement_element$$157$$)[0]) ? (this.$buttons_$ = new $goog$ui$Dialog$ButtonSet$$(this.$getDomHelper$()), this.$buttons_$.$decorate$(this.$buttonEl_$)) : (this.$buttonEl_$ = this.$getDomHelper$().$createDom$("div", $buttonsClass_contentClass_titleClass$$), $JSCompiler_StaticMethods_attachToElement$self$$inline_364_dialogElement_element$$157$$.appendChild(this.$buttonEl_$), 
+  this.$buttons_$ && ($JSCompiler_StaticMethods_attachToElement$self$$inline_364_dialogElement_element$$157$$ = this.$buttons_$, $JSCompiler_StaticMethods_attachToElement$self$$inline_364_dialogElement_element$$157$$.$element_$ = this.$buttonEl_$, $JSCompiler_StaticMethods_attachToElement$self$$inline_364_dialogElement_element$$157$$.$render$()), $goog$style$setElementShown$$(this.$buttonEl_$, !!this.$buttons_$));
   $JSCompiler_StaticMethods_setBackgroundElementOpacity$$(this, this.$backgroundElementOpacity_$)
 };
 $JSCompiler_prototypeAlias$$.$enterDocument$ = function $$JSCompiler_prototypeAlias$$$$enterDocument$$() {
@@ -2856,10 +2884,10 @@ $JSCompiler_prototypeAlias$$.$enterDocument$ = function $$JSCompiler_prototypeAl
   this.$getHandler$().$listen$(this.$buttonEl_$, "click", this.$onButtonClick_$);
   $JSCompiler_StaticMethods_setDraggingEnabled_$$(this, this.$draggable_$);
   this.$getHandler$().$listen$(this.$titleCloseEl_$, "click", this.$onTitleCloseClick_$);
-  var $element$$155$$ = this.$getElement$();
-  $goog$asserts$assert$$($element$$155$$, "The DOM element for dialog cannot be null");
-  $goog$a11y$aria$setRole$$($element$$155$$, this.$preferredAriaRole_$);
-  "" !== this.$titleTextEl_$.id && $goog$a11y$aria$setState$$($element$$155$$, "labelledby", this.$titleTextEl_$.id);
+  var $element$$158$$ = this.$getElement$();
+  $goog$asserts$assert$$($element$$158$$, "The DOM element for dialog cannot be null");
+  $goog$a11y$aria$setRole$$($element$$158$$, this.$preferredAriaRole_$);
+  "" !== this.$titleTextEl_$.id && $goog$a11y$aria$setState$$($element$$158$$, "labelledby", this.$titleTextEl_$.id);
   this.$modal_$ || $JSCompiler_StaticMethods_setModalInternal_$$(this, !1)
 };
 $JSCompiler_prototypeAlias$$.$exitDocument$ = function $$JSCompiler_prototypeAlias$$$$exitDocument$$() {
@@ -2884,8 +2912,8 @@ $JSCompiler_prototypeAlias$$.focus = function $$JSCompiler_prototypeAlias$$$focu
   if(this.$buttons_$) {
     var $defaultButton$$ = this.$buttons_$.$defaultButton_$;
     if($defaultButton$$) {
-      for(var $doc$$42$$ = $JSCompiler_StaticMethods_getDocument$$(this.$getDomHelper$()), $buttons$$ = this.$buttonEl_$.getElementsByTagName("button"), $i$$98$$ = 0, $button$$10$$;$button$$10$$ = $buttons$$[$i$$98$$];$i$$98$$++) {
-        if($button$$10$$.name == $defaultButton$$ && !$button$$10$$.disabled) {
+      for(var $doc$$42$$ = $JSCompiler_StaticMethods_getDocument$$(this.$getDomHelper$()), $buttons$$ = this.$buttonEl_$.getElementsByTagName("button"), $i$$98$$ = 0, $button$$13$$;$button$$13$$ = $buttons$$[$i$$98$$];$i$$98$$++) {
+        if($button$$13$$.name == $defaultButton$$ && !$button$$13$$.disabled) {
           try {
             if($goog$userAgent$WEBKIT$$ || $goog$userAgent$OPERA$$) {
               var $temp$$ = $doc$$42$$.createElement("input");
@@ -2894,7 +2922,7 @@ $JSCompiler_prototypeAlias$$.focus = function $$JSCompiler_prototypeAlias$$$focu
               $temp$$.focus();
               this.$getElement$().removeChild($temp$$)
             }
-            $button$$10$$.focus()
+            $button$$13$$.focus()
           }catch($e$$67$$) {
           }
           break
@@ -2918,20 +2946,20 @@ $JSCompiler_prototypeAlias$$.$disposeInternal$ = function $$JSCompiler_prototype
   this.$buttonEl_$ = this.$titleCloseEl_$ = null;
   $goog$ui$Dialog$$.$superClass_$.$disposeInternal$.call(this)
 };
-$JSCompiler_prototypeAlias$$.$onButtonClick_$ = function $$JSCompiler_prototypeAlias$$$$onButtonClick_$$($button$$11_e$$70_el$$inline_375_key$$70$$) {
+$JSCompiler_prototypeAlias$$.$onButtonClick_$ = function $$JSCompiler_prototypeAlias$$$$onButtonClick_$$($button$$14_e$$70_el$$inline_375_key$$70$$) {
   a: {
-    for($button$$11_e$$70_el$$inline_375_key$$70$$ = $button$$11_e$$70_el$$inline_375_key$$70$$.target;null != $button$$11_e$$70_el$$inline_375_key$$70$$ && $button$$11_e$$70_el$$inline_375_key$$70$$ != this.$buttonEl_$;) {
-      if("BUTTON" == $button$$11_e$$70_el$$inline_375_key$$70$$.tagName) {
+    for($button$$14_e$$70_el$$inline_375_key$$70$$ = $button$$14_e$$70_el$$inline_375_key$$70$$.target;null != $button$$14_e$$70_el$$inline_375_key$$70$$ && $button$$14_e$$70_el$$inline_375_key$$70$$ != this.$buttonEl_$;) {
+      if("BUTTON" == $button$$14_e$$70_el$$inline_375_key$$70$$.tagName) {
         break a
       }
-      $button$$11_e$$70_el$$inline_375_key$$70$$ = $button$$11_e$$70_el$$inline_375_key$$70$$.parentNode
+      $button$$14_e$$70_el$$inline_375_key$$70$$ = $button$$14_e$$70_el$$inline_375_key$$70$$.parentNode
     }
-    $button$$11_e$$70_el$$inline_375_key$$70$$ = null
+    $button$$14_e$$70_el$$inline_375_key$$70$$ = null
   }
-  if($button$$11_e$$70_el$$inline_375_key$$70$$ && !$button$$11_e$$70_el$$inline_375_key$$70$$.disabled) {
-    $button$$11_e$$70_el$$inline_375_key$$70$$ = $button$$11_e$$70_el$$inline_375_key$$70$$.name;
-    var $caption$$3$$ = this.$buttons_$.get($button$$11_e$$70_el$$inline_375_key$$70$$);
-    this.dispatchEvent(new $goog$ui$Dialog$Event$$($button$$11_e$$70_el$$inline_375_key$$70$$, $caption$$3$$)) && this.$setVisible$(!1)
+  if($button$$14_e$$70_el$$inline_375_key$$70$$ && !$button$$14_e$$70_el$$inline_375_key$$70$$.disabled) {
+    $button$$14_e$$70_el$$inline_375_key$$70$$ = $button$$14_e$$70_el$$inline_375_key$$70$$.name;
+    var $caption$$3$$ = this.$buttons_$.get($button$$14_e$$70_el$$inline_375_key$$70$$);
+    this.dispatchEvent(new $goog$ui$Dialog$Event$$($button$$14_e$$70_el$$inline_375_key$$70$$, $caption$$3$$)) && this.$setVisible$(!1)
   }
 };
 $JSCompiler_prototypeAlias$$.$onKey_$ = function $$JSCompiler_prototypeAlias$$$$onKey_$$($e$$71$$) {
@@ -3004,29 +3032,29 @@ $JSCompiler_prototypeAlias$$.set = function $$JSCompiler_prototypeAlias$$$set$($
   $opt_isCancel$$ && (this.$cancelButton_$ = $key$$73$$);
   return this
 };
-function $JSCompiler_StaticMethods_addButton$$($JSCompiler_StaticMethods_addButton$self$$, $button$$12$$, $opt_isDefault$$1$$, $opt_isCancel$$1$$) {
-  return $JSCompiler_StaticMethods_addButton$self$$.set($button$$12$$.key, $button$$12$$.caption, $opt_isDefault$$1$$, $opt_isCancel$$1$$)
+function $JSCompiler_StaticMethods_addButton$$($JSCompiler_StaticMethods_addButton$self$$, $button$$15$$, $opt_isDefault$$1$$, $opt_isCancel$$1$$) {
+  return $JSCompiler_StaticMethods_addButton$self$$.set($button$$15$$.key, $button$$15$$.caption, $opt_isDefault$$1$$, $opt_isCancel$$1$$)
 }
 $JSCompiler_prototypeAlias$$.$render$ = function $$JSCompiler_prototypeAlias$$$$render$$() {
   if(this.$element_$) {
     this.$element_$.innerHTML = "";
     var $domHelper$$2$$ = $goog$dom$getDomHelper$$(this.$element_$);
     $goog$structs$forEach$$(this, function($caption$$7$$, $key$$74$$) {
-      var $button$$13$$ = $domHelper$$2$$.$createDom$("button", {name:$key$$74$$}, $caption$$7$$);
-      $key$$74$$ == this.$defaultButton_$ && ($button$$13$$.className = this.$class_$ + "-default");
-      this.$element_$.appendChild($button$$13$$)
+      var $button$$16$$ = $domHelper$$2$$.$createDom$("button", {name:$key$$74$$}, $caption$$7$$);
+      $key$$74$$ == this.$defaultButton_$ && ($button$$16$$.className = this.$class_$ + "-default");
+      this.$element_$.appendChild($button$$16$$)
     }, this)
   }
 };
-$JSCompiler_prototypeAlias$$.$decorate$ = function $$JSCompiler_prototypeAlias$$$$decorate$$($buttons$$2_element$$157$$) {
-  if($buttons$$2_element$$157$$ && 1 == $buttons$$2_element$$157$$.nodeType) {
-    this.$element_$ = $buttons$$2_element$$157$$;
-    $buttons$$2_element$$157$$ = this.$element_$.getElementsByTagName("button");
-    for(var $i$$99$$ = 0, $button$$14$$, $key$$75$$, $caption$$8$$;$button$$14$$ = $buttons$$2_element$$157$$[$i$$99$$];$i$$99$$++) {
-      if($key$$75$$ = $button$$14$$.name || $button$$14$$.id, $caption$$8$$ = $goog$dom$getTextContent$$($button$$14$$) || $button$$14$$.value, $key$$75$$) {
+$JSCompiler_prototypeAlias$$.$decorate$ = function $$JSCompiler_prototypeAlias$$$$decorate$$($buttons$$2_element$$160$$) {
+  if($buttons$$2_element$$160$$ && 1 == $buttons$$2_element$$160$$.nodeType) {
+    this.$element_$ = $buttons$$2_element$$160$$;
+    $buttons$$2_element$$160$$ = this.$element_$.getElementsByTagName("button");
+    for(var $i$$99$$ = 0, $button$$17$$, $key$$75$$, $caption$$8$$;$button$$17$$ = $buttons$$2_element$$160$$[$i$$99$$];$i$$99$$++) {
+      if($key$$75$$ = $button$$17$$.name || $button$$17$$.id, $caption$$8$$ = $goog$dom$getTextContent$$($button$$17$$) || $button$$17$$.value, $key$$75$$) {
         var $isDefault$$ = 0 == $i$$99$$;
-        this.set($key$$75$$, $caption$$8$$, $isDefault$$, $button$$14$$.name == $goog$ui$Dialog$DefaultButtonKeys$CANCEL$$);
-        $isDefault$$ && $goog$dom$classes$add$$($button$$14$$, this.$class_$ + "-default")
+        this.set($key$$75$$, $caption$$8$$, $isDefault$$, $button$$17$$.name == $goog$ui$Dialog$DefaultButtonKeys$CANCEL$$);
+        $isDefault$$ && $goog$dom$classes$add$$($button$$17$$, this.$class_$ + "-default")
       }
     }
   }
@@ -3068,7 +3096,7 @@ function $JSCompiler_StaticMethods_generateContent_$$() {
   return $container$$2$$
 }
 ;function $opt_object$$inline_477$$() {
-  var $dialog$$ = new $georeferencer$imagesearch$Dialog$$, $searchSimilarBttn$$ = new $goog$ui$Button$$("N\u00e1jdi podobn\u00e9");
+  var $dialog$$ = new $georeferencer$imagesearch$Dialog$$, $searchSimilarBttn$$ = new $goog$ui$Button$$("N\u00e1jdi podobn\u00e9", $goog$ui$Css3ButtonRenderer$$.$getInstance$());
   $searchSimilarBttn$$.$render$($goog$isString$$("main-left") ? document.getElementById("main-left") : "main-left");
   $goog$events$listen$$($searchSimilarBttn$$, "action", function() {
     $dialog$$.$setVisible$(!0)
