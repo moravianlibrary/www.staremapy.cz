@@ -2,7 +2,7 @@ goog.provide('georeferencer.umisti.main');
 
 goog.require('goog.asserts');
 goog.require('goog.dom');
-goog.require('goog.dom.classes');
+goog.require('goog.dom.classlist');
 goog.require('goog.ui.Button');
 goog.require('goog.ui.FlatButtonRenderer');
 
@@ -20,7 +20,7 @@ georeferencer.umisti.main = function() {
   var addPointDialog = new georeferencer.umisti.AddPointDialog(goog.dom.getElement('map'));
 
   var addPointCnt = goog.dom.createElement('span');
-  goog.dom.classes.add(addPointCnt, 'icon-target');
+  goog.dom.classlist.add(addPointCnt, 'icon-target');
 
   var addPointBttn = new goog.ui.Button(addPointCnt, goog.ui.FlatButtonRenderer.getInstance());
   addPointBttn.addClassName('addpoint');

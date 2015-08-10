@@ -2,7 +2,7 @@ goog.provide('georeferencer.umisti.AddPointDialog');
 goog.provide('georeferencer.umisti.AddPointDialog.EventType');
 
 goog.require('goog.dom');
-goog.require('goog.dom.classes');
+goog.require('goog.dom.classlist');
 goog.require('goog.dom.selection');
 goog.require('goog.events');
 goog.require('goog.events.KeyCodes');
@@ -164,7 +164,7 @@ georeferencer.umisti.AddPointDialog.prototype.reposition = function() {
 
   // We place the tab catcher at the same position as the dialog to
   // prevent IE from scrolling when users try to tab out of the dialog.
-  goog.style.setPosition(this.tabCatcherElement_, left, top);
+  goog.style.setPosition(this.getTabCatcherElement(), left, top);
 }
 
 /**
@@ -177,9 +177,12 @@ georeferencer.umisti.AddPointDialog.prototype.onShow = function() {
   var inputProj = goog.dom.getElement('input-proj');
   inputNorth.value = '';
   inputEast.value = '';
-  goog.dom.classes.remove(inputNorth, 'goog-error-empty', 'goog-error-format');
-  goog.dom.classes.remove(inputEast, 'goog-error-empty', 'goog-error-format');
-  goog.dom.classes.remove(inputProj, 'goog-error-empty', 'goog-error-format');
+  goog.dom.classlist.remove(inputNorth, 'goog-error-empty');
+  goog.dom.classlist.remove(inputNorth, 'goog-error-format');
+  goog.dom.classlist.remove(inputEast, 'goog-error-empty');
+  goog.dom.classlist.remove(inputEast, 'goog-error-format');
+  goog.dom.classlist.remove(inputProj, 'goog-error-empty');
+  goog.dom.classlist.remove(inputProj, 'goog-error-format');
 }
 
 georeferencer.umisti.AddPointDialog.prototype.validate = function() {
@@ -191,36 +194,39 @@ georeferencer.umisti.AddPointDialog.prototype.validate = function() {
   var coorFormat = new RegExp(/^\s*(-?\d+(\.\d+)?)\s*([°|\s]\s*(\d+(\.\d+)?)?)?\s*(['|\s]\s*(\d+(\.\d+)?)?)?\s*"?\s*$/);
   var projFormat = new RegExp(/^\d+/);
 
-  goog.dom.classes.remove(inputNorth, 'goog-error-empty', 'goog-error-format');
-  goog.dom.classes.remove(inputEast, 'goog-error-empty', 'goog-error-format');
-  goog.dom.classes.remove(inputProj, 'goog-error-empty', 'goog-error-format');
+  goog.dom.classlist.remove(inputNorth, 'goog-error-empty');
+  goog.dom.classlist.remove(inputNorth, 'goog-error-format');
+  goog.dom.classlist.remove(inputEast, 'goog-error-empty');
+  goog.dom.classlist.remove(inputEast, 'goog-error-format');
+  goog.dom.classlist.remove(inputProj, 'goog-error-empty');
+  goog.dom.classlist.remove(inputProj, 'goog-error-format');
 
   if (goog.string.isEmptySafe(inputNorth.value)) {
     valid = false;
-    goog.dom.classes.add(inputNorth, 'goog-error-empty');
+    goog.dom.classlist.add(inputNorth, 'goog-error-empty');
   }
   if (goog.string.isEmptySafe(inputEast.value)) {
     valid = false;
-    goog.dom.classes.add(inputEast, 'goog-error-empty');
+    goog.dom.classlist.add(inputEast, 'goog-error-empty');
   }
   if (goog.string.isEmptySafe(inputProj.value)) {
     valid = false;
-    goog.dom.classes.add(inputProj, 'goog-error-empty');
+    goog.dom.classlist.add(inputProj, 'goog-error-empty');
   }
   if (!goog.string.isEmptySafe(inputNorth.value)
       && !coorFormat.test(inputNorth.value)) {
     valid = false;
-    goog.dom.classes.add(inputNorth, 'goog-error-format');
+    goog.dom.classlist.add(inputNorth, 'goog-error-format');
   }
   if (!goog.string.isEmptySafe(inputEast.value)
       && !coorFormat.test(inputEast.value)) {
     valid = false;
-    goog.dom.classes.add(inputEast, 'goog-error-format');
+    goog.dom.classlist.add(inputEast, 'goog-error-format');
   }
   if (!goog.string.isEmptySafe(inputProj.value)
       && !projFormat.test(inputProj.value)) {
     valid = false;
-    goog.dom.classes.add(inputProj, 'goog-error-format');
+    goog.dom.classlist.add(inputProj, 'goog-error-format');
   }
 
   return valid;
