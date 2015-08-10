@@ -96,7 +96,7 @@ georeferencer.imagesearch.Dialog.prototype.generateResult_ = function(data) {
     a.href = 'http://staremapy.georeferencer.cz/map/' + item['record']['id'];
     var img = goog.dom.createElement('IMG');
     img.src = item['record']['thumbnail'];
-    if (item['record']['metadata']['georeferenced']) {
+    if (!item['record']['metadata']['georeferenced']) {
       goog.dom.classlist.add(wrapper, 'imagesearch-result-nongeoreferenced');
     }
     goog.dom.appendChild(result, wrapper);
