@@ -2,8 +2,10 @@ goog.provide('georeferencer.imagesearch.Dialog');
 
 goog.require('goog.dom');
 goog.require('goog.dom.classlist');
+goog.require('goog.html.SafeHtml');
 goog.require('goog.ui.Checkbox');
 goog.require('goog.ui.Dialog');
+goog.require('goog.html.legacyconversions');
 
 /**
  * @constructor
@@ -18,9 +20,12 @@ georeferencer.imagesearch.Dialog = function() {
    */
   this.georeferencedFilter_ = null;
 
+  var content = this.generateContent_();
+  goog.html.SafeHtml.unwrap(goog.html.legacyconversions.safeHtmlFromString(content));
+
   this.setModal(true);
   this.setTitle('Najít podobnou mapu.');
-  this.setContent(this.generateContent_());
+  this.setContent(content);
 }
 
 goog.inherits(georeferencer.imagesearch.Dialog, goog.ui.Dialog);
