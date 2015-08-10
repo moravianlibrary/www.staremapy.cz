@@ -38,6 +38,9 @@ if (activeItem.innerHTML.trim() == 'Umísti') {
   loadScript('http://staremapy.cz/georeferencer/umisti/main-compiled.js', function() {
     georeferencer.umisti.main();
   });
+  loadScript('http://staremapy.cz/georeferencer/imagesearch/main-compiled.js', function() {
+    georeferencer.imagesearch.main();
+  });
 } else if (activeItem.innerHTML.trim() == 'Analyzuj') {
   loadScript('http://staremapy.cz/georeferencer/analyzuj.js');
 }
