@@ -2,6 +2,7 @@ goog.provide('georeferencer.imagesearch.Dialog');
 
 goog.require('goog.dom');
 goog.require('goog.dom.classlist');
+goog.require('goog.html.SafeHtml');
 goog.require('goog.ui.Checkbox');
 goog.require('goog.ui.Dialog');
 
@@ -20,7 +21,7 @@ georeferencer.imagesearch.Dialog = function() {
 
   this.setModal(true);
   this.setTitle('Najít podobnou mapu.');
-  this.setContent(this.generateContent_());
+  this.setSafeHtmlContent(this.generateContent_());
 }
 
 goog.inherits(georeferencer.imagesearch.Dialog, goog.ui.Dialog);
@@ -35,6 +36,9 @@ georeferencer.imagesearch.Dialog.prototype.enterDocument = function() {
   this.georeferencedFilter_.decorate(goog.dom.getElement('imagesearch-dialog-georeferenced'));
 };
 
+/**
+ * @return {!goog.html.SafeHtml}
+ */
 georeferencer.imagesearch.Dialog.prototype.generateContent_ = function() {
   var dialogContent = goog.dom.createElement('DIV');
 
@@ -53,5 +57,5 @@ georeferencer.imagesearch.Dialog.prototype.generateContent_ = function() {
   goog.dom.appendChild(header, georeferencedFilter);
   goog.dom.appendChild(header, georeferencedFilterLabel);
 
-  return goog.dom.getOuterHtml(dialogContent);
+  return goog.html.SafeHtml.htmlEscape(goog.dom.getOuterHtml(dialogContent));
 }
