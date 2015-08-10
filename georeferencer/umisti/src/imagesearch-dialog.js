@@ -66,7 +66,7 @@ georeferencer.imagesearch.Dialog.prototype.generateContent_ = function(data) {
 
   var header = goog.dom.createElement('DIV');
   var georeferencedFilter = goog.dom.createElement('SPAN');
-  georeferencedFilter.id = 'imagesearch-dialog-nongeoreferenced';
+  georeferencedFilter.id = 'imagesearch-dialog-georeferenced';
   goog.dom.classlist.add(georeferencedFilter, 'goog-checkbox');
   var georeferencedFilterLabel = goog.dom.createElement('SPAN');
   goog.dom.setTextContent(georeferencedFilterLabel, 'Georeferencované');
@@ -97,7 +97,7 @@ georeferencer.imagesearch.Dialog.prototype.generateResult_ = function(data) {
     var img = goog.dom.createElement('IMG');
     img.src = item['record']['thumbnail'];
     if (item['record']['metadata']['georeferenced']) {
-      goog.dom.classlist.add(wrapper, 'imagesearch-result-georeferenced');
+      goog.dom.classlist.add(wrapper, 'imagesearch-result-nongeoreferenced');
     }
     goog.dom.appendChild(result, wrapper);
     goog.dom.appendChild(wrapper, a);
