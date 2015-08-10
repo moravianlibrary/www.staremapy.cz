@@ -2873,7 +2873,7 @@ function $JSCompiler_StaticMethods_generateContent_$$() {
   $georeferencedFilter$$.id = "imagesearch-dialog-georeferenced";
   $goog$dom$classlist$add$$($georeferencedFilter$$, "goog-checkbox-undetermined");
   var $georeferencedFilterLabel$$ = document.createElement("SPAN");
-  $georeferencedFilterLabel$$.$innerHtml$ = "Georeferencovan\u00e9";
+  $georeferencedFilterLabel$$.innerHTML = "Georeferencovan\u00e9";
   var $container$$2$$ = document.createElement("DIV");
   $container$$2$$.id = "imagesearch-dialog-container";
   $dialogContent$$.appendChild($header$$2$$);
