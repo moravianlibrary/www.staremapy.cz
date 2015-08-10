@@ -23,8 +23,8 @@ georeferencer.imagesearch.main = function() {
       var xhr = e.target;
       var json = xhr.getResponseJson();
       var dialog = new georeferencer.imagesearch.Dialog(json['data']);
-      dialog.getElement().id = 'imagesearch-dialog';
       dialog.setVisible(true);
+      dialog.getElement().id = 'imagesearch-dialog';
       georeferencer.imagesearch.hideLoading();
     });
   });
