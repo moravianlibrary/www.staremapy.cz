@@ -31,8 +31,8 @@ goog.inherits(georeferencer.imagesearch.Dialog, goog.ui.Dialog);
 georeferencer.imagesearch.Dialog.prototype.enterDocument = function() {
   goog.base(this, 'enterDocument');
 
-  // this.georeferencedFilter_ = new goog.ui.Checkbox();
-  // this.georeferencedFilter_.decorate(goog.dom.getElement('imagesearch-dialog-georeferenced'));
+  this.georeferencedFilter_ = new goog.ui.Checkbox();
+  this.georeferencedFilter_.decorate(goog.dom.getElement('imagesearch-dialog-georeferenced'));
 };
 
 georeferencer.imagesearch.Dialog.prototype.generateContent_ = function() {
@@ -53,7 +53,5 @@ georeferencer.imagesearch.Dialog.prototype.generateContent_ = function() {
   goog.dom.appendChild(header, georeferencedFilter);
   goog.dom.appendChild(header, georeferencedFilterLabel);
 
-  window.console.log(dialogContent);
-
-  return dialogContent;
+  return goog.dom.getOuterHtml(dialogContent);
 }
