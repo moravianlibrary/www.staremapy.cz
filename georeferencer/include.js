@@ -38,11 +38,12 @@ if (activeItem.innerHTML.trim() == 'Umísti') {
   loadScript('http://staremapy.cz/georeferencer/umisti/main-compiled.js', function() {
     georeferencer.umisti.main();
   });
-  loadScript('http://staremapy.cz/georeferencer/imagesearch/main-compiled.js', function() {
+  loadScript('http://staremapy.cz/georeferencer/imagesearch/imagesearch-compiled.js', function() {
     loadCss('http://staremapy.cz/georeferencer/imagesearch/css/main.css');
     loadCss('http://staremapy.cz/georeferencer/imagesearch/css/button.css');
     loadCss('http://staremapy.cz/georeferencer/imagesearch/css/css3button.css');
     loadCss('http://staremapy.cz/georeferencer/imagesearch/css/dialog.css');
+    loadCss('http://staremapy.cz/georeferencer/imagesearch/css/checkbox.css');
     georeferencer.imagesearch.main();
   });
 } else if (activeItem.innerHTML.trim() == 'Analyzuj') {

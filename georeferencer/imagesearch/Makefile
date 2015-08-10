@@ -1,5 +1,5 @@
 compile:
-	plovr build config.js > main-compiled.js
+	plovr build config.js > imagesearch-compiled.js
 
 clean:
-	rm -f main-compiled.js
+	rm -f imagesearch-compiled.js
