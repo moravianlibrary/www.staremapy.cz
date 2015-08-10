@@ -25,6 +25,7 @@ georeferencer.imagesearch.main = function() {
       var dialog = new georeferencer.imagesearch.Dialog(json['data']);
       dialog.setVisible(true);
       dialog.getElement().id = 'imagesearch-dialog';
+      dialog.reposition();
       georeferencer.imagesearch.hideLoading();
     });
   });
