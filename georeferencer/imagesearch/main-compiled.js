@@ -2880,6 +2880,7 @@ function $JSCompiler_StaticMethods_generateContent_$$() {
   $dialogContent$$.appendChild($container$$2$$);
   $header$$2$$.appendChild($georeferencedFilter$$);
   $header$$2$$.appendChild($georeferencedFilterLabel$$);
+  window.console.log($dialogContent$$);
   return $dialogContent$$
 }
 ;function $opt_object$$inline_440$$() {
