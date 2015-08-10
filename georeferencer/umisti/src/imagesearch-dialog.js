@@ -22,6 +22,7 @@ georeferencer.imagesearch.Dialog = function(data) {
    */
   this.georeferencedFilter_ = null;
 
+  this.setButtonSet(null);
   this.setModal(true);
   this.setTitle('Najít podobnou mapu.');
   this.setContent(this.generateContent_(data));
