@@ -18,12 +18,13 @@ georeferencer.imagesearch.main = function() {
   goog.events.listen(searchSimilarBttn, goog.ui.Component.EventType.ACTION, function(e) {
     georeferencer.imagesearch.showLoading();
 
-    var url = 'http://imagesearch.mzk.cz/v1/searchSimilar?url=' + window['georef']['thumbnail_url'];
+    var url = 'http://imagesearch.mzk.cz/v1/searchSimilar?count=50&url=' + window['georef']['thumbnail_url'];
     goog.net.XhrIo.send(url, function(e) {
       var xhr = e.target;
       var json = xhr.getResponseJson();
       var dialog = new georeferencer.imagesearch.Dialog(json['data']);
       dialog.setVisible(true);
+      georeferencer.imagesearch.hideLoading();
     });
   });
 }
