@@ -42,7 +42,18 @@ georeferencer.imagesearch.Dialog.prototype.enterDocument = function() {
   this.georeferencedFilter_.decorate(goog.dom.getElement('imagesearch-dialog-georeferenced'));
 
   goog.events.listen(this.georeferencedFilter_, goog.ui.Component.EventType.ACTION, function(e) {
-    window.console.log(e);
+    var checkbox = e.target;
+    if (checkbox.getChecked) {
+      var elements = goog.dom.getElementsByClass('imagesearch-result-georeferenced');
+      goog.array.forEach(elements, function(item, i, arr) {
+        item.style.display = 'none';
+      });
+    } else {
+      var elements = goog.dom.getElementsByClass('imagesearch-result-georeferenced');
+      goog.array.forEach(elements, function(item, i, arr) {
+        item.style.display = 'block';
+      });
+    }
   });
 };
 
