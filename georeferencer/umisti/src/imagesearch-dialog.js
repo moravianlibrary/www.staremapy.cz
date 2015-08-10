@@ -1,5 +1,6 @@
 goog.provide('georeferencer.imagesearch.Dialog');
 
+goog.require('goog.array');
 goog.require('goog.dom');
 goog.require('goog.dom.classlist');
 goog.require('goog.html.SafeHtml');
@@ -10,8 +11,9 @@ goog.require('goog.html.legacyconversions');
 /**
  * @constructor
  * @extends {goog.ui.Dialog}
+ * @param {!Array<Object>} data
  */
-georeferencer.imagesearch.Dialog = function() {
+georeferencer.imagesearch.Dialog = function(data) {
   goog.ui.Dialog.call(this);
 
   /**
@@ -20,12 +22,9 @@ georeferencer.imagesearch.Dialog = function() {
    */
   this.georeferencedFilter_ = null;
 
-  var content = this.generateContent_();
-  //goog.html.SafeHtml.unwrap(goog.html.legacyconversions.safeHtmlFromString(content));
-
   this.setModal(true);
   this.setTitle('Najít podobnou mapu.');
-  this.setContent(content);
+  this.setContent(this.generateContent_(data));
 }
 
 goog.inherits(georeferencer.imagesearch.Dialog, goog.ui.Dialog);
@@ -41,9 +40,10 @@ georeferencer.imagesearch.Dialog.prototype.enterDocument = function() {
 };
 
 /**
+ * @param {!Array<Object>} data
  * @return {string}
  */
-georeferencer.imagesearch.Dialog.prototype.generateContent_ = function() {
+georeferencer.imagesearch.Dialog.prototype.generateContent_ = function(data) {
   var dialogContent = goog.dom.createElement('DIV');
 
   var header = goog.dom.createElement('DIV');
@@ -53,7 +53,7 @@ georeferencer.imagesearch.Dialog.prototype.generateContent_ = function() {
   var georeferencedFilterLabel = goog.dom.createElement('SPAN');
   goog.dom.setTextContent(georeferencedFilterLabel, 'Georeferencované');
 
-  var container = goog.dom.createElement('DIV');
+  var container = georeferencer.imagesearch.Dialog.prototype.generateResult_(data);
   container.id = 'imagesearch-dialog-container';
 
   goog.dom.appendChild(dialogContent, header);
@@ -62,4 +62,25 @@ georeferencer.imagesearch.Dialog.prototype.generateContent_ = function() {
   goog.dom.appendChild(header, georeferencedFilterLabel);
 
   return goog.dom.getOuterHtml(dialogContent);
+}
+
+/**
+ * @param {!Array<Object>} data
+ * @return {!Element}
+ */
+georeferencer.imagesearch.Dialog.prototype.generateResult_ = function(data) {
+  var result = goog.dom.createElement('DIV');
+
+  goog.array.forEach(data, function(item, i, arr) {
+    var wrapper = goog.dom.createElement('DIV');
+    goog.dom.classlist.add(wrapper, 'imagesearch-result-wrapper');
+    var a = goog.dom.createElement('A');
+    a.href = 'http://staremapy.georeferencer.cz/map/' + item['record']['id'];
+    var img = goog.dom.createElement('IMG');
+    img.src = item['record']['thumbnail'];
+    goog.dom.appendChild(result, wrapper);
+    goog.dom.appendChild(wrapper, a);
+    goog.dom.appendChild(a, img);
+  });
+  return result;
 }
