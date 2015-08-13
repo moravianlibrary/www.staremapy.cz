@@ -28,7 +28,6 @@ georeferencer.review.labelMap = function(bttn, author, id, institution, value) {
         bttn.className = 'active';
         img.src = 'http://www.staremapy.cz/img/success.png';
         var form = document.getElementById('review-form');
-        georeferencer.review.enableButtons(form.getElementsByTagName('INPUT'), bttn, false);
         georeferencer.review.enableButtons(form.getElementsByTagName('BUTTON'), bttn, false);
       } else {
         img.src = 'http://www.staremapy.cz/img/error.png';
@@ -58,7 +57,6 @@ georeferencer.review.unlabelMap = function(bttn, id, institution) {
         bttn.className = '';
         img.removeAttribute('src');
         var form = document.getElementById('review-form');
-        georeferencer.review.enableButtons(form.getElementsByTagName('INPUT'), null, true);
         georeferencer.review.enableButtons(form.getElementsByTagName('BUTTON'), null, true);
       } else {
         img.src = 'http://www.staremapy.cz/img/error.png';
@@ -87,7 +85,6 @@ georeferencer.review.getLabel = function(bttn, id, value) {
           bttn.className = 'active';
           img.src = 'http://www.staremapy.cz/img/success.png';
           var form = document.getElementById('review-form');
-          georeferencer.review.enableButtons(form.getElementsByTagName('INPUT'), bttn, false);
           georeferencer.review.enableButtons(form.getElementsByTagName('BUTTON'), bttn, false);
         }
       }
