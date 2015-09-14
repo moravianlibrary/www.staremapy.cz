@@ -35,17 +35,17 @@ var headerMenu = window.document.getElementById('header-menu');
 var activeItem = headerMenu.getElementsByClassName('selected')[0];
 
 if (activeItem.innerHTML.trim() == 'Umísti') {
-  loadScript('http://staremapy.cz/georeferencer/umisti/main-compiled.js', function() {
-    loadCss('http://staremapy.cz/css/fonts.css');
-    loadCss('http://staremapy.cz/georeferencer/umisti/css/dialog.css');
-    loadCss('http://staremapy.cz/georeferencer/umisti/css/main.css');
-    loadCss('http://staremapy.cz/georeferencer/umisti/css/button.css');
-    loadCss('http://staremapy.cz/georeferencer/umisti/css/css3button.css');
-    loadCss('http://staremapy.cz/georeferencer/umisti/css/dialog.css');
-    loadCss('http://staremapy.cz/georeferencer/umisti/css/checkbox.css');
-    georeferencer.imagesearch.main();
-    georeferencer.umisti.main();
-  });
+  // loadScript('http://staremapy.cz/georeferencer/umisti/main-compiled.js', function() {
+  //   loadCss('http://staremapy.cz/css/fonts.css');
+  //   loadCss('http://staremapy.cz/georeferencer/umisti/css/dialog.css');
+  //   loadCss('http://staremapy.cz/georeferencer/umisti/css/main.css');
+  //   loadCss('http://staremapy.cz/georeferencer/umisti/css/button.css');
+  //   loadCss('http://staremapy.cz/georeferencer/umisti/css/css3button.css');
+  //   loadCss('http://staremapy.cz/georeferencer/umisti/css/dialog.css');
+  //   loadCss('http://staremapy.cz/georeferencer/umisti/css/checkbox.css');
+  //   georeferencer.imagesearch.main();
+  //   georeferencer.umisti.main();
+  // });
 } else if (activeItem.innerHTML.trim() == 'Analyzuj') {
   loadScript('http://staremapy.cz/georeferencer/analyzuj.js');
 }
