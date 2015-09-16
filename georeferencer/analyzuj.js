@@ -107,7 +107,7 @@ var detectprojBttnOnClick = function() {
             callback();
           }
         } else if (data.status == 'DetectprojError') {
-          alert('Pro tuto mapu nie je možné spočítať projekciu.');
+          alert('Pro tuto mapu nelze projekci spočítat.');
           console.log(data.message);
           document.getElementById('detectproj-loading').style.display = 'none';
           if (timer) {
@@ -117,7 +117,7 @@ var detectprojBttnOnClick = function() {
           this_.checked = false;
           detectprojBttnOnClick.call(this_);
         } else {
-          alert('Někde se stala chyba. Kontaktujte nás, prosím, na mapy@mzk.cz.');
+          alert('Někde se stala chyba. Kontaktujte nás, prosím, na adrese mapy@mzk.cz.');
           console.error(data);
           document.getElementById('detectproj-loading').style.display = 'none';
           if (timer) {
