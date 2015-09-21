@@ -101,9 +101,21 @@ georeferencer.imagesearch.Dialog.prototype.generateResult_ = function(data) {
     if (!item['record']['metadata']['georeferenced']) {
       goog.dom.classlist.add(wrapper, 'imagesearch-result-nongeoreferenced');
     }
+
+    goog.events.listen(wrapper, 'mousemove', georeferencer.imagesearch.Dialog.itemOnMouseMove);
+    goog.events.listen(wrapper, 'mouseout', georeferencer.imagesearch.Dialog.itemOnMouseOut);
+
     goog.dom.appendChild(result, wrapper);
     goog.dom.appendChild(wrapper, a);
     goog.dom.appendChild(a, img);
   });
   return result;
+}
+
+georeferencer.imagesearch.Dialog.itemOnMouseMove = function() {
+  window.console.log('onmousemove');
+}
+
+georeferencer.imagesearch.Dialog.itemOnMouseOut = function() {
+  window.console.log('onmouseout');
 }
