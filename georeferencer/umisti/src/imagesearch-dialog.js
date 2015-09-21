@@ -103,6 +103,8 @@ georeferencer.imagesearch.Dialog.prototype.generateResult_ = function(data) {
   goog.array.forEach(data, function(item, i, arr) {
     var wrapper = goog.dom.createElement('DIV');
     goog.dom.classlist.add(wrapper, 'imagesearch-result-wrapper');
+    var overlay = goog.dom.createElement('DIV');
+    goog.dom.classlist.add(overlay, 'imagesearch-result-overlay');
     var a = goog.dom.createElement('A');
     a.href = 'http://staremapy.georeferencer.cz/map/' + item['record']['id'];
     var img = goog.dom.createElement('IMG');
@@ -111,6 +113,7 @@ georeferencer.imagesearch.Dialog.prototype.generateResult_ = function(data) {
       goog.dom.classlist.add(wrapper, 'imagesearch-result-nongeoreferenced');
     }
     goog.dom.appendChild(result, wrapper);
+    goog.dom.appendChild(wrapper, overlay);
     goog.dom.appendChild(wrapper, a);
     goog.dom.appendChild(a, img);
   });
