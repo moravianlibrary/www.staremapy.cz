@@ -10,5 +10,8 @@
     "deprecated": "ERROR",
     "checkTypes": "ERROR",
     "nonStandardJsDocs": "WARNING"
-  }
+  },
+  "externs": [
+    "externs/georeferencer.js"
+  ]
 }

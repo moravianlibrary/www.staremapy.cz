@@ -27,6 +27,7 @@ georeferencer.umisti.main = function() {
   goog.events.listen(addPointDialog, georeferencer.umisti.AddPointDialog.EventType.SELECT, function (e) {
     georeferencer.umisti.transform(e['east'], e['north'], e['proj'], function(data) {
       window.alert('X: ' + data['x'] + ', Y: ' + data['y']);
+      addPoint(data['y'], data['x']);
     });
   });
 
