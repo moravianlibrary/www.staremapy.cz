@@ -103,6 +103,7 @@ georeferencer.imagesearch.Dialog.prototype.generateResult_ = function(data) {
   goog.array.forEach(data, function(item, i, arr) {
     var wrapper = goog.dom.createElement('DIV');
     goog.dom.classlist.add(wrapper, 'imagesearch-result-wrapper');
+    wrapper.setAttribute('data-georefid', item['record']['id']);
     var overlay = goog.dom.createElement('DIV');
     goog.dom.classlist.add(overlay, 'imagesearch-result-overlay');
 
