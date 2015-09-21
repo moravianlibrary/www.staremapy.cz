@@ -5,6 +5,7 @@ goog.require('goog.dom');
 goog.require('goog.dom.classlist');
 goog.require('goog.events');
 goog.require('goog.html.SafeHtml');
+goog.require('goog.json');
 goog.require('goog.net.XhrIo');
 goog.require('goog.ui.Component.EventType');
 goog.require('goog.ui.Checkbox');
@@ -68,10 +69,14 @@ georeferencer.imagesearch.Dialog.prototype.enterDocument = function() {
       this_.showLoading_();
 
       goog.net.XhrIo.send(url, function(e) {
+        this_.hideLoading_();
         var xhr = e.target;
         var json = xhr.getResponseJson();
-        window.console.log(json);
-        this_.hideLoading_();
+        if (json['status'] == 'ok') {
+          this_.post_('', {'control_points': goog.json.serialize(json['control_points'])});
+        } else {
+          window.alert(json['message']);
+        }
       });
     });
   })
@@ -131,8 +136,6 @@ georeferencer.imagesearch.Dialog.prototype.generateResult_ = function(data) {
       goog.dom.appendChild(overlay, overlayAutogeoref);
     }
 
-    // var a = goog.dom.createElement('A');
-    // a.href = 'http://staremapy.georeferencer.cz/map/' + item['record']['id'];
     var img = goog.dom.createElement('IMG');
     img.src = item['record']['thumbnail'];
     if (!item['record']['metadata']['georeferenced']) {
@@ -141,7 +144,6 @@ georeferencer.imagesearch.Dialog.prototype.generateResult_ = function(data) {
     goog.dom.appendChild(result, wrapper);
     goog.dom.appendChild(wrapper, overlay);
     goog.dom.appendChild(wrapper, img);
-    //goog.dom.appendChild(a, img);
   });
   return result;
 }
@@ -160,4 +162,24 @@ georeferencer.imagesearch.Dialog.prototype.showLoading_ = function() {
 georeferencer.imagesearch.Dialog.prototype.hideLoading_ = function() {
   var loader = goog.dom.getElement('imagesearch-loader');
   loader.style.display = 'none'
+}
+
+georeferencer.imagesearch.Dialog.prototype.post_ = function(url, params) {
+  var form = document.createElement("form");
+  form.setAttribute("method", 'post');
+  form.setAttribute("action", url);
+
+  for(var key in params) {
+      if(params.hasOwnProperty(key)) {
+          var hiddenField = document.createElement("input");
+          hiddenField.setAttribute("type", "hidden");
+          hiddenField.setAttribute("name", key);
+          hiddenField.setAttribute("value", params[key]);
+
+          form.appendChild(hiddenField);
+       }
+  }
+
+  document.body.appendChild(form);
+  form.submit();
 }
