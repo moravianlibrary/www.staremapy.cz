@@ -57,8 +57,8 @@ georeferencer.imagesearch.Dialog.prototype.enterDocument = function() {
   });
 
   goog.array.forEach(goog.dom.getElementsByClass('imagesearch-result-wrapper'), function(element, i, a) {
-    goog.events.listen(element, 'mousemove', function(e) {
-      window.console.log('mousemove');
+    goog.events.listen(element, 'mouseover', function(e) {
+      window.console.log('mouseover');
     });
     goog.events.listen(element, 'mouseout', function(e) {
       window.console.log('mouseout');
