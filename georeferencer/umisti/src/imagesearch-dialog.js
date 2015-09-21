@@ -118,8 +118,8 @@ georeferencer.imagesearch.Dialog.prototype.generateResult_ = function(data) {
       goog.dom.appendChild(overlay, overlayAutogeoref);
     }
 
-    var a = goog.dom.createElement('A');
-    a.href = 'http://staremapy.georeferencer.cz/map/' + item['record']['id'];
+    // var a = goog.dom.createElement('A');
+    // a.href = 'http://staremapy.georeferencer.cz/map/' + item['record']['id'];
     var img = goog.dom.createElement('IMG');
     img.src = item['record']['thumbnail'];
     if (!item['record']['metadata']['georeferenced']) {
@@ -127,8 +127,8 @@ georeferencer.imagesearch.Dialog.prototype.generateResult_ = function(data) {
     }
     goog.dom.appendChild(result, wrapper);
     goog.dom.appendChild(wrapper, overlay);
-    goog.dom.appendChild(wrapper, a);
-    goog.dom.appendChild(a, img);
+    goog.dom.appendChild(wrapper, img);
+    //goog.dom.appendChild(a, img);
   });
   return result;
 }
