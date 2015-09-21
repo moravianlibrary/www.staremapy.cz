@@ -96,8 +96,10 @@
   text-align: right;
   padding-right: 20px;
   font-size: 40px;
-  color: white;
+  color: white !important;
   cursor: pointer;
+  text-decoration: none;
+  outline: none;
 }
 
 .imagesearch-result-overlay-autogeoref {
@@ -108,6 +110,7 @@
   font-size: 40px;
   color: white;
   cursor: pointer;
+  outline: none;
 }
 
 .imagesearch-result-nongeoreferenced .imagesearch-result-overlay-open {
@@ -116,5 +119,5 @@
 }
 
 .imagesearch-result-overlay-open:hover, .imagesearch-result-overlay-autogeoref:hover {
-  color: orange;
+  color: orange !important;
 }
