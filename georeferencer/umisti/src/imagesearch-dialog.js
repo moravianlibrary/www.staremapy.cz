@@ -5,6 +5,7 @@ goog.require('goog.dom');
 goog.require('goog.dom.classlist');
 goog.require('goog.events');
 goog.require('goog.html.SafeHtml');
+goog.require('goog.net.XhrIo');
 goog.require('goog.ui.Component.EventType');
 goog.require('goog.ui.Checkbox');
 goog.require('goog.ui.Dialog');
@@ -56,11 +57,11 @@ georeferencer.imagesearch.Dialog.prototype.enterDocument = function() {
     }
   });
 
-  goog.array.forEach(goog.dom.getElementsByClass('imagesearch-result-overlay-open'), function(element, i, a) {
+  goog.array.forEach(goog.dom.getElementsByClass('imagesearch-result-overlay-autogeoref'), function(element, i, a) {
     goog.events.listen(element, 'click', function(e) {
-      // var wrapper = this.parentElement.parentElement;
-      // var georefid = wrapper.getAttribute('georefid');
-      // window.open('http://staremapy.georeferencer.cz/map/' + georefid);
+      var wrapper = this.parentElement.parentElement;
+      var georefid = wrapper.getAttribute('georefid');
+      window.console.log(georefid);
     });
   })
 
