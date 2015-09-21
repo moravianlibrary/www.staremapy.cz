@@ -1,0 +1,32 @@
+#georeferencer-imagesearch-find-similar {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  z-index: 10000;
+  padding: 7px 8px;
+  font-size: 11px;
+  font-weight: bold;
+  vertical-align: middle;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.goog-flat-button.addpoint {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 17px;
+  top: 130px;
+  font-size: 22px;
+  color: white;
+  background-color: rgb(145, 143, 134);
+  text-align: center;
+  line-height: 33px;
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  transition: opacity 0.2s linear 0s;
+  opacity: 1;
+  z-index: 1000;
+  cursor: pointer;
+}

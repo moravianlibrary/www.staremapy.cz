@@ -43,6 +43,11 @@ if (activeItem.innerHTML.trim() == 'Umísti') {
     loadCss('http://staremapy.cz/georeferencer/umisti/css/css3button.css');
     loadCss('http://staremapy.cz/georeferencer/umisti/css/dialog.css');
     loadCss('http://staremapy.cz/georeferencer/umisti/css/checkbox.css');
+    if (window.location.href.indexOf('staremapy')) {
+      loadCss('http://staremapy.cz/georeferencer/umisti/css/staremapy.css');
+    } else {
+      loadCss('http://staremapy.cz/georeferencer/umisti/css/review.css');
+    }
     georeferencer.imagesearch.main();
     georeferencer.umisti.main();
   });
