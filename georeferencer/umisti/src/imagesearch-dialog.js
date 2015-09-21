@@ -60,7 +60,7 @@ georeferencer.imagesearch.Dialog.prototype.enterDocument = function() {
   goog.array.forEach(goog.dom.getElementsByClass('imagesearch-result-overlay-autogeoref'), function(element, i, a) {
     goog.events.listen(element, 'click', function(e) {
       var wrapper = this.parentElement.parentElement;
-      var georefid = wrapper.getAttribute('georefid');
+      var georefid = wrapper.getAttribute('data-georefid');
       window.console.log(georefid);
     });
   })
