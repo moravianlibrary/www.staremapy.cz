@@ -56,12 +56,11 @@ georeferencer.imagesearch.Dialog.prototype.enterDocument = function() {
     }
   });
 
-  goog.array.forEach(goog.dom.getElementsByClass('imagesearch-result-wrapper'), function(element, i, a) {
-    goog.events.listen(element, 'mouseover', function(e) {
-      window.console.log('mouseover');
-    });
-    goog.events.listen(element, 'mouseout', function(e) {
-      window.console.log('mouseout');
+  goog.array.forEach(goog.dom.getElementsByClass('imagesearch-result-overlay-open'), function(element, i, a) {
+    goog.events.listen(element, 'click', function(e) {
+      // var wrapper = this.parentElement.parentElement;
+      // var georefid = wrapper.getAttribute('georefid');
+      // window.open('http://staremapy.georeferencer.cz/map/' + georefid);
     });
   })
 
@@ -107,7 +106,8 @@ georeferencer.imagesearch.Dialog.prototype.generateResult_ = function(data) {
     var overlay = goog.dom.createElement('DIV');
     goog.dom.classlist.add(overlay, 'imagesearch-result-overlay');
 
-    var overlayOpen = goog.dom.createElement('SPAN');
+    var overlayOpen = goog.dom.createElement('A');
+    overlayOpen.href = 'http://staremapy.georeferencer.cz/map/' + item['record']['id'];
     goog.dom.classlist.add(overlayOpen, 'imagesearch-result-overlay-open');
     goog.dom.classlist.add(overlayOpen, 'icon-folder-open');
 
