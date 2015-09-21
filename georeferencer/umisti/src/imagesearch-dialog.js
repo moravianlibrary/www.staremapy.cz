@@ -55,6 +55,8 @@ georeferencer.imagesearch.Dialog.prototype.enterDocument = function() {
       });
     }
   });
+
+  this.georeferencedFilter_.setChecked(true);
 };
 
 /**
@@ -70,10 +72,6 @@ georeferencer.imagesearch.Dialog.prototype.generateContent_ = function(data) {
   goog.dom.classlist.add(georeferencedFilter, 'goog-checkbox');
   var georeferencedFilterLabel = goog.dom.createElement('SPAN');
   goog.dom.setTextContent(georeferencedFilterLabel, 'Georeferencované');
-
-  // goog.events.listen(georeferencedFilter, 'click', function(e) {
-  //   window.console.log(e);
-  // });
 
   var container = this.generateResult_(data);
   container.id = 'imagesearch-dialog-container';
