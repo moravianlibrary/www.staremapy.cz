@@ -105,6 +105,19 @@ georeferencer.imagesearch.Dialog.prototype.generateResult_ = function(data) {
     goog.dom.classlist.add(wrapper, 'imagesearch-result-wrapper');
     var overlay = goog.dom.createElement('DIV');
     goog.dom.classlist.add(overlay, 'imagesearch-result-overlay');
+
+    var overlayOpen = goog.dom.createElement('SPAN');
+    goog.dom.classlist.add(overlayOpen, 'imagesearch-result-overlay-open');
+    goog.dom.classlist.add(overlayOpen, 'icon-folder-open');
+
+    goog.dom.appendChild(overlay, overlayOpen);
+    if (item['record']['metadata']['georeferenced']) {
+      var overlayAutogeoref = goog.dom.createElement('SPAN');
+      goog.dom.classlist.add(overlayAutogeoref, 'imagesearch-result-overlay-autogeoref');
+      goog.dom.classlist.add(overlayAutogeoref, 'icon-target');
+      goog.dom.appendChild(overlay, overlayAutogeoref);
+    }
+
     var a = goog.dom.createElement('A');
     a.href = 'http://staremapy.georeferencer.cz/map/' + item['record']['id'];
     var img = goog.dom.createElement('IMG');
