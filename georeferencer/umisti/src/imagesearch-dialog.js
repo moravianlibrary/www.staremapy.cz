@@ -58,10 +58,21 @@ georeferencer.imagesearch.Dialog.prototype.enterDocument = function() {
   });
 
   goog.array.forEach(goog.dom.getElementsByClass('imagesearch-result-overlay-autogeoref'), function(element, i, a) {
+    var this_ = this;
     goog.events.listen(element, 'click', function(e) {
       var wrapper = this.parentElement.parentElement;
-      var georefid = wrapper.getAttribute('data-georefid');
-      window.console.log(georefid);
+      var georeferenced = wrapper.getAttribute('data-georefid');
+      var similar = window['georef']['name'] + '/' + window['georef']['version'];
+      var url = "http://autogeoreference.mzk.cz/v1/autogeoreference?georeferenced=" + georeferenced + "&similar=" + similar;
+
+      this_.showLoading_();
+
+      goog.net.XhrIo.send(url, function(e) {
+        var xhr = e.target;
+        var json = xhr.getResponseJson();
+        window.console.log(json);
+        this_.hideLoading_();
+      });
     });
   })
 
@@ -135,10 +146,18 @@ georeferencer.imagesearch.Dialog.prototype.generateResult_ = function(data) {
   return result;
 }
 
-georeferencer.imagesearch.Dialog.itemOnMouseMove = function() {
-  window.console.log('onmousemove');
+georeferencer.imagesearch.Dialog.prototype.showLoading_ = function() {
+  var loader = goog.dom.getElement('imagesearch-loader');
+  if (loader) {
+    loader.style.display = 'block';
+  } else {
+    loader = goog.dom.createElement('DIV');
+    loader.id = 'imagesearch-loader';
+    goog.dom.appendChild(document.body, loader);
+  }
 }
 
-georeferencer.imagesearch.Dialog.itemOnMouseOut = function() {
-  window.console.log('onmouseout');
+georeferencer.imagesearch.Dialog.prototype.hideLoading_ = function() {
+  var loader = goog.dom.getElement('imagesearch-loader');
+  loader.style.display = 'none'
 }
