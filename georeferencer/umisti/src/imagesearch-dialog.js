@@ -71,7 +71,11 @@ georeferencer.imagesearch.Dialog.prototype.generateContent_ = function(data) {
   var georeferencedFilterLabel = goog.dom.createElement('SPAN');
   goog.dom.setTextContent(georeferencedFilterLabel, 'Georeferencované');
 
-  var container = georeferencer.imagesearch.Dialog.prototype.generateResult_(data);
+  goog.events.listen(georeferencedFilter, 'click', function(e) {
+    window.console.log(e);
+  });
+
+  var container = this.generateResult_(data);
   container.id = 'imagesearch-dialog-container';
 
   goog.dom.appendChild(dialogContent, header);
