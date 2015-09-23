@@ -73,7 +73,7 @@ georeferencer.imagesearch.Dialog.prototype.enterDocument = function() {
         var xhr = e.target;
         var json = xhr.getResponseJson();
         if (json['status'] == 'ok') {
-          this_.post_('', {'control_points': goog.json.serialize(json['control_points'])});
+          this_.post_('', {'control_points': goog.json.serialize(json['control_points']), 'cutline': goog.json.serialize(window['georef']['cutline'])});
         } else {
           window.alert(json['message']);
         }
