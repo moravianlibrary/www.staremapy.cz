@@ -10,7 +10,7 @@ goog.require('goog.ui.Css3ButtonRenderer');
 goog.require('georeferencer.imagesearch.Dialog');
 
 georeferencer.imagesearch.main = function() {
-  var searchSimilarBttn = new goog.ui.Button('Nájdi podobné', goog.ui.Css3ButtonRenderer.getInstance());
+  var searchSimilarBttn = new goog.ui.Button('Najdi podobné', goog.ui.Css3ButtonRenderer.getInstance());
 
   searchSimilarBttn.render(goog.dom.getElement('main-left'));
   searchSimilarBttn.getElement().id = 'georeferencer-imagesearch-find-similar';
