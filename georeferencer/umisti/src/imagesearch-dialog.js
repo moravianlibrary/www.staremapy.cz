@@ -13,6 +13,8 @@ goog.require('goog.ui.Checkbox');
 goog.require('goog.ui.Dialog');
 goog.require('goog.html.legacyconversions');
 
+goog.require('georeferencer.imagesearch.tools');
+
 /**
  * @constructor
  * @extends {goog.ui.Dialog}
@@ -69,15 +71,16 @@ georeferencer.imagesearch.Dialog.prototype.enterDocument = function() {
       var similar = window['georef']['name'] + '/' + window['georef']['version'];
       var url = "http://autogeoreference.mzk.cz/v1/autogeoreference?georeferenced=" + georeferenced + "&similar=" + similar;
 
-      this_.showLoading_();
+      georeferencer.imagesearch.tools.showLoading();
 
       goog.net.XhrIo.send(url, function(e) {
         var xhr = e.target;
         var json = xhr.getResponseJson();
         if (json['status'] == 'ok') {
           goog.net.cookies.set("georeferencer.imagesearch.cancel", "true", -1, "/");
-          this_.post_('', {'control_points': goog.json.serialize(json['control_points']), 'cutline': goog.json.serialize(window['georef']['cutline'])});
+          georeferencer.imagesearch.tools.post('', {'control_points': goog.json.serialize(json['control_points']), 'cutline': goog.json.serialize(window['georef']['cutline'])});
         } else {
+          georeferencer.imagesearch.tools.hideLoading();
           window.alert(json['message']);
         }
       });
@@ -179,39 +182,3 @@ georeferencer.imagesearch.Dialog.prototype.generateContent_ = function(data) {
    });
    return result;
  }
-
-georeferencer.imagesearch.Dialog.prototype.showLoading_ = function() {
-  var loader = goog.dom.getElement('imagesearch-loader');
-  if (loader) {
-    loader.style.display = 'block';
-  } else {
-    loader = goog.dom.createElement('DIV');
-    loader.id = 'imagesearch-loader';
-    goog.dom.appendChild(document.body, loader);
-  }
-}
-
-georeferencer.imagesearch.Dialog.prototype.hideLoading_ = function() {
-  var loader = goog.dom.getElement('imagesearch-loader');
-  loader.style.display = 'none'
-}
-
-georeferencer.imagesearch.Dialog.prototype.post_ = function(url, params) {
-  var form = document.createElement("form");
-  form.setAttribute("method", 'post');
-  form.setAttribute("action", url);
-
-  for(var key in params) {
-      if(params.hasOwnProperty(key)) {
-          var hiddenField = document.createElement("input");
-          hiddenField.setAttribute("type", "hidden");
-          hiddenField.setAttribute("name", key);
-          hiddenField.setAttribute("value", params[key]);
-
-          form.appendChild(hiddenField);
-       }
-  }
-
-  document.body.appendChild(form);
-  form.submit();
-}

@@ -9,6 +9,7 @@ goog.require('goog.ui.Component.EventType');
 goog.require('goog.ui.Css3ButtonRenderer');
 
 goog.require('georeferencer.imagesearch.Dialog');
+goog.require('georeferencer.imagesearch.tools');
 
 georeferencer.imagesearch.main = function() {
   var searchSimilarBttn = new goog.ui.Button('NAJDI PODOBNÉ', goog.ui.Css3ButtonRenderer.getInstance());
@@ -22,6 +23,9 @@ georeferencer.imagesearch.main = function() {
     cancelBttn.render(goog.dom.getElement('main-left'));
     cancelBttn.getElement().id = 'georeferencer-imagesearch-cancel';
     goog.net.cookies.set("georeferencer.imagesearch.cancel", "false", -1, "/");
+    goog.events.listen(cancelBttn, goog.ui.Component.EventType.ACTION, function(e) {
+      window.console.log('cancel');
+    });
   }
 
   goog.events.listen(searchSimilarBttn, goog.ui.Component.EventType.ACTION, function(e) {
@@ -29,7 +33,7 @@ georeferencer.imagesearch.main = function() {
     if (dialog) {
       dialog.setVisible(true);
     } else {
-      georeferencer.imagesearch.showLoading();
+      georeferencer.imagesearch.tools.showLoading();
       var url = 'http://imagesearch.mzk.cz/v1/searchSimilar?count=30&url=' + window['georef']['thumbnail_url'];
       goog.net.XhrIo.send(url, function(e) {
         var xhr = e.target;
@@ -38,27 +42,11 @@ georeferencer.imagesearch.main = function() {
         dialog.setVisible(true);
         dialog.getElement().id = 'imagesearch-dialog';
         dialog.reposition();
-        georeferencer.imagesearch.hideLoading();
+        georeferencer.imagesearch.tools.hideLoading();
       });
     }
 
   });
-}
-
-georeferencer.imagesearch.showLoading = function() {
-  var loader = goog.dom.getElement('imagesearch-loader');
-  if (loader) {
-    loader.style.display = 'block';
-  } else {
-    loader = goog.dom.createElement('DIV');
-    loader.id = 'imagesearch-loader';
-    goog.dom.appendChild(document.body, loader);
-  }
-}
-
-georeferencer.imagesearch.hideLoading = function() {
-  var loader = goog.dom.getElement('imagesearch-loader');
-  loader.style.display = 'none'
 }
 
 goog.exportSymbol('georeferencer.imagesearch.main', georeferencer.imagesearch.main);
