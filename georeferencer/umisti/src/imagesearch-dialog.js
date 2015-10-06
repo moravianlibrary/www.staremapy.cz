@@ -130,40 +130,54 @@ georeferencer.imagesearch.Dialog.prototype.generateContent_ = function(data) {
  * @param {!Array<Object>} data
  * @return {!Element}
  */
-georeferencer.imagesearch.Dialog.prototype.generateResult_ = function(data) {
-  var result = goog.dom.createElement('DIV');
+ georeferencer.imagesearch.Dialog.prototype.generateResult_ = function(data) {
+   var result = goog.dom.createElement('DIV');
 
-  goog.array.forEach(data, function(item, i, arr) {
-    var wrapper = goog.dom.createElement('DIV');
-    goog.dom.classlist.add(wrapper, 'imagesearch-result-wrapper');
-    wrapper.setAttribute('data-georefid', item['record']['id']);
-    var overlay = goog.dom.createElement('DIV');
-    goog.dom.classlist.add(overlay, 'imagesearch-result-overlay');
+   goog.array.forEach(data, function(item, i, arr) {
+     var wrapper = goog.dom.createElement('DIV');
+     goog.dom.classlist.add(wrapper, 'imagesearch-result-wrapper');
+     wrapper.setAttribute('data-georefid', item['record']['id']);
+     var overlay = goog.dom.createElement('DIV');
+     goog.dom.classlist.add(overlay, 'imagesearch-result-overlay');
 
-    var overlayOpen = goog.dom.createElement('A');
-    overlayOpen.href = 'http://staremapy.georeferencer.cz/map/' + item['record']['id'];
-    goog.dom.classlist.add(overlayOpen, 'imagesearch-result-overlay-open');
-    goog.dom.classlist.add(overlayOpen, 'icon-folder-open');
+     var overlayOpenContainer = goog.dom.createElement('A');
+     overlayOpenContainer.href = 'http://staremapy.georeferencer.cz/map/' + item['record']['id'];
+     goog.dom.classlist.add(overlayOpenContainer, 'imagesearch-result-overlay-open');
+     var overlayOpenIcon = goog.dom.createElement('DIV');
+     goog.dom.classlist.add(overlayOpenIcon, 'imagesearch-result-overlay-open-icon');
+     var overlayOpenText = goog.dom.createElement('DIV');
+     overlayOpenText.innerHTML = 'ZOBRAZIT';
+     goog.dom.classlist.add(overlayOpenText, 'imagesearch-result-overlay-open-text');
 
-    goog.dom.appendChild(overlay, overlayOpen);
-    if (item['record']['metadata']['georeferenced']) {
-      var overlayAutogeoref = goog.dom.createElement('SPAN');
-      goog.dom.classlist.add(overlayAutogeoref, 'imagesearch-result-overlay-autogeoref');
-      goog.dom.classlist.add(overlayAutogeoref, 'icon-target');
-      goog.dom.appendChild(overlay, overlayAutogeoref);
-    }
+     goog.dom.appendChild(overlayOpenContainer, overlayOpenIcon);
+     goog.dom.appendChild(overlayOpenContainer, overlayOpenText);
+     goog.dom.appendChild(overlay, overlayOpenContainer);
 
-    var img = goog.dom.createElement('IMG');
-    img.src = item['record']['thumbnail'];
-    if (!item['record']['metadata']['georeferenced']) {
-      goog.dom.classlist.add(wrapper, 'imagesearch-result-nongeoreferenced');
-    }
-    goog.dom.appendChild(result, wrapper);
-    goog.dom.appendChild(wrapper, overlay);
-    goog.dom.appendChild(wrapper, img);
-  });
-  return result;
-}
+     if (item['record']['metadata']['georeferenced']) {
+       var overlayAutogeorefContainer = goog.dom.createElement('SPAN');
+       goog.dom.classlist.add(overlayAutogeorefContainer, 'imagesearch-result-overlay-autogeoref');
+       var overlayAutogeorefIcon = goog.dom.createElement('DIV');
+       goog.dom.classlist.add(overlayAutogeorefIcon, 'imagesearch-result-overlay-autogeoref-icon');
+       var overlayAutogeorefText = goog.dom.createElement('DIV');
+       overlayAutogeorefText.innerHTML = 'PŘEVZÍT BODY';
+       goog.dom.classlist.add(overlayAutogeorefText, 'imagesearch-result-overlay-autogeoref-text');
+
+       goog.dom.appendChild(overlayAutogeorefContainer, overlayAutogeorefIcon);
+       goog.dom.appendChild(overlayAutogeorefContainer, overlayAutogeorefText);
+       goog.dom.appendChild(overlay, overlayAutogeorefContainer);
+     }
+
+     var img = goog.dom.createElement('IMG');
+     img.src = item['record']['thumbnail'];
+     if (!item['record']['metadata']['georeferenced']) {
+       goog.dom.classlist.add(wrapper, 'imagesearch-result-nongeoreferenced');
+     }
+     goog.dom.appendChild(result, wrapper);
+     goog.dom.appendChild(wrapper, overlay);
+     goog.dom.appendChild(wrapper, img);
+   });
+   return result;
+ }
 
 georeferencer.imagesearch.Dialog.prototype.showLoading_ = function() {
   var loader = goog.dom.getElement('imagesearch-loader');
