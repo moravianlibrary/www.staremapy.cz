@@ -21,7 +21,7 @@ georeferencer.imagesearch.main = function() {
     var cancelBttn = new goog.ui.Button('ZRUŠIT', goog.ui.Css3ButtonRenderer.getInstance());
     cancelBttn.render(goog.dom.getElement('main-left'));
     cancelBttn.getElement().id = 'georeferencer-imagesearch-cancel';
-    goog.net.cookies.set("georeferencer.imagesearch.cancel", "false");
+    goog.net.cookies.set("georeferencer.imagesearch.cancel", "false", -1, "/");
   }
 
   goog.events.listen(searchSimilarBttn, goog.ui.Component.EventType.ACTION, function(e) {
