@@ -39,9 +39,9 @@ goog.inherits(georeferencer.imagesearch.Dialog, goog.ui.Dialog);
  */
 georeferencer.imagesearch.Dialog.prototype.enterDocument = function() {
   goog.base(this, 'enterDocument');
-  window.console.log('enterDocument');
 
   if (!this.georeferencedFilter_) {
+    window.console.log('enterDocument');
     this.georeferencedFilter_ = new goog.ui.Checkbox();
     this.georeferencedFilter_.decorate(goog.dom.getElement('imagesearch-dialog-georeferenced'));
 
