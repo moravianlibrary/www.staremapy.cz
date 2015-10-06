@@ -15,9 +15,8 @@ goog.require('goog.html.legacyconversions');
 /**
  * @constructor
  * @extends {goog.ui.Dialog}
- * @param {!Array<Object>} data
  */
-georeferencer.imagesearch.Dialog = function(data) {
+georeferencer.imagesearch.Dialog = function() {
   goog.ui.Dialog.call(this);
 
   /**
@@ -29,10 +28,16 @@ georeferencer.imagesearch.Dialog = function(data) {
   this.setButtonSet(null);
   this.setModal(true);
   this.setTitle('Najít podobnou mapu.');
-  this.setContent(this.generateContent_(data));
 }
 
 goog.inherits(georeferencer.imagesearch.Dialog, goog.ui.Dialog);
+
+/**
+ * @param {!Array<Object>} data
+ */
+georeferencer.imagesearch.Dialog.prototype.setData = function(data) {
+  this.setContent(this.generateContent_(data));
+}
 
 /**
  * @override
