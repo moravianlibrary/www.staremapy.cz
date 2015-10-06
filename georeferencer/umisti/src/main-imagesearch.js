@@ -17,20 +17,23 @@ georeferencer.imagesearch.main = function() {
   searchSimilarBttn.getElement().id = 'georeferencer-imagesearch-find-similar';
 
   goog.events.listen(searchSimilarBttn, goog.ui.Component.EventType.ACTION, function(e) {
-    georeferencer.imagesearch.showLoading();
 
-    var url = 'http://imagesearch.mzk.cz/v1/searchSimilar?count=30&url=' + window['georef']['thumbnail_url'];
-    goog.net.XhrIo.send(url, function(e) {
-      var xhr = e.target;
-      var json = xhr.getResponseJson();
-      if (!dialog) {
-        dialog = new georeferencer.imagesearch.Dialog(json['data']);
-      }
+    if (dialog) {
       dialog.setVisible(true);
-      dialog.getElement().id = 'imagesearch-dialog';
-      dialog.reposition();
-      georeferencer.imagesearch.hideLoading();
-    });
+    } else {
+      georeferencer.imagesearch.showLoading();
+      var url = 'http://imagesearch.mzk.cz/v1/searchSimilar?count=30&url=' + window['georef']['thumbnail_url'];
+      goog.net.XhrIo.send(url, function(e) {
+        var xhr = e.target;
+        var json = xhr.getResponseJson();
+        dialog = new georeferencer.imagesearch.Dialog(json['data']);
+        dialog.setVisible(true);
+        dialog.getElement().id = 'imagesearch-dialog';
+        dialog.reposition();
+        georeferencer.imagesearch.hideLoading();
+      });
+    }
+
   });
 }
 
