@@ -39,28 +39,26 @@ goog.inherits(georeferencer.imagesearch.Dialog, goog.ui.Dialog);
  */
 georeferencer.imagesearch.Dialog.prototype.enterDocument = function() {
   goog.base(this, 'enterDocument');
+  window.console.log('enterDocument');
 
-  if (!this.georeferencedFilter_) {
-    window.console.log('enterDocument');
-    this.georeferencedFilter_ = new goog.ui.Checkbox();
-    this.georeferencedFilter_.decorate(goog.dom.getElement('imagesearch-dialog-georeferenced'));
+  this.georeferencedFilter_ = new goog.ui.Checkbox();
+  this.georeferencedFilter_.decorate(goog.dom.getElement('imagesearch-dialog-georeferenced'));
 
-    goog.events.listen(this.georeferencedFilter_, goog.ui.Component.EventType.ACTION, function(e) {
-      var checkbox = e.target;
-      if (!checkbox.getChecked()) {
-        var elements = goog.dom.getElementsByClass('imagesearch-result-nongeoreferenced');
-        goog.array.forEach(elements, function(item, i, arr) {
-          item.style.display = 'none';
-        });
-      } else {
-        var elements = goog.dom.getElementsByClass('imagesearch-result-nongeoreferenced');
-        goog.array.forEach(elements, function(item, i, arr) {
-          item.style.display = 'inline-block';
-        });
-      }
-    });
-    this.georeferencedFilter_.setChecked(true);
-  }
+  goog.events.listen(this.georeferencedFilter_, goog.ui.Component.EventType.ACTION, function(e) {
+    var checkbox = e.target;
+    if (!checkbox.getChecked()) {
+      var elements = goog.dom.getElementsByClass('imagesearch-result-nongeoreferenced');
+      goog.array.forEach(elements, function(item, i, arr) {
+        item.style.display = 'none';
+      });
+    } else {
+      var elements = goog.dom.getElementsByClass('imagesearch-result-nongeoreferenced');
+      goog.array.forEach(elements, function(item, i, arr) {
+        item.style.display = 'inline-block';
+      });
+    }
+  });
+  this.georeferencedFilter_.setChecked(true);
 
   // goog.array.forEach(goog.dom.getElementsByClass('imagesearch-result-overlay-autogeoref'), function(element, i, a) {
   //   var this_ = this;
@@ -86,6 +84,16 @@ georeferencer.imagesearch.Dialog.prototype.enterDocument = function() {
   // });
 
 };
+
+/**
+ * @override
+ */
+georeferencer.imagesearch.Dialog.prototype.exitDocument = function() {
+  goog.base(this, 'exitDocument');
+  window.console.log('exitDocument');
+
+  goog.events.removeAll(this.georeferencedFilter_, goog.ui.Component.EventType.ACTION);
+}
 
 /**
  * @param {!Array<Object>} data
