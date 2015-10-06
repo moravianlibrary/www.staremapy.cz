@@ -101,7 +101,7 @@ georeferencer.imagesearch.Dialog.prototype.generateContent_ = function(data) {
   goog.dom.classlist.add(georeferencedFilterButton, 'imagesearch-dialog-georeferenced-button');
   var georeferencedFilterLabel = goog.dom.createElement('SPAN');
   goog.dom.classlist.add(georeferencedFilterLabel, 'imagesearch-dialog-georeferenced-label');
-  goog.dom.setTextContent(georeferencedFilterLabel, 'Georeferencované');
+  goog.dom.setTextContent(georeferencedFilterLabel, 'Pouze georeferencované');
 
   var container = this.generateResult_(data);
   container.id = 'imagesearch-dialog-container';

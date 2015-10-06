@@ -68,7 +68,7 @@
   overflow-y: auto;
   left: 10px;
   right: 10px;
-  top: 40px;
+  top: 100px;
   bottom: 10px;
 }
 
@@ -155,11 +155,23 @@
   text-align: center;
 }
 
+.imagesearch-dialog-header {
+  text-align: center;
+  padding-top: 30px;
+}
+
 .imagesearch-dialog-georeferenced-container {
+  display: inline-block;
   background-color: #e97601;
+  border-radius: 7px;
   width: 200px;
   height: 35px;
   text-align: center;
+}
+
+.imagesearch-dialog-georeferenced-label {
+  padding-left: 10px;
+  color: white;
 }
 
 .imagesearch-dialog-georeferenced-container * {
