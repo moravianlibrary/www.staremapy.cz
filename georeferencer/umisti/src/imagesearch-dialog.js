@@ -6,6 +6,7 @@ goog.require('goog.dom.classlist');
 goog.require('goog.events');
 goog.require('goog.html.SafeHtml');
 goog.require('goog.json');
+goog.require('goog.net.cookies');
 goog.require('goog.net.XhrIo');
 goog.require('goog.ui.Component.EventType');
 goog.require('goog.ui.Checkbox');
@@ -60,28 +61,28 @@ georeferencer.imagesearch.Dialog.prototype.enterDocument = function() {
   });
   this.georeferencedFilter_.setChecked(true);
 
-  // goog.array.forEach(goog.dom.getElementsByClass('imagesearch-result-overlay-autogeoref'), function(element, i, a) {
-  //   var this_ = this;
-  //   goog.events.listen(element, 'click', function(e) {
-  //     var wrapper = this.parentElement.parentElement;
-  //     var georeferenced = wrapper.getAttribute('data-georefid');
-  //     var similar = window['georef']['name'] + '/' + window['georef']['version'];
-  //     var url = "http://autogeoreference.mzk.cz/v1/autogeoreference?georeferenced=" + georeferenced + "&similar=" + similar;
-  //
-  //     this_.showLoading_();
-  //
-  //     goog.net.XhrIo.send(url, function(e) {
-  //       this_.hideLoading_();
-  //       var xhr = e.target;
-  //       var json = xhr.getResponseJson();
-  //       if (json['status'] == 'ok') {
-  //         this_.post_('', {'control_points': goog.json.serialize(json['control_points']), 'cutline': goog.json.serialize(window['georef']['cutline'])});
-  //       } else {
-  //         window.alert(json['message']);
-  //       }
-  //     });
-  //   });
-  // });
+  goog.array.forEach(goog.dom.getElementsByClass('imagesearch-result-overlay-autogeoref'), function(element, i, a) {
+    var this_ = this;
+    goog.events.listen(element, 'click', function(e) {
+      var wrapper = this.parentElement.parentElement;
+      var georeferenced = wrapper.getAttribute('data-georefid');
+      var similar = window['georef']['name'] + '/' + window['georef']['version'];
+      var url = "http://autogeoreference.mzk.cz/v1/autogeoreference?georeferenced=" + georeferenced + "&similar=" + similar;
+
+      this_.showLoading_();
+
+      goog.net.XhrIo.send(url, function(e) {
+        var xhr = e.target;
+        var json = xhr.getResponseJson();
+        if (json['status'] == 'ok') {
+          goog.net.cookies.set("georeferencer.imagesearch.cancel", "true");
+          this_.post_('', {'control_points': goog.json.serialize(json['control_points']), 'cutline': goog.json.serialize(window['georef']['cutline'])});
+        } else {
+          window.alert(json['message']);
+        }
+      });
+    });
+  });
 
 };
 

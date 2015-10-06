@@ -2,6 +2,7 @@ goog.provide('georeferencer.imagesearch.main');
 
 goog.require('goog.dom');
 goog.require('goog.events');
+goog.require('goog.net.cookies');
 goog.require('goog.net.XhrIo');
 goog.require('goog.ui.Button');
 goog.require('goog.ui.Component.EventType');
@@ -11,14 +12,17 @@ goog.require('georeferencer.imagesearch.Dialog');
 
 georeferencer.imagesearch.main = function() {
   var searchSimilarBttn = new goog.ui.Button('NAJDI PODOBNÉ', goog.ui.Css3ButtonRenderer.getInstance());
-  var cancelBttn = new goog.ui.Button('ZRUŠIT', goog.ui.Css3ButtonRenderer.getInstance());
   var dialog = null;
 
   searchSimilarBttn.render(goog.dom.getElement('main-left'));
   searchSimilarBttn.getElement().id = 'georeferencer-imagesearch-find-similar';
 
-  cancelBttn.render(goog.dom.getElement('main-left'));
-  cancelBttn.getElement().id = 'georeferencer-imagesearch-cancel';
+  if (goog.net.cookies.get("georeferencer.imagesearch.cancel", "false") == "true") {
+    var cancelBttn = new goog.ui.Button('ZRUŠIT', goog.ui.Css3ButtonRenderer.getInstance());
+    cancelBttn.render(goog.dom.getElement('main-left'));
+    cancelBttn.getElement().id = 'georeferencer-imagesearch-cancel';
+    goog.net.cookies.set("georeferencer.imagesearch.cancel", "false");
+  }
 
   goog.events.listen(searchSimilarBttn, goog.ui.Component.EventType.ACTION, function(e) {
 

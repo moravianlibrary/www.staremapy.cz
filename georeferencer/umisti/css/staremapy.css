@@ -16,6 +16,24 @@
   cursor: pointer;
 }
 
+#georeferencer-imagesearch-cancel {
+  position: absolute;
+  right: 115px;
+  top: 2px;
+  z-index: 10000;
+  padding: 8px 35px;
+  font-size: 11px;
+  font-weight: bold;
+  color: white;
+  border: none;
+  background: none;
+  background-color: #b2a998;
+  border-radius: 2px;
+  vertical-align: middle;
+  display: inline-block;
+  cursor: pointer;
+}
+
 .goog-flat-button.addpoint {
   width: 30px;
   height: 30px;
