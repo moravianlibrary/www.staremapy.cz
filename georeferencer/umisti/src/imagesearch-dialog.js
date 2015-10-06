@@ -92,19 +92,22 @@ georeferencer.imagesearch.Dialog.prototype.generateContent_ = function(data) {
   var dialogContent = goog.dom.createElement('DIV');
 
   var header = goog.dom.createElement('DIV');
-  var georeferencedFilter = goog.dom.createElement('SPAN');
-  georeferencedFilter.id = 'imagesearch-dialog-georeferenced';
-  goog.dom.classlist.add(georeferencedFilter, 'goog-checkbox');
+  var georeferencedFilterContainer = goog.dom.createElement('DIV');
+  goog.dom.classlist.add(georeferencedFilterContainer, 'imagesearch-dialog-georeferenced-container');
+  var georeferencedFilterButton = goog.dom.createElement('SPAN');
+  georeferencedFilterButton.id = 'imagesearch-dialog-georeferenced';
+  goog.dom.classlist.add(georeferencedFilterButton, 'goog-checkbox');
   var georeferencedFilterLabel = goog.dom.createElement('SPAN');
   goog.dom.setTextContent(georeferencedFilterLabel, 'Georeferencované');
 
   var container = this.generateResult_(data);
   container.id = 'imagesearch-dialog-container';
 
+  goog.dom.appendChild(georeferencedFilterContainer, georeferencedFilterButton);
+  goog.dom.appendChild(georeferencedFilterContainer, georeferencedFilterLabel);
   goog.dom.appendChild(dialogContent, header);
   goog.dom.appendChild(dialogContent, container);
-  goog.dom.appendChild(header, georeferencedFilter);
-  goog.dom.appendChild(header, georeferencedFilterLabel);
+  goog.dom.appendChild(header, georeferencedFilterContainer);
 
   return goog.dom.getOuterHtml(dialogContent);
 }
@@ -123,31 +126,17 @@ georeferencer.imagesearch.Dialog.prototype.generateResult_ = function(data) {
     var overlay = goog.dom.createElement('DIV');
     goog.dom.classlist.add(overlay, 'imagesearch-result-overlay');
 
-    var overlayOpenContainer = goog.dom.createElement('A');
-    overlayOpenContainer.href = 'http://staremapy.georeferencer.cz/map/' + item['record']['id'];
-    goog.dom.classlist.add(overlayOpenContainer, 'imagesearch-result-overlay-open');
-    var overlayOpenIcon = goog.dom.createElement('DIV');
-    goog.dom.classlist.add(overlayOpenIcon, 'imagesearch-result-overlay-open-icon');
-    var overlayOpenText = goog.dom.createElement('DIV');
-    overlayOpenText.innerHTML = 'ZOBRAZIT';
-    goog.dom.classlist.add(overlayOpenText, 'imagesearch-result-overlay-open-text');
+    var overlayOpen = goog.dom.createElement('A');
+    overlayOpen.href = 'http://staremapy.georeferencer.cz/map/' + item['record']['id'];
+    goog.dom.classlist.add(overlayOpen, 'imagesearch-result-overlay-open');
+    goog.dom.classlist.add(overlayOpen, 'icon-folder-open');
 
-    goog.dom.appendChild(overlayOpenContainer, overlayOpenIcon);
-    goog.dom.appendChild(overlayOpenContainer, overlayOpenText);
-    goog.dom.appendChild(overlay, overlayOpenContainer);
-
+    goog.dom.appendChild(overlay, overlayOpen);
     if (item['record']['metadata']['georeferenced']) {
-      var overlayAutogeorefContainer = goog.dom.createElement('SPAN');
-      goog.dom.classlist.add(overlayAutogeorefContainer, 'imagesearch-result-overlay-autogeoref');
-      var overlayAutogeorefIcon = goog.dom.createElement('DIV');
-      goog.dom.classlist.add(overlayAutogeorefIcon, 'imagesearch-result-overlay-autogeoref-icon');
-      var overlayAutogeorefText = goog.dom.createElement('DIV');
-      overlayAutogeorefText.innerHTML = 'PŘEVZÍT BODY';
-      goog.dom.classlist.add(overlayAutogeorefText, 'imagesearch-result-overlay-autogeoref-text');
-
-      goog.dom.appendChild(overlayAutogeorefContainer, overlayAutogeorefIcon);
-      goog.dom.appendChild(overlayAutogeorefContainer, overlayAutogeorefText);
-      goog.dom.appendChild(overlay, overlayAutogeorefContainer);
+      var overlayAutogeoref = goog.dom.createElement('SPAN');
+      goog.dom.classlist.add(overlayAutogeoref, 'imagesearch-result-overlay-autogeoref');
+      goog.dom.classlist.add(overlayAutogeoref, 'icon-target');
+      goog.dom.appendChild(overlay, overlayAutogeoref);
     }
 
     var img = goog.dom.createElement('IMG');
