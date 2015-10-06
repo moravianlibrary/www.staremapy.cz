@@ -154,3 +154,15 @@
 .imagesearch-result-nongeoreferenced .imagesearch-result-overlay-open {
   text-align: center;
 }
+
+.imagesearch-dialog-georeferenced-container {
+  background-color: #e97601;
+  width: 200px;
+  height: 35px;
+  text-align: center;
+}
+
+.imagesearch-dialog-georeferenced-container * {
+  position: relative;
+  top: 30%;
+}

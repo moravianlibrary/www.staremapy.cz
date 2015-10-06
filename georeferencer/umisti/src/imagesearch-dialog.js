@@ -92,12 +92,15 @@ georeferencer.imagesearch.Dialog.prototype.generateContent_ = function(data) {
   var dialogContent = goog.dom.createElement('DIV');
 
   var header = goog.dom.createElement('DIV');
+  goog.dom.classlist.add(header, 'imagesearch-dialog-header');
   var georeferencedFilterContainer = goog.dom.createElement('DIV');
   goog.dom.classlist.add(georeferencedFilterContainer, 'imagesearch-dialog-georeferenced-container');
   var georeferencedFilterButton = goog.dom.createElement('SPAN');
   georeferencedFilterButton.id = 'imagesearch-dialog-georeferenced';
   goog.dom.classlist.add(georeferencedFilterButton, 'goog-checkbox');
+  goog.dom.classlist.add(georeferencedFilterButton, 'imagesearch-dialog-georeferenced-button');
   var georeferencedFilterLabel = goog.dom.createElement('SPAN');
+  goog.dom.classlist.add(georeferencedFilterLabel, 'imagesearch-dialog-georeferenced-label');
   goog.dom.setTextContent(georeferencedFilterLabel, 'Georeferencované');
 
   var container = this.generateResult_(data);
