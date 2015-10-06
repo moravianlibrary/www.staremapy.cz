@@ -25,6 +25,17 @@ georeferencer.imagesearch.main = function() {
     goog.net.cookies.set("georeferencer.imagesearch.cancel", "false", -1, "/");
     goog.events.listen(cancelBttn, goog.ui.Component.EventType.ACTION, function(e) {
       window.console.log('cancel');
+      georeferencer.imagesearch.tools.showLoading();
+      var name = window['georef']['name'];
+      var version = window['georef']['previous_version'];
+      var url = 'http://staremapy.georeferencer.cz/map/' + name + '/' + version + '/json';
+      goog.net.XhrIo.send(url, function(e) {
+        var xhr = e.target;
+        var json = xhr.getResponseJson();
+        var cutline = json['cutline'];
+        var controlPoints = json['control_points'];
+        georeferencer.imagesearch.tools.post('', {'control_points': goog.json.serialize(controlPoints), 'cutline': goog.json.serialize(cutline)});
+      });
     });
   }
 
