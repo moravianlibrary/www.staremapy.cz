@@ -1,3 +1,24 @@
+HTMLElement.prototype.removeClass = function(clazz) {
+  var classes = this.className.split(/\s+/);
+  var index = classes.indexof(clazz);
+  if (index >= 0) {
+    classes.splice(index, 0);
+  }
+  this.className = classes.join(' ');
+}
+
+HTMLElement.prototype.hasClass = function(clazz) {
+  return this.className.split(/\s+/).indexOf(clazz) >= 0;
+}
+
+
+HTMLElement.prototype.addClass = function(clazz) {
+  if (this.hasClass(clazz)) {
+    return;
+  }
+  this.className += ' ' + clazz;
+}
+
 var georeferencer = georeferencer || {};
 georeferencer.review = georeferencer.review || {};
 
@@ -11,7 +32,7 @@ georeferencer.review.enableButtons = function(buttons, activeBttn, value) {
 };
 
 georeferencer.review.actionBttn = function(bttn, author, id, institution, value) {
-  if (bttn.className == 'active') {
+  if (bttn.hasClass('active')) {
     georeferencer.review.unlabelMap(bttn, id, institution);
   } else {
     georeferencer.review.labelMap(bttn, author, id, institution, value);
@@ -19,20 +40,19 @@ georeferencer.review.actionBttn = function(bttn, author, id, institution, value)
 };
 
 georeferencer.review.labelMap = function(bttn, author, id, institution, value) {
-  var img = bttn.getElementsByTagName('img')[0];
   var xmlhttp = new XMLHttpRequest();
   xmlhttp.onreadystatechange = function() {
-    if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
-      var response = JSON.parse(xmlhttp.responseText);
-      if (response.status == 'ok') {
-        bttn.className = 'active';
-        img.src = 'http://www.staremapy.cz/img/success.png';
-        var form = document.getElementById('review-form');
-        georeferencer.review.enableButtons(form.getElementsByTagName('BUTTON'), bttn, false);
-      } else {
-        img.src = 'http://www.staremapy.cz/img/error.png';
+    if (xmlhttp.readyState == 4) {
+      if (xmlhttp.status == 200) {
+        var response = JSON.parse(xmlhttp.responseText);
+        if (response.status == 'ok') {
+          btton.removeClass('passive');
+          btton.removeClass('error');
+          bttn.addClass('active');
+          return;
+        }
       }
-
+      bttn.addClass('error');
     }
   };
   var authorParam = encodeURIComponent(author);
@@ -48,21 +68,20 @@ georeferencer.review.labelMap = function(bttn, author, id, institution, value) {
 };
 
 georeferencer.review.unlabelMap = function(bttn, id, institution) {
-  var img = bttn.getElementsByTagName('img')[0];
   var xmlhttp = new XMLHttpRequest();
   xmlhttp.onreadystatechange = function() {
-    if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
-      var response = JSON.parse(xmlhttp.responseText);
-      if (response.status == 'ok') {
-        bttn.className = '';
-        img.removeAttribute('src');
-        var form = document.getElementById('review-form');
-        georeferencer.review.enableButtons(form.getElementsByTagName('BUTTON'), null, true);
-      } else {
-        img.src = 'http://www.staremapy.cz/img/error.png';
+    if (xmlhttp.readyState == 4) {
+      if (xmlhttp.status == 200) {
+        var response = JSON.parse(xmlhttp.responseText);
+        if (response.status == 'ok') {
+          bttn.removeClass('active');
+          bttn.removeClass('error');
+          bttn.addClass('passive');
+          return;
+        }
       }
-
     }
+    bttn.addClass('error');
   };
   var idParam = encodeURIComponent(id);
   var institutionParam = encodeURIComponent(institution);
@@ -96,8 +115,8 @@ georeferencer.review.getLabels = function(callback, error) {
 
 georeferencer.review.createButton = function(label, author, id, institution, value) {
   var button = document.createElement('BUTTON');
-  button.innerHTML = label + ' <img>';
-  button.className = 'passive';
+  button.innerHTML = label;
+  button.addClass('passive');
   button.onclick = function() { georeferencer.review.actionBttn(this, author, id, institution, value); return false; };
   return button;
 };
@@ -121,13 +140,15 @@ georeferencer.review.main = function() {
   var ok = function(labels) {
     labels.forEach(function(label) {
       var button = bInstances[label];
-      button.className = 'active';
+      button.removeClass('passive');
+      button.removeClass('error');
+      button.addClass('active');
     });
   }
 
   var error = function() {
     Object.keys(bInstances).forEach(function(button) {
-      button.className = 'error';
+      button.addClass('error');
     });
   }
 
