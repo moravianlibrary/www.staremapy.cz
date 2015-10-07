@@ -1,6 +1,6 @@
 Element.prototype.removeClass = function(clazz) {
   var classes = this.className.split(/\s+/);
-  var index = classes.indexof(clazz);
+  var index = classes.indexOf(clazz);
   if (index >= 0) {
     classes.splice(index, 0);
   }
