@@ -43,6 +43,7 @@ georeferencer.review.labelMap = function(bttn, author, id, institution, value) {
   var xmlhttp = new XMLHttpRequest();
   xmlhttp.onreadystatechange = function() {
     if (xmlhttp.readyState == 4) {
+      bttn.removeClass('loading');
       if (xmlhttp.status == 200) {
         var response = JSON.parse(xmlhttp.responseText);
         if (response.status == 'ok') {
@@ -64,13 +65,14 @@ georeferencer.review.labelMap = function(bttn, author, id, institution, value) {
   var url = 'http://195.113.155.123/cgi-bin/addlabeltomap.py' + requestParams;
   xmlhttp.open('GET', url, true);
   xmlhttp.send();
-  img.src = 'http://www.staremapy.cz/img/ajax-loader-mini.gif';
+  bttn.addClass('loading');
 };
 
 georeferencer.review.unlabelMap = function(bttn, id, institution) {
   var xmlhttp = new XMLHttpRequest();
   xmlhttp.onreadystatechange = function() {
     if (xmlhttp.readyState == 4) {
+      bttn.removeClass('loading');
       if (xmlhttp.status == 200) {
         var response = JSON.parse(xmlhttp.responseText);
         if (response.status == 'ok') {
@@ -90,7 +92,7 @@ georeferencer.review.unlabelMap = function(bttn, id, institution) {
   var url = 'http://195.113.155.123/cgi-bin/addlabeltomap.py' + requestParams;
   xmlhttp.open('GET', url, true);
   xmlhttp.send();
-  img.src = 'http://www.staremapy.cz/img/ajax-loader-mini.gif';
+  bttn.addClass('loading');
 }
 
 georeferencer.review.getLabels = function(callback, error) {
