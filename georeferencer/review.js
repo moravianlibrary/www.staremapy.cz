@@ -99,7 +99,6 @@ georeferencer.review.createButton = function(label, author, id, institution, val
   button.innerHTML = label + ' <img>';
   button.className = 'passive';
   button.onclick = function() { georeferencer.review.actionBttn(this, author, id, institution, value); return false; };
-  georeferencer.review.getLabel(button, id, value);
   return button;
 };
 
