@@ -17,7 +17,7 @@
   top: 2px;
   width: 14px;
   height: 15px;
-  background: url('/img/review-buttons.png') -14px; 0;
+  background: url('/img/review-buttons.png') -14px 0;
 }
 
 #review-form button.error span {
@@ -26,7 +26,16 @@
   top: 2px;
   width: 14px;
   height: 15px;
-  background: url('/img/review-buttons.png') -28px; 0;
+  background: url('/img/review-buttons.png') -28px 0;
+}
+
+#review-form button.loading span {
+  display: inline-block;
+  position: relative;
+  top: 2px;
+  width: 16px;
+  height: 16px;
+  background: url('/img/ajax-loader-mini.gif');
 }
 
 #review-form button.error {
