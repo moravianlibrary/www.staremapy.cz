@@ -118,7 +118,7 @@ georeferencer.review.unlabelMap = function(bttn, id, institution, value) {
   bttn.addClass('loading');
 }
 
-georeferencer.review.getLabels = function(id, callback, error) {
+georeferencer.review.getLabels = function(id, institution, callback, error) {
   var xmlhttp = new XMLHttpRequest();
   xmlhttp.onreadystatechange = function() {
     if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
@@ -131,8 +131,9 @@ georeferencer.review.getLabels = function(id, callback, error) {
     error();
   };
   var idParam = encodeURIComponent(id);
+  var institutionParam = encodeURIComponent(institution);
   var token = 'cab08dc4-e7c6-4ca1-b2ad-393ec198c31d';
-  var requestParams = '?key=' + idParam + '&token=' + token + '&action=get';
+  var requestParams = '?key=' + idParam + '&institution=' + institutionParam + '&token=' + token + '&action=get';
   var url = 'http://195.113.155.123/cgi-bin/addlabeltomap.py' + requestParams;
   xmlhttp.open('GET', url, true);
   xmlhttp.send();
@@ -177,7 +178,7 @@ georeferencer.review.main = function() {
     });
   }
 
-  georeferencer.review.getLabels(id, ok, error);
+  georeferencer.review.getLabels(id, institution, ok, error);
 };
 
 georeferencer.review.main();
