@@ -121,14 +121,16 @@ georeferencer.review.unlabelMap = function(bttn, id, institution, value) {
 georeferencer.review.getLabels = function(id, institution, callback, error) {
   var xmlhttp = new XMLHttpRequest();
   xmlhttp.onreadystatechange = function() {
-    if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
-      var response = JSON.parse(xmlhttp.responseText);
-      if (response.status == 'ok') {
-        callback(response.data.values);
-        return;
+    if (xmlhttp.readyState == 4) {
+      if (xmlhttp.status == 200) {
+        var response = JSON.parse(xmlhttp.responseText);
+        if (response.status == 'ok') {
+          callback(response.data.values);
+          return;
+        }
       }
+      error();
     }
-    error();
   };
   var idParam = encodeURIComponent(id);
   var institutionParam = encodeURIComponent(institution);
