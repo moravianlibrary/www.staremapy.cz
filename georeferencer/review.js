@@ -19,7 +19,7 @@ if (!Array.prototype.filter) {
 
 Element.prototype.removeClass = function(clazz) {
   var classes = this.className.split(/\s+/);
-  classes.filter(function(e) {return e;});
+  classes = classes.filter(function(e) {return e;});
   var index = classes.indexOf(clazz);
   if (index >= 0) {
     classes.splice(index, 1);
@@ -37,7 +37,7 @@ Element.prototype.addClass = function(clazz) {
     return;
   }
   var classes = this.className.split(/\s+/);
-  classes.filter(function(e) {return e;});
+  classes = classes.filter(function(e) {return e;});
   classes.push(clazz);
   this.className = classes.join(' ');
 }
