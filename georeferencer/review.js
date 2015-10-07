@@ -1,4 +1,4 @@
-HTMLElement.prototype.removeClass = function(clazz) {
+Element.prototype.removeClass = function(clazz) {
   var classes = this.className.split(/\s+/);
   var index = classes.indexof(clazz);
   if (index >= 0) {
@@ -7,12 +7,12 @@ HTMLElement.prototype.removeClass = function(clazz) {
   this.className = classes.join(' ');
 }
 
-HTMLElement.prototype.hasClass = function(clazz) {
+Element.prototype.hasClass = function(clazz) {
   return this.className.split(/\s+/).indexOf(clazz) >= 0;
 }
 
 
-HTMLElement.prototype.addClass = function(clazz) {
+Element.prototype.addClass = function(clazz) {
   if (this.hasClass(clazz)) {
     return;
   }
