@@ -155,12 +155,15 @@ georeferencer.review.main = function() {
   var author = document.getElementById('header-userinfo-name').innerHTML;
   var id = /^.*\/map\/([^\/]+\/[^\/]+).*$/.exec(location.href)[1];
   var institution = /^(\w+)\..*\..*$/.exec(location.hostname)[1];
+  var separator = document.createElement('SPAN');
+  separator.addClass('separator');
 
   var bInstances = {};
   bInstances['vicemap'] = georeferencer.review.createButton('Více map', author, id, institution, 'vicemap');
   bInstances['rozrezana'] = georeferencer.review.createButton('Rozřezaná', author, id, institution, 'rozrezana');
   bInstances['nelzeumistit'] = georeferencer.review.createButton('Nelze umístit', author, id, institution, 'nelzeumistit');
 
+  buttons.appendChild(separator);
   buttons.appendChild(bInstances['vicemap']);
   buttons.appendChild(bInstances['rozrezana']);
   buttons.appendChild(bInstances['nelzeumistit']);
