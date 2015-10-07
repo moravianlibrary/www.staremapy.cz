@@ -47,8 +47,8 @@ georeferencer.review.labelMap = function(bttn, author, id, institution, value) {
       if (xmlhttp.status == 200) {
         var response = JSON.parse(xmlhttp.responseText);
         if (response.status == 'ok') {
-          btton.removeClass('passive');
-          btton.removeClass('error');
+          bttn.removeClass('passive');
+          bttn.removeClass('error');
           bttn.addClass('active');
           return;
         }
