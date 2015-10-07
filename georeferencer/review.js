@@ -140,7 +140,7 @@ georeferencer.review.getLabels = function(callback, error) {
 
 georeferencer.review.createButton = function(label, author, id, institution, value) {
   var button = document.createElement('BUTTON');
-  button.innerHTML = label;
+  button.innerHTML = label + " <img>";
   button.addClass('passive');
   button.onclick = function() { georeferencer.review.actionBttn(this, author, id, institution, value); return false; };
   return button;
