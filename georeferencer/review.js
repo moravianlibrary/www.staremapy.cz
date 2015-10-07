@@ -173,7 +173,8 @@ georeferencer.review.main = function() {
   }
 
   var error = function() {
-    Object.keys(bInstances).forEach(function(button) {
+    Object.keys(bInstances).forEach(function(bname) {
+      var button = bInstances[bname];
       button.addClass('error');
     });
   }
