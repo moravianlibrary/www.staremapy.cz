@@ -10,6 +10,10 @@ goog.require('georeferencer.umisti.AddPointDialog');
 goog.require('georeferencer.umisti.AddPointDialog.EventType');
 
 georeferencer.umisti.main = function() {
+  if (/#clip$/.test(window.location.href)) {
+    return;
+  }
+
   var rightPanel = goog.dom.getElement('main-right');
   goog.asserts.assertObject(rightPanel);
 
