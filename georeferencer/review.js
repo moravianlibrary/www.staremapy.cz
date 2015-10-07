@@ -74,21 +74,17 @@ georeferencer.review.unlabelMap = function(bttn, id, institution) {
   img.src = 'http://www.staremapy.cz/img/ajax-loader-mini.gif';
 }
 
-georeferencer.review.getLabel = function(bttn, id, value) {
-  var img = bttn.getElementsByTagName('img')[0];
+georeferencer.review.getLabels = function(callback, error) {
   var xmlhttp = new XMLHttpRequest();
   xmlhttp.onreadystatechange = function() {
     if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
       var response = JSON.parse(xmlhttp.responseText);
       if (response.status == 'ok') {
-        if (response.data.value == value) {
-          bttn.className = 'active';
-          img.src = 'http://www.staremapy.cz/img/success.png';
-          var form = document.getElementById('review-form');
-          georeferencer.review.enableButtons(form.getElementsByTagName('BUTTON'), bttn, false);
-        }
+        callback(response.data.values);
+        return;
       }
     }
+    error();
   };
   var idParam = encodeURIComponent(id);
   var token = 'cab08dc4-e7c6-4ca1-b2ad-393ec198c31d';
@@ -101,6 +97,7 @@ georeferencer.review.getLabel = function(bttn, id, value) {
 georeferencer.review.createButton = function(label, author, id, institution, value) {
   var button = document.createElement('BUTTON');
   button.innerHTML = label + ' <img>';
+  button.className = 'passive';
   button.onclick = function() { georeferencer.review.actionBttn(this, author, id, institution, value); return false; };
   georeferencer.review.getLabel(button, id, value);
   return button;
@@ -113,9 +110,29 @@ georeferencer.review.main = function() {
   var id = /^.*\/map\/([^\/]+\/[^\/]+).*$/.exec(location.href)[1];
   var institution = /^(\w+)\..*\..*$/.exec(location.hostname)[1];
 
-  buttons.appendChild(georeferencer.review.createButton('Více map', author, id, institution, 'vicemap'));
-  buttons.appendChild(georeferencer.review.createButton('Rozřezaná', author, id, institution, 'rozrezana'));
-  buttons.appendChild(georeferencer.review.createButton('Nelze umístit', author, id, institution, 'nelzeumistit'));
+  var bInstances = {};
+  bInstances['vicemap'] = georeferencer.review.createButton('Více map', author, id, institution, 'vicemap');
+  bInstances['rozrezana'] = georeferencer.review.createButton('Rozřezaná', author, id, institution, 'rozrezana');
+  bInstances['nelzeumistit'] = georeferencer.review.createButton('Nelze umístit', author, id, institution, 'nelzeumistit');
+
+  buttons.appendChild(bInstances['vicemap']);
+  buttons.appendChild(bInstances['rozrezana']);
+  buttons.appendChild(bInstances['nelzeumistit']);
+
+  var ok = function(labels) {
+    labels.forEach(function(label) {
+      var button = bInstances[label];
+      button.className = 'active';
+    });
+  }
+
+  var error = function() {
+    Object.keys(bInstances).forEach(function(button) {
+      button.className = 'error';
+    });
+  }
+
+  georeferencer.review.getLabels(ok, error);
 };
 
 georeferencer.review.main();
