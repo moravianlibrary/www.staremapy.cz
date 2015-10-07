@@ -118,7 +118,7 @@ georeferencer.review.unlabelMap = function(bttn, id, institution, value) {
   bttn.addClass('loading');
 }
 
-georeferencer.review.getLabels = function(callback, error) {
+georeferencer.review.getLabels = function(id, callback, error) {
   var xmlhttp = new XMLHttpRequest();
   xmlhttp.onreadystatechange = function() {
     if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
@@ -177,7 +177,7 @@ georeferencer.review.main = function() {
     });
   }
 
-  georeferencer.review.getLabels(ok, error);
+  georeferencer.review.getLabels(id, ok, error);
 };
 
 georeferencer.review.main();
