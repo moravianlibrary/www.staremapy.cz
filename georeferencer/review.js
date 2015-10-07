@@ -1,8 +1,28 @@
+if (!Array.prototype.filter) {
+  Array.prototype.filter = function(fun /*, thisp*/) {
+    var len = this.length >>> 0;
+    if (typeof fun != "function")
+    throw new TypeError();
+
+    var res = [];
+    var thisp = arguments[1];
+    for (var i = 0; i < len; i++) {
+      if (i in this) {
+        var val = this[i]; // in case fun mutates this
+        if (fun.call(thisp, val, i, this))
+        res.push(val);
+      }
+    }
+    return res;
+  };
+}
+
 Element.prototype.removeClass = function(clazz) {
   var classes = this.className.split(/\s+/);
+  classes.filter(function(e) {return e;});
   var index = classes.indexOf(clazz);
   if (index >= 0) {
-    classes.splice(index, 0);
+    classes.splice(index, 1);
   }
   this.className = classes.join(' ');
 }
@@ -16,7 +36,10 @@ Element.prototype.addClass = function(clazz) {
   if (this.hasClass(clazz)) {
     return;
   }
-  this.className += ' ' + clazz;
+  var classes = this.className.split(/\s+/);
+  classes.filter(function(e) {return e;});
+  classes.push(clazz);
+  this.className = classes.join(' ');
 }
 
 var georeferencer = georeferencer || {};
