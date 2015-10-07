@@ -56,7 +56,7 @@ georeferencer.review.enableButtons = function(buttons, activeBttn, value) {
 
 georeferencer.review.actionBttn = function(bttn, author, id, institution, value) {
   if (bttn.hasClass('active')) {
-    georeferencer.review.unlabelMap(bttn, id, institution);
+    georeferencer.review.unlabelMap(bttn, id, institution, value);
   } else {
     georeferencer.review.labelMap(bttn, author, id, institution, value);
   }
@@ -91,7 +91,7 @@ georeferencer.review.labelMap = function(bttn, author, id, institution, value) {
   bttn.addClass('loading');
 };
 
-georeferencer.review.unlabelMap = function(bttn, id, institution) {
+georeferencer.review.unlabelMap = function(bttn, id, institution, value) {
   var xmlhttp = new XMLHttpRequest();
   xmlhttp.onreadystatechange = function() {
     if (xmlhttp.readyState == 4) {
@@ -111,7 +111,7 @@ georeferencer.review.unlabelMap = function(bttn, id, institution) {
   var idParam = encodeURIComponent(id);
   var institutionParam = encodeURIComponent(institution);
   var token = 'cab08dc4-e7c6-4ca1-b2ad-393ec198c31d';
-  var requestParams = '?key=' + idParam + '&institution=' + institution + '&token=' + token + '&action=delete';
+  var requestParams = '?key=' + idParam + '&institution=' + institution + '&value=' + value + '&token=' + token + '&action=delete';
   var url = 'http://195.113.155.123/cgi-bin/addlabeltomap.py' + requestParams;
   xmlhttp.open('GET', url, true);
   xmlhttp.send();
