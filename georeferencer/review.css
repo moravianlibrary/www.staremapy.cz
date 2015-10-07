@@ -27,5 +27,8 @@
   width: 14px;
   height: 15px;
   background: url('/img/review-buttons.png') -28px; 0;
+}
+
+#review-form button.error {
   color: inherit;
 }
