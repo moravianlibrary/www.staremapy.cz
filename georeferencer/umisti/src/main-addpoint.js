@@ -10,9 +10,6 @@ goog.require('georeferencer.umisti.AddPointDialog');
 goog.require('georeferencer.umisti.AddPointDialog.EventType');
 
 georeferencer.umisti.main = function() {
-  var rightPanel = goog.dom.getElement('main-right');
-  goog.asserts.assertObject(rightPanel);
-
   var addPointDialog = new georeferencer.umisti.AddPointDialog(goog.dom.getElement('map'));
 
   var addPointCnt = goog.dom.createElement('span');
@@ -30,7 +27,7 @@ georeferencer.umisti.main = function() {
     });
   });
 
-  addPointBttn.render(rightPanel);
+  addPointBttn.render(goog.dom.getElement('map'));
 };
 
 georeferencer.umisti.loadCss = function(url) {
