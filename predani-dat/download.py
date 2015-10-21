@@ -12,7 +12,7 @@ import urllib2
 try:
     import json
 except ImportError:
-    import simplejson as json 
+    import simplejson as json
 
 cgitb.enable()
 
@@ -117,7 +117,10 @@ def appendLabelData(header, data):
     id = data[id_index]
     data.append(labelData.getLabel(id, institution))
 
-
+def transformStatus(header, data):
+    status_index = header.index("status")
+    if not data[status_index].strip():
+        data[status_index] = "ungeoreferenced"
 
 def transformHeader(header):
     header[header.index("collection")] = "institution"
@@ -129,6 +132,7 @@ def transformHeader(header):
 def transformData(header, data):
     appendGeoData(header, data)
     appendLabelData(header, data)
+    transformStatus(header, data)
 
 
 
