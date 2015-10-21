@@ -43,8 +43,8 @@ class LabelData:
             data = response.get("data", [])
             for row in data:
                 key = row["key"]
-                value = row["values"]
-                self.label_data[key] = value
+                value = json.loads(row["values"])
+                self.label_data[key] = json.dumps(value)
 
 
     def getLabel(self, id, institution):
