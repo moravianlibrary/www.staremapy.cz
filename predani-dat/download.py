@@ -43,7 +43,7 @@ class LabelData:
             data = response.get("data", [])
             for row in data:
                 key = row["key"]
-                value = row["value"]
+                value = row["values"]
                 self.label_data[key] = value
 
 
