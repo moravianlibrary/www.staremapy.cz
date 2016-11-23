@@ -246,7 +246,6 @@ h5 {
   background-position: top right;
   font-size: 13px;
   text-align:justify;
-
 }
 #content.subpage:before,
 #content.subpage:after {
@@ -256,6 +255,16 @@ h5 {
 }
 #content.subpage h1 {
   font-weight: 300;
+}
+#content.subpage.nonprocessed a {
+  color: #b78308;
+}
+#content.subpage.nonprocessed ul {
+  color: #545454;
+  font-size: 0.9em;
+  line-height: 1.6em;
+  margin: 10px;
+  list-style: none;
 }
 #content.subpage #main {
   float: left;
@@ -988,6 +997,10 @@ button {
     padding:20px;
     border:none;
 }
+table.zbyva-zpracovat {
+  width: 100%;
+  margin-bottom: 20px;
+}
 table.zbyva-zpracovat tr {
   border-style: solid;
   border-width: 1px;
@@ -999,6 +1012,11 @@ table.zbyva-zpracovat td, table.zbyva-zpracovat th {
 table.zbyva-zpracovat th:first-child, table.zbyva-zpracovat td:first-child {
   width: 80%;
   text-align: left;
+}
+table.zbyva-zpracovat tr:first-child th {
+  text-align: center;
+  background-color: #6b4b2e;
+  color: #ede5d1;
 }
 #generated-date {
   color: #737373;
