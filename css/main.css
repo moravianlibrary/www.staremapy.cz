@@ -796,7 +796,7 @@ button {
 }
 .table .table-contributors{
     margin-bottom:10px;
-    height:230px;
+    height:250px;
 }
 .statusbar {
 	width: 100%;
@@ -1017,6 +1017,9 @@ table.zbyva-zpracovat tr:first-child th {
   text-align: center;
   background-color: #6b4b2e;
   color: #ede5d1;
+}
+.nomargin {
+  margin: 0;
 }
 #generated-date {
   color: #737373;

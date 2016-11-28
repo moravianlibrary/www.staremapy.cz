@@ -50,17 +50,17 @@
 		var startDate;
 		var endDate;
 		if (gup('startdate')) {
-			startDate = new Date(decodeURIComponent(gup('startdate')));
+			startDate = decodeURIComponent(gup('startdate'));
 		} else {
-			startDate = new Date('2000-01-01T00:00');
+			startDate = dateToStr(new Date('2000-01-01T00:00'));
 		}
 		if (gup('enddate')) {
-			endDate = new Date(decodeURIComponent(gup('enddate')));
+			endDate = decodeURIComponent(gup('enddate'));
 		} else {
 			endDate = null;
 		}
 
-		var whereClause = "date_time > '" + dateToStr(startDate) + "'";
+		var whereClause = "date_time > '" + startDate + "'";
 		if(period) {
 			var now = new Date();
 			var d = new Date(now - period);
@@ -71,14 +71,14 @@
 			whereClause =  "date_time > '" + datum + "'";
 		}
 		if (endDate) {
-			whereClause += " AND date_time <= '" + dateToStr(endDate) + "'";
+			whereClause += " AND date_time <= '" + endDate + "'";
 		}
 		var tableid = gup('tid'); // 1957455
 		var col = gup('col'); // 1957455
 
 		if (col) whereClause += ' AND collection = \''+col+'\'';
 
-		var queryText = encodeURIComponent("SELECT user_name AS 'Name', SUM(gcps_diff) as 'Control points' FROM "+ tableid + " WHERE "+ whereClause +" GROUP BY user_name ORDER BY SUM(gcps_diff) DESC LIMIT 5");
+		var queryText = encodeURIComponent("SELECT user_name AS 'Name', SUM(gcps_diff) as 'Control points' FROM "+ tableid + " WHERE "+ whereClause +" GROUP BY user_name ORDER BY SUM(gcps_diff) DESC LIMIT 10");
 
 		var query = new google.visualization.Query('http://www.google.com/fusiontables/gvizdata?tq='  + queryText);
 		query.send(getData);
@@ -103,15 +103,6 @@
 	<div id="visualization"></div>
 		<div id="powered_img">
 				<img src="/img/powered.png"/>
-		</div>
-		<div id="combobox">
-	<select id="selections" onchange="changeData(this.value);">
-		<option value="" selected>Za celou dobu</option>
-		<option value="2592000000">Za posledních 30 dní</option>
-		<option value="1209600000">Za posledních 14 dní</option>
-		<option value="604800000">Za posledních 7 dní</option>
-		<option value="86400000">Za posledních 24 hodin</option>
-	</select>
 		</div>
 </body>
 </html>
