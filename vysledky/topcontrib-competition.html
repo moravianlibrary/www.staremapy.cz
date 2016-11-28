@@ -46,32 +46,23 @@
 		return d.getUTCFullYear() + "-" + (d.getUTCMonth()+1) + "-" + d.getUTCDate() + ' '+ d.getUTCHours() + ':' + d.getUTCMinutes() + ':' + d.getUTCSeconds();
 	}
 
-	function changeData(period) {
+	function changeData() {
 		var startDate;
 		var endDate;
 		if (gup('startdate')) {
-			startDate = new Date(decodeURIComponent(gup('startdate')));
+			startDate = decodeURIComponent(gup('startdate'));
 		} else {
 			startDate = new Date('2000-01-01T00:00');
 		}
 		if (gup('enddate')) {
-			endDate = new Date(decodeURIComponent(gup('enddate')));
+			endDate = decodeURIComponent(gup('enddate'));
 		} else {
 			endDate = null;
 		}
 
-	  var whereClause = "date_time > '" + dateToStr(startDate) + "'";
-	  if(period) {
-	    var now = new Date();
-	    var d = new Date(now - period);
-			if (d < startDate) {
-				d = startDate;
-			}
-			var datum = dateToStr(d);
-	    whereClause =  "date_time > '" + datum + "'";
-	  }
+	  var whereClause = "date_time > '" + startDate + "'";
 		if (endDate) {
-			whereClause += " AND date_time <= '" + dateToStr(endDate) + "'";
+			whereClause += " AND date_time <= '" + endDate + "'";
 		}
 	  var tableid = gup('tid'); // 1957455
 	  var col = gup('col'); // 1957455
@@ -99,7 +90,7 @@
 
 	</script>
 	</head>
-	<body onload="changeData(null);">
+	<body onload="changeData();">
 	<div id="visualization"></div>
     <div id="powered_img">
         <img src="/img/powered.png"/>
