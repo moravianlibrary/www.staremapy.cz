@@ -1025,6 +1025,13 @@ table.zbyva-zpracovat tr:first-child th {
   color: #737373;
   padding-top: 15px;
 }
+.header-list li {
+  margin: 7px 0 7px 0
+}
+.header-list li a {
+  font-size: 1.3em;
+  color: #545454;
+}
 /* Temporary hide */
 #cbvk, #nkp {
   display: none;
