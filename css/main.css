@@ -1028,9 +1028,15 @@ table.zbyva-zpracovat tr:first-child th {
 .header-list li {
   margin: 7px 0 7px 0
 }
-.header-list li a {
+.header-list li {
   font-size: 1.3em;
   color: #545454;
+}
+.summary {
+  height: 490px;
+}
+.text-big {
+  font-size: 1.3em;
 }
 /* Temporary hide */
 #cbvk, #nkp {

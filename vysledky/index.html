@@ -65,22 +65,14 @@
                 <ul class="header-list">
                   <li><a href="/vysledky/zpracovane">Seznam umístěných map</a></li>
                   <li><a href="/vysledky/nelze-umistit">Seznam obrázků, které nejsou mapami</a></li>
+                  <li>Nedávno zpracované mapy:</li>
                 </ul>
                 <div class="recent-maps" style="-webkit-overflow-scrolling:touch; overflow: hidden;">
                     <iframe width="860" height="150" frameBorder="0" marginheight="0" marginwidth="0" src="recent-maps.html?sql=SELECT+id,date_time,title,thumbnail,collection+FROM+1gpUBes9cpOkH3h-fNyS_4dnuLelIY-bSuWdNfqw+WHERE+status+=+'georeferenced'+AND+thumbnail+NOT+EQUAL+TO+''+ORDER+BY+date_time+DESC"></iframe>
                 </div>
-            	<div class="google-map">
-                    <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/fusiontables/embedviz?viz=MAP&amp;q=select+col7+from+1gpUBes9cpOkH3h-fNyS_4dnuLelIY-bSuWdNfqw&amp;h=false&amp;lat=49.46882995503961&amp;lng=14.668144835937493&amp;z=6&amp;t=1&amp;l=col7&amp;y=3&amp;tmplt=3"></iframe>
-                	<div class="google-map-popis">
-                   		Označení místa již zpracovaných map (Pro vyhledávání zpracovaných map použijte <a href="http://www.oldmapsonline.org/">OldMapsOnline.org</a>)
-            		</div>
-                </div>
-
-
-
+            	  <p class="text-big">Pro vyhledávání zpracovaných map použijte <a href="http://www.oldmapsonline.org/">OldMapsOnline.org</a></p>
 
                 <div id="main">
-
                     <h2 id="vysledky-souteze"><strong>Průběžné výsledky soutěže</strong></h2>
 
             	<div class="table-contributors">
@@ -116,6 +108,11 @@
                 <h2>Zbývající mapy</h2>
           <div class="statusbar">
              <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="progressbar.html?sql=SELECT+status,count()+FROM+1gpUBes9cpOkH3h-fNyS_4dnuLelIY-bSuWdNfqw+GROUP+BY+status"></iframe>
+          </div>
+
+          <h2>Přehled dle institucí</h2>
+          <div class="summary">
+            <iframe width="100%" height="100%" scrolling="no" frameborder="no" src="summary.html"></iframe>
           </div>
 
             <div class="zpracovat-mapu">
