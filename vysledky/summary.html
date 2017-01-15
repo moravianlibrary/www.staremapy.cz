@@ -117,7 +117,7 @@
 			dataTable.addColumn('number', 'Zpracované');
 			dataTable.addColumn('number', 'Nezpracované');
 			dataTable.addColumn('number', 'Nelze umístit');
-			dataTable.addColumn('number', 'Spolu');
+			dataTable.addColumn('number', 'Celkem');
 
 			var sumGeoreferenced = 0;
 			var sumNonGeoreferenced = 0;
@@ -137,7 +137,7 @@
 
 				dataTable.addRow([getInstitutionName(institution), georeferenced, nongeoreferenced, notamap, sum]);
 			}
-			dataTable.addRow(['Spolu', sumGeoreferenced, sumNonGeoreferenced, sumNotamap, sumSum]);
+			dataTable.addRow(['Celkem', sumGeoreferenced, sumNonGeoreferenced, sumNotamap, sumSum]);
 
       var cssClassNames = {headerRow: 'headerRow',
 				tableRow: "tableRow",
