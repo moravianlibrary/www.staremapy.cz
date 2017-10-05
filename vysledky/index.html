@@ -62,62 +62,70 @@
             <div id="content" class="subpage">
 
             <h1>Již zpracované mapy</h1>
-                <ul class="header-list">
-                  <li><a href="/vysledky/zpracovane">Seznam umístěných map</a></li>
-                  <li><a href="/vysledky/nelze-umistit">Seznam obrázků, které nejsou mapami</a></li>
-                  <li>Nedávno zpracované mapy:</li>
-                </ul>
                 <div class="recent-maps" style="-webkit-overflow-scrolling:touch; overflow: hidden;">
-                    <iframe width="860" height="150" frameBorder="0" marginheight="0" marginwidth="0" src="recent-maps.html?sql=SELECT+id,date_time,title,thumbnail,collection+FROM+1gpUBes9cpOkH3h-fNyS_4dnuLelIY-bSuWdNfqw+WHERE+status+=+'georeferenced'+AND+thumbnail+NOT+EQUAL+TO+''+ORDER+BY+date_time+DESC"></iframe>
+                    <iframe
+                      src="http://staremapy.georeferencer.com/api/v1/display?format=html"
+                      style="width:100%">
+                    </iframe>
                 </div>
             	  <p class="text-big">Pro vyhledávání zpracovaných map použijte <a href="http://www.oldmapsonline.org/">OldMapsOnline.org</a></p>
 
-                <div id="main">
-                    <h2 id="vysledky-souteze"><strong>Konečné výsledky soutěže</strong></h2>
-
-            	<div class="table-contributors">
-                <div class="top-contrib-table">
-                    <iframe width="100%" height="100%" scrolling="no" frameborder="no" src="topcontrib-competition.html?tid=1_uRktLvvt2dG34WBfBEZ5cedz5dAW-rosXXXd1o&startdate=2016-11-27%2023%3A0%3A0&enddate=2017-1-31%2023%3A0%3A0"></iframe>
-            	</div>
-                <div class="top-contrib-chart">
-                    <iframe style="background-color:transparent; margin-top:-50px;" width="100%" height="140%" scrolling="no" frameborder="no" src="charts.html?sql=select%20user_name%20AS%20%27Name%27%2C%20SUM(gcps_diff)%20as%20%27Control%20points%27%20FROM%201_uRktLvvt2dG34WBfBEZ5cedz5dAW-rosXXXd1o%20WHERE%20date_time%20%3E%20%272016-11-27%2023%3A0%3A0%27%20AND%20date_time%20%3C%3D%20%272017-1-31%2023%3A0%3A0%27%20GROUP%20BY%20user_name%20ORDER%20BY%20SUM(gcps_diff)%20DESC"></iframe>
-                </div>
-                </div>
-
-                    <h2>Zbývající mapy</h2>
-            	<div class="statusbar">
-           			<iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="progressbar2.html?sql=SELECT+status,count()+FROM+1gpUBes9cpOkH3h-fNyS_4dnuLelIY-bSuWdNfqw+GROUP+BY+status"></iframe>
-            	</div>
-
-                <div class="zpracovat-mapu">
-                	<a href="http://staremapy.georeferencer.cz/random"><img src="/img/button-zpracovat-mapu-random.png" alt="Zpracovat mapu"></a>
-                  <a href="zbyva-zpracovat/"><img src="/img/button-zpracovat-mapu-seznam.png" alt="Zpracovat mapu"></a>
-                </div>
-
                 <h2 id="celkove-vysledky" style="padding-bottom: 35px;"><strong>Celkové výsledky od počátku projektu</strong></h2>
 
+        <div id="main">
           <div class="table-contributors">
             <div class="top-contrib-table">
-                <iframe width="100%" height="100%" scrolling="no" frameborder="no" src="topcontrib.html?tid=1_uRktLvvt2dG34WBfBEZ5cedz5dAW-rosXXXd1o"></iframe>
+              <iframe
+                src="http://staremapy.georeferencer.com/api/v1/contributors?period=total&format=html&limit=10"
+                style="height: 300px;">
+              </iframe>
           </div>
             <div class="top-contrib-chart">
-                <iframe style="background-color:transparent; margin-top:-50px;" width="100%" height="140%" scrolling="no" frameborder="no" src="charts.html?sql=select%20col3,%20SUM(col2)%20from%201_uRktLvvt2dG34WBfBEZ5cedz5dAW-rosXXXd1o%20group%20by%20col3%20order%20by%20SUM(col2)%20desc"></iframe>
+              <div id="chart" style="width: 300px; height: 300px">
+                <div class="lds-css ng-scope" style="width: 200px; height: 200px; padding-top: 50px; margin: auto"> <div style="width:100%;height:100%" class="lds-wedges"> <div> <div> <div></div> </div> <div> <div></div> </div> <div> <div></div> </div> <div> <div></div> </div> </div> </div><style type="text/css">@keyframes lds-wedges { 0% { -webkit-transform: rotate(0deg); transform: rotate(0deg); } 100% { -webkit-transform: rotate(360deg); transform: rotate(360deg); }}@-webkit-keyframes lds-wedges { 0% { -webkit-transform: rotate(0deg); transform: rotate(0deg); } 100% { -webkit-transform: rotate(360deg); transform: rotate(360deg); }}.lds-wedges { position: relative;}.lds-wedges > div > div { -webkit-transform-origin: 100px 100px; transform-origin: 100px 100px; -webkit-animation: lds-wedges 4s linear infinite; animation: lds-wedges 4s linear infinite; opacity: 0.8;}.lds-wedges > div > div > div { position: absolute; left: 30px; top: 30px; width: 70px; height: 70px; border-radius: 70px 0 0 0; -webkit-transform-origin: 100px 100px; transform-origin: 100px 100px;}.lds-wedges > div div:nth-child(1) > div { background: #337ab7; -webkit-transform: rotate(0deg); transform: rotate(0deg);}.lds-wedges > div div:nth-child(1) { -webkit-animation-duration: 1s; animation-duration: 1s;}.lds-wedges > div div:nth-child(2) > div { background: #5bc0de; -webkit-transform: rotate(0deg); transform: rotate(0deg);}.lds-wedges > div div:nth-child(2) { -webkit-animation-duration: 1.333333333333333s; animation-duration: 1.333333333333333s;}.lds-wedges > div div:nth-child(3) > div { background: #5cb85c; -webkit-transform: rotate(0deg); transform: rotate(0deg);}.lds-wedges > div div:nth-child(3) { -webkit-animation-duration: 2s; animation-duration: 2s;}.lds-wedges > div div:nth-child(4) > div { background: #f0ad4e; -webkit-transform: rotate(0deg); transform: rotate(0deg);}.lds-wedges > div div:nth-child(4) { -webkit-animation-duration: 4s; animation-duration: 4s;}.lds-wedges { width: 200px !important; height: 200px !important; -webkit-transform: translate(-100px, -100px) scale(1) translate(100px, 100px); transform: translate(-100px, -100px) scale(1) translate(100px, 100px);}</style></div>
+              </div>
+
+              <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+              <script type="text/javascript">
+                google.charts.load('current', {'packages':['corechart']});
+                google.charts.setOnLoadCallback(initialize);
+                var dataUrl = "http://staremapy.georeferencer.com/api/v1/contributors?format=google-charts\u0026limit=10"
+                var chart;
+
+                function initialize() {
+                  chart = new google.visualization.PieChart(document.getElementById('chart'));
+                  var query = new google.visualization.Query(dataUrl);
+                  query.send(drawCart);
+                }
+
+                function drawCart(response) {
+                  var options = {
+                    backgroundColor: 'transparent',
+                    is3D: true,
+                    width: 300,
+                    height: 350,
+                    legend: {
+                      position: 'top',
+                      maxLines: 10
+                    }
+                  };
+                  chart.draw(response.getDataTable(), options);
+                }
+              </script>
             </div>
             </div>
 
                 <h2>Zbývající mapy</h2>
           <div class="statusbar">
-             <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="progressbar.html?sql=SELECT+status,count()+FROM+1gpUBes9cpOkH3h-fNyS_4dnuLelIY-bSuWdNfqw+GROUP+BY+status"></iframe>
-          </div>
-
-          <h2>Přehled dle institucí</h2>
-          <div class="summary">
-            <iframe width="100%" height="100%" scrolling="no" frameborder="no" src="summary.html"></iframe>
+            <iframe
+             src="http://staremapy.georeferencer.com/api/v1/progress?template=classic&format=html"
+             style="width: 100%; height: 170px"
+             allowtransparency>
+           </iframe>
           </div>
 
             <div class="zpracovat-mapu">
-              <a href="http://staremapy.georeferencer.cz/random"><img src="/img/button-zpracovat-mapu-random.png" alt="Zpracovat mapu"></a>
-              <a href="http://staremapy.cz/vysledky/zbyva-zpracovat/"><img src="/img/button-zpracovat-mapu-seznam.png" alt="Zpracovat mapu"></a>
+              <a href="http://staremapy.georeferencer.com/random"><img src="/img/button-zpracovat-mapu-random.png" alt="Zpracovat mapu"></a>
             </div>
 
 
