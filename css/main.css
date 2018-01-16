@@ -794,20 +794,26 @@ button {
     margin-bottom:-40px;
 	background-color: transparent;
 }
+
+.table {
+  margin: 10px 0 10px 0;
+}
+
+.table h3 {
+  margin-top: 0;
+}
 .table .table-contributors{
     margin-bottom:10px;
     height:250px;
 }
 .statusbar {
 	width: 100%;
-	height:120px;
 	margin-bottom:30px;
 	background-color: transparent;
 }
 
 .table-contributors {
 	width: 100%;
-	height:230px;
 	margin-bottom:30px;
 	background-color: transparent;
 }
@@ -943,12 +949,10 @@ button {
     height:250px;
 }
 
-.top-contrib-chart{
+.top-contrib-chart {
     display: inline-block;
-    width:293px;
     margin:0px;
     padding:0px;
-    height:200px;
 }
 
 .google-map-popis {
@@ -1041,5 +1045,9 @@ table.zbyva-zpracovat tr:first-child th {
 /* Temporary hide */
 #cbvk, #nkp {
   display: none;
+}
+
+.goog-tooltip div {
+  background-color: white !important;
 }
 /* This beautiful CSS-File has been crafted with LESS (lesscss.org) and compiled by simpLESS (wearekiss.com/simpless) */

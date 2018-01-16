@@ -112,10 +112,7 @@
                 	<p><a href="http://www.staremapy.cz/vysledky/" style="font-size:200%">Zpracované mapy jsou zde</a></p>
                 	<p>Nyní je můžete prohlížet, vylepšovat kvalitu geografického umístění a především použít nástroj "Ořez". Děkujeme za vaši pomoc!</p>
                 	-->
-                	<a href="http://staremapy.georeferencer.cz/random"><img src="img/start-projekt.png" alt=""></a><br>
-                  <h2 style="text-align: center">nebo</h2>
-                  <br>
-                  <a href="/vysledky/zbyva-zpracovat/"><img src="/img/button-zpracovat-mapu-seznam.png" alt="Zpracovat mapu"></a>
+                	<a href="http://staremapy.georeferencer.com/random"><img src="img/start-projekt.png" alt=""></a><br>
 
                   	<div class="social-icons">
                     	<iframe width="100%" height="50px" scrolling="no" frameborder="no" src="socials.html"></iframe>
@@ -172,18 +169,19 @@
                         <h2>Celkové výsledky od počátku projektu</h2>
                         <div class="progress">
                             <h3>Počet již zpracovaných map</h3>
-                            <div class="statusbar">
-                                <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="vysledky/progressbar.html?sql=SELECT+status,count()+FROM+1gpUBes9cpOkH3h-fNyS_4dnuLelIY-bSuWdNfqw+GROUP+BY+status"></iframe>
-                            </div>
+                            <iframe
+                              src="http://staremapy.georeferencer.com/api/v1/progress?template=classic&format=html"
+                              style="width: 100%; height: 170px"
+                              allowtransparency>
+                            </iframe>
                         </div>
                         <div class="table">
                             <h3>Nejaktivnější dobrovolníci</h3>
-                            <div class="table-contributors">
-                                <iframe width="100%" height="100%" scrolling="no" frameborder="no" src="topcontrib.html?tid=1_uRktLvvt2dG34WBfBEZ5cedz5dAW-rosXXXd1o"></iframe>
-                            </div>
+                            <iframe
+                              src="http://staremapy.georeferencer.com/api/v1/contributors?period=total&format=html&limit=5"
+                              style="width: 100%; height: 170px">
+                            </iframe>
                         </div>
-
-                        <div style="margin-bottom: 10px;"><h3 class="nomargin"><a href="/vysledky#celkove-vysledky">Celkové výsledky projektu</a></h3></div>
 
 
                         <h3 style="margin-top:0px">Najdete nás na</h3>
