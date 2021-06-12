@@ -176,13 +176,17 @@
                     </div>
 
                     <div class="column-right">
-                       <!--
-			<h2>Výsledky posledního kola soutěže</h2>
-			<div class="progress">
-                            <h3>Počet zpracovaných map</h3>
-                            <img src="soutez-vysledky/hlavni-stranka-mapy.png">
+                       
+			<h2>Aktuální stav:</h2>
+			<div>
+                            <iframe
+            			 src="https://staremapy.georeferencer.com/api/v1/progress?template=classic&format=html"
+             			style="width: 100%; height: 170px"
+             			allowtransparency>
+           			</iframe>
                         </div>
 			-->
+			<!--
 			<h2>Výsledky posledního kola soutěže<br>(8.7. - 31.8.2020)</h2>
 			<div>
              			<iframe
@@ -191,16 +195,20 @@
              			allowtransparency>
            			</iframe>
           		</div>
+-->
                         
                         <div class="table">
-                            <h3>Nejaktivnější dobrovolníci</h3>
+                            <h3>Nejaktivnější dobrovolníci:</h3>
                            <!--    
 			<img src="soutez-vysledky/hlavni-stranka-dobrovolnici.png">
 -->
 				<div>
-              				<iframe
+					<!-- vzor pro jednu sbírku (soutěž)
                 			src="https://staremapy.georeferencer.com/api/v1/contributors?period=total&collection=a5baf062-1f12-4504-83d4-f940e913a510&format=html&limit=10"
-                			style="height: 300px;">
+                		-->
+              				<iframe
+					src="https://staremapy.georeferencer.com/api/v1/contributors?period=total&limit=10"		
+					style="height: 300px;">
              			 	</iframe>
          			</div>
                         </div>
