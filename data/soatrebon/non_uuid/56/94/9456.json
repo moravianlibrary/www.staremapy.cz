@@ -1,0 +1,106 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_2111/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "9456",
+  "title": "Hospodářská mapa polesí Zámecký 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/9456",
+  "id": "75f44260-b56c-58c3-99bd-fa4ba4a59536",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        15283,
+        0
+      ],
+      [
+        15283,
+        21024
+      ],
+      [
+        0,
+        21024
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        15283,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:16:51.476720+00:00",
+    "transformation_method": "affine",
+    "mapID": "75f44260-b56c-58c3-99bd-fa4ba4a59536",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:16:51.476720+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.858984232,
+          49.032295486
+        ],
+        "pixel": [
+          12901,
+          5066
+        ]
+      },
+      {
+        "location": [
+          14.843802929,
+          49.031936742
+        ],
+        "pixel": [
+          8451,
+          4164
+        ]
+      },
+      {
+        "location": [
+          14.847702861,
+          49.000962401
+        ],
+        "pixel": [
+          6150,
+          18026
+        ]
+      },
+      {
+        "location": [
+          14.863758564,
+          49.011195494
+        ],
+        "pixel": [
+          11889,
+          14684
+        ]
+      },
+      {
+        "location": [
+          14.834879968,
+          49.016664022
+        ],
+        "pixel": [
+          4228,
+          10308
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1867"]
+}

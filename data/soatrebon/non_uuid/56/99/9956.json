@@ -1,0 +1,116 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_2611/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "9956",
+  "title": "Mapa pozemků dvora Vitmanov 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/9956",
+  "id": "0e283ebb-d49b-50b7-988d-46d83c925a86",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        17013,
+        0
+      ],
+      [
+        17013,
+        13725
+      ],
+      [
+        0,
+        13725
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        17013,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:19:34.345010+00:00",
+    "transformation_method": "polynomial",
+    "mapID": "0e283ebb-d49b-50b7-988d-46d83c925a86",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:19:34.345010+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.85473819158852,
+          49.03438148110726
+        ],
+        "pixel": [
+          10504,
+          3559
+        ]
+      },
+      {
+        "location": [
+          14.8330577579634,
+          49.03234783223567
+        ],
+        "pixel": [
+          4109,
+          4531
+        ]
+      },
+      {
+        "location": [
+          14.838746446125485,
+          49.031996258419866
+        ],
+        "pixel": [
+          5685,
+          4585
+        ]
+      },
+      {
+        "location": [
+          14.853403497117679,
+          49.029258124630275
+        ],
+        "pixel": [
+          10023,
+          5685
+        ]
+      },
+      {
+        "location": [
+          14.832887117754813,
+          49.02246021119936
+        ],
+        "pixel": [
+          3963,
+          8819
+        ]
+      },
+      {
+        "location": [
+          14.829449801081454,
+          49.03339444082283
+        ],
+        "pixel": [
+          2915,
+          3972
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1868"]
+}

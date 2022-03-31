@@ -1,0 +1,106 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/5758_08/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "47279",
+  "title": "Státní mapa 1:5000",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/47279",
+  "id": "65ea7a85-5b16-54cd-ab6a-617172167e50",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1536,
+        11296
+      ],
+      [
+        13952,
+        11296
+      ],
+      [
+        13952,
+        1216
+      ],
+      [
+        1536,
+        1216
+      ],
+      [
+        1536,
+        11296
+      ]
+    ],
+    "created": "2015-09-18T15:58:25.191360+00:00",
+    "transformation_method": "affine",
+    "mapID": "65ea7a85-5b16-54cd-ab6a-617172167e50",
+    "affine_transformation": null,
+    "changed": "2015-09-18T15:58:25.191360+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.788809119,
+          50.395503136
+        ],
+        "pixel": [
+          11582,
+          10958
+        ]
+      },
+      {
+        "location": [
+          12.780488491,
+          50.411901276
+        ],
+        "pixel": [
+          10187,
+          2008
+        ]
+      },
+      {
+        "location": [
+          12.770352424,
+          50.394128321
+        ],
+        "pixel": [
+          5330,
+          10690
+        ]
+      },
+      {
+        "location": [
+          12.774308681,
+          50.40823645
+        ],
+        "pixel": [
+          7787,
+          3564
+        ]
+      },
+      {
+        "location": [
+          12.764144628,
+          50.40434461
+        ],
+        "pixel": [
+          4118,
+          5056
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

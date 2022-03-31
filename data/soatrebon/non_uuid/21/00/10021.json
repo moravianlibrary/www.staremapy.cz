@@ -1,0 +1,86 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_2676/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "10021",
+  "title": "Hospodářská mapa a porostní bošileckého farního lesa 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/10021",
+  "id": "2aade83f-d4c3-5f1f-80a5-cb9b57c00b4c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        5779,
+        0
+      ],
+      [
+        5779,
+        9467
+      ],
+      [
+        0,
+        9467
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        5779,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:19:54.894920+00:00",
+    "transformation_method": "affine",
+    "mapID": "2aade83f-d4c3-5f1f-80a5-cb9b57c00b4c",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:19:54.894920+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.664261422,
+          49.150189493
+        ],
+        "pixel": [
+          1904,
+          1984
+        ]
+      },
+      {
+        "location": [
+          14.662695012,
+          49.150259668
+        ],
+        "pixel": [
+          1320,
+          1992
+        ]
+      },
+      {
+        "location": [
+          14.666299901,
+          49.150063178
+        ],
+        "pixel": [
+          2480,
+          2032
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1898"]
+}

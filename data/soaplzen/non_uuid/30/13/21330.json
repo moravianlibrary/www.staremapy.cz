@@ -1,0 +1,86 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Manetin_M_113_4/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "21330",
+  "title": "Katastrální mapa obce Korýtka",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/21330",
+  "id": "303bc63c-3056-5243-805c-8475b012b93f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        17566,
+        0
+      ],
+      [
+        17566,
+        14726
+      ],
+      [
+        0,
+        14726
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        17566,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:00:01.122330+00:00",
+    "transformation_method": "affine",
+    "mapID": "303bc63c-3056-5243-805c-8475b012b93f",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:00:01.122330+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.356072545,
+          49.943250685
+        ],
+        "pixel": [
+          6070,
+          3523
+        ]
+      },
+      {
+        "location": [
+          13.351410866,
+          49.944231114
+        ],
+        "pixel": [
+          3303,
+          2659
+        ]
+      },
+      {
+        "location": [
+          13.349066615,
+          49.933390051
+        ],
+        "pixel": [
+          1974,
+          12458
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1900"]
+}

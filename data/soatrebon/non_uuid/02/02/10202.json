@@ -1,0 +1,96 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_2857/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "10202",
+  "title": "Plán třeboňského pivovaru 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/10202",
+  "id": "ebfb5429-3729-544c-a96a-15e660b7aa97",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        839,
+        13869
+      ],
+      [
+        18311,
+        13869
+      ],
+      [
+        18311,
+        1005
+      ],
+      [
+        839,
+        1005
+      ],
+      [
+        839,
+        13869
+      ]
+    ],
+    "created": "2016-03-15T20:34:49.619420+00:00",
+    "transformation_method": "affine",
+    "mapID": "ebfb5429-3729-544c-a96a-15e660b7aa97",
+    "affine_transformation": null,
+    "changed": "2016-03-15T20:34:49.619420+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.77127105,
+          49.002386881
+        ],
+        "pixel": [
+          1182,
+          3442
+        ]
+      },
+      {
+        "location": [
+          14.771598279,
+          49.001876593
+        ],
+        "pixel": [
+          1310,
+          13362
+        ]
+      },
+      {
+        "location": [
+          14.77290988,
+          49.002235554
+        ],
+        "pixel": [
+          17758,
+          13138
+        ]
+      },
+      {
+        "location": [
+          14.77255851,
+          49.002726483
+        ],
+        "pixel": [
+          17758,
+          3474
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1861"]
+}

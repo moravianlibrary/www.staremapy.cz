@@ -1,0 +1,106 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plana_M_9-4/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "14815",
+  "title": "Katastrální mapa obce Kříženec",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/14815",
+  "id": "7debada1-bbf6-5a9b-8695-6192cfe535f9",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        7584,
+        5248
+      ],
+      [
+        17600,
+        5248
+      ],
+      [
+        17600,
+        192
+      ],
+      [
+        7584,
+        192
+      ],
+      [
+        7584,
+        5248
+      ]
+    ],
+    "created": "2015-05-11T08:29:55.851170+00:00",
+    "transformation_method": "affine",
+    "mapID": "7debada1-bbf6-5a9b-8695-6192cfe535f9",
+    "affine_transformation": null,
+    "changed": "2015-05-11T08:29:55.851170+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.785998991,
+          49.870421748
+        ],
+        "pixel": [
+          12345,
+          2859
+        ]
+      },
+      {
+        "location": [
+          12.790033035,
+          49.87112361
+        ],
+        "pixel": [
+          14824,
+          2310
+        ]
+      },
+      {
+        "location": [
+          12.780058446,
+          49.87243896
+        ],
+        "pixel": [
+          9130,
+          919
+        ]
+      },
+      {
+        "location": [
+          12.794040255,
+          49.868779425
+        ],
+        "pixel": [
+          17151,
+          4541
+        ]
+      },
+      {
+        "location": [
+          12.779100681,
+          49.872231114
+        ],
+        "pixel": [
+          8607,
+          1035
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1842"]
+}

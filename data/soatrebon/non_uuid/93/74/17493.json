@@ -1,0 +1,96 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/hluboka_0023/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "17493",
+  "title": "Přehledná mapa pozemků náležejících obcím Hůry a Libníč, které leží u nové stoky, vybudované r. 1765 pro potřebu dolů 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/17493",
+  "id": "4cd26060-0707-59a2-a6a1-d29d7cd8499c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        15604,
+        0
+      ],
+      [
+        15604,
+        23066
+      ],
+      [
+        0,
+        23066
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        15604,
+        0
+      ]
+    ],
+    "created": "2014-11-25T18:14:16.499820+00:00",
+    "transformation_method": "affine",
+    "mapID": "4cd26060-0707-59a2-a6a1-d29d7cd8499c",
+    "affine_transformation": null,
+    "changed": "2014-11-25T18:14:16.499820+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.550492202611984,
+          49.02114508626087
+        ],
+        "pixel": [
+          6766,
+          1835
+        ]
+      },
+      {
+        "location": [
+          14.55475231727777,
+          49.02147255982956
+        ],
+        "pixel": [
+          11610,
+          1580
+        ]
+      },
+      {
+        "location": [
+          14.553883191102932,
+          49.02150195956136
+        ],
+        "pixel": [
+          10271,
+          1433
+        ]
+      },
+      {
+        "location": [
+          14.558715693557446,
+          49.007576890419216
+        ],
+        "pixel": [
+          13501,
+          21970
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1765"]
+}

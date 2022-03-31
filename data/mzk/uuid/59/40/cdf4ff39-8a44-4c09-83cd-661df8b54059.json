@@ -1,0 +1,106 @@
+{
+  "date": ["1931"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.mzk.cz/search/iiif/uuid:cdf4ff39-8a44-4c09-83cd-661df8b54059/info.json",
+  "description": null,
+  "scale": 300000,
+  "external_id": "cdf4ff39-8a44-4c09-83cd-661df8b54059",
+  "title": "Autokarte der Tschechoslowakischen Republik",
+  "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": "Verlag und Druck der Kartogr. Anstalt G. Freytag & Berndt",
+  "link_url": "https://www.digitalniknihovna.cz/mzk/view/uuid:2a3accd1-7c14-4653-8c57-16d3b0de056a?page=uuid:cdf4ff39-8a44-4c09-83cd-661df8b54059",
+  "id": "3d798099-309b-5669-b82c-43c24fc025a5",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        16512,
+        8268
+      ],
+      [
+        18705,
+        8273
+      ],
+      [
+        18677,
+        10747
+      ],
+      [
+        16491,
+        10733
+      ],
+      [
+        16512,
+        8268
+      ]
+    ],
+    "created": "2019-02-19T12:02:41.388780+00:00",
+    "transformation_method": "affine",
+    "mapID": "3d798099-309b-5669-b82c-43c24fc025a5",
+    "affine_transformation": null,
+    "changed": "2019-02-19T12:02:41.388780+00:00",
+    "gcps": [
+      {
+        "location": [
+          21.23931001208962,
+          49.00192728858343
+        ],
+        "pixel": [
+          17399,
+          9086
+        ]
+      },
+      {
+        "location": [
+          21.24767850421611,
+          48.98852422454442
+        ],
+        "pixel": [
+          17782,
+          10176
+        ]
+      },
+      {
+        "location": [
+          21.227174669817312,
+          48.999620091072046
+        ],
+        "pixel": [
+          16818,
+          9267
+        ]
+      },
+      {
+        "location": [
+          21.24276542908255,
+          48.98684712227109
+        ],
+        "pixel": [
+          17598,
+          10278
+        ]
+      },
+      {
+        "location": [
+          21.243623735967304,
+          48.99387315402362
+        ],
+        "pixel": [
+          17575,
+          9652
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

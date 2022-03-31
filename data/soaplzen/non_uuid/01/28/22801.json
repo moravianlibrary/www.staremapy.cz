@@ -1,0 +1,106 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Tachov_M_151/ImageProperties.xml",
+  "description": null,
+  "scale": 3612,
+  "external_id": "22801",
+  "title": "Lesní mapa sekce č. IV revíru Slatina, část hranice sousedící s pozemky obce Slatina",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/22801",
+  "id": "47acd4aa-3e41-5503-ad4f-be7aeef1f1c5",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        6453,
+        10878
+      ],
+      [
+        13557,
+        10878
+      ],
+      [
+        13557,
+        4926
+      ],
+      [
+        6453,
+        4926
+      ],
+      [
+        6453,
+        10878
+      ]
+    ],
+    "created": "2015-05-01T14:45:01.993010+00:00",
+    "transformation_method": "affine",
+    "mapID": "47acd4aa-3e41-5503-ad4f-be7aeef1f1c5",
+    "affine_transformation": null,
+    "changed": "2015-05-01T14:45:01.993010+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.527577834,
+          49.926624515
+        ],
+        "pixel": [
+          7417,
+          10451
+        ]
+      },
+      {
+        "location": [
+          12.528886752,
+          49.932308544
+        ],
+        "pixel": [
+          9953,
+          7098
+        ]
+      },
+      {
+        "location": [
+          12.534058051,
+          49.933717361
+        ],
+        "pixel": [
+          12489,
+          6706
+        ]
+      },
+      {
+        "location": [
+          12.527921157,
+          49.932059925
+        ],
+        "pixel": [
+          9217,
+          6890
+        ]
+      },
+      {
+        "location": [
+          12.532877879,
+          49.931756055
+        ],
+        "pixel": [
+          11466,
+          8325
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1810"]
+}

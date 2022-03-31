@@ -1,0 +1,110 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/orlik_0363/ImageProperties.xml",
+  "description": null,
+  "scale": 25000,
+  "external_id": "16652",
+  "title": "Původní nákres předcházející porostní mapy z r. 1890 na pauzovacím papíře 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/16652",
+  "id": "9f678fc7-76d2-58f4-9106-77427ee510af",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        32,
+        15024
+      ],
+      [
+        7824,
+        15088
+      ],
+      [
+        21216,
+        14912
+      ],
+      [
+        21216,
+        64
+      ],
+      [
+        -96,
+        64
+      ],
+      [
+        32,
+        15024
+      ]
+    ],
+    "created": "2015-06-25T08:50:01.510580+00:00",
+    "transformation_method": "affine",
+    "mapID": "9f678fc7-76d2-58f4-9106-77427ee510af",
+    "affine_transformation": null,
+    "changed": "2015-06-25T08:50:01.510580+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.070908441,
+          49.472516107
+        ],
+        "pixel": [
+          1957,
+          3844
+        ]
+      },
+      {
+        "location": [
+          14.143146581,
+          49.461459928
+        ],
+        "pixel": [
+          6874,
+          4971
+        ]
+      },
+      {
+        "location": [
+          14.125904454,
+          49.37711977
+        ],
+        "pixel": [
+          5781,
+          13757
+        ]
+      },
+      {
+        "location": [
+          14.21186389,
+          49.500409041
+        ],
+        "pixel": [
+          11543,
+          835
+        ]
+      },
+      {
+        "location": [
+          14.290787309,
+          49.383394406
+        ],
+        "pixel": [
+          17050,
+          13009
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1890"]
+}

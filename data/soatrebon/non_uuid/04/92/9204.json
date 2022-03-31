@@ -1,0 +1,106 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1859/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "9204",
+  "title": "Val o. Tábor 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/9204",
+  "id": "4ac1a3b0-efc9-5558-a4d0-49591d377a85",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        127,
+        17319
+      ],
+      [
+        9663,
+        17319
+      ],
+      [
+        9663,
+        167
+      ],
+      [
+        127,
+        167
+      ],
+      [
+        127,
+        17319
+      ]
+    ],
+    "created": "2017-01-11T21:41:24.420820+00:00",
+    "transformation_method": "affine",
+    "mapID": "4ac1a3b0-efc9-5558-a4d0-49591d377a85",
+    "affine_transformation": null,
+    "changed": "2017-01-11T21:41:24.420820+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.73310256,
+          49.138169687
+        ],
+        "pixel": [
+          7329,
+          6805
+        ]
+      },
+      {
+        "location": [
+          14.722196698,
+          49.143209218
+        ],
+        "pixel": [
+          911,
+          2333
+        ]
+      },
+      {
+        "location": [
+          14.725383162,
+          49.144451475
+        ],
+        "pixel": [
+          2735,
+          1207
+        ]
+      },
+      {
+        "location": [
+          14.727802515,
+          49.130490084
+        ],
+        "pixel": [
+          4464,
+          13804
+        ]
+      },
+      {
+        "location": [
+          14.730299461,
+          49.13397597
+        ],
+        "pixel": [
+          5637,
+          10661
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1838"]
+}

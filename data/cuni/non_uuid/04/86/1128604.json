@@ -1,0 +1,103 @@
+{
+  "date": ["1854"],
+  "creator": "Handtke, Friedrich",
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://digitool.is.cuni.cz:5881/ImageServer/imageInfo.jsp?filename=L2V4bGlicmlzL2R0bC9zdG9yYWdlX21hcC8yMDEzLzA5LzAzL3ZpZXdfMS8xMTI4NjA2",
+  "description": null,
+  "scale": 350000,
+  "external_id": "1128604",
+  "title": "Special-Karte der Halbinsel Krymm [sic]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": "C. Flemming",
+  "link_url": "http://digitool.is.cuni.cz/R/?func=dbin-jump-full&object_id=1128604",
+  "id": "53f34e26-1661-54e9-b01a-ce354a4195a7",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        3390,
+        0
+      ],
+      [
+        3390,
+        2748
+      ],
+      [
+        0,
+        2748
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        3390,
+        0
+      ]
+    ],
+    "created": "2014-08-19T14:11:31.924890+00:00",
+    "transformation_method": "affine",
+    "mapID": "53f34e26-1661-54e9-b01a-ce354a4195a7",
+    "affine_transformation": [
+      120.08580335460395,
+      0,
+      0,
+      -123.4327936944115,
+      3614238.287286348,
+      5822623.848512436
+    ],
+    "changed": "2014-08-19T14:11:31.924890+00:00",
+    "gcps": [
+      {
+        "location": [
+          33.53493112792969,
+          45.11675052535119
+        ],
+        "pixel": [
+          987,
+          1477
+        ]
+      },
+      {
+        "location": [
+          34.900334168029254,
+          45.87332970019912
+        ],
+        "pixel": [
+          2254,
+          517
+        ]
+      },
+      {
+        "location": [
+          33.85628122558596,
+          46.159232980800994
+        ],
+        "pixel": [
+          1277,
+          147
+        ]
+      },
+      {
+        "location": [
+          33.8576545166016,
+          46.16018419158834
+        ],
+        "pixel": [
+          1305,
+          116
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1854"]
+}

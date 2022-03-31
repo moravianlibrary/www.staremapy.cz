@@ -1,0 +1,106 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/5474_1/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "47028",
+  "title": "Mapa světa",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/47028",
+  "id": "a1f1a50a-0fdf-59c9-a2a9-f34ab8ceb49e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        18870,
+        0
+      ],
+      [
+        18870,
+        22429
+      ],
+      [
+        0,
+        22429
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        18870,
+        0
+      ]
+    ],
+    "created": "2014-11-25T16:28:46.115630+00:00",
+    "transformation_method": "affine",
+    "mapID": "a1f1a50a-0fdf-59c9-a2a9-f34ab8ceb49e",
+    "affine_transformation": null,
+    "changed": "2014-11-25T16:28:46.115630+00:00",
+    "gcps": [
+      {
+        "location": [
+          -154.1347466011508,
+          56.7648524238721
+        ],
+        "pixel": [
+          10099,
+          3555
+        ]
+      },
+      {
+        "location": [
+          -65.12760148617787,
+          -54.66102952807149
+        ],
+        "pixel": [
+          14697,
+          16742
+        ]
+      },
+      {
+        "location": [
+          -81.0019932672868,
+          -2.185093805000321
+        ],
+        "pixel": [
+          10946,
+          11285
+        ]
+      },
+      {
+        "location": [
+          -164.95536433281143,
+          54.59072221074089
+        ],
+        "pixel": [
+          9255,
+          3460
+        ]
+      },
+      {
+        "location": [
+          -11.51893146426135,
+          81.34162860945145
+        ],
+        "pixel": [
+          18226,
+          3029
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

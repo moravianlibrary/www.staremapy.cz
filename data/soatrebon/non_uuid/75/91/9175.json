@@ -1,0 +1,106 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1830/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "9175",
+  "title": "Horusice o. Tábor 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/9175",
+  "id": "a99f0fdc-9086-5b88-907b-55ce389c96f3",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        14975,
+        0
+      ],
+      [
+        14975,
+        9370
+      ],
+      [
+        0,
+        9370
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        14975,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:15:24.345460+00:00",
+    "transformation_method": "affine",
+    "mapID": "a99f0fdc-9086-5b88-907b-55ce389c96f3",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:15:24.345460+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.716025929108715,
+          49.1492894564376
+        ],
+        "pixel": [
+          5281,
+          6844
+        ]
+      },
+      {
+        "location": [
+          14.716304878846266,
+          49.151001728083116
+        ],
+        "pixel": [
+          5532,
+          5201
+        ]
+      },
+      {
+        "location": [
+          14.716360412368546,
+          49.1474887280109
+        ],
+        "pixel": [
+          5477,
+          8191
+        ]
+      },
+      {
+        "location": [
+          14.711374790507772,
+          49.14989716229428
+        ],
+        "pixel": [
+          2381,
+          6409
+        ]
+      },
+      {
+        "location": [
+          14.717184643403096,
+          49.14987893368368
+        ],
+        "pixel": [
+          5946,
+          6052
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

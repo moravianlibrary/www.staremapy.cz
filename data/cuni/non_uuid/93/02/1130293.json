@@ -1,0 +1,113 @@
+{
+  "date": ["1892"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://digitool.is.cuni.cz:5881/ImageServer/imageInfo.jsp?filename=L2V4bGlicmlzL2R0bC9zdG9yYWdlX21hcC8yMDEzLzA5LzAzL3ZpZXdfMS8xMTMwMjk1",
+  "description": "Kolín (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1130293",
+  "title": "Neu-Kolin",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Ansion",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "http://digitool.is.cuni.cz/R/?func=dbin-jump-full&object_id=1130293",
+  "id": "d58b98f0-a60e-5c8b-bc90-299d7364cf0a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        2630,
+        134
+      ],
+      [
+        2623,
+        2022
+      ],
+      [
+        205,
+        2020
+      ],
+      [
+        219,
+        127
+      ],
+      [
+        2630,
+        134
+      ]
+    ],
+    "created": "2014-08-19T14:23:08.300920+00:00",
+    "transformation_method": "affine",
+    "mapID": "d58b98f0-a60e-5c8b-bc90-299d7364cf0a",
+    "affine_transformation": [
+      23.02370077236073,
+      0,
+      0,
+      -22.990512950006536,
+      1646453.9068669823,
+      6492508.500523662
+    ],
+    "changed": "2014-08-19T14:23:08.300920+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.201427982696647,
+          50.028162575895436
+        ],
+        "pixel": [
+          1982,
+          1801
+        ]
+      },
+      {
+        "location": [
+          15.321273972552113,
+          50.21263234672392
+        ],
+        "pixel": [
+          2570,
+          405
+        ]
+      },
+      {
+        "location": [
+          14.8453629022217,
+          50.208947161027766
+        ],
+        "pixel": [
+          268,
+          438
+        ]
+      },
+      {
+        "location": [
+          15.044393846693167,
+          50.185112421720106
+        ],
+        "pixel": [
+          1231,
+          610
+        ]
+      },
+      {
+        "location": [
+          14.875317812500038,
+          50.064205429792
+        ],
+        "pixel": [
+          409,
+          1525
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1892"]
+}

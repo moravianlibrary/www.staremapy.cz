@@ -1,0 +1,106 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/orlik_0123/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "16412",
+  "title": "Náčrt hranic panství Orlíka a Petrovic u rybníka Homole, vyhotovený při jednání hraniční komise v r. 1777, list 2 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/16412",
+  "id": "c51394bd-e516-5977-84e1-5aab8f6c982a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1720,
+        2618
+      ],
+      [
+        7576,
+        2618
+      ],
+      [
+        7576,
+        1018
+      ],
+      [
+        1720,
+        1018
+      ],
+      [
+        1720,
+        2618
+      ]
+    ],
+    "created": "2016-01-10T20:03:47.668250+00:00",
+    "transformation_method": "affine",
+    "mapID": "c51394bd-e516-5977-84e1-5aab8f6c982a",
+    "affine_transformation": null,
+    "changed": "2016-01-10T20:03:47.668250+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.2997365,
+          49.500333093
+        ],
+        "pixel": [
+          1952,
+          2504
+        ]
+      },
+      {
+        "location": [
+          14.30415678,
+          49.503761118
+        ],
+        "pixel": [
+          7424,
+          1160
+        ]
+      },
+      {
+        "location": [
+          14.302354336,
+          49.502367641
+        ],
+        "pixel": [
+          5936,
+          1992
+        ]
+      },
+      {
+        "location": [
+          14.304285526,
+          49.501782369
+        ],
+        "pixel": [
+          7344,
+          2392
+        ]
+      },
+      {
+        "location": [
+          14.297805309,
+          49.501057737
+        ],
+        "pixel": [
+          2000,
+          1336
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1777"]
+}

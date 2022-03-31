@@ -1,0 +1,86 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plasy_M_138_3/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "20544",
+  "title": "Katastrální mapa obce Kopidlo-Kočín",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/20544",
+  "id": "446c95de-1e0e-5d76-9a8d-5f68d26212ab",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        17808,
+        0
+      ],
+      [
+        17808,
+        14602
+      ],
+      [
+        0,
+        14602
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        17808,
+        0
+      ]
+    ],
+    "created": "2014-11-25T16:32:34.929510+00:00",
+    "transformation_method": "affine",
+    "mapID": "446c95de-1e0e-5d76-9a8d-5f68d26212ab",
+    "affine_transformation": null,
+    "changed": "2014-11-25T16:32:34.929510+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.482613206,
+          49.938388982
+        ],
+        "pixel": [
+          2794,
+          8511
+        ]
+      },
+      {
+        "location": [
+          13.482323527,
+          49.944820744
+        ],
+        "pixel": [
+          2740,
+          2711
+        ]
+      },
+      {
+        "location": [
+          13.493513703,
+          49.934508105
+        ],
+        "pixel": [
+          9088,
+          12047
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1930"]
+}

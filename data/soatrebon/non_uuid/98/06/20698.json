@@ -1,0 +1,86 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/orlik_1261/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "20698",
+  "title": "Zalužany, okr. Příbram, list 3 list 3",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/20698",
+  "id": "809cebc2-f0b8-5020-a9dc-b51ba1fe4aca",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        -32,
+        16720
+      ],
+      [
+        15360,
+        16720
+      ],
+      [
+        15360,
+        -16
+      ],
+      [
+        -32,
+        -16
+      ],
+      [
+        -32,
+        16720
+      ]
+    ],
+    "created": "2015-08-03T17:39:30.345180+00:00",
+    "transformation_method": "affine",
+    "mapID": "809cebc2-f0b8-5020-a9dc-b51ba1fe4aca",
+    "affine_transformation": null,
+    "changed": "2015-08-03T17:39:30.345180+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.125523194,
+          49.528032816
+        ],
+        "pixel": [
+          14936,
+          16033
+        ]
+      },
+      {
+        "location": [
+          14.102279171,
+          49.532304938
+        ],
+        "pixel": [
+          1343,
+          12146
+        ]
+      },
+      {
+        "location": [
+          14.116468057,
+          49.543761575
+        ],
+        "pixel": [
+          9627,
+          1734
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1880"]
+}

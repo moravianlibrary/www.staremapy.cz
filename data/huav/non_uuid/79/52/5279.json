@@ -1,0 +1,106 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/huav/III_vojenske_mapovani/75/4256/ImageProperties.xml",
+  "description": null,
+  "scale": 75000,
+  "external_id": "5279",
+  "title": "III. vojenské mapování 4256",
+  "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/5279",
+  "id": "01b7412a-710b-5bd9-b646-3cb715941a8f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        599,
+        6300
+      ],
+      [
+        8154,
+        6324
+      ],
+      [
+        8135,
+        533
+      ],
+      [
+        608,
+        519
+      ],
+      [
+        599,
+        6300
+      ]
+    ],
+    "created": "2014-12-08T00:35:23.433850+00:00",
+    "transformation_method": "affine",
+    "mapID": "01b7412a-710b-5bd9-b646-3cb715941a8f",
+    "affine_transformation": null,
+    "changed": "2014-12-08T00:35:23.433850+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.109566288,
+          49.388783657
+        ],
+        "pixel": [
+          4763,
+          3086
+        ]
+      },
+      {
+        "location": [
+          16.167630749,
+          49.324334773
+        ],
+        "pixel": [
+          5651,
+          4596
+        ]
+      },
+      {
+        "location": [
+          16.000293284,
+          49.269954814
+        ],
+        "pixel": [
+          3112,
+          5842
+        ]
+      },
+      {
+        "location": [
+          15.880921227,
+          49.394008533
+        ],
+        "pixel": [
+          1314,
+          2948
+        ]
+      },
+      {
+        "location": [
+          16.216993283,
+          49.476347527
+        ],
+        "pixel": [
+          6380,
+          1058
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

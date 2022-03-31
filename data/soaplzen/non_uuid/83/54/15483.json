@@ -1,0 +1,96 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plana_M_110-12/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "15483",
+  "title": "Hospodářská a porostní mapa revíru Plánská Huť",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/15483",
+  "id": "c40128c3-299d-5ff1-9206-347223ebdaca",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        18064,
+        0
+      ],
+      [
+        18064,
+        14288
+      ],
+      [
+        0,
+        14288
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        18064,
+        0
+      ]
+    ],
+    "created": "2014-11-25T16:32:49.957420+00:00",
+    "transformation_method": "affine",
+    "mapID": "c40128c3-299d-5ff1-9206-347223ebdaca",
+    "affine_transformation": null,
+    "changed": "2014-11-25T16:32:49.957420+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.608495587,
+          50.028190005
+        ],
+        "pixel": [
+          10032,
+          2944
+        ]
+      },
+      {
+        "location": [
+          12.605491513,
+          50.025598423
+        ],
+        "pixel": [
+          6800,
+          1728
+        ]
+      },
+      {
+        "location": [
+          12.604118222,
+          50.021793507
+        ],
+        "pixel": [
+          2224,
+          1824
+        ]
+      },
+      {
+        "location": [
+          12.611868543,
+          50.02847321
+        ],
+        "pixel": [
+          10680,
+          6224
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1830"]
+}

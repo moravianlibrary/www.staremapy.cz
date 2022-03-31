@@ -1,0 +1,126 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/domousice_0130/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "15826",
+  "title": "Hospodářská mapa polesí Třeboc, list 3 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/15826",
+  "id": "a4f5a536-c784-5f01-8292-acea234c4ecb",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        18103,
+        0
+      ],
+      [
+        18103,
+        15514
+      ],
+      [
+        0,
+        15514
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        18103,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:29:26.013690+00:00",
+    "transformation_method": "affine",
+    "mapID": "a4f5a536-c784-5f01-8292-acea234c4ecb",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:29:26.013690+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.790928545166018,
+          50.21624451432868
+        ],
+        "pixel": [
+          13828,
+          8951
+        ]
+      },
+      {
+        "location": [
+          13.77616431197673,
+          50.21122093961449
+        ],
+        "pixel": [
+          4462,
+          11840
+        ]
+      },
+      {
+        "location": [
+          13.779727640319829,
+          50.22299948610174
+        ],
+        "pixel": [
+          8577,
+          1685
+        ]
+      },
+      {
+        "location": [
+          13.78683237472403,
+          50.21023989380055
+        ],
+        "pixel": [
+          10408,
+          13864
+        ]
+      },
+      {
+        "location": [
+          13.785735788513188,
+          50.22360354267258
+        ],
+        "pixel": [
+          12078,
+          1721
+        ]
+      },
+      {
+        "location": [
+          13.786465349365237,
+          50.21297652210839
+        ],
+        "pixel": [
+          10654,
+          11342
+        ]
+      },
+      {
+        "location": [
+          13.771530809570315,
+          50.21476158761632
+        ],
+        "pixel": [
+          2363,
+          7959
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1885"]
+}

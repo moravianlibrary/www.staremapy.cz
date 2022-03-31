@@ -1,0 +1,106 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1366/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "7242",
+  "title": "Líšnice o. České Budějovice 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/7242",
+  "id": "bdd8b0d5-25a0-5d71-abc2-2fbe922ebc19",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1376,
+        13520
+      ],
+      [
+        16448,
+        13520
+      ],
+      [
+        16384,
+        1360
+      ],
+      [
+        1312,
+        1360
+      ],
+      [
+        1376,
+        13520
+      ]
+    ],
+    "created": "2015-02-18T21:01:04.547840+00:00",
+    "transformation_method": "affine",
+    "mapID": "bdd8b0d5-25a0-5d71-abc2-2fbe922ebc19",
+    "affine_transformation": null,
+    "changed": "2015-02-18T21:01:04.547840+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.49733344,
+          49.141478388
+        ],
+        "pixel": [
+          13440,
+          1821
+        ]
+      },
+      {
+        "location": [
+          14.487473639,
+          49.129004528
+        ],
+        "pixel": [
+          7724,
+          13231
+        ]
+      },
+      {
+        "location": [
+          14.495595368,
+          49.134978614
+        ],
+        "pixel": [
+          12413,
+          7757
+        ]
+      },
+      {
+        "location": [
+          14.490466984,
+          49.136944078
+        ],
+        "pixel": [
+          9260,
+          6034
+        ]
+      },
+      {
+        "location": [
+          14.47742072,
+          49.137758319
+        ],
+        "pixel": [
+          1677,
+          5446
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

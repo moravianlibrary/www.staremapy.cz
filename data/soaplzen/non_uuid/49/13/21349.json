@@ -1,0 +1,110 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Manetin_M_120_2/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "21349",
+  "title": "Katastrální mapa obce Radějov",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/21349",
+  "id": "9c40e934-72d6-519e-869e-ecd1da505646",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        5056,
+        1295
+      ],
+      [
+        17888,
+        1135
+      ],
+      [
+        17792,
+        13871
+      ],
+      [
+        2048,
+        14095
+      ],
+      [
+        1856,
+        12207
+      ],
+      [
+        5056,
+        1295
+      ]
+    ],
+    "created": "2015-05-11T19:00:11.630750+00:00",
+    "transformation_method": "affine",
+    "mapID": "9c40e934-72d6-519e-869e-ecd1da505646",
+    "affine_transformation": null,
+    "changed": "2015-05-11T19:00:11.630750+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.2177111,
+          49.944788952
+        ],
+        "pixel": [
+          3256,
+          13679
+        ]
+      },
+      {
+        "location": [
+          13.219427714,
+          49.952762735
+        ],
+        "pixel": [
+          4608,
+          6392
+        ]
+      },
+      {
+        "location": [
+          13.220457682,
+          49.956738778
+        ],
+        "pixel": [
+          4720,
+          3768
+        ]
+      },
+      {
+        "location": [
+          13.218902001,
+          49.954170954
+        ],
+        "pixel": [
+          4232,
+          5439
+        ]
+      },
+      {
+        "location": [
+          13.219341883,
+          49.9554963
+        ],
+        "pixel": [
+          4352,
+          4504
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1841"]
+}

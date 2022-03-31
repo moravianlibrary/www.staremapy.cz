@@ -1,0 +1,96 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/Vs_Litomysl_854/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "22149",
+  "title": "Porostní mapa kostelního lesa v Dolním Újezdě",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/22149",
+  "id": "37fe06f2-cbf4-595f-84da-c96cfd3282f7",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        5214,
+        0
+      ],
+      [
+        5214,
+        8195
+      ],
+      [
+        0,
+        8195
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        5214,
+        0
+      ]
+    ],
+    "created": "2014-11-25T18:43:47.335470+00:00",
+    "transformation_method": "affine",
+    "mapID": "37fe06f2-cbf4-595f-84da-c96cfd3282f7",
+    "affine_transformation": null,
+    "changed": "2022-02-21T07:26:58.495956+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.270816326,
+          49.831388632
+        ],
+        "pixel": [
+          1168,
+          5068
+        ]
+      },
+      {
+        "location": [
+          16.274614334,
+          49.834807248
+        ],
+        "pixel": [
+          3216,
+          1732
+        ]
+      },
+      {
+        "location": [
+          16.275258064,
+          49.831070288
+        ],
+        "pixel": [
+          3552,
+          5268
+        ]
+      },
+      {
+        "location": [
+          16.275579929,
+          49.832523585
+        ],
+        "pixel": [
+          3856,
+          4092
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1909"]
+}

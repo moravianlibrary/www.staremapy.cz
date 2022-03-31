@@ -1,0 +1,110 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_pardubice_324_XIV/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "23863",
+  "title": "Indikační skica mapy stabilního katastru pro město (Lázně) Bohdaneč XIV.",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/23863",
+  "id": "96db4ec4-20bc-53cc-8757-b6aaf3dd9486",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        336,
+        10512
+      ],
+      [
+        3664,
+        10512
+      ],
+      [
+        5088,
+        5232
+      ],
+      [
+        5744,
+        464
+      ],
+      [
+        336,
+        464
+      ],
+      [
+        336,
+        10512
+      ]
+    ],
+    "created": "2015-06-26T13:09:40.660250+00:00",
+    "transformation_method": "affine",
+    "mapID": "96db4ec4-20bc-53cc-8757-b6aaf3dd9486",
+    "affine_transformation": null,
+    "changed": "2015-06-26T13:09:40.660250+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.703580401,
+          50.063703111
+        ],
+        "pixel": [
+          767,
+          8835
+        ]
+      },
+      {
+        "location": [
+          15.703859351,
+          50.063186567
+        ],
+        "pixel": [
+          951,
+          9287
+        ]
+      },
+      {
+        "location": [
+          15.70561888,
+          50.063193454
+        ],
+        "pixel": [
+          1943,
+          9255
+        ]
+      },
+      {
+        "location": [
+          15.707163833,
+          50.065982727
+        ],
+        "pixel": [
+          2775,
+          6723
+        ]
+      },
+      {
+        "location": [
+          15.708225987,
+          50.065576399
+        ],
+        "pixel": [
+          3367,
+          7027
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

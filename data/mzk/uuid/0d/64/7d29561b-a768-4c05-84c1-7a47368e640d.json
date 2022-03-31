@@ -1,0 +1,114 @@
+{
+  "date": ["1932"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.mzk.cz/search/iiif/uuid:7d29561b-a768-4c05-84c1-7a47368e640d/info.json",
+  "description": null,
+  "scale": 75000,
+  "external_id": "7d29561b-a768-4c05-84c1-7a47368e640d",
+  "title": "Horinčovo",
+  "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://www.digitalniknihovna.cz/mzk/view/uuid:ef7bd042-57bc-4b94-8a53-6ac9a5076cde?page=uuid:7d29561b-a768-4c05-84c1-7a47368e640d",
+  "id": "afd5a9be-1ec5-5be9-8e07-24f1a7d612b5",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        13200,
+        1129
+      ],
+      [
+        13226,
+        4916
+      ],
+      [
+        13254,
+        9854
+      ],
+      [
+        1531,
+        9796
+      ],
+      [
+        1560,
+        1085
+      ],
+      [
+        8021,
+        1105
+      ],
+      [
+        13200,
+        1129
+      ]
+    ],
+    "created": "2018-12-19T14:27:52.977214+00:00",
+    "transformation_method": "affine",
+    "mapID": "afd5a9be-1ec5-5be9-8e07-24f1a7d612b5",
+    "affine_transformation": null,
+    "changed": "2021-03-19T09:21:04.273170+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.430977255016913,
+          48.26726282910178
+        ],
+        "pixel": [
+          3919,
+          9149
+        ]
+      },
+      {
+        "location": [
+          23.62115337865075,
+          48.49261159801043
+        ],
+        "pixel": [
+          8348,
+          1290
+        ]
+      },
+      {
+        "location": [
+          23.714212909685486,
+          48.42773591051994
+        ],
+        "pixel": [
+          10498,
+          3592
+        ]
+      },
+      {
+        "location": [
+          23.802950665446716,
+          48.338753395353365
+        ],
+        "pixel": [
+          12577,
+          6706
+        ]
+      },
+      {
+        "location": [
+          23.484168534378448,
+          48.49183341655092
+        ],
+        "pixel": [
+          5141,
+          1336
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

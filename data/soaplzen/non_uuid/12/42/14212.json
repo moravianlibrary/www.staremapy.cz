@@ -1,0 +1,106 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Kout_na_Sumave_M_195/ImageProperties.xml",
+  "description": null,
+  "scale": 5760,
+  "external_id": "14212",
+  "title": "Porostní mapa revíru Herštejnské Chalupy",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/14212",
+  "id": "7f8e2c26-2bd8-5d0a-9539-3c68fa3247e0",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        18795,
+        0
+      ],
+      [
+        18795,
+        12453
+      ],
+      [
+        0,
+        12453
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        18795,
+        0
+      ]
+    ],
+    "created": "2014-11-25T16:34:25.743660+00:00",
+    "transformation_method": "affine",
+    "mapID": "7f8e2c26-2bd8-5d0a-9539-3c68fa3247e0",
+    "affine_transformation": null,
+    "changed": "2014-11-25T16:34:25.743660+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.696783415,
+          49.469414987
+        ],
+        "pixel": [
+          3469,
+          7515
+        ]
+      },
+      {
+        "location": [
+          12.707855573,
+          49.462888596
+        ],
+        "pixel": [
+          7085,
+          12299
+        ]
+      },
+      {
+        "location": [
+          12.71111714,
+          49.484305291
+        ],
+        "pixel": [
+          14125,
+          8315
+        ]
+      },
+      {
+        "location": [
+          12.733347288,
+          49.476609744
+        ],
+        "pixel": [
+          11197,
+          9243
+        ]
+      },
+      {
+        "location": [
+          12.725794187,
+          49.484639852
+        ],
+        "pixel": [
+          16541,
+          7339
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1896"]
+}

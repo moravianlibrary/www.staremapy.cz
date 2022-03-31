@@ -1,0 +1,118 @@
+{
+  "date": ["1953"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.mzk.cz/search/iiif/uuid:2eb76e03-f19f-4977-96d1-4ac6b74b22a0/info.json",
+  "description": null,
+  "scale": 200000,
+  "external_id": "2eb76e03-f19f-4977-96d1-4ac6b74b22a0",
+  "title": "Klatovy",
+  "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": "[Vojenský zeměpisný ústav],",
+  "link_url": "https://www.digitalniknihovna.cz/mzk/view/uuid:c3e04193-0f04-4f75-92c7-e1cc1128c80f?page=uuid:2eb76e03-f19f-4977-96d1-4ac6b74b22a0",
+  "id": "dc30ad74-8504-5de6-a652-da233a5d5846",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        9979,
+        1262
+      ],
+      [
+        10005,
+        7916
+      ],
+      [
+        10019,
+        14397
+      ],
+      [
+        3233,
+        14429
+      ],
+      [
+        1351,
+        14433
+      ],
+      [
+        1458,
+        1320
+      ],
+      [
+        5858,
+        1250
+      ],
+      [
+        9979,
+        1262
+      ]
+    ],
+    "created": "2018-12-19T14:27:52.977214+00:00",
+    "transformation_method": "affine",
+    "mapID": "dc30ad74-8504-5de6-a652-da233a5d5846",
+    "affine_transformation": null,
+    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.476868763720729,
+          48.573755325653536
+        ],
+        "pixel": [
+          6941,
+          13449
+        ]
+      },
+      {
+        "location": [
+          13.290433522569634,
+          49.391948170199356
+        ],
+        "pixel": [
+          5403,
+          2640
+        ]
+      },
+      {
+        "location": [
+          12.887730913542264,
+          49.33319696024611
+        ],
+        "pixel": [
+          1991,
+          3482
+        ]
+      },
+      {
+        "location": [
+          13.170022641205028,
+          49.14382293592371
+        ],
+        "pixel": [
+          4257,
+          5953
+        ]
+      },
+      {
+        "location": [
+          13.507165585540962,
+          48.94128057273133
+        ],
+        "pixel": [
+          7239,
+          8634
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

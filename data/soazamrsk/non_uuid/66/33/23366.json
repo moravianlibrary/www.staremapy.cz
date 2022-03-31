@@ -1,0 +1,130 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/Vs_Kopidlno_658/ImageProperties.xml",
+  "description": null,
+  "scale": 7200,
+  "external_id": "23366",
+  "title": "Porostní mapa revíru Kopidlno",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/23366",
+  "id": "eca6e34b-e8e2-5827-9ab2-7114a26424d4",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1918,
+        7851
+      ],
+      [
+        4638,
+        7851
+      ],
+      [
+        5838,
+        1323
+      ],
+      [
+        1918,
+        1515
+      ],
+      [
+        1310,
+        4811
+      ],
+      [
+        1918,
+        7851
+      ]
+    ],
+    "created": "2015-05-27T16:14:21.706910+00:00",
+    "transformation_method": "affine",
+    "mapID": "eca6e34b-e8e2-5827-9ab2-7114a26424d4",
+    "affine_transformation": null,
+    "changed": "2015-05-27T16:14:21.706910+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.244707939,
+          50.345384999
+        ],
+        "pixel": [
+          1620,
+          4800
+        ]
+      },
+      {
+        "location": [
+          15.250351307,
+          50.344570236
+        ],
+        "pixel": [
+          3018,
+          5147
+        ]
+      },
+      {
+        "location": [
+          15.258928927,
+          50.350212823
+        ],
+        "pixel": [
+          5064,
+          3147
+        ]
+      },
+      {
+        "location": [
+          15.255592266,
+          50.339588255
+        ],
+        "pixel": [
+          4062,
+          6938
+        ]
+      },
+      {
+        "location": [
+          15.252547669,
+          50.342232744
+        ],
+        "pixel": [
+          3472,
+          6007
+        ]
+      },
+      {
+        "location": [
+          15.25912213,
+          50.354918064
+        ],
+        "pixel": [
+          5158,
+          1478
+        ]
+      },
+      {
+        "location": [
+          15.247698235,
+          50.3405894
+        ],
+        "pixel": [
+          2232,
+          6575
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1917"]
+}

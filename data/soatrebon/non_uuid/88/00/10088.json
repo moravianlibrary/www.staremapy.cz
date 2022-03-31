@@ -1,0 +1,96 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_2743/ImageProperties.xml",
+  "description": null,
+  "scale": 100,
+  "external_id": "10088",
+  "title": "Plán zámku v Borovanech 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/10088",
+  "id": "ba43ab84-63ff-51ee-a6cf-c8491fa715f0",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        23633,
+        0
+      ],
+      [
+        23633,
+        16639
+      ],
+      [
+        0,
+        16639
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        23633,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:20:14.764460+00:00",
+    "transformation_method": "affine",
+    "mapID": "ba43ab84-63ff-51ee-a6cf-c8491fa715f0",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:20:14.764460+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.642312992316612,
+          48.898601963371334
+        ],
+        "pixel": [
+          2675,
+          2773
+        ]
+      },
+      {
+        "location": [
+          14.64169143435483,
+          48.89821498088065
+        ],
+        "pixel": [
+          10577,
+          15206
+        ]
+      },
+      {
+        "location": [
+          14.641863642414517,
+          48.89857386029399
+        ],
+        "pixel": [
+          1994,
+          10552
+        ]
+      },
+      {
+        "location": [
+          14.642399350128274,
+          48.89830617443542
+        ],
+        "pixel": [
+          10456,
+          2753
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1880"]
+}

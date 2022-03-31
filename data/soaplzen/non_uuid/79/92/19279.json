@@ -1,0 +1,106 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Dlazkovice_M_10-1/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "19279",
+  "title": "Katastrální mapa obce Vlastislav WC-II-9 dh di",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/19279",
+  "id": "de19cc25-3c6f-57a8-aa97-beb5da154b6c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        512,
+        16880
+      ],
+      [
+        12704,
+        16880
+      ],
+      [
+        12704,
+        656
+      ],
+      [
+        512,
+        656
+      ],
+      [
+        512,
+        16880
+      ]
+    ],
+    "created": "2015-04-27T08:12:08.196070+00:00",
+    "transformation_method": "affine",
+    "mapID": "de19cc25-3c6f-57a8-aa97-beb5da154b6c",
+    "affine_transformation": null,
+    "changed": "2015-04-27T08:12:08.196070+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.935421538,
+          50.50410103
+        ],
+        "pixel": [
+          1664,
+          7124
+        ]
+      },
+      {
+        "location": [
+          13.938661647,
+          50.495679727
+        ],
+        "pixel": [
+          3688,
+          14860
+        ]
+      },
+      {
+        "location": [
+          13.950428606,
+          50.501703748
+        ],
+        "pixel": [
+          10532,
+          9463
+        ]
+      },
+      {
+        "location": [
+          13.941002354,
+          50.507188699
+        ],
+        "pixel": [
+          4916,
+          4376
+        ]
+      },
+      {
+        "location": [
+          13.952129018,
+          50.497312581
+        ],
+        "pixel": [
+          11505,
+          13429
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1901"]
+}

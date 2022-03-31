@@ -1,0 +1,106 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/domousice_0156/ImageProperties.xml",
+  "description": null,
+  "scale": 10000,
+  "external_id": "15852",
+  "title": "Porostní mapa polesí Hrušovka 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/15852",
+  "id": "ce484971-5f07-5307-877f-70fc4b7c71df",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        17874,
+        0
+      ],
+      [
+        17874,
+        28451
+      ],
+      [
+        0,
+        28451
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        17874,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:29:31.798490+00:00",
+    "transformation_method": "affine",
+    "mapID": "ce484971-5f07-5307-877f-70fc4b7c71df",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:29:31.798490+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.961755753,
+          50.570590953
+        ],
+        "pixel": [
+          5481,
+          10358
+        ]
+      },
+      {
+        "location": [
+          13.998448372,
+          50.547198903
+        ],
+        "pixel": [
+          13679,
+          18434
+        ]
+      },
+      {
+        "location": [
+          13.987751722,
+          50.566761232
+        ],
+        "pixel": [
+          11172,
+          11633
+        ]
+      },
+      {
+        "location": [
+          13.985316277,
+          50.55696745
+        ],
+        "pixel": [
+          10668,
+          15070
+        ]
+      },
+      {
+        "location": [
+          13.99613073,
+          50.577309464
+        ],
+        "pixel": [
+          13022,
+          7931
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1900"]
+}

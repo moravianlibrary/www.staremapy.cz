@@ -1,0 +1,106 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plana_M_15-2/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "14925",
+  "title": "Katastrální mapa obce Otín",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/14925",
+  "id": "2bd49d4d-29ee-5c5d-9b10-013ab4dcfce0",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        352,
+        14208
+      ],
+      [
+        15840,
+        14208
+      ],
+      [
+        15840,
+        128
+      ],
+      [
+        352,
+        128
+      ],
+      [
+        352,
+        14208
+      ]
+    ],
+    "created": "2015-05-04T21:45:56.814780+00:00",
+    "transformation_method": "affine",
+    "mapID": "2bd49d4d-29ee-5c5d-9b10-013ab4dcfce0",
+    "affine_transformation": null,
+    "changed": "2015-05-04T21:45:56.814780+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.796308186,
+          49.859823211
+        ],
+        "pixel": [
+          1552,
+          12266
+        ]
+      },
+      {
+        "location": [
+          12.796623211,
+          49.868200559
+        ],
+        "pixel": [
+          1834,
+          4747
+        ]
+      },
+      {
+        "location": [
+          12.806222256,
+          49.860659551
+        ],
+        "pixel": [
+          7234,
+          11684
+        ]
+      },
+      {
+        "location": [
+          12.818232563,
+          49.859145395
+        ],
+        "pixel": [
+          13927,
+          13100
+        ]
+      },
+      {
+        "location": [
+          12.806044605,
+          49.87144145
+        ],
+        "pixel": [
+          7028,
+          1766
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1842"]
+}

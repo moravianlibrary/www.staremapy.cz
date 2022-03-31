@@ -1,0 +1,106 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_2863/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "10208",
+  "title": "Plán třeboňského pivovaru 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/10208",
+  "id": "548d51ff-99c0-55db-9919-c80125e70bc4",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        26070,
+        0
+      ],
+      [
+        26070,
+        17101
+      ],
+      [
+        0,
+        17101
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        26070,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:20:52.926920+00:00",
+    "transformation_method": "affine",
+    "mapID": "548d51ff-99c0-55db-9919-c80125e70bc4",
+    "affine_transformation": null,
+    "changed": "2021-08-26T11:29:37.380898+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.772091075705175,
+          49.00243886896146
+        ],
+        "pixel": [
+          11968,
+          8696
+        ]
+      },
+      {
+        "location": [
+          14.771297141836767,
+          49.002375523275305
+        ],
+        "pixel": [
+          3208,
+          5941
+        ]
+      },
+      {
+        "location": [
+          14.771393701361301,
+          49.00250573376496
+        ],
+        "pixel": [
+          5117,
+          4413
+        ]
+      },
+      {
+        "location": [
+          14.772536322401649,
+          49.00281894138632
+        ],
+        "pixel": [
+          19502,
+          4464
+        ]
+      },
+      {
+        "location": [
+          14.771967694090488,
+          49.0024001577184
+        ],
+        "pixel": [
+          10718,
+          8892
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1861"]
+}
