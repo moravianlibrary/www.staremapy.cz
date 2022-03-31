@@ -3,146 +3,112 @@
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:f4fdac9c-b1d3-11e6-9ac4-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa ; 28 x 40 cm na listu 35 x 45 cm",
-  "scale": 144000,
-  "external_id": "649601",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:f4fdac9c-b1d3-11e6-9ac4-001b63bd97ba/ImageProperties.xml",
+  "description": "Umgebungen von Ried",
+  "scale": null,
+  "external_id": "uuid:f4fdac9c-b1d3-11e6-9ac4-001b63bd97ba",
   "title": "Umgebungen von Ried",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
   "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:12986296-3003-11e6-ac61-9e71128cae77?page=uuid:f4fdac9c-b1d3-11e6-9ac4-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": null,
-  "link_url": "http://kramerius.cbvk.cz/search/handle/uuid:12986296-3003-11e6-ac61-9e71128cae77",
-  "id": "ed2cad34-1eff-5e25-a7c0-fe7a04466c49",
+  "publisher": "K.k. General Quartiermeister Stabes",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:12986296-3003-11e6-ac61-9e71128cae77?page=uuid:f4fdac9c-b1d3-11e6-9ac4-001b63bd97ba",
+  "id": "93cb8746-3889-4e1b-8f49-4c0e37fd6e68",
   "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        4871,
-        622
+        548,
+        66
       ],
       [
-        4873,
-        1521
+        548,
+        256
       ],
       [
-        4882,
-        3624
+        548,
+        381
       ],
       [
-        2737,
-        3623
+        50,
+        381
       ],
       [
-        429,
-        3628
+        49,
+        67
       ],
       [
-        430,
-        630
+        315,
+        66
       ],
       [
-        2214,
-        627
-      ],
-      [
-        4871,
-        622
+        548,
+        66
       ]
     ],
-    "created": "2018-01-08T15:42:56.952299+00:00",
+    "created": "2020-07-07T12:56:18.577707+00:00",
     "transformation_method": "affine",
-    "mapID": "ed2cad34-1eff-5e25-a7c0-fe7a04466c49",
+    "mapID": "93cb8746-3889-4e1b-8f49-4c0e37fd6e68",
     "affine_transformation": null,
-    "changed": "2018-01-08T15:42:56.952299+00:00",
+    "changed": "2022-03-09T04:34:47.904825+00:00",
     "gcps": [
       {
         "location": [
-          13.12548922207031,
-          48.27578511484381
+          13.0743013633075,
+          48.30778564426228
         ],
         "pixel": [
-          781,
-          1084
+          58,
+          84
         ]
       },
       {
         "location": [
-          13.757247651147773,
-          48.32968754717885
+          13.714380023733835,
+          48.30561885084629
         ],
         "pixel": [
-          4636,
-          738
+          490,
+          102
         ]
       },
       {
         "location": [
-          13.641038594700005,
-          48.18471237841419
+          13.791508364681393,
+          48.044623881596266
         ],
         "pixel": [
-          3900,
-          2030
+          539,
+          358
         ]
       },
       {
         "location": [
-          13.149691008697808,
-          48.10375128399423
+          13.100839339878979,
+          48.039247028933715
         ],
         "pixel": [
-          879,
-          2687
+          64,
+          342
         ]
       },
       {
         "location": [
-          13.79066600540985,
-          48.02855489413173
+          13.474202529950803,
+          48.189322172054545
         ],
         "pixel": [
-          4786,
-          3565
-        ]
-      },
-      {
-        "location": [
-          13.119506953766875,
-          48.01484651164756
-        ],
-        "pixel": [
-          639,
-          3484
-        ]
-      },
-      {
-        "location": [
-          13.314061636862641,
-          48.32658312436351
-        ],
-        "pixel": [
-          1965,
-          659
-        ]
-      },
-      {
-        "location": [
-          13.41895258445609,
-          48.16791359107762
-        ],
-        "pixel": [
-          2528,
-          2149
+          326,
+          209
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["1869"]
 }

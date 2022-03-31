@@ -1,163 +1,160 @@
 {
   "date": [null],
-  "creator": null,
+  "creator": "Bělohlav, Josef",
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:882356d2-19cf-11e5-ad5d-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, barevná, 45,5x39,5",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:882356d2-19cf-11e5-ad5d-001b63bd97ba/ImageProperties.xml",
+  "description": "Kunžak - Telč - Dačice",
   "scale": null,
-  "external_id": "m0137093",
+  "external_id": "uuid:882356d2-19cf-11e5-ad5d-001b63bd97ba",
   "title": "Kunžak - Telč - Dačice",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
   "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5a940-00c9-11e5-b939-0800200c9a66?page=uuid:882356d2-19cf-11e5-ad5d-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "F. Topič, knihkupec v Praze",
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MC_268_86_001.php",
-  "id": "e734d0cd-870e-5c52-9ea5-e625ae866efa",
-  "physical_size": [
-    45,
-    39
-  ],
+  "publisher": "F. Topič",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5a940-00c9-11e5-b939-0800200c9a66?page=uuid:882356d2-19cf-11e5-ad5d-001b63bd97ba",
+  "id": "5daff98c-1551-4a39-a618-15c1245c18f6",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        1218,
-        7168
+        410,
+        99
       ],
       [
-        8208,
-        7168
+        600,
+        101
       ],
       [
-        8208,
-        5207
+        600,
+        443
       ],
       [
-        8208,
-        1644
+        85,
+        443
       ],
       [
-        1347,
-        1417
+        97,
+        87
       ],
       [
-        1218,
-        7168
+        410,
+        99
       ]
     ],
-    "created": "2013-03-21T21:16:37.030640+00:00",
+    "created": "2020-07-07T12:50:22.938281+00:00",
     "transformation_method": "affine",
-    "mapID": "e734d0cd-870e-5c52-9ea5-e625ae866efa",
+    "mapID": "5daff98c-1551-4a39-a618-15c1245c18f6",
     "affine_transformation": null,
-    "changed": "2022-03-26T01:16:35.995428+00:00",
+    "changed": "2021-05-20T05:28:01.086068+00:00",
     "gcps": [
       {
         "location": [
-          15.24096105377601,
-          49.18522065608906
+          15.325264765116666,
+          49.12366612472516
         ],
         "pixel": [
-          4894,
-          2250
+          559,
+          344
         ]
       },
       {
         "location": [
-          15.29967306659691,
-          49.18477255815753
+          15.169566905821444,
+          49.19183708971778
         ],
         "pixel": [
-          6905,
-          2331
+          179,
+          114
         ]
       },
       {
         "location": [
-          15.161449233881552,
-          49.10684765629895
+          15.202263349266982,
+          49.16108868686922
         ],
         "pixel": [
-          2138,
-          6357
+          260,
+          220
         ]
       },
       {
         "location": [
-          15.199464927953548,
-          49.15858620396324
+          15.191277021141982,
+          49.120435593305615
         ],
         "pixel": [
-          3513,
-          3610
+          233,
+          346
         ]
       },
       {
         "location": [
-          15.306472820785087,
-          49.11286520399727
+          15.16064051421988,
+          49.17590417053151
         ],
         "pixel": [
-          7028,
-          6107
+          159,
+          163
         ]
       },
       {
         "location": [
-          15.337709701804464,
-          49.15436062450297
+          15.28698328765738,
+          49.18544209763317
         ],
         "pixel": [
-          8138,
-          3986
+          475,
+          141
         ]
       },
       {
         "location": [
-          15.233991198996005,
-          49.109791833309146
+          15.255225932921055,
+          49.136947915050854
         ],
         "pixel": [
-          4579,
-          6257
+          390,
+          298
         ]
       },
       {
         "location": [
-          15.191118770101964,
-          49.12236180592711
+          15.157251192423788,
+          49.14831864750167
         ],
         "pixel": [
-          3183,
-          5590
+          148,
+          254
         ]
       },
       {
         "location": [
-          15.286214264168855,
-          49.12940811192772
+          15.233683420512179,
+          49.11001492332309
         ],
         "pixel": [
-          6374,
-          5212
+          334,
+          386
         ]
       },
       {
         "location": [
-          15.170165468012327,
-          49.1947710460708
+          15.280031992289516,
+          49.15769349515813
         ],
         "pixel": [
-          2517,
-          1657
+          454,
+          228
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["[191-]"]
 }

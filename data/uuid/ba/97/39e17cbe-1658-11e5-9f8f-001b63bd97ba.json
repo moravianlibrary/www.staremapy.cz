@@ -1,149 +1,126 @@
 {
-  "date": ["1929"],
+  "date": [null],
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:39e17cbe-1658-11e5-9f8f-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, černobílá, 52x39,5",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:39e17cbe-1658-11e5-9f8f-001b63bd97ba/ImageProperties.xml",
+  "description": "Vyšší Brod - oblast",
   "scale": null,
-  "external_id": "159177",
-  "title": "[Vyšší Brod - oblast]",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "external_id": "uuid:39e17cbe-1658-11e5-9f8f-001b63bd97ba",
+  "title": "Vyšší Brod - oblast",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5f748-00c9-11e5-b939-0800200c9a66?page=uuid:39e17cbe-1658-11e5-9f8f-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": null,
-  "link_url": null,
-  "id": "d80be723-a02b-5923-9131-139cf33fb3e7",
-  "physical_size": [
-    52,
-    39
-  ],
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5f748-00c9-11e5-b939-0800200c9a66?page=uuid:39e17cbe-1658-11e5-9f8f-001b63bd97ba",
+  "id": "a5dc2acc-12be-4d5b-99f2-067b348e7f17",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        336,
-        273
+        587,
+        19
       ],
       [
-        9057,
-        309
+        587,
+        424
       ],
       [
-        9048,
-        6811
+        18,
+        425
       ],
       [
-        282,
-        6834
+        22,
+        17
       ],
       [
-        336,
-        273
+        587,
+        19
       ]
     ],
-    "created": "2013-03-22T11:45:59.972870+00:00",
+    "created": "2020-07-07T12:51:25.248619+00:00",
     "transformation_method": "affine",
-    "mapID": "d80be723-a02b-5923-9131-139cf33fb3e7",
+    "mapID": "a5dc2acc-12be-4d5b-99f2-067b348e7f17",
     "affine_transformation": null,
-    "changed": "2013-03-22T11:45:59.972870+00:00",
+    "changed": "2020-07-07T12:51:25.248619+00:00",
     "gcps": [
       {
         "location": [
-          14.151397758,
-          48.67758667
+          14.296340009626217,
+          48.521033628178515
         ],
         "pixel": [
-          5833,
-          2179
+          543,
+          387
         ]
       },
       {
         "location": [
-          14.29316125,
-          48.721990502
+          14.33170225327856,
+          48.72600781239956
         ],
         "pixel": [
-          8332,
-          1014
+          584,
+          56
         ]
       },
       {
         "location": [
-          14.12257474,
-          48.688828045
+          14.002966824529109,
+          48.72930654006913
         ],
         "pixel": [
-          5352,
-          1883
+          212,
+          51
         ]
       },
       {
         "location": [
-          13.945307041,
-          48.603272611
+          13.872868958470766,
+          48.51682047187637
         ],
         "pixel": [
-          2260,
-          4111
+          63,
+          396
         ]
       },
       {
         "location": [
-          14.312330874,
-          48.613931053
+          13.86518711185212,
+          48.707094242201094
         ],
         "pixel": [
-          8654,
-          3844
+          58,
+          87
         ]
       },
       {
         "location": [
-          13.908641229,
-          48.676396157
+          13.92044221239111,
+          48.73696803082433
         ],
         "pixel": [
-          1668,
-          2224
+          121,
+          39
         ]
       },
       {
         "location": [
-          13.900999616,
-          48.686626718
+          14.103047949485317,
+          48.60813412706901
         ],
         "pixel": [
-          1514,
-          1934
-        ]
-      },
-      {
-        "location": [
-          14.29251053980897,
-          48.52258079346001
-        ],
-        "pixel": [
-          8314,
-          6196
-        ]
-      },
-      {
-        "location": [
-          14.030126131635877,
-          48.555662518159664
-        ],
-        "pixel": [
-          3709,
-          5357
+          323,
+          247
         ]
       }
     ]
   },
-  "pubdate": ["1929"]
+  "pubdate": ["[1929?]"]
 }

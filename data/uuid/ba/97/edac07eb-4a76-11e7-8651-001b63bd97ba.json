@@ -3,104 +3,104 @@
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:edac07eb-4a76-11e7-8651-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa : barevná ; 39 x 51 cm na listu 48 x 62 cm",
-  "scale": 75000,
-  "external_id": "700454",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:edac07eb-4a76-11e7-8651-001b63bd97ba/ImageProperties.xml",
+  "description": "Šurany",
+  "scale": null,
+  "external_id": "uuid:edac07eb-4a76-11e7-8651-001b63bd97ba",
   "title": "Šurany",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:d171a271-d0c0-4123-a9c3-819f481a0705?page=uuid:edac07eb-4a76-11e7-8651-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": null,
-  "link_url": "http://kramerius.cbvk.cz/search/handle/uuid:d171a271-d0c0-4123-a9c3-819f481a0705",
-  "id": "146ae859-38bb-5fd5-9880-3523563565b1",
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:d171a271-d0c0-4123-a9c3-819f481a0705?page=uuid:edac07eb-4a76-11e7-8651-001b63bd97ba",
+  "id": "35bb542e-813f-4eab-84f2-dfc96f07979f",
   "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        6708,
-        588
+        550,
+        46
       ],
       [
-        6704,
-        4981
+        549,
+        390
       ],
       [
-        871,
-        4963
+        70,
+        388
       ],
       [
-        874,
-        567
+        72,
+        44
       ],
       [
-        6708,
-        588
+        550,
+        46
       ]
     ],
-    "created": "2018-01-08T15:42:56.952299+00:00",
+    "created": "2020-07-07T12:58:07.748244+00:00",
     "transformation_method": "affine",
-    "mapID": "146ae859-38bb-5fd5-9880-3523563565b1",
+    "mapID": "35bb542e-813f-4eab-84f2-dfc96f07979f",
     "affine_transformation": null,
-    "changed": "2018-01-08T15:42:56.952299+00:00",
+    "changed": "2020-07-07T12:58:07.748244+00:00",
     "gcps": [
       {
         "location": [
-          18.160915616609493,
-          48.1612009498202
+          18.296992209334974,
+          48.01701962716962
         ],
         "pixel": [
-          4690,
-          2130
+          515,
+          364
         ]
       },
       {
         "location": [
-          17.9721774783363,
-          48.019719404795495
+          17.884661581893546,
+          48.03432673821513
         ],
         "pixel": [
-          2478,
-          4610
+          119,
+          340
         ]
       },
       {
         "location": [
-          17.9041964206917,
-          48.14896461331219
+          18.308654175952142,
+          48.24360600561357
         ],
         "pixel": [
-          1697,
-          2323
+          528,
+          53
         ]
       },
       {
         "location": [
-          18.263517408176035,
-          48.04618400472202
+          17.853598472708796,
+          48.21031936106655
         ],
         "pixel": [
-          5890,
-          4153
+          91,
+          99
         ]
       },
       {
         "location": [
-          18.067184107489627,
-          48.09511054466171
+          18.08662879192267,
+          48.13980365713749
         ],
         "pixel": [
-          3599,
-          3287
+          313,
+          196
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["[1947"]
 }

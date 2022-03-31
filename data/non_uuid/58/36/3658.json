@@ -1,0 +1,116 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_0004/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "3658",
+  "title": "Plán města Třeboně",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/3658",
+  "id": "18e28d2e-e281-5c3d-b468-67fb20d5c212",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        -76,
+        25623
+      ],
+      [
+        34100,
+        25623
+      ],
+      [
+        34100,
+        -41
+      ],
+      [
+        -76,
+        -41
+      ],
+      [
+        -76,
+        25623
+      ]
+    ],
+    "created": "2016-11-06T23:35:26.721690+00:00",
+    "transformation_method": "affine",
+    "mapID": "18e28d2e-e281-5c3d-b468-67fb20d5c212",
+    "affine_transformation": null,
+    "changed": "2016-11-06T23:35:26.721690+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.768945575,
+          49.003463746
+        ],
+        "pixel": [
+          17820,
+          14102
+        ]
+      },
+      {
+        "location": [
+          14.773108363,
+          49.003154062
+        ],
+        "pixel": [
+          20764,
+          10262
+        ]
+      },
+      {
+        "location": [
+          14.768747091,
+          49.004600412
+        ],
+        "pixel": [
+          12940,
+          13814
+        ]
+      },
+      {
+        "location": [
+          14.770989418,
+          49.002942912
+        ],
+        "pixel": [
+          19900,
+          11974
+        ]
+      },
+      {
+        "location": [
+          14.771043062,
+          49.003921231
+        ],
+        "pixel": [
+          16924,
+          11366
+        ]
+      },
+      {
+        "location": [
+          14.772636294,
+          49.004389269
+        ],
+        "pixel": [
+          16348,
+          9878
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1863"]
+}

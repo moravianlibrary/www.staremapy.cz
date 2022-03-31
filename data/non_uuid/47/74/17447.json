@@ -1,0 +1,106 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Tynec_M_110/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "17447",
+  "title": "Hospodářská mapa revíru Střeziměř",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/17447",
+  "id": "40a5563f-c270-572d-beab-0a7a7a704974",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        15364,
+        0
+      ],
+      [
+        15364,
+        16755
+      ],
+      [
+        0,
+        16755
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        15364,
+        0
+      ]
+    ],
+    "created": "2014-11-25T16:57:02.622880+00:00",
+    "transformation_method": "affine",
+    "mapID": "40a5563f-c270-572d-beab-0a7a7a704974",
+    "affine_transformation": null,
+    "changed": "2014-11-25T16:57:02.622880+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.327556661,
+          49.337571322
+        ],
+        "pixel": [
+          9174,
+          1521
+        ]
+      },
+      {
+        "location": [
+          13.316892624,
+          49.33563856
+        ],
+        "pixel": [
+          2910,
+          3141
+        ]
+      },
+      {
+        "location": [
+          13.315240383,
+          49.332583313
+        ],
+        "pixel": [
+          1898,
+          5850
+        ]
+      },
+      {
+        "location": [
+          13.323726892,
+          49.330150165
+        ],
+        "pixel": [
+          6794,
+          8065
+        ]
+      },
+      {
+        "location": [
+          13.325058516,
+          49.321741142
+        ],
+        "pixel": [
+          7336,
+          15556
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1889"]
+}

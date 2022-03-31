@@ -3,225 +3,184 @@
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:03df061d-152c-11e5-8cef-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, černobílá, 62x48,5",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:03df061d-152c-11e5-8cef-001b63bd97ba/ImageProperties.xml",
+  "description": "Budweis und Gratzen",
   "scale": null,
-  "external_id": "120987",
-  "title": "Budweis und Gratzen Zone 10 Kol. XI",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "external_id": "uuid:03df061d-152c-11e5-8cef-001b63bd97ba",
+  "title": "Budweis und Gratzen",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf50cea-00c9-11e5-b939-0800200c9a66?page=uuid:03df061d-152c-11e5-8cef-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": "K.u.k. Militärgeographisches Institut",
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MA_13_001.php",
-  "id": "03829bea-e722-507e-92c1-549501e59b8a",
-  "physical_size": [
-    62,
-    48
-  ],
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf50cea-00c9-11e5-b939-0800200c9a66?page=uuid:03df061d-152c-11e5-8cef-001b63bd97ba",
+  "id": "f55aacf6-d085-420d-a4c7-e90ad9bdd4b8",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        861,
-        5023
+        530,
+        49
       ],
       [
-        5630,
-        5015
+        529,
+        377
       ],
       [
-        6475,
-        5015
+        69,
+        377
       ],
       [
-        6621,
-        5017
+        71,
+        49
       ],
       [
-        6632,
-        646
-      ],
-      [
-        887,
-        649
-      ],
-      [
-        861,
-        5023
+        530,
+        49
       ]
     ],
-    "created": "2013-03-22T06:51:48.689050+00:00",
+    "created": "2020-07-07T12:47:35.376455+00:00",
     "transformation_method": "affine",
-    "mapID": "03829bea-e722-507e-92c1-549501e59b8a",
+    "mapID": "f55aacf6-d085-420d-a4c7-e90ad9bdd4b8",
     "affine_transformation": null,
-    "changed": "2013-03-22T06:51:48.689050+00:00",
+    "changed": "2022-01-07T15:38:32.579808+00:00",
     "gcps": [
       {
         "location": [
-          14.768802756,
-          48.912174181
+          14.826688632364775,
+          48.755060127017146
         ],
         "pixel": [
-          5876,
-          2167
+          522,
+          369
         ]
       },
       {
         "location": [
-          14.745714301,
-          48.931857122
+          14.341101512308635,
+          48.74961339021266
         ],
         "pixel": [
-          5611,
-          1822
+          76,
+          377
         ]
       },
       {
         "location": [
-          14.664260978,
-          48.956943031
+          14.338297833224194,
+          48.99665673722012
         ],
         "pixel": [
-          4665,
-          1386
+          75,
+          52
         ]
       },
       {
         "location": [
-          14.645549888,
-          48.965734208
+          14.832714832257846,
+          48.99815723619855
         ],
         "pixel": [
-          4453,
-          1236
+          529,
+          50
         ]
       },
       {
         "location": [
-          14.462631964,
-          48.829072438
+          14.606202414011467,
+          48.995973557338345
         ],
         "pixel": [
-          2346,
-          3624
+          320,
+          53
         ]
       },
       {
         "location": [
-          14.76975204,
-          48.788375479
+          14.557839070132765,
+          48.75002560771151
         ],
         "pixel": [
-          5886,
-          4323
+          275,
+          376
         ]
       },
       {
         "location": [
-          14.637205203719095,
-          48.84041254568848
+          14.337773348233853,
+          48.873592641477444
         ],
         "pixel": [
-          4369,
-          3427
+          73,
+          214
         ]
       },
       {
         "location": [
-          14.776012534,
-          48.929770759
+          14.833188041955472,
+          48.87760157883153
         ],
         "pixel": [
-          5960,
-          1861
+          529,
+          209
         ]
       },
       {
         "location": [
-          14.696747893,
-          48.940652719
+          14.571277403401835,
+          48.86943850131121
         ],
         "pixel": [
-          5050,
-          1673
+          288,
+          220
         ]
       },
       {
         "location": [
-          14.686319465,
-          48.931575186
+          14.577714705037575,
+          48.86322779513651
         ],
         "pixel": [
-          4923,
-          1846
+          294,
+          227
         ]
       },
       {
         "location": [
-          14.660226935,
-          48.96455087
+          14.540635847615702,
+          48.85718573227757
         ],
         "pixel": [
-          4630,
-          1265
+          259,
+          235
         ]
       },
       {
         "location": [
-          14.655077094,
-          48.9741858
+          14.544798636006814,
+          48.87660808520005
         ],
         "pixel": [
-          4586,
-          1090
+          263,
+          210
         ]
       },
       {
         "location": [
-          14.357371353,
-          48.978511288
+          14.620821830470977,
+          48.88172284270874
         ],
         "pixel": [
-          1159,
-          1010
-        ]
-      },
-      {
-        "location": [
-          14.349850439,
-          48.972785987
-        ],
-        "pixel": [
-          1075,
-          1111
-        ]
-      },
-      {
-        "location": [
-          14.783790722,
-          48.790506619
-        ],
-        "pixel": [
-          6040,
-          4296
-        ]
-      },
-      {
-        "location": [
-          14.473303263539668,
-          48.974100261776414
-        ],
-        "pixel": [
-          2482,
-          1090
+          333,
+          203
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["[1913?]"]
 }

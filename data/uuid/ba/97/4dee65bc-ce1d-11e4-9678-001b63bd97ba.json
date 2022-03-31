@@ -1,178 +1,114 @@
 {
   "date": [null],
-  "creator": "Trattner, Johann Thomas,",
+  "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:4dee65bc-ce1d-11e4-9678-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa : 31 x 45 cm",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:4dee65bc-ce1d-11e4-9678-001b63bd97ba/ImageProperties.xml",
+  "description": "Grundriß der schlesischen Hauptstadt Bresslau",
   "scale": null,
-  "external_id": "89775",
-  "title": "Grundriß der schlesischen Hauptstadt Bresslau ...",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "external_id": "uuid:4dee65bc-ce1d-11e4-9678-001b63bd97ba",
+  "title": "Grundriß der schlesischen Hauptstadt Bresslau",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b1d842-c66b-11e4-8731-1681e6b88ec1?page=uuid:4dee65bc-ce1d-11e4-9678-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "zu finden bey Johann Thomas Trattner,",
-  "link_url": "http://kramerius.cbvk.cz/search/handle/uuid:16b1d842-c66b-11e4-8731-1681e6b88ec1",
-  "id": "fe789323-4151-5fec-8936-c80ed7b7cc13",
+  "publisher": "zu finden bey Johann Thomas Trattner",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b1d842-c66b-11e4-8731-1681e6b88ec1?page=uuid:4dee65bc-ce1d-11e4-9678-001b63bd97ba",
+  "id": "38ae9a45-3c74-4134-ae4a-becf62663eb5",
   "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        261,
-        2095
+        564,
+        11
       ],
       [
-        1303,
-        2095
+        572,
+        361
       ],
       [
-        1936,
-        1953
+        27,
+        353
       ],
       [
-        2032,
-        2101
+        27,
+        205
       ],
       [
-        2089,
-        2064
+        230,
+        192
       ],
       [
-        2153,
-        2018
+        251,
+        9
       ],
       [
-        2204,
-        1933
-      ],
-      [
-        2260,
-        1768
-      ],
-      [
-        2275,
-        1676
-      ],
-      [
-        2283,
-        1461
-      ],
-      [
-        2313,
-        1248
-      ],
-      [
-        2309,
-        1043
-      ],
-      [
-        2312,
-        923
-      ],
-      [
-        2326,
-        853
-      ],
-      [
-        2337,
-        631
-      ],
-      [
-        1871,
-        614
-      ],
-      [
-        1792,
-        578
-      ],
-      [
-        1689,
-        496
-      ],
-      [
-        1561,
-        454
-      ],
-      [
-        1316,
-        80
-      ],
-      [
-        779,
-        80
-      ],
-      [
-        266,
-        81
-      ],
-      [
-        261,
-        2095
+        564,
+        11
       ]
     ],
-    "created": "2019-01-20T21:12:31.031483+00:00",
+    "created": "2020-07-07T12:46:22.662429+00:00",
     "transformation_method": "affine",
-    "mapID": "fe789323-4151-5fec-8936-c80ed7b7cc13",
+    "mapID": "38ae9a45-3c74-4134-ae4a-becf62663eb5",
     "affine_transformation": null,
-    "changed": "2019-01-20T21:12:31.031483+00:00",
+    "changed": "2020-07-07T12:46:22.662429+00:00",
     "gcps": [
       {
         "location": [
-          17.027440020252417,
-          51.108564756165066
+          17.070236094643196,
+          50.98034844398981
         ],
         "pixel": [
-          864,
-          970
+          485,
+          145
         ]
       },
       {
         "location": [
-          17.035688204643964,
-          51.11474236888117
+          17.069634177406268,
+          50.78030321011647
         ],
         "pixel": [
-          1679,
-          826
+          462,
+          207
         ]
       },
       {
         "location": [
-          17.035063922832215,
-          51.109480964518866
+          16.498571198643678,
+          50.884612524911205
         ],
         "pixel": [
-          1298,
-          1240
+          99,
+          289
         ]
       },
       {
         "location": [
-          17.03039811179481,
-          51.11160344555523
+          17.03370966087023,
+          51.10971429359708
         ],
         "pixel": [
-          1195,
-          866
+          486,
+          100
         ]
       },
       {
         "location": [
-          17.038604438731866,
-          51.10787104898108
+          16.48771605644531,
+          50.842037751009116
         ],
         "pixel": [
-          1417,
-          1520
+          84,
+          330
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["[17--]"]
 }

@@ -1,165 +1,232 @@
 {
-  "date": [
-    "1930",
-    "1939"
-  ],
+  "date": [null],
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:14ca5752-1b40-11e5-9b87-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, barevná, 57x43",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:14ca5752-1b40-11e5-9b87-001b63bd97ba/ImageProperties.xml",
+  "description": "B.Z.-Karte von Deutschland",
   "scale": null,
-  "external_id": "69814",
-  "title": "B.Z.-Karte von Deutschland.",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
+  "external_id": "uuid:14ca5752-1b40-11e5-9b87-001b63bd97ba",
+  "title": "B.Z.-Karte von Deutschland",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
   "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5d022-00c9-11e5-b939-0800200c9a66?page=uuid:14ca5752-1b40-11e5-9b87-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "B.Z. am Mittag im Deutschen Verlag, Berlin",
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MC_394_55_001.php",
-  "id": "f2c88f2a-16ce-5772-9e60-599ff1af3515",
-  "physical_size": [
-    57,
-    43
-  ],
+  "publisher": "Carl Flemming",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5d022-00c9-11e5-b939-0800200c9a66?page=uuid:14ca5752-1b40-11e5-9b87-001b63bd97ba",
+  "id": "97959aab-d1ec-4594-9590-2dbbb7f9802f",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        6733,
-        477
+        558,
+        39
       ],
       [
-        6711,
-        4857
+        558,
+        155
       ],
       [
-        483,
-        4912
+        559,
+        254
       ],
       [
-        460,
-        543
+        559,
+        390
       ],
       [
-        6733,
-        477
+        509,
+        390
+      ],
+      [
+        451,
+        392
+      ],
+      [
+        443,
+        392
+      ],
+      [
+        397,
+        391
+      ],
+      [
+        305,
+        392
+      ],
+      [
+        266,
+        393
+      ],
+      [
+        192,
+        394
+      ],
+      [
+        158,
+        394
+      ],
+      [
+        127,
+        394
+      ],
+      [
+        85,
+        395
+      ],
+      [
+        40,
+        395
+      ],
+      [
+        40,
+        321
+      ],
+      [
+        39,
+        135
+      ],
+      [
+        39,
+        44
+      ],
+      [
+        113,
+        42
+      ],
+      [
+        152,
+        40
+      ],
+      [
+        192,
+        41
+      ],
+      [
+        255,
+        40
+      ],
+      [
+        297,
+        41
+      ],
+      [
+        319,
+        40
+      ],
+      [
+        364,
+        39
+      ],
+      [
+        433,
+        39
+      ],
+      [
+        445,
+        40
+      ],
+      [
+        480,
+        39
+      ],
+      [
+        558,
+        39
       ]
     ],
-    "created": "2013-02-26T18:57:16.106820+00:00",
+    "created": "2020-07-07T12:45:17.632238+00:00",
     "transformation_method": "affine",
-    "mapID": "f2c88f2a-16ce-5772-9e60-599ff1af3515",
+    "mapID": "97959aab-d1ec-4594-9590-2dbbb7f9802f",
     "affine_transformation": null,
-    "changed": "2013-02-26T18:57:16.106820+00:00",
+    "changed": "2022-02-18T14:26:12.599661+00:00",
     "gcps": [
       {
         "location": [
-          13.55532639,
-          49.144030102
+          14.181108351749547,
+          49.14527336301478
         ],
         "pixel": [
-          1007,
-          636
+          261,
+          49
         ]
       },
       {
         "location": [
-          14.474959373,
-          48.970978624
+          14.480805486404279,
+          48.49540128475937
         ],
         "pixel": [
-          4155,
-          1486
+          354,
+          320
         ]
       },
       {
         "location": [
-          14.317803383,
-          48.815851619
+          13.891398782896834,
+          49.12607481704515
         ],
         "pixel": [
-          3626,
-          2331
+          178,
+          59
         ]
       },
       {
         "location": [
-          14.305529594,
-          48.905084483
+          14.61039910446915,
+          49.01556885281332
         ],
         "pixel": [
-          3586,
-          1848
+          385,
+          99
         ]
       },
       {
         "location": [
-          13.665683241,
-          49.101901942
+          13.455251209735497,
+          48.4363467516302
         ],
         "pixel": [
-          1390,
-          856
+          57,
+          356
         ]
       },
       {
         "location": [
-          14.844911027,
-          49.061622133
+          14.9652273135544,
+          48.432914897034635
         ],
         "pixel": [
-          5421,
-          995
+          495,
+          343
         ]
       },
       {
         "location": [
-          15.002496171,
-          49.143440555
+          14.316732123694463,
+          48.815506955754586
         ],
         "pixel": [
-          5936,
-          558
+          303,
+          187
         ]
       },
       {
         "location": [
-          14.416229653,
-          48.35318441
+          13.892689279362648,
+          48.91154591366043
         ],
         "pixel": [
-          4037,
-          4739
-        ]
-      },
-      {
-        "location": [
-          15.163064003,
-          48.606412597
-        ],
-        "pixel": [
-          6599,
-          3342
-        ]
-      },
-      {
-        "location": [
-          13.465075493,
-          48.573456358
-        ],
-        "pixel": [
-          725,
-          3656
+          180,
+          149
         ]
       }
     ]
   },
-  "pubdate": [
-    "1930",
-    "1939"
-  ]
+  "pubdate": ["[193-?]"]
 }

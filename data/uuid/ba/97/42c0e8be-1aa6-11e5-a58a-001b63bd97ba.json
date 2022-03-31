@@ -1,129 +1,180 @@
 {
-  "date": ["1938"],
-  "creator": null,
+  "date": [null],
+  "creator": "Černoch, Mojmír",
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:42c0e8be-1aa6-11e5-a58a-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, barevná, 104x85",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:42c0e8be-1aa6-11e5-a58a-001b63bd97ba/ImageProperties.xml",
+  "description": "Mapa země České s plánem hlavního města Prahy",
   "scale": null,
-  "external_id": "85878_1",
+  "external_id": "uuid:42c0e8be-1aa6-11e5-a58a-001b63bd97ba",
   "title": "Mapa země České s plánem hlavního města Prahy",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
   "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5d037-00c9-11e5-b939-0800200c9a66?page=uuid:42c0e8be-1aa6-11e5-a58a-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "Nakladatelství Šolc a Šimáček v Praze",
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MC_462_001.php",
-  "id": "456739b6-f30f-5d31-8c6f-06b2b7415915",
-  "physical_size": [
-    104,
-    85
-  ],
+  "publisher": "Šolc a Šimáček",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5d037-00c9-11e5-b939-0800200c9a66?page=uuid:42c0e8be-1aa6-11e5-a58a-001b63bd97ba",
+  "id": "9e1dd6fd-80bb-4222-b512-1818e57ce521",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        7930,
-        5370
+        476,
+        299
       ],
       [
-        9809,
-        5358
+        565,
+        299
       ],
       [
-        9823,
-        7125
+        589,
+        299
       ],
       [
-        7951,
-        7135
+        589,
+        332
       ],
       [
-        7930,
-        5370
+        589,
+        346
+      ],
+      [
+        590,
+        354
+      ],
+      [
+        590,
+        360
+      ],
+      [
+        589,
+        376
+      ],
+      [
+        589,
+        397
+      ],
+      [
+        549,
+        397
+      ],
+      [
+        498,
+        398
+      ],
+      [
+        477,
+        398
+      ],
+      [
+        477,
+        361
+      ],
+      [
+        476,
+        353
+      ],
+      [
+        476,
+        345
+      ],
+      [
+        476,
+        299
       ]
     ],
-    "created": "2020-07-22T12:14:22.086938+00:00",
+    "created": "2022-02-23T10:16:20.577111+00:00",
     "transformation_method": "affine",
-    "mapID": "456739b6-f30f-5d31-8c6f-06b2b7415915",
+    "mapID": "9e1dd6fd-80bb-4222-b512-1818e57ce521",
     "affine_transformation": null,
-    "changed": "2020-07-22T12:14:22.086938+00:00",
+    "changed": "2022-02-23T10:18:01.919556+00:00",
     "gcps": [
       {
         "location": [
-          14.440591104011524,
-          50.09812879053791
+          14.426813809476586,
+          50.09508315815194
         ],
         "pixel": [
-          9258,
-          5726
+          534,
+          326
         ]
       },
       {
         "location": [
-          14.441218324806668,
-          50.066549000651236
+          14.458842962484482,
+          50.103314176454546
         ],
         "pixel": [
-          9274,
-          6983
+          583,
+          308
         ]
       },
       {
         "location": [
-          14.411897196720798,
-          50.06669765116868
+          14.437084882955675,
+          50.09741404706352
         ],
         "pixel": [
-          8534,
-          6978
+          550,
+          321
         ]
       },
       {
         "location": [
-          14.410631194065765,
-          50.07270255680564
+          14.413503103537156,
+          50.08621544061336
         ],
         "pixel": [
-          8503,
-          6737
+          515,
+          346
         ]
       },
       {
         "location": [
-          14.411644704322802,
-          50.08647567913303
+          14.411629133941977,
+          50.089739912852025
         ],
         "pixel": [
-          8528,
-          6195
+          512,
+          338
         ]
       },
       {
         "location": [
-          14.416644341926563,
-          50.09373081385664
+          14.410625767796198,
+          50.07268796555729
         ],
         "pixel": [
-          8645,
-          5900
+          510,
+          376
         ]
       },
       {
         "location": [
-          14.427201516609182,
-          50.09340043311005
+          14.416650229217847,
+          50.09370463473957
         ],
         "pixel": [
-          8918,
-          5916
+          519,
+          329
+        ]
+      },
+      {
+        "location": [
+          14.414638352482475,
+          50.067137584270824
+        ],
+        "pixel": [
+          517,
+          388
         ]
       }
     ]
   },
-  "pubdate": ["1938"]
+  "pubdate": ["[1938]"]
 }

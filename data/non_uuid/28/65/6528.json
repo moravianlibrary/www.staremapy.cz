@@ -1,0 +1,106 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/huav/III_vojenske_mapovani/25/4659_1_01/ImageProperties.xml",
+  "description": null,
+  "scale": 25000,
+  "external_id": "6528",
+  "title": "III. vojenské mapování 4659/1",
+  "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/6528",
+  "id": "7ad1daff-4aa9-509e-9bf5-d9b4853395c1",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        86,
+        285
+      ],
+      [
+        11638,
+        221
+      ],
+      [
+        11702,
+        9053
+      ],
+      [
+        86,
+        8893
+      ],
+      [
+        86,
+        285
+      ]
+    ],
+    "created": "2014-12-07T09:50:20.053250+00:00",
+    "transformation_method": "affine",
+    "mapID": "7ad1daff-4aa9-509e-9bf5-d9b4853395c1",
+    "affine_transformation": null,
+    "changed": "2014-12-07T09:50:20.053250+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.532962491,
+          48.435406821
+        ],
+        "pixel": [
+          9334,
+          4648
+        ]
+      },
+      {
+        "location": [
+          17.554827858,
+          48.480409465
+        ],
+        "pixel": [
+          10356,
+          1507
+        ]
+      },
+      {
+        "location": [
+          17.441821028,
+          48.466589183
+        ],
+        "pixel": [
+          5100,
+          2449
+        ]
+      },
+      {
+        "location": [
+          17.493416001,
+          48.465607465
+        ],
+        "pixel": [
+          7502,
+          2526
+        ]
+      },
+      {
+        "location": [
+          17.426510979,
+          48.44068469
+        ],
+        "pixel": [
+          4370,
+          4255
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1936"]
+}

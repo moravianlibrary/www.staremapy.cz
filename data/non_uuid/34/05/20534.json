@@ -1,0 +1,110 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plasy_M_133_2/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "20534",
+  "title": "Katastrální mapa obce Kaznějov WC-VIII-18 ch",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/20534",
+  "id": "aa00d246-29d7-56c3-9f5e-2d11dbb6c1db",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1848,
+        5626
+      ],
+      [
+        11400,
+        5570
+      ],
+      [
+        16728,
+        5542
+      ],
+      [
+        16680,
+        1242
+      ],
+      [
+        1848,
+        1338
+      ],
+      [
+        1848,
+        5626
+      ]
+    ],
+    "created": "2014-12-23T21:42:25.613180+00:00",
+    "transformation_method": "affine",
+    "mapID": "aa00d246-29d7-56c3-9f5e-2d11dbb6c1db",
+    "affine_transformation": null,
+    "changed": "2014-12-23T21:42:25.613180+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.324587468,
+          49.8926384
+        ],
+        "pixel": [
+          3048,
+          4075
+        ]
+      },
+      {
+        "location": [
+          13.324737672,
+          49.893903234
+        ],
+        "pixel": [
+          3136,
+          3153
+        ]
+      },
+      {
+        "location": [
+          13.335294846,
+          49.894815553
+        ],
+        "pixel": [
+          9344,
+          2507
+        ]
+      },
+      {
+        "location": [
+          13.348603218,
+          49.895772085
+        ],
+        "pixel": [
+          16656,
+          1678
+        ]
+      },
+      {
+        "location": [
+          13.324372891,
+          49.891442652
+        ],
+        "pixel": [
+          2988,
+          5005
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1889"]
+}

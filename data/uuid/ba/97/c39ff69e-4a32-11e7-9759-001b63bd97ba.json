@@ -3,114 +3,164 @@
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:c39ff69e-4a32-11e7-9759-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa : barevná ; 39 x 50 cm na listu 47 x 63 cm",
-  "scale": 75000,
-  "external_id": "671814",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:c39ff69e-4a32-11e7-9759-001b63bd97ba/ImageProperties.xml",
+  "description": "Hrčava",
+  "scale": null,
+  "external_id": "uuid:c39ff69e-4a32-11e7-9759-001b63bd97ba",
   "title": "Hrčava",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": false,
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:f9df0481-6ffd-4b2c-9e51-9e992d8dbd85?page=uuid:c39ff69e-4a32-11e7-9759-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": null,
-  "link_url": "http://kramerius.cbvk.cz/search/handle/uuid:f9df0481-6ffd-4b2c-9e51-9e992d8dbd85",
-  "id": "9673f539-13f2-5a38-bba8-6d31e0677d2e",
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:f9df0481-6ffd-4b2c-9e51-9e992d8dbd85?page=uuid:c39ff69e-4a32-11e7-9759-001b63bd97ba",
+  "id": "47b8860f-4449-4e3d-a67a-9ac8a46437e9",
   "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        6510,
-        554
+        525,
+        42
       ],
       [
-        6528,
-        4919
+        525,
+        195
       ],
       [
-        871,
-        4933
+        525,
+        389
       ],
       [
-        881,
-        549
+        297,
+        389
       ],
       [
-        6510,
-        554
+        193,
+        388
+      ],
+      [
+        68,
+        390
+      ],
+      [
+        69,
+        213
+      ],
+      [
+        70,
+        42
+      ],
+      [
+        294,
+        43
+      ],
+      [
+        525,
+        42
       ]
     ],
-    "created": "2018-01-08T15:42:56.952299+00:00",
+    "created": "2020-07-07T12:59:17.070687+00:00",
     "transformation_method": "affine",
-    "mapID": "9673f539-13f2-5a38-bba8-6d31e0677d2e",
+    "mapID": "47b8860f-4449-4e3d-a67a-9ac8a46437e9",
     "affine_transformation": null,
-    "changed": "2018-01-08T15:42:56.952299+00:00",
+    "changed": "2021-08-10T12:47:44.057958+00:00",
     "gcps": [
       {
         "location": [
-          19.075204280518296,
-          49.57568236486523
+          19.317292685030914,
+          49.6522915124533
         ],
         "pixel": [
-          3627,
-          3583
+          512,
+          175
         ]
       },
       {
         "location": [
-          19.089151767395773,
-          49.55174428176608
+          19.270434762185026,
+          49.611853914762435
         ],
         "pixel": [
-          3776,
-          3998
+          469,
+          232
         ]
       },
       {
         "location": [
-          18.883117686814693,
-          49.549754609035915
+          19.22119635774922,
+          49.607829507489214
         ],
         "pixel": [
-          1446,
-          4040
+          425,
+          237
         ]
       },
       {
         "location": [
-          18.831370870333917,
-          49.693614979493816
+          19.316889858095372,
+          49.527913130000826
         ],
         "pixel": [
-          872,
-          1486
+          512,
+          349
         ]
       },
       {
         "location": [
-          19.318630218400468,
-          49.727802807252516
+          19.14204863077268,
+          49.526721596216504
         ],
         "pixel": [
-          6385,
-          896
+          352,
+          350
         ]
       },
       {
         "location": [
-          19.311492592579345,
-          49.60352912160937
+          18.88310497248734,
+          49.54986922026379
         ],
         "pixel": [
-          6310,
-          3077
+          116,
+          318
+        ]
+      },
+      {
+        "location": [
+          18.86116684829907,
+          49.67294423040718
+        ],
+        "pixel": [
+          97,
+          147
+        ]
+      },
+      {
+        "location": [
+          19.062720627422138,
+          49.72539636024493
+        ],
+        "pixel": [
+          280,
+          77
+        ]
+      },
+      {
+        "location": [
+          19.067295296521234,
+          49.568925807130995
+        ],
+        "pixel": [
+          284,
+          292
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["[1937"]
 }

@@ -1,0 +1,106 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1533/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "7409",
+  "title": "Zvíkov o. České Budějovice 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/7409",
+  "id": "aba7ebf8-c92c-58fb-a91a-5dab1a1a1718",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        272,
+        14704
+      ],
+      [
+        9776,
+        14704
+      ],
+      [
+        9776,
+        368
+      ],
+      [
+        272,
+        368
+      ],
+      [
+        272,
+        14704
+      ]
+    ],
+    "created": "2017-01-10T10:13:13.812370+00:00",
+    "transformation_method": "affine",
+    "mapID": "aba7ebf8-c92c-58fb-a91a-5dab1a1a1718",
+    "affine_transformation": null,
+    "changed": "2017-01-10T10:13:13.812370+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.601535082,
+          48.959039907
+        ],
+        "pixel": [
+          7759,
+          6166
+        ]
+      },
+      {
+        "location": [
+          14.603498459,
+          48.960124753
+        ],
+        "pixel": [
+          8883,
+          5182
+        ]
+      },
+      {
+        "location": [
+          14.598927975,
+          48.953724521
+        ],
+        "pixel": [
+          6266,
+          10948
+        ]
+      },
+      {
+        "location": [
+          14.60193205,
+          48.951811688
+        ],
+        "pixel": [
+          8081,
+          12664
+        ]
+      },
+      {
+        "location": [
+          14.591283679,
+          48.954397341
+        ],
+        "pixel": [
+          1769,
+          10402
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1838"]
+}

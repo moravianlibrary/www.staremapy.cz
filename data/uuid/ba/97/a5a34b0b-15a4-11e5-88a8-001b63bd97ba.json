@@ -1,186 +1,139 @@
 {
-  "date": ["1869"],
+  "date": [null],
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:a5a34b0b-15a4-11e5-88a8-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, černobílá, 45x34,5",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:a5a34b0b-15a4-11e5-88a8-001b63bd97ba/ImageProperties.xml",
+  "description": "Umgebungen von Tabor",
   "scale": null,
-  "external_id": "127424",
-  "title": "Umgebungen von Tabor XXVI",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
+  "external_id": "uuid:a5a34b0b-15a4-11e5-88a8-001b63bd97ba",
+  "title": "Umgebungen von Tabor",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
   "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf58217-00c9-11e5-b939-0800200c9a66?page=uuid:a5a34b0b-15a4-11e5-88a8-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": null,
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MA_83_26_001.php",
-  "id": "8e8f639f-f7b6-5c87-8092-742285e7e926",
-  "physical_size": [
-    45,
-    34
-  ],
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf58217-00c9-11e5-b939-0800200c9a66?page=uuid:a5a34b0b-15a4-11e5-88a8-001b63bd97ba",
+  "id": "7bf21445-372a-444b-8127-f63a795e79cd",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        719,
-        909
+        549,
+        65
       ],
       [
-        7404,
-        914
+        547,
+        378
       ],
       [
-        7384,
-        5334
+        322,
+        378
       ],
       [
-        691,
-        5338
+        51,
+        378
       ],
       [
-        719,
-        909
+        53,
+        200
+      ],
+      [
+        53,
+        65
+      ],
+      [
+        154,
+        65
+      ],
+      [
+        397,
+        65
+      ],
+      [
+        549,
+        65
       ]
     ],
-    "created": "2013-03-22T16:28:25.741560+00:00",
+    "created": "2020-07-07T12:55:36.199838+00:00",
     "transformation_method": "affine",
-    "mapID": "8e8f639f-f7b6-5c87-8092-742285e7e926",
+    "mapID": "7bf21445-372a-444b-8127-f63a795e79cd",
     "affine_transformation": null,
-    "changed": "2013-03-22T16:28:25.741560+00:00",
+    "changed": "2021-02-12T14:35:40.981383+00:00",
     "gcps": [
       {
         "location": [
-          14.660894034,
-          49.43591387
+          14.66134799544046,
+          49.57087097706594
         ],
         "pixel": [
-          2103,
-          4066
+          167,
+          159
         ]
       },
       {
         "location": [
-          14.61042559,
-          49.4327881
+          14.638086505425372,
+          49.641117064500804
         ],
         "pixel": [
-          1771,
-          4086
+          157,
+          92
         ]
       },
       {
         "location": [
-          14.613172172,
-          49.386324625
+          14.680642036368104,
+          49.49371657836059
         ],
         "pixel": [
-          1785,
-          4708
+          179,
+          233
         ]
       },
       {
         "location": [
-          14.658726778,
-          49.572214034
+          14.768809031542423,
+          49.37810887830017
         ],
         "pixel": [
-          2237,
-          2232
+          234,
+          344
         ]
       },
       {
         "location": [
-          15.003725492,
-          49.470671257
+          14.613655009050015,
+          49.504922100079
         ],
         "pixel": [
-          5258,
-          3632
+          135,
+          222
         ]
       },
       {
         "location": [
-          15.116635762,
-          49.415896546
+          15.19849419622989,
+          49.56821876251294
         ],
         "pixel": [
-          6238,
-          4401
+          518,
+          168
         ]
       },
       {
         "location": [
-          15.0484224,
-          49.623599543
+          15.107538564795673,
+          49.51262291154799
         ],
         "pixel": [
-          5711,
-          1596
-        ]
-      },
-      {
-        "location": [
-          15.086273734,
-          49.634829781
-        ],
-        "pixel": [
-          6055,
-          1468
-        ]
-      },
-      {
-        "location": [
-          15.116014068,
-          49.656171215
-        ],
-        "pixel": [
-          6303,
-          1192
-        ]
-      },
-      {
-        "location": [
-          14.519105819,
-          49.653477062
-        ],
-        "pixel": [
-          1039,
-          1112
-        ]
-      },
-      {
-        "location": [
-          15.157126967,
-          49.361570607
-        ],
-        "pixel": [
-          6744,
-          5100
-        ]
-      },
-      {
-        "location": [
-          15.238966529,
-          49.355784607
-        ],
-        "pixel": [
-          7295,
-          5266
-        ]
-      },
-      {
-        "location": [
-          14.53301039,
-          49.57328269
-        ],
-        "pixel": [
-          1132,
-          2196
+          458,
+          220
         ]
       }
     ]

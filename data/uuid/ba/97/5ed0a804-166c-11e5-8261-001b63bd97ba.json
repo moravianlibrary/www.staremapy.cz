@@ -3,135 +3,164 @@
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:5ed0a804-166c-11e5-8261-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, černobílá, 58x45,5",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:5ed0a804-166c-11e5-8261-001b63bd97ba/ImageProperties.xml",
+  "description": "Kaplitz und Freistadt",
   "scale": null,
-  "external_id": "161256",
+  "external_id": "uuid:5ed0a804-166c-11e5-8261-001b63bd97ba",
   "title": "Kaplitz und Freistadt",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
   "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf55b0c-00c9-11e5-b939-0800200c9a66?page=uuid:5ed0a804-166c-11e5-8261-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": "Militärgeographisches Institut",
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MA_654_001.php",
-  "id": "bc2ad53e-1d08-556c-a07a-16e5d6ad4a2b",
-  "physical_size": [
-    58,
-    45
-  ],
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf55b0c-00c9-11e5-b939-0800200c9a66?page=uuid:5ed0a804-166c-11e5-8261-001b63bd97ba",
+  "id": "80a06c80-a9df-4d1f-a02c-88f11e2a0415",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        627,
-        405
+        544,
+        34
       ],
       [
-        6488,
-        389
+        544,
+        390
       ],
       [
-        6490,
-        4780
+        53,
+        390
       ],
       [
-        5877,
-        4786
+        54,
+        34
       ],
       [
-        3750,
-        4791
-      ],
-      [
-        614,
-        4796
-      ],
-      [
-        627,
-        405
+        544,
+        34
       ]
     ],
-    "created": "2013-03-20T23:23:07.610130+00:00",
+    "created": "2020-07-07T12:51:56.238722+00:00",
     "transformation_method": "affine",
-    "mapID": "bc2ad53e-1d08-556c-a07a-16e5d6ad4a2b",
+    "mapID": "80a06c80-a9df-4d1f-a02c-88f11e2a0415",
     "affine_transformation": null,
-    "changed": "2013-03-20T23:23:07.610130+00:00",
+    "changed": "2020-07-07T12:51:56.238722+00:00",
     "gcps": [
       {
         "location": [
-          14.490720576,
-          48.738962069
+          14.77887195242339,
+          48.67363350580993
         ],
         "pixel": [
-          2463,
-          579
+          492,
+          139
         ]
       },
       {
         "location": [
-          14.826409763,
-          48.629809308
+          14.802279881712016,
+          48.524732589878255
         ],
         "pixel": [
-          6393,
-          2487
+          516,
+          354
         ]
       },
       {
         "location": [
-          14.367290681,
-          48.655060838
+          14.506244625687359,
+          48.5132768057226
         ],
         "pixel": [
-          1017,
-          2068
+          223,
+          372
         ]
       },
       {
         "location": [
-          14.504839724,
-          48.510900167
+          14.451448569363057,
+          48.65670659021268
         ],
         "pixel": [
-          2616,
-          4591
+          169,
+          166
         ]
       },
       {
         "location": [
-          14.54614371901455,
-          48.61463938516752
+          14.367330400600327,
+          48.65501377929647
         ],
         "pixel": [
-          3110,
-          2765
+          86,
+          169
         ]
       },
       {
         "location": [
-          14.642292206788083,
-          48.56043731624689
+          14.81232930244296,
+          48.729728019487254
         ],
         "pixel": [
-          4239,
-          3715
+          525,
+          60
         ]
       },
       {
         "location": [
-          14.727338483935753,
-          48.72986809046381
+          14.627493771160928,
+          48.729492268359394
         ],
         "pixel": [
-          5228,
-          734
+          342,
+          61
+        ]
+      },
+      {
+        "location": [
+          14.337865808727347,
+          48.725979401319535
+        ],
+        "pixel": [
+          57,
+          67
+        ]
+      },
+      {
+        "location": [
+          14.45553744457731,
+          48.58908237574957
+        ],
+        "pixel": [
+          173,
+          263
+        ]
+      },
+      {
+        "location": [
+          14.362045013646743,
+          48.50253679081729
+        ],
+        "pixel": [
+          80,
+          388
+        ]
+      },
+      {
+        "location": [
+          14.750510292151736,
+          48.5915976722859
+        ],
+        "pixel": [
+          464,
+          258
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["[1913?]"]
 }

@@ -1,156 +1,340 @@
 {
   "date": [null],
-  "creator": null,
+  "creator": "Seutter, Matthäus",
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:ea6fa727-fa79-11e4-a003-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa : 50 x 58 cm",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:ea6fa727-fa79-11e4-a003-001b63bd97ba/ImageProperties.xml",
+  "description": "S. R. I. principat. et archiepiscopatus Salisburgensis mappa geographica",
   "scale": null,
-  "external_id": "89378",
-  "title": "S. R. I. principat. et archiepiscopatus Salisburgensis mappa geographica ...",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "external_id": "uuid:ea6fa727-fa79-11e4-a003-001b63bd97ba",
+  "title": "S. R. I. principat. et archiepiscopatus Salisburgensis mappa geographica",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b1c7d0-c66b-11e4-8731-1681e6b88ec1?page=uuid:ea6fa727-fa79-11e4-a003-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "Matth. Seutteri,",
-  "link_url": "http://kramerius.cbvk.cz/search/handle/uuid:16b1c7d0-c66b-11e4-8731-1681e6b88ec1",
-  "id": "e3f41862-9b5b-5f89-b2d1-09e23f608945",
+  "publisher": "Matth. Seutteri",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b1c7d0-c66b-11e4-8731-1681e6b88ec1?page=uuid:ea6fa727-fa79-11e4-a003-001b63bd97ba",
+  "id": "bd040ab0-73d3-447b-b5df-d4f4cac8695b",
   "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        829,
-        1367
+        364,
+        59
       ],
       [
-        829,
-        730
+        363,
+        65
       ],
       [
-        1939,
-        736
+        358,
+        71
       ],
       [
-        1939,
-        1366
+        348,
+        77
       ],
       [
-        829,
-        1367
+        345,
+        101
+      ],
+      [
+        420,
+        118
+      ],
+      [
+        431,
+        142
+      ],
+      [
+        437,
+        152
+      ],
+      [
+        422,
+        184
+      ],
+      [
+        423,
+        209
+      ],
+      [
+        439,
+        233
+      ],
+      [
+        445,
+        235
+      ],
+      [
+        458,
+        235
+      ],
+      [
+        476,
+        232
+      ],
+      [
+        486,
+        239
+      ],
+      [
+        497,
+        241
+      ],
+      [
+        502,
+        242
+      ],
+      [
+        512,
+        242
+      ],
+      [
+        511,
+        240
+      ],
+      [
+        515,
+        232
+      ],
+      [
+        520,
+        233
+      ],
+      [
+        523,
+        234
+      ],
+      [
+        534,
+        232
+      ],
+      [
+        560,
+        227
+      ],
+      [
+        560,
+        272
+      ],
+      [
+        551,
+        272
+      ],
+      [
+        540,
+        270
+      ],
+      [
+        509,
+        270
+      ],
+      [
+        456,
+        270
+      ],
+      [
+        438,
+        282
+      ],
+      [
+        436,
+        296
+      ],
+      [
+        436,
+        316
+      ],
+      [
+        435,
+        328
+      ],
+      [
+        520,
+        328
+      ],
+      [
+        534,
+        327
+      ],
+      [
+        560,
+        328
+      ],
+      [
+        561,
+        425
+      ],
+      [
+        317,
+        424
+      ],
+      [
+        46,
+        424
+      ],
+      [
+        46,
+        112
+      ],
+      [
+        86,
+        108
+      ],
+      [
+        145,
+        110
+      ],
+      [
+        143,
+        101
+      ],
+      [
+        47,
+        100
+      ],
+      [
+        60,
+        42
+      ],
+      [
+        159,
+        44
+      ],
+      [
+        157,
+        87
+      ],
+      [
+        176,
+        91
+      ],
+      [
+        183,
+        85
+      ],
+      [
+        185,
+        76
+      ],
+      [
+        182,
+        72
+      ],
+      [
+        191,
+        63
+      ],
+      [
+        186,
+        56
+      ],
+      [
+        183,
+        42
+      ],
+      [
+        362,
+        43
+      ],
+      [
+        364,
+        59
       ]
     ],
-    "created": "2019-10-08T06:43:08.410899+00:00",
+    "created": "2020-07-07T12:42:09.809184+00:00",
     "transformation_method": "affine",
-    "mapID": "e3f41862-9b5b-5f89-b2d1-09e23f608945",
+    "mapID": "bd040ab0-73d3-447b-b5df-d4f4cac8695b",
     "affine_transformation": null,
-    "changed": "2019-10-08T06:43:08.410899+00:00",
+    "changed": "2022-03-25T06:22:08.797843+00:00",
     "gcps": [
       {
         "location": [
-          15.712244101528357,
-          48.36235020874474
+          14.169192143184679,
+          47.111628114553355
         ],
         "pixel": [
-          1688,
-          1080
+          445,
+          340
         ]
       },
       {
         "location": [
-          15.428679682569676,
-          48.363737210312365
+          11.70715870191783,
+          47.35459392229285
         ],
         "pixel": [
-          985,
-          1018
+          66,
+          281
         ]
       },
       {
         "location": [
-          15.520190273624014,
-          48.39521812697191
+          13.585953207157583,
+          47.95154168798291
         ],
         "pixel": [
-          1199,
-          817
+          375,
+          138
         ]
       },
       {
         "location": [
-          15.71770830923343,
-          48.29791349860247
+          12.397862999861045,
+          47.85987816165289
         ],
         "pixel": [
-          1701,
-          1266
+          185,
+          158
         ]
       },
       {
         "location": [
-          15.695169789918285,
-          48.284365800578
+          12.830724344749841,
+          48.16854589917088
         ],
         "pixel": [
-          1618,
-          1250
+          258,
+          98
         ]
       },
       {
         "location": [
-          15.412041804312413,
-          48.353473820648674
+          13.043117476481195,
+          47.801105362980394
         ],
         "pixel": [
-          953,
-          1065
+          290,
+          176
         ]
       },
       {
         "location": [
-          15.581751590512882,
-          48.40194566916102
+          12.76744193774042,
+          46.83234978689069
         ],
         "pixel": [
-          1358,
-          866
+          223,
+          382
         ]
       },
       {
         "location": [
-          15.600203721882636,
-          48.411175643373554
+          13.64896935961588,
+          47.6086455926237
         ],
         "pixel": [
-          1489,
-          875
-        ]
-      },
-      {
-        "location": [
-          15.744014507077823,
-          48.350150209262495
-        ],
-        "pixel": [
-          1795,
-          1122
-        ]
-      },
-      {
-        "location": [
-          15.413090705375776,
-          48.360807408406856
-        ],
-        "pixel": [
-          863,
-          1038
+          383,
+          229
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["[17--]"]
 }

@@ -1,142 +1,126 @@
 {
   "date": [null],
-  "creator": null,
+  "creator": "Lotter, Tobias Conrad",
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:4a863cd6-fa4b-11e4-a12c-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa : 49,5 x 56,5 cm",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:4a863cd6-fa4b-11e4-a12c-001b63bd97ba/ImageProperties.xml",
+  "description": "Exactissima ducatus Carniolae vinidorum Marchiä et Histriae delineatio",
   "scale": null,
-  "external_id": "88799",
-  "title": "Exactissima ducatus Carniolae vinidorum Marchiä et Histriae delineatio ...",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
+  "external_id": "uuid:4a863cd6-fa4b-11e4-a12c-001b63bd97ba",
+  "title": "Exactissima ducatus Carniolae vinidorum Marchiä et Histriae delineatio",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
   "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b17000-c66b-11e4-8731-1681e6b88ec1?page=uuid:4a863cd6-fa4b-11e4-a12c-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "Tob. Conr. Lotter,",
-  "link_url": "http://kramerius.cbvk.cz/search/handle/uuid:16b17000-c66b-11e4-8731-1681e6b88ec1",
-  "id": "6079771a-db8f-5993-8181-4cbcec425f09",
+  "publisher": "T. Conr. Lotteri",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b17000-c66b-11e4-8731-1681e6b88ec1?page=uuid:4a863cd6-fa4b-11e4-a12c-001b63bd97ba",
+  "id": "cd86fd67-16a9-4c1a-b50b-30fd56e0cde6",
   "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        863,
-        6297
+        64,
+        407
       ],
       [
-        1439,
-        6299
+        63,
+        341
       ],
       [
-        2014,
-        6299
+        186,
+        341
       ],
       [
-        2538,
-        6294
+        187,
+        407
       ],
       [
-        2533,
-        5856
-      ],
-      [
-        2523,
-        5266
-      ],
-      [
-        1335,
-        5265
-      ],
-      [
-        859,
-        5266
-      ],
-      [
-        863,
-        6297
+        64,
+        407
       ]
     ],
-    "created": "2020-07-10T14:05:05.099624+00:00",
+    "created": "2021-07-28T16:48:24.342615+00:00",
     "transformation_method": "affine",
-    "mapID": "6079771a-db8f-5993-8181-4cbcec425f09",
+    "mapID": "cd86fd67-16a9-4c1a-b50b-30fd56e0cde6",
     "affine_transformation": null,
-    "changed": "2020-07-10T14:05:05.099624+00:00",
+    "changed": "2021-07-28T17:57:08.432736+00:00",
     "gcps": [
       {
         "location": [
-          14.425576098384623,
-          45.77077963035717
+          14.3622241591575,
+          45.79358365552082
         ],
         "pixel": [
-          2146,
-          5452
+          71,
+          349
         ]
       },
       {
         "location": [
-          14.411180934988721,
-          45.72950669168074
+          14.424906402083032,
+          45.74986353553399
         ],
         "pixel": [
-          2265,
-          5784
+          166,
+          360
         ]
       },
       {
         "location": [
-          14.362170935986082,
-          45.79537109429765
+          14.359263000405052,
+          45.77649527430344
         ],
         "pixel": [
-          964,
-          5388
+          73,
+          356
         ]
       },
       {
         "location": [
-          14.401522047939064,
-          45.77694585149209
+          14.411345153303742,
+          45.72949654703078
         ],
         "pixel": [
-          1524,
-          5410
+          167,
+          374
         ]
       },
       {
         "location": [
-          14.350261927959952,
-          45.788249306595276
+          14.375179303927636,
+          45.73611730081578
         ],
         "pixel": [
-          1000,
-          5510
+          141,
+          385
         ]
       },
       {
         "location": [
-          14.375321620956214,
-          45.735157568030814
+          14.42593563672829,
+          45.75941479810655
         ],
         "pixel": [
-          1964,
-          5954
+          143,
+          347
         ]
       },
       {
         "location": [
-          14.370175323569036,
-          45.74063457538833
+          14.400869426644082,
+          45.77710976585928
         ],
         "pixel": [
-          1792,
-          5945
+          122,
+          349
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["[17--]"]
 }

@@ -3,164 +3,104 @@
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:dce6b2c4-b1cc-11e6-8261-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa ; 28 x 40 cm na listu 35 x 45 cm",
-  "scale": 144000,
-  "external_id": "649307",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:dce6b2c4-b1cc-11e6-8261-001b63bd97ba/ImageProperties.xml",
+  "description": "Umgebungen von Olmütz und Prerau",
+  "scale": null,
+  "external_id": "uuid:dce6b2c4-b1cc-11e6-8261-001b63bd97ba",
   "title": "Umgebungen von Olmütz und Prerau",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:12983064-3003-11e6-ac61-9e71128cae77?page=uuid:dce6b2c4-b1cc-11e6-8261-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": null,
-  "link_url": "http://kramerius.cbvk.cz/search/handle/uuid:12983064-3003-11e6-ac61-9e71128cae77",
-  "id": "ff7f3b30-48d6-5d9a-8fde-911a42ed2afc",
+  "publisher": "K.K. Militaerischen Geographischen Institute",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:12983064-3003-11e6-ac61-9e71128cae77?page=uuid:dce6b2c4-b1cc-11e6-8261-001b63bd97ba",
+  "id": "5897da97-780e-4530-b339-0a59ca33e1fa",
   "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        4898,
-        616
+        551,
+        65
       ],
       [
-        4908,
-        3616
+        552,
+        383
       ],
       [
-        455,
-        3630
+        51,
+        384
       ],
       [
-        448,
-        622
+        51,
+        66
       ],
       [
-        4898,
-        616
+        551,
+        65
       ]
     ],
-    "created": "2018-01-08T15:42:56.952299+00:00",
+    "created": "2020-07-07T12:55:58.334771+00:00",
     "transformation_method": "affine",
-    "mapID": "ff7f3b30-48d6-5d9a-8fde-911a42ed2afc",
+    "mapID": "5897da97-780e-4530-b339-0a59ca33e1fa",
     "affine_transformation": null,
-    "changed": "2018-01-08T15:42:56.952299+00:00",
+    "changed": "2020-07-07T12:55:58.334771+00:00",
     "gcps": [
       {
         "location": [
-          17.438994586080636,
-          49.46263763585512
+          17.371055903377858,
+          49.35727550569629
         ],
         "pixel": [
-          4523,
-          2575
+          464,
+          376
         ]
       },
       {
         "location": [
-          16.836259848135686,
-          49.482397911828514
+          17.111326328462702,
+          49.4720484432097
         ],
         "pixel": [
-          966,
-          2457
+          291,
+          267
         ]
       },
       {
         "location": [
-          17.04555855727359,
-          49.6588521282531
+          16.764662089290955,
+          49.3785706905916
         ],
         "pixel": [
-          2181,
-          816
+          62,
+          360
         ]
       },
       {
         "location": [
-          17.483312277924234,
-          49.577814008535
+          17.304214166795713,
+          49.670803175506336
         ],
         "pixel": [
-          4759,
-          1537
+          415,
+          72
         ]
       },
       {
         "location": [
-          17.42691664224704,
-          49.542071214950624
+          16.841995539608345,
+          49.650290363565915
         ],
         "pixel": [
-          4437,
-          1839
-        ]
-      },
-      {
-        "location": [
-          17.46063954792972,
-          49.41302897712211
-        ],
-        "pixel": [
-          4649,
-          3027
-        ]
-      },
-      {
-        "location": [
-          16.911126963280854,
-          49.635923783190776
-        ],
-        "pixel": [
-          1402,
-          1035
-        ]
-      },
-      {
-        "location": [
-          16.82531652564476,
-          49.36501132228875
-        ],
-        "pixel": [
-          913,
-          3527
-        ]
-      },
-      {
-        "location": [
-          17.29544686550355,
-          49.57320730554508
-        ],
-        "pixel": [
-          3663,
-          1582
-        ]
-      },
-      {
-        "location": [
-          17.43572189030566,
-          49.37230321642764
-        ],
-        "pixel": [
-          4516,
-          3407
-        ]
-      },
-      {
-        "location": [
-          17.167778922232173,
-          49.374395884657474
-        ],
-        "pixel": [
-          2950,
-          3421
+          112,
+          96
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["1869"]
 }

@@ -1,180 +1,113 @@
 {
-  "date": ["1895"],
+  "date": [null],
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:0e231dc7-1599-11e5-ba79-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, barevná, 60x67",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:0e231dc7-1599-11e5-ba79-001b63bd97ba/ImageProperties.xml",
+  "description": "Wandkarte des politischen Bezirkes Budweis im Masse 1:25 000",
   "scale": null,
-  "external_id": "121620_1",
+  "external_id": "uuid:0e231dc7-1599-11e5-ba79-001b63bd97ba",
   "title": "Wandkarte des politischen Bezirkes Budweis im Masse 1:25 000",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5820f-00c9-11e5-b939-0800200c9a66?page=uuid:0e231dc7-1599-11e5-ba79-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": null,
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MA_82_7_001.php",
-  "id": "93e51e45-5d14-50d5-ac54-1b21148e4ed3",
-  "physical_size": [
-    60,
-    67
-  ],
+  "publisher": "Deutschen pädagogischen Verein",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5820f-00c9-11e5-b939-0800200c9a66?page=uuid:0e231dc7-1599-11e5-ba79-001b63bd97ba",
+  "id": "37341a13-1927-42d0-a346-2a684c98a804",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        95,
-        7607
+        559,
+        8
       ],
       [
-        1098,
-        7605
+        559,
+        418
       ],
       [
-        1827,
-        7602
+        12,
+        416
       ],
       [
-        3347,
-        7614
+        14,
+        9
       ],
       [
-        6750,
-        7622
-      ],
-      [
-        6771,
-        120
-      ],
-      [
-        1982,
-        126
-      ],
-      [
-        125,
-        125
-      ],
-      [
-        121,
-        845
-      ],
-      [
-        117,
-        1260
-      ],
-      [
-        95,
-        7607
+        559,
+        8
       ]
     ],
-    "created": "2013-03-21T21:27:50.261770+00:00",
+    "created": "2020-07-07T12:47:41.331184+00:00",
     "transformation_method": "affine",
-    "mapID": "93e51e45-5d14-50d5-ac54-1b21148e4ed3",
+    "mapID": "37341a13-1927-42d0-a346-2a684c98a804",
     "affine_transformation": null,
-    "changed": "2013-03-21T21:27:50.261770+00:00",
+    "changed": "2020-07-07T12:47:41.331184+00:00",
     "gcps": [
       {
         "location": [
-          14.7054368276585,
-          48.84156000280436
+          14.655566625749794,
+          48.83129118710315
         ],
         "pixel": [
-          3380,
-          2812
+          125,
+          167
         ]
       },
       {
         "location": [
-          14.799312464764757,
-          48.826925420834016
+          14.657851663306571,
+          48.876245199832056
         ],
         "pixel": [
-          6594,
-          3532
+          146,
+          53
         ]
       },
       {
         "location": [
-          14.6825857824727,
-          48.7956595766712
+          14.745656888664536,
+          48.858220166301436
         ],
         "pixel": [
-          2585,
-          5206
+          397,
+          105
         ]
       },
       {
         "location": [
-          14.622809056187968,
-          48.7620863155783
+          14.638417099933292,
+          48.84023889616361
         ],
         "pixel": [
-          568,
-          6935
+          86,
+          156
         ]
       },
       {
         "location": [
-          14.617568638645423,
-          48.86771934894142
+          14.671463697371099,
+          48.845850320191886
         ],
         "pixel": [
-          359,
-          1424
+          183,
+          140
         ]
       },
       {
         "location": [
-          14.724628362958576,
-          48.891271436013625
+          14.663237539008481,
+          48.87964658356324
         ],
         "pixel": [
-          4116,
-          238
-        ]
-      },
-      {
-        "location": [
-          14.783562533429313,
-          48.82648750195489
-        ],
-        "pixel": [
-          6087,
-          3546
-        ]
-      },
-      {
-        "location": [
-          14.769785880163559,
-          48.78835769463879
-        ],
-        "pixel": [
-          5630,
-          5569
-        ]
-      },
-      {
-        "location": [
-          14.636180521779195,
-          48.84180967099621
-        ],
-        "pixel": [
-          994,
-          2777
-        ]
-      },
-      {
-        "location": [
-          14.73758442191802,
-          48.76189386759751
-        ],
-        "pixel": [
-          4508,
-          6962
+          159,
+          44
         ]
       }
     ]

@@ -1,0 +1,96 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plana_M_3-7/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "14752",
+  "title": "Katastrální mapa obce Boněnov",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/14752",
+  "id": "201486ab-18f1-5050-9924-34e7f4142a64",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        784,
+        5216
+      ],
+      [
+        15184,
+        5216
+      ],
+      [
+        15184,
+        256
+      ],
+      [
+        784,
+        256
+      ],
+      [
+        784,
+        5216
+      ]
+    ],
+    "created": "2015-05-04T21:24:31.116410+00:00",
+    "transformation_method": "affine",
+    "mapID": "201486ab-18f1-5050-9924-34e7f4142a64",
+    "affine_transformation": null,
+    "changed": "2015-05-04T21:24:31.116410+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.831728422,
+          49.914360432
+        ],
+        "pixel": [
+          7826,
+          446
+        ]
+      },
+      {
+        "location": [
+          12.843369824,
+          49.914005131
+        ],
+        "pixel": [
+          14511,
+          856
+        ]
+      },
+      {
+        "location": [
+          12.821434104,
+          49.909161401
+        ],
+        "pixel": [
+          1717,
+          4900
+        ]
+      },
+      {
+        "location": [
+          12.844442093,
+          49.91288887
+        ],
+        "pixel": [
+          15086,
+          1794
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1842"]
+}

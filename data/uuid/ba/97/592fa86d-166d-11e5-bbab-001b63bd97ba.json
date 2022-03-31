@@ -1,119 +1,186 @@
 {
-  "date": ["1876"],
+  "date": [null],
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:592fa86d-166d-11e5-bbab-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, černobílá, 52x39,5",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:592fa86d-166d-11e5-bbab-001b63bd97ba/ImageProperties.xml",
+  "description": "Litschau und Gmünd",
   "scale": null,
-  "external_id": "162484",
-  "title": "Litschau und Gmünd Zone 10 Kol. XII",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
+  "external_id": "uuid:592fa86d-166d-11e5-bbab-001b63bd97ba",
+  "title": "Litschau und Gmünd",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
   "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf55b16-00c9-11e5-b939-0800200c9a66?page=uuid:592fa86d-166d-11e5-bbab-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": null,
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MA_693_001.php",
-  "id": "b5a7ce16-f507-575f-81c5-1fd4f37f4268",
-  "physical_size": [
-    52,
-    39
-  ],
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf55b16-00c9-11e5-b939-0800200c9a66?page=uuid:592fa86d-166d-11e5-bbab-001b63bd97ba",
+  "id": "f080d595-a0b2-4940-bd8c-0571d41e1100",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        6098,
-        190
+        580,
+        18
       ],
       [
-        6107,
-        4652
+        581,
+        218
       ],
       [
-        161,
-        4671
+        581,
+        424
       ],
       [
-        179,
-        183
+        299,
+        425
       ],
       [
-        6098,
-        190
+        16,
+        425
+      ],
+      [
+        17,
+        193
+      ],
+      [
+        18,
+        18
+      ],
+      [
+        138,
+        18
+      ],
+      [
+        258,
+        17
+      ],
+      [
+        580,
+        18
       ]
     ],
-    "created": "2013-02-26T17:48:46.794360+00:00",
+    "created": "2020-07-07T12:52:07.888809+00:00",
     "transformation_method": "affine",
-    "mapID": "b5a7ce16-f507-575f-81c5-1fd4f37f4268",
+    "mapID": "f080d595-a0b2-4940-bd8c-0571d41e1100",
     "affine_transformation": null,
-    "changed": "2013-02-26T17:48:46.794360+00:00",
+    "changed": "2020-07-07T12:52:07.888809+00:00",
     "gcps": [
       {
         "location": [
-          15.316207072,
-          48.82173143
+          15.284701001619517,
+          48.814517331973974
         ],
         "pixel": [
-          5886,
-          3342
+          526,
+          316
         ]
       },
       {
         "location": [
-          15.129353664,
-          48.871507249
+          15.221578932723649,
+          48.840031583628985
         ],
         "pixel": [
-          3663,
-          2478
+          454,
+          277
         ]
       },
       {
         "location": [
-          14.989750049,
-          48.754607659
+          15.191619239265005,
+          48.844594568595795
         ],
         "pixel": [
-          1991,
-          4566
+          420,
+          269
         ]
       },
       {
         "location": [
-          15.275351665,
-          48.953708853
+          15.310885928002383,
+          48.97130018157307
         ],
         "pixel": [
-          5407,
-          999
+          556,
+          62
         ]
       },
       {
         "location": [
-          14.890143535,
-          48.983867662
+          15.317391070545584,
+          48.987589165063525
         ],
         "pixel": [
-          855,
-          467
+          563,
+          36
         ]
       },
       {
         "location": [
-          14.868668192554564,
-          48.86843880235432
+          15.05861888006565,
+          48.993514797961325
         ],
         "pixel": [
-          576,
-          2538
+          272,
+          26
+        ]
+      },
+      {
+        "location": [
+          14.871222841016042,
+          48.94726493679474
+        ],
+        "pixel": [
+          61,
+          104
+        ]
+      },
+      {
+        "location": [
+          15.028064635746844,
+          48.76184324224491
+        ],
+        "pixel": [
+          235,
+          404
+        ]
+      },
+      {
+        "location": [
+          15.11425788942681,
+          48.77636016996857
+        ],
+        "pixel": [
+          332,
+          381
+        ]
+      },
+      {
+        "location": [
+          14.879416099088292,
+          48.769097596432886
+        ],
+        "pixel": [
+          68,
+          393
+        ]
+      },
+      {
+        "location": [
+          14.882953211789792,
+          48.89275866015396
+        ],
+        "pixel": [
+          73,
+          190
         ]
       }
     ]
   },
-  "pubdate": ["1876"]
+  "pubdate": ["[1876?]"]
 }

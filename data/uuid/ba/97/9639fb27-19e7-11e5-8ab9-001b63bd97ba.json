@@ -1,227 +1,164 @@
 {
-  "date": [
-    "1930",
-    "1939"
-  ],
-  "creator": null,
+  "date": [null],
+  "creator": "Havránek, Jan",
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:9639fb27-19e7-11e5-8ab9-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, barevná, 72x62",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:9639fb27-19e7-11e5-8ab9-001b63bd97ba/ImageProperties.xml",
+  "description": "Čechy - rozdělení dle obvodů okresních politických správ",
   "scale": null,
-  "external_id": "62578_1",
-  "title": "Čechy rozdělení dle obvodů okresních politických správ /",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "external_id": "uuid:9639fb27-19e7-11e5-8ab9-001b63bd97ba",
+  "title": "Čechy - rozdělení dle obvodů okresních politických správ",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5a921-00c9-11e5-b939-0800200c9a66?page=uuid:9639fb27-19e7-11e5-8ab9-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "Nakladatel Edvard Fastr",
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MC_215_001.php",
-  "id": "f6cfff98-27ab-591a-8f98-a0fd18980100",
-  "physical_size": [
-    72,
-    62
-  ],
+  "publisher": "Eduard Fastr,",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5a921-00c9-11e5-b939-0800200c9a66?page=uuid:9639fb27-19e7-11e5-8ab9-001b63bd97ba",
+  "id": "b3ebb3c5-6cd2-4561-a14d-64c1906ce78e",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        8405,
-        207
+        571,
+        14
       ],
       [
-        8414,
-        1967
+        572,
+        415
       ],
       [
-        8423,
-        2832
+        35,
+        415
       ],
       [
-        8425,
-        4770
+        31,
+        92
       ],
       [
-        8427,
-        5545
+        121,
+        91
       ],
       [
-        8420,
-        6816
+        121,
+        14
       ],
       [
-        7627,
-        6818
-      ],
-      [
-        6310,
-        6820
-      ],
-      [
-        5280,
-        6825
-      ],
-      [
-        4104,
-        6823
-      ],
-      [
-        2859,
-        6816
-      ],
-      [
-        1594,
-        6814
-      ],
-      [
-        462,
-        6805
-      ],
-      [
-        455,
-        6117
-      ],
-      [
-        452,
-        5369
-      ],
-      [
-        448,
-        4784
-      ],
-      [
-        452,
-        4115
-      ],
-      [
-        454,
-        3631
-      ],
-      [
-        447,
-        2814
-      ],
-      [
-        438,
-        2221
-      ],
-      [
-        429,
-        1919
-      ],
-      [
-        423,
-        1467
-      ],
-      [
-        986,
-        1476
-      ],
-      [
-        1742,
-        1482
-      ],
-      [
-        1744,
-        1440
-      ],
-      [
-        1741,
-        728
-      ],
-      [
-        1743,
-        197
-      ],
-      [
-        8405,
-        207
+        571,
+        14
       ]
     ],
-    "created": "2013-02-26T18:57:07.119780+00:00",
+    "created": "2020-07-07T12:50:33.066145+00:00",
     "transformation_method": "affine",
-    "mapID": "f6cfff98-27ab-591a-8f98-a0fd18980100",
+    "mapID": "b3ebb3c5-6cd2-4561-a14d-64c1906ce78e",
     "affine_transformation": null,
-    "changed": "2013-02-26T18:57:07.119780+00:00",
+    "changed": "2020-07-07T12:50:33.066145+00:00",
     "gcps": [
       {
         "location": [
-          14.474438666577287,
-          48.974563371758705
+          14.470070456750193,
+          50.35950082906109
         ],
         "pixel": [
-          4477,
-          5673
+          305,
+          127
         ]
       },
       {
         "location": [
-          15.118652769242932,
-          50.142619454207875
+          16.75891654069196,
+          50.08316650646725
         ],
         "pixel": [
-          5556,
-          2612
+          566,
+          167
         ]
       },
       {
         "location": [
-          12.66613107336154,
-          49.21762283845848
+          15.267366342084678,
+          49.95129381990537
         ],
         "pixel": [
-          1372,
-          4993
+          396,
+          191
         ]
       },
       {
         "location": [
-          15.079207843226929,
-          50.92160998696812
+          14.7042388687691,
+          48.5842312481993
         ],
         "pixel": [
-          5470,
-          592
+          333,
+          411
         ]
       },
       {
         "location": [
-          12.135758102210207,
-          50.49395068821016
+          12.103082676473925,
+          50.32009070647652
+        ],
+        "pixel": [
+          33,
+          127
+        ]
+      },
+      {
+        "location": [
+          16.609374193709083,
+          49.19375148209326
         ],
         "pixel": [
           554,
-          1623
+          309
         ]
       },
       {
         "location": [
-          13.417291339700842,
-          50.46105457428956
+          15.171790598622463,
+          51.020286266315225
         ],
         "pixel": [
-          2691,
-          1768
+          383,
+          20
         ]
       },
       {
         "location": [
-          15.88110973929847,
-          49.21518268300517
+          14.315154449550166,
+          51.0554495499149
         ],
         "pixel": [
-          6879,
-          5033
+          287,
+          14
+        ]
+      },
+      {
+        "location": [
+          16.335065903326868,
+          50.58507750596871
+        ],
+        "pixel": [
+          514,
+          88
+        ]
+      },
+      {
+        "location": [
+          13.37592313390582,
+          49.750787496133825
+        ],
+        "pixel": [
+          179,
+          223
         ]
       }
     ]
   },
-  "pubdate": [
-    "1930",
-    "1939"
-  ]
+  "pubdate": ["[193-?]"]
 }

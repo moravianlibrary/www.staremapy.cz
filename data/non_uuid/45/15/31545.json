@@ -1,0 +1,110 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/Vs_Litomysl_030_1_4/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "31545",
+  "title": "Katastrální mapa obce Malé Sedliště (Sedlíšťka) a osady Nová Sídla",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/31545",
+  "id": "6c477c03-37d3-54aa-b093-16213a67cc8e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        3884,
+        3983
+      ],
+      [
+        4812,
+        1007
+      ],
+      [
+        14828,
+        1039
+      ],
+      [
+        16940,
+        4175
+      ],
+      [
+        4012,
+        4111
+      ],
+      [
+        3884,
+        3983
+      ]
+    ],
+    "created": "2014-12-12T14:49:15.498530+00:00",
+    "transformation_method": "affine",
+    "mapID": "6c477c03-37d3-54aa-b093-16213a67cc8e",
+    "affine_transformation": null,
+    "changed": "2014-12-12T14:49:15.498530+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.234809565,
+          49.886642319
+        ],
+        "pixel": [
+          7049,
+          4135
+        ]
+      },
+      {
+        "location": [
+          16.236011195,
+          49.889918785
+        ],
+        "pixel": [
+          7673,
+          1095
+        ]
+      },
+      {
+        "location": [
+          16.232835459,
+          49.888660759
+        ],
+        "pixel": [
+          5865,
+          2327
+        ]
+      },
+      {
+        "location": [
+          16.236848044,
+          49.8871815
+        ],
+        "pixel": [
+          8177,
+          3551
+        ]
+      },
+      {
+        "location": [
+          16.231869864,
+          49.888619285
+        ],
+        "pixel": [
+          5305,
+          2367
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1889"]
+}

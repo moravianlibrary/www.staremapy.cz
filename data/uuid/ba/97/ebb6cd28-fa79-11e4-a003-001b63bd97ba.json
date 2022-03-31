@@ -1,124 +1,204 @@
 {
   "date": [null],
-  "creator": "Schraembl, Franz Anton,",
+  "creator": "Santini, P.",
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:ebb6cd28-fa79-11e4-a003-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa : 46 x 61 cm",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:ebb6cd28-fa79-11e4-a003-001b63bd97ba/ImageProperties.xml",
+  "description": "Oestlicher Theil von Dalmatien",
   "scale": null,
-  "external_id": "89785",
+  "external_id": "uuid:ebb6cd28-fa79-11e4-a003-001b63bd97ba",
   "title": "Oestlicher Theil von Dalmatien",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b1d96e-c66b-11e4-8731-1681e6b88ec1?page=uuid:ebb6cd28-fa79-11e4-a003-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "F. A. Schraembl,",
-  "link_url": "http://kramerius.cbvk.cz/search/handle/uuid:16b1d96e-c66b-11e4-8731-1681e6b88ec1",
-  "id": "15020840-6afd-5a1e-bad4-747d35922902",
+  "publisher": "Schraembl, Franz Anton",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b1d96e-c66b-11e4-8731-1681e6b88ec1?page=uuid:ebb6cd28-fa79-11e4-a003-001b63bd97ba",
+  "id": "243a2474-64eb-4cc4-9ff0-b1d6d6fdeaa6",
   "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        5833,
-        4457
+        390,
+        50
       ],
       [
-        7758,
-        4471
+        407,
+        111
       ],
       [
-        7753,
-        4830
+        432,
+        124
       ],
       [
-        8361,
-        4841
+        480,
+        110
       ],
       [
-        8359,
-        6046
+        515,
+        117
       ],
       [
-        5816,
-        6013
+        512,
+        259
       ],
       [
-        5833,
-        4457
+        347,
+        260
+      ],
+      [
+        344,
+        338
+      ],
+      [
+        199,
+        343
+      ],
+      [
+        92,
+        362
+      ],
+      [
+        98,
+        47
+      ],
+      [
+        390,
+        50
       ]
     ],
-    "created": "2019-01-18T18:39:25.349900+00:00",
+    "created": "2020-07-07T12:46:48.964730+00:00",
     "transformation_method": "affine",
-    "mapID": "15020840-6afd-5a1e-bad4-747d35922902",
+    "mapID": "243a2474-64eb-4cc4-9ff0-b1d6d6fdeaa6",
     "affine_transformation": null,
-    "changed": "2019-01-18T18:39:25.349900+00:00",
+    "changed": "2021-10-03T08:03:44.392548+00:00",
     "gcps": [
       {
         "location": [
-          18.838114450319566,
-          42.28446796816445
+          17.122245751957564,
+          42.97898914201238
         ],
         "pixel": [
-          7486,
-          5662
+          226,
+          215
         ]
       },
       {
         "location": [
-          18.687266861963373,
-          42.477982957962155
+          17.97923157100337,
+          42.71389387773149
         ],
         "pixel": [
-          6690,
-          5019
+          380,
+          186
         ]
       },
       {
         "location": [
-          18.77285045867441,
-          42.423898589292605
+          17.696333621784635,
+          42.83737642523465
         ],
         "pixel": [
-          7061,
-          5143
+          343,
+          207
         ]
       },
       {
         "location": [
-          19.01903960111021,
-          42.147285664806304
+          17.4803836095776,
+          42.762812330574945
         ],
         "pixel": [
-          8222,
-          5914
+          337,
+          246
         ]
       },
       {
         "location": [
-          18.922565907262552,
-          42.35389415513541
+          16.71154547535603,
+          42.95831087425336
         ],
         "pixel": [
-          7676,
-          5222
+          151,
+          275
         ]
       },
       {
         "location": [
-          18.535949676039852,
-          42.45183323398527
+          17.018946208414338,
+          42.973459634859495
         ],
         "pixel": [
-          6380,
-          5369
+          203,
+          232
+        ]
+      },
+      {
+        "location": [
+          16.928652324136998,
+          42.96717934422011
+        ],
+        "pixel": [
+          182,
+          241
+        ]
+      },
+      {
+        "location": [
+          17.13597866211381,
+          42.96190678730494
+        ],
+        "pixel": [
+          216,
+          225
+        ]
+      },
+      {
+        "location": [
+          17.183357202152877,
+          42.97672851453808
+        ],
+        "pixel": [
+          236,
+          217
+        ]
+      },
+      {
+        "location": [
+          17.536636315922404,
+          42.90560194760269
+        ],
+        "pixel": [
+          283,
+          186
+        ]
+      },
+      {
+        "location": [
+          17.893400882526812,
+          42.787005125673886
+        ],
+        "pixel": [
+          365,
+          191
+        ]
+      },
+      {
+        "location": [
+          16.868164415147472,
+          42.75313711819575
+        ],
+        "pixel": [
+          190,
+          293
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["1789"]
 }

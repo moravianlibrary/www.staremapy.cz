@@ -1,126 +1,116 @@
 {
   "date": [null],
-  "creator": null,
+  "creator": "Schraembl, Franz Anton",
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:56307a8d-fa07-11e4-9148-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa : 50 x 80 cm",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:56307a8d-fa07-11e4-9148-001b63bd97ba/ImageProperties.xml",
+  "description": "Allgemeiner französischer Kriegsschauplatz, welcher Frankreich, Deutschland, Italien, Grossbritannien, Spanien, Portugal ... enthält [severní část",
   "scale": null,
-  "external_id": "96341",
-  "title": "Allgemeiner französischer Kriegsschauplatz, welcher Frankreich, Deutschland, Italien, Grossbritannien, Spanien, Portugal ... enthält [severní část]",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": false,
+  "external_id": "uuid:56307a8d-fa07-11e4-9148-001b63bd97ba",
+  "title": "Allgemeiner französischer Kriegsschauplatz, welcher Frankreich, Deutschland, Italien, Grossbritannien, Spanien, Portugal ... enthält [severní část",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b28d8c-c66b-11e4-8731-1681e6b88ec1?page=uuid:56307a8d-fa07-11e4-9148-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "F. A. Schrämbl,",
-  "link_url": "http://kramerius.cbvk.cz/search/handle/uuid:16b28d8c-c66b-11e4-8731-1681e6b88ec1",
-  "id": "26b93d41-64c0-54f4-865b-a51e9f91abe0",
+  "publisher": "Schraembl, Franz Anton",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b28d8c-c66b-11e4-8731-1681e6b88ec1?page=uuid:56307a8d-fa07-11e4-9148-001b63bd97ba",
+  "id": "0ff67bd2-36c1-4417-97a7-d21c32d7663a",
   "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        1933,
-        516
+        30,
+        35
       ],
       [
-        1922,
-        2050
+        116,
+        35
       ],
       [
-        478,
-        2030
+        115,
+        139
       ],
       [
-        484,
-        502
+        29,
+        138
       ],
       [
-        1933,
-        516
+        30,
+        35
       ]
     ],
-    "created": "2022-01-31T17:33:00.442736+00:00",
+    "created": "2021-07-28T06:30:44.037992+00:00",
     "transformation_method": "affine",
-    "mapID": "26b93d41-64c0-54f4-865b-a51e9f91abe0",
+    "mapID": "0ff67bd2-36c1-4417-97a7-d21c32d7663a",
     "affine_transformation": null,
-    "changed": "2022-01-31T17:36:34.873425+00:00",
+    "changed": "2021-07-28T06:36:25.018374+00:00",
     "gcps": [
       {
         "location": [
-          -1.446151195503107,
-          60.60921603309379
+          -6.955826743707855,
+          61.603197879295294
         ],
         "pixel": [
-          1556,
-          1496
+          36,
+          57
         ]
       },
       {
         "location": [
-          -6.697161852922955,
-          61.399466563733824
+          -1.629628147466488,
+          59.53423167240612
         ],
         "pixel": [
-          622,
-          942
+          82,
+          135
         ]
       },
       {
         "location": [
-          -6.2587527387022,
-          62.34210466112654
+          -1.1424853942653082,
+          60.153200528834134
         ],
         "pixel": [
-          878,
-          604
+          96,
+          116
         ]
       },
       {
         "location": [
-          -6.812972484565607,
-          61.836339638714236
+          -1.3379400928191258,
+          59.9020942366364
         ],
         "pixel": [
-          638,
-          770
+          88,
+          124
         ]
       },
       {
         "location": [
-          -1.1440271720656052,
-          60.1595694576109
+          -0.8815730386623631,
+          60.750754969743184
         ],
         "pixel": [
-          1600,
-          1719
+          107,
+          105
         ]
       },
       {
         "location": [
-          -0.830916820503107,
-          60.83315284040023
+          -6.816116750324609,
+          61.83451374638193
         ],
         "pixel": [
-          1806,
-          1514
-        ]
-      },
-      {
-        "location": [
-          -1.6905969962843566,
-          60.251397676730505
-        ],
-        "pixel": [
-          1520,
-          1634
+          38,
+          52
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["1793"]
 }

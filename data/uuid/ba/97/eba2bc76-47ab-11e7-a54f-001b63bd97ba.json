@@ -3,308 +3,114 @@
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:eba2bc76-47ab-11e7-a54f-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa : barevná ; 39 x 51 cm na listu 48 x 63 cm",
-  "scale": 75000,
-  "external_id": "695776",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:eba2bc76-47ab-11e7-a54f-001b63bd97ba/ImageProperties.xml",
+  "description": "Banská Bystrica",
+  "scale": null,
+  "external_id": "uuid:eba2bc76-47ab-11e7-a54f-001b63bd97ba",
   "title": "Banská Bystrica",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:d669cb44-5167-44ea-bb6c-ebacfd9b51ff?page=uuid:eba2bc76-47ab-11e7-a54f-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": null,
-  "link_url": "http://kramerius.cbvk.cz/search/handle/uuid:d669cb44-5167-44ea-bb6c-ebacfd9b51ff",
-  "id": "ea916a99-e3cb-5f05-962c-40235f910ee2",
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:d669cb44-5167-44ea-bb6c-ebacfd9b51ff?page=uuid:eba2bc76-47ab-11e7-a54f-001b63bd97ba",
+  "id": "80f48da7-bb90-4e10-a1f0-bf4d015a42a0",
   "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        6665,
-        603
+        534,
+        49
       ],
       [
-        6665,
-        5001
+        533,
+        390
       ],
       [
-        3670,
-        4996
+        75,
+        390
       ],
       [
-        897,
-        5014
+        73,
+        48
       ],
       [
-        905,
-        605
-      ],
-      [
-        6665,
-        603
+        534,
+        49
       ]
     ],
-    "created": "2018-01-08T15:42:56.952299+00:00",
+    "created": "2020-07-07T12:58:33.765315+00:00",
     "transformation_method": "affine",
-    "mapID": "ea916a99-e3cb-5f05-962c-40235f910ee2",
+    "mapID": "80f48da7-bb90-4e10-a1f0-bf4d015a42a0",
     "affine_transformation": null,
-    "changed": "2018-01-08T15:42:56.952299+00:00",
+    "changed": "2021-08-15T13:46:22.383244+00:00",
     "gcps": [
       {
         "location": [
-          19.14266509114568,
-          48.73994278076364
+          19.048057712176195,
+          48.5059144056853
         ],
         "pixel": [
-          4501,
-          757
+          273,
+          383
         ]
       },
       {
         "location": [
-          18.91757414344531,
-          48.70623256053642
+          18.87004186677732,
+          48.732082536671385
         ],
         "pixel": [
-          1901,
-          1353
+          108,
+          70
         ]
       },
       {
         "location": [
-          19.12564256022945,
-          48.578081609882304
+          19.215904231691805,
+          48.73912365328633
         ],
         "pixel": [
-          4300,
-          3607
+          430,
+          62
         ]
       },
       {
         "location": [
-          18.913944708385422,
-          48.652422708295774
+          19.25958797452704,
+          48.562294971514405
         ],
         "pixel": [
-          1858,
-          2306
+          468,
+          305
         ]
       },
       {
         "location": [
-          18.915431002926002,
-          48.7009551201694
+          18.860995373397333,
+          48.58469885566598
         ],
         "pixel": [
-          1882,
-          1447
+          99,
+          274
         ]
       },
       {
         "location": [
-          18.906023514918395,
-          48.73805925413768
+          18.841585438203182,
+          48.61654742214148
         ],
         "pixel": [
-          1776,
-          797
-        ]
-      },
-      {
-        "location": [
-          19.069479699871597,
-          48.574799822714056
-        ],
-        "pixel": [
-          3639,
-          3661
-        ]
-      },
-      {
-        "location": [
-          19.286308261914566,
-          48.59988308773484
-        ],
-        "pixel": [
-          6146,
-          3222
-        ]
-      },
-      {
-        "location": [
-          19.058594807201843,
-          48.521804189214095
-        ],
-        "pixel": [
-          3523,
-          4593
-        ]
-      },
-      {
-        "location": [
-          18.86092720690706,
-          48.58470304310043
-        ],
-        "pixel": [
-          1232,
-          3493
-        ]
-      },
-      {
-        "location": [
-          19.05080460597775,
-          48.54284201169901
-        ],
-        "pixel": [
-          3435,
-          4223
-        ]
-      },
-      {
-        "location": [
-          19.12569730296632,
-          48.575468065610806
-        ],
-        "pixel": [
-          4302,
-          3655
-        ]
-      },
-      {
-        "location": [
-          19.25963096254141,
-          48.5622632577041
-        ],
-        "pixel": [
-          5837,
-          3878
-        ]
-      },
-      {
-        "location": [
-          18.86466617780973,
-          48.52769911101808
-        ],
-        "pixel": [
-          1287,
-          4492
-        ]
-      },
-      {
-        "location": [
-          19.224854772719972,
-          48.60205608088688
-        ],
-        "pixel": [
-          5440,
-          3185
-        ]
-      },
-      {
-        "location": [
-          19.121329417046677,
-          48.66604072903283
-        ],
-        "pixel": [
-          4253,
-          2054
-        ]
-      },
-      {
-        "location": [
-          19.29029258715481,
-          48.70900607712079
-        ],
-        "pixel": [
-          6196,
-          1300
-        ]
-      },
-      {
-        "location": [
-          18.870105673005053,
-          48.73219945289486
-        ],
-        "pixel": [
-          1350,
-          891
-        ]
-      },
-      {
-        "location": [
-          18.916289309810768,
-          48.70432552301702
-        ],
-        "pixel": [
-          1895,
-          1389
-        ]
-      },
-      {
-        "location": [
-          19.04805254858076,
-          48.50591818465887
-        ],
-        "pixel": [
-          3402,
-          4875
-        ]
-      },
-      {
-        "location": [
-          18.947242542391677,
-          48.54015849656582
-        ],
-        "pixel": [
-          2246,
-          4270
-        ]
-      },
-      {
-        "location": [
-          18.889814731402705,
-          48.606669103181616
-        ],
-        "pixel": [
-          1565,
-          3110
-        ]
-      },
-      {
-        "location": [
-          18.914235954501216,
-          48.74357888669127
-        ],
-        "pixel": [
-          1860,
-          693
-        ]
-      },
-      {
-        "location": [
-          18.845980980814744,
-          48.51587500878753
-        ],
-        "pixel": [
-          1068,
-          4710
-        ]
-      },
-      {
-        "location": [
-          18.87309035508177,
-          48.68591077253049
-        ],
-        "pixel": [
-          1386,
-          1704
+          81,
+          230
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["[1938"]
 }

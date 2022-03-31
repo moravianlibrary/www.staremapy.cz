@@ -1,0 +1,106 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/huav/II_vojenske_mapovani/144/B7115_10-1/ImageProperties.xml",
+  "description": null,
+  "scale": 144000,
+  "external_id": "7482",
+  "title": "II. vojenské mapování 14",
+  "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/7482",
+  "id": "96f56e9d-09d1-5da5-920a-46de539481d3",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1677,
+        7560
+      ],
+      [
+        10669,
+        7560
+      ],
+      [
+        10669,
+        1640
+      ],
+      [
+        1677,
+        1640
+      ],
+      [
+        1677,
+        7560
+      ]
+    ],
+    "created": "2014-12-09T18:26:30.184590+00:00",
+    "transformation_method": "affine",
+    "mapID": "96f56e9d-09d1-5da5-920a-46de539481d3",
+    "affine_transformation": null,
+    "changed": "2014-12-09T18:26:30.184590+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.469645631,
+          49.315596286
+        ],
+        "pixel": [
+          10243,
+          2286
+        ]
+      },
+      {
+        "location": [
+          17.46634115,
+          49.068045379
+        ],
+        "pixel": [
+          10290,
+          6692
+        ]
+      },
+      {
+        "location": [
+          16.770640504,
+          49.039723982
+        ],
+        "pixel": [
+          2030,
+          7280
+        ]
+      },
+      {
+        "location": [
+          16.757122171,
+          49.345144241
+        ],
+        "pixel": [
+          1806,
+          1838
+        ]
+      },
+      {
+        "location": [
+          17.208591592,
+          49.20203627
+        ],
+        "pixel": [
+          7192,
+          4322
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1871"]
+}

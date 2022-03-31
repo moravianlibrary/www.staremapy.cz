@@ -1,0 +1,106 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1271/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "7147",
+  "title": "Hartmanice o. České Budějovice 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/7147",
+  "id": "e97de8d1-7019-5061-85d8-41968626eeee",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        17734,
+        0
+      ],
+      [
+        17734,
+        14362
+      ],
+      [
+        0,
+        14362
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        17734,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:12:12.599170+00:00",
+    "transformation_method": "affine",
+    "mapID": "e97de8d1-7019-5061-85d8-41968626eeee",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:12:12.599170+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.565766738,
+          49.216402011
+        ],
+        "pixel": [
+          7275,
+          7725
+        ]
+      },
+      {
+        "location": [
+          14.555381179,
+          49.218857354
+        ],
+        "pixel": [
+          1164,
+          5616
+        ]
+      },
+      {
+        "location": [
+          14.570460558,
+          49.217126403
+        ],
+        "pixel": [
+          10028,
+          7000
+        ]
+      },
+      {
+        "location": [
+          14.574882418,
+          49.223805865
+        ],
+        "pixel": [
+          12547,
+          975
+        ]
+      },
+      {
+        "location": [
+          14.566399692,
+          49.221509721
+        ],
+        "pixel": [
+          7574,
+          3152
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1838"]
+}

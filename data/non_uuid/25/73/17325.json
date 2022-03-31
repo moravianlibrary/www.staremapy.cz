@@ -1,0 +1,86 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/orlik_1035/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "17325",
+  "title": "Rakovice, okr. Písek, list 10 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/17325",
+  "id": "1ac5c04d-1fd4-5163-87ee-2e9dc7556941",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        15516,
+        0
+      ],
+      [
+        15516,
+        6154
+      ],
+      [
+        0,
+        6154
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        15516,
+        0
+      ]
+    ],
+    "created": "2014-11-25T18:13:39.261730+00:00",
+    "transformation_method": "affine",
+    "mapID": "1ac5c04d-1fd4-5163-87ee-2e9dc7556941",
+    "affine_transformation": null,
+    "changed": "2014-11-25T18:13:39.261730+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.074488451259745,
+          49.442623523469365
+        ],
+        "pixel": [
+          8128,
+          586
+        ]
+      },
+      {
+        "location": [
+          14.063402295797598,
+          49.44157176135903
+        ],
+        "pixel": [
+          1689,
+          1842
+        ]
+      },
+      {
+        "location": [
+          14.069598360805157,
+          49.44156887344852
+        ],
+        "pixel": [
+          5547,
+          1791
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1840"]
+}

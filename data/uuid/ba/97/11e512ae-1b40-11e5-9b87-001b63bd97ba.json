@@ -1,422 +1,167 @@
 {
-  "date": ["1866"],
-  "creator": null,
+  "date": [null],
+  "creator": "Weiland, G. H.",
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:11e512ae-1b40-11e5-9b87-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, barevná, 65x45",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:11e512ae-1b40-11e5-9b87-001b63bd97ba/ImageProperties.xml",
+  "description": "Special-Karte der österreichisch-preussischen Grenz-Provinzen und der anstossenden Gebietstheile des Königreichs Sachsen mit besonderer Berücksichtigung der Festungen, Flussgebiete u.s.w.",
   "scale": null,
-  "external_id": "77665",
-  "title": "Special-Karte der österreichisch-preussischen Grenz-Provinzen und der anstossenden Gebietstheile des Königreichs Sachsen mit besonderer Berücksichtigung der Festungen, Flussgebiete u.s.w. /",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "external_id": "uuid:11e512ae-1b40-11e5-9b87-001b63bd97ba",
+  "title": "Special-Karte der österreichisch-preussischen Grenz-Provinzen und der anstossenden Gebietstheile des Königreichs Sachsen mit besonderer Berücksichtigung der Festungen, Flussgebiete u.s.w.",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5d02d-00c9-11e5-b939-0800200c9a66?page=uuid:11e512ae-1b40-11e5-9b87-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "Verlag Beck'sche Universitäts-Buchhandlung (Alfred Hölder), Wien 1866",
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MC_436_1_001.php",
-  "id": "533a5886-e6e5-56f7-ab86-6e92788f5787",
-  "physical_size": [
-    65,
-    45
-  ],
+  "publisher": "Beck'sche Universitäts Buchhandlung (Alfred Hölder)",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5d02d-00c9-11e5-b939-0800200c9a66?page=uuid:11e512ae-1b40-11e5-9b87-001b63bd97ba",
+  "id": "5531778d-20b0-4935-a2d8-e14f9bc618bb",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        5897,
-        1734
+        537,
+        257
       ],
       [
-        6537,
-        2946
+        537,
+        378
       ],
       [
-        6709,
-        3369
+        62,
+        381
       ],
       [
-        7247,
-        3254
+        60,
+        138
       ],
       [
-        7285,
-        3585
+        111,
+        137
       ],
       [
-        7285,
-        4843
+        104,
+        129
       ],
       [
-        839,
-        4882
+        99,
+        91
       ],
       [
-        812,
-        1767
+        106,
+        58
       ],
       [
-        1517,
-        1760
+        116,
+        43
       ],
       [
-        1451,
-        1621
+        160,
+        42
       ],
       [
-        1477,
-        1599
+        189,
+        57
       ],
       [
-        1457,
-        1526
+        219,
+        71
       ],
       [
-        1487,
-        1501
+        220,
+        117
       ],
       [
-        1412,
-        1416
+        230,
+        128
       ],
       [
-        1450,
-        1392
+        233,
+        136
       ],
       [
-        1419,
-        1343
+        437,
+        136
       ],
       [
-        1441,
-        1327
+        449,
+        169
       ],
       [
-        1408,
-        1248
+        469,
+        198
       ],
       [
-        1427,
-        1238
+        481,
+        235
       ],
       [
-        1395,
-        1135
+        499,
+        257
       ],
       [
-        1434,
-        1066
-      ],
-      [
-        1505,
-        998
-      ],
-      [
-        1522,
-        948
-      ],
-      [
-        1488,
-        897
-      ],
-      [
-        1500,
-        821
-      ],
-      [
-        1490,
-        736
-      ],
-      [
-        1535,
-        702
-      ],
-      [
-        1531,
-        637
-      ],
-      [
-        1569,
-        605
-      ],
-      [
-        1562,
-        557
-      ],
-      [
-        2184,
-        543
-      ],
-      [
-        2130,
-        617
-      ],
-      [
-        2236,
-        609
-      ],
-      [
-        2283,
-        686
-      ],
-      [
-        2364,
-        712
-      ],
-      [
-        2381,
-        741
-      ],
-      [
-        2437,
-        739
-      ],
-      [
-        2457,
-        781
-      ],
-      [
-        2546,
-        811
-      ],
-      [
-        2548,
-        836
-      ],
-      [
-        2588,
-        845
-      ],
-      [
-        2583,
-        873
-      ],
-      [
-        2624,
-        885
-      ],
-      [
-        2615,
-        904
-      ],
-      [
-        2746,
-        928
-      ],
-      [
-        2779,
-        948
-      ],
-      [
-        2839,
-        975
-      ],
-      [
-        2820,
-        1001
-      ],
-      [
-        2841,
-        1014
-      ],
-      [
-        2839,
-        1054
-      ],
-      [
-        2873,
-        1078
-      ],
-      [
-        2884,
-        1159
-      ],
-      [
-        2873,
-        1245
-      ],
-      [
-        2896,
-        1265
-      ],
-      [
-        2854,
-        1329
-      ],
-      [
-        2879,
-        1373
-      ],
-      [
-        2854,
-        1415
-      ],
-      [
-        2881,
-        1470
-      ],
-      [
-        2913,
-        1496
-      ],
-      [
-        2927,
-        1514
-      ],
-      [
-        2916,
-        1529
-      ],
-      [
-        2977,
-        1543
-      ],
-      [
-        2994,
-        1585
-      ],
-      [
-        3021,
-        1603
-      ],
-      [
-        3038,
-        1623
-      ],
-      [
-        3042,
-        1643
-      ],
-      [
-        3073,
-        1646
-      ],
-      [
-        3104,
-        1676
-      ],
-      [
-        3129,
-        1706
-      ],
-      [
-        3111,
-        1741
-      ],
-      [
-        3290,
-        1735
-      ],
-      [
-        3652,
-        1739
-      ],
-      [
-        4432,
-        1731
-      ],
-      [
-        5897,
-        1734
+        537,
+        257
       ]
     ],
-    "created": "2013-02-26T18:57:23.172620+00:00",
+    "created": "2020-07-07T12:45:12.269808+00:00",
     "transformation_method": "affine",
-    "mapID": "533a5886-e6e5-56f7-ab86-6e92788f5787",
+    "mapID": "5531778d-20b0-4935-a2d8-e14f9bc618bb",
     "affine_transformation": null,
-    "changed": "2013-02-26T18:57:23.172620+00:00",
+    "changed": "2020-07-07T12:45:12.269808+00:00",
     "gcps": [
       {
         "location": [
-          16.650040623368344,
-          49.48899929183122
+          19.937791222803376,
+          50.06027000953591
         ],
         "pixel": [
-          4394,
-          4671
+          523,
+          299
         ]
       },
       {
         "location": [
-          12.360112882395104,
-          49.345466046237306
+          13.37372880675306,
+          49.74503968126231
         ],
         "pixel": [
-          851,
-          4769
+          125,
+          336
         ]
       },
       {
         "location": [
-          13.37569135,
-          49.743167131
+          17.24715687490193,
+          49.59445856081135
         ],
         "pixel": [
-          1693,
-          4298
+          360,
+          354
         ]
       },
       {
         "location": [
-          13.594731267,
-          49.742945271
+          15.080558458044877,
+          50.92196677808735
         ],
         "pixel": [
-          1874,
-          4313
+          231,
+          219
         ]
       },
       {
         "location": [
-          17.025064652612617,
-          51.105713092116446
+          13.387570265306204,
+          52.524265193124165
         ],
         "pixel": [
-          4695,
-          2580
-        ]
-      },
-      {
-        "location": [
-          12.37837212755146,
-          51.34239934367557
-        ],
-        "pixel": [
-          985,
-          2195
-        ]
-      },
-      {
-        "location": [
-          13.416031774,
-          52.524517875
-        ],
-        "pixel": [
-          1850,
-          713
-        ]
-      },
-      {
-        "location": [
-          19.9369325,
-          50.06181516
-        ],
-        "pixel": [
-          7082,
-          3835
-        ]
-      },
-      {
-        "location": [
-          14.97595514672681,
-          51.15559794319748
-        ],
-        "pixel": [
-          3056,
-          2505
+          136,
+          56
         ]
       }
     ]

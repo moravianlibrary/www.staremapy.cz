@@ -1,0 +1,114 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_2640/ImageProperties.xml",
+  "description": null,
+  "scale": 5760,
+  "external_id": "9985",
+  "title": "Hospodářská mapa pozemků dvora Vrchy 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/9985",
+  "id": "b260ab34-cb22-5a98-9647-3909f7fc1afa",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        171,
+        9455
+      ],
+      [
+        12651,
+        9455
+      ],
+      [
+        12683,
+        4767
+      ],
+      [
+        10235,
+        2751
+      ],
+      [
+        7835,
+        127
+      ],
+      [
+        171,
+        143
+      ],
+      [
+        171,
+        9455
+      ]
+    ],
+    "created": "2015-06-18T14:42:10.867100+00:00",
+    "transformation_method": "affine",
+    "mapID": "b260ab34-cb22-5a98-9647-3909f7fc1afa",
+    "affine_transformation": null,
+    "changed": "2015-06-18T14:42:10.867100+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.769578583,
+          48.994866925
+        ],
+        "pixel": [
+          10587,
+          7989
+        ]
+      },
+      {
+        "location": [
+          14.74968053,
+          48.986379021
+        ],
+        "pixel": [
+          6718,
+          1952
+        ]
+      },
+      {
+        "location": [
+          14.76009387,
+          48.994377242
+        ],
+        "pixel": [
+          10427,
+          5115
+        ]
+      },
+      {
+        "location": [
+          14.756825935,
+          48.984886376
+        ],
+        "pixel": [
+          6094,
+          4176
+        ]
+      },
+      {
+        "location": [
+          14.76332761,
+          48.990518766
+        ],
+        "pixel": [
+          8635,
+          6077
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1899"]
+}

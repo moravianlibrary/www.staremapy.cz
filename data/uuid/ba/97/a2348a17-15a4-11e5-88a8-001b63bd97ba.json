@@ -1,206 +1,173 @@
 {
-  "date": ["1869"],
+  "date": [null],
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:a2348a17-15a4-11e5-88a8-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, černobílá, 45x36",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:a2348a17-15a4-11e5-88a8-001b63bd97ba/ImageProperties.xml",
+  "description": "Umgebungen von Rosenberg und Hohenfurth",
   "scale": null,
-  "external_id": "127539",
-  "title": "Umgebungen von Rosenberg und Hohenfurth XXXVII",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
+  "external_id": "uuid:a2348a17-15a4-11e5-88a8-001b63bd97ba",
+  "title": "Umgebungen von Rosenberg und Hohenfurth",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
   "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5821d-00c9-11e5-b939-0800200c9a66?page=uuid:a2348a17-15a4-11e5-88a8-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": null,
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MA_83_37_001.php",
-  "id": "7864ffa6-bffc-5048-a84a-be63908dcb5e",
-  "physical_size": [
-    45,
-    36
-  ],
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5821d-00c9-11e5-b939-0800200c9a66?page=uuid:a2348a17-15a4-11e5-88a8-001b63bd97ba",
+  "id": "43176e69-699e-4b98-ba18-e07ba2973666",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        1909,
-        1073
+        545,
+        73
       ],
       [
-        7500,
-        1075
+        545,
+        199
       ],
       [
-        7502,
-        2861
+        446,
+        239
       ],
       [
-        7127,
-        3087
+        319,
+        238
       ],
       [
-        6115,
-        3603
+        235,
+        200
       ],
       [
-        5063,
-        3498
+        213,
+        177
       ],
       [
-        3690,
-        3281
+        160,
+        115
       ],
       [
-        2789,
-        2575
+        134,
+        73
       ],
       [
-        2212,
-        1678
+        294,
+        73
       ],
       [
-        1909,
-        1073
+        342,
+        73
+      ],
+      [
+        347,
+        71
+      ],
+      [
+        378,
+        71
+      ],
+      [
+        383,
+        73
+      ],
+      [
+        439,
+        73
+      ],
+      [
+        545,
+        73
       ]
     ],
-    "created": "2013-03-21T19:50:38.838850+00:00",
+    "created": "2020-07-07T12:55:42.436879+00:00",
     "transformation_method": "affine",
-    "mapID": "7864ffa6-bffc-5048-a84a-be63908dcb5e",
+    "mapID": "43176e69-699e-4b98-ba18-e07ba2973666",
     "affine_transformation": null,
-    "changed": "2013-03-21T19:50:38.838850+00:00",
+    "changed": "2022-02-14T07:08:15.177013+00:00",
     "gcps": [
       {
         "location": [
-          14.476238496,
-          48.557434516
+          14.292620501338877,
+          48.52253317801177
         ],
         "pixel": [
-          7073,
-          2791
+          392,
+          219
         ]
       },
       {
         "location": [
-          14.504562623,
-          48.616083836
+          14.312348908201031,
+          48.613982805051165
         ],
         "pixel": [
-          7301,
-          2011
+          409,
+          134
         ]
       },
       {
         "location": [
-          14.453750856,
-          48.644220409
+          14.04124921273897,
+          48.574327015247064
         ],
         "pixel": [
-          6891,
-          1601
+          230,
+          166
         ]
       },
       {
         "location": [
-          14.452549226,
-          48.657148892
+          13.971249357182627,
+          48.645881012572204
         ],
         "pixel": [
-          6895,
-          1429
+          186,
+          99
         ]
       },
       {
         "location": [
-          14.361397035,
-          48.652726363
+          14.476144406076605,
+          48.55943125074171
         ],
         "pixel": [
-          6073,
-          1462
+          512,
+          189
         ]
       },
       {
         "location": [
-          13.971382386,
-          48.646375386
+          14.48251350962365,
+          48.66781632762698
         ],
         "pixel": [
-          2551,
-          1459
+          521,
+          88
         ]
       },
       {
         "location": [
-          14.165531404,
-          48.66089073
+          14.1422566318187,
+          48.542563248130364
         ],
         "pixel": [
-          4287,
-          1305
+          294,
+          197
         ]
       },
       {
         "location": [
-          14.293934114,
-          48.522655664
+          14.167957085190094,
+          48.664101915486555
         ],
         "pixel": [
-          5387,
-          3235
-        ]
-      },
-      {
-        "location": [
-          14.142185457,
-          48.542889407
-        ],
-        "pixel": [
-          4047,
-          2903
-        ]
-      },
-      {
-        "location": [
-          14.384914644,
-          48.543116706
-        ],
-        "pixel": [
-          6235,
-          2983
-        ]
-      },
-      {
-        "location": [
-          14.371525056,
-          48.629246444
-        ],
-        "pixel": [
-          6141,
-          1785
-        ]
-      },
-      {
-        "location": [
-          14.240204103,
-          48.632309662
-        ],
-        "pixel": [
-          4977,
-          1715
-        ]
-      },
-      {
-        "location": [
-          14.312403033957294,
-          48.616305744766294
-        ],
-        "pixel": [
-          5632,
-          1928
+          313,
+          87
         ]
       }
     ]

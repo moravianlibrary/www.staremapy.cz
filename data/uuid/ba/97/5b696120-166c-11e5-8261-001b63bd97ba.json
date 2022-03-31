@@ -1,206 +1,143 @@
 {
-  "date": ["1929"],
+  "date": [null],
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:5b696120-166c-11e5-8261-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, barevná, 64x48",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:5b696120-166c-11e5-8261-001b63bd97ba/ImageProperties.xml",
+  "description": "České Budějovice",
   "scale": null,
-  "external_id": "161229",
+  "external_id": "uuid:5b696120-166c-11e5-8261-001b63bd97ba",
   "title": "České Budějovice",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
   "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf55b0b-00c9-11e5-b939-0800200c9a66?page=uuid:5b696120-166c-11e5-8261-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "Vojenský zeměpisný ústav v Praze 1929",
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MA_651_001.php",
-  "id": "7e2d69d5-38ed-52c7-83d2-1a50b18ed713",
-  "physical_size": [
-    64,
-    48
-  ],
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf55b0b-00c9-11e5-b939-0800200c9a66?page=uuid:5b696120-166c-11e5-8261-001b63bd97ba",
+  "id": "be821af2-3885-4c46-ae41-9ced71b3aa46",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        965,
-        593
+        526,
+        376
       ],
       [
-        1963,
-        589
+        74,
+        375
       ],
       [
-        2517,
-        585
+        77,
+        46
       ],
       [
-        3132,
-        584
+        524,
+        47
       ],
       [
-        3855,
-        586
-      ],
-      [
-        4245,
-        580
-      ],
-      [
-        4689,
-        583
-      ],
-      [
-        5245,
-        586
-      ],
-      [
-        5725,
-        581
-      ],
-      [
-        6293,
-        582
-      ],
-      [
-        6743,
-        583
-      ],
-      [
-        6744,
-        1072
-      ],
-      [
-        6744,
-        1692
-      ],
-      [
-        6745,
-        2315
-      ],
-      [
-        6745,
-        2900
-      ],
-      [
-        6746,
-        3634
-      ],
-      [
-        6745,
-        4317
-      ],
-      [
-        6744,
-        4741
-      ],
-      [
-        6744,
-        4952
-      ],
-      [
-        6088,
-        4953
-      ],
-      [
-        5248,
-        4954
-      ],
-      [
-        4387,
-        4959
-      ],
-      [
-        3815,
-        4958
-      ],
-      [
-        3685,
-        4960
-      ],
-      [
-        3010,
-        4960
-      ],
-      [
-        2230,
-        4965
-      ],
-      [
-        1399,
-        4966
-      ],
-      [
-        940,
-        4963
-      ],
-      [
-        940,
-        4705
-      ],
-      [
-        965,
-        593
+        526,
+        376
       ]
     ],
-    "created": "2013-03-21T11:49:46.974920+00:00",
+    "created": "2020-07-07T12:51:56.949211+00:00",
     "transformation_method": "affine",
-    "mapID": "7e2d69d5-38ed-52c7-83d2-1a50b18ed713",
+    "mapID": "be821af2-3885-4c46-ae41-9ced71b3aa46",
     "affine_transformation": null,
-    "changed": "2013-03-21T11:49:46.974920+00:00",
+    "changed": "2020-07-07T12:51:56.949211+00:00",
     "gcps": [
       {
         "location": [
-          14.343741221,
-          48.840807645
+          14.35110801283077,
+          48.781408930823346
         ],
         "pixel": [
-          1062,
-          3361
+          89,
+          335
         ]
       },
       {
         "location": [
-          14.723012434,
-          48.802371102
+          14.343755962025417,
+          48.8407689554048
         ],
         "pixel": [
-          5463,
-          4028
+          83,
+          256
         ]
       },
       {
         "location": [
-          14.679131486,
-          48.832544384
+          14.357221835312249,
+          48.91727046220345
         ],
         "pixel": [
-          4953,
-          3507
+          97,
+          154
         ]
       },
       {
         "location": [
-          14.685148624,
-          48.971087707
+          14.338258593386398,
+          48.97448071751069
         ],
         "pixel": [
-          5019,
-          1078
+          79,
+          77
         ]
       },
       {
         "location": [
-          14.474272728,
-          48.974542179
+          14.684471497016437,
+          48.996082053018
         ],
         "pixel": [
-          2587,
-          1017
+          391,
+          50
+        ]
+      },
+      {
+        "location": [
+          14.474297147855212,
+          48.97448910570131
+        ],
+        "pixel": [
+          202,
+          78
+        ]
+      },
+      {
+        "location": [
+          14.737626573207498,
+          48.76195312936866
+        ],
+        "pixel": [
+          439,
+          360
+        ]
+      },
+      {
+        "location": [
+          14.793073727650308,
+          48.852059282358
+        ],
+        "pixel": [
+          490,
+          241
+        ]
+      },
+      {
+        "location": [
+          14.765549693005624,
+          48.99390558691627
+        ],
+        "pixel": [
+          463,
+          53
         ]
       }
     ]

@@ -1,0 +1,116 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Kout_na_Sumave_M_42/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "13911",
+  "title": "Mapa panských pozemků v katastru obce Mýtnice",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/13911",
+  "id": "16b8e34c-3bae-5d20-87c5-efc4ff3ffa32",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        41,
+        120
+      ],
+      [
+        10620,
+        39
+      ],
+      [
+        10616,
+        25979
+      ],
+      [
+        284,
+        26016
+      ],
+      [
+        41,
+        120
+      ]
+    ],
+    "created": "2016-03-05T21:53:02.922870+00:00",
+    "transformation_method": "affine",
+    "mapID": "16b8e34c-3bae-5d20-87c5-efc4ff3ffa32",
+    "affine_transformation": null,
+    "changed": "2016-03-05T21:53:02.922870+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.696563584,
+          49.456615001
+        ],
+        "pixel": [
+          1318,
+          21038
+        ]
+      },
+      {
+        "location": [
+          12.693656069,
+          49.462702922
+        ],
+        "pixel": [
+          1738,
+          15175
+        ]
+      },
+      {
+        "location": [
+          12.68645702,
+          49.4762359
+        ],
+        "pixel": [
+          2397,
+          2580
+        ]
+      },
+      {
+        "location": [
+          12.693618774,
+          49.472659425
+        ],
+        "pixel": [
+          5092,
+          6794
+        ]
+      },
+      {
+        "location": [
+          12.691939455,
+          49.467193412
+        ],
+        "pixel": [
+          2346,
+          11255
+        ]
+      },
+      {
+        "location": [
+          12.688377482,
+          49.472394615
+        ],
+        "pixel": [
+          2062,
+          6168
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1930"]
+}

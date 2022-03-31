@@ -1,0 +1,106 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/Vs_Litomysl_815/ImageProperties.xml",
+  "description": null,
+  "scale": 5760,
+  "external_id": "21879",
+  "title": "Mapa revíru Kukle",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/21879",
+  "id": "5dfeba85-1a51-5f19-a828-3a569c443797",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        816,
+        9904
+      ],
+      [
+        8880,
+        9904
+      ],
+      [
+        8880,
+        1072
+      ],
+      [
+        816,
+        1072
+      ],
+      [
+        816,
+        9904
+      ]
+    ],
+    "created": "2015-09-26T19:09:05.884520+00:00",
+    "transformation_method": "affine",
+    "mapID": "5dfeba85-1a51-5f19-a828-3a569c443797",
+    "affine_transformation": null,
+    "changed": "2015-09-26T19:09:05.884520+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.454982943,
+          49.795822464
+        ],
+        "pixel": [
+          8247,
+          5759
+        ]
+      },
+      {
+        "location": [
+          16.452595936,
+          49.788220169
+        ],
+        "pixel": [
+          7817,
+          9236
+        ]
+      },
+      {
+        "location": [
+          16.430607027,
+          49.790995075
+        ],
+        "pixel": [
+          1463,
+          8559
+        ]
+      },
+      {
+        "location": [
+          16.453856416,
+          49.790337073
+        ],
+        "pixel": [
+          8079,
+          8287
+        ]
+      },
+      {
+        "location": [
+          16.457096525,
+          49.803834729
+        ],
+        "pixel": [
+          8535,
+          2079
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1874"]
+}

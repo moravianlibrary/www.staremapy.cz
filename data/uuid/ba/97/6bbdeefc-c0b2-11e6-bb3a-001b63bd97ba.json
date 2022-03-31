@@ -3,238 +3,104 @@
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:6bbdeefc-c0b2-11e6-bb3a-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa : barevná ; 57 x 36 cm",
-  "scale": 200000,
-  "external_id": "651259",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:6bbdeefc-c0b2-11e6-bb3a-001b63bd97ba/ImageProperties.xml",
+  "description": "40°51° Lublin",
+  "scale": null,
+  "external_id": "uuid:6bbdeefc-c0b2-11e6-bb3a-001b63bd97ba",
   "title": "40°51° Lublin",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:1298cbbe-3003-11e6-ac61-9e71128cae77?page=uuid:6bbdeefc-c0b2-11e6-bb3a-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": null,
-  "link_url": "http://kramerius.cbvk.cz/search/handle/uuid:1298cbbe-3003-11e6-ac61-9e71128cae77",
-  "id": "e2d343cf-799e-54d0-91d0-c25ba49f391c",
+  "publisher": "K.u.k. militär-geographisches Institut",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:1298cbbe-3003-11e6-ac61-9e71128cae77?page=uuid:6bbdeefc-c0b2-11e6-bb3a-001b63bd97ba",
+  "id": "40a093f1-41b3-45a7-ad39-d86243e9f6f4",
   "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        4132,
-        48
+        600,
+        0
       ],
       [
-        4154,
-        57
+        600,
+        443
       ],
       [
-        4238,
-        6563
+        0,
+        443
       ],
       [
-        38,
-        6578
+        0,
+        0
       ],
       [
-        53,
-        86
-      ],
-      [
-        743,
-        83
-      ],
-      [
-        864,
-        79
-      ],
-      [
-        1294,
-        77
-      ],
-      [
-        1569,
-        46
-      ],
-      [
-        2072,
-        44
-      ],
-      [
-        2072,
-        74
-      ],
-      [
-        2147,
-        74
-      ],
-      [
-        2426,
-        47
-      ],
-      [
-        2802,
-        42
-      ],
-      [
-        4110,
-        37
-      ],
-      [
-        4132,
-        48
+        600,
+        0
       ]
     ],
-    "created": "2018-01-08T15:42:56.952299+00:00",
+    "created": "2020-07-07T12:56:41.840627+00:00",
     "transformation_method": "affine",
-    "mapID": "e2d343cf-799e-54d0-91d0-c25ba49f391c",
+    "mapID": "40a093f1-41b3-45a7-ad39-d86243e9f6f4",
     "affine_transformation": null,
-    "changed": "2018-01-08T15:42:56.952299+00:00",
+    "changed": "2020-07-07T12:56:41.840627+00:00",
     "gcps": [
       {
         "location": [
-          22.366899180071524,
-          51.094078619730965
+          22.567235809545142,
+          51.2545589846126
         ],
         "pixel": [
-          2248,
-          2685
+          429,
+          112
         ]
       },
       {
         "location": [
-          22.710609393137815,
-          51.007085308688545
+          22.2857601362555,
+          51.17477807310755
         ],
         "pixel": [
-          3664,
-          3267
+          270,
+          145
         ]
       },
       {
         "location": [
-          22.746980132780774,
-          50.83539254486041
+          22.101845795629544,
+          50.75579278967689
         ],
         "pixel": [
-          3834,
-          4389
+          162,
+          326
         ]
       },
       {
         "location": [
-          21.950571906339555,
-          51.14468305560894
+          22.410752698865576,
+          50.706697789907
         ],
         "pixel": [
-          513,
-          2361
+          342,
+          348
         ]
       },
       {
         "location": [
-          22.28643755210134,
-          50.621341500321364
+          22.313938456118027,
+          50.8941941585004
         ],
         "pixel": [
-          1940,
-          5767
-        ]
-      },
-      {
-        "location": [
-          22.225131925748542,
-          51.28606861412348
-        ],
-        "pixel": [
-          1645,
-          1426
-        ]
-      },
-      {
-        "location": [
-          22.420834766368344,
-          50.700867706947236
-        ],
-        "pixel": [
-          2463,
-          5246
-        ]
-      },
-      {
-        "location": [
-          21.86440908631546,
-          50.5445846549172
-        ],
-        "pixel": [
-          179,
-          6279
-        ]
-      },
-      {
-        "location": [
-          22.226696926025394,
-          50.92317587495168
-        ],
-        "pixel": [
-          1669,
-          3821
-        ]
-      },
-      {
-        "location": [
-          21.94928474042792,
-          50.83225986152249
-        ],
-        "pixel": [
-          520,
-          4406
-        ]
-      },
-      {
-        "location": [
-          22.007655862993733,
-          51.41280063228831
-        ],
-        "pixel": [
-          746,
-          604
-        ]
-      },
-      {
-        "location": [
-          22.52493759969455,
-          51.25107110026312
-        ],
-        "pixel": [
-          2899,
-          1659
-        ]
-      },
-      {
-        "location": [
-          22.606437587900704,
-          51.47331401215709
-        ],
-        "pixel": [
-          3205,
-          198
-        ]
-      },
-      {
-        "location": [
-          22.697693319227277,
-          50.54128735903902
-        ],
-        "pixel": [
-          3612,
-          6286
+          298,
+          268
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["[mezi 1889 a 1915?]"]
 }

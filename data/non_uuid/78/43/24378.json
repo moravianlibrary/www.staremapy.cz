@@ -1,0 +1,106 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_pardubice_400_adVII/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "24378",
+  "title": "Indikační skica mapy stabilního katastru pro město Přelouč ad VII.",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/24378",
+  "id": "2b3a941e-b0c7-59c6-8654-8596bfc3f0a8",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1728,
+        2996
+      ],
+      [
+        16928,
+        2996
+      ],
+      [
+        16928,
+        372
+      ],
+      [
+        1728,
+        372
+      ],
+      [
+        1728,
+        2996
+      ]
+    ],
+    "created": "2014-12-18T10:39:04.433400+00:00",
+    "transformation_method": "affine",
+    "mapID": "2b3a941e-b0c7-59c6-8654-8596bfc3f0a8",
+    "affine_transformation": null,
+    "changed": "2014-12-18T10:39:04.433400+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.561991459,
+          50.020058098
+        ],
+        "pixel": [
+          12697,
+          445
+        ]
+      },
+      {
+        "location": [
+          15.557260043,
+          50.019217085
+        ],
+        "pixel": [
+          9882,
+          1302
+        ]
+      },
+      {
+        "location": [
+          15.557324416,
+          50.018831042
+        ],
+        "pixel": [
+          9930,
+          1718
+        ]
+      },
+      {
+        "location": [
+          15.5578394,
+          50.018886191
+        ],
+        "pixel": [
+          10202,
+          1686
+        ]
+      },
+      {
+        "location": [
+          15.557581908,
+          50.019782357
+        ],
+        "pixel": [
+          10042,
+          838
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

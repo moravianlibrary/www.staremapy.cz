@@ -1,139 +1,120 @@
 {
-  "date": ["1919"],
+  "date": [null],
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:3d17c891-1658-11e5-9f8f-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, černobílá, 58x47",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:3d17c891-1658-11e5-9f8f-001b63bd97ba/ImageProperties.xml",
+  "description": "Sušice a Vimperk",
   "scale": null,
-  "external_id": "159108",
+  "external_id": "uuid:3d17c891-1658-11e5-9f8f-001b63bd97ba",
   "title": "Sušice a Vimperk",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf55af5-00c9-11e5-b939-0800200c9a66?page=uuid:3d17c891-1658-11e5-9f8f-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "Kartografické Odd. při Min. nár. obrany č. 147 15./ III. 1919",
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MA_607_001.php",
-  "id": "3c2f8c4b-fa3f-59ff-b956-ece8b83d2c8a",
-  "physical_size": [
-    58,
-    47
-  ],
+  "publisher": "Kartografické Odd. při Min. Nár. Obrany",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf55af5-00c9-11e5-b939-0800200c9a66?page=uuid:3d17c891-1658-11e5-9f8f-001b63bd97ba",
+  "id": "57ce5cf1-c3c0-4ec3-9b7e-09ef6fadf598",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        569,
-        5015
+        541,
+        46
       ],
       [
-        6325,
-        4982
+        543,
+        387
       ],
       [
-        6302,
-        585
+        303,
+        390
       ],
       [
-        575,
-        627
+        49,
+        390
       ],
       [
-        569,
-        5015
+        49,
+        49
+      ],
+      [
+        541,
+        46
       ]
     ],
-    "created": "2013-03-22T20:42:55.978330+00:00",
+    "created": "2020-07-07T12:51:27.030406+00:00",
     "transformation_method": "affine",
-    "mapID": "3c2f8c4b-fa3f-59ff-b956-ece8b83d2c8a",
+    "mapID": "57ce5cf1-c3c0-4ec3-9b7e-09ef6fadf598",
     "affine_transformation": null,
-    "changed": "2013-03-22T20:42:55.978330+00:00",
+    "changed": "2021-12-21T09:51:03.639541+00:00",
     "gcps": [
       {
         "location": [
-          13.800955378,
-          49.194055998
+          13.803414814438542,
+          49.22753775480405
         ],
         "pixel": [
-          5928,
-          1553
+          511,
+          75
         ]
       },
       {
         "location": [
-          13.764477335,
-          49.065329983
+          13.761152420953726,
+          49.03982790949547
         ],
         "pixel": [
-          5518,
-          3811
+          471,
+          333
         ]
       },
       {
         "location": [
-          13.522949778,
-          49.23717062
+          13.391908799127544,
+          49.05434214980076
         ],
         "pixel": [
-          2750,
-          831
+          106,
+          315
         ]
       },
       {
         "location": [
-          13.608522974,
-          49.224615756
+          13.398908573866299,
+          49.23630195064777
         ],
         "pixel": [
-          3729,
-          1035
+          114,
+          66
         ]
       },
       {
         "location": [
-          13.775721156,
-          49.206450397
+          13.552498017267178,
+          49.14467945003588
         ],
         "pixel": [
-          5639,
-          1356
+          266,
+          190
         ]
       },
       {
         "location": [
-          13.789797388,
-          49.05605016
+          13.645166483292305,
+          49.100806343615744
         ],
         "pixel": [
-          5846,
-          3977
-        ]
-      },
-      {
-        "location": [
-          13.392162389,
-          49.054326797
-        ],
-        "pixel": [
-          1242,
-          4046
-        ]
-      },
-      {
-        "location": [
-          13.467780330809642,
-          49.15560324288788
-        ],
-        "pixel": [
-          2100,
-          2249
+          356,
+          250
         ]
       }
     ]
   },
-  "pubdate": ["1919"]
+  "pubdate": ["[1905?]"]
 }

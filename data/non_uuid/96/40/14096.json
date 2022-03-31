@@ -1,0 +1,106 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Kout_na_Sumave_M_119-5/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "14096",
+  "title": "Katastrální mapa obce Nemanice spolu s obcemi Nová Huť a Stará Huť",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/14096",
+  "id": "e802bb21-eb3d-56e6-9d38-26054b20c630",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        0,
+        0
+      ],
+      [
+        16436,
+        0
+      ],
+      [
+        16436,
+        14093
+      ],
+      [
+        0,
+        14093
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "created": "2014-12-08T16:54:01.862710+00:00",
+    "transformation_method": "affine",
+    "mapID": "e802bb21-eb3d-56e6-9d38-26054b20c630",
+    "affine_transformation": null,
+    "changed": "2014-12-08T16:54:01.862710+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.743427625,
+          49.435234527
+        ],
+        "pixel": [
+          10024,
+          1306
+        ]
+      },
+      {
+        "location": [
+          12.753677909,
+          49.4228041
+        ],
+        "pixel": [
+          15792,
+          12595
+        ]
+      },
+      {
+        "location": [
+          12.751424854,
+          49.424695321
+        ],
+        "pixel": [
+          14440,
+          10819
+        ]
+      },
+      {
+        "location": [
+          12.736461928,
+          49.434076325
+        ],
+        "pixel": [
+          5992,
+          2302
+        ]
+      },
+      {
+        "location": [
+          12.730351856,
+          49.435480467
+        ],
+        "pixel": [
+          2550,
+          877
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1843"]
+}

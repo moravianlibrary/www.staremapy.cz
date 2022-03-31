@@ -1,0 +1,96 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plasy_M_151_3/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "20968",
+  "title": "Katastrální mapa obce Mladotice",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/20968",
+  "id": "f1c5b396-a9b6-5880-a747-e9c1b31b5e75",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        160,
+        17584
+      ],
+      [
+        14752,
+        17584
+      ],
+      [
+        14752,
+        80
+      ],
+      [
+        160,
+        80
+      ],
+      [
+        160,
+        17584
+      ]
+    ],
+    "created": "2015-08-20T11:09:45.286930+00:00",
+    "transformation_method": "affine",
+    "mapID": "f1c5b396-a9b6-5880-a747-e9c1b31b5e75",
+    "affine_transformation": null,
+    "changed": "2015-08-20T11:09:45.286930+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.374641436,
+          49.986974052
+        ],
+        "pixel": [
+          1419,
+          4704
+        ]
+      },
+      {
+        "location": [
+          13.396206396,
+          49.986622241
+        ],
+        "pixel": [
+          14074,
+          5155
+        ]
+      },
+      {
+        "location": [
+          13.390144604,
+          49.973769025
+        ],
+        "pixel": [
+          10380,
+          16940
+        ]
+      },
+      {
+        "location": [
+          13.375928896,
+          49.982972911
+        ],
+        "pixel": [
+          2202,
+          8323
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1875"]
+}

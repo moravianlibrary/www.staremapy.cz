@@ -1,0 +1,86 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_0520/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "5646",
+  "title": "Záměrná mapa - brouillon - polesí Zborov 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/5646",
+  "id": "e200c53a-99a3-5ef5-a75a-f9ab392e9070",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        32562,
+        0
+      ],
+      [
+        32562,
+        15356
+      ],
+      [
+        0,
+        15356
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        32562,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:08:02.059900+00:00",
+    "transformation_method": "affine",
+    "mapID": "e200c53a-99a3-5ef5-a75a-f9ab392e9070",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:08:02.059900+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.571950316,
+          48.912285043
+        ],
+        "pixel": [
+          4227,
+          4660
+        ]
+      },
+      {
+        "location": [
+          14.524845361,
+          48.913642367
+        ],
+        "pixel": [
+          17207,
+          11640
+        ]
+      },
+      {
+        "location": [
+          14.554059982,
+          48.903057777
+        ],
+        "pixel": [
+          11275,
+          4132
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1785"]
+}

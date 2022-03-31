@@ -1,0 +1,106 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/huav/III_vojenske_mapovani/25/4059_3_01/ImageProperties.xml",
+  "description": null,
+  "scale": 25000,
+  "external_id": "6188",
+  "title": "III. vojenské mapování 4059/3",
+  "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/6188",
+  "id": "053be825-6191-5bd0-bf91-02b6b8e8dad1",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        100,
+        211
+      ],
+      [
+        11444,
+        211
+      ],
+      [
+        11396,
+        8835
+      ],
+      [
+        -12,
+        8851
+      ],
+      [
+        100,
+        211
+      ]
+    ],
+    "created": "2014-12-08T03:17:21.162810+00:00",
+    "transformation_method": "affine",
+    "mapID": "053be825-6191-5bd0-bf91-02b6b8e8dad1",
+    "affine_transformation": null,
+    "changed": "2014-12-08T03:17:21.162810+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.465011115,
+          49.806459003
+        ],
+        "pixel": [
+          6037,
+          4907
+        ]
+      },
+      {
+        "location": [
+          17.391454215,
+          49.776392214
+        ],
+        "pixel": [
+          2764,
+          6992
+        ]
+      },
+      {
+        "location": [
+          17.368880744,
+          49.851022663
+        ],
+        "pixel": [
+          1757,
+          1770
+        ]
+      },
+      {
+        "location": [
+          17.505566115,
+          49.755131264
+        ],
+        "pixel": [
+          7959,
+          8475
+        ]
+      },
+      {
+        "location": [
+          17.550294634,
+          49.835188891
+        ],
+        "pixel": [
+          9981,
+          2900
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1938"]
+}

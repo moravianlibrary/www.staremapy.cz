@@ -3,104 +3,114 @@
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:b045c504-c0b3-11e6-9e53-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa : barevná ;",
-  "scale": 200000,
-  "external_id": "652228",
-  "title": "43°49° Kolomea /",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:b045c504-c0b3-11e6-9e53-001b63bd97ba/ImageProperties.xml",
+  "description": "43°49° Kolomea / K.u.k. militär-geographisches Institut",
+  "scale": null,
+  "external_id": "uuid:b045c504-c0b3-11e6-9e53-001b63bd97ba",
+  "title": "43°49° Kolomea / K.u.k. militär-geographisches Institut",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
   "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:12991ed4-3003-11e6-ac61-9e71128cae77?page=uuid:b045c504-c0b3-11e6-9e53-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": null,
-  "link_url": "http://kramerius.cbvk.cz/search/handle/uuid:12991ed4-3003-11e6-ac61-9e71128cae77",
-  "id": "7d50c1c8-8b2b-5e5a-9906-cf7f82149348",
+  "publisher": "K.u.k. militär-geographisches Institut",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:12991ed4-3003-11e6-ac61-9e71128cae77?page=uuid:b045c504-c0b3-11e6-9e53-001b63bd97ba",
+  "id": "6c6c254b-3f10-4ddb-a4dc-65e0e1175245",
   "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        6281,
-        1615
+        600,
+        86
       ],
       [
-        6381,
-        8201
+        600,
+        443
       ],
       [
-        1761,
-        8129
+        158,
+        443
       ],
       [
-        1757,
-        1582
+        166,
+        86
       ],
       [
-        6281,
-        1615
+        600,
+        86
       ]
     ],
-    "created": "2018-01-08T15:42:56.952299+00:00",
+    "created": "2020-07-07T12:56:59.758259+00:00",
     "transformation_method": "affine",
-    "mapID": "7d50c1c8-8b2b-5e5a-9906-cf7f82149348",
+    "mapID": "6c6c254b-3f10-4ddb-a4dc-65e0e1175245",
     "affine_transformation": null,
-    "changed": "2018-01-08T15:42:56.952299+00:00",
+    "changed": "2021-10-09T19:44:01.081934+00:00",
     "gcps": [
       {
         "location": [
-          25.173731229716797,
-          49.091253656039584
+          25.144991800873118,
+          49.26909320279384
         ],
         "pixel": [
-          4655,
-          6884
+          414,
+          246
         ]
       },
       {
         "location": [
-          25.06472845436463,
-          49.38255765876889
+          24.937467030580397,
+          49.44636734873782
         ],
         "pixel": [
-          3736,
-          3069
+          248,
+          122
         ]
       },
       {
         "location": [
-          24.905803375746725,
-          49.009601940779476
+          24.851253013692038,
+          49.03692051904471
         ],
         "pixel": [
-          2325,
-          7927
+          175,
+          409
         ]
       },
       {
         "location": [
-          25.145510051017915,
-          49.26854603230706
+          25.357072970224568,
+          49.45118305358838
         ],
         "pixel": [
-          4407,
-          4555
+          588,
+          118
         ]
       },
       {
         "location": [
-          24.956553478519144,
-          49.452932719678586
+          25.04491683859831,
+          49.38559551381107
         ],
         "pixel": [
-          2801,
-          2155
+          334,
+          163
+        ]
+      },
+      {
+        "location": [
+          25.174542679843032,
+          49.091533276767706
+        ],
+        "pixel": [
+          438,
+          371
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["1889"]
 }

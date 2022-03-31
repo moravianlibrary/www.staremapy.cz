@@ -1,149 +1,150 @@
 {
-  "date": [
-    "1930",
-    "1939"
-  ],
-  "creator": null,
+  "date": [null],
+  "creator": "Michal, Hans",
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:9adc3e07-18cf-11e5-8052-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, barevná, 94x69",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:9adc3e07-18cf-11e5-8052-001b63bd97ba/ImageProperties.xml",
+  "description": "Umgebungskarte von Eisenstein mit farbigen Wegbezeichnungen / unter Mitwirkung von Hans Michal gezeichnet von Franz Fuchs",
   "scale": null,
-  "external_id": "m0306277_1",
-  "title": "Umgebungskarte von Eisenstein mit farbigen Wegbezeichnungen",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "external_id": "uuid:9adc3e07-18cf-11e5-8052-001b63bd97ba",
+  "title": "Umgebungskarte von Eisenstein mit farbigen Wegbezeichnungen / unter Mitwirkung von Hans Michal gezeichnet von Franz Fuchs",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:932a7d59-00c9-11e5-b939-0800200c9a66?page=uuid:9adc3e07-18cf-11e5-8052-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "Verlag Carl Maasch, Buchhandlung A. H. Bayer, Pilsen",
-  "link_url": null,
-  "id": "d6fdbe62-437e-5b7a-93b7-b97a1dff8f71",
-  "physical_size": [
-    94,
-    69
-  ],
+  "publisher": "Carl Maaschs : A.H. Bayer",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:932a7d59-00c9-11e5-b939-0800200c9a66?page=uuid:9adc3e07-18cf-11e5-8052-001b63bd97ba",
+  "id": "1384c62f-cfa6-4e34-908c-225946dedeac",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        2915,
-        6928
+        563,
+        27
       ],
       [
-        2910,
-        5785
+        564,
+        418
       ],
       [
-        2902,
-        5077
+        264,
+        418
       ],
       [
-        1712,
-        5069
+        264,
+        337
       ],
       [
-        615,
-        5060
+        177,
+        336
       ],
       [
-        611,
-        5734
+        177,
+        307
       ],
       [
-        616,
-        6650
+        39,
+        305
       ],
       [
-        1389,
-        6652
+        39,
+        264
       ],
       [
-        1393,
-        6921
+        39,
+        60
       ],
       [
-        2487,
-        6925
+        157,
+        59
       ],
       [
-        2915,
-        6928
+        156,
+        24
+      ],
+      [
+        234,
+        25
+      ],
+      [
+        234,
+        40
+      ],
+      [
+        288,
+        40
+      ],
+      [
+        287,
+        25
+      ],
+      [
+        563,
+        27
       ]
     ],
-    "created": "2018-09-03T08:15:36.859161+00:00",
+    "created": "2020-07-07T12:52:18.458150+00:00",
     "transformation_method": "affine",
-    "mapID": "d6fdbe62-437e-5b7a-93b7-b97a1dff8f71",
+    "mapID": "1384c62f-cfa6-4e34-908c-225946dedeac",
     "affine_transformation": null,
-    "changed": "2018-09-03T08:15:36.859161+00:00",
+    "changed": "2020-07-07T12:52:18.458150+00:00",
     "gcps": [
       {
         "location": [
-          13.202759189166056,
-          49.03980647685796
+          13.051709534997777,
+          49.191551352295875
         ],
         "pixel": [
-          2344,
-          5927
+          57,
+          77
         ]
       },
       {
         "location": [
-          13.204409958904296,
-          49.07582092219326
+          13.312494558726836,
+          49.104316267813374
         ],
         "pixel": [
-          2410,
-          5091
+          526,
+          323
         ]
       },
       {
         "location": [
-          13.09998593314361,
-          49.06668355999474
+          13.170253550603292,
+          49.144052180696804
         ],
         "pixel": [
-          837,
-          5367
+          270,
+          211
         ]
       },
       {
         "location": [
-          13.230513567574675,
-          49.013479747501776
+          13.236093278906724,
+          49.11374858391284
         ],
         "pixel": [
-          2744,
-          6558
+          388,
+          297
         ]
       },
       {
         "location": [
-          13.147505417721169,
-          49.013479747501776
+          13.289462547031771,
+          49.1184876695618
         ],
         "pixel": [
-          1519,
-          6546
-        ]
-      },
-      {
-        "location": [
-          13.148918960328828,
-          49.03338755976819
-        ],
-        "pixel": [
-          1555,
-          6126
+          485,
+          284
         ]
       }
     ]
   },
-  "pubdate": [
-    "1930",
-    "1939"
-  ]
+  "pubdate": ["[193-]"]
 }

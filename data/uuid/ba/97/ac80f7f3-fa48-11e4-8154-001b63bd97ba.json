@@ -3,108 +3,352 @@
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:ac80f7f3-fa48-11e4-8154-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa : 57,5 x 52 cm",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:ac80f7f3-fa48-11e4-8154-001b63bd97ba/ImageProperties.xml",
+  "description": "Regni Angliae et Principatus Cambriae tabula nova",
   "scale": null,
-  "external_id": "88577",
+  "external_id": "uuid:ac80f7f3-fa48-11e4-8154-001b63bd97ba",
   "title": "Regni Angliae et Principatus Cambriae tabula nova",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b1663c-c66b-11e4-8731-1681e6b88ec1?page=uuid:ac80f7f3-fa48-11e4-8154-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "ab Homannianis haeredibus,",
-  "link_url": "http://kramerius.cbvk.cz/search/handle/uuid:16b1663c-c66b-11e4-8731-1681e6b88ec1",
-  "id": "6625f104-2de3-570b-b149-32191fa104f1",
+  "publisher": "Homann Erben",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b1663c-c66b-11e4-8731-1681e6b88ec1?page=uuid:ac80f7f3-fa48-11e4-8154-001b63bd97ba",
+  "id": "8f1d080d-aaed-41f7-8530-aea4c57d46cc",
   "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        392,
-        6131
+        284,
+        26
       ],
       [
-        793,
-        6132
+        357,
+        32
       ],
       [
-        1291,
-        6126
+        455,
+        144
       ],
       [
-        1293,
-        5761
+        555,
+        201
       ],
       [
-        395,
-        5767
+        556,
+        409
       ],
       [
-        392,
-        6131
+        25,
+        409
+      ],
+      [
+        27,
+        341
+      ],
+      [
+        120,
+        341
+      ],
+      [
+        121,
+        316
+      ],
+      [
+        28,
+        315
+      ],
+      [
+        28,
+        32
+      ],
+      [
+        284,
+        26
       ]
     ],
-    "created": "2019-10-04T13:13:37.643095+00:00",
+    "created": "2020-07-07T12:43:49.133514+00:00",
     "transformation_method": "affine",
-    "mapID": "6625f104-2de3-570b-b149-32191fa104f1",
+    "mapID": "8f1d080d-aaed-41f7-8530-aea4c57d46cc",
     "affine_transformation": null,
-    "changed": "2019-10-04T13:13:37.643095+00:00",
+    "changed": "2020-07-07T12:43:49.133514+00:00",
     "gcps": [
       {
         "location": [
-          -5.7084558768556315,
-          50.07822917509364
+          -5.745849609374998,
+          50.050084778382626
         ],
         "pixel": [
-          1223,
-          5900
+          36,
+          394
         ]
       },
       {
         "location": [
-          -5.710000829248209,
-          50.12678607565147
+          0.14282226562500236,
+          53.618579364895254
         ],
         "pixel": [
-          1238,
-          5804
+          443,
+          178
         ]
       },
       {
         "location": [
-          -6.2961847215871956,
-          49.922411419214114
+          1.2963867187500022,
+          51.131107637580186
         ],
         "pixel": [
-          562,
-          6040
+          520,
+          326
         ]
       },
       {
         "location": [
-          -6.349220530473611,
-          49.967604282282224
+          -0.5412036350259365,
+          53.2305489710096
         ],
         "pixel": [
-          529,
-          5954
+          395,
+          200
         ]
       },
       {
         "location": [
-          -6.268883006059546,
-          49.96042669806246
+          0.17547469081945752,
+          53.2592035339118
         ],
         "pixel": [
-          601,
-          5971
+          436,
+          196
+        ]
+      },
+      {
+        "location": [
+          -4.69545482609102,
+          54.220133650363465
+        ],
+        "pixel": [
+          154,
+          146
+        ]
+      },
+      {
+        "location": [
+          -3.1467456015832496,
+          52.55916313700294
+        ],
+        "pixel": [
+          238,
+          243
+        ]
+      },
+      {
+        "location": [
+          -1.5770221931635455,
+          54.774520798467734
+        ],
+        "pixel": [
+          335,
+          104
+        ]
+      },
+      {
+        "location": [
+          -2.432522382794181,
+          55.5971053158911
+        ],
+        "pixel": [
+          284,
+          56
+        ]
+      },
+      {
+        "location": [
+          -2.8893922044733507,
+          53.190066027100954
+        ],
+        "pixel": [
+          242,
+          204
+        ]
+      },
+      {
+        "location": [
+          -2.9367758298765354,
+          54.89326996826142
+        ],
+        "pixel": [
+          251,
+          96
+        ]
+      },
+      {
+        "location": [
+          1.082153320312502,
+          51.27738059262256
+        ],
+        "pixel": [
+          499,
+          316
+        ]
+      },
+      {
+        "location": [
+          0.2471923828125019,
+          50.74166968624294
+        ],
+        "pixel": [
+          457,
+          350
+        ]
+      },
+      {
+        "location": [
+          -0.12893842572674055,
+          51.50710354365464
+        ],
+        "pixel": [
+          428,
+          304
+        ]
+      },
+      {
+        "location": [
+          1.2945877046717815,
+          52.62477809948902
+        ],
+        "pixel": [
+          505,
+          229
+        ]
+      },
+      {
+        "location": [
+          -0.026726766767067,
+          52.97680297828245
+        ],
+        "pixel": [
+          425,
+          214
+        ]
+      },
+      {
+        "location": [
+          -6.460807982169551,
+          52.333960494434194
+        ],
+        "pixel": [
+          30,
+          254
+        ]
+      },
+      {
+        "location": [
+          -4.127179243526648,
+          53.22609907758974
+        ],
+        "pixel": [
+          168,
+          202
+        ]
+      },
+      {
+        "location": [
+          -1.508049664736187,
+          52.406533186506806
+        ],
+        "pixel": [
+          335,
+          250
+        ]
+      },
+      {
+        "location": [
+          -0.7794668126483435,
+          50.83547216132442
+        ],
+        "pixel": [
+          386,
+          343
+        ]
+      },
+      {
+        "location": [
+          -1.1585759147852908,
+          50.65037124057338
+        ],
+        "pixel": [
+          362,
+          357
+        ]
+      },
+      {
+        "location": [
+          -4.141817601667178,
+          50.3706294617308
+        ],
+        "pixel": [
+          172,
+          376
+        ]
+      },
+      {
+        "location": [
+          -1.4974817414203114,
+          53.68006817754235
+        ],
+        "pixel": [
+          335,
+          173
+        ]
+      },
+      {
+        "location": [
+          -5.260554438360329,
+          51.88039322397657
+        ],
+        "pixel": [
+          112,
+          275
+        ]
+      },
+      {
+        "location": [
+          -2.713644917770992,
+          52.05248647085878
+        ],
+        "pixel": [
+          260,
+          273
+        ]
+      },
+      {
+        "location": [
+          -4.632038236435468,
+          55.46104855554219
+        ],
+        "pixel": [
+          152,
+          53
+        ]
+      },
+      {
+        "location": [
+          -5.930295903806341,
+          54.5942152499222
+        ],
+        "pixel": [
+          66,
+          111
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["1793"]
 }

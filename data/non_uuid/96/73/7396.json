@@ -1,0 +1,96 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1520/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "7396",
+  "title": "Zborov o. České Budějovice 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/7396",
+  "id": "5d7a2d16-306d-5cfa-82ba-0b555069f35f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        624,
+        13760
+      ],
+      [
+        17200,
+        13760
+      ],
+      [
+        17200,
+        512
+      ],
+      [
+        624,
+        512
+      ],
+      [
+        624,
+        13760
+      ]
+    ],
+    "created": "2015-09-09T12:43:01.400550+00:00",
+    "transformation_method": "affine",
+    "mapID": "5d7a2d16-306d-5cfa-82ba-0b555069f35f",
+    "affine_transformation": null,
+    "changed": "2015-09-09T12:43:01.400550+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.583483232,
+          48.923733652
+        ],
+        "pixel": [
+          4054,
+          13248
+        ]
+      },
+      {
+        "location": [
+          14.582308424,
+          48.936706612
+        ],
+        "pixel": [
+          3384,
+          1538
+        ]
+      },
+      {
+        "location": [
+          14.599560392,
+          48.925023699
+        ],
+        "pixel": [
+          13574,
+          12053
+        ]
+      },
+      {
+        "location": [
+          14.585269582560548,
+          48.92921964126913
+        ],
+        "pixel": [
+          4924,
+          8279
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1838"]
+}

@@ -1,0 +1,106 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_3100/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "10445",
+  "title": "Plán třeboňského pivovaru 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/10445",
+  "id": "2c6515b2-4b93-57b6-9cce-b6ff8097e05b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        23688,
+        0
+      ],
+      [
+        23688,
+        16658
+      ],
+      [
+        0,
+        16658
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        23688,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:22:07.199380+00:00",
+    "transformation_method": "affine",
+    "mapID": "2c6515b2-4b93-57b6-9cce-b6ff8097e05b",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:22:07.199380+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.772457170438956,
+          49.0025894033966
+        ],
+        "pixel": [
+          6454,
+          9867
+        ]
+      },
+      {
+        "location": [
+          14.77290241713543,
+          49.002230444528124
+        ],
+        "pixel": [
+          17558,
+          6721
+        ]
+      },
+      {
+        "location": [
+          14.772950696897695,
+          49.0027389688282
+        ],
+        "pixel": [
+          7344,
+          1178
+        ]
+      },
+      {
+        "location": [
+          14.772671747160148,
+          49.002624595303274
+        ],
+        "pixel": [
+          7287,
+          6629
+        ]
+      },
+      {
+        "location": [
+          14.772264051389886,
+          49.00228675197272
+        ],
+        "pixel": [
+          11947,
+          15359
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1890"]
+}

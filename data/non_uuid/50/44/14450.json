@@ -1,0 +1,96 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_pardubice_390/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "14450",
+  "title": "Indikační skica mapy stabilního katastru pro obec Platěnice I.-IV.",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/14450",
+  "id": "8c3db3d4-1fc5-5f3d-ab68-d957fa8c2158",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        19133,
+        0
+      ],
+      [
+        19133,
+        15325
+      ],
+      [
+        0,
+        15325
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        19133,
+        0
+      ]
+    ],
+    "created": "2014-11-25T18:41:43.272450+00:00",
+    "transformation_method": "affine",
+    "mapID": "8c3db3d4-1fc5-5f3d-ab68-d957fa8c2158",
+    "affine_transformation": null,
+    "changed": "2014-11-25T18:41:43.272450+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.964838528124996,
+          50.00274298335788
+        ],
+        "pixel": [
+          10329,
+          8322
+        ]
+      },
+      {
+        "location": [
+          15.93775217771422,
+          50.020007457519455
+        ],
+        "pixel": [
+          9484,
+          7529
+        ]
+      },
+      {
+        "location": [
+          15.953946526967462,
+          50.01580543032887
+        ],
+        "pixel": [
+          10144,
+          7686
+        ]
+      },
+      {
+        "location": [
+          15.943073680399767,
+          50.0041773915037
+        ],
+        "pixel": [
+          9792,
+          8136
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

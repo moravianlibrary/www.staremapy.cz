@@ -1,0 +1,86 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_3071/ImageProperties.xml",
+  "description": null,
+  "scale": 100,
+  "external_id": "10416",
+  "title": "Plán starých ležáckých sklepů v třeboňském pivovaru 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/10416",
+  "id": "a8c961f1-0a78-5f9a-b85f-ad2d1639d25a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        19243,
+        0
+      ],
+      [
+        19243,
+        13665
+      ],
+      [
+        0,
+        13665
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        19243,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:21:59.122800+00:00",
+    "transformation_method": "affine",
+    "mapID": "a8c961f1-0a78-5f9a-b85f-ad2d1639d25a",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:21:59.122800+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.773552468399544,
+          49.002012684185615
+        ],
+        "pixel": [
+          8643,
+          9985
+        ]
+      },
+      {
+        "location": [
+          14.773403605799219,
+          49.00212441969731
+        ],
+        "pixel": [
+          2348,
+          12654
+        ]
+      },
+      {
+        "location": [
+          14.773467978815574,
+          49.001992888497966
+        ],
+        "pixel": [
+          8718,
+          12635
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1881"]
+}

@@ -1,229 +1,164 @@
 {
   "date": [null],
-  "creator": null,
+  "creator": "Pouzar, Josef",
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:2c307807-1aa8-11e5-9543-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, černobílá, 40x25",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:2c307807-1aa8-11e5-9543-001b63bd97ba/ImageProperties.xml",
+  "description": "Umgebungskarte für die Ausflugsmittelpunkte - Eisenstein, Lohberg, Zwiesel, Hartmanik, Bergreichenstein",
   "scale": null,
-  "external_id": "217242",
-  "title": "Umgebungskarte für die Ausflugsmittelpunkte",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
+  "external_id": "uuid:2c307807-1aa8-11e5-9543-001b63bd97ba",
+  "title": "Umgebungskarte für die Ausflugsmittelpunkte - Eisenstein, Lohberg, Zwiesel, Hartmanik, Bergreichenstein",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
   "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5d056-00c9-11e5-b939-0800200c9a66?page=uuid:2c307807-1aa8-11e5-9543-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "Deutscher Böhmerwaldbund",
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MC_628_002.php",
-  "id": "121fe42c-0acb-5eb3-ac32-324450c3e4bc",
-  "physical_size": [
-    40,
-    25
-  ],
+  "publisher": "Verlag des Deutschen Böhmerwaldbundes",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5d056-00c9-11e5-b939-0800200c9a66?page=uuid:2c307807-1aa8-11e5-9543-001b63bd97ba",
+  "id": "de0024eb-660c-4e49-ae8e-6eab4a295b19",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        3389,
-        1045
+        502,
+        161
       ],
       [
-        3371,
-        1613
+        498,
+        365
       ],
       [
-        3897,
-        1627
+        281,
+        364
       ],
       [
-        3885,
-        2099
+        89,
+        361
       ],
       [
-        4308,
-        2207
+        93,
+        197
       ],
       [
-        6033,
-        2233
+        95,
+        74
       ],
       [
-        5981,
-        5067
+        282,
+        75
       ],
       [
-        1071,
-        4993
+        282,
+        117
       ],
       [
-        1140,
-        1025
+        324,
+        117
       ],
       [
-        3389,
-        1045
+        324,
+        152
+      ],
+      [
+        360,
+        159
+      ],
+      [
+        502,
+        161
       ]
     ],
-    "created": "2013-02-26T18:56:31.232440+00:00",
+    "created": "2020-07-07T12:51:05.344852+00:00",
     "transformation_method": "affine",
-    "mapID": "121fe42c-0acb-5eb3-ac32-324450c3e4bc",
+    "mapID": "de0024eb-660c-4e49-ae8e-6eab4a295b19",
     "affine_transformation": null,
-    "changed": "2013-02-26T18:56:31.232440+00:00",
+    "changed": "2020-07-07T12:51:05.344852+00:00",
     "gcps": [
       {
         "location": [
-          12.812089024202281,
-          49.43349816862303
+          12.851140163973097,
+          49.175213427083435
         ],
         "pixel": [
-          1762,
-          1284
+          139,
+          328
         ]
       },
       {
         "location": [
-          13.151654005,
-          49.293988687
+          12.845685265353257,
+          49.307957400937084
         ],
         "pixel": [
-          4416,
-          3298
+          150,
+          210
         ]
       },
       {
         "location": [
-          12.970089912,
-          49.25940384
+          13.246884033015654,
+          49.20223721433263
         ],
         "pixel": [
-          2768,
-          3526
+          425,
+          325
         ]
       },
       {
         "location": [
-          13.050942421,
-          49.191689941
+          13.186678806992312,
+          49.18143559784073
         ],
         "pixel": [
-          3308,
-          4492
+          375,
+          350
         ]
       },
       {
         "location": [
-          13.014588979202124,
-          49.30032866313701
+          13.142277859285596,
+          49.293579385522804
         ],
         "pixel": [
-          3228,
-          3028
+          356,
+          239
         ]
       },
       {
         "location": [
-          12.843747139,
-          49.309624748
+          13.219182156160597,
+          49.34460429191179
         ],
         "pixel": [
-          1792,
-          2880
+          416,
+          186
         ]
       },
       {
         "location": [
-          12.859368324,
-          49.172895229
+          12.929456017306384,
+          49.44029491943223
         ],
         "pixel": [
-          1648,
-          4582
+          221,
+          91
         ]
       },
       {
         "location": [
-          12.917904854,
-          49.296584547
+          13.159759338818754,
+          49.214806941996784
         ],
         "pixel": [
-          2396,
-          3018
-        ]
-      },
-      {
-        "location": [
-          13.219588995,
-          49.180147468
-        ],
-        "pixel": [
-          4764,
-          4806
-        ]
-      },
-      {
-        "location": [
-          13.218601942,
-          49.34501317
-        ],
-        "pixel": [
-          4988,
-          2586
-        ]
-      },
-      {
-        "location": [
-          13.039516211,
-          49.390761516
-        ],
-        "pixel": [
-          3516,
-          1974
-        ]
-      },
-      {
-        "location": [
-          12.940049171,
-          49.436209154
-        ],
-        "pixel": [
-          2724,
-          1300
-        ]
-      },
-      {
-        "location": [
-          12.814546051590446,
-          49.27303474274916
-        ],
-        "pixel": [
-          1507,
-          3369
-        ]
-      },
-      {
-        "location": [
-          13.302097581549596,
-          49.26592687582334
-        ],
-        "pixel": [
-          5566,
-          3656
-        ]
-      },
-      {
-        "location": [
-          12.9837504011554,
-          49.34072220667207
-        ],
-        "pixel": [
-          3047,
-          2495
+          357,
+          298
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["[193-?]"]
 }

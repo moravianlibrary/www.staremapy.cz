@@ -1,0 +1,114 @@
+{
+  "date": ["1938"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.mzk.cz/search/iiif/uuid:e4ee62e0-e5f0-11e8-9210-5ef3fc9bb22f/info.json",
+  "description": null,
+  "scale": 25000,
+  "external_id": "e4ee62e0-e5f0-11e8-9210-5ef3fc9bb22f",
+  "title": "Boulay",
+  "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": "Generalstab des Heeres",
+  "link_url": "https://www.digitalniknihovna.cz/mzk/view/uuid:488b37f0-d2bf-11e8-bbaa-005056827e52?page=uuid:e4ee62e0-e5f0-11e8-9210-5ef3fc9bb22f",
+  "id": "3f16f619-d4b4-5c1d-8e7b-ba48c465113c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        2798,
+        6542
+      ],
+      [
+        2798,
+        8612
+      ],
+      [
+        4320,
+        9494
+      ],
+      [
+        4335,
+        11716
+      ],
+      [
+        1585,
+        11799
+      ],
+      [
+        1687,
+        6238
+      ],
+      [
+        2798,
+        6542
+      ]
+    ],
+    "created": "2018-12-19T14:27:52.977214+00:00",
+    "transformation_method": "affine",
+    "mapID": "3f16f619-d4b4-5c1d-8e7b-ba48c465113c",
+    "affine_transformation": null,
+    "changed": "2021-09-08T03:37:49.985550+00:00",
+    "gcps": [
+      {
+        "location": [
+          6.662032838659104,
+          49.24660957352947
+        ],
+        "pixel": [
+          2011,
+          10111
+        ]
+      },
+      {
+        "location": [
+          6.6683609727414614,
+          49.23238520723524
+        ],
+        "pixel": [
+          2417,
+          11507
+        ]
+      },
+      {
+        "location": [
+          6.657491525815231,
+          49.248881096892376
+        ],
+        "pixel": [
+          1718,
+          9876
+        ]
+      },
+      {
+        "location": [
+          6.662126382992965,
+          49.24882506877185
+        ],
+        "pixel": [
+          2039,
+          9884
+        ]
+      },
+      {
+        "location": [
+          6.668392023251754,
+          49.249049180872476
+        ],
+        "pixel": [
+          2448,
+          9857
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

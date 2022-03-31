@@ -1,120 +1,139 @@
 {
-  "date": ["1884"],
-  "creator": null,
+  "date": [null],
+  "creator": "Wagner, Jan Evangelista",
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:90e98cda-18cf-11e5-8052-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, barevná, 74x63",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:90e98cda-18cf-11e5-8052-001b63bd97ba/ImageProperties.xml",
+  "description": "Železniční a silniční mapa království Českého, obsahující veškerá města, městysy a místa průmyslová",
   "scale": null,
-  "external_id": "m0349925_1",
+  "external_id": "uuid:90e98cda-18cf-11e5-8052-001b63bd97ba",
   "title": "Železniční a silniční mapa království Českého, obsahující veškerá města, městysy a místa průmyslová",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
   "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:932a7d5b-00c9-11e5-b939-0800200c9a66?page=uuid:90e98cda-18cf-11e5-8052-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "F. Kytka, knihkupec, Praha 1884",
-  "link_url": null,
-  "id": "fc898aac-dee4-5699-b8e6-9e90ac15b2df",
-  "physical_size": [
-    74,
-    63
-  ],
+  "publisher": "F. Kytka",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:932a7d5b-00c9-11e5-b939-0800200c9a66?page=uuid:90e98cda-18cf-11e5-8052-001b63bd97ba",
+  "id": "9ee571a9-1e9d-4f5b-a969-d853ac577477",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        694,
-        6669
+        471,
+        300
       ],
       [
-        1363,
-        6660
+        512,
+        299
       ],
       [
-        1887,
-        6655
+        553,
+        299
       ],
       [
-        1877,
-        5116
+        553,
+        311
       ],
       [
-        661,
-        5130
+        553,
+        352
       ],
       [
-        694,
-        6669
+        554,
+        391
+      ],
+      [
+        491,
+        392
+      ],
+      [
+        472,
+        392
+      ],
+      [
+        471,
+        300
       ]
     ],
-    "created": "2019-01-14T17:50:47.430708+00:00",
+    "created": "2021-08-04T05:35:02.201398+00:00",
     "transformation_method": "affine",
-    "mapID": "fc898aac-dee4-5699-b8e6-9e90ac15b2df",
+    "mapID": "9ee571a9-1e9d-4f5b-a969-d853ac577477",
     "affine_transformation": null,
-    "changed": "2019-01-14T17:50:47.430708+00:00",
+    "changed": "2021-08-04T05:36:50.818584+00:00",
     "gcps": [
       {
         "location": [
-          14.53176005377372,
-          50.000247587164694
+          16.603394599737886,
+          49.08923086104312
         ],
         "pixel": [
-          1857,
-          6538
+          546,
+          323
         ]
       },
       {
         "location": [
-          14.437185008351136,
-          50.09403083522048
+          16.31261062584246,
+          48.94642674642273
         ],
         "pixel": [
-          1385,
-          5666
+          528,
+          334
         ]
       },
       {
         "location": [
-          14.337938128586089,
-          50.13229327872568
+          16.048818697602826,
+          48.85524681216603
         ],
         "pixel": [
-          779,
-          5281
+          511,
+          341
         ]
       },
       {
         "location": [
-          14.446614833773719,
-          49.987666866467094
+          16.371138024071875,
+          48.2093718478865
         ],
         "pixel": [
-          1365,
-          6628
+          528,
+          390
         ]
       },
       {
         "location": [
-          14.366276198773711,
-          49.98568013600149
+          15.590730055290987,
+          49.39546926745314
         ],
         "pixel": [
-          911,
-          6650
+          488,
+          301
         ]
       },
       {
         "location": [
-          14.412891717457937,
-          50.08138960406157
+          16.609729874259195,
+          49.1942974368134
         ],
         "pixel": [
-          1221,
-          5800
+          545,
+          314
+        ]
+      },
+      {
+        "location": [
+          16.638227596285375,
+          48.806577542879296
+        ],
+        "pixel": [
+          545,
+          345
         ]
       }
     ]

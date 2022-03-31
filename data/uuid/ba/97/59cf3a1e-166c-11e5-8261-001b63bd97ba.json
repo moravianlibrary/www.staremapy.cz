@@ -1,151 +1,166 @@
 {
-  "date": ["1930"],
+  "date": [null],
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:59cf3a1e-166c-11e5-8261-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, černobílá, 52x39,5",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:59cf3a1e-166c-11e5-8261-001b63bd97ba/ImageProperties.xml",
+  "description": "Kaplice - oblast",
   "scale": null,
-  "external_id": "161247",
-  "title": "[Kaplice - oblast]",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "external_id": "uuid:59cf3a1e-166c-11e5-8261-001b63bd97ba",
+  "title": "Kaplice - oblast",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5f74a-00c9-11e5-b939-0800200c9a66?page=uuid:59cf3a1e-166c-11e5-8261-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": null,
-  "link_url": null,
-  "id": "ed147a58-cc2c-5287-964f-8f800f504d91",
-  "physical_size": [
-    52,
-    39
-  ],
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5f74a-00c9-11e5-b939-0800200c9a66?page=uuid:59cf3a1e-166c-11e5-8261-001b63bd97ba",
+  "id": "a09316d4-163c-4a12-bc7f-ac7f9ecd0728",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        6107,
-        208
+        576,
+        21
       ],
       [
-        6088,
-        4623
+        575,
+        422
       ],
       [
-        5574,
-        4612
+        22,
+        419
       ],
       [
-        3163,
-        4596
+        23,
+        21
       ],
       [
-        3141,
-        4597
-      ],
-      [
-        222,
-        4603
-      ],
-      [
-        240,
-        222
-      ],
-      [
-        6107,
-        208
+        576,
+        21
       ]
     ],
-    "created": "2013-02-26T18:58:18.433040+00:00",
+    "created": "2020-07-07T12:52:08.512351+00:00",
     "transformation_method": "affine",
-    "mapID": "ed147a58-cc2c-5287-964f-8f800f504d91",
+    "mapID": "a09316d4-163c-4a12-bc7f-ac7f9ecd0728",
     "affine_transformation": null,
-    "changed": "2013-02-26T18:58:18.433040+00:00",
+    "changed": "2020-07-07T12:52:08.512351+00:00",
     "gcps": [
       {
         "location": [
-          14.801920961659349,
-          48.53030702130391
+          14.362900287745045,
+          48.626382216685755
         ],
         "pixel": [
-          5718,
-          4068
+          55,
+          218
         ]
       },
       {
         "location": [
-          14.506245505423953,
-          48.51325097448887
+          14.62740533118567,
+          48.72951359858456
         ],
         "pixel": [
-          2256,
-          4353
+          348,
+          51
         ]
       },
       {
         "location": [
-          14.576435875926627,
-          48.63501412954898
+          14.440424256769642,
+          48.508450547100665
         ],
         "pixel": [
-          3081,
-          2247
+          140,
+          407
         ]
       },
       {
         "location": [
-          14.790498906320934,
-          48.65461805363384
+          14.592642522364448,
+          48.50117493805823
         ],
         "pixel": [
-          5595,
-          1884
+          301,
+          419
         ]
       },
       {
         "location": [
-          14.371697453,
-          48.62920794
+          14.80190943037286,
+          48.524929437666486
         ],
         "pixel": [
-          678,
-          2335
+          541,
+          380
         ]
       },
       {
         "location": [
-          14.361183194,
-          48.653453344
+          14.74714945112481,
+          48.53709284094384
         ],
         "pixel": [
-          558,
-          1911
+          480,
+          360
         ]
       },
       {
         "location": [
-          14.627172497,
-          48.729375123
+          14.762476173804664,
+          48.633900311603924
         ],
         "pixel": [
-          3672,
-          572
+          496,
+          219
         ]
       },
       {
         "location": [
-          14.496725602,
-          48.738882089
+          14.666672190884388,
+          48.69379308886454
         ],
         "pixel": [
-          2075,
-          401
+          392,
+          109
+        ]
+      },
+      {
+        "location": [
+          14.36752253143774,
+          48.654932014587956
+        ],
+        "pixel": [
+          59,
+          173
+        ]
+      },
+      {
+        "location": [
+          14.51912974770877,
+          48.73924972017028
+        ],
+        "pixel": [
+          228,
+          37
+        ]
+      },
+      {
+        "location": [
+          14.496590033422398,
+          48.738305131833215
+        ],
+        "pixel": [
+          196,
+          37
         ]
       }
     ]
   },
-  "pubdate": ["1930"]
+  "pubdate": ["[1930?]"]
 }

@@ -1,199 +1,120 @@
 {
-  "date": ["1909-11-05"],
+  "date": [null],
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:a16af886-15a4-11e5-88a8-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, barevná, 59x56",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:a16af886-15a4-11e5-88a8-001b63bd97ba/ImageProperties.xml",
+  "description": "Kaplitz und Freistadt",
   "scale": null,
-  "external_id": "127652",
-  "title": "Kaplitz und Freistadt Zone 11 Kol. XI",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
+  "external_id": "uuid:a16af886-15a4-11e5-88a8-001b63bd97ba",
+  "title": "Kaplitz und Freistadt",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
   "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf58222-00c9-11e5-b939-0800200c9a66?page=uuid:a16af886-15a4-11e5-88a8-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "K.u.k. Militärgeographisches Institut, Nachtr. 5.XI.1909",
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MA_92_001.php",
-  "id": "8b2c6e1e-9f3d-5b4a-afdb-c75c5ad6932d",
-  "physical_size": [
-    59,
-    56
-  ],
+  "publisher": "K.u.k. Militärgeographisches Institut",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf58222-00c9-11e5-b939-0800200c9a66?page=uuid:a16af886-15a4-11e5-88a8-001b63bd97ba",
+  "id": "0f7d67ae-fab3-4e5c-8658-7ecf58db933c",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        648,
-        4944
+        544,
+        42
       ],
       [
-        6464,
-        4944
+        546,
+        382
       ],
       [
-        6464,
-        528
+        482,
+        383
       ],
       [
-        648,
-        528
+        54,
+        384
       ],
       [
-        648,
-        4944
+        56,
+        43
+      ],
+      [
+        544,
+        42
       ]
     ],
-    "created": "2013-03-22T15:23:09.830190+00:00",
+    "created": "2020-07-07T12:46:42.715962+00:00",
     "transformation_method": "affine",
-    "mapID": "8b2c6e1e-9f3d-5b4a-afdb-c75c5ad6932d",
+    "mapID": "0f7d67ae-fab3-4e5c-8658-7ecf58db933c",
     "affine_transformation": null,
-    "changed": "2013-03-22T15:23:09.830190+00:00",
+    "changed": "2020-07-07T12:46:42.715962+00:00",
     "gcps": [
       {
         "location": [
-          14.33804915981066,
-          48.72589913054338
+          14.496394854661586,
+          48.737628727308675
         ],
         "pixel": [
-          695,
-          945
+          214,
+          59
         ]
       },
       {
         "location": [
-          14.642114639,
-          48.682674401
+          14.62746862485029,
+          48.729507096173734
         ],
         "pixel": [
-          4232,
-          1700
+          342,
+          69
         ]
       },
       {
         "location": [
-          14.482855797,
-          48.667612657
+          14.367319011849746,
+          48.65497866738866
         ],
         "pixel": [
-          2369,
-          1959
+          86,
+          172
         ]
       },
       {
         "location": [
-          14.505794048,
-          48.503939437
+          14.361977808804278,
+          48.502542099984964
         ],
         "pixel": [
-          2623,
-          4688
+          80,
+          381
         ]
       },
       {
         "location": [
-          14.628446102,
-          48.727450452
+          14.678505967149915,
+          48.55406391327489
         ],
         "pixel": [
-          4071,
-          920
+          399,
+          325
         ]
       },
       {
         "location": [
-          14.802167416,
-          48.530262813
+          14.787770110400364,
+          48.6523457398975
         ],
         "pixel": [
-          6098,
-          4359
-        ]
-      },
-      {
-        "location": [
-          14.491481781,
-          48.612981404
-        ],
-        "pixel": [
-          2374,
-          2942
-        ]
-      },
-      {
-        "location": [
-          14.566583633,
-          48.591810611
-        ],
-        "pixel": [
-          3337,
-          3292
-        ]
-      },
-      {
-        "location": [
-          14.369363357800946,
-          48.52154123408661
-        ],
-        "pixel": [
-          1040,
-          4511
-        ]
-      },
-      {
-        "location": [
-          14.488563538,
-          48.73711696
-        ],
-        "pixel": [
-          2445,
-          738
-        ]
-      },
-      {
-        "location": [
-          14.757181689988819,
-          48.593252818771816
-        ],
-        "pixel": [
-          5559,
-          3246
-        ]
-      },
-      {
-        "location": [
-          14.351359040240743,
-          48.622957011301935
-        ],
-        "pixel": [
-          843,
-          2754
-        ]
-      },
-      {
-        "location": [
-          14.688350927242873,
-          48.502462377700766
-        ],
-        "pixel": [
-          4773,
-          4855
-        ]
-      },
-      {
-        "location": [
-          14.783656246254127,
-          48.71697436366304
-        ],
-        "pixel": [
-          5885,
-          1097
+          500,
+          176
         ]
       }
     ]
   },
-  "pubdate": ["1909-11-05"]
+  "pubdate": ["1909"]
 }

@@ -3,104 +3,134 @@
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:9e3289a8-c7bc-11e6-b4b6-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa : barevná ; 57 x 39 cm na listu 65 x 46 cm",
-  "scale": 200000,
-  "external_id": "653845",
-  "title": "37°48° Budapest, Losoncz /",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:9e3289a8-c7bc-11e6-b4b6-001b63bd97ba/ImageProperties.xml",
+  "description": "37°48° Budapest, Losoncz",
+  "scale": null,
+  "external_id": "uuid:9e3289a8-c7bc-11e6-b4b6-001b63bd97ba",
+  "title": "37°48° Budapest, Losoncz",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
   "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:129976a4-3003-11e6-ac61-9e71128cae77?page=uuid:9e3289a8-c7bc-11e6-b4b6-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": null,
-  "link_url": "http://kramerius.cbvk.cz/search/handle/uuid:129976a4-3003-11e6-ac61-9e71128cae77",
-  "id": "e33b06a9-b1ba-568a-86af-38a1f14da347",
+  "publisher": "K.u.k. Militärgeographisches Institut",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:129976a4-3003-11e6-ac61-9e71128cae77?page=uuid:9e3289a8-c7bc-11e6-b4b6-001b63bd97ba",
+  "id": "0004af59-3c68-4260-a1fc-477bba21f9ba",
   "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        4924,
-        512
+        540,
+        28
       ],
       [
-        4979,
-        6979
+        546,
+        405
       ],
       [
-        554,
-        6964
+        57,
+        404
       ],
       [
-        582,
-        494
+        60,
+        27
       ],
       [
-        4924,
-        512
+        540,
+        28
       ]
     ],
-    "created": "2018-01-08T15:42:56.952299+00:00",
+    "created": "2020-07-07T12:57:29.750183+00:00",
     "transformation_method": "affine",
-    "mapID": "e33b06a9-b1ba-568a-86af-38a1f14da347",
+    "mapID": "0004af59-3c68-4260-a1fc-477bba21f9ba",
     "affine_transformation": null,
-    "changed": "2018-01-08T15:42:56.952299+00:00",
+    "changed": "2020-07-07T12:57:29.750183+00:00",
     "gcps": [
       {
         "location": [
-          19.244702370620274,
-          48.070091938646726
+          19.059596503856618,
+          47.51573525522821
         ],
         "pixel": [
-          2377,
-          3289
+          169,
+          399
         ]
       },
       {
         "location": [
-          19.19709332360877,
-          48.3582758843537
+          19.77988635620898,
+          47.69008961623885
         ],
         "pixel": [
-          2163,
-          1399
+          520,
+          332
         ]
       },
       {
         "location": [
-          19.1250543908839,
-          47.776871001672305
+          19.35851312647635,
+          47.59182931817335
         ],
         "pixel": [
-          1849,
-          5204
+          315,
+          369
         ]
       },
       {
         "location": [
-          19.792896962454495,
-          47.5102901684817
+          19.003347032508934,
+          48.28065477580131
         ],
         "pixel": [
-          4846,
-          6925
+          142,
+          110
         ]
       },
       {
         "location": [
-          19.773137962605045,
-          48.430963611691084
+          19.010267903085737,
+          47.80707191554012
         ],
         "pixel": [
-          4704,
-          919
+          146,
+          289
+        ]
+      },
+      {
+        "location": [
+          19.10963711192599,
+          48.46983926979195
+        ],
+        "pixel": [
+          192,
+          38
+        ]
+      },
+      {
+        "location": [
+          19.774718354865122,
+          48.292116443140856
+        ],
+        "pixel": [
+          514,
+          105
+        ]
+      },
+      {
+        "location": [
+          19.244808854165637,
+          48.070049236763026
+        ],
+        "pixel": [
+          259,
+          190
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["1914"]
 }

@@ -3,117 +3,134 @@
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:9a0a6f16-18cf-11e5-8052-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, barevná, 64x49",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:9a0a6f16-18cf-11e5-8052-001b63bd97ba/ImageProperties.xml",
+  "description": "Kaplice",
   "scale": null,
-  "external_id": "174616",
+  "external_id": "uuid:9a0a6f16-18cf-11e5-8052-001b63bd97ba",
   "title": "Kaplice",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf50cd3-00c9-11e5-b939-0800200c9a66?page=uuid:9a0a6f16-18cf-11e5-8052-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "Zeměměřičský ústav v Praze, prozatímní vydání",
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MA_1163_001.php",
-  "id": "cd29ab00-f413-5777-99fb-06730d8915e6",
-  "physical_size": [
-    64,
-    49
-  ],
+  "publisher": "Zeměměřičský úřad",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf50cd3-00c9-11e5-b939-0800200c9a66?page=uuid:9a0a6f16-18cf-11e5-8052-001b63bd97ba",
+  "id": "26d9739a-3e7b-4907-9154-17499f2969f8",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        6845,
-        543
+        526,
+        40
       ],
       [
-        6844,
-        4920
+        527,
+        363
       ],
       [
-        1006,
-        4921
+        79,
+        363
       ],
       [
-        1041,
-        546
+        82,
+        43
       ],
       [
-        6845,
-        543
+        526,
+        40
       ]
     ],
-    "created": "2013-03-21T16:54:46.624400+00:00",
+    "created": "2020-07-07T12:52:22.858874+00:00",
     "transformation_method": "affine",
-    "mapID": "cd29ab00-f413-5777-99fb-06730d8915e6",
+    "mapID": "26d9739a-3e7b-4907-9154-17499f2969f8",
     "affine_transformation": null,
-    "changed": "2013-03-21T16:54:46.624400+00:00",
+    "changed": "2020-07-07T12:52:22.858874+00:00",
     "gcps": [
       {
         "location": [
-          14.726713138,
-          48.738711886
+          14.451406200054912,
+          48.65672373348224
         ],
         "pixel": [
-          5602,
-          728
+          184,
+          160
         ]
       },
       {
         "location": [
-          14.702267485,
-          48.604492928
+          14.437796277027706,
+          48.55335518940231
         ],
         "pixel": [
-          5315,
-          3068
+          171,
+          294
         ]
       },
       {
         "location": [
-          14.477694448,
-          48.557839873
+          14.433522023724374,
+          48.59304983547108
         ],
         "pixel": [
-          2692,
-          3895
+          168,
+          243
         ]
       },
       {
         "location": [
-          14.564128356,
-          48.688152532
+          14.82362978729478,
+          48.628653948405855
         ],
         "pixel": [
-          3713,
-          1615
+          519,
+          197
         ]
       },
       {
         "location": [
-          14.752580362,
-          48.591238709
+          14.807778527577232,
+          48.532030223630926
         ],
         "pixel": [
-          5899,
-          3295
+          505,
+          321
         ]
       },
       {
         "location": [
-          14.498977499,
-          48.739033825
+          14.36211384298342,
+          48.50255924912872
         ],
         "pixel": [
-          2952,
-          734
+          104,
+          360
+        ]
+      },
+      {
+        "location": [
+          14.338018735742203,
+          48.72593307348296
+        ],
+        "pixel": [
+          84,
+          70
+        ]
+      },
+      {
+        "location": [
+          14.809063723888285,
+          48.73247500534683
+        ],
+        "pixel": [
+          509,
+          65
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["[1945]"]
 }

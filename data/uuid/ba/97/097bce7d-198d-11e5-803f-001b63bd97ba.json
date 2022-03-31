@@ -1,225 +1,322 @@
 {
   "date": [null],
-  "creator": null,
+  "creator": "Krill, Rud.",
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:097bce7d-198d-11e5-803f-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, černobílá, 41x32,5",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:097bce7d-198d-11e5-803f-001b63bd97ba/ImageProperties.xml",
+  "description": "Wegkarte für die Eintags-Rundpartien vom Ausgangspunkte",
   "scale": null,
-  "external_id": "m0330851",
-  "title": "Wegkarte für die Eintags-Rundpartien vom Ausgangspunkte I. Höritz, II. Krumau, III. Schwarzbach, IV. Friedberg, V. Oberplan (Vordestift), VI. Salnau, VII. Budwies, mit dem Anschlusse an eine Bahnstation zur Heimreise /",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
+  "external_id": "uuid:097bce7d-198d-11e5-803f-001b63bd97ba",
+  "title": "Wegkarte für die Eintags-Rundpartien vom Ausgangspunkte",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
   "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5d05d-00c9-11e5-b939-0800200c9a66?page=uuid:097bce7d-198d-11e5-803f-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": null,
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MC_73_001.php",
-  "id": "cbf40d9a-cfb8-5225-9b14-89d3c8d6148a",
-  "physical_size": [
-    41,
-    32
-  ],
+  "publisher": "Carl Landspersky",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5d05d-00c9-11e5-b939-0800200c9a66?page=uuid:097bce7d-198d-11e5-803f-001b63bd97ba",
+  "id": "859b91a9-9dee-4dae-8afa-808dfd72495f",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        7232,
-        177
+        305,
+        14
       ],
       [
-        7191,
-        5641
+        304,
+        96
       ],
       [
-        1128,
-        5601
+        446,
+        95
       ],
       [
-        1135,
-        5333
+        483,
+        79
       ],
       [
-        1059,
-        5195
+        483,
+        14
       ],
       [
-        979,
-        4779
+        584,
+        13
       ],
       [
-        154,
-        4822
+        584,
+        246
       ],
       [
-        181,
-        196
+        582,
+        427
       ],
       [
-        3750,
-        176
+        476,
+        426
       ],
       [
-        3750,
-        1277
+        335,
+        426
       ],
       [
-        5503,
-        1259
+        161,
+        425
       ],
       [
-        5952,
-        1056
+        12,
+        423
       ],
       [
-        5955,
-        180
+        14,
+        224
       ],
       [
-        7232,
-        177
+        14,
+        220
+      ],
+      [
+        14,
+        121
+      ],
+      [
+        14,
+        15
+      ],
+      [
+        249,
+        13
+      ],
+      [
+        253,
+        14
+      ],
+      [
+        305,
+        14
       ]
     ],
-    "created": "2013-02-26T18:57:06.430360+00:00",
+    "created": "2020-07-07T12:53:04.738906+00:00",
     "transformation_method": "affine",
-    "mapID": "cbf40d9a-cfb8-5225-9b14-89d3c8d6148a",
+    "mapID": "859b91a9-9dee-4dae-8afa-808dfd72495f",
     "affine_transformation": null,
-    "changed": "2013-02-26T18:57:06.430360+00:00",
+    "changed": "2021-02-09T14:23:39.168842+00:00",
     "gcps": [
       {
         "location": [
-          14.258599466,
-          48.810928862
+          14.344977571242026,
+          48.833127855128765
         ],
         "pixel": [
-          5022,
-          3019
+          470,
+          202
         ]
       },
       {
         "location": [
-          13.997953123,
-          49.006639501
+          14.36461959258784,
+          48.84642497444321
         ],
         "pixel": [
-          2720,
-          322
+          483,
+          189
         ]
       },
       {
         "location": [
-          14.444079584,
-          48.926950031
+          14.371348720659876,
+          48.8555518693984
         ],
         "pixel": [
-          6656,
-          1405
+          487,
+          180
         ]
       },
       {
         "location": [
-          13.797751545,
-          48.728033252
+          14.364880108265579,
+          48.655483405658885
         ],
         "pixel": [
-          954,
-          4093
+          483,
+          385
         ]
       },
       {
         "location": [
-          14.363484568,
-          48.662902122
+          14.032392212275235,
+          48.7658035050971
         ],
         "pixel": [
-          5959,
-          4966
+          246,
+          271
         ]
       },
       {
         "location": [
-          14.165644831,
-          48.660974621
+          14.289084631097047,
+          48.77607719443003
         ],
         "pixel": [
-          4199,
-          4996
+          425,
+          267
         ]
       },
       {
         "location": [
-          13.828587717,
-          48.96090089
+          14.381646190834383,
+          48.938135661442146
         ],
         "pixel": [
-          1259,
-          931
+          496,
+          96
         ]
       },
       {
         "location": [
-          14.055202192,
-          48.956350081
+          14.39276984596547,
+          48.93155005108886
         ],
         "pixel": [
-          3241,
-          1005
+          504,
+          101
         ]
       },
       {
         "location": [
-          13.803546614,
-          48.780863508
+          14.451691862828193,
+          48.94404586189938
         ],
         "pixel": [
-          1028,
-          3357
+          547,
+          89
         ]
       },
       {
         "location": [
-          14.147963709,
-          48.798633504
+          14.454026453363804,
+          48.923657135885946
         ],
         "pixel": [
-          4084,
-          3145
+          544,
+          108
         ]
       },
       {
         "location": [
-          13.953428453,
-          48.789897729
+          14.447297335769145,
+          48.897211568071896
         ],
         "pixel": [
-          2364,
-          3265
+          539,
+          134
         ]
       },
       {
         "location": [
-          13.990098118,
-          48.640540857
+          14.258567108233299,
+          48.81126901721072
         ],
         "pixel": [
-          2656,
-          5269
+          407,
+          229
         ]
       },
       {
         "location": [
-          14.331405348,
-          48.904613591
+          14.318473055688203,
+          48.812512983694944
         ],
         "pixel": [
-          5676,
-          1699
+          448,
+          226
+        ]
+      },
+      {
+        "location": [
+          14.178448149077761,
+          48.7657907008865
+        ],
+        "pixel": [
+          348,
+          272
+        ]
+      },
+      {
+        "location": [
+          14.249915373263253,
+          48.79815395078731
+        ],
+        "pixel": [
+          401,
+          240
+        ]
+      },
+      {
+        "location": [
+          14.298457592760567,
+          48.917220313542316
+        ],
+        "pixel": [
+          437,
+          117
+        ]
+      },
+      {
+        "location": [
+          14.305980080888988,
+          48.904952751722305
+        ],
+        "pixel": [
+          440,
+          128
+        ]
+      },
+      {
+        "location": [
+          14.325206152488391,
+          48.890959283086346
+        ],
+        "pixel": [
+          449,
+          144
+        ]
+      },
+      {
+        "location": [
+          14.314906469871204,
+          48.88229039739261
+        ],
+        "pixel": [
+          446,
+          152
+        ]
+      },
+      {
+        "location": [
+          14.365855567074759,
+          48.89123016262553
+        ],
+        "pixel": [
+          484,
+          142
+        ]
+      },
+      {
+        "location": [
+          13.775520008789742,
+          48.87843014744081
+        ],
+        "pixel": [
+          64,
+          155
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["před r. 1918"]
 }

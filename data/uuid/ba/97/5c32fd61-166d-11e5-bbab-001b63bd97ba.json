@@ -3,181 +3,136 @@
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:5c32fd61-166d-11e5-bbab-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, černobílá, 52x38",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:5c32fd61-166d-11e5-bbab-001b63bd97ba/ImageProperties.xml",
+  "description": "Český Krumlov a okolí",
   "scale": null,
-  "external_id": "162528",
+  "external_id": "uuid:5c32fd61-166d-11e5-bbab-001b63bd97ba",
   "title": "Český Krumlov a okolí",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
   "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf55b19-00c9-11e5-b939-0800200c9a66?page=uuid:5c32fd61-166d-11e5-bbab-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": null,
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MA_696_001.php",
-  "id": "c81bbf17-7fa0-5334-bcd3-2283464027cd",
-  "physical_size": [
-    52,
-    38
-  ],
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf55b19-00c9-11e5-b939-0800200c9a66?page=uuid:5c32fd61-166d-11e5-bbab-001b63bd97ba",
+  "id": "8c72cf39-34a1-4de5-a722-edb0577c21a7",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        202,
-        4522
+        579,
+        17
       ],
       [
-        6076,
-        4504
+        579,
+        205
       ],
       [
-        6079,
-        186
+        579,
+        424
       ],
       [
-        3707,
-        195
+        279,
+        425
       ],
       [
-        214,
-        184
+        19,
+        425
       ],
       [
-        202,
-        4522
+        21,
+        17
+      ],
+      [
+        319,
+        18
+      ],
+      [
+        579,
+        17
       ]
     ],
-    "created": "2014-11-24T23:46:20.609490+00:00",
+    "created": "2020-07-07T12:52:04.647322+00:00",
     "transformation_method": "affine",
-    "mapID": "c81bbf17-7fa0-5334-bcd3-2283464027cd",
+    "mapID": "8c72cf39-34a1-4de5-a722-edb0577c21a7",
     "affine_transformation": null,
-    "changed": "2014-11-24T23:46:20.609490+00:00",
+    "changed": "2021-02-09T13:51:59.626985+00:00",
     "gcps": [
       {
         "location": [
-          14.473314925,
-          48.788529863
+          14.397514978180393,
+          48.80957127204144
         ],
         "pixel": [
-          5036,
-          2753
+          391,
+          224
         ]
       },
       {
         "location": [
-          14.312403842,
-          48.806283013
+          14.364477965470185,
+          48.84348514062026
         ],
         "pixel": [
-          3090,
-          2468
+          353,
+          165
         ]
       },
       {
         "location": [
-          14.352572604,
-          48.781856673
+          14.306780864875309,
+          48.75525349985648
         ],
         "pixel": [
-          3564,
-          2884
+          287,
+          314
         ]
       },
       {
         "location": [
-          14.493557982,
-          48.738907172
+          14.317689247231144,
+          48.806799450927855
         ],
         "pixel": [
-          5264,
-          3621
+          301,
+          230
         ]
       },
       {
         "location": [
-          14.559677434,
-          48.927927538
+          14.371680470466512,
+          48.8559759188264
         ],
         "pixel": [
-          6030,
-          296
+          361,
+          148
         ]
       },
       {
         "location": [
-          14.144164382,
-          48.694778238
+          14.370576427868155,
+          48.852908449452684
         ],
         "pixel": [
-          1073,
-          4407
+          361,
+          152
         ]
       },
       {
         "location": [
-          14.465964774896253,
-          48.83030849785024
+          14.389412287983372,
+          48.69999708862923
         ],
         "pixel": [
-          4930,
-          2008
-        ]
-      },
-      {
-        "location": [
-          14.345191165,
-          48.833070453
-        ],
-        "pixel": [
-          3493,
-          1980
-        ]
-      },
-      {
-        "location": [
-          14.437671475,
-          48.92496061
-        ],
-        "pixel": [
-          4591,
-          349
-        ]
-      },
-      {
-        "location": [
-          14.132655576,
-          48.91640139
-        ],
-        "pixel": [
-          969,
-          491
-        ]
-      },
-      {
-        "location": [
-          14.134724347,
-          48.760769033
-        ],
-        "pixel": [
-          990,
-          3240
-        ]
-      },
-      {
-        "location": [
-          14.110976069,
-          48.737811769
-        ],
-        "pixel": [
-          687,
-          3652
+          382,
+          404
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["[1925?]"]
 }

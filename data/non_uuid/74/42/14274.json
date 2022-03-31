@@ -1,0 +1,90 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Kout_na_Sumave_M_250/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "14274",
+  "title": "Katastrální mapa revíru Pec",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/14274",
+  "id": "cfe980e8-0018-5957-ba17-cc7670e51256",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        32308,
+        181
+      ],
+      [
+        32179,
+        25480
+      ],
+      [
+        32050,
+        25786
+      ],
+      [
+        1434,
+        25270
+      ],
+      [
+        1273,
+        520
+      ],
+      [
+        32308,
+        181
+      ]
+    ],
+    "created": "2014-11-25T16:34:36.217160+00:00",
+    "transformation_method": "affine",
+    "mapID": "cfe980e8-0018-5957-ba17-cc7670e51256",
+    "affine_transformation": null,
+    "changed": "2020-12-11T09:34:38.834475+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.83056981039808,
+          49.39829201740034
+        ],
+        "pixel": [
+          30202,
+          16356
+        ]
+      },
+      {
+        "location": [
+          12.831752351356636,
+          49.39067227100503
+        ],
+        "pixel": [
+          25485,
+          21192
+        ]
+      },
+      {
+        "location": [
+          12.81828529310985,
+          49.401196565276905
+        ],
+        "pixel": [
+          27179,
+          9020
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1866"]
+}

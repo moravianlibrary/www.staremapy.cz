@@ -3,163 +3,144 @@
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:6140bda7-166c-11e5-8261-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, černobílá, 53x42",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:6140bda7-166c-11e5-8261-001b63bd97ba/ImageProperties.xml",
+  "description": "Dačice, Telč - oblast",
   "scale": null,
-  "external_id": "161287",
-  "title": "[Dačice, Telč - oblast]",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "external_id": "uuid:6140bda7-166c-11e5-8261-001b63bd97ba",
+  "title": "Dačice, Telč - oblast",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf55b0f-00c9-11e5-b939-0800200c9a66?page=uuid:6140bda7-166c-11e5-8261-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": "Vojenský zeměpisný ústav",
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MA_658_001.php",
-  "id": "8b105f69-434d-57e8-882b-72af9f754a5a",
-  "physical_size": [
-    53,
-    42
-  ],
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf55b0f-00c9-11e5-b939-0800200c9a66?page=uuid:6140bda7-166c-11e5-8261-001b63bd97ba",
+  "id": "746ac958-5724-40d2-8b89-2507147f105a",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        5888,
-        4478
+        544,
+        11
       ],
       [
-        5247,
-        4470
+        543,
+        378
       ],
       [
-        4406,
-        4476
+        12,
+        380
       ],
       [
-        3529,
-        4474
+        14,
+        13
       ],
       [
-        1290,
-        4478
-      ],
-      [
-        104,
-        4475
-      ],
-      [
-        126,
-        142
-      ],
-      [
-        5890,
-        101
-      ],
-      [
-        5888,
-        4478
+        544,
+        11
       ]
     ],
-    "created": "2013-03-21T18:30:56.399160+00:00",
+    "created": "2020-07-07T12:51:55.540401+00:00",
     "transformation_method": "affine",
-    "mapID": "8b105f69-434d-57e8-882b-72af9f754a5a",
+    "mapID": "746ac958-5724-40d2-8b89-2507147f105a",
     "affine_transformation": null,
-    "changed": "2013-03-21T18:30:56.399160+00:00",
+    "changed": "2021-08-25T17:38:47.704838+00:00",
     "gcps": [
       {
         "location": [
-          15.439083748,
-          49.078063592
+          15.806223359277048,
+          49.22256194472405
         ],
         "pixel": [
-          1329,
-          3104
+          515,
+          49
         ]
       },
       {
         "location": [
-          15.448696785,
-          49.085259447
+          15.35801975114079,
+          49.08775351640844
         ],
         "pixel": [
-          1444,
-          2976
+          36,
+          250
         ]
       },
       {
         "location": [
-          15.36072033,
-          49.089840639
+          15.42896191767822,
+          49.1482254205886
         ],
         "pixel": [
-          424,
-          2900
+          113,
+          160
         ]
       },
       {
         "location": [
-          15.375869446,
-          49.190765366
+          15.823492540256462,
+          49.07434030822594
         ],
         "pixel": [
-          609,
-          1140
+          533,
+          268
         ]
       },
       {
         "location": [
-          15.67125576,
-          49.14190441
+          15.42351438614566,
+          49.07094980015151
         ],
         "pixel": [
-          4012,
-          1983
+          107,
+          274
         ]
       },
       {
         "location": [
-          15.456936531,
-          49.185204734
+          15.357945563807569,
+          49.23786128033029
         ],
         "pixel": [
-          1547,
-          1230
+          41,
+          26
         ]
       },
       {
         "location": [
-          15.672371559,
-          49.196486624
+          15.605667416243737,
+          49.23889814011281
         ],
         "pixel": [
-          4030,
-          1035
+          301,
+          25
         ]
       },
       {
         "location": [
-          15.565040284,
-          49.026284564
+          15.58150648366733,
+          49.015857163707125
         ],
         "pixel": [
-          2779,
-          4012
+          276,
+          358
         ]
       },
       {
         "location": [
-          15.812403099190194,
-          49.05247299017438
+          15.57946800481601,
+          49.02046586343141
         ],
         "pixel": [
-          5635,
-          3539
+          271,
+          349
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["[1918?]"]
 }

@@ -1,0 +1,106 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Krimice_M_2-1/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "19086",
+  "title": "Katastrální mapa obce Křimice",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/19086",
+  "id": "5f2a3dac-a47d-5f46-b643-d256232bab26",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        18486,
+        0
+      ],
+      [
+        18486,
+        14902
+      ],
+      [
+        0,
+        14902
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        18486,
+        0
+      ]
+    ],
+    "created": "2014-11-25T16:57:37.299900+00:00",
+    "transformation_method": "affine",
+    "mapID": "5f2a3dac-a47d-5f46-b643-d256232bab26",
+    "affine_transformation": null,
+    "changed": "2014-11-25T16:57:37.299900+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.288281644,
+          49.75246213
+        ],
+        "pixel": [
+          5137,
+          3147
+        ]
+      },
+      {
+        "location": [
+          13.287420154,
+          49.745302192
+        ],
+        "pixel": [
+          4634,
+          9613
+        ]
+      },
+      {
+        "location": [
+          13.289244056,
+          49.754449198
+        ],
+        "pixel": [
+          5676,
+          1385
+        ]
+      },
+      {
+        "location": [
+          13.285086632,
+          49.745170468
+        ],
+        "pixel": [
+          3282,
+          9730
+        ]
+      },
+      {
+        "location": [
+          13.296849685,
+          49.747081444
+        ],
+        "pixel": [
+          10123,
+          8043
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1878"]
+}

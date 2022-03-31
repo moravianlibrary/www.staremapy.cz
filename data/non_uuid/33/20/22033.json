@@ -1,0 +1,116 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Tachov_M_77/ImageProperties.xml",
+  "description": null,
+  "scale": 7400,
+  "external_id": "22033",
+  "title": "Hraniční mapa mezi velkostatkem Tachov a velkostatkem Kynžvart",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/22033",
+  "id": "1fa47545-88c9-5c4d-9204-cf582dc3f5dd",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        256,
+        17856
+      ],
+      [
+        33408,
+        17856
+      ],
+      [
+        33408,
+        256
+      ],
+      [
+        256,
+        256
+      ],
+      [
+        256,
+        17856
+      ]
+    ],
+    "created": "2016-12-16T07:49:11.894530+00:00",
+    "transformation_method": "affine",
+    "mapID": "1fa47545-88c9-5c4d-9204-cf582dc3f5dd",
+    "affine_transformation": null,
+    "changed": "2021-05-21T15:11:55.745214+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.596686343254596,
+          49.97586133376663
+        ],
+        "pixel": [
+          25331,
+          1184
+        ]
+      },
+      {
+        "location": [
+          12.614571334403742,
+          49.94176053654542
+        ],
+        "pixel": [
+          29106,
+          13274
+        ]
+      },
+      {
+        "location": [
+          12.614142180961355,
+          49.95581648210563
+        ],
+        "pixel": [
+          28828,
+          8379
+        ]
+      },
+      {
+        "location": [
+          12.612811805289937,
+          49.9744087618231
+        ],
+        "pixel": [
+          28293,
+          1541
+        ]
+      },
+      {
+        "location": [
+          12.540181888190947,
+          49.96298891537094
+        ],
+        "pixel": [
+          11842,
+          5898
+        ]
+      },
+      {
+        "location": [
+          12.494338999264713,
+          49.93696452855528
+        ],
+        "pixel": [
+          1120,
+          15545
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1797"]
+}

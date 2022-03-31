@@ -3,147 +3,184 @@
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:e887c42b-164e-11e5-8f7b-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, černobílá, 50x39",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:e887c42b-164e-11e5-8f7b-001b63bd97ba/ImageProperties.xml",
+  "description": "Tabor - Böhmen",
   "scale": null,
-  "external_id": "131044",
-  "title": "Tabor Böhmen",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "external_id": "uuid:e887c42b-164e-11e5-8f7b-001b63bd97ba",
+  "title": "Tabor - Böhmen",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf53425-00c9-11e5-b939-0800200c9a66?page=uuid:e887c42b-164e-11e5-8f7b-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": null,
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MA_439_001.php",
-  "id": "ac1b610b-11ce-53e9-b096-0d03ab2b1c9e",
-  "physical_size": [
-    50,
-    39
-  ],
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf53425-00c9-11e5-b939-0800200c9a66?page=uuid:e887c42b-164e-11e5-8f7b-001b63bd97ba",
+  "id": "5a3b9869-e683-491b-bd41-e32be5828df1",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        8791,
-        238
+        587,
+        17
       ],
       [
-        8754,
-        6822
+        584,
+        434
       ],
       [
-        205,
-        6804
+        14,
+        432
       ],
       [
-        215,
-        230
+        13,
+        14
       ],
       [
-        8791,
-        238
+        587,
+        17
       ]
     ],
-    "created": "2013-02-26T17:48:36.552670+00:00",
+    "created": "2020-07-07T12:51:17.206366+00:00",
     "transformation_method": "affine",
-    "mapID": "ac1b610b-11ce-53e9-b096-0d03ab2b1c9e",
+    "mapID": "5a3b9869-e683-491b-bd41-e32be5828df1",
     "affine_transformation": null,
-    "changed": "2013-02-26T17:48:36.552670+00:00",
+    "changed": "2020-07-07T12:51:17.206366+00:00",
     "gcps": [
       {
         "location": [
-          14.719417067549578,
-          49.25992216628535
+          14.715965556054478,
+          49.26611037158881
         ],
         "pixel": [
-          6814,
-          6525
+          450,
+          402
         ]
       },
       {
         "location": [
-          14.656534195,
-          49.409968993
+          14.472099900353188,
+          49.43486984522929
         ],
         "pixel": [
-          5745,
-          2584
+          173,
+          119
         ]
       },
       {
         "location": [
-          14.66837883,
-          49.422532523
+          14.359270994723623,
+          49.44954335618132
         ],
         "pixel": [
-          5948,
-          2228
+          44,
+          94
         ]
       },
       {
         "location": [
-          14.595763379,
-          49.329285238
+          14.467914432254313,
+          49.295194298155195
         ],
         "pixel": [
-          4707,
-          4684
+          167,
+          351
         ]
       },
       {
         "location": [
-          14.432856732,
-          49.286027111
+          14.479977242257776,
+          49.319015116046586
         ],
         "pixel": [
-          1929,
-          5822
+          181,
+          311
         ]
       },
       {
         "location": [
-          14.662714005,
-          49.416446592
+          14.561825257164937,
+          49.29053565657796
         ],
         "pixel": [
-          5847,
-          2388
+          272,
+          360
         ]
       },
       {
         "location": [
-          14.644260406,
-          49.418903389
+          14.366224897945274,
+          49.267835050616384
         ],
         "pixel": [
-          5539,
-          2327
+          49,
+          398
         ]
       },
       {
         "location": [
-          14.382602864,
-          49.422499402
+          14.381080153489968,
+          49.36931634220903
         ],
         "pixel": [
-          1087,
-          2218
+          67,
+          228
         ]
       },
       {
         "location": [
-          14.503793972673018,
-          49.37367814449817
+          14.658377748282886,
+          49.414383755485204
         ],
         "pixel": [
-          3146,
-          3507
+          381,
+          155
+        ]
+      },
+      {
+        "location": [
+          14.768987408660566,
+          49.4626397131492
+        ],
+        "pixel": [
+          510,
+          75
+        ]
+      },
+      {
+        "location": [
+          14.74528135148283,
+          49.272146590639295
+        ],
+        "pixel": [
+          483,
+          391
+        ]
+      },
+      {
+        "location": [
+          14.785786691046235,
+          49.36395637435086
+        ],
+        "pixel": [
+          530,
+          239
+        ]
+      },
+      {
+        "location": [
+          14.587739997367448,
+          49.36358492397187
+        ],
+        "pixel": [
+          304,
+          238
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["1892"]
 }

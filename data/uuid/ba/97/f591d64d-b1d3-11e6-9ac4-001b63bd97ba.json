@@ -3,228 +3,168 @@
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:f591d64d-b1d3-11e6-9ac4-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa ; 28 x 40 cm na listu 35 x 45 cm",
-  "scale": 144000,
-  "external_id": "649600",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:f591d64d-b1d3-11e6-9ac4-001b63bd97ba/ImageProperties.xml",
+  "description": "Umgebungen von Dittmoning",
+  "scale": null,
+  "external_id": "uuid:f591d64d-b1d3-11e6-9ac4-001b63bd97ba",
   "title": "Umgebungen von Dittmoning",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": false,
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:129860d4-3003-11e6-ac61-9e71128cae77?page=uuid:f591d64d-b1d3-11e6-9ac4-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": null,
-  "link_url": "http://kramerius.cbvk.cz/search/handle/uuid:129860d4-3003-11e6-ac61-9e71128cae77",
-  "id": "d4d110e7-adc1-51ab-8724-f9da6062cdc3",
+  "publisher": "K.k. General Quartiermeister Stabes",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:129860d4-3003-11e6-ac61-9e71128cae77?page=uuid:f591d64d-b1d3-11e6-9ac4-001b63bd97ba",
+  "id": "fe83fe4a-765b-4d3b-86e0-a7b091f8fe0d",
   "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        4833,
-        922
+        550,
+        88
       ],
       [
-        4849,
-        3585
+        550,
+        382
       ],
       [
-        1297,
-        3585
+        368,
+        383
       ],
       [
-        1596,
-        2371
+        153,
+        383
       ],
       [
-        1799,
-        1539
+        49,
+        382
       ],
       [
-        2230,
-        1163
+        50,
+        251
       ],
       [
-        3221,
-        959
+        118,
+        181
       ],
       [
-        3736,
-        1131
+        200,
+        113
       ],
       [
-        4163,
-        1084
+        301,
+        63
       ],
       [
-        4562,
-        922
+        549,
+        62
       ],
       [
-        4833,
-        922
+        550,
+        88
       ]
     ],
-    "created": "2018-01-08T15:42:56.952299+00:00",
+    "created": "2020-07-07T12:56:14.580660+00:00",
     "transformation_method": "affine",
-    "mapID": "d4d110e7-adc1-51ab-8724-f9da6062cdc3",
+    "mapID": "fe83fe4a-765b-4d3b-86e0-a7b091f8fe0d",
     "affine_transformation": null,
-    "changed": "2022-01-09T17:26:48.421857+00:00",
+    "changed": "2021-03-24T08:09:45.899438+00:00",
     "gcps": [
       {
         "location": [
-          12.638126896341602,
-          48.00098731774489
+          12.840796131362948,
+          48.25360154431573
         ],
         "pixel": [
-          2202,
-          3465
+          394,
+          131
         ]
       },
       {
         "location": [
-          12.552657080389734,
-          48.02794455571947
+          12.767361647792987,
+          48.06214927880751
         ],
         "pixel": [
-          1703,
-          3192
+          342,
+          313
         ]
       },
       {
         "location": [
-          12.89427283329458,
-          48.00823884019559
+          12.964514739223658,
+          48.1764034818402
         ],
         "pixel": [
-          3753,
-          3493
+          483,
+          204
         ]
       },
       {
         "location": [
-          12.671432820893488,
-          48.226542652116336
+          13.01584149093264,
+          48.02186489886188
         ],
         "pixel": [
-          2439,
-          1547
+          511,
+          361
         ]
       },
       {
         "location": [
-          12.669887868500911,
-          48.25466713306639
+          12.558828524080303,
+          48.02876258965114
         ],
         "pixel": [
-          2440,
-          1305
+          195,
+          340
         ]
       },
       {
         "location": [
-          12.839692649970535,
-          48.25073279106792
+          12.533765963045148,
+          48.00361529516002
         ],
         "pixel": [
-          3451,
-          1263
+          176,
+          361
         ]
       },
       {
         "location": [
-          12.568775737260388,
-          48.0769064068694
+          12.569702249151756,
+          48.07878965188536
         ],
         "pixel": [
-          1821,
-          2770
+          206,
+          293
         ]
       },
       {
         "location": [
-          13.040101002598325,
-          48.00204201863363
+          12.675821928176582,
+          48.226354415107636
         ],
         "pixel": [
-          4633,
-          3575
+          278,
+          162
         ]
       },
       {
         "location": [
-          13.041772721270455,
-          48.272699471893105
+          12.686403803307641,
+          48.24065751788427
         ],
         "pixel": [
-          4727,
-          1096
-        ]
-      },
-      {
-        "location": [
-          13.01697198257223,
-          48.126354670028064
-        ],
-        "pixel": [
-          4549,
-          2400
-        ]
-      },
-      {
-        "location": [
-          13.033702671388136,
-          48.26138892030011
-        ],
-        "pixel": [
-          4668,
-          1156
-        ]
-      },
-      {
-        "location": [
-          12.749418188342368,
-          48.006816570497506
-        ],
-        "pixel": [
-          2862,
-          3452
-        ]
-      },
-      {
-        "location": [
-          12.693748799897396,
-          48.2407211524276
-        ],
-        "pixel": [
-          2600,
-          1412
-        ]
-      },
-      {
-        "location": [
-          13.04496323264723,
-          48.06803133687043
-        ],
-        "pixel": [
-          4692,
-          2931
-        ]
-      },
-      {
-        "location": [
-          12.79795716645529,
-          48.0159394678837
-        ],
-        "pixel": [
-          3175,
-          3380
+          290,
+          150
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["1869"]
 }

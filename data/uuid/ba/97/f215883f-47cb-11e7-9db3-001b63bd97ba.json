@@ -3,164 +3,220 @@
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:f215883f-47cb-11e7-9db3-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa : barevná ; 39 x 51 cm na listu 48 x 62 cm",
-  "scale": 75000,
-  "external_id": "681476",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:f215883f-47cb-11e7-9db3-001b63bd97ba/ImageProperties.xml",
+  "description": "Mikulov",
+  "scale": null,
+  "external_id": "uuid:f215883f-47cb-11e7-9db3-001b63bd97ba",
   "title": "Mikulov",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": false,
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:bfb1bef6-4881-444a-a6e1-3dab1a34c7f8?page=uuid:f215883f-47cb-11e7-9db3-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": null,
-  "link_url": "http://kramerius.cbvk.cz/search/handle/uuid:bfb1bef6-4881-444a-a6e1-3dab1a34c7f8",
-  "id": "bd62ad0d-813c-5834-9c27-d8cb226159e9",
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:bfb1bef6-4881-444a-a6e1-3dab1a34c7f8?page=uuid:f215883f-47cb-11e7-9db3-001b63bd97ba",
+  "id": "6af794e6-a147-4ee9-aa29-a99932851de0",
   "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        6579,
-        523
+        538,
+        41
       ],
       [
-        6586,
-        4920
+        538,
+        208
       ],
       [
-        842,
-        4928
+        538,
+        385
       ],
       [
-        842,
-        509
+        317,
+        384
       ],
       [
-        6579,
-        523
+        67,
+        385
+      ],
+      [
+        68,
+        198
+      ],
+      [
+        69,
+        40
+      ],
+      [
+        294,
+        41
+      ],
+      [
+        538,
+        41
       ]
     ],
-    "created": "2018-01-08T15:42:56.952299+00:00",
+    "created": "2020-07-07T12:57:48.675334+00:00",
     "transformation_method": "affine",
-    "mapID": "bd62ad0d-813c-5834-9c27-d8cb226159e9",
+    "mapID": "6af794e6-a147-4ee9-aa29-a99932851de0",
     "affine_transformation": null,
-    "changed": "2022-02-23T19:14:01.947486+00:00",
+    "changed": "2021-06-18T07:44:23.218927+00:00",
     "gcps": [
       {
         "location": [
-          16.602458689559004,
-          48.96696699268102
+          16.483679706901857,
+          48.93359591032669
         ],
         "pixel": [
-          3917,
-          1086
+          209,
+          131
         ]
       },
       {
         "location": [
-          16.670667185628698,
-          48.874109580291275
+          16.392999600753775,
+          48.79741287706884
         ],
         "pixel": [
-          4695,
-          2727
+          123,
+          319
         ]
       },
       {
         "location": [
-          16.787346016938113,
-          48.98938825600834
+          16.39352069775348,
+          48.92143345122594
         ],
         "pixel": [
-          6031,
-          690
+          125,
+          147
         ]
       },
       {
         "location": [
-          16.542036631188306,
-          48.9027550919177
+          16.339043438610737,
+          48.86853807258021
         ],
         "pixel": [
-          3228,
-          2202
+          73,
+          221
         ]
       },
       {
         "location": [
-          16.40309177461954,
-          48.887469042749586
+          16.393197686361777,
+          48.99247572811507
         ],
         "pixel": [
-          1638,
-          2465
+          124,
+          49
         ]
       },
       {
         "location": [
-          16.366289352401942,
-          48.97745896298622
+          16.655062611521963,
+          48.96761593394021
         ],
         "pixel": [
-          1222,
-          895
+          369,
+          85
         ]
       },
       {
         "location": [
-          16.496747831408804,
-          48.82788204797782
+          16.437462145677845,
+          48.91874734367832
         ],
         "pixel": [
-          2692,
-          3540
+          166,
+          151
         ]
       },
       {
         "location": [
-          16.815966325094088,
-          48.904245998807
+          16.500811614547306,
+          48.75626765188133
         ],
         "pixel": [
-          6377,
-          2187
+          223,
+          376
         ]
       },
       {
         "location": [
-          16.76649460670096,
-          48.75034409470052
+          16.793070004796274,
+          48.799306209775494
         ],
         "pixel": [
-          5804,
-          4887
+          499,
+          315
         ]
       },
       {
         "location": [
-          16.394780973498648,
-          48.80877994267661
+          16.673612849420905,
+          48.780558664847774
         ],
         "pixel": [
-          1539,
-          3867
+          387,
+          341
         ]
       },
       {
         "location": [
-          16.639879669802706,
-          48.79085040256638
+          16.492906236549736,
+          48.83703381627652
         ],
         "pixel": [
-          4345,
-          4173
+          217,
+          265
+        ]
+      },
+      {
+        "location": [
+          16.404005134320975,
+          48.83160750703087
+        ],
+        "pixel": [
+          134,
+          272
+        ]
+      },
+      {
+        "location": [
+          16.627423332028904,
+          48.85102352675045
+        ],
+        "pixel": [
+          344,
+          244
+        ]
+      },
+      {
+        "location": [
+          16.774155142658287,
+          48.8557678072728
+        ],
+        "pixel": [
+          482,
+          238
+        ]
+      },
+      {
+        "location": [
+          16.76434580681522,
+          48.957442484401895
+        ],
+        "pixel": [
+          473,
+          98
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["[1947"]
 }

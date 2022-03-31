@@ -1,156 +1,147 @@
 {
-  "date": ["1829"],
-  "creator": null,
+  "date": [null],
+  "creator": "Falta, Joseph",
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:795409db-15e6-11e5-9bdc-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, černobílá, 50x39",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:795409db-15e6-11e5-9bdc-001b63bd97ba/ImageProperties.xml",
+  "description": "Topographische Karte der in Böhmen budweiser Kreises liegenden Sr. Durchlaucht dem Fürsten zu Schwarzenberg Herzog zu Krummau gehörigen Herrschaft Krummau mit Bestimmung des äussern Gränzen und Ausscheidung des im Umfange der Herrschaft befindlichen obrigkeitlichen Grundeigentums",
   "scale": null,
-  "external_id": "130514",
+  "external_id": "uuid:795409db-15e6-11e5-9bdc-001b63bd97ba",
   "title": "Topographische Karte der in Böhmen budweiser Kreises liegenden Sr. Durchlaucht dem Fürsten zu Schwarzenberg Herzog zu Krummau gehörigen Herrschaft Krummau mit Bestimmung des äussern Gränzen und Ausscheidung des im Umfange der Herrschaft befindlichen obrigkeitlichen Grundeigentums",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf50cf2-00c9-11e5-b939-0800200c9a66?page=uuid:795409db-15e6-11e5-9bdc-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "Joseph Falta 1829",
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MA_367_3_001.php",
-  "id": "728e624c-059b-557f-a2b3-e7681bd0eef0",
-  "physical_size": [
-    50,
-    39
-  ],
+  "publisher": null,
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf50cf2-00c9-11e5-b939-0800200c9a66?page=uuid:795409db-15e6-11e5-9bdc-001b63bd97ba",
+  "id": "46205460-38e7-41f2-aceb-d9d9624ca425",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        7650,
-        6221
+        334,
+        193
       ],
       [
-        949,
-        6240
+        368,
+        228
       ],
       [
-        992,
-        1054
+        402,
+        234
       ],
       [
-        3262,
-        1051
+        427,
+        226
       ],
       [
-        3466,
-        1449
+        453,
+        239
       ],
       [
-        4132,
-        1923
+        483,
+        225
       ],
       [
-        4630,
-        2395
+        509,
+        229
       ],
       [
-        4702,
-        2857
+        508,
+        388
       ],
       [
-        5172,
-        3071
+        62,
+        388
       ],
       [
-        5500,
-        3527
+        68,
+        65
       ],
       [
-        5980,
-        3741
+        212,
+        65
       ],
       [
-        6652,
-        3553
+        221,
+        96
       ],
       [
-        7340,
-        3607
+        258,
+        110
       ],
       [
-        7650,
-        3793
+        299,
+        146
       ],
       [
-        7650,
-        6221
+        309,
+        178
+      ],
+      [
+        334,
+        193
       ]
     ],
-    "created": "2013-03-22T10:30:51.993820+00:00",
+    "created": "2020-07-07T12:51:32.164588+00:00",
     "transformation_method": "affine",
-    "mapID": "728e624c-059b-557f-a2b3-e7681bd0eef0",
+    "mapID": "46205460-38e7-41f2-aceb-d9d9624ca425",
     "affine_transformation": null,
-    "changed": "2013-03-22T10:30:51.993820+00:00",
+    "changed": "2020-07-07T12:51:32.164588+00:00",
     "gcps": [
       {
         "location": [
-          14.569598959,
-          48.898859346
+          14.469776342852626,
+          48.97273208492368
         ],
         "pixel": [
-          5834,
-          5547
+          246,
+          195
         ]
       },
       {
         "location": [
-          14.36050415,
-          48.976190061
+          14.57074110951721,
+          48.89780713472348
         ],
         "pixel": [
-          1290,
-          2951
+          385,
+          346
         ]
       },
       {
         "location": [
-          14.359989166,
-          48.986048046
+          14.38545663377706,
+          48.966235670766935
         ],
         "pixel": [
-          1307,
-          2607
+          125,
+          204
         ]
       },
       {
         "location": [
-          14.617986009,
-          48.932237249
+          14.617741992431505,
+          48.93209076052
         ],
         "pixel": [
-          6919,
-          4389
+          460,
+          275
         ]
       },
       {
         "location": [
-          14.445874021,
-          48.897730848
+          14.446449119875126,
+          48.89783602827353
         ],
         "pixel": [
-          3180,
-          5583
-        ]
-      },
-      {
-        "location": [
-          14.474358559,
-          48.974640772
-        ],
-        "pixel": [
-          3785,
-          3013
+          210,
+          349
         ]
       }
     ]

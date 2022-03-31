@@ -1,0 +1,108 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Manetin_M_120_4/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "21351",
+  "title": "Katastrální mapa obce Radějov",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/21351",
+  "id": "fe60f2af-b2d4-5a01-90b9-74be8b14ce3e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        17304,
+        1611
+      ],
+      [
+        17326,
+        13945
+      ],
+      [
+        12149,
+        14173
+      ],
+      [
+        9743,
+        11712
+      ],
+      [
+        4829,
+        5957
+      ],
+      [
+        2277,
+        4188
+      ],
+      [
+        616,
+        1620
+      ],
+      [
+        17304,
+        1611
+      ]
+    ],
+    "created": "2014-11-25T17:00:06.750850+00:00",
+    "transformation_method": "affine",
+    "mapID": "fe60f2af-b2d4-5a01-90b9-74be8b14ce3e",
+    "affine_transformation": null,
+    "changed": "2022-02-21T07:08:12.407135+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.187586099648064,
+          49.944618078241035
+        ],
+        "pixel": [
+          1227,
+          1800
+        ]
+      },
+      {
+        "location": [
+          13.202794647650851,
+          49.9408014155546
+        ],
+        "pixel": [
+          4115,
+          3604
+        ]
+      },
+      {
+        "location": [
+          13.207247745723569,
+          49.9424033143348
+        ],
+        "pixel": [
+          12628,
+          4170
+        ]
+      },
+      {
+        "location": [
+          13.202548515529479,
+          49.93433804159844
+        ],
+        "pixel": [
+          9971,
+          11289
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1841"]
+}

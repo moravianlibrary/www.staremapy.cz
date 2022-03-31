@@ -3,104 +3,124 @@
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:00cfa0ad-1d7e-11e5-b3ec-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa : čb., podlepena plátnem ; 38 x 52 cm",
-  "scale": 75000,
-  "external_id": "136636",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:00cfa0ad-1d7e-11e5-b3ec-001b63bd97ba/ImageProperties.xml",
+  "description": "[Budweis]",
+  "scale": null,
+  "external_id": "uuid:00cfa0ad-1d7e-11e5-b3ec-001b63bd97ba",
   "title": "[Budweis]",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
   "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf53426-00c9-11e5-b939-0800200c9a66?page=uuid:00cfa0ad-1d7e-11e5-b3ec-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "s.n.,",
-  "link_url": "http://kramerius.cbvk.cz/search/handle/uuid:3bf53426-00c9-11e5-b939-0800200c9a66",
-  "id": "3e03e7ec-dc72-527e-a1c0-4b87b90cc3c8",
+  "publisher": null,
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf53426-00c9-11e5-b939-0800200c9a66?page=uuid:00cfa0ad-1d7e-11e5-b3ec-001b63bd97ba",
+  "id": "899aa234-7d27-468c-82c7-2f37b75ca5e4",
   "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        6372,
-        188
+        583,
+        16
       ],
       [
-        6353,
-        4615
+        576,
+        417
       ],
       [
-        188,
-        4592
+        16,
+        414
       ],
       [
-        240,
-        139
+        18,
+        9
       ],
       [
-        6372,
-        188
+        583,
+        16
       ]
     ],
-    "created": "2018-01-08T15:42:56.952299+00:00",
+    "created": "2020-07-07T12:45:31.172101+00:00",
     "transformation_method": "affine",
-    "mapID": "3e03e7ec-dc72-527e-a1c0-4b87b90cc3c8",
+    "mapID": "899aa234-7d27-468c-82c7-2f37b75ca5e4",
     "affine_transformation": null,
-    "changed": "2018-01-08T15:42:56.952299+00:00",
+    "changed": "2022-02-18T14:33:44.051218+00:00",
     "gcps": [
       {
         "location": [
-          14.211373861601862,
-          48.853933645482556
+          14.451379626078689,
+          48.90940470868148
         ],
         "pixel": [
-          294,
-          4306
+          277,
+          301
         ]
       },
       {
         "location": [
-          14.72063627259829,
-          49.08361056568856
+          14.474310344329849,
+          48.97455027041562
         ],
         "pixel": [
-          6162,
-          343
+          301,
+          198
         ]
       },
       {
         "location": [
-          14.270540142227187,
-          49.031541878826886
+          14.302161303924837,
+          49.030987856669356
         ],
         "pixel": [
-          1013,
-          1172
+          125,
+          107
         ]
       },
       {
         "location": [
-          14.474326181118542,
-          48.97455370428116
+          14.612850981584366,
+          49.01516961037001
         ],
         "pixel": [
-          3331,
-          2201
+          447,
+          135
         ]
       },
       {
         "location": [
-          14.641865402283965,
-          48.901124446314384
+          14.304965651759474,
+          48.90530508046257
         ],
         "pixel": [
-          5251,
-          3512
+          124,
+          306
+        ]
+      },
+      {
+        "location": [
+          14.724583848071712,
+          48.891268831088496
+        ],
+        "pixel": [
+          560,
+          335
+        ]
+      },
+      {
+        "location": [
+          14.714596098870905,
+          49.083541674049115
+        ],
+        "pixel": [
+          552,
+          27
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["[19--?]"]
 }

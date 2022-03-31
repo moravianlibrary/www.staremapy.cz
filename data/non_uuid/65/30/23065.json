@@ -1,0 +1,86 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Tachov_M_171/ImageProperties.xml",
+  "description": null,
+  "scale": 2945,
+  "external_id": "23065",
+  "title": "Mapa lesa Zeidlberg a Leiten",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/23065",
+  "id": "fff025b8-b407-5a7e-bf90-e31035eec808",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        21864,
+        0
+      ],
+      [
+        21864,
+        14441
+      ],
+      [
+        0,
+        14441
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        21864,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:02:22.555280+00:00",
+    "transformation_method": "affine",
+    "mapID": "fff025b8-b407-5a7e-bf90-e31035eec808",
+    "affine_transformation": null,
+    "changed": "2021-09-05T13:49:59.687256+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.613772959647086,
+          49.73899111078063
+        ],
+        "pixel": [
+          18317,
+          6842
+        ]
+      },
+      {
+        "location": [
+          12.625977010664853,
+          49.73937593135247
+        ],
+        "pixel": [
+          19505,
+          6645
+        ]
+      },
+      {
+        "location": [
+          12.620207522181127,
+          49.754968473680805
+        ],
+        "pixel": [
+          17546,
+          3717
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1750"]
+}

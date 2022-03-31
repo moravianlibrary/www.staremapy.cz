@@ -3,104 +3,124 @@
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:66859197-c0b2-11e6-bb3a-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa : barevná ; 57 x 38 cm na listu 67 x 49 cm",
-  "scale": 200000,
-  "external_id": "651373",
-  "title": "41°50° Sambor /",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:66859197-c0b2-11e6-bb3a-001b63bd97ba/ImageProperties.xml",
+  "description": "41°50° Sambor / K.u.k. Militärgeographisches Institut",
+  "scale": null,
+  "external_id": "uuid:66859197-c0b2-11e6-bb3a-001b63bd97ba",
+  "title": "41°50° Sambor / K.u.k. Militärgeographisches Institut",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
   "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:1298eb76-3003-11e6-ac61-9e71128cae77?page=uuid:66859197-c0b2-11e6-bb3a-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": null,
-  "link_url": "http://kramerius.cbvk.cz/search/handle/uuid:1298eb76-3003-11e6-ac61-9e71128cae77",
-  "id": "3e4c87ee-7b9d-51e4-a2f0-9f4a22c381e0",
+  "publisher": "K.u.k. Militärgeographisches Institut",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:1298eb76-3003-11e6-ac61-9e71128cae77?page=uuid:66859197-c0b2-11e6-bb3a-001b63bd97ba",
+  "id": "1cea63ae-27c3-4f4f-a859-4fe42f34c723",
   "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        5803,
-        0
+        517,
+        36
       ],
       [
-        5803,
-        7928
+        522,
+        400
       ],
       [
-        0,
-        7928
+        79,
+        400
       ],
       [
-        0,
-        0
+        83,
+        36
       ],
       [
-        5803,
-        0
+        517,
+        36
       ]
     ],
-    "created": "2018-01-08T15:42:56.952299+00:00",
+    "created": "2020-07-07T12:56:43.975605+00:00",
     "transformation_method": "affine",
-    "mapID": "3e4c87ee-7b9d-51e4-a2f0-9f4a22c381e0",
+    "mapID": "1cea63ae-27c3-4f4f-a859-4fe42f34c723",
     "affine_transformation": null,
-    "changed": "2021-01-10T17:31:06.885499+00:00",
+    "changed": "2020-07-07T12:56:43.975605+00:00",
     "gcps": [
       {
         "location": [
-          23.54927332622302,
-          50.20565835810706
+          23.23742879824398,
+          50.10831859219684
         ],
         "pixel": [
-          3822,
-          2557
+          258,
+          178
         ]
       },
       {
         "location": [
-          23.040236285860214,
-          50.15920771987874
+          23.380508555934398,
+          49.93859078040603
         ],
         "pixel": [
-          1674,
-          2860
+          321,
+          240
         ]
       },
       {
         "location": [
-          23.71763684715482,
-          49.83203474249632
+          23.60122274134762,
+          50.4491891107173
         ],
         "pixel": [
-          4542,
-          4989
+          416,
+          55
         ]
       },
       {
         "location": [
-          23.74831336852271,
-          49.7157154166824
+          22.87355016444336,
+          49.540017551435994
         ],
         "pixel": [
-          4669,
-          5749
+          98,
+          385
         ]
       },
       {
         "location": [
-          23.174563952910518,
-          49.56241928023104
+          23.617187249404253,
+          50.35837690043664
         ],
         "pixel": [
-          2231,
-          6743
+          424,
+          87
+        ]
+      },
+      {
+        "location": [
+          22.935004937392545,
+          50.46503604176422
+        ],
+        "pixel": [
+          129,
+          47
+        ]
+      },
+      {
+        "location": [
+          23.718619025501205,
+          49.59638463365803
+        ],
+        "pixel": [
+          472,
+          365
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["1909"]
 }

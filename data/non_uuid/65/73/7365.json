@@ -1,0 +1,116 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1489/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "7365",
+  "title": "Štipoklasy o. České Budějovice 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/7365",
+  "id": "fdd18573-b89b-5e31-8e64-3a4a7a856a71",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        800,
+        13424
+      ],
+      [
+        16576,
+        13424
+      ],
+      [
+        16576,
+        880
+      ],
+      [
+        800,
+        880
+      ],
+      [
+        800,
+        13424
+      ]
+    ],
+    "created": "2015-05-29T23:26:08.176480+00:00",
+    "transformation_method": "affine",
+    "mapID": "fdd18573-b89b-5e31-8e64-3a4a7a856a71",
+    "affine_transformation": null,
+    "changed": "2015-05-29T23:26:08.176480+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.486119252,
+          49.183633516
+        ],
+        "pixel": [
+          6421,
+          13071
+        ]
+      },
+      {
+        "location": [
+          14.50118491601237,
+          49.18754466567532
+        ],
+        "pixel": [
+          15318,
+          9405
+        ]
+      },
+      {
+        "location": [
+          14.488914113964166,
+          49.19297363360306
+        ],
+        "pixel": [
+          8002,
+          4548
+        ]
+      },
+      {
+        "location": [
+          14.480280034137877,
+          49.19256071637474
+        ],
+        "pixel": [
+          3523,
+          3791
+        ]
+      },
+      {
+        "location": [
+          14.495679571647864,
+          49.19176585556883
+        ],
+        "pixel": [
+          11989,
+          5604
+        ]
+      },
+      {
+        "location": [
+          14.488456382770776,
+          49.19661572694474
+        ],
+        "pixel": [
+          7707,
+          1224
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1887"]
+}

@@ -1,280 +1,133 @@
 {
-  "date": ["1911"],
+  "date": [null],
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:eb626bda-1662-11e5-9efe-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, černobílá, 60x48",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:eb626bda-1662-11e5-9efe-001b63bd97ba/ImageProperties.xml",
+  "description": "Nepomuk und Horažďowitz",
   "scale": null,
-  "external_id": "159297",
+  "external_id": "uuid:eb626bda-1662-11e5-9efe-001b63bd97ba",
   "title": "Nepomuk und Horažďowitz",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
   "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf55b03-00c9-11e5-b939-0800200c9a66?page=uuid:eb626bda-1662-11e5-9efe-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "K. u. k. Militärgeographisches Institut, Nachtr. 9. XII. 1911",
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MA_642_001.php",
-  "id": "11e62f9d-2c3d-54fa-9b70-6efd2647ef81",
-  "physical_size": [
-    60,
-    48
-  ],
+  "publisher": "K.u.k. militär-geographisches Institut",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf55b03-00c9-11e5-b939-0800200c9a66?page=uuid:eb626bda-1662-11e5-9efe-001b63bd97ba",
+  "id": "56f3d18f-ae5c-4c1d-8118-831db88b356f",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        6532,
-        1887
+        534,
+        57
       ],
       [
-        6530,
-        2453
+        534,
+        386
       ],
       [
-        6527,
-        2933
+        63,
+        385
       ],
       [
-        6525,
-        3382
+        66,
+        53
       ],
       [
-        6521,
-        3870
-      ],
-      [
-        6517,
-        4381
-      ],
-      [
-        6513,
-        4805
-      ],
-      [
-        6510,
-        5118
-      ],
-      [
-        5777,
-        5117
-      ],
-      [
-        5271,
-        5116
-      ],
-      [
-        4911,
-        5116
-      ],
-      [
-        4375,
-        5115
-      ],
-      [
-        3761,
-        5110
-      ],
-      [
-        3584,
-        5114
-      ],
-      [
-        3268,
-        5112
-      ],
-      [
-        2138,
-        5106
-      ],
-      [
-        1416,
-        5104
-      ],
-      [
-        845,
-        5101
-      ],
-      [
-        751,
-        5098
-      ],
-      [
-        763,
-        4176
-      ],
-      [
-        771,
-        3191
-      ],
-      [
-        787,
-        1550
-      ],
-      [
-        795,
-        695
-      ],
-      [
-        1132,
-        693
-      ],
-      [
-        1837,
-        699
-      ],
-      [
-        2127,
-        697
-      ],
-      [
-        2736,
-        696
-      ],
-      [
-        3508,
-        699
-      ],
-      [
-        3700,
-        701
-      ],
-      [
-        3998,
-        699
-      ],
-      [
-        4685,
-        703
-      ],
-      [
-        5374,
-        712
-      ],
-      [
-        5498,
-        711
-      ],
-      [
-        5552,
-        709
-      ],
-      [
-        5657,
-        712
-      ],
-      [
-        5878,
-        715
-      ],
-      [
-        6436,
-        716
-      ],
-      [
-        6533,
-        718
-      ],
-      [
-        6533,
-        1062
-      ],
-      [
-        6533,
-        1565
-      ],
-      [
-        6532,
-        1887
+        534,
+        57
       ]
     ],
-    "created": "2013-02-26T17:48:44.831080+00:00",
+    "created": "2020-07-07T12:51:42.402995+00:00",
     "transformation_method": "affine",
-    "mapID": "11e62f9d-2c3d-54fa-9b70-6efd2647ef81",
+    "mapID": "56f3d18f-ae5c-4c1d-8118-831db88b356f",
     "affine_transformation": null,
-    "changed": "2013-02-26T17:48:44.831080+00:00",
+    "changed": "2022-02-23T11:05:06.681815+00:00",
     "gcps": [
       {
         "location": [
-          13.702177977,
-          49.249404441
+          13.354923867383027,
+          49.44794735224539
         ],
         "pixel": [
-          5000,
-          5108
+          85,
+          121
         ]
       },
       {
         "location": [
-          13.788695311,
-          49.490529591
+          13.356890924663809,
+          49.418125688441705
         ],
         "pixel": [
-          6014,
-          875
+          86,
+          160
         ]
       },
       {
         "location": [
-          13.366954934,
-          49.264085702
+          13.403317904251796,
+          49.47959313853485
         ],
         "pixel": [
-          1150,
-          4833
+          131,
+          79
         ]
       },
       {
         "location": [
-          13.401277041,
-          49.481914938
+          13.811514496172464,
+          49.34818024832896
         ],
         "pixel": [
-          1568,
-          1001
+          515,
+          256
         ]
       },
       {
         "location": [
-          13.46812946403736,
-          49.39032530661953
+          13.78607750527943,
+          49.461614362190716
         ],
         "pixel": [
-          2320,
-          2615
+          492,
+          105
         ]
       },
       {
         "location": [
-          13.372748505,
-          49.258204213
+          13.354754269934844,
+          49.25707743895521
         ],
         "pixel": [
-          1197,
-          4937
+          83,
+          375
         ]
       },
       {
         "location": [
-          13.700075125,
-          49.345901369
+          13.827794008562154,
+          49.27467151709101
         ],
         "pixel": [
-          4980,
-          3407
+          530,
+          354
         ]
       },
       {
         "location": [
-          13.824272131,
-          49.268394109
+          13.552546053602995,
+          49.33426251534965
         ],
         "pixel": [
-          6402,
-          4781
+          271,
+          274
         ]
       }
     ]

@@ -1,0 +1,106 @@
+{
+  "date": ["1924"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.mzk.cz/search/iiif/uuid:6fd3b441-c3b7-4533-8319-5081280c3fe4/info.json",
+  "description": null,
+  "scale": 75000,
+  "external_id": "6fd3b441-c3b7-4533-8319-5081280c3fe4",
+  "title": "Svalava",
+  "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://www.digitalniknihovna.cz/mzk/view/uuid:4d43b8b7-40af-4524-8d7f-1a67f6f8dc3a?page=uuid:6fd3b441-c3b7-4533-8319-5081280c3fe4",
+  "id": "9bcce7b4-b5ee-5682-91f8-9c672f9bb05e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        12625,
+        1101
+      ],
+      [
+        12663,
+        9844
+      ],
+      [
+        1020,
+        9780
+      ],
+      [
+        1035,
+        1057
+      ],
+      [
+        12625,
+        1101
+      ]
+    ],
+    "created": "2018-12-19T14:27:52.977214+00:00",
+    "transformation_method": "affine",
+    "mapID": "9bcce7b4-b5ee-5682-91f8-9c672f9bb05e",
+    "affine_transformation": null,
+    "changed": "2021-03-19T12:30:29.589059+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.22010520208738,
+          48.4993640949931
+        ],
+        "pixel": [
+          10095,
+          9801
+        ]
+      },
+      {
+        "location": [
+          22.889184982666016,
+          48.53202759123704
+        ],
+        "pixel": [
+          2391,
+          8628
+        ]
+      },
+      {
+        "location": [
+          23.054988979602136,
+          48.63895071247555
+        ],
+        "pixel": [
+          6267,
+          4898
+        ]
+      },
+      {
+        "location": [
+          23.23641712752044,
+          48.71846312270401
+        ],
+        "pixel": [
+          10430,
+          2135
+        ]
+      },
+      {
+        "location": [
+          23.01497006440121,
+          48.746858188068245
+        ],
+        "pixel": [
+          5323,
+          1135
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

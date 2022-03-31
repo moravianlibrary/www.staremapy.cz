@@ -1,0 +1,113 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Zichovice_M_3/ImageProperties.xml",
+  "description": null,
+  "scale": 2610,
+  "external_id": "13754",
+  "title": "Mapa rozdělení pozemků",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/13754",
+  "id": "b944d277-26f7-5857-b9e6-1b919ccd4608",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        18080,
+        0
+      ],
+      [
+        18080,
+        6438
+      ],
+      [
+        0,
+        6438
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        18080,
+        0
+      ]
+    ],
+    "created": "2014-11-25T16:32:52.285290+00:00",
+    "transformation_method": "affine",
+    "mapID": "b944d277-26f7-5857-b9e6-1b919ccd4608",
+    "affine_transformation": [
+      0.19050162490699046,
+      -0.004273807159057445,
+      -0.004405874060447665,
+      -0.1847913029672136,
+      1518320.6129258045,
+      6320310.8084641555
+    ],
+    "changed": "2014-11-25T16:32:52.285290+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.660361053165605,
+          49.26262757167149
+        ],
+        "pixel": [
+          12545,
+          3897
+        ]
+      },
+      {
+        "location": [
+          13.663896869305962,
+          49.26204400217995
+        ],
+        "pixel": [
+          14384,
+          4305
+        ]
+      },
+      {
+        "location": [
+          13.668970266,
+          49.261973817
+        ],
+        "pixel": [
+          17416,
+          4378
+        ]
+      },
+      {
+        "location": [
+          13.651098114183654,
+          49.26626511701491
+        ],
+        "pixel": [
+          6905,
+          651
+        ]
+      },
+      {
+        "location": [
+          13.653775442049612,
+          49.264889077816065
+        ],
+        "pixel": [
+          8441,
+          1848
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1868"]
+}

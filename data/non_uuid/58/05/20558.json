@@ -1,0 +1,110 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plasy_M_141_9/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "20558",
+  "title": "Katastrální mapa obce Kralovice s osadou Týnice WC-VII 17 ah",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/20558",
+  "id": "dbc615ba-a0e3-58db-b03e-c9d6268f8ed6",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        2016,
+        1399
+      ],
+      [
+        17408,
+        1271
+      ],
+      [
+        17408,
+        11351
+      ],
+      [
+        5472,
+        13495
+      ],
+      [
+        1792,
+        14615
+      ],
+      [
+        2016,
+        1399
+      ]
+    ],
+    "created": "2014-12-11T17:24:14.931020+00:00",
+    "transformation_method": "affine",
+    "mapID": "dbc615ba-a0e3-58db-b03e-c9d6268f8ed6",
+    "affine_transformation": null,
+    "changed": "2014-12-11T17:24:14.931020+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.502457978,
+          49.967708211
+        ],
+        "pixel": [
+          15488,
+          7029
+        ]
+      },
+      {
+        "location": [
+          13.500913026,
+          49.964154068
+        ],
+        "pixel": [
+          11328,
+          10210
+        ]
+      },
+      {
+        "location": [
+          13.50483978,
+          49.964036742
+        ],
+        "pixel": [
+          15216,
+          10629
+        ]
+      },
+      {
+        "location": [
+          13.503445031,
+          49.967597795
+        ],
+        "pixel": [
+          15744,
+          7141
+        ]
+      },
+      {
+        "location": [
+          13.494218232,
+          49.963850401
+        ],
+        "pixel": [
+          1960,
+          8754
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1889"]
+}

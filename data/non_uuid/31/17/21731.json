@@ -1,0 +1,106 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Tachov_M_11_3/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "21731",
+  "title": "Katastrální mapa obce Horní Výšina",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/21731",
+  "id": "f761b8b9-9ed2-55cc-b645-143b5859f8e6",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        384,
+        15040
+      ],
+      [
+        12352,
+        15040
+      ],
+      [
+        12352,
+        640
+      ],
+      [
+        384,
+        640
+      ],
+      [
+        384,
+        15040
+      ]
+    ],
+    "created": "2015-04-26T12:55:45.795270+00:00",
+    "transformation_method": "affine",
+    "mapID": "f761b8b9-9ed2-55cc-b645-143b5859f8e6",
+    "affine_transformation": null,
+    "changed": "2015-04-26T12:55:45.795270+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.549136857,
+          49.852035126
+        ],
+        "pixel": [
+          10944,
+          5454
+        ]
+      },
+      {
+        "location": [
+          12.538230994,
+          49.84665642
+        ],
+        "pixel": [
+          4416,
+          10194
+        ]
+      },
+      {
+        "location": [
+          12.548544795,
+          49.847955311
+        ],
+        "pixel": [
+          10550,
+          9082
+        ]
+      },
+      {
+        "location": [
+          12.536709988,
+          49.84288959
+        ],
+        "pixel": [
+          3438,
+          13666
+        ]
+      },
+      {
+        "location": [
+          12.547371963,
+          49.84485762
+        ],
+        "pixel": [
+          9800,
+          12090
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1901"]
+}

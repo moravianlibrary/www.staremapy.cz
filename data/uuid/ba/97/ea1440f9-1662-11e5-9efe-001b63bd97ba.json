@@ -3,147 +3,114 @@
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:ea1440f9-1662-11e5-9efe-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, barevná, 58x45",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:ea1440f9-1662-11e5-9efe-001b63bd97ba/ImageProperties.xml",
+  "description": "Jindřichův Hradec",
   "scale": null,
-  "external_id": "160776",
+  "external_id": "uuid:ea1440f9-1662-11e5-9efe-001b63bd97ba",
   "title": "Jindřichův Hradec",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf55afb-00c9-11e5-b939-0800200c9a66?page=uuid:ea1440f9-1662-11e5-9efe-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "Vojenský zeměpisný ústav v Praze",
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MA_614_001.php",
-  "id": "c92efe0b-2574-579b-8dfe-24c261fbba01",
-  "physical_size": [
-    58,
-    45
-  ],
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf55afb-00c9-11e5-b939-0800200c9a66?page=uuid:ea1440f9-1662-11e5-9efe-001b63bd97ba",
+  "id": "90108f2f-2134-468e-a881-9186939e0b50",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        599,
-        4872
+        547,
+        38
       ],
       [
-        6391,
-        4880
+        547,
+        396
       ],
       [
-        6394,
-        469
+        52,
+        395
       ],
       [
-        635,
-        469
+        54,
+        38
       ],
       [
-        599,
-        4872
+        547,
+        38
       ]
     ],
-    "created": "2013-03-22T19:30:51.159880+00:00",
+    "created": "2020-07-07T12:51:44.557801+00:00",
     "transformation_method": "affine",
-    "mapID": "c92efe0b-2574-579b-8dfe-24c261fbba01",
+    "mapID": "90108f2f-2134-468e-a881-9186939e0b50",
     "affine_transformation": null,
-    "changed": "2013-03-22T19:30:51.159880+00:00",
+    "changed": "2020-07-07T12:51:44.557801+00:00",
     "gcps": [
       {
         "location": [
-          14.85852578,
-          49.186946999
+          15.001882274687954,
+          49.14751144701796
         ],
         "pixel": [
-          909,
-          1561
+          219,
+          182
         ]
       },
       {
         "location": [
-          15.264818048114279,
-          49.21819336151478
+          14.85148367806603,
+          49.24212256340118
         ],
         "pixel": [
-          5598,
-          1011
+          72,
+          48
         ]
       },
       {
         "location": [
-          14.996970681,
-          49.155325486
+          14.878240752429122,
+          49.02994582948406
         ],
         "pixel": [
-          2505,
-          2113
+          96,
+          350
         ]
       },
       {
         "location": [
-          14.882708577,
-          49.169230777
+          15.294251370638964,
+          49.22292098514251
         ],
         "pixel": [
-          1181,
-          1868
+          509,
+          76
         ]
       },
       {
         "location": [
-          15.117519883,
-          49.114611483
+          15.284501274169164,
+          49.02810603680828
         ],
         "pixel": [
-          3883,
-          2856
+          498,
+          353
         ]
       },
       {
         "location": [
-          14.958904771,
-          49.194267291
+          15.190334807379298,
+          49.11926167120268
         ],
         "pixel": [
-          2065,
-          1427
-        ]
-      },
-      {
-        "location": [
-          14.857790780508001,
-          49.034345536084146
-        ],
-        "pixel": [
-          880,
-          4234
-        ]
-      },
-      {
-        "location": [
-          14.96480150889686,
-          49.1155055616731
-        ],
-        "pixel": [
-          2129,
-          2824
-        ]
-      },
-      {
-        "location": [
-          15.2548255181671,
-          49.00313937766862
-        ],
-        "pixel": [
-          5467,
-          4797
+          405,
+          224
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["1925"]
 }

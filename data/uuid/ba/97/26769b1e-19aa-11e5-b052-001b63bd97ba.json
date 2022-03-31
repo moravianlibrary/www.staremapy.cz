@@ -3,227 +3,124 @@
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:26769b1e-19aa-11e5-b052-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, černobílá, 52x39,5",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:26769b1e-19aa-11e5-b052-001b63bd97ba/ImageProperties.xml",
+  "description": "Tabor",
   "scale": null,
-  "external_id": "63180",
+  "external_id": "uuid:26769b1e-19aa-11e5-b052-001b63bd97ba",
   "title": "Tabor",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5a928-00c9-11e5-b939-0800200c9a66?page=uuid:26769b1e-19aa-11e5-b052-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "R. Lechner (Wilh. Müller) k. u. k. Hof- u. Univ.- Buchhdlg.",
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MC_228_8_001.php",
-  "id": "29afb138-0ad3-5be8-88b8-c710ce8e1c01",
-  "physical_size": [
-    52,
-    39
-  ],
+  "publisher": "Rudolf Lechner's Universitäts-Buchhandlung",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5a928-00c9-11e5-b939-0800200c9a66?page=uuid:26769b1e-19aa-11e5-b052-001b63bd97ba",
+  "id": "91636242-1132-4e93-8d39-db62ca368f7a",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        8936,
-        199
+        582,
+        13
       ],
       [
-        8937,
-        6772
+        582,
+        424
       ],
       [
-        239,
-        6834
+        16,
+        428
       ],
       [
-        234,
-        246
+        17,
+        16
       ],
       [
-        8936,
-        199
+        582,
+        13
       ]
     ],
-    "created": "2013-02-26T17:48:25.087630+00:00",
+    "created": "2020-07-07T12:53:25.516208+00:00",
     "transformation_method": "affine",
-    "mapID": "29afb138-0ad3-5be8-88b8-c710ce8e1c01",
+    "mapID": "91636242-1132-4e93-8d39-db62ca368f7a",
     "affine_transformation": null,
-    "changed": "2013-02-26T17:48:25.087630+00:00",
+    "changed": "2020-07-07T12:53:25.516208+00:00",
     "gcps": [
       {
         "location": [
-          14.667347429,
-          49.432264793
+          14.704005183324824,
+          49.351677196071705
         ],
         "pixel": [
-          6041,
-          1958
+          436,
+          260
         ]
       },
       {
         "location": [
-          14.658260105,
-          49.414510919
+          14.351088166540189,
+          49.29271739915512
         ],
         "pixel": [
-          5875,
-          2409
+          36,
+          357
         ]
       },
       {
         "location": [
-          14.394350646,
-          49.496392983
+          14.359374040458002,
+          49.44959503834946
         ],
         "pixel": [
-          1297,
-          268
+          44,
+          95
         ]
       },
       {
         "location": [
-          14.335682689,
-          49.490204711
+          14.668225731194484,
+          49.473257593940644
         ],
         "pixel": [
-          278,
-          459
+          395,
+          56
         ]
       },
       {
         "location": [
-          14.468100702,
-          49.295187836
+          14.684884805524161,
+          49.385122737224805
         ],
         "pixel": [
-          2577,
-          5588
+          415,
+          202
         ]
       },
       {
         "location": [
-          14.658592699,
-          49.4446552
+          14.718774649301553,
+          49.259761619133684
         ],
         "pixel": [
-          5889,
-          1640
+          455,
+          409
         ]
       },
       {
         "location": [
-          14.655663727,
-          49.413638413
+          14.713496061960242,
+          49.26630102349142
         ],
         "pixel": [
-          5825,
-          2438
-        ]
-      },
-      {
-        "location": [
-          14.37270522,
-          49.490560139
-        ],
-        "pixel": [
-          911,
-          447
-        ]
-      },
-      {
-        "location": [
-          14.356577097,
-          49.479179912
-        ],
-        "pixel": [
-          640,
-          754
-        ]
-      },
-      {
-        "location": [
-          14.359310268,
-          49.449724716
-        ],
-        "pixel": [
-          681,
-          1525
-        ]
-      },
-      {
-        "location": [
-          14.377415179,
-          49.442090009
-        ],
-        "pixel": [
-          983,
-          1705
-        ]
-      },
-      {
-        "location": [
-          14.469441807,
-          49.291710234
-        ],
-        "pixel": [
-          2604,
-          5677
-        ]
-      },
-      {
-        "location": [
-          14.659107683,
-          49.43717668
-        ],
-        "pixel": [
-          5885,
-          1832
-        ]
-      },
-      {
-        "location": [
-          14.657305239,
-          49.409820144
-        ],
-        "pixel": [
-          5858,
-          2559
-        ]
-      },
-      {
-        "location": [
-          14.66743326,
-          49.403216002
-        ],
-        "pixel": [
-          6028,
-          2723
-        ]
-      },
-      {
-        "location": [
-          14.526090024,
-          49.486559675
-        ],
-        "pixel": [
-          3584,
-          548
-        ]
-      },
-      {
-        "location": [
-          14.71854415829279,
-          49.25886833855412
-        ],
-        "pixel": [
-          6973,
-          6506
+          452,
+          400
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["[1908?]"]
 }

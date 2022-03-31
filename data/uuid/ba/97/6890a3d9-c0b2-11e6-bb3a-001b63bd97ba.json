@@ -3,124 +3,164 @@
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:6890a3d9-c0b2-11e6-bb3a-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa : barevná ;",
-  "scale": 200000,
-  "external_id": "651380",
-  "title": "42°45° Râmnicu-Vâlcea /",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:6890a3d9-c0b2-11e6-bb3a-001b63bd97ba/ImageProperties.xml",
+  "description": "42°45° Râmnicu-Vâlcea / K.u.k. Militärgeographisches Institut",
+  "scale": null,
+  "external_id": "uuid:6890a3d9-c0b2-11e6-bb3a-001b63bd97ba",
+  "title": "42°45° Râmnicu-Vâlcea / K.u.k. Militärgeographisches Institut",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
   "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:1298f1b6-3003-11e6-ac61-9e71128cae77?page=uuid:6890a3d9-c0b2-11e6-bb3a-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": null,
-  "link_url": "http://kramerius.cbvk.cz/search/handle/uuid:1298f1b6-3003-11e6-ac61-9e71128cae77",
-  "id": "128f77ac-c74b-5ad3-bf40-237e95d34e8e",
+  "publisher": "K.u.k. Militärgeographisches Institut",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:1298f1b6-3003-11e6-ac61-9e71128cae77?page=uuid:6890a3d9-c0b2-11e6-bb3a-001b63bd97ba",
+  "id": "5435fd9b-9942-46ea-a4b9-5c5d1a508036",
   "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        5061,
-        456
+        550,
+        27
       ],
       [
-        5106,
-        6940
+        556,
+        401
       ],
       [
-        409,
-        6948
+        44,
+        401
       ],
       [
-        441,
-        468
+        48,
+        27
       ],
       [
-        5061,
-        456
+        550,
+        27
       ]
     ],
-    "created": "2018-01-08T15:42:56.952299+00:00",
+    "created": "2020-07-07T12:56:39.786536+00:00",
     "transformation_method": "affine",
-    "mapID": "128f77ac-c74b-5ad3-bf40-237e95d34e8e",
+    "mapID": "5435fd9b-9942-46ea-a4b9-5c5d1a508036",
     "affine_transformation": null,
-    "changed": "2021-05-17T14:41:29.717911+00:00",
+    "changed": "2021-06-09T07:04:42.006064+00:00",
     "gcps": [
       {
         "location": [
-          24.3725660413263,
-          45.10302206384722
+          24.24301030959122,
+          44.97744986795999
         ],
         "pixel": [
-          2938,
-          3083
+          260,
+          224
         ]
       },
       {
         "location": [
-          24.277775656078457,
-          45.33760929016569
+          24.06321172331426,
+          44.50942439115039
         ],
         "pixel": [
-          2531,
-          1506
+          166,
+          399
         ]
       },
       {
         "location": [
-          24.317435857680024,
-          44.66339919234795
+          24.2575972600772,
+          44.6625784343218
         ],
         "pixel": [
-          2686,
-          5949
+          261,
+          342
         ]
       },
       {
         "location": [
-          24.35505708606301,
-          45.23597724468826
+          24.030473532486063,
+          44.54673308927241
         ],
         "pixel": [
-          2807,
-          2162
+          149,
+          385
         ]
       },
       {
         "location": [
-          24.29167228059705,
-          45.369064290416134
+          24.635590468300297,
+          44.6013698808996
         ],
         "pixel": [
-          2595,
-          1310
+          456,
+          365
         ]
       },
       {
         "location": [
-          24.25803526406928,
-          44.662651550373795
+          23.83404487320546,
+          45.125146586800724
         ],
         "pixel": [
-          2397,
-          5931
+          51,
+          174
         ]
       },
       {
         "location": [
-          24.182003594721035,
-          44.94146572820884
+          23.95383212834131,
+          45.42137710413701
         ],
         "pixel": [
-          2088,
-          4127
+          109,
+          56
+        ]
+      },
+      {
+        "location": [
+          24.694132470779522,
+          45.35618394617404
+        ],
+        "pixel": [
+          484,
+          79
+        ]
+      },
+      {
+        "location": [
+          24.825871091017103,
+          44.75456731826631
+        ],
+        "pixel": [
+          550,
+          305
+        ]
+      },
+      {
+        "location": [
+          24.3809568275913,
+          45.104630299708134
+        ],
+        "pixel": [
+          324,
+          176
+        ]
+      },
+      {
+        "location": [
+          24.240220812215732,
+          44.97186378426761
+        ],
+        "pixel": [
+          257,
+          228
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["1915"]
 }

@@ -1,0 +1,106 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Tachov_M_41_3_6/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "36907",
+  "title": "Katastrální mapa obce Žebráky",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/36907",
+  "id": "bee69ca4-0ae3-5fc3-a54d-d322040d6cc3",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        657,
+        3795
+      ],
+      [
+        16865,
+        3795
+      ],
+      [
+        16865,
+        195
+      ],
+      [
+        657,
+        195
+      ],
+      [
+        657,
+        3795
+      ]
+    ],
+    "created": "2015-04-15T20:56:24.063870+00:00",
+    "transformation_method": "affine",
+    "mapID": "bee69ca4-0ae3-5fc3-a54d-d322040d6cc3",
+    "affine_transformation": null,
+    "changed": "2015-04-15T20:56:24.063870+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.511714102,
+          49.70339088
+        ],
+        "pixel": [
+          2779,
+          2654
+        ]
+      },
+      {
+        "location": [
+          12.513087393,
+          49.702738626
+        ],
+        "pixel": [
+          3571,
+          3270
+        ]
+      },
+      {
+        "location": [
+          12.515404822,
+          49.704848009
+        ],
+        "pixel": [
+          4931,
+          1454
+        ]
+      },
+      {
+        "location": [
+          12.530017496,
+          49.704112511
+        ],
+        "pixel": [
+          13531,
+          2198
+        ]
+      },
+      {
+        "location": [
+          12.532270552,
+          49.705639004
+        ],
+        "pixel": [
+          15091,
+          926
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1908"]
+}

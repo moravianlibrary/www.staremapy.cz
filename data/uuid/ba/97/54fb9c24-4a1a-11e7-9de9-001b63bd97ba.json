@@ -3,114 +3,104 @@
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:54fb9c24-4a1a-11e7-9de9-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa : barevná ; 39 x 49 cm na listu 47 x 63 cm",
-  "scale": 75000,
-  "external_id": "665872",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:54fb9c24-4a1a-11e7-9de9-001b63bd97ba/ImageProperties.xml",
+  "description": "Česká Lípa",
+  "scale": null,
+  "external_id": "uuid:54fb9c24-4a1a-11e7-9de9-001b63bd97ba",
   "title": "Česká Lípa",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
   "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:cb78feea-8f5b-472f-9df6-e79857065cde?page=uuid:54fb9c24-4a1a-11e7-9de9-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": null,
-  "link_url": "http://kramerius.cbvk.cz/search/handle/uuid:cb78feea-8f5b-472f-9df6-e79857065cde",
-  "id": "b4988600-6a89-54d4-8209-cf5d78068401",
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:cb78feea-8f5b-472f-9df6-e79857065cde?page=uuid:54fb9c24-4a1a-11e7-9de9-001b63bd97ba",
+  "id": "63dae2d5-25f0-4fba-937d-1ba660e7fb2d",
   "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        6535,
-        593
+        524,
+        44
       ],
       [
-        6539,
-        4899
+        525,
+        391
       ],
       [
-        1047,
-        4928
+        79,
+        391
       ],
       [
-        1094,
-        601
+        82,
+        44
       ],
       [
-        6535,
-        593
+        524,
+        44
       ]
     ],
-    "created": "2018-01-08T15:42:56.952299+00:00",
+    "created": "2020-07-07T12:58:16.845702+00:00",
     "transformation_method": "affine",
-    "mapID": "b4988600-6a89-54d4-8209-cf5d78068401",
+    "mapID": "63dae2d5-25f0-4fba-937d-1ba660e7fb2d",
     "affine_transformation": null,
-    "changed": "2021-12-27T19:51:46.667422+00:00",
+    "changed": "2020-07-07T12:58:16.845702+00:00",
     "gcps": [
       {
         "location": [
-          14.536888693586423,
-          50.68608821573844
+          14.79893826425834,
+          50.50366994538052
         ],
         "pixel": [
-          3277,
-          1664
+          494,
+          384
         ]
       },
       {
         "location": [
-          14.340438170196354,
-          50.526824042459
+          14.39612833006934,
+          50.71406896741726
         ],
         "pixel": [
-          1073,
-          4469
+          136,
+          92
         ]
       },
       {
         "location": [
-          14.775771422149491,
-          50.7290941771343
+          14.60251964937814,
+          50.61837758589871
         ],
         "pixel": [
-          5932,
-          906
+          319,
+          225
         ]
       },
       {
         "location": [
-          14.573375292683735,
-          50.50392464221832
+          14.798981461469678,
+          50.701733939059096
         ],
         "pixel": [
-          3669,
-          4875
+          493,
+          110
         ]
       },
       {
         "location": [
-          14.810816035394366,
-          50.50089836807271
+          14.37022463666195,
+          50.528312117767996
         ],
         "pixel": [
-          6316,
-          4931
-        ]
-      },
-      {
-        "location": [
-          14.72511539341551,
-          50.65714932674089
-        ],
-        "pixel": [
-          5364,
-          2176
+          111,
+          350
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["[1910?"]
 }

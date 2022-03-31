@@ -1,253 +1,132 @@
 {
-  "date": ["1938"],
+  "date": [null],
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:95347d01-18cf-11e5-8052-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, barevná, 84x69",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:95347d01-18cf-11e5-8052-001b63bd97ba/ImageProperties.xml",
+  "description": "Die Sudetenländer",
   "scale": null,
-  "external_id": "291903_1",
+  "external_id": "uuid:95347d01-18cf-11e5-8052-001b63bd97ba",
   "title": "Die Sudetenländer",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5f763-00c9-11e5-b939-0800200c9a66?page=uuid:95347d01-18cf-11e5-8052-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "Verlag von Velhagen & Klasing, Bielefeld und Leipzig",
-  "link_url": null,
-  "id": "da3daae0-7e98-53e9-b422-a57039b67b11",
-  "physical_size": [
-    84,
-    69
-  ],
+  "publisher": "Velhagen & Klasing",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5f763-00c9-11e5-b939-0800200c9a66?page=uuid:95347d01-18cf-11e5-8052-001b63bd97ba",
+  "id": "ea5c20fe-f433-4069-9910-0982877084fb",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        859,
-        7359
+        547,
+        52
       ],
       [
-        3789,
-        7345
+        547,
+        396
       ],
       [
-        3865,
-        7375
+        56,
+        396
       ],
       [
-        3881,
-        7358
+        48,
+        50
       ],
       [
-        3868,
-        7347
+        143,
+        49
       ],
       [
-        4038,
-        7347
+        153,
+        40
       ],
       [
-        4041,
-        7360
+        174,
+        40
       ],
       [
-        6854,
-        7338
+        181,
+        48
       ],
       [
-        9175,
-        7334
-      ],
-      [
-        9152,
-        858
-      ],
-      [
-        8809,
-        855
-      ],
-      [
-        6694,
-        857
-      ],
-      [
-        6669,
-        841
-      ],
-      [
-        6631,
-        801
-      ],
-      [
-        6555,
-        778
-      ],
-      [
-        6512,
-        750
-      ],
-      [
-        6289,
-        750
-      ],
-      [
-        6289,
-        766
-      ],
-      [
-        6169,
-        773
-      ],
-      [
-        6173,
-        810
-      ],
-      [
-        6293,
-        813
-      ],
-      [
-        6303,
-        857
-      ],
-      [
-        2966,
-        880
-      ],
-      [
-        2963,
-        865
-      ],
-      [
-        2988,
-        851
-      ],
-      [
-        2952,
-        787
-      ],
-      [
-        2824,
-        787
-      ],
-      [
-        2814,
-        773
-      ],
-      [
-        2589,
-        774
-      ],
-      [
-        2602,
-        811
-      ],
-      [
-        2542,
-        816
-      ],
-      [
-        2483,
-        846
-      ],
-      [
-        2445,
-        880
-      ],
-      [
-        1583,
-        885
-      ],
-      [
-        768,
-        892
-      ],
-      [
-        859,
-        7359
+        547,
+        52
       ]
     ],
-    "created": "2013-03-21T22:01:54.112310+00:00",
+    "created": "2020-07-07T12:52:30.219675+00:00",
     "transformation_method": "affine",
-    "mapID": "da3daae0-7e98-53e9-b422-a57039b67b11",
+    "mapID": "ea5c20fe-f433-4069-9910-0982877084fb",
     "affine_transformation": null,
-    "changed": "2013-03-21T22:01:54.112310+00:00",
+    "changed": "2020-07-07T12:52:30.219675+00:00",
     "gcps": [
       {
         "location": [
-          13.046758034739605,
-          47.79867063430433
+          14.538243780575582,
+          50.68617590303228
         ],
         "pixel": [
-          1873,
-          6478
+          217,
+          82
         ]
       },
       {
         "location": [
-          19.051961584555382,
-          47.50038412292082
+          12.640355596981873,
+          50.180575631864684
         ],
         "pixel": [
-          8897,
-          6948
+          90,
+          126
         ]
       },
       {
         "location": [
-          17.111529747258146,
-          48.14243341815157
+          15.801041860347603,
+          49.95091656638334
         ],
         "pixel": [
-          6576,
-          5905
+          302,
+          151
         ]
       },
       {
         "location": [
-          14.4268613369462,
-          50.09426599721317
+          15.161717901669334,
+          50.5851388966895
         ],
         "pixel": [
-          3503,
-          2522
+          258,
+          92
         ]
       },
       {
         "location": [
-          14.47442025647751,
-          48.974478233327545
+          14.28358069057359,
+          48.30933951928634
         ],
         "pixel": [
-          3540,
-          4484
+          199,
+          306
         ]
       },
       {
         "location": [
-          18.625483385127584,
-          49.74669904640689
+          19.122189132897915,
+          47.78005444221063
         ],
         "pixel": [
-          8209,
-          3077
-        ]
-      },
-      {
-        "location": [
-          16.16322353472446,
-          50.416381215100216
-        ],
-        "pixel": [
-          5420,
-          1970
+          538,
+          350
         ]
       }
     ]
   },
-  "pubdate": ["1938"]
+  "pubdate": ["[1938?]"]
 }

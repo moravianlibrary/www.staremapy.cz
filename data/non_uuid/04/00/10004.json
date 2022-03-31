@@ -1,0 +1,106 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_2659/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "10004",
+  "title": "Mapa nově vyměřených pozemků dvora Žimutice 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/10004",
+  "id": "73d985d8-1ad7-58bf-a877-4d41525c9a6d",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        16,
+        18080
+      ],
+      [
+        14896,
+        18080
+      ],
+      [
+        14896,
+        -64
+      ],
+      [
+        16,
+        -64
+      ],
+      [
+        16,
+        18080
+      ]
+    ],
+    "created": "2015-08-17T21:47:46.618720+00:00",
+    "transformation_method": "affine",
+    "mapID": "73d985d8-1ad7-58bf-a877-4d41525c9a6d",
+    "affine_transformation": null,
+    "changed": "2015-08-17T21:47:46.618720+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.514070522168389,
+          49.19507547708008
+        ],
+        "pixel": [
+          12406,
+          15472
+        ]
+      },
+      {
+        "location": [
+          14.499832423997393,
+          49.20252205744629
+        ],
+        "pixel": [
+          3983,
+          8871
+        ]
+      },
+      {
+        "location": [
+          14.494526434812048,
+          49.19820852509619
+        ],
+        "pixel": [
+          882,
+          12786
+        ]
+      },
+      {
+        "location": [
+          14.499945337471212,
+          49.20872495160995
+        ],
+        "pixel": [
+          4106,
+          3283
+        ]
+      },
+      {
+        "location": [
+          14.510194171244413,
+          49.20493141203434
+        ],
+        "pixel": [
+          10121,
+          6675
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1889"]
+}

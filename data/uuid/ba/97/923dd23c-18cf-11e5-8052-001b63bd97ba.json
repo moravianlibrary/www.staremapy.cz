@@ -1,161 +1,120 @@
 {
   "date": [null],
-  "creator": null,
+  "creator": "Srp, Jan",
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:923dd23c-18cf-11e5-8052-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, černobílá, 28,5x21",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:923dd23c-18cf-11e5-8052-001b63bd97ba/ImageProperties.xml",
+  "description": "Politický okres Strakonický",
   "scale": null,
-  "external_id": "241288",
+  "external_id": "uuid:923dd23c-18cf-11e5-8052-001b63bd97ba",
   "title": "Politický okres Strakonický",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf50ceb-00c9-11e5-b939-0800200c9a66?page=uuid:923dd23c-18cf-11e5-8052-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "Nákladem Jos. R. Vilímka v Praze",
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MA_1528_001.php",
-  "id": "7ea7e16a-09ba-5de3-8bb9-7d0c931395f7",
-  "physical_size": [
-    28,
-    21
-  ],
+  "publisher": "Jos. R. Vilímek",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf50ceb-00c9-11e5-b939-0800200c9a66?page=uuid:923dd23c-18cf-11e5-8052-001b63bd97ba",
+  "id": "26228949-173b-4d56-9385-a7edf249d864",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        6405,
-        902
+        568,
+        45
       ],
       [
-        6395,
-        4096
+        568,
+        389
       ],
       [
-        6402,
-        6338
+        36,
+        388
       ],
       [
-        6418,
-        8070
+        34,
+        321
       ],
       [
-        4380,
-        8068
+        38,
+        44
       ],
       [
-        1708,
-        8059
-      ],
-      [
-        383,
-        8052
-      ],
-      [
-        393,
-        6737
-      ],
-      [
-        416,
-        4770
-      ],
-      [
-        388,
-        875
-      ],
-      [
-        2716,
-        877
-      ],
-      [
-        5150,
-        893
-      ],
-      [
-        6405,
-        902
+        568,
+        45
       ]
     ],
-    "created": "2013-02-26T18:56:38.294130+00:00",
+    "created": "2020-07-07T12:52:25.303087+00:00",
     "transformation_method": "affine",
-    "mapID": "7ea7e16a-09ba-5de3-8bb9-7d0c931395f7",
+    "mapID": "26228949-173b-4d56-9385-a7edf249d864",
     "affine_transformation": null,
-    "changed": "2013-02-26T18:56:38.294130+00:00",
+    "changed": "2020-07-07T12:52:25.303087+00:00",
     "gcps": [
       {
         "location": [
-          14.033732669,
-          49.34025034
+          13.556107723575812,
+          49.144527473409084
         ],
         "pixel": [
-          5721,
-          3219
+          36,
+          321
         ]
       },
       {
         "location": [
-          13.75957348,
-          49.42684611
+          13.700332597089856,
+          49.32151507626321
         ],
         "pixel": [
-          2681,
-          1711
+          180,
+          173
         ]
       },
       {
         "location": [
-          13.64459407,
-          49.111869074
+          13.90272366365789,
+          49.26106390988372
         ],
         "pixel": [
-          1281,
-          7111
+          385,
+          221
         ]
       },
       {
         "location": [
-          13.6405084,
-          49.0904957
+          13.88624417147039,
+          49.166870213004216
         ],
         "pixel": [
-          1419,
-          7601
+          367,
+          301
         ]
       },
       {
         "location": [
-          14.070571777,
-          49.06538363
+          13.741646394867455,
+          49.46346774491562
         ],
         "pixel": [
-          6223,
-          8011
+          218,
+          51
         ]
       },
       {
         "location": [
-          13.700942781881437,
-          49.320615424286814
+          14.03690396322683,
+          49.42775286463325
         ],
         "pixel": [
-          2028,
-          3565
-        ]
-      },
-      {
-        "location": [
-          13.902499958815996,
-          49.261222518459164
-        ],
-        "pixel": [
-          4296,
-          4567
+          514,
+          81
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["[19--]"]
 }

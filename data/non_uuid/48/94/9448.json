@@ -1,0 +1,109 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_2103/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "9448",
+  "title": "Hospodářská mapa polesí Val 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/9448",
+  "id": "b93ee85e-653c-573a-b917-579256145f0f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        14731,
+        0
+      ],
+      [
+        14731,
+        18448
+      ],
+      [
+        0,
+        18448
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        14731,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:16:49.391940+00:00",
+    "transformation_method": "affine",
+    "mapID": "b93ee85e-653c-573a-b917-579256145f0f",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:16:49.391940+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.724633714775987,
+          49.193862684277406
+        ],
+        "pixel": [
+          5105,
+          10455
+        ]
+      },
+      {
+        "location": [
+          14.724231383423753,
+          49.1937557616468
+        ],
+        "pixel": [
+          4900,
+          10573
+        ]
+      },
+      {
+        "location": [
+          14.7370863096742,
+          49.202324307535804
+        ],
+        "pixel": [
+          11827,
+          2300
+        ]
+      },
+      {
+        "location": [
+          14.724598846058791,
+          49.19356470260024
+        ],
+        "pixel": [
+          5095,
+          10732
+        ]
+      },
+      {
+        "location": [
+          14.718654269551568,
+          49.18911750231169
+        ],
+        "pixel": [
+          2063,
+          15038
+        ]
+      }
+    ]
+  },
+  "pubdate": [
+    "1919",
+    "1920"
+  ]
+}

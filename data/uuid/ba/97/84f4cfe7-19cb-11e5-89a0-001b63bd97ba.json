@@ -1,173 +1,128 @@
 {
   "date": [null],
-  "creator": null,
+  "creator": "Bělohlav, Josef",
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:84f4cfe7-19cb-11e5-89a0-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, barevná, 46x39,5",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:84f4cfe7-19cb-11e5-89a0-001b63bd97ba/ImageProperties.xml",
+  "description": "Veselí - Lomnice - Hluboká",
   "scale": null,
-  "external_id": "m0316939",
+  "external_id": "uuid:84f4cfe7-19cb-11e5-89a0-001b63bd97ba",
   "title": "Veselí - Lomnice - Hluboká",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
   "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5a938-00c9-11e5-b939-0800200c9a66?page=uuid:84f4cfe7-19cb-11e5-89a0-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "F. Topič, knihkupec v Praze",
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MC_268_60_001.php",
-  "id": "4f8e5293-07e3-5907-8797-cea9a870d141",
-  "physical_size": [
-    46,
-    39
-  ],
+  "publisher": "F. Topič",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5a938-00c9-11e5-b939-0800200c9a66?page=uuid:84f4cfe7-19cb-11e5-89a0-001b63bd97ba",
+  "id": "9f3c91ee-ec67-4f69-98c2-ba1cac4852ef",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        602,
-        851
+        541,
+        59
       ],
       [
-        574,
-        6103
+        540,
+        383
       ],
       [
-        7446,
-        6147
+        283,
+        382
       ],
       [
-        7434,
-        947
+        41,
+        380
       ],
       [
-        7430,
-        943
+        43,
+        53
       ],
       [
-        7406,
-        943
+        140,
+        55
       ],
       [
-        7406,
-        943
+        267,
+        57
       ],
       [
-        7394,
-        947
-      ],
-      [
-        7394,
-        947
-      ],
-      [
-        7250,
-        947
-      ],
-      [
-        602,
-        851
+        541,
+        59
       ]
     ],
-    "created": "2013-03-21T20:33:17.796580+00:00",
+    "created": "2020-07-07T12:50:06.223404+00:00",
     "transformation_method": "affine",
-    "mapID": "4f8e5293-07e3-5907-8797-cea9a870d141",
+    "mapID": "9f3c91ee-ec67-4f69-98c2-ba1cac4852ef",
     "affine_transformation": null,
-    "changed": "2013-03-21T20:33:17.796580+00:00",
+    "changed": "2022-01-06T12:15:51.474531+00:00",
     "gcps": [
       {
         "location": [
-          14.572363469,
-          49.100097571
+          14.620566938260245,
+          49.01504342105389
         ],
         "pixel": [
-          4666,
-          3511
+          397,
+          356
         ]
       },
       {
         "location": [
-          14.37057552,
-          49.08967198
+          14.34745928550211,
+          49.1958962557398
         ],
         "pixel": [
-          1206,
-          3768
+          60,
+          57
         ]
       },
       {
         "location": [
-          14.351993176,
-          49.192314904
+          14.716542071308908,
+          49.189183505996255
         ],
         "pixel": [
-          912,
-          1031
+          520,
+          74
         ]
       },
       {
         "location": [
-          14.713211628,
-          49.084697274
+          14.385855359261628,
+          49.01396944325549
         ],
         "pixel": [
-          7069,
-          3921
+          107,
+          356
         ]
       },
       {
         "location": [
-          14.70591602,
-          49.180954919
+          14.544077656103255,
+          49.08834124231342
         ],
         "pixel": [
-          6967,
-          1394
+          302,
+          238
         ]
       },
       {
         "location": [
-          14.526100728,
-          49.180085282
+          14.452617381323192,
+          49.12912240213285
         ],
         "pixel": [
-          3883,
-          1413
-        ]
-      },
-      {
-        "location": [
-          14.430227849,
-          49.042659395
-        ],
-        "pixel": [
-          2198,
-          4988
-        ]
-      },
-      {
-        "location": [
-          14.358559224,
-          49.123217144
-        ],
-        "pixel": [
-          1021,
-          2885
-        ]
-      },
-      {
-        "location": [
-          14.608240696,
-          49.015984173
-        ],
-        "pixel": [
-          5252,
-          5692
+          190,
+          170
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["1912"]
 }

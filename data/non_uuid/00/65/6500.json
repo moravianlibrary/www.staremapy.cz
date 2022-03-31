@@ -1,0 +1,106 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/huav/III_vojenske_mapovani/25/4563_1_01/ImageProperties.xml",
+  "description": null,
+  "scale": 25000,
+  "external_id": "6500",
+  "title": "III. vojenské mapování 4563/1",
+  "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/6500",
+  "id": "239603e4-cf8c-5406-86f4-ce752ff05873",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        45,
+        9021
+      ],
+      [
+        11693,
+        9021
+      ],
+      [
+        11693,
+        125
+      ],
+      [
+        45,
+        125
+      ],
+      [
+        45,
+        9021
+      ]
+    ],
+    "created": "2014-11-29T09:31:40.711760+00:00",
+    "transformation_method": "affine",
+    "mapID": "239603e4-cf8c-5406-86f4-ce752ff05873",
+    "affine_transformation": null,
+    "changed": "2020-12-26T20:55:55.528599+00:00",
+    "gcps": [
+      {
+        "location": [
+          19.461870626,
+          48.686146034
+        ],
+        "pixel": [
+          6163,
+          4664
+        ]
+      },
+      {
+        "location": [
+          19.403250948,
+          48.666989964
+        ],
+        "pixel": [
+          3406,
+          5864
+        ]
+      },
+      {
+        "location": [
+          19.358661905,
+          48.746938091
+        ],
+        "pixel": [
+          1400,
+          384
+        ]
+      },
+      {
+        "location": [
+          19.484081999,
+          48.637051112
+        ],
+        "pixel": [
+          7116,
+          8084
+        ]
+      },
+      {
+        "location": [
+          19.533743098,
+          48.693440994
+        ],
+        "pixel": [
+          9457,
+          4160
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

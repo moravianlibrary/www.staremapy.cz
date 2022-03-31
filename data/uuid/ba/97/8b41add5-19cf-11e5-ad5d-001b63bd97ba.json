@@ -1,129 +1,110 @@
 {
   "date": [null],
-  "creator": null,
+  "creator": "Bělohlav, Josef",
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:8b41add5-19cf-11e5-ad5d-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, barevná, 46x39",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:8b41add5-19cf-11e5-ad5d-001b63bd97ba/ImageProperties.xml",
+  "description": "Suchdol n. Lužnicí",
   "scale": null,
-  "external_id": "m0279450",
+  "external_id": "uuid:8b41add5-19cf-11e5-ad5d-001b63bd97ba",
   "title": "Suchdol n. Lužnicí",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5a93d-00c9-11e5-b939-0800200c9a66?page=uuid:8b41add5-19cf-11e5-ad5d-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "F. Topič, knihkupec v Praze",
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MC_268_74_001.php",
-  "id": "e58b64c8-68c5-5143-bf7b-bbe2e082f6d8",
-  "physical_size": [
-    46,
-    39
-  ],
+  "publisher": "F. Topič",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5a93d-00c9-11e5-b939-0800200c9a66?page=uuid:8b41add5-19cf-11e5-ad5d-001b63bd97ba",
+  "id": "86fa75a7-b1fb-45fd-bf1f-2b559e557400",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        616,
-        920
+        537,
+        56
       ],
       [
-        7424,
-        912
+        540,
+        380
       ],
       [
-        7448,
-        6080
+        44,
+        382
       ],
       [
-        612,
-        6126
+        42,
+        56
       ],
       [
-        616,
-        920
+        291,
+        57
+      ],
+      [
+        537,
+        56
       ]
     ],
-    "created": "2013-03-22T18:50:52.803110+00:00",
+    "created": "2020-07-07T12:50:24.267683+00:00",
     "transformation_method": "affine",
-    "mapID": "e58b64c8-68c5-5143-bf7b-bbe2e082f6d8",
+    "mapID": "86fa75a7-b1fb-45fd-bf1f-2b559e557400",
     "affine_transformation": null,
-    "changed": "2013-03-22T18:50:52.803110+00:00",
+    "changed": "2020-07-07T12:50:24.267683+00:00",
     "gcps": [
       {
         "location": [
-          14.952475462,
-          48.962363619
+          14.920394574537465,
+          48.918731893897444
         ],
         "pixel": [
-          4360,
-          1868
+          275,
+          187
         ]
       },
       {
         "location": [
-          14.862414916,
-          48.959711467
+          14.808202024465135,
+          48.98991392395473
         ],
         "pixel": [
-          2836,
-          1968
+          135,
+          72
         ]
       },
       {
         "location": [
-          14.933225162,
-          48.87885866
+          14.769913073081774,
+          48.82503559175757
         ],
         "pixel": [
-          4048,
-          4032
+          88,
+          340
         ]
       },
       {
         "location": [
-          14.76893912,
-          48.910408056
+          15.123265881075016,
+          48.864299447565855
         ],
         "pixel": [
-          1193,
-          3235
+          526,
+          274
         ]
       },
       {
         "location": [
-          14.754963137,
-          48.84608206
+          15.105226632638065,
+          48.97870763771547
         ],
         "pixel": [
-          963,
-          4927
-        ]
-      },
-      {
-        "location": [
-          15.121803846,
-          48.864415592
-        ],
-        "pixel": [
-          7249,
-          4393
-        ]
-      },
-      {
-        "location": [
-          15.046157199,
-          48.944314686
-        ],
-        "pixel": [
-          5976,
-          2328
+          501,
+          89
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["[191-]"]
 }

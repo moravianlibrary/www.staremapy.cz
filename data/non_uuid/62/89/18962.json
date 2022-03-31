@@ -1,0 +1,109 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Bor_M_1/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "18962",
+  "title": "Katastrální mapa města Bor",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/18962",
+  "id": "719548a1-f513-5ff2-83ca-8d1b74981db6",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        10735,
+        0
+      ],
+      [
+        10735,
+        18817
+      ],
+      [
+        0,
+        18817
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        10735,
+        0
+      ]
+    ],
+    "created": "2014-11-25T16:32:21.699710+00:00",
+    "transformation_method": "affine",
+    "mapID": "719548a1-f513-5ff2-83ca-8d1b74981db6",
+    "affine_transformation": null,
+    "changed": "2014-11-25T16:32:21.699710+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.745478034,
+          49.717913796
+        ],
+        "pixel": [
+          10059,
+          5027
+        ]
+      },
+      {
+        "location": [
+          12.732130369843192,
+          49.70985724153667
+        ],
+        "pixel": [
+          2111,
+          12242
+        ]
+      },
+      {
+        "location": [
+          12.73291502537457,
+          49.70908546553488
+        ],
+        "pixel": [
+          2564,
+          12935
+        ]
+      },
+      {
+        "location": [
+          12.74552939489747,
+          49.71854550645659
+        ],
+        "pixel": [
+          10068,
+          4461
+        ]
+      },
+      {
+        "location": [
+          12.73997539147263,
+          49.70584866883229
+        ],
+        "pixel": [
+          6684,
+          15958
+        ]
+      }
+    ]
+  },
+  "pubdate": [
+    "1880",
+    "1900"
+  ]
+}

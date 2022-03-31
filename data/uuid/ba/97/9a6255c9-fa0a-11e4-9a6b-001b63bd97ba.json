@@ -1,148 +1,176 @@
 {
   "date": [null],
-  "creator": null,
+  "creator": "Danckerts, Justus",
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:9a6255c9-fa0a-11e4-9a6b-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa : 48 x 57 cm",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:9a6255c9-fa0a-11e4-9a6b-001b63bd97ba/ImageProperties.xml",
+  "description": "Circuli Austriaci in que sunt Archiducatus Austriae",
   "scale": null,
-  "external_id": "97613",
-  "title": "Circuli Austriaci in que sunt Archiducatus Austriae ...",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "external_id": "uuid:9a6255c9-fa0a-11e4-9a6b-001b63bd97ba",
+  "title": "Circuli Austriaci in que sunt Archiducatus Austriae",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b2b2f8-c66b-11e4-8731-1681e6b88ec1?page=uuid:9a6255c9-fa0a-11e4-9a6b-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "per Iustinum Danckerts,",
-  "link_url": "http://kramerius.cbvk.cz/search/handle/uuid:16b2b2f8-c66b-11e4-8731-1681e6b88ec1",
-  "id": "3b81a3fc-9296-580f-b243-f4cd6394cc21",
+  "publisher": "Danckerts, Justus",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b2b2f8-c66b-11e4-8731-1681e6b88ec1?page=uuid:9a6255c9-fa0a-11e4-9a6b-001b63bd97ba",
+  "id": "3543d73b-1a10-4645-a453-e8c7789f4973",
   "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        638,
-        708
+        600,
+        0
       ],
       [
-        2273,
-        686
+        600,
+        443
       ],
       [
-        2270,
-        1945
+        0,
+        443
       ],
       [
-        1931,
-        1952
+        0,
+        0
       ],
       [
-        1476,
-        1952
-      ],
-      [
-        978,
-        1960
-      ],
-      [
-        643,
-        1961
-      ],
-      [
-        638,
-        708
+        600,
+        0
       ]
     ],
-    "created": "2019-01-15T06:56:19.405063+00:00",
+    "created": "2020-07-07T12:44:21.999468+00:00",
     "transformation_method": "affine",
-    "mapID": "3b81a3fc-9296-580f-b243-f4cd6394cc21",
+    "mapID": "3543d73b-1a10-4645-a453-e8c7789f4973",
     "affine_transformation": null,
-    "changed": "2019-01-15T06:56:19.405063+00:00",
+    "changed": "2020-07-07T12:44:21.999468+00:00",
     "gcps": [
       {
         "location": [
-          11.65662254063739,
-          46.715165744891834
+          16.37121649062202,
+          48.20998630735983
         ],
         "pixel": [
-          1755,
-          1364
+          461,
+          86
         ]
       },
       {
         "location": [
-          11.736118321436654,
-          45.76796921351857
+          16.5269368044542,
+          47.84700068240613
         ],
         "pixel": [
-          1899,
-          1870
+          483,
+          127
         ]
       },
       {
         "location": [
-          10.060385317233424,
-          46.16309326977017
+          16.8415269049616,
+          47.94631480673604
         ],
         "pixel": [
-          833,
-          1722
+          516,
+          120
         ]
       },
       {
         "location": [
-          11.348911320127021,
-          46.498775164094525
+          16.780381446409322,
+          48.02303379752408
         ],
         "pixel": [
-          1530,
-          1515
+          504,
+          111
         ]
       },
       {
         "location": [
-          11.122945028567583,
-          46.066187353164
+          13.66299445007221,
+          45.539805898004715
         ],
         "pixel": [
-          1452,
-          1793
+          253,
+          356
         ]
       },
       {
         "location": [
-          12.236837994738943,
-          45.66956385348473
+          13.606265293403377,
+          45.53559210769134
         ],
         "pixel": [
-          2042,
-          1911
+          246,
+          355
         ]
       },
       {
         "location": [
-          9.754946225489137,
-          47.504946730746184
+          13.568668187873124,
+          45.5265331522223
         ],
         "pixel": [
-          734,
-          898
+          238,
+          357
         ]
       },
       {
         "location": [
-          11.391146907826773,
-          47.268761981763106
+          13.727208916735067,
+          45.54851299808129
         ],
         "pixel": [
-          1685,
-          1094
+          259,
+          347
+        ]
+      },
+      {
+        "location": [
+          13.764883761565365,
+          45.646561502242974
+        ],
+        "pixel": [
+          259,
+          334
+        ]
+      },
+      {
+        "location": [
+          13.037687954862133,
+          47.804881138925964
+        ],
+        "pixel": [
+          115,
+          150
+        ]
+      },
+      {
+        "location": [
+          15.434972295372924,
+          47.07083730123523
+        ],
+        "pixel": [
+          384,
+          199
+        ]
+      },
+      {
+        "location": [
+          15.27682679003714,
+          47.41187243260717
+        ],
+        "pixel": [
+          358,
+          170
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["[16--]"]
 }

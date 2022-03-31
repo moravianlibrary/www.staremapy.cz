@@ -1,207 +1,144 @@
 {
-  "date": [
-    "1930",
-    "1939"
-  ],
+  "date": [null],
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:e46bb24e-191c-11e5-a619-001b63bd97ba/ImageProperties.xml",
-  "description": "4 mapy, barevné, 104x78",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:e46bb24e-191c-11e5-a619-001b63bd97ba/ImageProperties.xml",
+  "description": "Autostrassenkarte Oesterreich",
   "scale": null,
-  "external_id": "m0017792_1",
-  "title": "Autostrassenkarte Oesterreich It. Uebersichtkarte",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
+  "external_id": "uuid:e46bb24e-191c-11e5-a619-001b63bd97ba",
+  "title": "Autostrassenkarte Oesterreich",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
   "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf61e47-00c9-11e5-b939-0800200c9a66?page=uuid:e46bb24e-191c-11e5-a619-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "Verlagsanstalt Moldavia B. Budweis",
-  "link_url": null,
-  "id": "4cd67717-2325-5324-b781-67f6860d23a5",
-  "physical_size": [
-    104,
-    78
-  ],
+  "publisher": "B. Budweis: Moldavia",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf61e47-00c9-11e5-b939-0800200c9a66?page=uuid:e46bb24e-191c-11e5-a619-001b63bd97ba",
+  "id": "82718062-e4ff-4928-bacb-a2bc05c63473",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        7871,
-        6255
+        576,
+        10
       ],
       [
-        7836,
-        155
+        579,
+        426
       ],
       [
-        687,
-        173
+        393,
+        427
       ],
       [
-        627,
-        6325
+        297,
+        429
       ],
       [
-        1361,
-        6337
+        47,
+        428
       ],
       [
-        1379,
-        6250
+        51,
+        12
       ],
       [
-        2740,
-        6257
-      ],
-      [
-        2770,
-        6303
-      ],
-      [
-        5440,
-        6293
-      ],
-      [
-        5464,
-        6251
-      ],
-      [
-        6660,
-        6247
-      ],
-      [
-        7170,
-        6265
-      ],
-      [
-        7871,
-        6255
+        576,
+        10
       ]
     ],
-    "created": "2013-03-21T12:21:33.641800+00:00",
+    "created": "2020-07-07T12:52:48.249204+00:00",
     "transformation_method": "affine",
-    "mapID": "4cd67717-2325-5324-b781-67f6860d23a5",
+    "mapID": "82718062-e4ff-4928-bacb-a2bc05c63473",
     "affine_transformation": null,
-    "changed": "2022-03-23T20:53:35.166046+00:00",
+    "changed": "2022-02-23T14:02:53.689487+00:00",
     "gcps": [
       {
         "location": [
-          16.24545807,
-          47.813064505
+          16.243110304551674,
+          47.81394935572732
         ],
         "pixel": [
-          5051,
-          5184
+          371,
+          355
         ]
       },
       {
         "location": [
-          16.467733383,
-          48.294787139
+          16.59741938658292,
+          47.67728137008211
         ],
         "pixel": [
-          5697,
-          3095
+          444,
+          389
         ]
       },
       {
         "location": [
-          17.01642189154516,
-          48.43854173170436
+          14.891247031406065,
+          48.700507567166454
         ],
         "pixel": [
-          7427,
-          2470
+          64,
+          92
         ]
       },
       {
         "location": [
-          14.829592773896948,
-          48.397333148884485
+          14.984929870046802,
+          47.66494633165465
         ],
         "pixel": [
-          706,
-          2619
+          79,
+          400
         ]
       },
       {
         "location": [
-          14.901185455682654,
-          47.710775100556816
+          17.020817741856202,
+          48.43270715160165
         ],
         "pixel": [
-          827,
-          5644
+          547,
+          169
         ]
       },
       {
         "location": [
-          16.061325073,
-          48.84266219
+          16.051147065943645,
+          48.85436745521872
         ],
         "pixel": [
-          4479,
-          752
+          327,
+          47
         ]
       },
       {
         "location": [
-          15.285158157,
-          48.14275306
+          17.02736650944858,
+          47.59173404799989
         ],
         "pixel": [
-          2063,
-          3750
+          552,
+          418
         ]
       },
       {
         "location": [
-          16.93604803665493,
-          47.72510129764515
+          16.79493700505405,
+          47.62066853585111
         ],
         "pixel": [
-          7246,
-          5537
-        ]
-      },
-      {
-        "location": [
-          16.896094223853332,
-          48.84714278602422
-        ],
-        "pixel": [
-          7072,
-          730
-        ]
-      },
-      {
-        "location": [
-          14.922840392027336,
-          48.81187310281766
-        ],
-        "pixel": [
-          937,
-          879
-        ]
-      },
-      {
-        "location": [
-          15.405305675918573,
-          47.64863792433155
-        ],
-        "pixel": [
-          2396,
-          5852
+          490,
+          408
         ]
       }
     ]
   },
-  "pubdate": [
-    "1930",
-    "1939"
-  ]
+  "pubdate": ["[193-?]"]
 }

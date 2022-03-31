@@ -1,202 +1,131 @@
 {
-  "date": ["1792"],
-  "creator": null,
+  "date": [null],
+  "creator": "Walch, Johann",
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:7cd2a4ee-fa4e-11e4-9633-001b63bd97ba/ImageProperties.xml",
-  "description": "2 mapy : 52,5 x 44,5 cm",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:7cd2a4ee-fa4e-11e4-9633-001b63bd97ba/ImageProperties.xml",
+  "description": "Carte general de toute l´Europe, presente sur six feuilies",
   "scale": null,
-  "external_id": "0088957_1",
-  "title": "Carte general de toute l ́Europe, presente sur six feuilies",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "external_id": "uuid:7cd2a4ee-fa4e-11e4-9633-001b63bd97ba",
+  "title": "Carte general de toute l´Europe, presente sur six feuilies",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b17e38-c66b-11e4-8731-1681e6b88ec1?page=uuid:7cd2a4ee-fa4e-11e4-9633-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "Augsbourg : J. M. Witt, 1792",
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy2/2683920046_0279.html",
-  "id": "fa02fea8-bfcf-5192-8b2d-fb579c1a0ee9",
-  "physical_size": [
-    52,
-    44
-  ],
+  "publisher": "Witt J. M.",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b17e38-c66b-11e4-8731-1681e6b88ec1?page=uuid:7cd2a4ee-fa4e-11e4-9633-001b63bd97ba",
+  "id": "0ca49f10-3b6e-4ae0-8fbd-e611bfa13b34",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        5625,
-        617
+        504,
+        34
       ],
       [
-        5656,
-        3124
+        508,
+        282
       ],
       [
-        5320,
-        3345
+        356,
+        287
       ],
       [
-        5308,
-        3798
+        337,
+        368
       ],
       [
-        4640,
-        4093
+        62,
+        371
       ],
       [
-        4632,
-        4666
+        54,
+        37
       ],
       [
-        4552,
-        4925
-      ],
-      [
-        3816,
-        5065
-      ],
-      [
-        2956,
-        6006
-      ],
-      [
-        2347,
-        6134
-      ],
-      [
-        2189,
-        6839
-      ],
-      [
-        644,
-        6859
-      ],
-      [
-        584,
-        657
-      ],
-      [
-        5625,
-        617
+        504,
+        34
       ]
     ],
-    "created": "2013-02-26T18:59:00.127720+00:00",
+    "created": "2020-07-07T12:44:18.083824+00:00",
     "transformation_method": "affine",
-    "mapID": "fa02fea8-bfcf-5192-8b2d-fb579c1a0ee9",
+    "mapID": "0ca49f10-3b6e-4ae0-8fbd-e611bfa13b34",
     "affine_transformation": null,
-    "changed": "2013-02-26T18:59:00.127720+00:00",
+    "changed": "2020-07-07T12:44:18.083824+00:00",
     "gcps": [
       {
         "location": [
-          48.040466309,
-          46.34882457
+          29.918861895024726,
+          31.21859295323212
         ],
         "pixel": [
-          4134,
-          938
+          112,
+          340
         ]
       },
       {
         "location": [
-          36.43999743561323,
-          45.34145356052821
+          39.725903346472094,
+          41.00942552537717
         ],
         "pixel": [
-          1901,
-          2085
+          245,
+          164
         ]
       },
       {
         "location": [
-          30.692112778827713,
-          36.884048725822154
+          35.160462429589195,
+          42.022362894435844
         ],
         "pixel": [
-          1050,
-          4594
+          158,
+          179
         ]
       },
       {
         "location": [
-          43.683013916,
-          34.587998712
+          32.5279199301413,
+          45.39250377728726
         ],
         "pixel": [
-          3998,
-          4494
+          111,
+          119
         ]
       },
       {
         "location": [
-          29.892425537,
-          31.197532966
+          49.835863343435555,
+          40.351212827306966
         ],
         "pixel": [
-          1240,
-          6245
+          451,
+          126
         ]
       },
       {
         "location": [
-          32.386322021,
-          41.747751579
+          34.585696119645036,
+          35.69112261001612
         ],
         "pixel": [
-          1377,
-          3304
+          187,
+          261
         ]
       },
       {
         "location": [
-          44.452056885,
-          39.296049426
+          35.819864282299925,
+          34.452848812535805
         ],
         "pixel": [
-          3974,
-          3153
-        ]
-      },
-      {
-        "location": [
-          35.82743085996935,
-          34.45156577756896
-        ],
-        "pixel": [
-          2355,
-          5017
-        ]
-      },
-      {
-        "location": [
-          34.55584216217575,
-          49.60085146391583
-        ],
-        "pixel": [
-          1203,
-          1167
-        ]
-      },
-      {
-        "location": [
-          49.92449282215824,
-          40.442771976108645
-        ],
-        "pixel": [
-          5018,
-          2296
-        ]
-      },
-      {
-        "location": [
-          41.69779055704242,
-          42.159540576105684
-        ],
-        "pixel": [
-          3135,
-          2575
+          212,
+          273
         ]
       }
     ]

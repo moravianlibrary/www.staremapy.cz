@@ -1,119 +1,126 @@
 {
   "date": [null],
-  "creator": null,
+  "creator": "Čech, Vladimír",
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:6e4169c0-15e6-11e5-9bdc-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, barevná, 83x55",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:6e4169c0-15e6-11e5-9bdc-001b63bd97ba/ImageProperties.xml",
+  "description": "Geologische Karte des Protektorats Böhmen und Mähren - Blatt: Tabor (4253)",
   "scale": null,
-  "external_id": "130980",
-  "title": "Geologische Karte des Protektorats Böhmen und Mähren. Geologická mapa protektorátu Čechy a Morava /",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "external_id": "uuid:6e4169c0-15e6-11e5-9bdc-001b63bd97ba",
+  "title": "Geologische Karte des Protektorats Böhmen und Mähren - Blatt: Tabor (4253)",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf533e9-00c9-11e5-b939-0800200c9a66?page=uuid:6e4169c0-15e6-11e5-9bdc-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": "Geologický ústav pro Čechy a Moravu",
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MA_423_202_001.php",
-  "id": "33a622fc-8d92-5efc-8a0f-8071d79b1c74",
-  "physical_size": [
-    83,
-    55
-  ],
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf533e9-00c9-11e5-b939-0800200c9a66?page=uuid:6e4169c0-15e6-11e5-9bdc-001b63bd97ba",
+  "id": "8231569c-056f-4c99-8192-2565ae334e44",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        2121,
-        1226
+        471,
+        83
       ],
       [
-        2096,
-        5640
+        471,
+        371
       ],
       [
-        7826,
-        5632
+        128,
+        371
       ],
       [
-        7840,
-        1237
+        130,
+        83
       ],
       [
-        2121,
-        1226
+        471,
+        83
       ]
     ],
-    "created": "2013-03-22T19:03:30.785480+00:00",
+    "created": "2020-07-07T12:51:37.980890+00:00",
     "transformation_method": "affine",
-    "mapID": "33a622fc-8d92-5efc-8a0f-8071d79b1c74",
+    "mapID": "8231569c-056f-4c99-8192-2565ae334e44",
     "affine_transformation": null,
-    "changed": "2013-03-22T19:03:30.785480+00:00",
+    "changed": "2021-10-09T07:03:02.830290+00:00",
     "gcps": [
       {
         "location": [
-          14.393008692,
-          49.341211359
+          14.718845054631347,
+          49.25971874733841
         ],
         "pixel": [
-          2788,
-          4012
+          393,
+          360
         ]
       },
       {
         "location": [
-          14.442423760871742,
-          49.40246492694655
+          14.703947053350031,
+          49.35170547986874
         ],
         "pixel": [
-          3362,
-          2911
+          383,
+          254
         ]
       },
       {
         "location": [
-          14.420474512,
-          49.252759302
+          14.685036140229151,
+          49.38515641684407
         ],
         "pixel": [
-          3091,
-          5571
+          370,
+          215
         ]
       },
       {
         "location": [
-          14.387944682,
-          49.33995307
+          14.534969657309109,
+          49.28739653890645
         ],
         "pixel": [
-          2721,
-          4035
+          266,
+          328
         ]
       },
       {
         "location": [
-          14.705847213,
-          49.259022807
+          14.381017229058285,
+          49.369362144558096
         ],
         "pixel": [
-          6378,
-          5467
+          159,
+          232
         ]
       },
       {
         "location": [
-          14.670319696,
-          49.408013838
+          14.811601519946624,
+          49.47726807331375
         ],
         "pixel": [
-          5966,
-          2841
+          457,
+          107
+        ]
+      },
+      {
+        "location": [
+          15.113507864546152,
+          50.781662749920685
+        ],
+        "pixel": [
+          300,
+          204
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["1942"]
 }

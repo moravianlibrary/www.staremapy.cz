@@ -3,145 +3,200 @@
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:7a75d598-1b34-11e5-859f-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, barevná, 45x45,5",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:7a75d598-1b34-11e5-859f-001b63bd97ba/ImageProperties.xml",
+  "description": "Politický okres jindřicho-hradecký",
   "scale": null,
-  "external_id": "292184",
+  "external_id": "uuid:7a75d598-1b34-11e5-859f-001b63bd97ba",
   "title": "Politický okres jindřicho-hradecký",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5a94d-00c9-11e5-b939-0800200c9a66?page=uuid:7a75d598-1b34-11e5-859f-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": null,
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MC_3293_001.php",
-  "id": "bcea54f3-5b0f-56be-878d-9d98198fcf02",
-  "physical_size": [
-    45,
-    45
-  ],
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5a94d-00c9-11e5-b939-0800200c9a66?page=uuid:7a75d598-1b34-11e5-859f-001b63bd97ba",
+  "id": "277ae55a-60e3-4ce8-ab6c-f1e52088cb39",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        272,
-        3989
+        563,
+        21
       ],
       [
-        826,
-        3985
+        564,
+        415
       ],
       [
-        828,
-        4387
+        174,
+        418
       ],
       [
-        1552,
-        4385
+        174,
+        350
       ],
       [
-        1552,
-        5213
+        93,
+        349
       ],
       [
-        5164,
-        5185
+        95,
+        320
       ],
       [
-        5152,
-        257
+        33,
+        319
       ],
       [
-        244,
-        257
+        31,
+        23
       ],
       [
-        272,
-        3988
-      ],
-      [
-        260,
-        3023
-      ],
-      [
-        262,
-        3224
-      ],
-      [
-        272,
-        3989
+        563,
+        21
       ]
     ],
-    "created": "2013-03-21T15:47:59.575080+00:00",
+    "created": "2020-07-07T12:44:52.595367+00:00",
     "transformation_method": "affine",
-    "mapID": "bcea54f3-5b0f-56be-878d-9d98198fcf02",
+    "mapID": "277ae55a-60e3-4ce8-ab6c-f1e52088cb39",
     "affine_transformation": null,
-    "changed": "2013-03-21T15:47:59.575080+00:00",
+    "changed": "2020-07-07T12:44:52.595367+00:00",
     "gcps": [
       {
         "location": [
-          15.192933083,
-          49.251560957
+          15.267335005844178,
+          48.94342448949513
         ],
         "pixel": [
-          3944,
-          1051
+          505,
+          410
         ]
       },
       {
         "location": [
-          15.006036758,
-          49.144324825
+          14.78193243240353,
+          49.302457671000184
         ],
         "pixel": [
-          2302,
-          2458
+          41,
+          32
         ]
       },
       {
         "location": [
-          15.105686188,
-          49.015497717
+          15.027949236684211,
+          49.16205580051644
         ],
         "pixel": [
-          3187,
-          4152
+          275,
+          180
         ]
       },
       {
         "location": [
-          14.844889641,
-          49.240690901
+          15.049856869685355,
+          49.173963403477046
         ],
         "pixel": [
-          921,
-          1206
+          294,
+          166
         ]
       },
       {
         "location": [
-          15.19031815969829,
-          49.121312993882356
+          15.097368699592007,
+          49.19807300024442
         ],
         "pixel": [
-          3916,
-          2761
+          341,
+          142
         ]
       },
       {
         "location": [
-          14.968142509,
-          49.072714246
+          15.040188233026457,
+          49.149704113039974
         ],
         "pixel": [
-          1985,
-          3406
+          285,
+          192
+        ]
+      },
+      {
+        "location": [
+          15.003558371861997,
+          49.14222596435923
+        ],
+        "pixel": [
+          250,
+          200
+        ]
+      },
+      {
+        "location": [
+          15.112389070075404,
+          49.200204211894516
+        ],
+        "pixel": [
+          356,
+          140
+        ]
+      },
+      {
+        "location": [
+          15.151416285035486,
+          49.21178518153343
+        ],
+        "pixel": [
+          393,
+          128
+        ]
+      },
+      {
+        "location": [
+          15.258648731091963,
+          49.234642752445296
+        ],
+        "pixel": [
+          493,
+          103
+        ]
+      },
+      {
+        "location": [
+          15.31869553772976,
+          49.3023959634682
+        ],
+        "pixel": [
+          550,
+          30
+        ]
+      },
+      {
+        "location": [
+          14.815740792914589,
+          49.03845415862435
+        ],
+        "pixel": [
+          72,
+          312
+        ]
+      },
+      {
+        "location": [
+          14.979076785415746,
+          48.962814910675405
+        ],
+        "pixel": [
+          234,
+          389
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["1929"]
 }

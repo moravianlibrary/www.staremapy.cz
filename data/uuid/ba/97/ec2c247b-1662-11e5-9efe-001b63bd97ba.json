@@ -3,147 +3,164 @@
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:ec2c247b-1662-11e5-9efe-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, černobílá, 51x39",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:ec2c247b-1662-11e5-9efe-001b63bd97ba/ImageProperties.xml",
+  "description": "Wittingau und Moldauthein",
   "scale": null,
-  "external_id": "159342",
+  "external_id": "uuid:ec2c247b-1662-11e5-9efe-001b63bd97ba",
   "title": "Wittingau und Moldauthein",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf55b07-00c9-11e5-b939-0800200c9a66?page=uuid:ec2c247b-1662-11e5-9efe-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "K. u. k. Militärgeographisches Institut",
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MA_647_001.php",
-  "id": "3e98106a-6baa-51a5-a12f-a2fad02a71e8",
-  "physical_size": [
-    51,
-    39
-  ],
+  "publisher": "R. Lechner (Wilhelm Müller)",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf55b07-00c9-11e5-b939-0800200c9a66?page=uuid:ec2c247b-1662-11e5-9efe-001b63bd97ba",
+  "id": "eea4a55d-9b61-4e34-ab73-ef683ee3f19a",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        206,
-        6771
+        586,
+        13
       ],
       [
-        8917,
-        6774
+        584,
+        428
       ],
       [
-        8932,
-        203
+        14,
+        428
       ],
       [
-        238,
-        222
+        16,
+        14
       ],
       [
-        206,
-        6771
+        586,
+        13
       ]
     ],
-    "created": "2013-03-21T10:35:40.637730+00:00",
+    "created": "2020-07-07T12:51:43.126386+00:00",
     "transformation_method": "affine",
-    "mapID": "3e98106a-6baa-51a5-a12f-a2fad02a71e8",
+    "mapID": "eea4a55d-9b61-4e34-ab73-ef683ee3f19a",
     "affine_transformation": null,
-    "changed": "2013-03-21T10:35:40.637730+00:00",
+    "changed": "2021-05-20T07:35:31.228214+00:00",
     "gcps": [
       {
         "location": [
-          14.444397167,
-          49.192811043
+          14.420917999547822,
+          49.222748123324465
         ],
         "pixel": [
-          2137,
-          1673
+          114,
+          58
         ]
       },
       {
         "location": [
-          14.766498283,
-          49.008685114
+          14.481204448091468,
+          49.105344537698784
         ],
         "pixel": [
-          7774,
-          6525
+          183,
+          253
         ]
       },
       {
         "location": [
-          14.381361678329503,
-          49.01391371858253
+          14.593998566282838,
+          49.23035514510963
         ],
         "pixel": [
-          1038,
-          6374
+          314,
+          44
         ]
       },
       {
         "location": [
-          14.645434097,
-          49.066239859
+          14.778328167985388,
+          49.00724362593715
         ],
         "pixel": [
-          5603,
-          4979
+          522,
+          415
         ]
       },
       {
         "location": [
-          14.592980817,
-          49.120729854
+          14.636439872048488,
+          49.15330419296191
         ],
         "pixel": [
-          4742,
-          3587
+          361,
+          171
         ]
       },
       {
         "location": [
-          14.716587738,
-          49.189319212
+          14.441602595186591,
+          49.05117592194276
         ],
         "pixel": [
-          6919,
-          1753
+          135,
+          341
         ]
       },
       {
         "location": [
-          14.475991304860278,
-          49.03686871441039
+          14.717242676855294,
+          49.1986611253071
         ],
         "pixel": [
-          2685,
-          5765
+          455,
+          97
         ]
       },
       {
         "location": [
-          14.477548849550013,
-          49.01789869940032
+          14.699469256739967,
+          49.06051801892096
         ],
         "pixel": [
-          2712,
-          6266
+          432,
+          326
         ]
       },
       {
         "location": [
-          14.769931510539065,
-          49.00485655469197
+          14.356382434766669,
+          49.14615484981337
         ],
         "pixel": [
-          7808,
-          6617
+          40,
+          183
+        ]
+      },
+      {
+        "location": [
+          14.57435247831405,
+          49.09737118149019
+        ],
+        "pixel": [
+          288,
+          266
+        ]
+      },
+      {
+        "location": [
+          14.636972125278488,
+          49.00787830004444
+        ],
+        "pixel": [
+          361,
+          414
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["1906"]
 }

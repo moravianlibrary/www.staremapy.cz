@@ -1,207 +1,314 @@
 {
   "date": [null],
-  "creator": null,
+  "creator": "Kümmerly, H.",
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:d9c6a1a2-198b-11e5-8578-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, barevná, 81x58",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:d9c6a1a2-198b-11e5-8578-001b63bd97ba/ImageProperties.xml",
+  "description": "Schweizerische Bundesbahnen",
   "scale": null,
-  "external_id": "m0254061",
-  "title": "Schweizerische Bundesbahnen Touristenkarte der Schweiz /",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "external_id": "uuid:d9c6a1a2-198b-11e5-8578-001b63bd97ba",
+  "title": "Schweizerische Bundesbahnen",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5a92c-00c9-11e5-b939-0800200c9a66?page=uuid:d9c6a1a2-198b-11e5-8578-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "Geograph. Artist. Anstalt Kümmerly & Frey, Bern",
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MC_25_001.php",
-  "id": "6503e1aa-0b8d-5ccd-9c02-8f959168c48e",
-  "physical_size": [
-    81,
-    58
-  ],
+  "publisher": "Publizitätsdienst vom Schweizerische Bundesbahnen",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5a92c-00c9-11e5-b939-0800200c9a66?page=uuid:d9c6a1a2-198b-11e5-8578-001b63bd97ba",
+  "id": "952cb6e7-2c3f-4a54-9062-bc5a092360f9",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        7680,
-        6710
+        493,
+        25
       ],
       [
-        4019,
-        6754
+        506,
+        124
       ],
       [
-        349,
-        6804
+        575,
+        119
       ],
       [
-        330,
-        2823
+        583,
+        345
       ],
       [
-        1590,
-        2805
+        469,
+        344
       ],
       [
-        1619,
-        2798
+        465,
+        421
       ],
       [
-        1660,
-        2769
+        22,
+        422
       ],
       [
-        2350,
-        992
+        17,
+        177
       ],
       [
-        2354,
-        496
+        92,
+        179
       ],
       [
-        4895,
-        490
+        143,
+        65
       ],
       [
-        6420,
-        432
+        140,
+        30
       ],
       [
-        8211,
-        431
-      ],
-      [
-        8288,
-        2124
-      ],
-      [
-        9484,
-        2094
-      ],
-      [
-        9521,
-        5543
-      ],
-      [
-        7662,
-        5572
-      ],
-      [
-        7680,
-        6710
+        493,
+        25
       ]
     ],
-    "created": "2013-03-22T09:46:38.125650+00:00",
+    "created": "2020-07-07T12:52:55.640657+00:00",
     "transformation_method": "affine",
-    "mapID": "6503e1aa-0b8d-5ccd-9c02-8f959168c48e",
+    "mapID": "952cb6e7-2c3f-4a54-9062-bc5a092360f9",
     "affine_transformation": null,
-    "changed": "2013-03-22T09:46:38.125650+00:00",
+    "changed": "2020-07-07T12:52:55.640657+00:00",
     "gcps": [
       {
         "location": [
-          9.746552118,
-          47.504127029
+          7.629443955404525,
+          46.76048884770009
         ],
         "pixel": [
-          7971,
-          1403
+          232,
+          229
         ]
       },
       {
         "location": [
-          7.451583654,
-          46.947808045
+          7.742152922158723,
+          46.696114624720764
         ],
         "pixel": [
-          3471,
-          3139
+          245,
+          240
         ]
       },
       {
         "location": [
-          6.378852353,
-          46.712153776
+          7.562427360128452,
+          46.87800399203181
         ],
         "pixel": [
-          1338,
-          3824
+          223,
+          207
         ]
       },
       {
         "location": [
-          9.52679089964907,
-          46.84913392737721
+          7.5658223222248555,
+          46.936326703887374
         ],
         "pixel": [
-          7615,
-          3358
+          225,
+          197
         ]
       },
       {
         "location": [
-          7.597264793,
-          47.542905738
+          7.858607983519915,
+          46.69008614551646
         ],
         "pixel": [
-          3745,
-          1335
+          261,
+          242
         ]
       },
       {
         "location": [
-          10.329125179,
-          46.178192968
+          8.159084072406994,
+          46.78608481325685
         ],
         "pixel": [
-          9296,
-          5243
+          298,
+          222
         ]
       },
       {
         "location": [
-          6.128814473,
-          45.899717554
+          8.18819785870205,
+          46.72812959144861
         ],
         "pixel": [
-          786,
-          6190
+          300,
+          234
         ]
       },
       {
         "location": [
-          9.020596155,
-          46.191863041
+          8.246425389382647,
+          46.899556275865535
         ],
         "pixel": [
-          6643,
-          5289
+          308,
+          203
         ]
       },
       {
         "location": [
-          8.306898700293912,
-          47.05381853715977
+          8.398036730080502,
+          46.82105355361347
         ],
         "pixel": [
-          5169,
-          2819
+          327,
+          216
         ]
       },
       {
         "location": [
-          7.750008848325565,
-          46.02021992020212
+          8.2881734488305,
+          46.83420794665514
         ],
         "pixel": [
-          4067,
-          5848
+          313,
+          213
+        ]
+      },
+      {
+        "location": [
+          7.618457637756904,
+          46.878754964532874
+        ],
+        "pixel": [
+          232,
+          206
+        ]
+      },
+      {
+        "location": [
+          8.029994716938242,
+          46.75598600164278
+        ],
+        "pixel": [
+          280,
+          229
+        ]
+      },
+      {
+        "location": [
+          7.6783331239426795,
+          46.69402936198557
+        ],
+        "pixel": [
+          239,
+          242
+        ]
+      },
+      {
+        "location": [
+          7.790942976746549,
+          46.93954861177494
+        ],
+        "pixel": [
+          251,
+          195
+        ]
+      },
+      {
+        "location": [
+          7.451015195414082,
+          46.95582726181246
+        ],
+        "pixel": [
+          211,
+          195
+        ]
+      },
+      {
+        "location": [
+          7.636134859943423,
+          46.67161977679456
+        ],
+        "pixel": [
+          233,
+          245
+        ]
+      },
+      {
+        "location": [
+          7.808620198933069,
+          46.66144172603188
+        ],
+        "pixel": [
+          254,
+          246
+        ]
+      },
+      {
+        "location": [
+          7.769618742471223,
+          46.65352414739172
+        ],
+        "pixel": [
+          250,
+          248
+        ]
+      },
+      {
+        "location": [
+          7.965175364236936,
+          46.737918634847404
+        ],
+        "pixel": [
+          273,
+          232
+        ]
+      },
+      {
+        "location": [
+          7.865749103087588,
+          46.66332672306066
+        ],
+        "pixel": [
+          262,
+          245
+        ]
+      },
+      {
+        "location": [
+          8.03603718902509,
+          46.624105829465236
+        ],
+        "pixel": [
+          284,
+          253
+        ]
+      },
+      {
+        "location": [
+          7.909694415587591,
+          46.59467148777469
+        ],
+        "pixel": [
+          267,
+          258
+        ]
+      },
+      {
+        "location": [
+          7.7157857388496724,
+          46.71607912422414
+        ],
+        "pixel": [
+          243,
+          236
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["1909"]
 }

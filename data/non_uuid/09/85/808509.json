@@ -1,0 +1,86 @@
+{
+  "date": ["1800"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://digitool.is.cuni.cz:5881/ImageServer/imageInfo.jsp?filename=L2V4bGlicmlzL2R0bC9zdG9yYWdlX21hcC8yMDEyLzAzLzI5L3ZpZXdfMi84MDg1MTE%3D",
+  "description": "země světa",
+  "scale": 90000000,
+  "external_id": "808509",
+  "title": "Carte réduite d'apres celle de Laperouse",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "La Pérouse, Jean-François de Galaup",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://digitool.is.cuni.cz/R/?func=dbin-jump-full&object_id=808509",
+  "id": "edc04bd7-3b94-562a-8edd-6678de647022",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        2729,
+        0
+      ],
+      [
+        2729,
+        2209
+      ],
+      [
+        0,
+        2209
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        2729,
+        0
+      ]
+    ],
+    "created": "2014-08-18T18:46:22.817130+00:00",
+    "transformation_method": "affine",
+    "mapID": "edc04bd7-3b94-562a-8edd-6678de647022",
+    "affine_transformation": null,
+    "changed": "2014-08-18T18:46:22.817130+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.533023712056034,
+          50.451822010903584
+        ],
+        "pixel": [
+          321,
+          631
+        ]
+      },
+      {
+        "location": [
+          13.609928008931032,
+          50.56535894788999
+        ],
+        "pixel": [
+          319,
+          605
+        ]
+      },
+      {
+        "location": [
+          13.557742950337285,
+          50.504257598915586
+        ],
+        "pixel": [
+          328,
+          629
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1800"]
+}

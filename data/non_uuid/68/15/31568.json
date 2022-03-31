@@ -1,0 +1,106 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/Vs_Litomysl_036_2/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "31568",
+  "title": "Indikační skica mapy stabilního katastru pro Opatov",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/31568",
+  "id": "5c8cdabf-66fb-5935-8ef7-641e90958cc0",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        -15,
+        12392
+      ],
+      [
+        39985,
+        12392
+      ],
+      [
+        39985,
+        72
+      ],
+      [
+        -15,
+        72
+      ],
+      [
+        -15,
+        12392
+      ]
+    ],
+    "created": "2014-12-06T21:35:27.771810+00:00",
+    "transformation_method": "affine",
+    "mapID": "5c8cdabf-66fb-5935-8ef7-641e90958cc0",
+    "affine_transformation": null,
+    "changed": "2014-12-06T21:35:27.771810+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.489346417,
+          49.833757069
+        ],
+        "pixel": [
+          26494,
+          6429
+        ]
+      },
+      {
+        "location": [
+          16.48576835,
+          49.839503937
+        ],
+        "pixel": [
+          23862,
+          1125
+        ]
+      },
+      {
+        "location": [
+          16.508427651,
+          49.839185646
+        ],
+        "pixel": [
+          37250,
+          994
+        ]
+      },
+      {
+        "location": [
+          16.502381953,
+          49.827767281
+        ],
+        "pixel": [
+          34030,
+          11334
+        ]
+      },
+      {
+        "location": [
+          16.447482498,
+          49.829504431
+        ],
+        "pixel": [
+          2501,
+          10736
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

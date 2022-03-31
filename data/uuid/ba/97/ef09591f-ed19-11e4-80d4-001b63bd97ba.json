@@ -1,233 +1,306 @@
 {
-  "date": [
-    "1770",
-    "1800"
-  ],
-  "creator": null,
+  "date": [null],
+  "creator": "Lotter, Tobias Conrad",
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:ef09591f-ed19-11e4-80d4-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa : 103 x 163 cm",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:ef09591f-ed19-11e4-80d4-001b63bd97ba/ImageProperties.xml",
+  "description": "Carte Geographique representant le cours entier du Rhin de la Moselle, de la Meuse et de l´Escaut",
   "scale": null,
-  "external_id": "0091500_1",
-  "title": "Carte Geographique representant le cours entier du Rhin de la Moselle, de la Meuse et de l ́Escaut ...",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "external_id": "uuid:ef09591f-ed19-11e4-80d4-001b63bd97ba",
+  "title": "Carte Geographique representant le cours entier du Rhin de la Moselle, de la Meuse et de l´Escaut",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b1eabc-c66b-11e4-8731-1681e6b88ec1?page=uuid:ef09591f-ed19-11e4-80d4-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "Augsbourg : Matthieu Albert et George Frederic Lotter, mezi 1770 a 1800",
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy2/2683920108_0759.html",
-  "id": "13a3af75-597f-5976-9296-b8c070daf63e",
-  "physical_size": [
-    103,
-    163
-  ],
+  "publisher": "Matthieu Albert et George Frederic Lotter",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b1eabc-c66b-11e4-8731-1681e6b88ec1?page=uuid:ef09591f-ed19-11e4-80d4-001b63bd97ba",
+  "id": "4f8a32b8-6033-4049-a0d1-669347e55e97",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        7436,
-        302
+        597,
+        16
       ],
       [
-        7436,
-        9740
+        599,
+        430
       ],
       [
-        1755,
-        9727
+        147,
+        430
       ],
       [
-        1516,
-        9346
+        122,
+        411
       ],
       [
-        1540,
-        9048
+        121,
+        405
       ],
       [
-        1648,
-        8989
+        122,
+        402
       ],
       [
-        1711,
-        8345
+        133,
+        398
       ],
       [
-        1853,
-        8057
+        135,
+        390
       ],
       [
-        1814,
-        7326
+        135,
+        381
       ],
       [
-        1081,
-        7111
+        137,
+        371
       ],
       [
-        866,
-        7064
+        141,
+        369
       ],
       [
-        221,
-        7176
+        142,
+        362
       ],
       [
-        239,
-        3237
+        149,
+        360
       ],
       [
-        2600,
-        3288
+        145,
+        347
       ],
       [
-        2854,
-        3030
+        149,
+        342
       ],
       [
-        2907,
-        2473
+        152,
+        331
       ],
       [
-        2854,
-        1902
+        151,
+        321
       ],
       [
-        2766,
-        1506
+        124,
+        322
       ],
       [
-        2883,
-        1086
+        114,
+        318
       ],
       [
-        2859,
-        691
+        84,
+        314
       ],
       [
-        2727,
-        290
+        65,
+        313
       ],
       [
-        7436,
-        302
+        19,
+        317
+      ],
+      [
+        23,
+        147
+      ],
+      [
+        50,
+        144
+      ],
+      [
+        67,
+        144
+      ],
+      [
+        92,
+        146
+      ],
+      [
+        126,
+        148
+      ],
+      [
+        177,
+        147
+      ],
+      [
+        206,
+        146
+      ],
+      [
+        216,
+        145
+      ],
+      [
+        226,
+        142
+      ],
+      [
+        234,
+        135
+      ],
+      [
+        236,
+        126
+      ],
+      [
+        227,
+        15
+      ],
+      [
+        597,
+        16
       ]
     ],
-    "created": "2013-02-26T18:59:25.947440+00:00",
+    "created": "2020-07-07T12:41:53.218925+00:00",
     "transformation_method": "affine",
-    "mapID": "13a3af75-597f-5976-9296-b8c070daf63e",
+    "mapID": "4f8a32b8-6033-4049-a0d1-669347e55e97",
     "affine_transformation": null,
-    "changed": "2013-02-26T18:59:25.947440+00:00",
+    "changed": "2020-07-07T12:41:53.218925+00:00",
     "gcps": [
       {
         "location": [
-          4.0756083229087965,
-          48.29725951388804
+          7.582748080369797,
+          47.555532871246044
         ],
         "pixel": [
-          4107,
-          2084
+          175,
+          374
         ]
       },
       {
         "location": [
-          8.462947265933549,
-          49.48981338358294
+          7.7476812293359325,
+          48.58929929530095
         ],
         "pixel": [
-          7247,
-          9013
+          395,
+          362
         ]
       },
       {
         "location": [
-          6.164917340870322,
-          49.12749709378747
+          7.849304764492185,
+          47.99540905107173
         ],
         "pixel": [
-          6743,
-          5543
+          270,
+          388
         ]
       },
       {
         "location": [
-          5.387862156779911,
-          49.1569419086793
+          6.016814266562848,
+          47.23805285091922
         ],
         "pixel": [
-          6614,
-          4316
+          112,
+          219
         ]
       },
       {
         "location": [
-          8.434388103999954,
-          49.316280770067635
+          7.942550326463544,
+          48.470503569594115
         ],
         "pixel": [
-          6770,
-          8957
+          382,
+          381
         ]
       },
       {
         "location": [
-          6.02351907243387,
-          47.23409306392162
+          8.463880472471372,
+          49.48635784081608
         ],
         "pixel": [
-          1396,
-          4942
+          584,
+          399
         ]
       },
       {
         "location": [
-          4.033797215373661,
-          49.26101400952834
+          8.691846781065122,
+          49.40957455474248
         ],
         "pixel": [
-          6699,
-          2302
+          568,
+          416
         ]
       },
       {
         "location": [
-          7.358977852421075,
-          48.075840006865235
+          6.354643856406595,
+          46.90507799405924
         ],
         "pixel": [
-          3352,
-          7838
+          64,
+          251
         ]
       },
       {
         "location": [
-          3.2814422067553037,
-          48.196664159274235
+          6.1722073168924645,
+          49.123307777508955
         ],
         "pixel": [
-          3977,
-          790
+          546,
+          245
         ]
       },
       {
         "location": [
-          5.16567618846957,
-          48.772927215821255
+          5.385763775843042,
+          49.16163839911766
         ],
         "pixel": [
-          5551,
-          4023
+          533,
+          191
+        ]
+      },
+      {
+        "location": [
+          4.03786206596109,
+          49.256738370325934
+        ],
+        "pixel": [
+          538,
+          101
+        ]
+      },
+      {
+        "location": [
+          2.8326788576762145,
+          49.41573928790564
+        ],
+        "pixel": [
+          578,
+          18
+        ]
+      },
+      {
+        "location": [
+          3.3934443141585233,
+          47.981716498062724
+        ],
+        "pixel": [
+          275,
+          35
         ]
       }
     ]
   },
-  "pubdate": [
-    "1770",
-    "1800"
-  ]
+  "pubdate": ["[mezi 1770 a 1800]"]
 }

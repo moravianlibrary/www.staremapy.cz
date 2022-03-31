@@ -1,0 +1,106 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_rychmburk_0452/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "30471",
+  "title": "Katastrální mapa pro obec Uhersko",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/30471",
+  "id": "7f24322a-f9e6-52f1-92b3-0d65e01e03f8",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1269,
+        7741
+      ],
+      [
+        13397,
+        7741
+      ],
+      [
+        13397,
+        1677
+      ],
+      [
+        1269,
+        1677
+      ],
+      [
+        1269,
+        7741
+      ]
+    ],
+    "created": "2014-12-08T07:19:29.575170+00:00",
+    "transformation_method": "affine",
+    "mapID": "7f24322a-f9e6-52f1-92b3-0d65e01e03f8",
+    "affine_transformation": null,
+    "changed": "2014-12-08T07:19:29.575170+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.014909465,
+          50.002059501
+        ],
+        "pixel": [
+          11432,
+          6149
+        ]
+      },
+      {
+        "location": [
+          16.015381534,
+          50.001107835
+        ],
+        "pixel": [
+          11526,
+          6880
+        ]
+      },
+      {
+        "location": [
+          16.006594617,
+          50.000487172
+        ],
+        "pixel": [
+          6467,
+          7407
+        ]
+      },
+      {
+        "location": [
+          15.989503581,
+          49.999349271
+        ],
+        "pixel": [
+          4110,
+          7145
+        ]
+      },
+      {
+        "location": [
+          16.014566142,
+          49.998769965
+        ],
+        "pixel": [
+          11394,
+          7568
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1886"]
+}

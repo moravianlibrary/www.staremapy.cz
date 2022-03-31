@@ -1,0 +1,86 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Tynec_M_7/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "15590",
+  "title": "Katastrální mapa obce Horní Lhota",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/15590",
+  "id": "47b34f1e-f3c9-5e01-b701-bd6c0df12268",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        14919,
+        0
+      ],
+      [
+        14919,
+        18567
+      ],
+      [
+        0,
+        18567
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        14919,
+        0
+      ]
+    ],
+    "created": "2014-11-25T16:56:19.874030+00:00",
+    "transformation_method": "affine",
+    "mapID": "47b34f1e-f3c9-5e01-b701-bd6c0df12268",
+    "affine_transformation": null,
+    "changed": "2014-11-25T16:56:19.874030+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.256263971,
+          49.337503354
+        ],
+        "pixel": [
+          1264,
+          11611
+        ]
+      },
+      {
+        "location": [
+          13.27738905,
+          49.347995623
+        ],
+        "pixel": [
+          13787,
+          2205
+        ]
+      },
+      {
+        "location": [
+          13.275221825,
+          49.33146981
+        ],
+        "pixel": [
+          12374,
+          17137
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1872"]
+}

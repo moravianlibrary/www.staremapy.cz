@@ -1,0 +1,96 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_2627/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "9972",
+  "title": "Mapa pozemků dvora Vranín 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/9972",
+  "id": "d9010c35-be49-5441-b3cb-66677b28b86a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        192,
+        2816
+      ],
+      [
+        2816,
+        2816
+      ],
+      [
+        2816,
+        416
+      ],
+      [
+        192,
+        416
+      ],
+      [
+        192,
+        2816
+      ]
+    ],
+    "created": "2015-06-05T21:42:33.718860+00:00",
+    "transformation_method": "affine",
+    "mapID": "d9010c35-be49-5441-b3cb-66677b28b86a",
+    "affine_transformation": null,
+    "changed": "2015-06-05T21:42:33.718860+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.694636177,
+          48.997197094
+        ],
+        "pixel": [
+          1482,
+          751
+        ]
+      },
+      {
+        "location": [
+          14.695450227,
+          48.997183016
+        ],
+        "pixel": [
+          1952,
+          774
+        ]
+      },
+      {
+        "location": [
+          14.6944316583446,
+          48.996446539518814
+        ],
+        "pixel": [
+          1338,
+          1392
+        ]
+      },
+      {
+        "location": [
+          14.694978158,
+          48.995812123
+        ],
+        "pixel": [
+          1635,
+          1998
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1936"]
+}

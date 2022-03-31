@@ -1,163 +1,176 @@
 {
   "date": [null],
-  "creator": null,
+  "creator": "Bělohlav, Josef",
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:86559868-19cb-11e5-89a0-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, barevná, 46x40",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:86559868-19cb-11e5-89a0-001b63bd97ba/ImageProperties.xml",
+  "description": "Horní Planá - Vyšší Brod",
   "scale": null,
-  "external_id": "m0098968",
+  "external_id": "uuid:86559868-19cb-11e5-89a0-001b63bd97ba",
   "title": "Horní Planá - Vyšší Brod",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5a935-00c9-11e5-b939-0800200c9a66?page=uuid:86559868-19cb-11e5-89a0-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "F. Topič, knihkupec v Praze",
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MC_268_48_001.php",
-  "id": "9fb9a6d5-3b72-58a2-90ac-667a5097db63",
-  "physical_size": [
-    46,
-    40
-  ],
+  "publisher": "F. Topič",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5a935-00c9-11e5-b939-0800200c9a66?page=uuid:86559868-19cb-11e5-89a0-001b63bd97ba",
+  "id": "93e436be-b7ca-4dbc-a814-b8abf6a4581e",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        616,
-        912
+        541,
+        57
       ],
       [
-        7512,
-        912
+        541,
+        380
       ],
       [
-        7528,
-        6144
+        41,
+        380
       ],
       [
-        568,
-        6128
+        43,
+        56
       ],
       [
-        552,
-        6144
-      ],
-      [
-        616,
-        912
+        541,
+        57
       ]
     ],
-    "created": "2013-03-22T08:15:19.815310+00:00",
+    "created": "2020-07-07T12:50:03.730733+00:00",
     "transformation_method": "affine",
-    "mapID": "9fb9a6d5-3b72-58a2-90ac-667a5097db63",
+    "mapID": "93e436be-b7ca-4dbc-a814-b8abf6a4581e",
     "affine_transformation": null,
-    "changed": "2013-03-22T08:15:19.815310+00:00",
+    "changed": "2020-07-07T12:50:03.730733+00:00",
     "gcps": [
       {
         "location": [
-          14.112968444,
-          48.748833164
+          13.971250568392238,
+          48.64587979381773
         ],
         "pixel": [
-          3690,
-          2198
+          89,
+          305
         ]
       },
       {
         "location": [
-          14.274158477,
-          48.642211451
+          14.177718026618418,
+          48.7656976452902
         ],
         "pixel": [
-          6470,
-          4991
+          346,
+          111
         ]
       },
       {
         "location": [
-          14.164123535,
-          48.659676155
+          14.297965832989135,
+          48.77926532820376
         ],
         "pixel": [
-          4562,
-          4571
+          495,
+          90
         ]
       },
       {
         "location": [
-          14.105555288311399,
-          48.6412956100383
+          14.312335072371251,
+          48.613909215465924
         ],
         "pixel": [
-          3563,
-          5033
+          515,
+          356
         ]
       },
       {
         "location": [
-          14.070353508,
-          48.732107025
+          14.111405361786737,
+          48.7373970947086
         ],
         "pixel": [
-          2962,
-          2656
+          263,
+          157
         ]
       },
       {
         "location": [
-          14.243860245,
-          48.620031635
+          14.015903559441892,
+          48.778972258472265
         ],
         "pixel": [
-          5984,
-          5576
+          145,
+          88
         ]
       },
       {
         "location": [
-          14.313640594,
-          48.752907725
+          14.059915406684338,
+          48.67349584331134
         ],
         "pixel": [
-          7158,
-          2154
+          202,
+          260
         ]
       },
       {
         "location": [
-          14.075202942,
-          48.695323919
+          14.048929078559329,
+          48.64548902253259
         ],
         "pixel": [
-          3044,
-          3648
+          187,
+          306
         ]
       },
       {
         "location": [
-          14.1198349,
-          48.670220092
+          14.245824677924565,
+          48.697068465812094
         ],
         "pixel": [
-          3837,
-          4285
+          430,
+          222
         ]
       },
       {
         "location": [
-          13.971352592956803,
-          48.64585655346713
+          14.268405343174782,
+          48.75124141224896
         ],
         "pixel": [
-          1237,
-          4919
+          458,
+          134
+        ]
+      },
+      {
+        "location": [
+          14.168397859188403,
+          48.664178658198296
+        ],
+        "pixel": [
+          333,
+          275
+        ]
+      },
+      {
+        "location": [
+          14.003438813666767,
+          48.72934957661917
+        ],
+        "pixel": [
+          130,
+          171
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["1913"]
 }

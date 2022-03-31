@@ -1,0 +1,116 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/domousice_0283/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "15979",
+  "title": "Hraniční mapa lesních parcel v katastru obce Ročov 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/15979",
+  "id": "17b93a3c-4ffd-5d72-947c-69ec716976fb",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        3340,
+        13133
+      ],
+      [
+        12364,
+        13101
+      ],
+      [
+        12236,
+        2173
+      ],
+      [
+        3132,
+        2173
+      ],
+      [
+        3340,
+        13133
+      ]
+    ],
+    "created": "2015-01-14T09:30:57.295380+00:00",
+    "transformation_method": "affine",
+    "mapID": "17b93a3c-4ffd-5d72-947c-69ec716976fb",
+    "affine_transformation": null,
+    "changed": "2015-01-14T09:30:57.295380+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.749887134,
+          50.220610237
+        ],
+        "pixel": [
+          5343,
+          11343
+        ]
+      },
+      {
+        "location": [
+          13.764972482,
+          50.227754219
+        ],
+        "pixel": [
+          11163,
+          6007
+        ]
+      },
+      {
+        "location": [
+          13.751496459,
+          50.223685508
+        ],
+        "pixel": [
+          5807,
+          8655
+        ]
+      },
+      {
+        "location": [
+          13.76025119,
+          50.227886228
+        ],
+        "pixel": [
+          9359,
+          5991
+        ]
+      },
+      {
+        "location": [
+          13.76025119,
+          50.227227316
+        ],
+        "pixel": [
+          9351,
+          6423
+        ]
+      },
+      {
+        "location": [
+          13.755787994,
+          50.224262099
+        ],
+        "pixel": [
+          7919,
+          8071
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1887"]
+}

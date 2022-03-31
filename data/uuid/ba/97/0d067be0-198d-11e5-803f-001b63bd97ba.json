@@ -1,135 +1,120 @@
 {
-  "date": [
-    "1890",
-    "1899"
-  ],
-  "creator": null,
+  "date": [null],
+  "creator": "Tolman, Břetislav",
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:0d067be0-198d-11e5-803f-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, barevná, 62x49",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:0d067be0-198d-11e5-803f-001b63bd97ba/ImageProperties.xml",
+  "description": "Mapa železnic Čech, Moravy, Slezska a sousedních zemí",
   "scale": null,
-  "external_id": "m0153020",
+  "external_id": "uuid:0d067be0-198d-11e5-803f-001b63bd97ba",
   "title": "Mapa železnic Čech, Moravy, Slezska a sousedních zemí",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:932a5650-00c9-11e5-b939-0800200c9a66?page=uuid:0d067be0-198d-11e5-803f-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": null,
-  "link_url": null,
-  "id": "85d7ee44-c73c-51ae-9cb2-3368bf8f6bd3",
-  "physical_size": [
-    62,
-    49
-  ],
+  "publisher": "Ant. Vítek",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:932a5650-00c9-11e5-b939-0800200c9a66?page=uuid:0d067be0-198d-11e5-803f-001b63bd97ba",
+  "id": "2cf1b92a-0e8b-4e52-bbe1-3ed1a8bad377",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        5324,
-        5232
+        554,
+        280
       ],
       [
-        5334,
-        4078
+        552,
+        387
       ],
       [
-        5754,
-        3773
+        422,
+        387
       ],
       [
-        6227,
-        3776
+        423,
+        301
       ],
       [
-        6250,
-        3766
+        456,
+        279
       ],
       [
-        6996,
-        3774
-      ],
-      [
-        6993,
-        3971
-      ],
-      [
-        6969,
-        3984
-      ],
-      [
-        6957,
-        5233
-      ],
-      [
-        5324,
-        5232
+        554,
+        280
       ]
     ],
-    "created": "2019-10-07T07:34:55.562667+00:00",
+    "created": "2021-11-26T19:37:58.710848+00:00",
     "transformation_method": "affine",
-    "mapID": "85d7ee44-c73c-51ae-9cb2-3368bf8f6bd3",
+    "mapID": "2cf1b92a-0e8b-4e52-bbe1-3ed1a8bad377",
     "affine_transformation": null,
-    "changed": "2019-10-07T07:34:55.562667+00:00",
+    "changed": "2021-11-26T19:40:12.339368+00:00",
     "gcps": [
       {
         "location": [
-          16.39248426677784,
-          48.21294151875853
+          16.43119499852195,
+          48.18654550068979
         ],
         "pixel": [
-          6077,
-          4472
+          502,
+          348
         ]
       },
       {
         "location": [
-          16.388171274681902,
-          48.243203594750725
+          16.478971150828013,
+          48.284367800403885
         ],
         "pixel": [
-          6014,
-          4111
+          522,
+          285
         ]
       },
       {
         "location": [
-          16.439086531312544,
-          48.13331803482271
+          16.392519676672705,
+          48.212886188357146
         ],
         "pixel": [
-          6369,
-          5171
+          481,
+          330
         ]
       },
       {
         "location": [
-          16.450473625679823,
-          48.22395801007593
+          16.406285413186396,
+          48.16798288901987
         ],
         "pixel": [
-          6445,
-          4355
+          489,
+          360
         ]
       },
       {
         "location": [
-          16.32109806748666,
-          48.17042132407843
+          16.28793932927531,
+          48.193226937005704
         ],
         "pixel": [
-          5668,
-          4865
+          433,
+          344
+        ]
+      },
+      {
+        "location": [
+          16.36913516057414,
+          48.21965414376908
+        ],
+        "pixel": [
+          472,
+          325
         ]
       }
     ]
   },
-  "pubdate": [
-    "1890",
-    "1899"
-  ]
+  "pubdate": ["[189-?]"]
 }

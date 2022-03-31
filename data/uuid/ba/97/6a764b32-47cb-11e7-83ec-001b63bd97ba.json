@@ -3,238 +3,124 @@
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:6a764b32-47cb-11e7-83ec-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa : barevná ; 39 x 52 cm na listu 48 x 63 cm",
-  "scale": 75000,
-  "external_id": "700826",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:6a764b32-47cb-11e7-83ec-001b63bd97ba/ImageProperties.xml",
+  "description": "Parkan",
+  "scale": null,
+  "external_id": "uuid:6a764b32-47cb-11e7-83ec-001b63bd97ba",
   "title": "Parkan",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:dedf32da-5551-409b-b526-f2eeda369577?page=uuid:6a764b32-47cb-11e7-83ec-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": null,
-  "link_url": "http://kramerius.cbvk.cz/search/handle/uuid:dedf32da-5551-409b-b526-f2eeda369577",
-  "id": "da36a4d1-4479-5a4b-9c78-af7ee1ae0e38",
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:dedf32da-5551-409b-b526-f2eeda369577?page=uuid:6a764b32-47cb-11e7-83ec-001b63bd97ba",
+  "id": "45125ef2-2430-4f3b-8f3a-ba7d1729fa9c",
   "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        6722,
-        526
+        539,
+        41
       ],
       [
-        6732,
-        4920
+        540,
+        385
       ],
       [
-        863,
-        4950
+        69,
+        388
       ],
       [
-        879,
-        555
+        70,
+        43
       ],
       [
-        3072,
-        547
-      ],
-      [
-        6722,
-        526
+        539,
+        41
       ]
     ],
-    "created": "2018-01-08T15:42:56.952299+00:00",
+    "created": "2020-07-07T12:58:35.264754+00:00",
     "transformation_method": "affine",
-    "mapID": "da36a4d1-4479-5a4b-9c78-af7ee1ae0e38",
+    "mapID": "45125ef2-2430-4f3b-8f3a-ba7d1729fa9c",
     "affine_transformation": null,
-    "changed": "2018-01-08T15:42:56.952299+00:00",
+    "changed": "2020-07-07T12:58:35.264754+00:00",
     "gcps": [
       {
         "location": [
-          18.398742390890362,
-          47.92904680243291
+          18.420739118583374,
+          47.904293206684116
         ],
         "pixel": [
-          1630,
-          1795
+          153,
+          174
         ]
       },
       {
         "location": [
-          18.783678649790527,
-          47.97760623900436
+          18.641302220050108,
+          47.8891297896912
         ],
         "pixel": [
-          6149,
-          904
+          360,
+          194
         ]
       },
       {
         "location": [
-          18.71950725613777,
-          47.81572274947726
+          18.74031186462466,
+          47.7855180163223
         ],
         "pixel": [
-          5409,
-          3757
+          453,
+          336
         ]
       },
       {
         "location": [
-          18.507154296563677,
-          47.96392668582206
+          18.51022846170262,
+          47.85028310586688
         ],
         "pixel": [
-          2928,
-          1170
+          236,
+          248
         ]
       },
       {
         "location": [
-          18.6414254479696,
-          47.88902272008403
+          18.697348263534295,
+          47.986957688289834
         ],
         "pixel": [
-          4487,
-          2481
+          412,
+          58
         ]
       },
       {
         "location": [
-          18.78314220798755,
-          47.97618416198347
+          18.5162549077462,
+          47.960279682911846
         ],
         "pixel": [
-          6143,
-          934
+          243,
+          97
         ]
       },
       {
         "location": [
-          18.726888695346755,
-          47.7956036133032
+          18.442232750425365,
+          47.801360842091924
         ],
         "pixel": [
-          5487,
-          4113
-        ]
-      },
-      {
-        "location": [
-          18.714700737583083,
-          47.79929366590588
-        ],
-        "pixel": [
-          5351,
-          4047
-        ]
-      },
-      {
-        "location": [
-          18.676264999203323,
-          47.9888207960648
-        ],
-        "pixel": [
-          4897,
-          713
-        ]
-      },
-      {
-        "location": [
-          18.50931095754658,
-          47.84836442912331
-        ],
-        "pixel": [
-          2933,
-          3194
-        ]
-      },
-      {
-        "location": [
-          18.64073152794437,
-          47.927602926993444
-        ],
-        "pixel": [
-          4470,
-          1808
-        ]
-      },
-      {
-        "location": [
-          18.356006657769765,
-          47.82037827141298
-        ],
-        "pixel": [
-          1124,
-          3695
-        ]
-      },
-      {
-        "location": [
-          18.443351587980942,
-          47.808498880952726
-        ],
-        "pixel": [
-          2171,
-          3900
-        ]
-      },
-      {
-        "location": [
-          18.598467688153047,
-          47.79327621737809
-        ],
-        "pixel": [
-          3985,
-          4153
-        ]
-      },
-      {
-        "location": [
-          18.45186423249606,
-          47.819780172304434
-        ],
-        "pixel": [
-          2275,
-          3705
-        ]
-      },
-      {
-        "location": [
-          18.704486885654372,
-          47.80984346405893
-        ],
-        "pixel": [
-          5237,
-          3862
-        ]
-      },
-      {
-        "location": [
-          18.404861881649463,
-          47.760087316728374
-        ],
-        "pixel": [
-          1709,
-          4758
-        ]
-      },
-      {
-        "location": [
-          18.54054556484074,
-          47.980440903737616
-        ],
-        "pixel": [
-          3311,
-          877
+          173,
+          315
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["[1947"]
 }

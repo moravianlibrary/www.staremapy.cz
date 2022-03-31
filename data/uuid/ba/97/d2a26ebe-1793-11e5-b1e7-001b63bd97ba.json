@@ -1,121 +1,188 @@
 {
-  "date": ["1937"],
-  "creator": null,
+  "date": [null],
+  "creator": "Lauda, Ladislav",
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:d2a26ebe-1793-11e5-b1e7-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, barevná, 107x 65",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:d2a26ebe-1793-11e5-b1e7-001b63bd97ba/ImageProperties.xml",
+  "description": "Kulturní mapa země České a Moravskoslezské",
   "scale": null,
-  "external_id": "85575_1",
-  "title": "Kulturní mapa země České a Moravskoslezské [obrazová mapa s rejstříkem] /",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
+  "external_id": "uuid:d2a26ebe-1793-11e5-b1e7-001b63bd97ba",
+  "title": "Kulturní mapa země České a Moravskoslezské",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
   "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5d035-00c9-11e5-b939-0800200c9a66?page=uuid:d2a26ebe-1793-11e5-b1e7-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "Nakladatelství Šolc a Šimáček v Praze",
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MC_458_001.php",
-  "id": "aa84f6cf-e276-5411-977f-cd6965c65c5d",
-  "physical_size": [
-    107,
-    65
-  ],
+  "publisher": "Šolc a Šimáček",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5d035-00c9-11e5-b939-0800200c9a66?page=uuid:d2a26ebe-1793-11e5-b1e7-001b63bd97ba",
+  "id": "18c12b5f-fec3-468f-8f15-41146edc68f9",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        452,
-        1568
+        469,
+        113
       ],
       [
-        1057,
-        1529
+        473,
+        68
       ],
       [
-        1375,
-        1426
+        494,
+        56
       ],
       [
-        1516,
-        1155
+        512,
+        47
       ],
       [
-        1543,
-        894
+        542,
+        46
       ],
       [
-        1336,
-        513
+        564,
+        35
       ],
       [
-        440,
-        545
+        575,
+        39
       ],
       [
-        452,
-        1568
+        578,
+        71
+      ],
+      [
+        574,
+        104
+      ],
+      [
+        572,
+        126
+      ],
+      [
+        542,
+        144
+      ],
+      [
+        512,
+        141
+      ],
+      [
+        492,
+        134
+      ],
+      [
+        482,
+        135
+      ],
+      [
+        477,
+        134
+      ],
+      [
+        473,
+        132
+      ],
+      [
+        469,
+        119
+      ],
+      [
+        469,
+        113
       ]
     ],
-    "created": "2019-10-08T12:32:51.089092+00:00",
+    "created": "2021-07-29T10:53:12.401496+00:00",
     "transformation_method": "affine",
-    "mapID": "aa84f6cf-e276-5411-977f-cd6965c65c5d",
+    "mapID": "18c12b5f-fec3-468f-8f15-41146edc68f9",
     "affine_transformation": null,
-    "changed": "2019-10-08T12:32:51.089092+00:00",
+    "changed": "2021-07-29T10:55:47.849852+00:00",
     "gcps": [
       {
         "location": [
-          12.369234775337544,
-          50.082055544544204
+          16.607452405114834,
+          49.19803785924316
         ],
         "pixel": [
-          1092,
-          859
+          533,
+          70
         ]
       },
       {
         "location": [
-          12.368752149009396,
-          50.07819092750407
+          16.608602903315763,
+          49.19309237797455
         ],
         "pixel": [
-          1029,
-          1208
+          536,
+          104
         ]
       },
       {
         "location": [
-          12.370020833873435,
-          50.07960924544847
+          16.60801818175054,
+          49.191472713060875
         ],
         "pixel": [
-          1130,
-          1076
+          535,
+          115
         ]
       },
       {
         "location": [
-          12.370396343135518,
-          50.08076245847914
+          16.60700430674291,
+          49.19102396534865
         ],
         "pixel": [
-          1165,
-          973
+          532,
+          120
         ]
       },
       {
         "location": [
-          12.36488204133701,
-          50.08122938955998
+          16.603861643733484,
+          49.1974957101572
         ],
         "pixel": [
-          832,
-          923
+          519,
+          74
+        ]
+      },
+      {
+        "location": [
+          16.60234530968405,
+          49.19283470755812
+        ],
+        "pixel": [
+          514,
+          109
+        ]
+      },
+      {
+        "location": [
+          16.60098274750447,
+          49.19402313544131
+        ],
+        "pixel": [
+          508,
+          99
+        ]
+      },
+      {
+        "location": [
+          16.61345956116317,
+          49.19582394525318
+        ],
+        "pixel": [
+          556,
+          85
         ]
       }
     ]
   },
-  "pubdate": ["1937"]
+  "pubdate": ["[1937]"]
 }

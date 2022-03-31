@@ -1,0 +1,106 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/orlik_0626/ImageProperties.xml",
+  "description": null,
+  "scale": 1440,
+  "external_id": "16915",
+  "title": "Mapa dvora Zalužany, list 1 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/16915",
+  "id": "b5c085f2-a0a3-5314-abb5-27e8589c712e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        16840,
+        0
+      ],
+      [
+        16840,
+        12262
+      ],
+      [
+        0,
+        12262
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        16840,
+        0
+      ]
+    ],
+    "created": "2014-11-25T18:11:41.552440+00:00",
+    "transformation_method": "affine",
+    "mapID": "b5c085f2-a0a3-5314-abb5-27e8589c712e",
+    "affine_transformation": null,
+    "changed": "2014-11-25T18:11:41.552440+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.085051155095583,
+          49.5406369982463
+        ],
+        "pixel": [
+          6043,
+          6045
+        ]
+      },
+      {
+        "location": [
+          14.087432956700823,
+          49.54474442545171
+        ],
+        "pixel": [
+          6742,
+          4203
+        ]
+      },
+      {
+        "location": [
+          14.089029657781733,
+          49.54663223061493
+        ],
+        "pixel": [
+          7239,
+          3338
+        ]
+      },
+      {
+        "location": [
+          14.08270973868728,
+          49.53874217605215
+        ],
+        "pixel": [
+          5285,
+          6942
+        ]
+      },
+      {
+        "location": [
+          14.083377456670291,
+          49.540052183921176
+        ],
+        "pixel": [
+          5476,
+          6358
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1919"]
+}

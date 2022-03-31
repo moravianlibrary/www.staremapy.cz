@@ -1,0 +1,110 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Krimice_M_24-2/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "19132",
+  "title": "Porostní mapa revíru Vejprnice",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/19132",
+  "id": "8164bb3a-3a94-50a9-af6c-074fdc055f17",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        19240,
+        3595
+      ],
+      [
+        19145,
+        7303
+      ],
+      [
+        13924,
+        9554
+      ],
+      [
+        7794,
+        8343
+      ],
+      [
+        7851,
+        4011
+      ],
+      [
+        19240,
+        3595
+      ]
+    ],
+    "created": "2014-11-25T16:57:11.247560+00:00",
+    "transformation_method": "affine",
+    "mapID": "8164bb3a-3a94-50a9-af6c-074fdc055f17",
+    "affine_transformation": null,
+    "changed": "2014-11-25T16:57:11.247560+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.270516821,
+          49.724119047
+        ],
+        "pixel": [
+          17348,
+          6249
+        ]
+      },
+      {
+        "location": [
+          13.27015204,
+          49.722391988
+        ],
+        "pixel": [
+          16960,
+          7708
+        ]
+      },
+      {
+        "location": [
+          13.259605595,
+          49.72497215
+        ],
+        "pixel": [
+          13494,
+          4493
+        ]
+      },
+      {
+        "location": [
+          13.262981979713679,
+          49.7197690418497
+        ],
+        "pixel": [
+          13980,
+          9277
+        ]
+      },
+      {
+        "location": [
+          13.272732325782608,
+          49.72588661986342
+        ],
+        "pixel": [
+          18762,
+          4886
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1901"]
+}

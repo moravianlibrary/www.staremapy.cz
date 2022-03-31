@@ -1,0 +1,106 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1233/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "7109",
+  "title": "Dobšice o. České Budějovice 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/7109",
+  "id": "ab8303ed-c276-58fc-99fd-23926f8e5311",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1536,
+        14528
+      ],
+      [
+        17536,
+        14528
+      ],
+      [
+        17536,
+        1408
+      ],
+      [
+        1536,
+        1408
+      ],
+      [
+        1536,
+        14528
+      ]
+    ],
+    "created": "2015-05-19T12:54:29.329220+00:00",
+    "transformation_method": "affine",
+    "mapID": "ab8303ed-c276-58fc-99fd-23926f8e5311",
+    "affine_transformation": null,
+    "changed": "2015-05-19T12:54:29.329220+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.464287476,
+          49.203690042
+        ],
+        "pixel": [
+          9878,
+          7866
+        ]
+      },
+      {
+        "location": [
+          14.463874361,
+          49.204603232
+        ],
+        "pixel": [
+          9648,
+          7063
+        ]
+      },
+      {
+        "location": [
+          14.470143033,
+          49.201916208
+        ],
+        "pixel": [
+          13292,
+          9482
+        ]
+      },
+      {
+        "location": [
+          14.458472446,
+          49.198810897
+        ],
+        "pixel": [
+          6493,
+          12335
+        ]
+      },
+      {
+        "location": [
+          14.458000378,
+          49.204299901
+        ],
+        "pixel": [
+          6130,
+          7334
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1887"]
+}

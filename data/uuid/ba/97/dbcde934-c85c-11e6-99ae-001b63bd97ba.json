@@ -1,216 +1,126 @@
 {
   "date": [null],
-  "creator": "Niederle, Lubor,",
+  "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:dbcde934-c85c-11e6-99ae-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa : barevná ; 64 x 38 cm na listu 68 x 44 cm",
-  "scale": 200000,
-  "external_id": "656128",
-  "title": "37°49° Baňská Bystrica = (Neusohl - Beszterczebánya) /",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:dbcde934-c85c-11e6-99ae-001b63bd97ba/ImageProperties.xml",
+  "description": "37°49° Baňská Bystrica = (Neusohl - Beszterczebánya) / čs. názvosloví dle Lubora Niederle a Ottova zeměpisného atlasu",
+  "scale": null,
+  "external_id": "uuid:dbcde934-c85c-11e6-99ae-001b63bd97ba",
+  "title": "37°49° Baňská Bystrica = (Neusohl - Beszterczebánya) / čs. názvosloví dle Lubora Niederle a Ottova zeměpisného atlasu",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
   "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:1299c5dc-3003-11e6-ac61-9e71128cae77?page=uuid:dbcde934-c85c-11e6-99ae-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": null,
-  "link_url": "http://kramerius.cbvk.cz/search/handle/uuid:1299c5dc-3003-11e6-ac61-9e71128cae77",
-  "id": "3e66fb16-2d12-53e9-a958-12bbda697264",
+  "publisher": "Ministerstvo Národní Obrany, Kartografické oddělení",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:1299c5dc-3003-11e6-ac61-9e71128cae77?page=uuid:dbcde934-c85c-11e6-99ae-001b63bd97ba",
+  "id": "ff967f39-db82-4f4a-9094-9652b99f78e9",
   "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        4805,
-        178
+        537,
+        56
       ],
       [
-        4867,
-        7572
+        544,
+        420
       ],
       [
-        490,
-        7556
+        56,
+        421
       ],
       [
-        547,
-        1025
+        56,
+        51
       ],
       [
-        1534,
-        1025
-      ],
-      [
-        1521,
-        765
-      ],
-      [
-        1558,
-        449
-      ],
-      [
-        1983,
-        200
-      ],
-      [
-        2318,
-        166
-      ],
-      [
-        4805,
-        178
+        537,
+        56
       ]
     ],
-    "created": "2018-01-08T15:42:56.952299+00:00",
+    "created": "2020-07-07T12:57:36.318529+00:00",
     "transformation_method": "affine",
-    "mapID": "3e66fb16-2d12-53e9-a958-12bbda697264",
+    "mapID": "ff967f39-db82-4f4a-9094-9652b99f78e9",
     "affine_transformation": null,
-    "changed": "2018-01-08T15:42:56.952299+00:00",
+    "changed": "2020-07-07T12:57:36.318529+00:00",
     "gcps": [
       {
         "location": [
-          18.926356771696426,
-          48.93813294295674
+          19.639007004100822,
+          48.80446699583601
         ],
         "pixel": [
-          937,
-          4692
+          456,
+          307
         ]
       },
       {
         "location": [
-          19.132749287760834,
-          48.738317058091496
+          19.303591098137723,
+          49.08144816269572
         ],
         "pixel": [
-          1842,
-          5956
+          294,
+          207
         ]
       },
       {
         "location": [
-          19.384094050428573,
-          49.38557530909506
+          19.41425488707761,
+          48.551246636576195
         ],
         "pixel": [
-          2907,
-          1761
+          349,
+          397
         ]
       },
       {
         "location": [
-          19.30330468085227,
-          49.085361082766696
+          18.937676160952638,
+          49.34588987727753
         ],
         "pixel": [
-          2567,
-          3734
+          113,
+          110
         ]
       },
       {
         "location": [
-          19.030823079436743,
-          49.18740694969085
+          19.69430660600292,
+          49.47968342656617
         ],
         "pixel": [
-          1385,
-          3057
+          480,
+          64
         ]
       },
       {
         "location": [
-          19.68241315864148,
-          48.68116812795438
+          19.15022429469612,
+          48.739106225175306
         ],
         "pixel": [
-          4118,
-          6432
+          213,
+          331
         ]
       },
       {
         "location": [
-          19.70900848192355,
-          48.7947709876961
+          19.60795205390911,
+          49.35923479073665
         ],
         "pixel": [
-          4324,
-          5638
-        ]
-      },
-      {
-        "location": [
-          19.28862645296309,
-          48.5534071841638
-        ],
-        "pixel": [
-          2498,
-          7203
-        ]
-      },
-      {
-        "location": [
-          18.839743047589277,
-          49.3993145496847
-        ],
-        "pixel": [
-          569,
-          1665
-        ]
-      },
-      {
-        "location": [
-          19.709750925797767,
-          49.07083900712425
-        ],
-        "pixel": [
-          4326,
-          3826
-        ]
-      },
-      {
-        "location": [
-          19.72139371852497,
-          49.26122949234883
-        ],
-        "pixel": [
-          4362,
-          2583
-        ]
-      },
-      {
-        "location": [
-          19.75952455818053,
-          49.556962971244474
-        ],
-        "pixel": [
-          4505,
-          640
-        ]
-      },
-      {
-        "location": [
-          19.145384908619263,
-          49.558956818269735
-        ],
-        "pixel": [
-          1876,
-          626
-        ]
-      },
-      {
-        "location": [
-          18.864649076886053,
-          48.52771547463195
-        ],
-        "pixel": [
-          643,
-          7369
+          440,
+          108
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["1920"]
 }

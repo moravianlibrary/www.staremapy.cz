@@ -3,125 +3,144 @@
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:5a98cbaf-166c-11e5-8261-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, černobílá, 53x43",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:5a98cbaf-166c-11e5-8261-001b63bd97ba/ImageProperties.xml",
+  "description": "Kaplice a Freistadt",
   "scale": null,
-  "external_id": "162182",
+  "external_id": "uuid:5a98cbaf-166c-11e5-8261-001b63bd97ba",
   "title": "Kaplice a Freistadt",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf55b11-00c9-11e5-b939-0800200c9a66?page=uuid:5a98cbaf-166c-11e5-8261-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "Vojenský zeměpisný ústav",
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MA_687_001.php",
-  "id": "5fb99e5c-76e3-5ef4-ab12-a9d8b764c0ec",
-  "physical_size": [
-    53,
-    43
-  ],
+  "publisher": null,
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf55b11-00c9-11e5-b939-0800200c9a66?page=uuid:5a98cbaf-166c-11e5-8261-001b63bd97ba",
+  "id": "c5126a43-44f3-41a5-9681-062bed7b96c1",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        306,
-        488
+        568,
+        44
       ],
       [
-        6196,
-        507
+        567,
+        408
       ],
       [
-        6179,
-        4903
+        26,
+        406
       ],
       [
-        5115,
-        4891
+        30,
+        42
       ],
       [
-        258,
-        4879
-      ],
-      [
-        257,
-        4879
-      ],
-      [
-        306,
-        488
+        568,
+        44
       ]
     ],
-    "created": "2013-03-21T11:06:57.770100+00:00",
+    "created": "2020-07-07T12:52:00.623955+00:00",
     "transformation_method": "affine",
-    "mapID": "5fb99e5c-76e3-5ef4-ab12-a9d8b764c0ec",
+    "mapID": "c5126a43-44f3-41a5-9681-062bed7b96c1",
     "affine_transformation": null,
-    "changed": "2013-03-21T11:06:57.770100+00:00",
+    "changed": "2020-07-07T12:52:00.623955+00:00",
     "gcps": [
       {
         "location": [
-          14.436635971,
-          48.661632052
+          14.498862941566744,
+          48.73908794198823
         ],
         "pixel": [
-          1500,
-          2033
+          206,
+          57
         ]
       },
       {
         "location": [
-          14.503455162,
-          48.532749466
+          14.519061968092803,
+          48.73927149710181
         ],
         "pixel": [
-          2264,
-          4290
+          228,
+          57
         ]
       },
       {
         "location": [
-          14.628338814,
-          48.727153209
+          14.571859710949271,
+          48.72994186580843
         ],
         "pixel": [
-          3764,
-          890
+          285,
+          71
         ]
       },
       {
         "location": [
-          14.638413514,
-          48.577047942
+          14.627488294210618,
+          48.729493311710996
         ],
         "pixel": [
-          3870,
-          3520
+          345,
+          71
         ]
       },
       {
         "location": [
-          14.790023448291121,
-          48.64023310146317
+          14.814087033867064,
+          48.652975339221854
         ],
         "pixel": [
-          5676,
-          2419
+          546,
+          184
         ]
       },
       {
         "location": [
-          14.617299165,
-          48.525828865
+          14.802197561884372,
+          48.52481204732703
         ],
         "pixel": [
-          3627,
-          4417
+          534,
+          370
+        ]
+      },
+      {
+        "location": [
+          14.673371631939988,
+          48.519905336568684
+        ],
+        "pixel": [
+          392,
+          385
+        ]
+      },
+      {
+        "location": [
+          14.362044477416589,
+          48.5024823594907
+        ],
+        "pixel": [
+          54,
+          403
+        ]
+      },
+      {
+        "location": [
+          14.345999494359894,
+          48.604217865245516
+        ],
+        "pixel": [
+          40,
+          254
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["[1915?]"]
 }

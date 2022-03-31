@@ -3,217 +3,124 @@
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:40d82bf5-1658-11e5-9f8f-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, černobílá, 58,5x45",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:40d82bf5-1658-11e5-9f8f-001b63bd97ba/ImageProperties.xml",
+  "description": "Hohenfurth und Rohrbach",
   "scale": null,
-  "external_id": "159172",
+  "external_id": "uuid:40d82bf5-1658-11e5-9f8f-001b63bd97ba",
   "title": "Hohenfurth und Rohrbach",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
   "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf55af9-00c9-11e5-b939-0800200c9a66?page=uuid:40d82bf5-1658-11e5-9f8f-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": "Militärgeographisches Institut",
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MA_610_001.php",
-  "id": "593ed3ff-3911-554d-b7c8-3a3b5222ca52",
-  "physical_size": [
-    58,
-    45
-  ],
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf55af9-00c9-11e5-b939-0800200c9a66?page=uuid:40d82bf5-1658-11e5-9f8f-001b63bd97ba",
+  "id": "022c5b61-7a88-4422-9847-ae320b1837c9",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        631,
-        4850
+        545,
+        37
       ],
       [
-        6422,
-        4842
+        546,
+        393
       ],
       [
-        6404,
-        467
+        52,
+        394
       ],
       [
-        670,
-        477
+        54,
+        37
       ],
       [
-        631,
-        4850
+        545,
+        37
       ]
     ],
-    "created": "2013-03-22T13:03:42.202490+00:00",
+    "created": "2020-07-07T12:51:20.213568+00:00",
     "transformation_method": "affine",
-    "mapID": "593ed3ff-3911-554d-b7c8-3a3b5222ca52",
+    "mapID": "022c5b61-7a88-4422-9847-ae320b1837c9",
     "affine_transformation": null,
-    "changed": "2013-03-22T13:03:42.202490+00:00",
+    "changed": "2020-07-07T12:51:20.213568+00:00",
     "gcps": [
       {
         "location": [
-          14.287021682,
-          48.678049758
+          14.142501427747371,
+          48.54258880010988
         ],
         "pixel": [
-          5889,
-          1697
+          357,
+          330
         ]
       },
       {
         "location": [
-          14.142367335,
-          48.542612326
+          14.03776058350996,
+          48.57895101588002
         ],
         "pixel": [
-          4212,
-          4088
+          254,
+          282
         ]
       },
       {
         "location": [
-          13.872917982,
-          48.515211562
+          14.086210113880247,
+          48.50175000262195
         ],
         "pixel": [
-          1077,
-          4567
+          301,
+          390
         ]
       },
       {
         "location": [
-          13.836321922,
-          48.747261832
+          14.311333461081627,
+          48.613504894526784
         ],
         "pixel": [
-          698,
-          495
+          524,
+          230
         ]
       },
       {
         "location": [
-          14.311668368,
-          48.61590291
+          13.948108379281212,
+          48.661383710849066
         ],
         "pixel": [
-          6179,
-          2809
+          168,
+          164
         ]
       },
       {
         "location": [
-          14.292748066,
-          48.52255257
+          13.894590901061301,
+          48.61817613107445
         ],
         "pixel": [
-          5955,
-          4436
+          115,
+          225
         ]
       },
       {
         "location": [
-          14.165954681,
-          48.659409561
+          14.287163094545669,
+          48.67772670239765
         ],
         "pixel": [
-          4486,
-          2053
-        ]
-      },
-      {
-        "location": [
-          13.991085382,
-          48.572745627
-        ],
-        "pixel": [
-          2452,
-          3573
-        ]
-      },
-      {
-        "location": [
-          13.894311281,
-          48.61802718
-        ],
-        "pixel": [
-          1342,
-          2767
-        ]
-      },
-      {
-        "location": [
-          13.904804083,
-          48.546675173
-        ],
-        "pixel": [
-          1457,
-          4023
-        ]
-      },
-      {
-        "location": [
-          13.868283125,
-          48.682333552
-        ],
-        "pixel": [
-          1054,
-          1642
-        ]
-      },
-      {
-        "location": [
-          13.957944007,
-          48.696328671
-        ],
-        "pixel": [
-          2102,
-          1403
-        ]
-      },
-      {
-        "location": [
-          13.996439071,
-          48.723967514
-        ],
-        "pixel": [
-          2548,
-          930
-        ]
-      },
-      {
-        "location": [
-          14.03073916,
-          48.619094602
-        ],
-        "pixel": [
-          2917,
-          2751
-        ]
-      },
-      {
-        "location": [
-          14.076191874,
-          48.716199164
-        ],
-        "pixel": [
-          3451,
-          1064
-        ]
-      },
-      {
-        "location": [
-          14.175794201172721,
-          48.588698587711434
-        ],
-        "pixel": [
-          4603,
-          3278
+          500,
+          138
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["[1913]"]
 }

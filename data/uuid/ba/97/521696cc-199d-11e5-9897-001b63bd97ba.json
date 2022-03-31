@@ -1,116 +1,207 @@
 {
-  "date": ["1908"],
-  "creator": null,
+  "date": [null],
+  "creator": "Šubrt, J.",
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:521696cc-199d-11e5-9897-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, barevná, 78x63",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:521696cc-199d-11e5-9897-001b63bd97ba/ImageProperties.xml",
+  "description": "Národnostní mapa severozápadních Čech dle skutečných poměrů",
   "scale": null,
-  "external_id": "m0176057_1",
+  "external_id": "uuid:521696cc-199d-11e5-9897-001b63bd97ba",
   "title": "Národnostní mapa severozápadních Čech dle skutečných poměrů",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:932a5654-00c9-11e5-b939-0800200c9a66?page=uuid:521696cc-199d-11e5-9897-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "Nákladem Severočeského menšinového knihkupectví O.J. Bukač v Mostě, 1908",
-  "link_url": null,
-  "id": "9797b70c-c60d-5b84-9ec3-ffcb22e78ad9",
-  "physical_size": [
-    78,
-    63
-  ],
+  "publisher": "O.J. Bukač",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:932a5654-00c9-11e5-b939-0800200c9a66?page=uuid:521696cc-199d-11e5-9897-001b63bd97ba",
+  "id": "36c88f81-1058-4a6d-ace5-ac4fdded1725",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        837,
-        985
+        562,
+        3
       ],
       [
-        1802,
-        972
+        562,
+        278
       ],
       [
-        1787,
-        282
+        391,
+        280
       ],
       [
-        831,
-        289
+        394,
+        406
       ],
       [
-        837,
-        985
+        51,
+        410
+      ],
+      [
+        46,
+        73
+      ],
+      [
+        98,
+        105
+      ],
+      [
+        134,
+        56
+      ],
+      [
+        126,
+        7
+      ],
+      [
+        206,
+        0
+      ],
+      [
+        562,
+        3
       ]
     ],
-    "created": "2020-07-21T13:19:15.481095+00:00",
+    "created": "2020-07-07T12:53:07.509985+00:00",
     "transformation_method": "affine",
-    "mapID": "9797b70c-c60d-5b84-9ec3-ffcb22e78ad9",
+    "mapID": "36c88f81-1058-4a6d-ace5-ac4fdded1725",
     "affine_transformation": null,
-    "changed": "2020-07-21T13:19:15.481095+00:00",
+    "changed": "2020-07-07T12:53:07.509985+00:00",
     "gcps": [
       {
         "location": [
-          14.22654175928232,
-          50.78874165406242
+          13.5620664122797,
+          50.33430489926502
         ],
         "pixel": [
-          1495,
-          416
+          162,
+          376
         ]
       },
       {
         "location": [
-          14.228218972687863,
-          50.79138535441706
+          13.422504749598446,
+          50.30505378046897
         ],
         "pixel": [
-          1518,
-          327
+          82,
+          402
         ]
       },
       {
         "location": [
-          14.214593173044992,
-          50.782617287225264
+          13.681139471021439,
+          50.64470608183336
         ],
         "pixel": [
-          1380,
-          514
+          223,
+          88
         ]
       },
       {
         "location": [
-          14.198210418229253,
-          50.77442720629091
+          13.779963515666187,
+          50.41253330214272
         ],
         "pixel": [
-          1247,
-          614
+          284,
+          304
         ]
       },
       {
         "location": [
-          14.21690005064502,
-          50.77034905537096
+          13.67360324910192,
+          50.492623288766765
         ],
         "pixel": [
-          1404,
-          647
+          222,
+          232
         ]
       },
       {
         "location": [
-          14.18388942666658,
-          50.75519352214005
+          13.751511159488551,
+          50.43074359325567
         ],
         "pixel": [
-          1069,
-          893
+          268,
+          285
+        ]
+      },
+      {
+        "location": [
+          13.687867755403861,
+          50.314445289384025
+        ],
+        "pixel": [
+          233,
+          394
+        ]
+      },
+      {
+        "location": [
+          13.789312360297162,
+          50.3748427854226
+        ],
+        "pixel": [
+          291,
+          338
+        ]
+      },
+      {
+        "location": [
+          13.751546857367465,
+          50.32668403361836
+        ],
+        "pixel": [
+          269,
+          383
+        ]
+      },
+      {
+        "location": [
+          13.729805805476003,
+          50.684542461997296
+        ],
+        "pixel": [
+          251,
+          49
+        ]
+      },
+      {
+        "location": [
+          13.909083780467496,
+          50.32474882654992
+        ],
+        "pixel": [
+          360,
+          383
+        ]
+      },
+      {
+        "location": [
+          14.070982094341117,
+          50.44258626075569
+        ],
+        "pixel": [
+          452,
+          273
+        ]
+      },
+      {
+        "location": [
+          14.2276897380112,
+          50.46204045633536
+        ],
+        "pixel": [
+          543,
+          253
         ]
       }
     ]

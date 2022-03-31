@@ -1,0 +1,126 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1688/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "9033",
+  "title": "Lomnice nad Lužnicí o. Jindřichův Hradec 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/9033",
+  "id": "72e0d37c-b958-50dc-bf6d-9091c3cb0f8c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        784,
+        13520
+      ],
+      [
+        16304,
+        13520
+      ],
+      [
+        16304,
+        848
+      ],
+      [
+        784,
+        848
+      ],
+      [
+        784,
+        13520
+      ]
+    ],
+    "created": "2015-05-16T20:39:15.646410+00:00",
+    "transformation_method": "affine",
+    "mapID": "72e0d37c-b958-50dc-bf6d-9091c3cb0f8c",
+    "affine_transformation": null,
+    "changed": "2015-05-16T20:39:15.646410+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.735470874991249,
+          49.0719155482804
+        ],
+        "pixel": [
+          15934,
+          2078
+        ]
+      },
+      {
+        "location": [
+          14.733555193837319,
+          49.06874125161062
+        ],
+        "pixel": [
+          15004,
+          4816
+        ]
+      },
+      {
+        "location": [
+          14.731974958108081,
+          49.06712718911078
+        ],
+        "pixel": [
+          14063,
+          6291
+        ]
+      },
+      {
+        "location": [
+          14.710558802,
+          49.06892672
+        ],
+        "pixel": [
+          1479,
+          4723
+        ]
+      },
+      {
+        "location": [
+          14.711709762944857,
+          49.06957250564784
+        ],
+        "pixel": [
+          2144,
+          4120
+        ]
+      },
+      {
+        "location": [
+          14.732528277898846,
+          49.06587535330351
+        ],
+        "pixel": [
+          14410,
+          7411
+        ]
+      },
+      {
+        "location": [
+          14.733470649342038,
+          49.06597399437388
+        ],
+        "pixel": [
+          14959,
+          7300
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

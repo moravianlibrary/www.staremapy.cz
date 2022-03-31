@@ -1,135 +1,196 @@
 {
-  "date": [
-    "1900",
-    "1999"
-  ],
+  "date": [null],
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:78238126-1b34-11e5-859f-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, barevná, 50x39",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:78238126-1b34-11e5-859f-001b63bd97ba/ImageProperties.xml",
+  "description": "Týn n. Vlt., Ševětín, Hluboká n. Vlt., Veselí n. Lužnicí, Lomnice n. Lužnicí",
   "scale": null,
-  "external_id": "292182",
-  "title": "[Týn n. Vlt., Ševětín, Hluboká n. Vlt., Veselí n. Lužnicí, Lomnice n. Lužnicí]",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "external_id": "uuid:78238126-1b34-11e5-859f-001b63bd97ba",
+  "title": "Týn n. Vlt., Ševětín, Hluboká n. Vlt., Veselí n. Lužnicí, Lomnice n. Lužnicí",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5f768-00c9-11e5-b939-0800200c9a66?page=uuid:78238126-1b34-11e5-859f-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": null,
-  "link_url": null,
-  "id": "efddd256-c87f-5cbd-9fa8-43757be69196",
-  "physical_size": [
-    50,
-    39
-  ],
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5f768-00c9-11e5-b939-0800200c9a66?page=uuid:78238126-1b34-11e5-859f-001b63bd97ba",
+  "id": "dfe1f763-0346-4aa2-acc3-008fd05b17de",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        8732,
-        206
+        582,
+        15
       ],
       [
-        8740,
-        6787
+        582,
+        424
       ],
       [
-        186,
-        6810
+        14,
+        424
       ],
       [
-        242,
-        232
+        17,
+        16
       ],
       [
-        8732,
-        206
+        582,
+        15
       ]
     ],
-    "created": "2013-02-26T18:58:26.780810+00:00",
+    "created": "2020-07-07T12:44:51.691003+00:00",
     "transformation_method": "affine",
-    "mapID": "efddd256-c87f-5cbd-9fa8-43757be69196",
+    "mapID": "dfe1f763-0346-4aa2-acc3-008fd05b17de",
     "affine_transformation": null,
-    "changed": "2013-02-26T18:58:26.780810+00:00",
+    "changed": "2020-07-07T12:44:51.691003+00:00",
     "gcps": [
       {
         "location": [
-          14.407097847,
-          49.037643813
+          14.345534504617833,
+          49.141846615766354
         ],
         "pixel": [
-          1445,
-          5767
+          29,
+          190
         ]
       },
       {
         "location": [
-          14.40798834,
-          49.033071874
+          14.364489800481635,
+          49.10771580483558
         ],
         "pixel": [
-          1486,
-          5880
+          49,
+          247
         ]
       },
       {
         "location": [
-          14.417998344,
-          49.224002887
+          14.435502191658612,
+          49.05117846294243
         ],
         "pixel": [
-          1681,
-          900
+          130,
+          340
         ]
       },
       {
         "location": [
-          14.651168076,
-          49.133463362
+          14.389851496237855,
+          49.0239970657492
         ],
         "pixel": [
-          5636,
-          3276
+          79,
+          384
         ]
       },
       {
         "location": [
-          14.795589001,
-          49.227355642
+          14.405751978235894,
+          49.06259612897608
         ],
         "pixel": [
-          8069,
-          791
+          96,
+          322
         ]
       },
       {
         "location": [
-          14.702989135,
-          49.077843668
+          14.370282446222982,
+          49.08956955899444
         ],
         "pixel": [
-          6503,
-          4715
+          56,
+          277
         ]
       },
       {
         "location": [
-          14.41068869,
-          49.117743776
+          14.382900071153184,
+          49.18471421016139
         ],
         "pixel": [
-          1532,
-          3676
+          72,
+          121
+        ]
+      },
+      {
+        "location": [
+          14.355594139708673,
+          49.220302270784
+        ],
+        "pixel": [
+          41,
+          63
+        ]
+      },
+      {
+        "location": [
+          14.482404765066635,
+          49.24546576776183
+        ],
+        "pixel": [
+          183,
+          21
+        ]
+      },
+      {
+        "location": [
+          14.611162014213383,
+          49.21322495033695
+        ],
+        "pixel": [
+          331,
+          73
+        ]
+      },
+      {
+        "location": [
+          14.72380005312698,
+          49.222952696261615
+        ],
+        "pixel": [
+          459,
+          54
+        ]
+      },
+      {
+        "location": [
+          14.822288122023432,
+          49.08076728624329
+        ],
+        "pixel": [
+          570,
+          290
+        ]
+      },
+      {
+        "location": [
+          14.757206583094602,
+          49.005133915182284
+        ],
+        "pixel": [
+          496,
+          415
+        ]
+      },
+      {
+        "location": [
+          14.607959541953042,
+          49.01571428834637
+        ],
+        "pixel": [
+          325,
+          398
         ]
       }
     ]
   },
-  "pubdate": [
-    "1900",
-    "1999"
-  ]
+  "pubdate": ["[19--?]"]
 }

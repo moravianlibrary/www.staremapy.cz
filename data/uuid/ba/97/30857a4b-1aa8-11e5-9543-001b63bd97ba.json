@@ -1,179 +1,164 @@
 {
   "date": [null],
-  "creator": null,
+  "creator": "Pouzar, Josef",
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://kramerius.cbvk.cz/search/zoomify/uuid:30857a4b-1aa8-11e5-9543-001b63bd97ba/ImageProperties.xml",
-  "description": "1 mapa, černobílá, 40x25",
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:30857a4b-1aa8-11e5-9543-001b63bd97ba/ImageProperties.xml",
+  "description": "Umgebungskarte für die Ausflugsmittelpunkte - Neuern, Neumark, Furth",
   "scale": null,
-  "external_id": "217240",
-  "title": "Umgebungskarte für die Ausflugsmittelpunkte",
-  "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": true,
+  "external_id": "uuid:30857a4b-1aa8-11e5-9543-001b63bd97ba",
+  "title": "Umgebungskarte für die Ausflugsmittelpunkte - Neuern, Neumark, Furth",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": false,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5d055-00c9-11e5-b939-0800200c9a66?page=uuid:30857a4b-1aa8-11e5-9543-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
-  "publisher": "Deutscher Böhmerwaldbund",
-  "link_url": "http://archiv.cbvk.cz/historicke_mapy/data/MC_628_001.php",
-  "id": "b75c2474-f6d8-5bb0-8742-1c0c8abe9fce",
-  "physical_size": [
-    40,
-    25
-  ],
+  "publisher": "Verlag des Deutschen Böhmerwaldbundes",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5d055-00c9-11e5-b939-0800200c9a66?page=uuid:30857a4b-1aa8-11e5-9543-001b63bd97ba",
+  "id": "09bf3127-f89b-4ed2-9e33-503aebcd8250",
+  "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        5575,
-        989
+        509,
+        78
       ],
       [
-        5537,
-        4600
+        506,
+        362
       ],
       [
-        4511,
-        4596
+        161,
+        361
       ],
       [
-        1761,
-        4569
+        161,
+        280
       ],
       [
-        1778,
-        3560
+        85,
+        280
       ],
       [
-        929,
-        3550
+        86,
+        74
       ],
       [
-        932,
-        2596
-      ],
-      [
-        953,
-        944
-      ],
-      [
-        2376,
-        950
-      ],
-      [
-        5575,
-        989
+        509,
+        78
       ]
     ],
-    "created": "2013-02-26T18:56:31.204770+00:00",
+    "created": "2020-07-07T12:51:00.947239+00:00",
     "transformation_method": "affine",
-    "mapID": "b75c2474-f6d8-5bb0-8742-1c0c8abe9fce",
+    "mapID": "09bf3127-f89b-4ed2-9e33-503aebcd8250",
     "affine_transformation": null,
-    "changed": "2013-02-26T18:56:31.204770+00:00",
+    "changed": "2021-10-09T07:00:47.438442+00:00",
     "gcps": [
       {
         "location": [
-          13.126444407447798,
-          48.96985573020024
+          13.454604025683587,
+          49.16973692358678
         ],
         "pixel": [
-          1963,
-          4248
+          429,
+          143
         ]
       },
       {
         "location": [
-          13.257719226,
-          49.149586571
+          13.232789815803766,
+          49.13755077704104
         ],
         "pixel": [
-          2953,
-          1952
+          257,
+          168
         ]
       },
       {
         "location": [
-          13.51503963,
-          49.140490945
+          13.496118368049862,
+          49.02427063499377
         ],
         "pixel": [
-          5116,
-          2106
+          463,
+          277
         ]
       },
       {
         "location": [
-          13.235059925,
-          49.13734639
+          13.100052656074778,
+          49.06789861533733
         ],
         "pixel": [
-          2804,
-          2136
+          152,
+          241
         ]
       },
       {
         "location": [
-          13.512808032,
-          49.173945638
+          13.050957502266188,
+          49.19773970458559
         ],
         "pixel": [
-          5134,
-          1743
+          116,
+          112
         ]
       },
       {
         "location": [
-          13.440839,
-          49.218633547
+          13.229614080330135,
+          49.013371092641734
         ],
         "pixel": [
-          4568,
-          1268
+          253,
+          288
         ]
       },
       {
         "location": [
-          13.454528995,
-          49.169512507
+          13.507356577408421,
+          48.96944402796379
         ],
         "pixel": [
-          4688,
-          1816
+          476,
+          339
         ]
       },
       {
         "location": [
-          13.520361133,
-          49.231259991
+          13.401784830582251,
+          48.987696315692745
         ],
         "pixel": [
-          5128,
-          1040
+          383,
+          317
         ]
       },
       {
         "location": [
-          13.230761824882238,
-          49.01370609164226
+          13.520231180679902,
+          49.2310943315058
         ],
         "pixel": [
-          2763,
-          3650
+          469,
+          80
         ]
       },
       {
         "location": [
-          13.050782571071727,
-          49.19678043470506
+          13.555421762955296,
+          49.14369393733753
         ],
         "pixel": [
-          1275,
-          1425
+          504,
+          160
         ]
       }
     ]
   },
-  "pubdate": [null]
+  "pubdate": ["[193-?]"]
 }
