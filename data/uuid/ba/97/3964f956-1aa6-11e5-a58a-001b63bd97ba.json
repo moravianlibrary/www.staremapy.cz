@@ -9,7 +9,7 @@
   "external_id": "uuid:3964f956-1aa6-11e5-a58a-001b63bd97ba",
   "title": "Das Großdeutsche Reich",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5a950-00c9-11e5-b939-0800200c9a66?page=uuid:3964f956-1aa6-11e5-a58a-001b63bd97ba",
@@ -124,7 +124,7 @@
     "transformation_method": "affine",
     "mapID": "b0fdbe0b-ae48-4e86-96d9-6fd14498776b",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:50:53.674055+00:00",
+    "changed": "2022-04-01T06:51:55.124197+00:00",
     "gcps": [
       {
         "location": [
@@ -274,6 +274,16 @@
         "pixel": [
           69,
           265
+        ]
+      },
+      {
+        "location": [
+          12.920518663886504,
+          50.8330143678412
+        ],
+        "pixel": [
+          289,
+          221
         ]
       }
     ]

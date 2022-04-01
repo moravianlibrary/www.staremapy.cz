@@ -9,7 +9,7 @@
   "external_id": "uuid:393d8894-1aa8-11e5-9543-001b63bd97ba",
   "title": "Die Markgrafschaft Mähren nebst dem Oesterreichisch Schlesien : mit Uebersicht aller Schlachten und Gefechte seit d. Jahre 113 v Ch. bis 1832 n. Ch.",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5d04f-00c9-11e5-b939-0800200c9a66?page=uuid:393d8894-1aa8-11e5-9543-001b63bd97ba",
@@ -76,8 +76,8 @@
         395
       ],
       [
-        176,
-        399
+        178,
+        396
       ],
       [
         170,
@@ -144,7 +144,7 @@
     "transformation_method": "affine",
     "mapID": "167ebd1d-3321-4cc1-b830-a82363358565",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:50:56.208548+00:00",
+    "changed": "2022-04-01T07:49:56.159403+00:00",
     "gcps": [
       {
         "location": [
@@ -154,26 +154,6 @@
         "pixel": [
           316,
           207
-        ]
-      },
-      {
-        "location": [
-          17.44989097391058,
-          49.45535754069397
-        ],
-        "pixel": [
-          345,
-          241
-        ]
-      },
-      {
-        "location": [
-          17.442895141711027,
-          49.07757406183936
-        ],
-        "pixel": [
-          349,
-          300
         ]
       },
       {
@@ -254,6 +234,66 @@
         "pixel": [
           332,
           89
+        ]
+      },
+      {
+        "location": [
+          17.716089813785313,
+          48.98788722195334
+        ],
+        "pixel": [
+          386,
+          316
+        ]
+      },
+      {
+        "location": [
+          18.78723358035689,
+          49.43821889660549
+        ],
+        "pixel": [
+          502,
+          229
+        ]
+      },
+      {
+        "location": [
+          17.161782848604002,
+          48.8046234071698
+        ],
+        "pixel": [
+          309,
+          343
+        ]
+      },
+      {
+        "location": [
+          16.1621247876764,
+          49.951620166906196
+        ],
+        "pixel": [
+          187,
+          150
+        ]
+      },
+      {
+        "location": [
+          15.352273727174708,
+          48.99828544879318
+        ],
+        "pixel": [
+          90,
+          304
+        ]
+      },
+      {
+        "location": [
+          15.240195753750948,
+          49.26032196752982
+        ],
+        "pixel": [
+          82,
+          267
         ]
       }
     ]
