@@ -9,7 +9,7 @@
   "external_id": "uuid:dec4e8a7-b1cc-11e6-8261-001b63bd97ba",
   "title": "Umgebungen von Schönberg und Littau",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:12982718-3003-11e6-ac61-9e71128cae77?page=uuid:dec4e8a7-b1cc-11e6-8261-001b63bd97ba",
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "be0f63d4-8bce-4ed0-86fe-3c5d552b5cf8",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:55:56.790989+00:00",
+    "changed": "2022-04-02T13:43:05.518447+00:00",
     "gcps": [
       {
         "location": [
@@ -168,6 +168,46 @@
         "pixel": [
           236,
           136
+        ]
+      },
+      {
+        "location": [
+          17.12152950970325,
+          49.770658182052586
+        ],
+        "pixel": [
+          294,
+          303
+        ]
+      },
+      {
+        "location": [
+          17.014445529822176,
+          49.79900229526464
+        ],
+        "pixel": [
+          223,
+          276
+        ]
+      },
+      {
+        "location": [
+          17.183921052078524,
+          49.75903295042261
+        ],
+        "pixel": [
+          336,
+          314
+        ]
+      },
+      {
+        "location": [
+          17.245933151719886,
+          49.83750554935514
+        ],
+        "pixel": [
+          376,
+          237
         ]
       }
     ]

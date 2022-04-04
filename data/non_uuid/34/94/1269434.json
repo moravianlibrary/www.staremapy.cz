@@ -13,7 +13,7 @@
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
+  "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": "H. Kirsch",
@@ -48,8 +48,49 @@
     "transformation_method": "affine",
     "mapID": "12398333-d025-5024-803d-de220324d256",
     "affine_transformation": null,
-    "changed": "2021-07-26T06:49:42.501058+00:00",
-    "gcps": []
+    "changed": "2022-04-02T23:04:49.355699+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.40677651507191,
+          48.20948704455344
+        ],
+        "pixel": [
+          1215,
+          1583
+        ]
+      },
+      {
+        "location": [
+          16.416487182935363,
+          48.204399421076744
+        ],
+        "pixel": [
+          2330,
+          1588
+        ]
+      },
+      {
+        "location": [
+          16.400379968572302,
+          48.217973551742915
+        ],
+        "pixel": [
+          137,
+          1044
+        ]
+      },
+      {
+        "location": [
+          16.4099383483101,
+          48.217900542842614
+        ],
+        "pixel": [
+          766,
+          537
+        ]
+      }
+    ]
   },
   "pubdate": ["1873"]
 }

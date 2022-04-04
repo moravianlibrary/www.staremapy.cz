@@ -9,7 +9,7 @@
   "external_id": "uuid:d8aab6be-b1cc-11e6-8261-001b63bd97ba",
   "title": "Umgebungen von Iglau nebst Zeichen Erlärung",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:12982cd6-3003-11e6-ac61-9e71128cae77?page=uuid:d8aab6be-b1cc-11e6-8261-001b63bd97ba",
@@ -24,20 +24,16 @@
   "georefereces": {
     "cutline": [
       [
-        551,
+        552,
         50
       ],
       [
-        558,
-        100
-      ],
-      [
-        548,
-        377
-      ],
-      [
-        186,
+        550,
         378
+      ],
+      [
+        187,
+        379
       ],
       [
         215,
@@ -73,10 +69,14 @@
       ],
       [
         543,
-        62
+        61
       ],
       [
-        551,
+        547,
+        50
+      ],
+      [
+        552,
         50
       ]
     ],
@@ -84,7 +84,7 @@
     "transformation_method": "affine",
     "mapID": "5c4ef5ce-09f1-4799-9e98-dc8b648adc9e",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:56:02.814057+00:00",
+    "changed": "2022-04-02T13:52:43.208963+00:00",
     "gcps": [
       {
         "location": [
@@ -118,18 +118,28 @@
       },
       {
         "location": [
-          15.937834033078024,
-          49.583064564981385
+          15.965995293116007,
+          49.46216291305015
         ],
         "pixel": [
-          514,
-          159
+          530,
+          274
         ]
       },
       {
         "location": [
-          15.632260819063946,
-          49.40443168775957
+          15.939979800289949,
+          49.571015308262645
+        ],
+        "pixel": [
+          513,
+          169
+        ]
+      },
+      {
+        "location": [
+          15.635334437224046,
+          49.404930154025465
         ],
         "pixel": [
           311,
@@ -138,12 +148,22 @@
       },
       {
         "location": [
-          15.965995293116007,
-          49.46216291305015
+          15.82403300465002,
+          49.46621343459009
         ],
         "pixel": [
-          530,
-          274
+          436,
+          269
+        ]
+      },
+      {
+        "location": [
+          15.927348682054355,
+          49.38007642054032
+        ],
+        "pixel": [
+          503,
+          352
         ]
       }
     ]

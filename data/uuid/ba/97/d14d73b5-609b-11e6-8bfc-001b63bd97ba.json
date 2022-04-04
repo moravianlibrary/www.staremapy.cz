@@ -9,7 +9,7 @@
   "external_id": "uuid:d14d73b5-609b-11e6-8bfc-001b63bd97ba",
   "title": "Atlas historických map z let 1786-1800",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:1297bae4-3003-11e6-ac61-9e71128cae77?page=uuid:d14d73b5-609b-11e6-8bfc-001b63bd97ba",
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "197e5951-461e-46e2-8522-2b93dfa2044f",
     "affine_transformation": null,
-    "changed": "2021-11-27T13:58:13.524898+00:00",
+    "changed": "2022-04-01T19:35:12.783443+00:00",
     "gcps": [
       {
         "location": [
@@ -68,26 +68,6 @@
         "pixel": [
           255,
           223
-        ]
-      },
-      {
-        "location": [
-          9.522414673013584,
-          47.487438034937696
-        ],
-        "pixel": [
-          242,
-          216
-        ]
-      },
-      {
-        "location": [
-          8.521960386548598,
-          47.576338233197674
-        ],
-        "pixel": [
-          141,
-          184
         ]
       },
       {
@@ -118,6 +98,56 @@
         "pixel": [
           189,
           168
+        ]
+      },
+      {
+        "location": [
+          10.896075466916217,
+          47.81017594284478
+        ],
+        "pixel": [
+          383,
+          175
+        ]
+      },
+      {
+        "location": [
+          10.569983551083043,
+          47.140466135152906
+        ],
+        "pixel": [
+          331,
+          284
+        ]
+      },
+      {
+        "location": [
+          10.985176449677963,
+          48.26166583999094
+        ],
+        "pixel": [
+          393,
+          107
+        ]
+      },
+      {
+        "location": [
+          8.653487593345151,
+          47.01977870546909
+        ],
+        "pixel": [
+          142,
+          290
+        ]
+      },
+      {
+        "location": [
+          9.477815063532256,
+          48.27452069520501
+        ],
+        "pixel": [
+          252,
+          88
         ]
       }
     ]

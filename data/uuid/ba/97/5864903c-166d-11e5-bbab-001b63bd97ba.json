@@ -9,7 +9,7 @@
   "external_id": "uuid:5864903c-166d-11e5-bbab-001b63bd97ba",
   "title": "Protiwin und Prachatitz",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf55b18-00c9-11e5-b939-0800200c9a66?page=uuid:5864903c-166d-11e5-bbab-001b63bd97ba",
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "b8223818-b5ab-44ce-8994-b48cb6c7e941",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:52:05.567306+00:00",
+    "changed": "2022-04-01T16:16:22.882580+00:00",
     "gcps": [
       {
         "location": [
@@ -118,6 +118,16 @@
         "pixel": [
           401,
           173
+        ]
+      },
+      {
+        "location": [
+          14.061027066731143,
+          49.15865719215168
+        ],
+        "pixel": [
+          275,
+          157
         ]
       }
     ]

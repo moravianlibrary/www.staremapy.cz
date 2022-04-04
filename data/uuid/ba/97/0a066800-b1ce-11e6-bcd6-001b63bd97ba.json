@@ -9,7 +9,7 @@
   "external_id": "uuid:0a066800-b1ce-11e6-bcd6-001b63bd97ba",
   "title": "Umgebungen von Brünn",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:12984fd6-3003-11e6-ac61-9e71128cae77?page=uuid:0a066800-b1ce-11e6-bcd6-001b63bd97ba",
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "db489e13-9f32-416e-8c57-380e53cfad09",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:56:06.892276+00:00",
+    "changed": "2022-04-02T13:57:18.493356+00:00",
     "gcps": [
       {
         "location": [
@@ -98,6 +98,46 @@
         "pixel": [
           313,
           233
+        ]
+      },
+      {
+        "location": [
+          16.346437701318546,
+          49.32038978438675
+        ],
+        "pixel": [
+          282,
+          97
+        ]
+      },
+      {
+        "location": [
+          16.30709207570622,
+          49.04903085464707
+        ],
+        "pixel": [
+          255,
+          363
+        ]
+      },
+      {
+        "location": [
+          16.59935703789948,
+          49.1944992930859
+        ],
+        "pixel": [
+          451,
+          220
+        ]
+      },
+      {
+        "location": [
+          16.15848312761336,
+          49.20729670657616
+        ],
+        "pixel": [
+          154,
+          207
         ]
       }
     ]

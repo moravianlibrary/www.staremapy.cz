@@ -9,7 +9,7 @@
   "external_id": "uuid:ab16d066-31a6-11e6-ba1c-001b63bd97ba",
   "title": "Süd America",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:1297a504-3003-11e6-ac61-9e71128cae77?page=uuid:ab16d066-31a6-11e6-ba1c-001b63bd97ba",
@@ -24,31 +24,55 @@
   "georefereces": {
     "cutline": [
       [
-        600,
-        0
+        525,
+        144
       ],
       [
-        600,
-        443
+        528,
+        404
       ],
       [
-        0,
-        443
+        229,
+        404
       ],
       [
-        0,
-        0
+        228,
+        381
       ],
       [
-        600,
-        0
+        215,
+        369
+      ],
+      [
+        66,
+        368
+      ],
+      [
+        68,
+        44
+      ],
+      [
+        324,
+        43
+      ],
+      [
+        329,
+        116
+      ],
+      [
+        376,
+        147
+      ],
+      [
+        525,
+        144
       ]
     ],
     "created": "2020-07-07T12:53:39.556157+00:00",
     "transformation_method": "affine",
     "mapID": "3d429a3c-3fc8-44b2-8ad3-d3f405af2bf8",
     "affine_transformation": null,
-    "changed": "2021-11-27T10:03:34.953065+00:00",
+    "changed": "2022-04-01T18:13:16.015567+00:00",
     "gcps": [
       {
         "location": [
@@ -118,16 +142,6 @@
         "pixel": [
           145,
           118
-        ]
-      },
-      {
-        "location": [
-          -65.38221472469516,
-          -54.91209284804244
-        ],
-        "pixel": [
-          265,
-          383
         ]
       },
       {
@@ -258,16 +272,6 @@
         "pixel": [
           182,
           197
-        ]
-      },
-      {
-        "location": [
-          -36.57805639518736,
-          -54.37435502124995
-        ],
-        "pixel": [
-          370,
-          379
         ]
       }
     ]

@@ -9,7 +9,7 @@
   "external_id": "uuid:e5b50584-1662-11e5-9efe-001b63bd97ba",
   "title": "Pisek und Blatna",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf55b05-00c9-11e5-b939-0800200c9a66?page=uuid:e5b50584-1662-11e5-9efe-001b63bd97ba",
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "af4f756c-82d3-43a1-8977-41d408da69c4",
     "affine_transformation": null,
-    "changed": "2021-11-25T09:20:31.565133+00:00",
+    "changed": "2022-04-01T16:15:12.807769+00:00",
     "gcps": [
       {
         "location": [
@@ -68,16 +68,6 @@
         "pixel": [
           60,
           135
-        ]
-      },
-      {
-        "location": [
-          14.19210365308471,
-          49.44026830759341
-        ],
-        "pixel": [
-          430,
-          106
         ]
       },
       {
@@ -112,12 +102,42 @@
       },
       {
         "location": [
-          14.144756154874393,
-          49.312735475432106
+          14.016485345220044,
+          49.30368179722407
+        ],
+        "pixel": [
+          219,
+          342
+        ]
+      },
+      {
+        "location": [
+          14.300843767046054,
+          49.484616516886206
+        ],
+        "pixel": [
+          557,
+          31
+        ]
+      },
+      {
+        "location": [
+          14.145700292447634,
+          49.30974176041266
         ],
         "pixel": [
           371,
           333
+        ]
+      },
+      {
+        "location": [
+          14.129470052466683,
+          49.39114645470735
+        ],
+        "pixel": [
+          355,
+          190
         ]
       }
     ]

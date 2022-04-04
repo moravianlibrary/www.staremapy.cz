@@ -9,7 +9,7 @@
   "external_id": "uuid:81d2f18f-31ac-11e6-9bbc-001b63bd97ba",
   "title": "Africa",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:1297b5c6-3003-11e6-ac61-9e71128cae77?page=uuid:81d2f18f-31ac-11e6-9bbc-001b63bd97ba",
@@ -28,16 +28,20 @@
         47
       ],
       [
-        536,
+        537,
         395
       ],
       [
-        174,
-        396
+        189,
+        397
       ],
       [
         177,
         307
+      ],
+      [
+        156,
+        279
       ],
       [
         96,
@@ -60,7 +64,7 @@
     "transformation_method": "affine",
     "mapID": "d11f6c5a-7923-418b-829d-0f5b48baf4f2",
     "affine_transformation": null,
-    "changed": "2021-11-27T10:11:05.222014+00:00",
+    "changed": "2022-04-01T18:14:31.516628+00:00",
     "gcps": [
       {
         "location": [
@@ -90,16 +94,6 @@
         "pixel": [
           430,
           343
-        ]
-      },
-      {
-        "location": [
-          -5.3039673592274985,
-          35.864616567538064
-        ],
-        "pixel": [
-          210,
-          70
         ]
       },
       {
@@ -174,16 +168,6 @@
       },
       {
         "location": [
-          13.338400717438693,
-          38.12355375803412
-        ],
-        "pixel": [
-          287,
-          61
-        ]
-      },
-      {
-        "location": [
           69.16978497044576,
           34.549680935811395
         ],
@@ -204,16 +188,6 @@
       },
       {
         "location": [
-          66.97573149254305,
-          39.67034038183945
-        ],
-        "pixel": [
-          495,
-          53
-        ]
-      },
-      {
-        "location": [
           51.44106352379305,
           35.74331725921084
         ],
@@ -230,16 +204,6 @@
         "pixel": [
           487,
           52
-        ]
-      },
-      {
-        "location": [
-          48.848290086293076,
-          38.76814716953868
-        ],
-        "pixel": [
-          428,
-          58
         ]
       },
       {

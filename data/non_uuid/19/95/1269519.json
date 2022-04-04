@@ -13,7 +13,7 @@
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
+  "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": "C. Gronemeyer",
@@ -48,8 +48,69 @@
     "transformation_method": "affine",
     "mapID": "addc3b8c-3a4f-54d2-936b-215cd4ff9c47",
     "affine_transformation": null,
-    "changed": "2021-05-03T17:10:11.005044+00:00",
-    "gcps": []
+    "changed": "2022-04-02T22:59:24.719208+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.403083075127117,
+          48.21053394861352
+        ],
+        "pixel": [
+          975,
+          1426
+        ]
+      },
+      {
+        "location": [
+          16.409900916444993,
+          48.21789069777017
+        ],
+        "pixel": [
+          919,
+          587
+        ]
+      },
+      {
+        "location": [
+          16.40028790184354,
+          48.21792064120311
+        ],
+        "pixel": [
+          497,
+          946
+        ]
+      },
+      {
+        "location": [
+          16.40677085398565,
+          48.209484576525455
+        ],
+        "pixel": [
+          1216,
+          1351
+        ]
+      },
+      {
+        "location": [
+          16.41654399201992,
+          48.20437489281497
+        ],
+        "pixel": [
+          2012,
+          1352
+        ]
+      },
+      {
+        "location": [
+          16.39385925373817,
+          48.216263808587286
+        ],
+        "pixel": [
+          281,
+          1354
+        ]
+      }
+    ]
   },
   "pubdate": ["1873"]
 }

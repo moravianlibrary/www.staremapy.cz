@@ -9,7 +9,7 @@
   "external_id": "uuid:c576c48a-1919-11e5-a64f-001b63bd97ba",
   "title": "Prachatice - Volary - Hor. Planá",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf58233-00c9-11e5-b939-0800200c9a66?page=uuid:c576c48a-1919-11e5-a64f-001b63bd97ba",
@@ -128,7 +128,7 @@
     "transformation_method": "affine",
     "mapID": "a4934dcc-7074-429a-9487-8a9b92758186",
     "affine_transformation": null,
-    "changed": "2021-11-25T13:16:25.953628+00:00",
+    "changed": "2022-04-01T16:21:32.193808+00:00",
     "gcps": [
       {
         "location": [
@@ -198,6 +198,76 @@
         "pixel": [
           482,
           46
+        ]
+      },
+      {
+        "location": [
+          13.803826862012553,
+          48.78091391013561
+        ],
+        "pixel": [
+          184,
+          328
+        ]
+      },
+      {
+        "location": [
+          14.177750817341787,
+          48.765678965507874
+        ],
+        "pixel": [
+          490,
+          345
+        ]
+      },
+      {
+        "location": [
+          13.996574531701553,
+          48.79051552568686
+        ],
+        "pixel": [
+          341,
+          316
+        ]
+      },
+      {
+        "location": [
+          13.734356576289805,
+          48.886422228567426
+        ],
+        "pixel": [
+          128,
+          205
+        ]
+      },
+      {
+        "location": [
+          13.887764518691077,
+          48.90814667546468
+        ],
+        "pixel": [
+          252,
+          180
+        ]
+      },
+      {
+        "location": [
+          13.720547724096875,
+          48.9070775228424
+        ],
+        "pixel": [
+          117,
+          180
+        ]
+      },
+      {
+        "location": [
+          13.72776487233062,
+          49.017803725614215
+        ],
+        "pixel": [
+          125,
+          52
         ]
       }
     ]

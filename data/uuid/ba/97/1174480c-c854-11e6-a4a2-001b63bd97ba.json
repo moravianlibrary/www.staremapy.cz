@@ -9,7 +9,7 @@
   "external_id": "uuid:1174480c-c854-11e6-a4a2-001b63bd97ba",
   "title": "35°48° Bratislava",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:1299b5ce-3003-11e6-ac61-9e71128cae77?page=uuid:1174480c-c854-11e6-a4a2-001b63bd97ba",
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "d62b8dde-d1a3-4eef-8cda-8c36fe82bca2",
     "affine_transformation": null,
-    "changed": "2021-02-09T14:57:01.527120+00:00",
+    "changed": "2022-04-01T18:18:12.282913+00:00",
     "gcps": [
       {
         "location": [
@@ -118,6 +118,36 @@
         "pixel": [
           195,
           161
+        ]
+      },
+      {
+        "location": [
+          16.89825678050846,
+          47.59924785852107
+        ],
+        "pixel": [
+          84,
+          362
+        ]
+      },
+      {
+        "location": [
+          17.329098681833678,
+          47.558898649225654
+        ],
+        "pixel": [
+          298,
+          377
+        ]
+      },
+      {
+        "location": [
+          17.66080350783514,
+          47.954490007850296
+        ],
+        "pixel": [
+          464,
+          229
         ]
       }
     ]

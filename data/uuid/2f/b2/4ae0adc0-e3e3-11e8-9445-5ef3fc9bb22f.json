@@ -9,7 +9,7 @@
   "external_id": "4ae0adc0-e3e3-11e8-9445-5ef3fc9bb22f",
   "title": "Libau =",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "49486e91-06c4-5f98-a59a-7630190f2483",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-04-01T09:08:47.352308+00:00",
     "gcps": [
       {
         "location": [
@@ -92,6 +92,16 @@
       },
       {
         "location": [
+          21.72459611533078,
+          56.04855969927516
+        ],
+        "pixel": [
+          8977,
+          8907
+        ]
+      },
+      {
+        "location": [
           21.867897065352466,
           56.36057986061664
         ],
@@ -108,6 +118,16 @@
         "pixel": [
           5722,
           6364
+        ]
+      },
+      {
+        "location": [
+          21.384779395982992,
+          56.73643896471242
+        ],
+        "pixel": [
+          7396,
+          3267
         ]
       },
       {

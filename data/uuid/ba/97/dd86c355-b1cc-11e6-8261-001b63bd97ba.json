@@ -9,7 +9,7 @@
   "external_id": "uuid:dd86c355-b1cc-11e6-8261-001b63bd97ba",
   "title": "Umgebungen von Weiskirchen",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:1297ea32-3003-11e6-ac61-9e71128cae77?page=uuid:dd86c355-b1cc-11e6-8261-001b63bd97ba",
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "f0592404-3348-42d5-be9a-70a708115bf6",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:55:58.906654+00:00",
+    "changed": "2022-04-02T13:46:40.922544+00:00",
     "gcps": [
       {
         "location": [
@@ -188,6 +188,16 @@
         "pixel": [
           328,
           79
+        ]
+      },
+      {
+        "location": [
+          17.822285950159426,
+          49.475472286600024
+        ],
+        "pixel": [
+          258,
+          254
         ]
       }
     ]

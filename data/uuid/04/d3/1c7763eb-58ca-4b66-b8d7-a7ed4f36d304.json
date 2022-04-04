@@ -9,7 +9,7 @@
   "external_id": "1c7763eb-58ca-4b66-b8d7-a7ed4f36d304",
   "title": "Levoča",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "0a56dc98-0ae0-50f8-9492-a22aada3d211",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-04-03T05:28:44.331000+00:00",
     "gcps": [
       {
         "location": [
@@ -98,16 +98,6 @@
         "pixel": [
           6643,
           8347
-        ]
-      },
-      {
-        "location": [
-          20.52491702037238,
-          49.23436285374635
-        ],
-        "pixel": [
-          5016,
-          1035
         ]
       },
       {
@@ -198,6 +188,16 @@
         "pixel": [
           11274,
           1846
+        ]
+      },
+      {
+        "location": [
+          20.52495993571662,
+          49.23413867498664
+        ],
+        "pixel": [
+          5016,
+          1035
         ]
       },
       {

@@ -9,7 +9,7 @@
   "external_id": "uuid:04a796d8-b1ce-11e6-bcd6-001b63bd97ba",
   "title": "Umgebungen von Wischau und ungrisch Hradisch",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:12985170-3003-11e6-ac61-9e71128cae77?page=uuid:04a796d8-b1ce-11e6-bcd6-001b63bd97ba",
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        553,
-        69
+        554,
+        67
       ],
       [
         554,
-        387
+        388
       ],
       [
-        51,
-        386
+        49,
+        388
       ],
       [
-        54,
-        69
+        49,
+        68
       ],
       [
-        553,
-        69
+        554,
+        67
       ]
     ],
     "created": "2020-07-07T12:56:09.981965+00:00",
     "transformation_method": "affine",
     "mapID": "50e38bb0-146c-42a3-9636-5c8592a9e0fb",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:56:09.981965+00:00",
+    "changed": "2022-04-02T14:00:26.175816+00:00",
     "gcps": [
       {
         "location": [
@@ -132,16 +132,6 @@
       },
       {
         "location": [
-          16.91826111832701,
-          49.32859318625668
-        ],
-        "pixel": [
-          165,
-          92
-        ]
-      },
-      {
-        "location": [
           17.17618569677561,
           49.3259432232575
         ],
@@ -162,12 +152,32 @@
       },
       {
         "location": [
-          17.167537351840505,
-          49.03958934308139
+          16.915471620951525,
+          49.32934833772114
         ],
         "pixel": [
-          335,
-          369
+          161,
+          91
+        ]
+      },
+      {
+        "location": [
+          17.16719402908659,
+          49.0380138918043
+        ],
+        "pixel": [
+          332,
+          375
+        ]
+      },
+      {
+        "location": [
+          17.153423346851262,
+          49.171885595656136
+        ],
+        "pixel": [
+          322,
+          243
         ]
       }
     ]
