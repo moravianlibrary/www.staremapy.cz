@@ -9,7 +9,7 @@
   "external_id": "uuid:3c225b7e-82de-11e0-bc9f-0050569d679d",
   "title": "Neuer Atlas Uber die Gantze Welt, mapa ze strany: [192]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:77e2a48b-82dd-11e0-bc9f-0050569d679d?page=uuid:3c225b7e-82de-11e0-bc9f-0050569d679d",
@@ -24,12 +24,12 @@
   "georefereces": {
     "cutline": [
       [
-        7859,
-        495
+        7904,
+        479
       ],
       [
-        7874,
-        6756
+        7885,
+        6800
       ],
       [
         7261,
@@ -76,27 +76,27 @@
         8983
       ],
       [
-        5025,
-        9168
+        4995,
+        9214
       ],
       [
-        576,
-        9171
+        550,
+        9209
       ],
       [
         646,
         571
       ],
       [
-        7859,
-        495
+        7904,
+        479
       ]
     ],
     "created": "2020-07-07T07:24:01.022032+00:00",
     "transformation_method": "affine",
     "mapID": "fa47d283-2990-408b-9bf3-fd1cc7445b55",
     "affine_transformation": null,
-    "changed": "2020-07-07T07:24:01.022032+00:00",
+    "changed": "2022-04-09T08:11:37.817803+00:00",
     "gcps": [
       {
         "location": [
@@ -196,6 +196,26 @@
         "pixel": [
           1606,
           1666
+        ]
+      },
+      {
+        "location": [
+          5.4777961224868665,
+          51.433880616777685
+        ],
+        "pixel": [
+          6124,
+          2686
+        ]
+      },
+      {
+        "location": [
+          5.314732650651112,
+          51.714841322527064
+        ],
+        "pixel": [
+          5517,
+          1244
         ]
       }
     ]

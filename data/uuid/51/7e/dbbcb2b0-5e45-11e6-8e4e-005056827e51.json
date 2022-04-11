@@ -9,7 +9,7 @@
   "external_id": "uuid:dbbcb2b0-5e45-11e6-8e4e-005056827e51",
   "title": "Die Geschichte der Deutschen Ostböhmens. Bd. 1. Von der ältest. Zeit bis zum Beginn der HussitenstürmeVon der ältest. Zeit bis zum Beginn der Hussitenstürme, mapa ze strany: 6",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:b002e3c0-1b28-11e6-8884-005056827e52?page=uuid:dbbcb2b0-5e45-11e6-8e4e-005056827e51",
@@ -25,19 +25,19 @@
     "cutline": [
       [
         1141,
-        257
+        247
       ],
       [
         1146,
         1816
       ],
       [
-        214,
-        1806
+        206,
+        1807
       ],
       [
-        220,
-        531
+        212,
+        539
       ],
       [
         475,
@@ -48,19 +48,19 @@
         461
       ],
       [
-        594,
-        253
+        597,
+        250
       ],
       [
         1141,
-        257
+        247
       ]
     ],
     "created": "2020-07-07T07:20:53.742614+00:00",
     "transformation_method": "affine",
     "mapID": "d5f8bc88-bb1c-45fd-bc56-a804dc4cfe30",
     "affine_transformation": null,
-    "changed": "2020-07-07T07:20:53.742614+00:00",
+    "changed": "2022-04-06T04:38:39.314608+00:00",
     "gcps": [
       {
         "location": [
@@ -150,6 +150,36 @@
         "pixel": [
           1052,
           663
+        ]
+      },
+      {
+        "location": [
+          15.078873971823892,
+          50.92181556752797
+        ],
+        "pixel": [
+          323,
+          1703
+        ]
+      },
+      {
+        "location": [
+          16.232559646297336,
+          50.53724830142235
+        ],
+        "pixel": [
+          673,
+          897
+        ]
+      },
+      {
+        "location": [
+          15.834303522586652,
+          50.795033400889935
+        ],
+        "pixel": [
+          434,
+          1195
         ]
       }
     ]

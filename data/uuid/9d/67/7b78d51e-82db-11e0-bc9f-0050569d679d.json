@@ -9,7 +9,7 @@
   "external_id": "uuid:7b78d51e-82db-11e0-bc9f-0050569d679d",
   "title": "Grosser Erdbeschreibung. Ersten Theil, Blatt N. 34-90., mapa ze strany: [59]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:48b42973-82db-11e0-bc9f-0050569d679d?page=uuid:7b78d51e-82db-11e0-bc9f-0050569d679d",
@@ -24,19 +24,19 @@
   "georefereces": {
     "cutline": [
       [
-        5184,
-        813
+        5208,
+        795
       ],
       [
-        5189,
-        3849
+        5208,
+        3859
       ],
       [
-        2646,
-        3846
+        2635,
+        3866
       ],
       [
-        2757,
+        2645,
         3701
       ],
       [
@@ -44,8 +44,8 @@
         3691
       ],
       [
-        3769,
-        3365
+        3809,
+        3419
       ],
       [
         2177,
@@ -56,23 +56,27 @@
         2323
       ],
       [
-        1087,
-        2149
+        1073,
+        1403
       ],
       [
-        1108,
-        845
+        1073,
+        821
       ],
       [
-        5184,
-        813
+        2534,
+        795
+      ],
+      [
+        5208,
+        795
       ]
     ],
     "created": "2020-07-07T07:27:14.569685+00:00",
     "transformation_method": "affine",
     "mapID": "3a588612-fb05-43d0-bd52-2e71b79a5263",
     "affine_transformation": null,
-    "changed": "2020-07-07T07:27:14.569685+00:00",
+    "changed": "2022-04-06T10:21:32.275472+00:00",
     "gcps": [
       {
         "location": [
@@ -132,6 +136,26 @@
         "pixel": [
           3245,
           2990
+        ]
+      },
+      {
+        "location": [
+          -9.05439676928373,
+          53.2673146190499
+        ],
+        "pixel": [
+          3096,
+          1485
+        ]
+      },
+      {
+        "location": [
+          -6.967628252156327,
+          54.24925075062359
+        ],
+        "pixel": [
+          4048,
+          2575
         ]
       }
     ]

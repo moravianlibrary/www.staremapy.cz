@@ -9,7 +9,7 @@
   "external_id": "uuid:51945d2a-fa07-11e4-9148-001b63bd97ba",
   "title": "Imperii Russici et Tatariae universae",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b289fe-c66b-11e4-8731-1681e6b88ec1?page=uuid:51945d2a-fa07-11e4-9148-001b63bd97ba",
@@ -24,11 +24,11 @@
   "georefereces": {
     "cutline": [
       [
-        551,
-        26
+        554,
+        23
       ],
       [
-        549,
+        551,
         380
       ],
       [
@@ -40,12 +40,12 @@
         398
       ],
       [
-        468,
-        416
+        472,
+        418
       ],
       [
-        151,
-        415
+        150,
+        416
       ],
       [
         136,
@@ -76,12 +76,12 @@
         314
       ],
       [
-        47,
+        46,
         313
       ],
       [
-        50,
-        79
+        47,
+        76
       ],
       [
         98,
@@ -96,19 +96,19 @@
         75
       ],
       [
-        198,
-        26
+        199,
+        23
       ],
       [
-        551,
-        26
+        554,
+        23
       ]
     ],
     "created": "2020-07-07T12:46:05.101406+00:00",
     "transformation_method": "affine",
     "mapID": "1dfad9fd-baab-43bd-94c2-429adc46335a",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:46:05.101406+00:00",
+    "changed": "2022-04-07T14:19:00.489143+00:00",
     "gcps": [
       {
         "location": [
@@ -152,16 +152,6 @@
       },
       {
         "location": [
-          33.852899693188625,
-          44.752301784588326
-        ],
-        "pixel": [
-          69,
-          200
-        ]
-      },
-      {
-        "location": [
           29.484608865390623,
           46.822779085284566
         ],
@@ -172,22 +162,12 @@
       },
       {
         "location": [
-          30.313685138022414,
-          59.93171716368039
+          31.54241280829197,
+          46.617157265654555
         ],
         "pixel": [
-          134,
-          131
-        ]
-      },
-      {
-        "location": [
-          32.41737682476359,
-          67.16214990769436
-        ],
-        "pixel": [
-          177,
-          109
+          66,
+          185
         ]
       }
     ]

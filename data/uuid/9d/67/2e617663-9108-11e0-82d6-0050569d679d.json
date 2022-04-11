@@ -9,7 +9,7 @@
   "external_id": "uuid:2e617663-9108-11e0-82d6-0050569d679d",
   "title": "Atlas minor, mapa ze strany: 551",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:187692de-9106-11e0-82d6-0050569d679d?page=uuid:2e617663-9108-11e0-82d6-0050569d679d",
@@ -56,7 +56,7 @@
     "transformation_method": "affine",
     "mapID": "00bc17dd-06f0-4dc6-9f95-c66689267430",
     "affine_transformation": null,
-    "changed": "2021-12-07T18:43:55.077280+00:00",
+    "changed": "2022-04-06T09:59:37.120843+00:00",
     "gcps": [
       {
         "location": [
@@ -90,16 +90,6 @@
       },
       {
         "location": [
-          16.87876253296341,
-          46.30369660468685
-        ],
-        "pixel": [
-          3305,
-          2318
-        ]
-      },
-      {
-        "location": [
           16.83138399292435,
           46.16068222974465
         ],
@@ -120,26 +110,6 @@
       },
       {
         "location": [
-          15.095451199055752,
-          47.37880769041456
-        ],
-        "pixel": [
-          1337,
-          894
-        ]
-      },
-      {
-        "location": [
-          15.767855670349991,
-          46.708212659928506
-        ],
-        "pixel": [
-          2479,
-          1755
-        ]
-      },
-      {
-        "location": [
           14.635602017060446,
           46.65727674412966
         ],
@@ -156,6 +126,16 @@
         "pixel": [
           1414,
           2113
+        ]
+      },
+      {
+        "location": [
+          15.096285973742397,
+          47.38274747767139
+        ],
+        "pixel": [
+          1336,
+          888
         ]
       }
     ]

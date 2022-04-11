@@ -9,7 +9,7 @@
   "external_id": "uuid:b9c08c92-82da-11e0-bc9f-0050569d679d",
   "title": "Atlas de l'Amerique Consistant en 46. Cartes hollandoises et angloises, mapa ze strany: [39]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:8ffd7a5b-82da-11e0-bc9f-0050569d679d?page=uuid:b9c08c92-82da-11e0-bc9f-0050569d679d",
@@ -76,7 +76,7 @@
     "transformation_method": "affine",
     "mapID": "3ec0952f-2bdb-4650-a981-bbfee4471223",
     "affine_transformation": null,
-    "changed": "2020-07-07T07:30:07.095437+00:00",
+    "changed": "2022-04-07T13:32:36.681425+00:00",
     "gcps": [
       {
         "location": [
@@ -110,26 +110,6 @@
       },
       {
         "location": [
-          -79.66672766223348,
-          0.9704588000100074
-        ],
-        "pixel": [
-          2634,
-          5130
-        ]
-      },
-      {
-        "location": [
-          -76.1917388667574,
-          -13.722894716492533
-        ],
-        "pixel": [
-          5571,
-          4180
-        ]
-      },
-      {
-        "location": [
           -71.53353574175739,
           -16.396090112950205
         ],
@@ -140,62 +120,12 @@
       },
       {
         "location": [
-          -75.7155937279475,
-          -14.06406793604775
-        ],
-        "pixel": [
-          5615,
-          4094
-        ]
-      },
-      {
-        "location": [
-          -71.97474900138499,
-          -13.519922367825671
-        ],
-        "pixel": [
-          5442,
-          3095
-        ]
-      },
-      {
-        "location": [
-          -76.24843064201002,
-          -9.916855914044433
-        ],
-        "pixel": [
-          4807,
-          4221
-        ]
-      },
-      {
-        "location": [
-          -77.8689140404475,
-          -6.24644728248434
-        ],
-        "pixel": [
-          4189,
-          3960
-        ]
-      },
-      {
-        "location": [
           -68.12630712075277,
           -16.480913891779068
         ],
         "pixel": [
           6321,
           2406
-        ]
-      },
-      {
-        "location": [
-          -66.12679540200278,
-          -17.39525002417699
-        ],
-        "pixel": [
-          6903,
-          2182
         ]
       },
       {
@@ -216,6 +146,16 @@
         "pixel": [
           7647,
           3534
+        ]
+      },
+      {
+        "location": [
+          -76.23567295209307,
+          -9.936507120149486
+        ],
+        "pixel": [
+          4807,
+          4220
         ]
       }
     ]

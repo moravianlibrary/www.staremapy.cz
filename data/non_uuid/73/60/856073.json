@@ -16,7 +16,7 @@
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
+  "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": "P. Schenk",
@@ -51,8 +51,49 @@
     "transformation_method": "affine",
     "mapID": "012d97c5-d054-5ab7-bbea-ff7824f6915a",
     "affine_transformation": null,
-    "changed": "2021-08-11T16:48:04.851073+00:00",
-    "gcps": []
+    "changed": "2022-04-05T18:17:00.625511+00:00",
+    "gcps": [
+      {
+        "location": [
+          5.238201019064289,
+          50.5187897584336
+        ],
+        "pixel": [
+          1076,
+          705
+        ]
+      },
+      {
+        "location": [
+          5.235422250524858,
+          50.521838943591234
+        ],
+        "pixel": [
+          1245,
+          666
+        ]
+      },
+      {
+        "location": [
+          5.23724615265499,
+          50.51740494039643
+        ],
+        "pixel": [
+          948,
+          715
+        ]
+      },
+      {
+        "location": [
+          5.2354437081969785,
+          50.52104767509533
+        ],
+        "pixel": [
+          1547,
+          869
+        ]
+      }
+    ]
   },
   "pubdate": [
     "1709",

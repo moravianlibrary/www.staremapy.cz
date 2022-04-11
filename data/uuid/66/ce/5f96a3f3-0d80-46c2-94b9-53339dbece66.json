@@ -9,7 +9,7 @@
   "external_id": "5f96a3f3-0d80-46c2-94b9-53339dbece66",
   "title": "Zlin (Zlín)",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "dda201cd-bda4-511c-8faa-1fcd1579d5bc",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-04-07T05:34:55.187988+00:00",
     "gcps": [
       {
         "location": [
@@ -68,6 +68,36 @@
         "pixel": [
           11974,
           3773
+        ]
+      },
+      {
+        "location": [
+          17.67735439322128,
+          49.22994916216919
+        ],
+        "pixel": [
+          10996,
+          4290
+        ]
+      },
+      {
+        "location": [
+          17.638227662413883,
+          49.21815280025956
+        ],
+        "pixel": [
+          4375,
+          7418
+        ]
+      },
+      {
+        "location": [
+          17.697349035424413,
+          49.21291701643139
+        ],
+        "pixel": [
+          14432,
+          8618
         ]
       },
       {
@@ -98,6 +128,26 @@
         "pixel": [
           5653,
           1553
+        ]
+      },
+      {
+        "location": [
+          17.67091420533396,
+          49.23055519443096
+        ],
+        "pixel": [
+          9902,
+          4117
+        ]
+      },
+      {
+        "location": [
+          17.66058441992499,
+          49.22765153970934
+        ],
+        "pixel": [
+          8188,
+          4892
         ]
       }
     ]

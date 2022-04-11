@@ -13,7 +13,7 @@
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
+  "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": "Deutscher und Österreichischer Alpenverein",
@@ -24,32 +24,41 @@
   "georefereces": {
     "cutline": [
       [
-        2729,
-        0
+        1369,
+        2188
       ],
       [
-        2729,
-        2281
+        2638,
+        2252
       ],
       [
-        0,
-        2281
+        2709,
+        1178
       ],
       [
-        0,
-        0
+        1409,
+        1189
       ],
       [
-        2729,
-        0
+        1369,
+        2188
       ]
     ],
-    "created": "2015-11-05T16:40:28.079980+00:00",
+    "created": "2022-04-07T11:25:21.448990+00:00",
     "transformation_method": "affine",
     "mapID": "27b620ec-3e9e-5415-aa4a-17aee5c798e7",
     "affine_transformation": null,
-    "changed": "2021-04-21T08:14:57.407827+00:00",
-    "gcps": []
+    "changed": "2022-04-07T11:26:45.299441+00:00",
+    "gcps": [{
+      "location": [
+        11.511547276306155,
+        47.43396751360635
+      ],
+      "pixel": [
+        2111,
+        1458
+      ]
+    }]
   },
   "pubdate": ["1888"]
 }
