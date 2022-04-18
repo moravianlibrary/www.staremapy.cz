@@ -9,7 +9,7 @@
   "external_id": "1ee806ed-06b7-45b9-a790-c1f8f930862a",
   "title": "[Cejkov]",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "40f20e19-7c1d-5281-b64b-08e6eb9b1ef3",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-04-17T09:41:43.726449+00:00",
     "gcps": [
       {
         "location": [
@@ -58,16 +58,6 @@
         "pixel": [
           13843,
           4496
-        ]
-      },
-      {
-        "location": [
-          21.807150923041366,
-          48.40379403056019
-        ],
-        "pixel": [
-          16936,
-          10858
         ]
       },
       {
@@ -108,6 +98,16 @@
         "pixel": [
           5244,
           4679
+        ]
+      },
+      {
+        "location": [
+          21.667726579374328,
+          48.40036746938051
+        ],
+        "pixel": [
+          7210,
+          11285
         ]
       },
       {
@@ -182,22 +182,22 @@
       },
       {
         "location": [
+          21.807150923041366,
+          48.403794030560164
+        ],
+        "pixel": [
+          16936,
+          10858
+        ]
+      },
+      {
+        "location": [
           21.684932319578113,
           48.457336762937274
         ],
         "pixel": [
           8400,
           5317
-        ]
-      },
-      {
-        "location": [
-          21.668240339645337,
-          48.401245566630735
-        ],
-        "pixel": [
-          7224,
-          11122
         ]
       }
     ]
