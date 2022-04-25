@@ -9,7 +9,7 @@
   "external_id": "uuid:46351280-72f7-11e5-8f50-001018b5eb5c",
   "title": "Katalog map, plánů a publikací vojenského zeměpisného ústavu v Praze, mapa ze strany: [50]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:6a1130b0-55f8-11e5-bf4b-005056827e51?page=uuid:46351280-72f7-11e5-8f50-001018b5eb5c",
@@ -24,31 +24,51 @@
   "georefereces": {
     "cutline": [
       [
-        4357,
-        0
+        4161,
+        1048
       ],
       [
-        4357,
-        2445
+        4251,
+        2044
       ],
       [
-        0,
-        2445
+        2791,
+        2099
       ],
       [
-        0,
-        0
+        1387,
+        2086
       ],
       [
-        4357,
-        0
+        1396,
+        1746
+      ],
+      [
+        345,
+        1669
+      ],
+      [
+        494,
+        350
+      ],
+      [
+        2430,
+        427
+      ],
+      [
+        2430,
+        1099
+      ],
+      [
+        4161,
+        1048
       ]
     ],
     "created": "2020-07-07T07:20:01.415305+00:00",
     "transformation_method": "affine",
     "mapID": "7b53dea4-0149-4666-ab89-78e6a4b1cb63",
     "affine_transformation": null,
-    "changed": "2021-04-20T15:06:53.280153+00:00",
+    "changed": "2022-04-24T09:56:48.776064+00:00",
     "gcps": [
       {
         "location": [
@@ -156,8 +176,8 @@
           50.2219748940733
         ],
         "pixel": [
-          630,
-          953
+          546,
+          808
         ]
       }
     ]

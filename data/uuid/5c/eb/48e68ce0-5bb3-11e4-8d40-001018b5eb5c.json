@@ -9,7 +9,7 @@
   "external_id": "uuid:48e68ce0-5bb3-11e4-8d40-001018b5eb5c",
   "title": "Les Recherches forestières en Tchécoslovaquie =: Das forstliche Versuchsweren der Tschechoslowakei, mapa ze strany: [104]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:692bdab0-47b2-11e4-8113-005056827e52?page=uuid:48e68ce0-5bb3-11e4-8d40-001018b5eb5c",
@@ -96,7 +96,7 @@
     "transformation_method": "affine",
     "mapID": "fbc1bf41-5151-4961-92a2-4a098a98a12d",
     "affine_transformation": null,
-    "changed": "2020-07-07T07:19:59.351922+00:00",
+    "changed": "2022-04-24T09:52:20.726935+00:00",
     "gcps": [
       {
         "location": [
@@ -160,16 +160,6 @@
       },
       {
         "location": [
-          24.20187423273978,
-          48.051159386318716
-        ],
-        "pixel": [
-          3530,
-          1800
-        ]
-      },
-      {
-        "location": [
           20.019348968375294,
           48.38353088115096
         ],
@@ -196,6 +186,16 @@
         "pixel": [
           1198,
           1530
+        ]
+      },
+      {
+        "location": [
+          23.290358131750722,
+          48.175442605963724
+        ],
+        "pixel": [
+          3263,
+          1765
         ]
       }
     ]

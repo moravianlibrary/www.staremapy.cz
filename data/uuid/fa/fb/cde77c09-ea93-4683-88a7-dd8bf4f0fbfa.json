@@ -9,7 +9,7 @@
   "external_id": "cde77c09-ea93-4683-88a7-dd8bf4f0fbfa",
   "title": "Makó und Nagy-Szt. Miklós",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "40069ccd-8d8a-5158-a815-fe1e303e7382",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-04-21T13:26:07.564956+00:00",
     "gcps": [
       {
         "location": [
@@ -82,6 +82,26 @@
       },
       {
         "location": [
+          20.476264100173207,
+          46.04249411986211
+        ],
+        "pixel": [
+          4936,
+          8370
+        ]
+      },
+      {
+        "location": [
+          20.480398671325677,
+          46.03639810483398
+        ],
+        "pixel": [
+          5042,
+          8578
+        ]
+      },
+      {
+        "location": [
           20.401018867773452,
           46.00311229107132
         ],
@@ -108,6 +128,16 @@
         "pixel": [
           2052,
           2335
+        ]
+      },
+      {
+        "location": [
+          20.5757299463177,
+          46.17633804342279
+        ],
+        "pixel": [
+          7318,
+          3673
         ]
       },
       {

@@ -9,7 +9,7 @@
   "external_id": "uuid:15d4c1d0-60fc-11e8-8c53-005056825209",
   "title": "Pamětní spis vládě republiky československé o zřízení politického okresu Břeclavského, mapa ze strany: 14",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:64d81f50-54fb-11e8-9a44-005056827e52?page=uuid:15d4c1d0-60fc-11e8-8c53-005056825209",
@@ -80,7 +80,7 @@
     "transformation_method": "affine",
     "mapID": "5ea08a2b-21f2-493b-a5fd-9749b1e9da71",
     "affine_transformation": null,
-    "changed": "2020-07-07T07:19:55.193309+00:00",
+    "changed": "2022-04-21T14:19:24.136594+00:00",
     "gcps": [
       {
         "location": [
@@ -170,6 +170,16 @@
         "pixel": [
           1619,
           1896
+        ]
+      },
+      {
+        "location": [
+          16.94026743655472,
+          48.616982750783905
+        ],
+        "pixel": [
+          2090,
+          1769
         ]
       }
     ]

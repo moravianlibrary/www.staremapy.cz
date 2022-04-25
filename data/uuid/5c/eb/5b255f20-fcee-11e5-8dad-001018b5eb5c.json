@@ -9,7 +9,7 @@
   "external_id": "uuid:5b255f20-fcee-11e5-8dad-001018b5eb5c",
   "title": "Okolí Prahy, mapa ze strany: [303]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:722614c0-c40f-11e5-bef4-005056827e51?page=uuid:5b255f20-fcee-11e5-8dad-001018b5eb5c",
@@ -24,28 +24,28 @@
   "georefereces": {
     "cutline": [
       [
-        3486,
-        204
+        3501,
+        197
       ],
       [
-        3484,
-        1926
+        3508,
+        2012
       ],
       [
-        3159,
-        2004
+        3160,
+        2012
       ],
       [
-        2681,
-        2004
+        2680,
+        2010
       ],
       [
-        2665,
-        2511
+        2677,
+        2528
       ],
       [
         941,
-        2513
+        2532
       ],
       [
         936,
@@ -56,12 +56,12 @@
         2080
       ],
       [
-        104,
-        211
+        98,
+        192
       ],
       [
-        2224,
-        206
+        2263,
+        186
       ],
       [
         2290,
@@ -76,15 +76,15 @@
         200
       ],
       [
-        3486,
-        204
+        3501,
+        197
       ]
     ],
     "created": "2020-07-07T07:20:08.367949+00:00",
     "transformation_method": "affine",
     "mapID": "63ade658-7b35-4897-8c9b-22804bd881fa",
     "affine_transformation": null,
-    "changed": "2020-07-07T07:20:08.367949+00:00",
+    "changed": "2022-04-24T10:02:13.571417+00:00",
     "gcps": [
       {
         "location": [
@@ -124,16 +124,6 @@
         "pixel": [
           3115,
           1024
-        ]
-      },
-      {
-        "location": [
-          14.666590432894331,
-          49.73059729748698
-        ],
-        "pixel": [
-          2397,
-          2207
         ]
       },
       {
@@ -194,6 +184,16 @@
         "pixel": [
           1889,
           1271
+        ]
+      },
+      {
+        "location": [
+          14.685129861605269,
+          49.78127902661092
+        ],
+        "pixel": [
+          2395,
+          2206
         ]
       }
     ]

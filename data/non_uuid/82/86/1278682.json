@@ -16,7 +16,7 @@
   "contributor": "Hollar, Václav",
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
+  "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": null,
@@ -51,8 +51,89 @@
     "transformation_method": "affine",
     "mapID": "debcf03a-48ff-5c96-ac36-b13e197fd247",
     "affine_transformation": null,
-    "changed": "2015-11-05T16:18:02.722870+00:00",
-    "gcps": []
+    "changed": "2022-04-24T16:28:36.251276+00:00",
+    "gcps": [
+      {
+        "location": [
+          73.83486048429421,
+          15.50017698846898
+        ],
+        "pixel": [
+          1197,
+          1349
+        ]
+      },
+      {
+        "location": [
+          73.82301584928445,
+          15.500507824181625
+        ],
+        "pixel": [
+          1429,
+          1380
+        ]
+      },
+      {
+        "location": [
+          73.7899666581641,
+          15.51292692537497
+        ],
+        "pixel": [
+          1996,
+          1743
+        ]
+      },
+      {
+        "location": [
+          73.86463689106061,
+          15.490041041643309
+        ],
+        "pixel": [
+          789,
+          645
+        ]
+      },
+      {
+        "location": [
+          73.82470138320915,
+          15.497345736392816
+        ],
+        "pixel": [
+          1362,
+          1155
+        ]
+      },
+      {
+        "location": [
+          73.82628925094595,
+          15.493292900393584
+        ],
+        "pixel": [
+          1389,
+          978
+        ]
+      },
+      {
+        "location": [
+          73.770860021765,
+          15.493212925146182
+        ],
+        "pixel": [
+          2432,
+          1409
+        ]
+      },
+      {
+        "location": [
+          73.86271254270486,
+          15.504146982052134
+        ],
+        "pixel": [
+          880,
+          1535
+        ]
+      }
+    ]
   },
   "pubdate": [
     "1640",

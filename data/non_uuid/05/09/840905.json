@@ -16,7 +16,7 @@
   "contributor": "Ehmann, Andreas",
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
+  "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": null,
@@ -27,31 +27,35 @@
   "georefereces": {
     "cutline": [
       [
-        3359,
-        0
+        257,
+        260
       ],
       [
-        3359,
-        2339
+        260,
+        1096
       ],
       [
-        0,
-        2339
+        1509,
+        1106
       ],
       [
-        0,
-        0
+        1463,
+        775
       ],
       [
-        3359,
-        0
+        1435,
+        281
+      ],
+      [
+        257,
+        260
       ]
     ],
-    "created": "2014-08-18T21:06:14.055430+00:00",
+    "created": "2022-04-21T13:05:29.202691+00:00",
     "transformation_method": "affine",
     "mapID": "66902f0a-284e-5c04-aed8-8b0b5f3ed9db",
     "affine_transformation": null,
-    "changed": "2021-06-09T05:51:24.656464+00:00",
+    "changed": "2022-04-21T13:16:06.872107+00:00",
     "gcps": []
   },
   "pubdate": [

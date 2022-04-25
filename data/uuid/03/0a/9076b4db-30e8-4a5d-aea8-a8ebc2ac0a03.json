@@ -9,7 +9,7 @@
   "external_id": "9076b4db-30e8-4a5d-aea8-a8ebc2ac0a03",
   "title": "Göding und Lundenburg",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "34d5e40f-d88a-5e26-8111-e6d82672d387",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-04-21T13:16:45.915182+00:00",
     "gcps": [
       {
         "location": [
@@ -102,12 +102,42 @@
       },
       {
         "location": [
+          17.052418664406837,
+          48.81858739105343
+        ],
+        "pixel": [
+          6014,
+          7254
+        ]
+      },
+      {
+        "location": [
           16.940244371738654,
           48.95735946503456
         ],
         "pixel": [
           3492,
           2394
+        ]
+      },
+      {
+        "location": [
+          17.16563418944995,
+          48.9907691652254
+        ],
+        "pixel": [
+          8677,
+          1276
+        ]
+      },
+      {
+        "location": [
+          17.23599234987712,
+          48.83662689585759
+        ],
+        "pixel": [
+          10264,
+          6678
         ]
       }
     ]

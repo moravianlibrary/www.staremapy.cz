@@ -9,7 +9,7 @@
   "external_id": "7fb1ce8b-8b1e-4994-92e9-c32ae27f5a0d",
   "title": "Aš",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -28,8 +28,16 @@
         1109
       ],
       [
-        13156,
-        9843
+        13122,
+        3809
+      ],
+      [
+        13153,
+        9842
+      ],
+      [
+        9150,
+        9815
       ],
       [
         1928,
@@ -40,6 +48,10 @@
         1033
       ],
       [
+        7538,
+        1065
+      ],
+      [
         13117,
         1109
       ]
@@ -48,7 +60,7 @@
     "transformation_method": "affine",
     "mapID": "0d20b28d-0c11-5ed2-8f75-b35972782ab8",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-04-20T12:22:05.184091+00:00",
     "gcps": [
       {
         "location": [
@@ -138,6 +150,16 @@
         "pixel": [
           12603,
           9680
+        ]
+      },
+      {
+        "location": [
+          12.079971129128054,
+          50.12798063716315
+        ],
+        "pixel": [
+          7455,
+          5325
         ]
       },
       {

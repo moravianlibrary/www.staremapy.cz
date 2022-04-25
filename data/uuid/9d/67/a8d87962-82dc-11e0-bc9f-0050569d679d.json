@@ -9,7 +9,7 @@
   "external_id": "uuid:a8d87962-82dc-11e0-bc9f-0050569d679d",
   "title": "Grosser Erdbeschreibung. Blatt N. 607-697, mapa ze strany: [82]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:637c6f30-82dc-11e0-bc9f-0050569d679d?page=uuid:a8d87962-82dc-11e0-bc9f-0050569d679d",
@@ -24,28 +24,28 @@
   "georefereces": {
     "cutline": [
       [
-        5672,
-        1162
+        5728,
+        1152
       ],
       [
-        5679,
-        3580
+        5702,
+        3605
       ],
       [
         3847,
         3601
       ],
       [
-        906,
-        3534
+        862,
+        3590
       ],
       [
-        936,
-        735
+        893,
+        715
       ],
       [
-        2437,
-        728
+        2417,
+        698
       ],
       [
         2733,
@@ -64,36 +64,16 @@
         1246
       ],
       [
-        5672,
-        1162
+        5728,
+        1152
       ]
     ],
     "created": "2020-07-07T07:29:16.104296+00:00",
     "transformation_method": "affine",
     "mapID": "99e5f1e7-56b2-45a0-a175-2d88675eea11",
     "affine_transformation": null,
-    "changed": "2020-07-07T07:29:16.104296+00:00",
+    "changed": "2022-04-21T13:14:04.068346+00:00",
     "gcps": [
-      {
-        "location": [
-          13.825356448531801,
-          50.64269158562081
-        ],
-        "pixel": [
-          3351,
-          2623
-        ]
-      },
-      {
-        "location": [
-          -6.3000568573554245,
-          57.72615279871263
-        ],
-        "pixel": [
-          1866,
-          749
-        ]
-      },
       {
         "location": [
           -6.19739760946837,
@@ -132,6 +112,26 @@
         "pixel": [
           1824,
           1662
+        ]
+      },
+      {
+        "location": [
+          -6.229148677533875,
+          57.14337908955443
+        ],
+        "pixel": [
+          3263,
+          3494
+        ]
+      },
+      {
+        "location": [
+          -5.8895919062252124,
+          57.309591234256374
+        ],
+        "pixel": [
+          5124,
+          2268
         ]
       }
     ]

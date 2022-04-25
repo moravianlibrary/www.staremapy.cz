@@ -9,7 +9,7 @@
   "external_id": "uuid:8bec5eca-ce1b-11e4-be38-001b63bd97ba",
   "title": "Asiae interioris ab Euphrate ad Indum usque pars",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b26a00-c66b-11e4-8731-1681e6b88ec1?page=uuid:8bec5eca-ce1b-11e4-be38-001b63bd97ba",
@@ -56,7 +56,7 @@
     "transformation_method": "affine",
     "mapID": "6d6d92dc-f28b-4809-bb96-feb2dbfaea53",
     "affine_transformation": null,
-    "changed": "2022-01-08T13:47:12.312761+00:00",
+    "changed": "2022-04-21T14:39:49.513933+00:00",
     "gcps": [
       {
         "location": [
@@ -110,16 +110,6 @@
       },
       {
         "location": [
-          41.26962632829174,
-          39.90093757084665
-        ],
-        "pixel": [
-          172,
-          151
-        ]
-      },
-      {
-        "location": [
           41.985851307322804,
           34.37299498360771
         ],
@@ -136,6 +126,16 @@
         "pixel": [
           189,
           249
+        ]
+      },
+      {
+        "location": [
+          41.26962632829174,
+          39.90093757084668
+        ],
+        "pixel": [
+          165,
+          144
         ]
       }
     ]

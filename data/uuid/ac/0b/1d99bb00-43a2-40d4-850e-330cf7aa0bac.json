@@ -9,7 +9,7 @@
   "external_id": "1d99bb00-43a2-40d4-850e-330cf7aa0bac",
   "title": "Novissima et accuratissima Regnorum Hispaniae et Portugalliae Mappa Geographica",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -192,7 +192,7 @@
     "transformation_method": "affine",
     "mapID": "131c5e3c-f98c-5946-874c-b7988a392304",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-04-21T13:33:27.650495+00:00",
     "gcps": [
       {
         "location": [
@@ -416,16 +416,6 @@
       },
       {
         "location": [
-          2.177621355366309,
-          41.38177755252937
-        ],
-        "pixel": [
-          12091,
-          5026
-        ]
-      },
-      {
-        "location": [
           -5.992655187434605,
           37.385635828665144
         ],
@@ -526,16 +516,6 @@
       },
       {
         "location": [
-          -3.6031288202471026,
-          37.1824034097111
-        ],
-        "pixel": [
-          6660,
-          8559
-        ]
-      },
-      {
-        "location": [
           -0.48928247763310795,
           38.35562021741757
         ],
@@ -576,12 +556,12 @@
       },
       {
         "location": [
-          -2.9420098522227685,
-          35.29206163328307
+          1.4331462279862375,
+          43.603535819687124
         ],
         "pixel": [
-          7522,
-          11738
+          11242,
+          1776
         ]
       }
     ]

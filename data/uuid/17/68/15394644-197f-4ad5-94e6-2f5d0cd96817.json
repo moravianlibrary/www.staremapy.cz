@@ -9,7 +9,7 @@
   "external_id": "15394644-197f-4ad5-94e6-2f5d0cd96817",
   "title": "Strassen-Karte der Markgrafschaft Mähren mit der im Herzogthume Schlesien gelegen Enclave Hotzenplotz",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "4b5904ed-de7b-5a27-817f-7510725f4edf",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-04-20T12:24:32.168555+00:00",
     "gcps": [
       {
         "location": [
@@ -88,16 +88,6 @@
         "pixel": [
           5109,
           7910
-        ]
-      },
-      {
-        "location": [
-          18.766990325550168,
-          49.577039821671406
-        ],
-        "pixel": [
-          10562,
-          8599
         ]
       },
       {
@@ -228,6 +218,16 @@
         "pixel": [
           9191,
           6100
+        ]
+      },
+      {
+        "location": [
+          18.76465333769898,
+          49.57688753399165
+        ],
+        "pixel": [
+          10562,
+          8599
         ]
       },
       {

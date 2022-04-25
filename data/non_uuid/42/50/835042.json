@@ -13,7 +13,7 @@
   "contributor": "Hogenberg, Franz",
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
+  "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": null,
@@ -24,32 +24,93 @@
   "georefereces": {
     "cutline": [
       [
-        2789,
-        0
+        192,
+        1346
       ],
       [
-        2789,
-        2052
+        185,
+        1932
       ],
       [
-        0,
-        2052
+        2601,
+        1915
       ],
       [
-        0,
-        0
+        2619,
+        1326
       ],
       [
-        2789,
-        0
+        192,
+        1346
       ]
     ],
-    "created": "2012-08-23T12:42:09.346860+00:00",
+    "created": "2022-04-22T19:05:07.419922+00:00",
     "transformation_method": "affine",
     "mapID": "b20c9d5d-ef05-5eb4-a051-332797c7a713",
     "affine_transformation": null,
-    "changed": "2021-02-15T05:45:18.074040+00:00",
-    "gcps": []
+    "changed": "2022-04-22T19:37:51.979348+00:00",
+    "gcps": [
+      {
+        "location": [
+          4.47886372383118,
+          51.028861745004946
+        ],
+        "pixel": [
+          1476,
+          1634
+        ]
+      },
+      {
+        "location": [
+          4.476422913627631,
+          51.03184074750905
+        ],
+        "pixel": [
+          1420,
+          1582
+        ]
+      },
+      {
+        "location": [
+          4.473756721277419,
+          51.02192514848835
+        ],
+        "pixel": [
+          2084,
+          1618
+        ]
+      },
+      {
+        "location": [
+          4.478713443536941,
+          51.0230892818949
+        ],
+        "pixel": [
+          1714,
+          1582
+        ]
+      },
+      {
+        "location": [
+          4.493883416678766,
+          51.02810161832494
+        ],
+        "pixel": [
+          300,
+          1624
+        ]
+      },
+      {
+        "location": [
+          4.502258965087822,
+          51.0281975107936
+        ],
+        "pixel": [
+          489,
+          1641
+        ]
+      }
+    ]
   },
   "pubdate": ["1572"]
 }

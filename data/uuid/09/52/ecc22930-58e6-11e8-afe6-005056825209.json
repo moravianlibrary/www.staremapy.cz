@@ -9,7 +9,7 @@
   "external_id": "uuid:ecc22930-58e6-11e8-afe6-005056825209",
   "title": "Vznik a počátky národa Československého, mapa ze strany: 33",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:8215bcf0-25d3-11e8-a0cf-005056827e52?page=uuid:ecc22930-58e6-11e8-afe6-005056825209",
@@ -60,7 +60,7 @@
     "transformation_method": "affine",
     "mapID": "c70d6452-2482-471c-8e53-697306b910af",
     "affine_transformation": null,
-    "changed": "2020-07-07T07:20:17.782111+00:00",
+    "changed": "2022-04-21T14:06:41.077005+00:00",
     "gcps": [
       {
         "location": [
@@ -70,16 +70,6 @@
         "pixel": [
           451,
           1757
-        ]
-      },
-      {
-        "location": [
-          14.704924966094605,
-          48.58816443252189
-        ],
-        "pixel": [
-          1134,
-          1210
         ]
       },
       {
@@ -104,12 +94,32 @@
       },
       {
         "location": [
-          16.66463052482569,
-          48.785608723000394
+          14.696685220000852,
+          48.57998829345419
         ],
         "pixel": [
-          1051,
-          724
+          1110,
+          1205
+        ]
+      },
+      {
+        "location": [
+          16.937875132084013,
+          48.6250338796014
+        ],
+        "pixel": [
+          1116,
+          658
+        ]
+      },
+      {
+        "location": [
+          14.399597082470082,
+          49.992788569928564
+        ],
+        "pixel": [
+          612,
+          1242
         ]
       }
     ]

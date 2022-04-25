@@ -9,7 +9,7 @@
   "external_id": "uuid:03df061d-152c-11e5-8cef-001b63bd97ba",
   "title": "Budweis und Gratzen",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf50cea-00c9-11e5-b939-0800200c9a66?page=uuid:03df061d-152c-11e5-8cef-001b63bd97ba",
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "f55aacf6-d085-420d-a4c7-e90ad9bdd4b8",
     "affine_transformation": null,
-    "changed": "2022-01-07T15:38:32.579808+00:00",
+    "changed": "2022-04-21T13:54:36.220226+00:00",
     "gcps": [
       {
         "location": [
@@ -132,52 +132,42 @@
       },
       {
         "location": [
-          14.571277403401835,
-          48.86943850131121
-        ],
-        "pixel": [
-          288,
-          220
-        ]
-      },
-      {
-        "location": [
-          14.577714705037575,
-          48.86322779513651
-        ],
-        "pixel": [
-          294,
-          227
-        ]
-      },
-      {
-        "location": [
-          14.540635847615702,
-          48.85718573227757
-        ],
-        "pixel": [
-          259,
-          235
-        ]
-      },
-      {
-        "location": [
-          14.544798636006814,
-          48.87660808520005
-        ],
-        "pixel": [
-          263,
-          210
-        ]
-      },
-      {
-        "location": [
           14.620821830470977,
           48.88172284270874
         ],
         "pixel": [
           333,
           203
+        ]
+      },
+      {
+        "location": [
+          14.546515249776343,
+          48.857453970164784
+        ],
+        "pixel": [
+          265,
+          235
+        ]
+      },
+      {
+        "location": [
+          14.51803978274067,
+          48.86549272579117
+        ],
+        "pixel": [
+          239,
+          224
+        ]
+      },
+      {
+        "location": [
+          14.466630302576863,
+          48.84909417777854
+        ],
+        "pixel": [
+          192,
+          246
         ]
       }
     ]

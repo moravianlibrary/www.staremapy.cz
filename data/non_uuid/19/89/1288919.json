@@ -16,7 +16,7 @@
   "contributor": "Lendenfeld, R. von",
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
+  "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": "Deutscher und Österreichischer Alpenverein",
@@ -51,8 +51,39 @@
     "transformation_method": "affine",
     "mapID": "12a5b742-8986-56e5-a4fa-0ce1ce64550d",
     "affine_transformation": null,
-    "changed": "2021-04-22T07:00:24.788281+00:00",
-    "gcps": []
+    "changed": "2022-04-18T18:14:29.244410+00:00",
+    "gcps": [
+      {
+        "location": [
+          170.1401330566406,
+          -43.59465783825103
+        ],
+        "pixel": [
+          1506,
+          365
+        ]
+      },
+      {
+        "location": [
+          170.1233497575936,
+          -43.74969011159817
+        ],
+        "pixel": [
+          433,
+          649
+        ]
+      },
+      {
+        "location": [
+          170.38140970811878,
+          -43.56519268179568
+        ],
+        "pixel": [
+          2075,
+          664
+        ]
+      }
+    ]
   },
   "pubdate": [
     "1880",

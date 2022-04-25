@@ -9,7 +9,7 @@
   "external_id": "3ecb990a-225a-4f7b-9bf4-6a5f0fbf31c8",
   "title": "Ober Hollabrunn",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "7c6a1945-2beb-5833-854e-18c0af2faffb",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-04-21T13:29:06.816859+00:00",
     "gcps": [
       {
         "location": [
@@ -98,6 +98,16 @@
         "pixel": [
           6465,
           6154
+        ]
+      },
+      {
+        "location": [
+          16.173530095453227,
+          48.71725259032311
+        ],
+        "pixel": [
+          8234,
+          1456
         ]
       },
       {

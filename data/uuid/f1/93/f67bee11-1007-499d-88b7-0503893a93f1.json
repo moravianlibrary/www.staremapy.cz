@@ -9,7 +9,7 @@
   "external_id": "f67bee11-1007-499d-88b7-0503893a93f1",
   "title": "Cukmantl a Neustadt i. O. Schles",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,47 @@
   "georefereces": {
     "cutline": [
       [
-        12321,
-        945
+        12296,
+        947
       ],
       [
-        12348,
-        9791
+        12345,
+        8435
       ],
       [
-        1225,
-        9686
+        12359,
+        9700
       ],
       [
-        1252,
-        893
+        7580,
+        9680
       ],
       [
-        12321,
-        945
+        2663,
+        9675
+      ],
+      [
+        1163,
+        9665
+      ],
+      [
+        1150,
+        923
+      ],
+      [
+        7009,
+        935
+      ],
+      [
+        12296,
+        947
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "fa2b36fe-7476-535a-9468-9a4427f453b0",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-04-20T11:49:05.106529+00:00",
     "gcps": [
       {
         "location": [
@@ -208,6 +224,16 @@
         "pixel": [
           1670,
           4786
+        ]
+      },
+      {
+        "location": [
+          17.74407863846707,
+          50.47070067854767
+        ],
+        "pixel": [
+          10351,
+          1930
         ]
       },
       {
