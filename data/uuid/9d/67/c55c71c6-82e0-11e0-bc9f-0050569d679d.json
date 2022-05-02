@@ -9,7 +9,7 @@
   "external_id": "uuid:c55c71c6-82e0-11e0-bc9f-0050569d679d",
   "title": "Atlas Novus indicibus instructus, Oder Neuer mit Wort=Registern versehener Atlas, mapa ze strany: [76]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:844c421a-82e0-11e0-bc9f-0050569d679d?page=uuid:c55c71c6-82e0-11e0-bc9f-0050569d679d",
@@ -24,51 +24,51 @@
   "georefereces": {
     "cutline": [
       [
-        9512,
-        634
+        9473,
+        650
       ],
       [
-        9492,
-        7410
+        9481,
+        7187
       ],
       [
-        7907,
-        7449
+        7857,
+        7227
       ],
       [
-        7907,
-        8024
+        7866,
+        8009
       ],
       [
-        873,
-        7925
+        883,
+        7989
       ],
       [
-        913,
-        3190
+        835,
+        3176
       ],
       [
         6302,
         3170
       ],
       [
-        6718,
-        2437
+        6779,
+        2394
       ],
       [
-        6837,
-        673
+        6759,
+        650
       ],
       [
-        9512,
-        634
+        9473,
+        650
       ]
     ],
     "created": "2020-07-07T07:30:43.966345+00:00",
     "transformation_method": "affine",
     "mapID": "dda8f184-181b-47c3-8663-946095368d37",
     "affine_transformation": null,
-    "changed": "2020-07-07T07:30:43.966345+00:00",
+    "changed": "2022-04-30T06:00:20.758991+00:00",
     "gcps": [
       {
         "location": [
@@ -162,32 +162,22 @@
       },
       {
         "location": [
-          17.491654848614008,
-          54.16683189927352
-        ],
-        "pixel": [
-          1957,
-          5391
-        ]
-      },
-      {
-        "location": [
-          18.80827062270219,
-          54.60548277427611
-        ],
-        "pixel": [
-          3867,
-          3847
-        ]
-      },
-      {
-        "location": [
           20.51688586660039,
           54.7118905480726
         ],
         "pixel": [
           6521,
           3856
+        ]
+      },
+      {
+        "location": [
+          21.477043515902125,
+          55.919473753212316
+        ],
+        "pixel": [
+          8032,
+          1095
         ]
       }
     ]

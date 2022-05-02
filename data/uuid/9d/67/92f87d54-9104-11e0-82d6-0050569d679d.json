@@ -9,7 +9,7 @@
   "external_id": "uuid:92f87d54-9104-11e0-82d6-0050569d679d",
   "title": "Atlas portatilis, oder Compendieuse Vorstellung Der gantzen Welt, in einer kleinen Cosmographie, Der grünenden Jugend zum Besten in XXX. saubern Land-Charten, mit Einer kurtzen Erläterung Zum andernmal heraus gegeben [von Johann Christoph Weigel], mapa ze strany: mapa_27",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:6cad222b-9103-11e0-82d6-0050569d679d?page=uuid:92f87d54-9104-11e0-82d6-0050569d679d",
@@ -24,20 +24,16 @@
   "georefereces": {
     "cutline": [
       [
-        3537,
+        3563,
         523
       ],
       [
-        3516,
-        2967
+        3552,
+        2999
       ],
       [
-        2006,
-        2912
-      ],
-      [
-        1490,
-        2965
+        1505,
+        2980
       ],
       [
         1255,
@@ -60,19 +56,19 @@
         1763
       ],
       [
-        490,
+        477,
         1808
       ],
       [
-        473,
+        454,
+        511
+      ],
+      [
+        2015,
         523
       ],
       [
-        2005,
-        550
-      ],
-      [
-        3537,
+        3563,
         523
       ]
     ],
@@ -80,7 +76,7 @@
     "transformation_method": "affine",
     "mapID": "f8d9703b-e155-47d2-8724-5427dc93869b",
     "affine_transformation": null,
-    "changed": "2020-07-07T07:28:18.358279+00:00",
+    "changed": "2022-04-26T13:48:54.541884+00:00",
     "gcps": [
       {
         "location": [
@@ -90,46 +86,6 @@
         "pixel": [
           3138,
           1796
-        ]
-      },
-      {
-        "location": [
-          18.095810579264032,
-          42.648307523839065
-        ],
-        "pixel": [
-          623,
-          685
-        ]
-      },
-      {
-        "location": [
-          28.9426535634507,
-          41.004259151257344
-        ],
-        "pixel": [
-          3212,
-          625
-        ]
-      },
-      {
-        "location": [
-          19.437961996824875,
-          41.303347943421784
-        ],
-        "pixel": [
-          896,
-          1102
-        ]
-      },
-      {
-        "location": [
-          22.904883737105415,
-          40.6418052500367
-        ],
-        "pixel": [
-          1841,
-          1084
         ]
       },
       {
@@ -144,12 +100,82 @@
       },
       {
         "location": [
+          22.904883737105415,
+          40.6418052500367
+        ],
+        "pixel": [
+          1841,
+          1084
+        ]
+      },
+      {
+        "location": [
+          19.437961996824875,
+          41.303347943421784
+        ],
+        "pixel": [
+          896,
+          1102
+        ]
+      },
+      {
+        "location": [
+          18.095810579264032,
+          42.648307523839065
+        ],
+        "pixel": [
+          623,
+          685
+        ]
+      },
+      {
+        "location": [
           21.72556709013272,
           38.237571761381304
         ],
         "pixel": [
           1459,
           2249
+        ]
+      },
+      {
+        "location": [
+          26.03553127827547,
+          35.18703144399511
+        ],
+        "pixel": [
+          2511,
+          2961
+        ]
+      },
+      {
+        "location": [
+          27.33148793073235,
+          36.86752766846149
+        ],
+        "pixel": [
+          3167,
+          2435
+        ]
+      },
+      {
+        "location": [
+          19.970648086982376,
+          39.74203410415632
+        ],
+        "pixel": [
+          932,
+          1648
+        ]
+      },
+      {
+        "location": [
+          26.17792347760736,
+          40.06229944389696
+        ],
+        "pixel": [
+          2822,
+          1093
         ]
       }
     ]

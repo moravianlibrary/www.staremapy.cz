@@ -9,7 +9,7 @@
   "external_id": "uuid:976022a1-82e0-11e0-bc9f-0050569d679d",
   "title": "Atlas Novus indicibus instructus, Oder Neuer mit Wort=Registern versehener Atlas, mapa ze strany: [23]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:844c421a-82e0-11e0-bc9f-0050569d679d?page=uuid:976022a1-82e0-11e0-bc9f-0050569d679d",
@@ -48,8 +48,8 @@
         2753
       ],
       [
-        9660,
-        8035
+        9696,
+        8067
       ],
       [
         5030,
@@ -84,12 +84,12 @@
         5923
       ],
       [
-        938,
-        519
+        901,
+        487
       ],
       [
-        7002,
-        528
+        7050,
+        497
       ],
       [
         7149,
@@ -100,7 +100,7 @@
     "transformation_method": "affine",
     "mapID": "e7075e2d-4158-459e-b7bc-b57a902df42a",
     "affine_transformation": null,
-    "changed": "2020-07-07T07:28:28.092061+00:00",
+    "changed": "2022-04-26T14:16:56.295817+00:00",
     "gcps": [
       {
         "location": [
@@ -110,16 +110,6 @@
         "pixel": [
           3116,
           5961
-        ]
-      },
-      {
-        "location": [
-          40.54325623616522,
-          64.53885469963564
-        ],
-        "pixel": [
-          3503,
-          1768
         ]
       },
       {
@@ -140,26 +130,6 @@
         "pixel": [
           3753,
           3872
-        ]
-      },
-      {
-        "location": [
-          28.96744301412719,
-          41.02425594338871
-        ],
-        "pixel": [
-          2083,
-          3296
-        ]
-      },
-      {
-        "location": [
-          29.077306295377188,
-          40.19020398712405
-        ],
-        "pixel": [
-          2185,
-          3547
         ]
       },
       {
@@ -194,22 +164,12 @@
       },
       {
         "location": [
-          27.165685201627188,
-          38.422178813311916
+          16.36571508065566,
+          48.207764444645846
         ],
         "pixel": [
-          2000,
-          3726
-        ]
-      },
-      {
-        "location": [
-          10.666964684689109,
-          53.86427940156784
-        ],
-        "pixel": [
-          1436,
-          1795
+          1346,
+          2457
         ]
       }
     ]

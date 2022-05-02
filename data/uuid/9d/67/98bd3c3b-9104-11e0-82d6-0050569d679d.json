@@ -9,7 +9,7 @@
   "external_id": "uuid:98bd3c3b-9104-11e0-82d6-0050569d679d",
   "title": "Atlas portatilis, oder Compendieuse Vorstellung Der gantzen Welt, in einer kleinen Cosmographie, Der grünenden Jugend zum Besten in XXX. saubern Land-Charten, mit Einer kurtzen Erläterung Zum andernmal heraus gegeben [von Johann Christoph Weigel], mapa ze strany: mapa_28",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:6cad222b-9103-11e0-82d6-0050569d679d?page=uuid:98bd3c3b-9104-11e0-82d6-0050569d679d",
@@ -72,18 +72,8 @@
     "transformation_method": "affine",
     "mapID": "9a6c8fa8-f944-4724-91e8-4a953c030c17",
     "affine_transformation": null,
-    "changed": "2022-01-09T05:27:49.573993+00:00",
+    "changed": "2022-04-26T14:17:57.340800+00:00",
     "gcps": [
-      {
-        "location": [
-          39.566719919901935,
-          24.510528493597178
-        ],
-        "pixel": [
-          1238,
-          1686
-        ]
-      },
       {
         "location": [
           39.84796965168103,
@@ -122,16 +112,6 @@
         "pixel": [
           1693,
           1825
-        ]
-      },
-      {
-        "location": [
-          100.52972846234458,
-          13.974106377102743
-        ],
-        "pixel": [
-          2689,
-          1888
         ]
       },
       {
@@ -176,16 +156,6 @@
       },
       {
         "location": [
-          30.684760633886548,
-          36.895702199959516
-        ],
-        "pixel": [
-          1179,
-          1451
-        ]
-      },
-      {
-        "location": [
           31.245057696127287,
           30.05755857095359
         ],
@@ -206,22 +176,32 @@
       },
       {
         "location": [
-          27.142768681079836,
-          38.42631169742074
-        ],
-        "pixel": [
-          1100,
-          1413
-        ]
-      },
-      {
-        "location": [
           76.2657775245104,
           9.93725184265881
         ],
         "pixel": [
           2164,
           2082
+        ]
+      },
+      {
+        "location": [
+          14.406179603981343,
+          50.12139815692919
+        ],
+        "pixel": [
+          792,
+          973
+        ]
+      },
+      {
+        "location": [
+          126.62922504174009,
+          34.79705506168989
+        ],
+        "pixel": [
+          3100,
+          1424
         ]
       }
     ]

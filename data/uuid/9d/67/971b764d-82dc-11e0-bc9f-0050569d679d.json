@@ -9,7 +9,7 @@
   "external_id": "uuid:971b764d-82dc-11e0-bc9f-0050569d679d",
   "title": "Grosser Erdbeschreibung. Blatt N. 607-697, mapa ze strany: [61]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:637c6f30-82dc-11e0-bc9f-0050569d679d?page=uuid:971b764d-82dc-11e0-bc9f-0050569d679d",
@@ -24,20 +24,20 @@
   "georefereces": {
     "cutline": [
       [
-        4930,
-        1558
+        4954,
+        1537
       ],
       [
-        4945,
-        3927
+        4977,
+        3948
       ],
       [
-        896,
-        3934
+        876,
+        3974
       ],
       [
-        886,
-        1900
+        862,
+        1911
       ],
       [
         1223,
@@ -52,12 +52,12 @@
         1679
       ],
       [
-        1912,
-        877
+        1898,
+        859
       ],
       [
-        3460,
-        874
+        3464,
+        860
       ],
       [
         3803,
@@ -68,19 +68,19 @@
         1142
       ],
       [
-        4410,
-        1524
+        4393,
+        1549
       ],
       [
-        4930,
-        1558
+        4954,
+        1537
       ]
     ],
     "created": "2020-07-07T07:28:26.752842+00:00",
     "transformation_method": "affine",
     "mapID": "16640a0e-e75f-47cb-974c-d202461576a7",
     "affine_transformation": null,
-    "changed": "2020-07-07T07:28:26.752842+00:00",
+    "changed": "2022-04-26T14:12:48.490309+00:00",
     "gcps": [
       {
         "location": [
@@ -170,6 +170,26 @@
         "pixel": [
           1114,
           2098
+        ]
+      },
+      {
+        "location": [
+          5.89020746478013,
+          50.812812651196595
+        ],
+        "pixel": [
+          3715,
+          2578
+        ]
+      },
+      {
+        "location": [
+          6.046419317807479,
+          50.83189863772495
+        ],
+        "pixel": [
+          4797,
+          2599
         ]
       }
     ]

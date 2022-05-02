@@ -9,7 +9,7 @@
   "external_id": "uuid:94b2ba59-82d9-11e0-bc9f-0050569d679d",
   "title": "Atlas, mapa ze strany: [89]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:111e7ef0-82d9-11e0-bc9f-0050569d679d?page=uuid:94b2ba59-82d9-11e0-bc9f-0050569d679d",
@@ -148,7 +148,7 @@
     "transformation_method": "affine",
     "mapID": "434dd938-96e9-4f89-a197-5bdfb9ecf2d2",
     "affine_transformation": null,
-    "changed": "2021-05-03T16:38:09.079190+00:00",
+    "changed": "2022-04-26T14:04:11.536217+00:00",
     "gcps": [
       {
         "location": [
@@ -232,16 +232,6 @@
       },
       {
         "location": [
-          10.390402455002944,
-          63.42626379544481
-        ],
-        "pixel": [
-          10011,
-          1491
-        ]
-      },
-      {
-        "location": [
           27.136689205381636,
           38.4197677545703
         ],
@@ -308,6 +298,36 @@
         "pixel": [
           3220,
           7283
+        ]
+      },
+      {
+        "location": [
+          10.379416126877944,
+          63.43363493446677
+        ],
+        "pixel": [
+          10011,
+          1498
+        ]
+      },
+      {
+        "location": [
+          -44.32151160749705,
+          60.02405198423929
+        ],
+        "pixel": [
+          5947,
+          2165
+        ]
+      },
+      {
+        "location": [
+          -20.273579220809957,
+          63.42836051422577
+        ],
+        "pixel": [
+          7958,
+          1647
         ]
       }
     ]

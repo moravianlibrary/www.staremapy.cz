@@ -13,7 +13,7 @@
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": true,
+  "georeference_is_finished": false,
   "bounds": null,
   "reviewed": null,
   "publisher": "Josef Seidel,",
@@ -48,89 +48,17 @@
     "transformation_method": "affine",
     "mapID": "69713a68-da38-5dcc-8da6-d6422603c832",
     "affine_transformation": null,
-    "changed": "2018-01-08T15:42:56.952299+00:00",
-    "gcps": [
-      {
-        "location": [
-          73.4765625,
-          -32.8426736319543
-        ],
-        "pixel": [
-          2620,
-          1375
-        ]
-      },
-      {
-        "location": [
-          105.1171875,
-          -25.165173368663957
-        ],
-        "pixel": [
-          3661,
-          1249
-        ]
-      },
-      {
-        "location": [
-          145.74696567310298,
-          79.11129048648593
-        ],
-        "pixel": [
-          2873,
-          507
-        ]
-      },
-      {
-        "location": [
-          95.75841928062617,
-          -27.474297121027526
-        ],
-        "pixel": [
-          3455,
-          1278
-        ]
-      },
-      {
-        "location": [
-          85.82534520541223,
-          -47.3830057391696
-        ],
-        "pixel": [
-          3309,
-          1416
-        ]
-      },
-      {
-        "location": [
-          83.2726498743752,
-          -55.67607054017998
-        ],
-        "pixel": [
-          3540,
-          1465
-        ]
-      },
-      {
-        "location": [
-          87.89062500000001,
-          -24.84656534821974
-        ],
-        "pixel": [
-          1641,
-          1407
-        ]
-      },
-      {
-        "location": [
-          90.80472955622297,
-          -29.05885565860362
-        ],
-        "pixel": [
-          2957,
-          1326
-        ]
-      }
-    ]
+    "changed": "2022-04-29T16:33:54.147117+00:00",
+    "gcps": [{
+      "location": [
+        12.7338563663208,
+        47.47499050808801
+      ],
+      "pixel": [
+        7464,
+        988
+      ]
+    }]
   },
   "pubdate": [null]
 }

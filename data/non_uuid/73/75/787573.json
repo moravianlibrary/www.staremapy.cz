@@ -13,7 +13,7 @@
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
+  "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": "Robrahn",
@@ -48,17 +48,59 @@
     "transformation_method": "affine",
     "mapID": "658af20f-3213-546c-aec8-bd675c8d3780",
     "affine_transformation": null,
-    "changed": "2021-03-01T10:58:33.076341+00:00",
-    "gcps": [{
-      "location": [
-        11.689298550415037,
-        52.18805889979683
-      ],
-      "pixel": [
-        1838,
-        1469
-      ]
-    }]
+    "changed": "2022-04-30T15:54:50.589339+00:00",
+    "gcps": [
+      {
+        "location": [
+          11.64528548515504,
+          52.175368759521064
+        ],
+        "pixel": [
+          270,
+          158
+        ]
+      },
+      {
+        "location": [
+          11.682208483458544,
+          52.1795814927859
+        ],
+        "pixel": [
+          1112,
+          1613
+        ]
+      },
+      {
+        "location": [
+          11.674773400069283,
+          52.17798500866948
+        ],
+        "pixel": [
+          275,
+          921
+        ]
+      },
+      {
+        "location": [
+          11.675795290071767,
+          52.17641431430886
+        ],
+        "pixel": [
+          255,
+          1605
+        ]
+      },
+      {
+        "location": [
+          11.689298550415037,
+          52.18805889979683
+        ],
+        "pixel": [
+          1838,
+          1469
+        ]
+      }
+    ]
   },
   "pubdate": ["1840"]
 }
