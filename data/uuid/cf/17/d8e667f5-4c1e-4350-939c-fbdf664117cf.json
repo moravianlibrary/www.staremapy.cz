@@ -9,7 +9,7 @@
   "external_id": "d8e667f5-4c1e-4350-939c-fbdf664117cf",
   "title": "Ružový Dvor",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -40,6 +40,10 @@
         986
       ],
       [
+        8398,
+        983
+      ],
+      [
         13238,
         1005
       ]
@@ -48,7 +52,7 @@
     "transformation_method": "affine",
     "mapID": "1e91b22b-ad7c-5f56-9930-59f25e79378d",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-05-05T13:05:02.422494+00:00",
     "gcps": [
       {
         "location": [
@@ -358,6 +362,16 @@
         "pixel": [
           2422,
           5073
+        ]
+      },
+      {
+        "location": [
+          21.077251197726785,
+          48.42167930214032
+        ],
+        "pixel": [
+          7432,
+          3676
         ]
       },
       {

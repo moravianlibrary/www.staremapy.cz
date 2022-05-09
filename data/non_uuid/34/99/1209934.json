@@ -16,7 +16,7 @@
   "contributor": "Nava, Ambrogio",
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
+  "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": null,
@@ -51,8 +51,39 @@
     "transformation_method": "affine",
     "mapID": "cd0d6553-bcf9-5b31-bb75-99a299e65e99",
     "affine_transformation": null,
-    "changed": "2021-04-13T13:23:37.418059+00:00",
-    "gcps": []
+    "changed": "2022-05-04T13:03:44.330292+00:00",
+    "gcps": [
+      {
+        "location": [
+          9.19258978244781,
+          45.464263937280634
+        ],
+        "pixel": [
+          1261,
+          1031
+        ]
+      },
+      {
+        "location": [
+          9.19063176986694,
+          45.46447839116436
+        ],
+        "pixel": [
+          1157,
+          1627
+        ]
+      },
+      {
+        "location": [
+          9.190621041030878,
+          45.4638914628068
+        ],
+        "pixel": [
+          1414,
+          1627
+        ]
+      }
+    ]
   },
   "pubdate": [
     "1850",

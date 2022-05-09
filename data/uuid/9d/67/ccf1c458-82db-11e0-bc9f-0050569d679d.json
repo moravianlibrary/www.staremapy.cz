@@ -9,7 +9,7 @@
   "external_id": "uuid:ccf1c458-82db-11e0-bc9f-0050569d679d",
   "title": "Grosser Erdbeschreibung. Zweyten Theil, Blatt N. 92-427., mapa ze strany: [54]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:9f27a8c2-82db-11e0-bc9f-0050569d679d?page=uuid:ccf1c458-82db-11e0-bc9f-0050569d679d",
@@ -24,12 +24,12 @@
   "georefereces": {
     "cutline": [
       [
-        4782,
-        650
+        4785,
+        960
       ],
       [
-        4800,
-        1930
+        4794,
+        1920
       ],
       [
         5005,
@@ -56,8 +56,12 @@
         4072
       ],
       [
-        2493,
-        4189
+        2495,
+        4192
+      ],
+      [
+        2246,
+        4236
       ],
       [
         2001,
@@ -76,31 +80,59 @@
         2561
       ],
       [
-        702,
-        2552
+        663,
+        2538
       ],
       [
-        634,
-        2431
+        631,
+        2426
       ],
       [
-        820,
-        1901
+        824,
+        1913
       ],
       [
         811,
         663
       ],
       [
-        4782,
-        650
+        2352,
+        662
+      ],
+      [
+        2503,
+        565
+      ],
+      [
+        2542,
+        547
+      ],
+      [
+        2575,
+        566
+      ],
+      [
+        2614,
+        661
+      ],
+      [
+        3038,
+        659
+      ],
+      [
+        3120,
+        968
+      ],
+      [
+        4785,
+        960
       ]
     ],
     "created": "2020-07-07T07:31:05.683389+00:00",
     "transformation_method": "affine",
     "mapID": "d35e72a5-f20c-4b86-be62-96c985951780",
     "affine_transformation": null,
-    "changed": "2020-07-07T07:31:05.683389+00:00",
+    "changed": "2022-05-03T08:10:19.901025+00:00",
     "gcps": [
       {
         "location": [
@@ -170,6 +202,16 @@
         "pixel": [
           1156,
           3951
+        ]
+      },
+      {
+        "location": [
+          14.362112427863934,
+          45.79384410469248
+        ],
+        "pixel": [
+          1950,
+          1339
         ]
       }
     ]

@@ -9,7 +9,7 @@
   "external_id": "f6b2f131-620d-4fc7-b100-0e6180881181",
   "title": "Kutná Hora",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -92,6 +92,14 @@
         551
       ],
       [
+        3106,
+        556
+      ],
+      [
+        3202,
+        553
+      ],
+      [
         6193,
         562
       ],
@@ -116,7 +124,7 @@
     "transformation_method": "affine",
     "mapID": "eb9313d4-a7cc-5d3a-ad84-9c53c3195144",
     "affine_transformation": null,
-    "changed": "2021-05-13T06:25:54.362249+00:00",
+    "changed": "2022-05-03T11:20:25.104288+00:00",
     "gcps": [
       {
         "location": [
@@ -176,6 +184,16 @@
         "pixel": [
           2026,
           7713
+        ]
+      },
+      {
+        "location": [
+          15.064794138359414,
+          49.880538700093865
+        ],
+        "pixel": [
+          5763,
+          4704
         ]
       },
       {

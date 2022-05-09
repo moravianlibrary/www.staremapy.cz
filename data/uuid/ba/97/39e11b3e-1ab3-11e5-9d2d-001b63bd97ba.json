@@ -13,7 +13,7 @@
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
+  "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": "Josef Seidel,",
@@ -48,17 +48,49 @@
     "transformation_method": "affine",
     "mapID": "69713a68-da38-5dcc-8da6-d6422603c832",
     "affine_transformation": null,
-    "changed": "2022-04-29T16:33:54.147117+00:00",
-    "gcps": [{
-      "location": [
-        12.7338563663208,
-        47.47499050808801
-      ],
-      "pixel": [
-        7464,
-        988
-      ]
-    }]
+    "changed": "2022-05-08T23:50:00.868795+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.7338563663208,
+          47.47499050808801
+        ],
+        "pixel": [
+          7464,
+          988
+        ]
+      },
+      {
+        "location": [
+          15.121227842583583,
+          49.21652050855394
+        ],
+        "pixel": [
+          10159,
+          1062
+        ]
+      },
+      {
+        "location": [
+          12.921891479254297,
+          47.55429401990639
+        ],
+        "pixel": [
+          7316,
+          987
+        ]
+      },
+      {
+        "location": [
+          13.480645185462897,
+          47.62329480025741
+        ],
+        "pixel": [
+          5960,
+          968
+        ]
+      }
+    ]
   },
   "pubdate": [null]
 }

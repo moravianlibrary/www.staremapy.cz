@@ -13,7 +13,7 @@
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
+  "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": "Admiralty",
@@ -48,17 +48,59 @@
     "transformation_method": "affine",
     "mapID": "eb61bf5a-b8f9-5858-ab92-be22dc425b7f",
     "affine_transformation": null,
-    "changed": "2021-03-25T18:58:02.275251+00:00",
-    "gcps": [{
-      "location": [
-        17.84689267131538,
-        49.92198217129882
-      ],
-      "pixel": [
-        815,
-        1172
-      ]
-    }]
+    "changed": "2022-05-03T20:21:10.439663+00:00",
+    "gcps": [
+      {
+        "location": [
+          -102.07540073739001,
+          -70.08459622397305
+        ],
+        "pixel": [
+          3374,
+          2051
+        ]
+      },
+      {
+        "location": [
+          179.8877157739008,
+          -61.117115833460524
+        ],
+        "pixel": [
+          1901,
+          303
+        ]
+      },
+      {
+        "location": [
+          -101.822715190515,
+          -72.04710355826144
+        ],
+        "pixel": [
+          3338,
+          2112
+        ]
+      },
+      {
+        "location": [
+          179.8783703510735,
+          -71.84326369629973
+        ],
+        "pixel": [
+          1915,
+          2015
+        ]
+      },
+      {
+        "location": [
+          179.8495440846392,
+          -73.99590119289473
+        ],
+        "pixel": [
+          1914,
+          2336
+        ]
+      }
+    ]
   },
   "pubdate": ["1924"]
 }

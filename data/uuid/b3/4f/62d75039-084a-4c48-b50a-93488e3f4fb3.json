@@ -12,7 +12,7 @@
   "external_id": "62d75039-084a-4c48-b50a-93488e3f4fb3",
   "title": "Výškopisný plán hlavního města Prahy s okolím",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -31,8 +31,16 @@
         903
       ],
       [
+        14536,
+        8183
+      ],
+      [
         14564,
         11653
+      ],
+      [
+        5263,
+        11595
       ],
       [
         898,
@@ -43,6 +51,10 @@
         818
       ],
       [
+        8130,
+        851
+      ],
+      [
         14538,
         903
       ]
@@ -51,7 +63,7 @@
     "transformation_method": "affine",
     "mapID": "52656abc-f8b0-5f23-9970-375d0dc2017b",
     "affine_transformation": null,
-    "changed": "2022-01-09T06:09:47.480030+00:00",
+    "changed": "2022-05-02T09:31:24.982296+00:00",
     "gcps": [
       {
         "location": [
@@ -91,6 +103,16 @@
         "pixel": [
           12946,
           4829
+        ]
+      },
+      {
+        "location": [
+          14.501396854094905,
+          50.04569670938906
+        ],
+        "pixel": [
+          6700,
+          6452
         ]
       },
       {

@@ -9,7 +9,7 @@
   "external_id": "1b3ecdbf-f692-4613-ac29-f73a9a0082c9",
   "title": "Kaposvár und Böhönye",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,47 @@
   "georefereces": {
     "cutline": [
       [
-        13484,
-        1188
+        13525,
+        1119
       ],
       [
-        13528,
-        9812
+        13543,
+        3851
       ],
       [
-        1572,
-        9700
+        13575,
+        9826
       ],
       [
-        1584,
-        1144
+        7523,
+        9801
       ],
       [
-        13484,
-        1188
+        1507,
+        9773
+      ],
+      [
+        1513,
+        5397
+      ],
+      [
+        1524,
+        1079
+      ],
+      [
+        7479,
+        1095
+      ],
+      [
+        13525,
+        1119
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "307cf89d-df40-5a4f-b8c0-305822a3d94a",
     "affine_transformation": null,
-    "changed": "2022-01-09T06:21:17.605321+00:00",
+    "changed": "2022-05-02T09:35:11.696488+00:00",
     "gcps": [
       {
         "location": [
@@ -118,6 +134,16 @@
         "pixel": [
           6400,
           2386
+        ]
+      },
+      {
+        "location": [
+          17.509356612482982,
+          46.39736219188393
+        ],
+        "pixel": [
+          5748,
+          4661
         ]
       },
       {

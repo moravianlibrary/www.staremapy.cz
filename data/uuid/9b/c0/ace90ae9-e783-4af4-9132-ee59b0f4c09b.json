@@ -9,7 +9,7 @@
   "external_id": "ace90ae9-e783-4af4-9132-ee59b0f4c09b",
   "title": "Jinetz (Jince)",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,47 @@
   "georefereces": {
     "cutline": [
       [
-        9889,
-        1251
+        9948,
+        1189
       ],
       [
-        9795,
-        9625
+        9871,
+        9732
       ],
       [
-        2548,
-        9567
+        9543,
+        9723
       ],
       [
-        2599,
-        1223
+        7401,
+        9714
       ],
       [
-        9889,
-        1251
+        2451,
+        9681
+      ],
+      [
+        2490,
+        6212
+      ],
+      [
+        2538,
+        1171
+      ],
+      [
+        6302,
+        1173
+      ],
+      [
+        9948,
+        1189
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "5c155107-9fc1-5505-851e-449416b50ebf",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-05-03T10:20:26.826034+00:00",
     "gcps": [
       {
         "location": [
@@ -78,6 +94,16 @@
         "pixel": [
           9201,
           9584
+        ]
+      },
+      {
+        "location": [
+          13.986400631323715,
+          49.7797733666996
+        ],
+        "pixel": [
+          5835,
+          6014
         ]
       },
       {

@@ -9,7 +9,7 @@
   "external_id": "uuid:a7828908-f896-11e4-843d-001b63bd97ba",
   "title": "Turecko-Černé moře-Ukrajina], No. 12",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b27d74-c66b-11e4-8731-1681e6b88ec1?page=uuid:a7828908-f896-11e4-843d-001b63bd97ba",
@@ -40,6 +40,10 @@
         15
       ],
       [
+        286,
+        15
+      ],
+      [
         581,
         16
       ]
@@ -48,7 +52,7 @@
     "transformation_method": "affine",
     "mapID": "4deb7efd-1b41-49d8-911d-43641fdf3e8f",
     "affine_transformation": null,
-    "changed": "2022-01-12T11:20:06.490080+00:00",
+    "changed": "2022-05-06T09:34:00.690880+00:00",
     "gcps": [
       {
         "location": [
@@ -262,22 +266,22 @@
       },
       {
         "location": [
-          42.373452228800666,
-          34.14150776491047
-        ],
-        "pixel": [
-          540,
-          422
-        ]
-      },
-      {
-        "location": [
           42.283527366684964,
           38.514994462592114
         ],
         "pixel": [
           544,
           116
+        ]
+      },
+      {
+        "location": [
+          42.3790122755491,
+          34.13630830065783
+        ],
+        "pixel": [
+          540,
+          422
         ]
       }
     ]

@@ -13,7 +13,7 @@
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
+  "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": "Robert Thiele",
@@ -48,26 +48,46 @@
     "transformation_method": "affine",
     "mapID": "ba2be2a9-5c63-547c-a442-a35e5d4ef46b",
     "affine_transformation": null,
-    "changed": "2021-02-16T13:53:30.739323+00:00",
+    "changed": "2022-05-07T20:58:25.810598+00:00",
     "gcps": [
       {
         "location": [
-          13.231368643336133,
-          49.304320659216216
+          14.428621879013765,
+          50.08074487301167
         ],
         "pixel": [
-          50,
-          193
+          1307,
+          180
         ]
       },
       {
         "location": [
-          13.230985670578626,
-          49.30429564222689
+          13.759591539841724,
+          51.061118122545935
         ],
         "pixel": [
-          669,
-          227
+          3182,
+          53
+        ]
+      },
+      {
+        "location": [
+          13.82339267724609,
+          50.64133124016874
+        ],
+        "pixel": [
+          3017,
+          196
+        ]
+      },
+      {
+        "location": [
+          13.92757633789062,
+          50.578575212781004
+        ],
+        "pixel": [
+          3301,
+          195
         ]
       }
     ]

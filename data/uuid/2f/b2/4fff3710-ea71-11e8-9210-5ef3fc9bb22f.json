@@ -9,7 +9,7 @@
   "external_id": "4fff3710-ea71-11e8-9210-5ef3fc9bb22f",
   "title": "Jermer",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,47 @@
   "georefereces": {
     "cutline": [
       [
-        9104,
-        1338
+        9163,
+        1330
       ],
       [
-        9171,
-        14329
+        9202,
+        8287
       ],
       [
-        1454,
-        14297
+        9228,
+        14456
       ],
       [
-        1418,
-        1386
+        2790,
+        14450
       ],
       [
-        9104,
-        1338
+        1377,
+        14452
+      ],
+      [
+        1375,
+        9059
+      ],
+      [
+        1370,
+        1329
+      ],
+      [
+        4030,
+        1333
+      ],
+      [
+        9163,
+        1330
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "1b58d382-e7bd-5b45-a580-91ac868b4445",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-05-02T11:20:40.675863+00:00",
     "gcps": [
       {
         "location": [
@@ -178,6 +194,16 @@
         "pixel": [
           7822,
           8682
+        ]
+      },
+      {
+        "location": [
+          15.973628635786175,
+          50.41455737290056
+        ],
+        "pixel": [
+          5727,
+          5774
         ]
       }
     ]

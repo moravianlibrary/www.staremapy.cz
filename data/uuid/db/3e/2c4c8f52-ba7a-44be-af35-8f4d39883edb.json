@@ -9,7 +9,7 @@
   "external_id": "2c4c8f52-ba7a-44be-af35-8f4d39883edb",
   "title": "Tábor",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -28,16 +28,36 @@
         1122
       ],
       [
-        13124,
-        9856
+        13099,
+        4239
+      ],
+      [
+        13123,
+        9851
+      ],
+      [
+        9082,
+        9823
+      ],
+      [
+        5369,
+        9812
       ],
       [
         1796,
         9799
       ],
       [
+        1805,
+        6390
+      ],
+      [
         1823,
         1077
+      ],
+      [
+        7457,
+        1085
       ],
       [
         13077,
@@ -48,7 +68,7 @@
     "transformation_method": "affine",
     "mapID": "335aea74-99b9-522c-a10f-6193b4f8f1f3",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-05-02T10:16:04.102081+00:00",
     "gcps": [
       {
         "location": [
@@ -148,6 +168,16 @@
         "pixel": [
           12428,
           8364
+        ]
+      },
+      {
+        "location": [
+          14.684971957115687,
+          49.38515311163084
+        ],
+        "pixel": [
+          9778,
+          5095
         ]
       },
       {

@@ -9,7 +9,7 @@
   "external_id": "uuid:73934aa2-1b34-11e5-859f-001b63bd97ba",
   "title": "Klatovy, Písek, Řezno (Regensburg), Pasov (Passau)",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:932a564d-00c9-11e5-b939-0800200c9a66?page=uuid:73934aa2-1b34-11e5-859f-001b63bd97ba",
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "49f4b5b3-de1f-4d12-abd1-9bbf892898b4",
     "affine_transformation": null,
-    "changed": "2022-01-12T14:44:50.735425+00:00",
+    "changed": "2022-05-07T17:45:05.836111+00:00",
     "gcps": [
       {
         "location": [
@@ -88,6 +88,16 @@
         "pixel": [
           90,
           379
+        ]
+      },
+      {
+        "location": [
+          12.526034580807334,
+          49.33897004522879
+        ],
+        "pixel": [
+          172,
+          87
         ]
       },
       {

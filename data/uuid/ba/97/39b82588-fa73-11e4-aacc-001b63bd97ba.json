@@ -9,7 +9,7 @@
   "external_id": "uuid:39b82588-fa73-11e4-aacc-001b63bd97ba",
   "title": "Regni Bohemiae circulus Litomericensis",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b1b29a-c66b-11e4-8731-1681e6b88ec1?page=uuid:39b82588-fa73-11e4-aacc-001b63bd97ba",
@@ -28,7 +28,23 @@
         16
       ],
       [
+        572,
+        121
+      ],
+      [
         570,
+        264
+      ],
+      [
+        570,
+        418
+      ],
+      [
+        565,
+        418
+      ],
+      [
+        368,
         417
       ],
       [
@@ -38,6 +54,22 @@
       [
         33,
         173
+      ],
+      [
+        48,
+        175
+      ],
+      [
+        74,
+        173
+      ],
+      [
+        122,
+        172
+      ],
+      [
+        162,
+        171
       ],
       [
         195,
@@ -56,12 +88,28 @@
         100
       ],
       [
-        292,
-        63
+        281,
+        81
       ],
       [
-        336,
-        58
+        280,
+        72
+      ],
+      [
+        280,
+        69
+      ],
+      [
+        294,
+        59
+      ],
+      [
+        299,
+        55
+      ],
+      [
+        329,
+        55
       ],
       [
         359,
@@ -80,7 +128,7 @@
     "transformation_method": "affine",
     "mapID": "d10a37e2-0730-41f8-a550-929b431475a5",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:42:40.725785+00:00",
+    "changed": "2022-05-06T12:04:10.958013+00:00",
     "gcps": [
       {
         "location": [
@@ -390,6 +438,16 @@
         "pixel": [
           493,
           92
+        ]
+      },
+      {
+        "location": [
+          14.311674395447454,
+          50.74141500150762
+        ],
+        "pixel": [
+          394,
+          211
         ]
       }
     ]
