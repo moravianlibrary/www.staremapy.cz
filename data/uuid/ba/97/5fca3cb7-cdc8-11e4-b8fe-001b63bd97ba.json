@@ -9,7 +9,7 @@
   "external_id": "uuid:5fca3cb7-cdc8-11e4-b8fe-001b63bd97ba",
   "title": "Atlas novus terrarum orbis imperia regna et status exactis tabulis geographice demonstrans",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b2c91e-c66b-11e4-8731-1681e6b88ec1?page=uuid:5fca3cb7-cdc8-11e4-b8fe-001b63bd97ba",
@@ -24,16 +24,20 @@
   "georefereces": {
     "cutline": [
       [
+        586,
+        22
+      ],
+      [
         584,
-        24
+        219
       ],
       [
-        582,
-        431
+        583,
+        432
       ],
       [
-        363,
-        429
+        364,
+        430
       ],
       [
         351,
@@ -44,8 +48,8 @@
         393
       ],
       [
-        323,
-        362
+        324,
+        360
       ],
       [
         317,
@@ -64,16 +68,28 @@
         306
       ],
       [
+        254,
+        319
+      ],
+      [
+        248,
+        333
+      ],
+      [
         226,
         340
       ],
       [
-        215,
-        362
+        214,
+        365
       ],
       [
-        214,
-        372
+        224,
+        371
+      ],
+      [
+        217,
+        375
       ],
       [
         198,
@@ -96,23 +112,51 @@
         352
       ],
       [
-        53,
-        335
+        52,
+        336
       ],
       [
-        60,
-        16
+        58,
+        13
       ],
       [
-        584,
-        24
+        120,
+        15
+      ],
+      [
+        280,
+        19
+      ],
+      [
+        322,
+        20
+      ],
+      [
+        358,
+        20
+      ],
+      [
+        427,
+        20
+      ],
+      [
+        500,
+        21
+      ],
+      [
+        536,
+        21
+      ],
+      [
+        586,
+        22
       ]
     ],
     "created": "2020-07-07T12:49:11.157398+00:00",
     "transformation_method": "affine",
     "mapID": "2efbfbf1-bb12-4c5f-85dd-be3d683e2e0d",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:49:11.157398+00:00",
+    "changed": "2022-05-10T12:14:11.716635+00:00",
     "gcps": [
       {
         "location": [

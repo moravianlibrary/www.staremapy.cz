@@ -13,7 +13,7 @@
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
+  "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": "Surv. gen. office",
@@ -48,8 +48,69 @@
     "transformation_method": "affine",
     "mapID": "40af33f8-c4bf-555e-82b9-4c5837be3cdd",
     "affine_transformation": null,
-    "changed": "2021-04-22T06:25:44.198120+00:00",
-    "gcps": []
+    "changed": "2022-05-15T17:27:00.326290+00:00",
+    "gcps": [
+      {
+        "location": [
+          87.13127139267954,
+          23.80109263852144
+        ],
+        "pixel": [
+          1552,
+          1047
+        ]
+      },
+      {
+        "location": [
+          86.9241024724095,
+          24.23731071379609
+        ],
+        "pixel": [
+          901,
+          1019
+        ]
+      },
+      {
+        "location": [
+          87.52546486933433,
+          23.910767795694156
+        ],
+        "pixel": [
+          2253,
+          1093
+        ]
+      },
+      {
+        "location": [
+          86.69936070455331,
+          24.488811725192562
+        ],
+        "pixel": [
+          395,
+          998
+        ]
+      },
+      {
+        "location": [
+          87.07467154613062,
+          23.911450047527225
+        ],
+        "pixel": [
+          1449,
+          997
+        ]
+      },
+      {
+        "location": [
+          88.26938881421555,
+          24.095848537430086
+        ],
+        "pixel": [
+          3286,
+          1118
+        ]
+      }
+    ]
   },
   "pubdate": ["1855"]
 }

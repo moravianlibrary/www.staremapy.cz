@@ -12,7 +12,7 @@
   "external_id": "3672d6e3-4eb0-4eb7-8d6f-ddd8baa6061d",
   "title": "Tabulae Geographicae Orbis Veteribus Noti",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,31 +27,67 @@
   "georefereces": {
     "cutline": [
       [
-        10281,
-        0
+        9574,
+        1086
       ],
       [
-        10281,
-        8380
+        9553,
+        5490
       ],
       [
-        0,
-        8380
+        10045,
+        5480
       ],
       [
-        0,
-        0
+        10045,
+        5992
       ],
       [
-        10281,
-        0
+        9543,
+        6002
+      ],
+      [
+        9544,
+        7142
+      ],
+      [
+        3741,
+        5444
+      ],
+      [
+        548,
+        5153
+      ],
+      [
+        528,
+        4650
+      ],
+      [
+        56,
+        4209
+      ],
+      [
+        126,
+        2412
+      ],
+      [
+        568,
+        2351
+      ],
+      [
+        628,
+        966
+      ],
+      [
+        9574,
+        1086
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "a346e7a8-ab88-5e4e-be39-da7253e04e3d",
     "affine_transformation": null,
-    "changed": "2022-01-17T17:52:48.481221+00:00",
+    "changed": "2022-05-10T13:10:34.017641+00:00",
     "gcps": [
       {
         "location": [

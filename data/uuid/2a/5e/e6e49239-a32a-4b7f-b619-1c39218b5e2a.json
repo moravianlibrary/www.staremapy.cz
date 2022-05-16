@@ -12,7 +12,7 @@
   "external_id": "e6e49239-a32a-4b7f-b619-1c39218b5e2a",
   "title": "Revierkarte No.1 des Bergbaues für die Eisenwerke Sr. kais. königl. Hoheit des Erzherzogs Albrecht zu Ustron et Trzinietz in Schlesien Teschner Kreis",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,31 +27,31 @@
   "georefereces": {
     "cutline": [
       [
-        14690,
-        0
+        13088,
+        986
       ],
       [
-        14690,
-        14858
+        12931,
+        13375
       ],
       [
-        0,
-        14858
+        1004,
+        13315
       ],
       [
-        0,
-        0
+        875,
+        1058
       ],
       [
-        14690,
-        0
+        13088,
+        986
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "25a1f95c-9477-5e73-9599-cf17936204bf",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-05-11T04:54:11.531751+00:00",
     "gcps": [
       {
         "location": [
@@ -65,12 +65,32 @@
       },
       {
         "location": [
-          18.704375822375013,
-          49.737670183109
+          18.848073340294945,
+          49.675614763652646
         ],
         "pixel": [
-          1861,
-          2544
+          10388,
+          7722
+        ]
+      },
+      {
+        "location": [
+          18.87079337180349,
+          49.64247005910991
+        ],
+        "pixel": [
+          11749,
+          10658
+        ]
+      },
+      {
+        "location": [
+          18.854775688670944,
+          49.661742751489385
+        ],
+        "pixel": [
+          10746,
+          8975
         ]
       },
       {
@@ -101,6 +121,16 @@
         "pixel": [
           1271,
           9508
+        ]
+      },
+      {
+        "location": [
+          18.70279527701347,
+          49.737634487322964
+        ],
+        "pixel": [
+          1755,
+          2528
         ]
       }
     ]

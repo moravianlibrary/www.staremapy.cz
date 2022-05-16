@@ -9,7 +9,7 @@
   "external_id": "uuid:ba36534e-c0b3-11e6-9e53-001b63bd97ba",
   "title": "42°52° Kobrin / K.u.k. militär-geographisches Institut",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:12991218-3003-11e6-ac61-9e71128cae77?page=uuid:ba36534e-c0b3-11e6-9e53-001b63bd97ba",
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        489,
-        43
+        491,
+        41
       ],
       [
-        493,
+        494,
         395
       ],
       [
-        109,
-        394
+        106,
+        395
       ],
       [
-        114,
-        43
+        110,
+        42
       ],
       [
-        489,
-        43
+        491,
+        41
       ]
     ],
     "created": "2020-07-07T12:56:50.212413+00:00",
     "transformation_method": "affine",
     "mapID": "2b50cb62-e524-4e43-9e6f-d10edec6fa77",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:56:50.212413+00:00",
+    "changed": "2022-05-14T15:29:38.506453+00:00",
     "gcps": [
       {
         "location": [
@@ -108,6 +108,46 @@
         "pixel": [
           151,
           345
+        ]
+      },
+      {
+        "location": [
+          24.574802005557448,
+          51.957665784081826
+        ],
+        "pixel": [
+          391,
+          234
+        ]
+      },
+      {
+        "location": [
+          24.756019046186523,
+          52.41984097723517
+        ],
+        "pixel": [
+          458,
+          70
+        ]
+      },
+      {
+        "location": [
+          24.257647677583577,
+          51.83377893199338
+        ],
+        "pixel": [
+          268,
+          277
+        ]
+      },
+      {
+        "location": [
+          23.916309581406093,
+          52.01471584112474
+        ],
+        "pixel": [
+          140,
+          213
         ]
       }
     ]

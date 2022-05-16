@@ -13,7 +13,7 @@
   "contributor": "Hogenberg, Franz",
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
+  "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": null,
@@ -24,32 +24,83 @@
   "georefereces": {
     "cutline": [
       [
-        2789,
-        0
+        1416,
+        730
       ],
       [
-        2789,
-        2054
+        2563,
+        730
       ],
       [
-        0,
-        2054
+        2549,
+        1269
       ],
       [
-        0,
-        0
+        1433,
+        1261
       ],
       [
-        2789,
-        0
+        1416,
+        730
       ]
     ],
-    "created": "2013-03-04T15:32:29.110590+00:00",
+    "created": "2022-05-15T15:52:30.751265+00:00",
     "transformation_method": "affine",
     "mapID": "c093791d-2d0c-5863-8bb1-045b711da2c2",
     "affine_transformation": null,
-    "changed": "2021-04-03T17:11:53.254590+00:00",
-    "gcps": []
+    "changed": "2022-05-15T15:55:50.727037+00:00",
+    "gcps": [
+      {
+        "location": [
+          11.023428936243779,
+          50.97584309440492
+        ],
+        "pixel": [
+          1490,
+          1074
+        ]
+      },
+      {
+        "location": [
+          11.019502182245976,
+          50.978329011418396
+        ],
+        "pixel": [
+          1972,
+          1060
+        ]
+      },
+      {
+        "location": [
+          11.020623345614206,
+          50.97739849635235
+        ],
+        "pixel": [
+          1850,
+          1104
+        ]
+      },
+      {
+        "location": [
+          11.029159475804097,
+          50.97668497726414
+        ],
+        "pixel": [
+          1776,
+          1123
+        ]
+      },
+      {
+        "location": [
+          11.02828373456074,
+          50.97931016893514
+        ],
+        "pixel": [
+          2087,
+          1135
+        ]
+      }
+    ]
   },
   "pubdate": ["1572"]
 }

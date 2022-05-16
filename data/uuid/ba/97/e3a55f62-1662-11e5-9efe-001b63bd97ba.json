@@ -9,7 +9,7 @@
   "external_id": "uuid:e3a55f62-1662-11e5-9efe-001b63bd97ba",
   "title": "Horažďovice",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf55b01-00c9-11e5-b939-0800200c9a66?page=uuid:e3a55f62-1662-11e5-9efe-001b63bd97ba",
@@ -24,31 +24,35 @@
   "georefereces": {
     "cutline": [
       [
-        524,
-        44
+        523,
+        45
       ],
       [
-        527,
-        383
+        526,
+        382
       ],
       [
-        72,
-        387
+        74,
+        385
       ],
       [
-        75,
+        74,
+        48
+      ],
+      [
+        286,
         47
       ],
       [
-        524,
-        44
+        523,
+        45
       ]
     ],
     "created": "2020-07-07T12:51:53.046680+00:00",
     "transformation_method": "affine",
     "mapID": "0eb9c0ab-ff1f-420c-8a06-37db42a8cb59",
     "affine_transformation": null,
-    "changed": "2022-01-17T18:19:27.569951+00:00",
+    "changed": "2022-05-11T02:58:25.281567+00:00",
     "gcps": [
       {
         "location": [

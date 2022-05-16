@@ -9,7 +9,7 @@
   "external_id": "9073ae4c-49e3-4a85-97ed-f83b02b6e53c",
   "title": "Suczawa",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -212,8 +212,18 @@
     "transformation_method": "affine",
     "mapID": "e13a5622-51f6-56c9-a40f-d92fe46312d3",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-05-10T12:56:52.721912+00:00",
     "gcps": [
+      {
+        "location": [
+          26.12482817514876,
+          47.693886131390485
+        ],
+        "pixel": [
+          8703,
+          3236
+        ]
+      },
       {
         "location": [
           25.847520263259263,
@@ -242,16 +252,6 @@
         "pixel": [
           4044,
           5198
-        ]
-      },
-      {
-        "location": [
-          26.12348819947729,
-          47.70685274536842
-        ],
-        "pixel": [
-          8617,
-          2706
         ]
       },
       {

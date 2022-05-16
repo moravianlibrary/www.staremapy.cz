@@ -9,7 +9,7 @@
   "external_id": "uuid:1bf15299-60a1-11e6-b48b-001b63bd97ba",
   "title": "Umgebungen von Steinamanger",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:1297b936-3003-11e6-ac61-9e71128cae77?page=uuid:1bf15299-60a1-11e6-b48b-001b63bd97ba",
@@ -28,15 +28,39 @@
         81
       ],
       [
-        512,
-        363
+        511,
+        189
+      ],
+      [
+        510,
+        284
+      ],
+      [
+        510,
+        365
+      ],
+      [
+        234,
+        365
       ],
       [
         84,
-        364
+        365
       ],
       [
         85,
+        146
+      ],
+      [
+        85,
+        80
+      ],
+      [
+        299,
+        80
+      ],
+      [
+        440,
         80
       ],
       [
@@ -48,7 +72,7 @@
     "transformation_method": "affine",
     "mapID": "5490e66a-3d9b-4146-8bae-61f5c203a4ac",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:55:21.846635+00:00",
+    "changed": "2022-05-12T10:43:01.671442+00:00",
     "gcps": [
       {
         "location": [
@@ -168,6 +192,16 @@
         "pixel": [
           335,
           300
+        ]
+      },
+      {
+        "location": [
+          16.319007185704653,
+          47.23872224236629
+        ],
+        "pixel": [
+          267,
+          211
         ]
       }
     ]

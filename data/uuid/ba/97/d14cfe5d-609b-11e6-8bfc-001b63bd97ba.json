@@ -9,7 +9,7 @@
   "external_id": "uuid:d14cfe5d-609b-11e6-8bfc-001b63bd97ba",
   "title": "Atlas historických map z let 1786-1800",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:1297bae4-3003-11e6-ac61-9e71128cae77?page=uuid:d14cfe5d-609b-11e6-8bfc-001b63bd97ba",
@@ -44,6 +44,10 @@
         59
       ],
       [
+        221,
+        58
+      ],
+      [
         289,
         58
       ],
@@ -60,6 +64,14 @@
         59
       ],
       [
+        336,
+        59
+      ],
+      [
+        378,
+        58
+      ],
+      [
         496,
         59
       ]
@@ -68,7 +80,7 @@
     "transformation_method": "affine",
     "mapID": "15500d4f-20d3-4ed8-a00c-823effc08785",
     "affine_transformation": null,
-    "changed": "2022-01-21T07:58:26.435114+00:00",
+    "changed": "2022-05-11T13:19:58.679007+00:00",
     "gcps": [
       {
         "location": [
@@ -168,16 +180,6 @@
         "pixel": [
           440,
           115
-        ]
-      },
-      {
-        "location": [
-          3.080400192674209,
-          36.75886153078065
-        ],
-        "pixel": [
-          389,
-          83
         ]
       },
       {
@@ -438,6 +440,16 @@
         "pixel": [
           382,
           63
+        ]
+      },
+      {
+        "location": [
+          3.061051886127367,
+          36.77483343932359
+        ],
+        "pixel": [
+          389,
+          83
         ]
       }
     ]

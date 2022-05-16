@@ -9,7 +9,7 @@
   "external_id": "ac1483e6-c996-47ec-a634-2a416b1730ed",
   "title": "General-Karte des Königreichs Galizien und des Herzogthumes Bukowina",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -72,7 +72,7 @@
     "transformation_method": "affine",
     "mapID": "2ee124e8-ece0-5158-834d-a30bbbdca9e9",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-05-10T13:01:56.012764+00:00",
     "gcps": [
       {
         "location": [
@@ -132,6 +132,16 @@
         "pixel": [
           8249,
           2596
+        ]
+      },
+      {
+        "location": [
+          21.275825248933984,
+          49.29109818751931
+        ],
+        "pixel": [
+          6930,
+          6730
         ]
       },
       {

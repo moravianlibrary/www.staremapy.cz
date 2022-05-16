@@ -9,7 +9,7 @@
   "external_id": "uuid:ee8b4a2d-1662-11e5-9efe-001b63bd97ba",
   "title": "Tábor",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf55afd-00c9-11e5-b939-0800200c9a66?page=uuid:ee8b4a2d-1662-11e5-9efe-001b63bd97ba",
@@ -24,24 +24,28 @@
   "georefereces": {
     "cutline": [
       [
-        578,
-        17
+        580,
+        16
       ],
       [
         581,
-        426
+        151
+      ],
+      [
+        585,
+        427
       ],
       [
         197,
         425
       ],
       [
-        17,
+        15,
         425
       ],
       [
-        20,
-        15
+        19,
+        14
       ],
       [
         201,
@@ -52,15 +56,15 @@
         16
       ],
       [
-        578,
-        17
+        580,
+        16
       ]
     ],
     "created": "2020-07-07T12:51:47.017217+00:00",
     "transformation_method": "affine",
     "mapID": "de0a0392-be4b-4aec-8a30-8cdc4c52592c",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:51:47.017217+00:00",
+    "changed": "2022-05-11T02:56:59.609232+00:00",
     "gcps": [
       {
         "location": [

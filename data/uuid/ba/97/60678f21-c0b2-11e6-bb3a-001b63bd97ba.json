@@ -9,7 +9,7 @@
   "external_id": "uuid:60678f21-c0b2-11e6-bb3a-001b63bd97ba",
   "title": "40°49° Ungvár / K.u.k. Militärgeographisches Institut",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:1298c826-3003-11e6-ac61-9e71128cae77?page=uuid:60678f21-c0b2-11e6-bb3a-001b63bd97ba",
@@ -24,23 +24,23 @@
   "georefereces": {
     "cutline": [
       [
-        520,
+        522,
         38
       ],
       [
-        522,
-        404
+        525,
+        403
       ],
       [
-        77,
-        404
+        72,
+        401
       ],
       [
-        77,
+        79,
         36
       ],
       [
-        520,
+        522,
         38
       ]
     ],
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "0cac85c0-7d80-4063-82cb-f5267e687493",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:56:50.919495+00:00",
+    "changed": "2022-05-14T15:31:35.688433+00:00",
     "gcps": [
       {
         "location": [
@@ -178,6 +178,16 @@
         "pixel": [
           334,
           48
+        ]
+      },
+      {
+        "location": [
+          22.204754562224913,
+          48.78405821782752
+        ],
+        "pixel": [
+          242,
+          297
         ]
       }
     ]

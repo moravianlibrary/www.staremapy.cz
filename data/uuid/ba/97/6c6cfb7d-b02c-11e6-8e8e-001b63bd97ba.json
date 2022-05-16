@@ -9,7 +9,7 @@
   "external_id": "uuid:6c6cfb7d-b02c-11e6-8e8e-001b63bd97ba",
   "title": "Umgebungen von Pisek und Wodnian",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:129811ba-3003-11e6-ac61-9e71128cae77?page=uuid:6c6cfb7d-b02c-11e6-8e8e-001b63bd97ba",
@@ -32,11 +32,23 @@
         375
       ],
       [
+        284,
+        375
+      ],
+      [
         57,
         375
       ],
       [
         57,
+        192
+      ],
+      [
+        58,
+        69
+      ],
+      [
+        311,
         69
       ],
       [
@@ -48,7 +60,7 @@
     "transformation_method": "affine",
     "mapID": "36e715e5-08d3-471a-b5c9-037e87d3714b",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:55:44.289184+00:00",
+    "changed": "2022-05-13T08:50:49.035626+00:00",
     "gcps": [
       {
         "location": [
@@ -98,6 +110,36 @@
         "pixel": [
           86,
           83
+        ]
+      },
+      {
+        "location": [
+          14.19766195888747,
+          49.048650005438844
+        ],
+        "pixel": [
+          343,
+          336
+        ]
+      },
+      {
+        "location": [
+          13.82778880150242,
+          49.274614994080196
+        ],
+        "pixel": [
+          110,
+          116
+        ]
+      },
+      {
+        "location": [
+          13.8807955100448,
+          49.125701959331224
+        ],
+        "pixel": [
+          140,
+          257
         ]
       }
     ]

@@ -12,7 +12,7 @@
   "external_id": "29d718a0-28db-4b17-80c3-fcc51c805694",
   "title": "České středohoří a Krušnohoří",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -51,7 +51,7 @@
     "transformation_method": "affine",
     "mapID": "84f1bdcb-e2df-5ef9-8423-dcbb1ed5c036",
     "affine_transformation": null,
-    "changed": "2021-05-25T14:52:04.753001+00:00",
+    "changed": "2022-05-13T11:31:14.738807+00:00",
     "gcps": [
       {
         "location": [
@@ -175,16 +175,6 @@
       },
       {
         "location": [
-          13.459001816483887,
-          50.43938544375317
-        ],
-        "pixel": [
-          2729,
-          9167
-        ]
-      },
-      {
-        "location": [
           13.837645117502271,
           50.45225018767974
         ],
@@ -205,22 +195,22 @@
       },
       {
         "location": [
+          13.420501875253503,
+          50.71297251096195
+        ],
+        "pixel": [
+          2218,
+          1936
+        ]
+      },
+      {
+        "location": [
           13.390779929106548,
           50.63221273397559
         ],
         "pixel": [
           1669,
           4065
-        ]
-      },
-      {
-        "location": [
-          13.420501875253503,
-          50.71297251096192
-        ],
-        "pixel": [
-          2218,
-          1936
         ]
       },
       {
@@ -351,6 +341,16 @@
         "pixel": [
           13178,
           1258
+        ]
+      },
+      {
+        "location": [
+          13.459001816483887,
+          50.43938544375317
+        ],
+        "pixel": [
+          2729,
+          9167
         ]
       }
     ]

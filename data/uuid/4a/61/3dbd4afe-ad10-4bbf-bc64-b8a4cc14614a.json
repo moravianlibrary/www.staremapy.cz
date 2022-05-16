@@ -12,7 +12,7 @@
   "external_id": "3dbd4afe-ad10-4bbf-bc64-b8a4cc14614a",
   "title": "Umgebung von Olmütz",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -87,7 +87,7 @@
     "transformation_method": "affine",
     "mapID": "73177b7c-5851-513f-9d09-24844dd586f4",
     "affine_transformation": null,
-    "changed": "2022-01-21T16:44:38.944501+00:00",
+    "changed": "2022-05-13T05:27:12.127785+00:00",
     "gcps": [
       {
         "location": [
@@ -131,22 +131,22 @@
       },
       {
         "location": [
-          17.434550932216947,
-          49.45346957777491
-        ],
-        "pixel": [
-          7118,
-          9092
-        ]
-      },
-      {
-        "location": [
           17.341329118021058,
           49.48403305655012
         ],
         "pixel": [
           1607,
           6403
+        ]
+      },
+      {
+        "location": [
+          17.464537542982235,
+          49.47014632419348
+        ],
+        "pixel": [
+          8860,
+          7504
         ]
       },
       {

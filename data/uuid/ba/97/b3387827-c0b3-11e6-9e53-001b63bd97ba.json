@@ -9,7 +9,7 @@
   "external_id": "uuid:b3387827-c0b3-11e6-9e53-001b63bd97ba",
   "title": "45°46° Focşanĭ / K.u.k. Militärgeographisches Institut",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:12993310-3003-11e6-ac61-9e71128cae77?page=uuid:b3387827-c0b3-11e6-9e53-001b63bd97ba",
@@ -24,23 +24,23 @@
   "georefereces": {
     "cutline": [
       [
-        546,
+        547,
         30
       ],
       [
-        552,
-        409
+        553,
+        410
       ],
       [
-        51,
-        409
+        50,
+        410
       ],
       [
-        55,
-        30
+        54,
+        29
       ],
       [
-        546,
+        547,
         30
       ]
     ],
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "8d709de6-aa16-4c31-9434-ccde61a8e100",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:56:53.915335+00:00",
+    "changed": "2022-05-14T15:37:15.407010+00:00",
     "gcps": [
       {
         "location": [
@@ -128,6 +128,36 @@
         "pixel": [
           241,
           268
+        ]
+      },
+      {
+        "location": [
+          26.93261117603576,
+          45.55572529187128
+        ],
+        "pixel": [
+          107,
+          385
+        ]
+      },
+      {
+        "location": [
+          27.441119777409476,
+          46.195665738662456
+        ],
+        "pixel": [
+          352,
+          144
+        ]
+      },
+      {
+        "location": [
+          27.724608468511445,
+          46.42184627170562
+        ],
+        "pixel": [
+          494,
+          59
         ]
       }
     ]

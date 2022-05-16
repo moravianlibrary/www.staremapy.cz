@@ -12,7 +12,7 @@
   "external_id": "47c51b44-3025-4640-9a7d-e8d318d6fdb8",
   "title": "Ung.-Hradisch =",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,31 +27,31 @@
   "georefereces": {
     "cutline": [
       [
-        13153,
-        1083
+        13150,
+        1091
       ],
       [
-        13141,
-        9840
+        13127,
+        9829
       ],
       [
         1836,
         9698
       ],
       [
-        1891,
-        950
+        1898,
+        954
       ],
       [
-        13153,
-        1083
+        13150,
+        1091
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "ff6cc5ff-3404-568e-9b7e-b6f99d39b971",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-05-12T12:59:41.104065+00:00",
     "gcps": [
       {
         "location": [
@@ -81,6 +81,16 @@
         "pixel": [
           3279,
           6070
+        ]
+      },
+      {
+        "location": [
+          17.352516819520634,
+          49.06311163841244
+        ],
+        "pixel": [
+          2311,
+          7465
         ]
       },
       {
@@ -161,16 +171,6 @@
         "pixel": [
           4082,
           5623
-        ]
-      },
-      {
-        "location": [
-          17.352516819520634,
-          49.06311163841241
-        ],
-        "pixel": [
-          2311,
-          7465
         ]
       },
       {

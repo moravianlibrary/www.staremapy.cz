@@ -9,7 +9,7 @@
   "external_id": "31908970-aa7d-11e8-93d6-5ef3fc9ae867",
   "title": "Č. Velenice",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -148,7 +148,7 @@
     "transformation_method": "affine",
     "mapID": "2fa38f3d-93cc-5ecd-9a5c-4948f184a5e4",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-05-11T05:12:51.043938+00:00",
     "gcps": [
       {
         "location": [
@@ -278,6 +278,16 @@
         "pixel": [
           1139,
           7965
+        ]
+      },
+      {
+        "location": [
+          14.912039890300212,
+          48.90527198076185
+        ],
+        "pixel": [
+          2838,
+          4732
         ]
       },
       {
@@ -418,16 +428,6 @@
         "pixel": [
           3048,
           3140
-        ]
-      },
-      {
-        "location": [
-          14.912039890300212,
-          48.90527198076185
-        ],
-        "pixel": [
-          2838,
-          4732
         ]
       },
       {

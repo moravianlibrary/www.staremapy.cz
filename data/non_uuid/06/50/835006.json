@@ -13,7 +13,7 @@
   "contributor": "Hogenberg, Franz",
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
+  "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": null,
@@ -24,39 +24,39 @@
   "georefereces": {
     "cutline": [
       [
-        2819,
-        0
+        191,
+        1153
       ],
       [
-        2819,
-        2057
+        171,
+        1862
       ],
       [
-        0,
-        2057
+        2662,
+        1866
       ],
       [
-        0,
-        0
+        2635,
+        1139
       ],
       [
-        2819,
-        0
+        191,
+        1153
       ]
     ],
-    "created": "2013-03-04T15:31:34.430620+00:00",
+    "created": "2022-05-09T12:27:23.994246+00:00",
     "transformation_method": "affine",
     "mapID": "6b1de390-daab-5e7d-8670-53c42997981d",
     "affine_transformation": null,
-    "changed": "2022-05-08T23:38:32.434470+00:00",
+    "changed": "2022-05-09T12:29:20.441120+00:00",
     "gcps": [{
       "location": [
-        -4.026930846557617,
-        39.86029612922371
+        -4.723436022994384,
+        41.65265357935522
       ],
       "pixel": [
-        1052,
-        613
+        1739,
+        1341
       ]
     }]
   },
