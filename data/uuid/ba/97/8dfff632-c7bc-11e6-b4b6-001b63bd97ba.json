@@ -9,7 +9,7 @@
   "external_id": "uuid:8dfff632-c7bc-11e6-b4b6-001b63bd97ba",
   "title": "48°50° Kijew / K.u.k. Militärgeographisches Institut",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:129987c0-3003-11e6-ac61-9e71128cae77?page=uuid:8dfff632-c7bc-11e6-b4b6-001b63bd97ba",
@@ -28,7 +28,15 @@
         23
       ],
       [
-        542,
+        541,
+        270
+      ],
+      [
+        543,
+        410
+      ],
+      [
+        349,
         410
       ],
       [
@@ -36,8 +44,16 @@
         410
       ],
       [
-        59,
+        57,
+        180
+      ],
+      [
+        60,
         22
+      ],
+      [
+        307,
+        23
       ],
       [
         539,
@@ -48,7 +64,7 @@
     "transformation_method": "affine",
     "mapID": "719b9f84-13d5-4073-8f5a-4112f4317d92",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:57:33.961944+00:00",
+    "changed": "2022-05-16T10:58:17.719526+00:00",
     "gcps": [
       {
         "location": [
@@ -98,6 +114,26 @@
         "pixel": [
           407,
           221
+        ]
+      },
+      {
+        "location": [
+          29.9301336807483,
+          50.07920560755451
+        ],
+        "pixel": [
+          102,
+          185
+        ]
+      },
+      {
+        "location": [
+          30.56425550511542,
+          50.442618937711586
+        ],
+        "pixel": [
+          409,
+          46
         ]
       }
     ]

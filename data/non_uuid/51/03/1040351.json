@@ -16,7 +16,7 @@
   "contributor": "Salzer, Ignác",
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
+  "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": "per Ign. Saltzer",
@@ -51,8 +51,89 @@
     "transformation_method": "affine",
     "mapID": "059236d5-0f91-5e4e-b7b0-61b7231089a4",
     "affine_transformation": null,
-    "changed": "2022-01-17T09:29:52.583564+00:00",
-    "gcps": []
+    "changed": "2022-05-17T15:08:45.096345+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.558033411056519,
+          52.34840964168353
+        ],
+        "pixel": [
+          2160,
+          880
+        ]
+      },
+      {
+        "location": [
+          14.568943057031838,
+          52.34145600419214
+        ],
+        "pixel": [
+          1439,
+          290
+        ]
+      },
+      {
+        "location": [
+          14.558428797693463,
+          52.34163953903854
+        ],
+        "pixel": [
+          2138,
+          521
+        ]
+      },
+      {
+        "location": [
+          14.555381808252548,
+          52.354170545034975
+        ],
+        "pixel": [
+          1994,
+          1022
+        ]
+      },
+      {
+        "location": [
+          14.5738713017666,
+          52.35817927855919
+        ],
+        "pixel": [
+          421,
+          1317
+        ]
+      },
+      {
+        "location": [
+          14.552286410498589,
+          52.355512990681035
+        ],
+        "pixel": [
+          2221,
+          1118
+        ]
+      },
+      {
+        "location": [
+          14.564909014673445,
+          52.34714523019343
+        ],
+        "pixel": [
+          1489,
+          640
+        ]
+      },
+      {
+        "location": [
+          14.575165781946394,
+          52.35427539202351
+        ],
+        "pixel": [
+          451,
+          919
+        ]
+      }
+    ]
   },
   "pubdate": [
     "1759",

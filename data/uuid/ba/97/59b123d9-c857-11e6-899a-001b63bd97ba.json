@@ -9,7 +9,7 @@
   "external_id": "uuid:59b123d9-c857-11e6-899a-001b63bd97ba",
   "title": "35°49° Hodonín",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:1299b768-3003-11e6-ac61-9e71128cae77?page=uuid:59b123d9-c857-11e6-899a-001b63bd97ba",
@@ -28,12 +28,24 @@
         25
       ],
       [
+        549,
+        177
+      ],
+      [
+        552,
+        344
+      ],
+      [
         553,
         403
       ],
       [
         51,
         402
+      ],
+      [
+        54,
+        191
       ],
       [
         56,
@@ -48,7 +60,7 @@
     "transformation_method": "affine",
     "mapID": "66c42e37-e01d-4fa9-bc5d-28db2c867a4e",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:57:44.090867+00:00",
+    "changed": "2022-05-16T11:49:34.625342+00:00",
     "gcps": [
       {
         "location": [
@@ -118,6 +130,16 @@
         "pixel": [
           102,
           364
+        ]
+      },
+      {
+        "location": [
+          17.511069706430874,
+          48.818388728708186
+        ],
+        "pixel": [
+          392,
+          282
         ]
       }
     ]

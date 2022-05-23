@@ -9,7 +9,7 @@
   "external_id": "uuid:9e3289a8-c7bc-11e6-b4b6-001b63bd97ba",
   "title": "37°48° Budapest, Losoncz",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:129976a4-3003-11e6-ac61-9e71128cae77?page=uuid:9e3289a8-c7bc-11e6-b4b6-001b63bd97ba",
@@ -28,6 +28,10 @@
         28
       ],
       [
+        542,
+        119
+      ],
+      [
         546,
         405
       ],
@@ -37,6 +41,14 @@
       ],
       [
         60,
+        222
+      ],
+      [
+        60,
+        27
+      ],
+      [
+        228,
         27
       ],
       [
@@ -48,7 +60,7 @@
     "transformation_method": "affine",
     "mapID": "0004af59-3c68-4260-a1fc-477bba21f9ba",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:57:29.750183+00:00",
+    "changed": "2022-05-16T10:55:00.961406+00:00",
     "gcps": [
       {
         "location": [
@@ -128,6 +140,16 @@
         "pixel": [
           259,
           190
+        ]
+      },
+      {
+        "location": [
+          19.700041259706037,
+          47.92168318296683
+        ],
+        "pixel": [
+          479,
+          245
         ]
       }
     ]

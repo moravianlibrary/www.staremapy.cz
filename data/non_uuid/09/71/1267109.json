@@ -13,7 +13,7 @@
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
+  "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": "Josef Edlbacher",
@@ -48,8 +48,89 @@
     "transformation_method": "affine",
     "mapID": "f99576a0-7757-57da-9859-4be04065d765",
     "affine_transformation": null,
-    "changed": "2021-04-22T06:31:52.220318+00:00",
-    "gcps": []
+    "changed": "2022-05-16T15:28:08.961826+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.262785628289786,
+          48.322945909122495
+        ],
+        "pixel": [
+          3064,
+          396
+        ]
+      },
+      {
+        "location": [
+          14.288362513341948,
+          48.306672335850266
+        ],
+        "pixel": [
+          1199,
+          313
+        ]
+      },
+      {
+        "location": [
+          14.284242640295075,
+          48.30867043679717
+        ],
+        "pixel": [
+          1040,
+          347
+        ]
+      },
+      {
+        "location": [
+          14.285060066519538,
+          48.31043782518506
+        ],
+        "pixel": [
+          931,
+          365
+        ]
+      },
+      {
+        "location": [
+          14.256865460205079,
+          48.323931840542656
+        ],
+        "pixel": [
+          3476,
+          491
+        ]
+      },
+      {
+        "location": [
+          14.288627372307852,
+          48.30617829404878
+        ],
+        "pixel": [
+          1196,
+          290
+        ]
+      },
+      {
+        "location": [
+          14.301896546864173,
+          48.31975988889906
+        ],
+        "pixel": [
+          244,
+          287
+        ]
+      },
+      {
+        "location": [
+          14.279593936334182,
+          48.29568262733903
+        ],
+        "pixel": [
+          1461,
+          242
+        ]
+      }
+    ]
   },
   "pubdate": ["1845"]
 }

@@ -9,7 +9,7 @@
   "external_id": "uuid:dbcde934-c85c-11e6-99ae-001b63bd97ba",
   "title": "37°49° Baňská Bystrica = (Neusohl - Beszterczebánya) / čs. názvosloví dle Lubora Niederle a Ottova zeměpisného atlasu",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:1299c5dc-3003-11e6-ac61-9e71128cae77?page=uuid:dbcde934-c85c-11e6-99ae-001b63bd97ba",
@@ -24,31 +24,71 @@
   "georefereces": {
     "cutline": [
       [
-        537,
+        548,
+        57
+      ],
+      [
+        553,
+        335
+      ],
+      [
+        553,
+        419
+      ],
+      [
+        353,
+        418
+      ],
+      [
+        120,
+        418
+      ],
+      [
+        55,
+        418
+      ],
+      [
+        57,
+        335
+      ],
+      [
+        60,
         56
       ],
       [
-        544,
-        420
-      ],
-      [
-        56,
-        421
-      ],
-      [
-        56,
-        51
-      ],
-      [
-        537,
+        171,
         56
+      ],
+      [
+        172,
+        52
+      ],
+      [
+        173,
+        41
+      ],
+      [
+        183,
+        21
+      ],
+      [
+        256,
+        8
+      ],
+      [
+        547,
+        8
+      ],
+      [
+        548,
+        57
       ]
     ],
     "created": "2020-07-07T12:57:36.318529+00:00",
     "transformation_method": "affine",
     "mapID": "ff967f39-db82-4f4a-9094-9652b99f78e9",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:57:36.318529+00:00",
+    "changed": "2022-05-16T11:01:20.170850+00:00",
     "gcps": [
       {
         "location": [
@@ -118,6 +158,16 @@
         "pixel": [
           440,
           108
+        ]
+      },
+      {
+        "location": [
+          19.231666281857976,
+          49.487143658950146
+        ],
+        "pixel": [
+          257,
+          60
         ]
       }
     ]
