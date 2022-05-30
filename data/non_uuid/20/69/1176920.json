@@ -16,7 +16,7 @@
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
+  "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": "Katastrálny mernícky úrad",
@@ -51,17 +51,39 @@
     "transformation_method": "affine",
     "mapID": "ebc3c0ba-d097-5f6f-97c5-3cd7648331f4",
     "affine_transformation": null,
-    "changed": "2022-05-14T21:43:55.103050+00:00",
-    "gcps": [{
-      "location": [
-        21.91466884013788,
-        48.75545453924775
-      ],
-      "pixel": [
-        1163,
-        586
-      ]
-    }]
+    "changed": "2022-05-26T15:46:05.855416+00:00",
+    "gcps": [
+      {
+        "location": [
+          21.985455028091273,
+          48.816530685486384
+        ],
+        "pixel": [
+          1314,
+          2237
+        ]
+      },
+      {
+        "location": [
+          21.986479631934962,
+          48.816403521771065
+        ],
+        "pixel": [
+          1469,
+          2248
+        ]
+      },
+      {
+        "location": [
+          21.98630797055801,
+          48.816343472126704
+        ],
+        "pixel": [
+          1426,
+          2289
+        ]
+      }
+    ]
   },
   "pubdate": [
     "1865",

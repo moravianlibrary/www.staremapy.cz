@@ -9,7 +9,7 @@
   "external_id": "uuid:e46bb251-191c-11e5-a619-001b63bd97ba",
   "title": "Autostrassenkarte Oesterreich",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf61e47-00c9-11e5-b939-0800200c9a66?page=uuid:e46bb251-191c-11e5-a619-001b63bd97ba",
@@ -24,31 +24,55 @@
   "georefereces": {
     "cutline": [
       [
-        590,
-        11
-      ],
-      [
-        589,
-        436
-      ],
-      [
-        84,
-        442
-      ],
-      [
-        88,
-        13
+        592,
+        12
       ],
       [
         590,
+        433
+      ],
+      [
+        507,
+        434
+      ],
+      [
+        421,
+        433
+      ],
+      [
+        337,
+        434
+      ],
+      [
+        252,
+        432
+      ],
+      [
+        85,
+        431
+      ],
+      [
+        91,
         11
+      ],
+      [
+        174,
+        12
+      ],
+      [
+        422,
+        12
+      ],
+      [
+        592,
+        12
       ]
     ],
     "created": "2020-07-07T12:52:50.602267+00:00",
     "transformation_method": "affine",
     "mapID": "a7c46751-a47e-4a15-b4c1-917609ac2219",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:52:50.602267+00:00",
+    "changed": "2022-05-27T04:22:56.034468+00:00",
     "gcps": [
       {
         "location": [

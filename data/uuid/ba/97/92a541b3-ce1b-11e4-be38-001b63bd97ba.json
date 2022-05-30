@@ -9,7 +9,7 @@
   "external_id": "uuid:92a541b3-ce1b-11e4-be38-001b63bd97ba",
   "title": "Gebürgs Karte von Baiern und der Oberen Pfalz",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b26690-c66b-11e4-8731-1681e6b88ec1?page=uuid:92a541b3-ce1b-11e4-be38-001b63bd97ba",
@@ -24,7 +24,7 @@
   "georefereces": {
     "cutline": [
       [
-        418,
+        358,
         6
       ],
       [
@@ -40,31 +40,35 @@
         113
       ],
       [
-        582,
-        300
+        583,
+        256
       ],
       [
-        440,
-        299
+        443,
+        257
       ],
       [
-        416,
-        359
+        390,
+        365
       ],
       [
-        415,
-        425
+        209,
+        367
       ],
       [
-        8,
-        425
+        21,
+        367
       ],
       [
-        8,
-        5
+        28,
+        160
       ],
       [
-        418,
+        192,
+        7
+      ],
+      [
+        358,
         6
       ]
     ],
@@ -72,7 +76,7 @@
     "transformation_method": "affine",
     "mapID": "ab4e5a81-edd0-4027-ba52-a637c534bbd1",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:47:17.484000+00:00",
+    "changed": "2022-05-25T09:09:02.753304+00:00",
     "gcps": [
       {
         "location": [
@@ -166,16 +170,6 @@
       },
       {
         "location": [
-          12.306710170251092,
-          50.00654633938052
-        ],
-        "pixel": [
-          320,
-          19
-        ]
-      },
-      {
-        "location": [
           12.569173451254212,
           48.881932967221076
         ],
@@ -192,16 +186,6 @@
         "pixel": [
           353,
           267
-        ]
-      },
-      {
-        "location": [
-          12.643331166097965,
-          47.870359157394006
-        ],
-        "pixel": [
-          328,
-          302
         ]
       },
       {
@@ -252,16 +236,6 @@
         "pixel": [
           127,
           286
-        ]
-      },
-      {
-        "location": [
-          10.901512725536092,
-          47.81274709521486
-        ],
-        "pixel": [
-          66,
-          322
         ]
       },
       {
@@ -432,16 +406,6 @@
         "pixel": [
           345,
           205
-        ]
-      },
-      {
-        "location": [
-          12.52376102304192,
-          48.24342516603494
-        ],
-        "pixel": [
-          303,
-          255
         ]
       },
       {

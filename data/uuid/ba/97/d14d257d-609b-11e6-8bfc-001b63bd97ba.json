@@ -9,7 +9,7 @@
   "external_id": "uuid:d14d257d-609b-11e6-8bfc-001b63bd97ba",
   "title": "Atlas historických map z let 1786-1800",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:1297bae4-3003-11e6-ac61-9e71128cae77?page=uuid:d14d257d-609b-11e6-8bfc-001b63bd97ba",
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "ecc1f9ef-2deb-4555-ab40-4139ca4bdabe",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:54:12.416825+00:00",
+    "changed": "2022-05-27T11:59:15.673181+00:00",
     "gcps": [
       {
         "location": [
@@ -58,26 +58,6 @@
         "pixel": [
           265,
           183
-        ]
-      },
-      {
-        "location": [
-          -5.663508917625299,
-          43.545689194832335
-        ],
-        "pixel": [
-          461,
-          143
-        ]
-      },
-      {
-        "location": [
-          -5.842036749656549,
-          43.360261255133224
-        ],
-        "pixel": [
-          440,
-          156
         ]
       },
       {
@@ -108,16 +88,6 @@
         "pixel": [
           313,
           322
-        ]
-      },
-      {
-        "location": [
-          -7.266719685372827,
-          40.53827359873401
-        ],
-        "pixel": [
-          360,
-          336
         ]
       },
       {
@@ -182,16 +152,6 @@
       },
       {
         "location": [
-          -5.746486531075963,
-          41.50605922878469
-        ],
-        "pixel": [
-          464,
-          250
-        ]
-      },
-      {
-        "location": [
           -6.055477009591583,
           42.453406759746514
         ],
@@ -252,42 +212,12 @@
       },
       {
         "location": [
-          -6.273830281075964,
-          41.500916834970525
-        ],
-        "pixel": [
-          423,
-          249
-        ]
-      },
-      {
-        "location": [
           -8.210170613107211,
           43.27775673175884
         ],
         "pixel": [
           280,
           160
-        ]
-      },
-      {
-        "location": [
-          -6.536128865060333,
-          39.98190973442138
-        ],
-        "pixel": [
-          416,
-          377
-        ]
-      },
-      {
-        "location": [
-          -5.664089070138461,
-          40.96595385053834
-        ],
-        "pixel": [
-          472,
-          277
         ]
       },
       {

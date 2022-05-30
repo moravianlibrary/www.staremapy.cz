@@ -9,7 +9,7 @@
   "external_id": "99bf6f87-250d-4ae5-997c-472393750a7f",
   "title": "Atlas starého světa",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -76,7 +76,7 @@
     "transformation_method": "affine",
     "mapID": "2f0bdb94-afa4-54e7-be1a-eaf122a36373",
     "affine_transformation": null,
-    "changed": "2022-02-25T14:24:55.555857+00:00",
+    "changed": "2022-05-25T12:21:19.498252+00:00",
     "gcps": [
       {
         "location": [
@@ -100,22 +100,22 @@
       },
       {
         "location": [
-          38.295307416256115,
-          34.543999011116014
-        ],
-        "pixel": [
-          2948,
-          2434
-        ]
-      },
-      {
-        "location": [
           27.145198714821724,
           38.41741900810197
         ],
         "pixel": [
           636,
           1310
+        ]
+      },
+      {
+        "location": [
+          39.725762597868865,
+          41.007070896334795
+        ],
+        "pixel": [
+          3216,
+          612
         ]
       },
       {
@@ -166,6 +166,16 @@
         "pixel": [
           2562,
           2568
+        ]
+      },
+      {
+        "location": [
+          38.2774319302337,
+          34.56364746534268
+        ],
+        "pixel": [
+          2948,
+          2434
         ]
       },
       {

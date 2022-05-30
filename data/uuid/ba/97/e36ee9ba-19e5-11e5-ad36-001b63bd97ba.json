@@ -9,7 +9,7 @@
   "external_id": "uuid:e36ee9ba-19e5-11e5-ad36-001b63bd97ba",
   "title": "Übersichtskarte der k.k. österreichischen Staatsbahnen und der in Staatsbetriebe befindlichen Privatbahnen",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:932a7d54-00c9-11e5-b939-0800200c9a66?page=uuid:e36ee9ba-19e5-11e5-ad36-001b63bd97ba",
@@ -24,39 +24,75 @@
   "georefereces": {
     "cutline": [
       [
-        582,
-        35
+        583,
+        53
       ],
       [
-        588,
-        432
+        585,
+        417
       ],
       [
-        12,
-        432
+        44,
+        420
       ],
       [
-        11,
-        279
+        41,
+        286
       ],
       [
-        224,
-        281
+        231,
+        286
       ],
       [
-        223,
-        36
+        232,
+        55
       ],
       [
-        582,
-        35
+        299,
+        55
+      ],
+      [
+        315,
+        56
+      ],
+      [
+        388,
+        56
+      ],
+      [
+        397,
+        56
+      ],
+      [
+        401,
+        55
+      ],
+      [
+        409,
+        56
+      ],
+      [
+        441,
+        55
+      ],
+      [
+        453,
+        55
+      ],
+      [
+        493,
+        55
+      ],
+      [
+        583,
+        53
       ]
     ],
     "created": "2020-07-07T12:50:27.557397+00:00",
     "transformation_method": "affine",
     "mapID": "53581a1d-fa03-4935-b11c-810c426a67ae",
     "affine_transformation": null,
-    "changed": "2022-02-06T09:26:22.188402+00:00",
+    "changed": "2022-05-25T22:00:21.252183+00:00",
     "gcps": [
       {
         "location": [
@@ -80,16 +116,6 @@
       },
       {
         "location": [
-          12.189560153135442,
-          50.22191649834588
-        ],
-        "pixel": [
-          250,
-          114
-        ]
-      },
-      {
-        "location": [
           12.136153591007718,
           50.49598400337493
         ],
@@ -106,16 +132,6 @@
         "pixel": [
           295,
           68
-        ]
-      },
-      {
-        "location": [
-          13.939757868594162,
-          50.96292186839321
-        ],
-        "pixel": [
-          358,
-          67
         ]
       },
       {
@@ -186,16 +202,6 @@
         "pixel": [
           582,
           407
-        ]
-      },
-      {
-        "location": [
-          9.165121134407501,
-          47.7685761504886
-        ],
-        "pixel": [
-          45,
-          306
         ]
       },
       {
@@ -366,16 +372,6 @@
         "pixel": [
           232,
           219
-        ]
-      },
-      {
-        "location": [
-          12.766052325382839,
-          46.828894012531265
-        ],
-        "pixel": [
-          255,
-          410
         ]
       },
       {

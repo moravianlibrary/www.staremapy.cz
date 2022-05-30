@@ -9,7 +9,7 @@
   "external_id": "uuid:7b1ee6d9-1b34-11e5-859f-001b63bd97ba",
   "title": "České Budějovice a okolí",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf61e4e-00c9-11e5-b939-0800200c9a66?page=uuid:7b1ee6d9-1b34-11e5-859f-001b63bd97ba",
@@ -312,7 +312,7 @@
     "transformation_method": "affine",
     "mapID": "340b3722-be67-4649-a183-404b0aa70495",
     "affine_transformation": null,
-    "changed": "2022-02-04T13:37:33.662585+00:00",
+    "changed": "2022-05-24T10:56:44.252135+00:00",
     "gcps": [
       {
         "location": [
@@ -462,6 +462,16 @@
         "pixel": [
           130,
           425
+        ]
+      },
+      {
+        "location": [
+          14.474325752550298,
+          48.97459905221311
+        ],
+        "pixel": [
+          293,
+          230
         ]
       }
     ]

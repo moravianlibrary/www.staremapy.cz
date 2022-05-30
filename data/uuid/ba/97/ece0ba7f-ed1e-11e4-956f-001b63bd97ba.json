@@ -9,7 +9,7 @@
   "external_id": "uuid:ece0ba7f-ed1e-11e4-956f-001b63bd97ba",
   "title": "Carte du théatre de la guerre présente en Westphalie avec",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b1c8e8-c66b-11e4-8731-1681e6b88ec1?page=uuid:ece0ba7f-ed1e-11e4-956f-001b63bd97ba",
@@ -24,23 +24,55 @@
   "georefereces": {
     "cutline": [
       [
-        545,
+        546,
         34
       ],
       [
-        538,
+        545,
+        84
+      ],
+      [
+        539,
         422
       ],
       [
-        63,
+        521,
+        422
+      ],
+      [
+        325,
+        422
+      ],
+      [
+        244,
+        421
+      ],
+      [
+        61,
         420
       ],
       [
-        73,
+        71,
         34
       ],
       [
-        545,
+        107,
+        34
+      ],
+      [
+        190,
+        34
+      ],
+      [
+        246,
+        34
+      ],
+      [
+        337,
+        34
+      ],
+      [
+        546,
         34
       ]
     ],
@@ -48,7 +80,7 @@
     "transformation_method": "affine",
     "mapID": "9baeff77-ac91-4b76-b36a-1d9bf8e0d8df",
     "affine_transformation": null,
-    "changed": "2022-02-02T20:50:52.609677+00:00",
+    "changed": "2022-05-24T11:33:25.349877+00:00",
     "gcps": [
       {
         "location": [
@@ -178,6 +210,46 @@
         "pixel": [
           259,
           291
+        ]
+      },
+      {
+        "location": [
+          8.918508938314838,
+          52.29081391406913
+        ],
+        "pixel": [
+          261,
+          70
+        ]
+      },
+      {
+        "location": [
+          9.737750749485496,
+          52.37333689961568
+        ],
+        "pixel": [
+          488,
+          43
+        ]
+      },
+      {
+        "location": [
+          9.952345593826033,
+          52.15165986653673
+        ],
+        "pixel": [
+          534,
+          90
+        ]
+      },
+      {
+        "location": [
+          9.708027424296578,
+          50.86857175774449
+        ],
+        "pixel": [
+          514,
+          384
         ]
       }
     ]

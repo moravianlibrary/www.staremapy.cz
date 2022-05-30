@@ -9,7 +9,7 @@
   "external_id": "uuid:378471db-9107-11e0-82d6-0050569d679d",
   "title": "Atlas minor, mapa ze strany: 287",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:187692de-9106-11e0-82d6-0050569d679d?page=uuid:378471db-9107-11e0-82d6-0050569d679d",
@@ -34,6 +34,10 @@
       [
         3518,
         2715
+      ],
+      [
+        2764,
+        2728
       ],
       [
         1280,
@@ -144,7 +148,7 @@
     "transformation_method": "affine",
     "mapID": "361f007b-5bc4-4da6-8964-d6eefe35657f",
     "affine_transformation": null,
-    "changed": "2021-08-17T14:06:15.398586+00:00",
+    "changed": "2022-05-30T05:38:05.229922+00:00",
     "gcps": [
       {
         "location": [
@@ -164,16 +168,6 @@
         "pixel": [
           421,
           722
-        ]
-      },
-      {
-        "location": [
-          6.4010385487668975,
-          46.460111682632885
-        ],
-        "pixel": [
-          2261,
-          1929
         ]
       },
       {
@@ -214,6 +208,26 @@
         "pixel": [
           574,
           1279
+        ]
+      },
+      {
+        "location": [
+          6.240320584594531,
+          46.38291332502811
+        ],
+        "pixel": [
+          2393,
+          2008
+        ]
+      },
+      {
+        "location": [
+          6.336992611630972,
+          46.45692557208989
+        ],
+        "pixel": [
+          1967,
+          2039
         ]
       }
     ]

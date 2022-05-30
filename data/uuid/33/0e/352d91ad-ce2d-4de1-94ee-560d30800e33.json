@@ -9,7 +9,7 @@
   "external_id": "352d91ad-ce2d-4de1-94ee-560d30800e33",
   "title": "Zwiesel",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,51 @@
   "georefereces": {
     "cutline": [
       [
-        14064,
-        1187
+        14124,
+        1129
       ],
       [
-        14185,
-        9816
+        14166,
+        4868
       ],
       [
-        3062,
-        9873
+        14198,
+        7603
       ],
       [
-        3020,
-        1161
+        14226,
+        9879
       ],
       [
-        14064,
-        1187
+        9892,
+        9897
+      ],
+      [
+        3004,
+        9900
+      ],
+      [
+        2988,
+        7139
+      ],
+      [
+        2967,
+        1133
+      ],
+      [
+        8793,
+        1133
+      ],
+      [
+        14124,
+        1129
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "37374a2c-ca4d-5652-bfe3-15c6dc5df727",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-05-24T08:53:55.360370+00:00",
     "gcps": [
       {
         "location": [
@@ -108,6 +128,16 @@
         "pixel": [
           6644,
           5278
+        ]
+      },
+      {
+        "location": [
+          13.05031546195595,
+          49.19656417712281
+        ],
+        "pixel": [
+          7832,
+          3011
         ]
       }
     ]

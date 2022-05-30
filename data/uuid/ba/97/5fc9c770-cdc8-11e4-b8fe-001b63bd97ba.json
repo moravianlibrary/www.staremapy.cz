@@ -9,7 +9,7 @@
   "external_id": "uuid:5fc9c770-cdc8-11e4-b8fe-001b63bd97ba",
   "title": "Atlas novus terrarum orbis imperia regna et status exactis tabulis geographice demonstrans",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b2c91e-c66b-11e4-8731-1681e6b88ec1?page=uuid:5fc9c770-cdc8-11e4-b8fe-001b63bd97ba",
@@ -24,20 +24,36 @@
   "georefereces": {
     "cutline": [
       [
-        570,
-        15
+        571,
+        14
+      ],
+      [
+        572,
+        58
+      ],
+      [
+        580,
+        56
+      ],
+      [
+        581,
+        63
+      ],
+      [
+        573,
+        73
       ],
       [
         580,
         343
       ],
       [
-        545,
-        344
+        541,
+        345
       ],
       [
-        538,
-        350
+        537,
+        351
       ],
       [
         540,
@@ -56,24 +72,56 @@
         421
       ],
       [
+        533,
+        422
+      ],
+      [
+        368,
+        423
+      ],
+      [
         236,
         423
+      ],
+      [
+        225,
+        422
+      ],
+      [
+        225,
+        418
+      ],
+      [
+        241,
+        418
       ],
       [
         243,
         405
       ],
       [
-        241,
-        381
+        239,
+        384
+      ],
+      [
+        240,
+        374
       ],
       [
         235,
         368
       ],
       [
+        224,
+        363
+      ],
+      [
+        223,
+        359
+      ],
+      [
         204,
-        352
+        350
       ],
       [
         155,
@@ -85,38 +133,58 @@
       ],
       [
         117,
+        297
+      ],
+      [
+        117,
         288
       ],
       [
-        114,
-        281
+        116,
+        283
+      ],
+      [
+        88,
+        282
       ],
       [
         64,
         287
       ],
       [
-        43,
-        279
+        42,
+        278
       ],
       [
-        48,
-        16
+        43,
+        185
+      ],
+      [
+        46,
+        15
+      ],
+      [
+        293,
+        18
       ],
       [
         311,
         19
       ],
       [
-        570,
-        15
+        321,
+        18
+      ],
+      [
+        571,
+        14
       ]
     ],
     "created": "2020-07-07T12:48:51.306510+00:00",
     "transformation_method": "affine",
     "mapID": "c06648bf-d14e-44e6-aafe-fe801745a5ca",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:48:51.306510+00:00",
+    "changed": "2022-05-25T11:36:38.639031+00:00",
     "gcps": [
       {
         "location": [

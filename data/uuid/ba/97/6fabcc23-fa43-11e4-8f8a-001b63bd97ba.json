@@ -9,7 +9,7 @@
   "external_id": "uuid:6fabcc23-fa43-11e4-8f8a-001b63bd97ba",
   "title": "Nova et accurata Carinthiae ducatus tabula geographica",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b15e3a-c66b-11e4-8731-1681e6b88ec1?page=uuid:6fabcc23-fa43-11e4-8f8a-001b63bd97ba",
@@ -24,31 +24,71 @@
   "georefereces": {
     "cutline": [
       [
-        600,
-        0
+        415,
+        94
       ],
       [
-        600,
-        443
+        538,
+        95
       ],
       [
-        0,
-        443
+        542,
+        331
       ],
       [
-        0,
-        0
+        469,
+        329
       ],
       [
-        600,
-        0
+        347,
+        329
+      ],
+      [
+        306,
+        315
+      ],
+      [
+        270,
+        314
+      ],
+      [
+        234,
+        328
+      ],
+      [
+        176,
+        330
+      ],
+      [
+        176,
+        295
+      ],
+      [
+        40,
+        295
+      ],
+      [
+        37,
+        41
+      ],
+      [
+        394,
+        39
+      ],
+      [
+        413,
+        59
+      ],
+      [
+        415,
+        94
       ]
     ],
     "created": "2020-07-07T12:45:46.556704+00:00",
     "transformation_method": "affine",
     "mapID": "fda056af-4d6f-4fc1-a778-720f8e396328",
     "affine_transformation": null,
-    "changed": "2022-02-05T08:57:16.543249+00:00",
+    "changed": "2022-05-24T13:50:26.597613+00:00",
     "gcps": [
       {
         "location": [
@@ -118,16 +158,6 @@
         "pixel": [
           154,
           94
-        ]
-      },
-      {
-        "location": [
-          13.133077522497983,
-          47.634668057219585
-        ],
-        "pixel": [
-          146,
-          51
         ]
       },
       {
@@ -282,22 +312,42 @@
       },
       {
         "location": [
-          14.237547572499883,
-          46.31501782514616
-        ],
-        "pixel": [
-          379,
-          313
-        ]
-      },
-      {
-        "location": [
           14.598312244903674,
           46.15848370108111
         ],
         "pixel": [
           438,
           325
+        ]
+      },
+      {
+        "location": [
+          14.168048044064243,
+          47.11100404525547
+        ],
+        "pixel": [
+          346,
+          86
+        ]
+      },
+      {
+        "location": [
+          14.84111525798729,
+          46.835213376599626
+        ],
+        "pixel": [
+          472,
+          144
+        ]
+      },
+      {
+        "location": [
+          13.808945958374498,
+          47.12512458929763
+        ],
+        "pixel": [
+          272,
+          96
         ]
       }
     ]

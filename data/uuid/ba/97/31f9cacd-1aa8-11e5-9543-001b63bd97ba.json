@@ -9,7 +9,7 @@
   "external_id": "uuid:31f9cacd-1aa8-11e5-9543-001b63bd97ba",
   "title": "Umgebungskarte für die Ausflugsmittelpunkte - Allgemeine Uebersichts-Karte",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5d057-00c9-11e5-b939-0800200c9a66?page=uuid:31f9cacd-1aa8-11e5-9543-001b63bd97ba",
@@ -24,39 +24,63 @@
   "georefereces": {
     "cutline": [
       [
-        508,
-        85
+        512,
+        83
       ],
       [
-        504,
-        378
+        510,
+        179
       ],
       [
-        350,
-        377
+        538,
+        187
       ],
       [
-        349,
-        319
+        540,
+        196
       ],
       [
-        121,
-        318
+        510,
+        204
       ],
       [
-        125,
-        84
+        507,
+        380
       ],
       [
-        508,
-        85
+        347,
+        379
+      ],
+      [
+        347,
+        321
+      ],
+      [
+        118,
+        321
+      ],
+      [
+        117,
+        255
+      ],
+      [
+        120,
+        82
+      ],
+      [
+        310,
+        82
+      ],
+      [
+        512,
+        83
       ]
     ],
     "created": "2020-07-07T12:51:00.323477+00:00",
     "transformation_method": "affine",
     "mapID": "669e5629-42d7-456b-86cd-0404e3a11365",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:51:00.323477+00:00",
+    "changed": "2022-05-25T13:49:50.542151+00:00",
     "gcps": [
       {
         "location": [
@@ -76,26 +100,6 @@
         "pixel": [
           181,
           111
-        ]
-      },
-      {
-        "location": [
-          13.888772168888927,
-          48.908439696674606
-        ],
-        "pixel": [
-          336,
-          86
-        ]
-      },
-      {
-        "location": [
-          13.930725948876107,
-          48.742803751427346
-        ],
-        "pixel": [
-          275,
-          265
         ]
       },
       {
@@ -176,6 +180,46 @@
         "pixel": [
           245,
           117
+        ]
+      },
+      {
+        "location": [
+          13.8907150532437,
+          48.910206375714836
+        ],
+        "pixel": [
+          336,
+          86
+        ]
+      },
+      {
+        "location": [
+          13.871070554418615,
+          48.90908518561682
+        ],
+        "pixel": [
+          322,
+          89
+        ]
+      },
+      {
+        "location": [
+          13.600666958476706,
+          48.72962527217132
+        ],
+        "pixel": [
+          119,
+          249
+        ]
+      },
+      {
+        "location": [
+          13.79305728711335,
+          48.704602437927946
+        ],
+        "pixel": [
+          275,
+          265
         ]
       }
     ]
