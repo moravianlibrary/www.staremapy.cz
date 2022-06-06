@@ -9,7 +9,7 @@
   "external_id": "uuid:6d283310-82d9-11e0-bc9f-0050569d679d",
   "title": "Atlas, mapa ze strany: [64]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:111e7ef0-82d9-11e0-bc9f-0050569d679d?page=uuid:6d283310-82d9-11e0-bc9f-0050569d679d",
@@ -24,31 +24,55 @@
   "georefereces": {
     "cutline": [
       [
-        8225,
-        1461
+        8237,
+        1453
       ],
       [
-        8141,
+        8223,
+        4760
+      ],
+      [
+        8202,
+        7370
+      ],
+      [
+        8146,
         11640
       ],
       [
-        1696,
-        11639
+        4950,
+        11638
       ],
       [
-        1812,
-        1405
+        1697,
+        11643
       ],
       [
-        8225,
-        1461
+        1729,
+        8424
+      ],
+      [
+        1804,
+        1799
+      ],
+      [
+        1809,
+        1399
+      ],
+      [
+        4987,
+        1423
+      ],
+      [
+        8237,
+        1453
       ]
     ],
     "created": "2020-07-07T07:26:26.533579+00:00",
     "transformation_method": "affine",
     "mapID": "7a0d88ac-5fec-4ba4-836d-2bfd20d9cfe6",
     "affine_transformation": null,
-    "changed": "2020-07-07T07:26:26.533579+00:00",
+    "changed": "2022-05-30T10:49:49.423087+00:00",
     "gcps": [
       {
         "location": [
@@ -168,16 +192,6 @@
         "pixel": [
           2824,
           7317
-        ]
-      },
-      {
-        "location": [
-          13.423660755987916,
-          40.79840298984834
-        ],
-        "pixel": [
-          3730,
-          9881
         ]
       },
       {
@@ -378,6 +392,26 @@
         "pixel": [
           6526,
           3245
+        ]
+      },
+      {
+        "location": [
+          13.42601158997225,
+          40.79399921274572
+        ],
+        "pixel": [
+          3730,
+          9881
+        ]
+      },
+      {
+        "location": [
+          13.454378632513759,
+          40.7906526954751
+        ],
+        "pixel": [
+          4188,
+          10055
         ]
       }
     ]

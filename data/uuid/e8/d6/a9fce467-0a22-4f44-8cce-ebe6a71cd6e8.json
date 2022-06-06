@@ -9,7 +9,7 @@
   "external_id": "a9fce467-0a22-4f44-8cce-ebe6a71cd6e8",
   "title": "Geologische und Gruben-Revier-Karte des Kohlenbeckens von Teplitz-Dux-Brüx",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -52,7 +52,7 @@
     "transformation_method": "affine",
     "mapID": "9284e576-3259-5483-bfc6-acc753ac79f5",
     "affine_transformation": null,
-    "changed": "2021-10-12T14:56:03.116285+00:00",
+    "changed": "2022-06-03T09:58:06.156599+00:00",
     "gcps": [
       {
         "location": [
@@ -122,6 +122,16 @@
         "pixel": [
           5546,
           13193
+        ]
+      },
+      {
+        "location": [
+          13.63298324715265,
+          50.52032538550125
+        ],
+        "pixel": [
+          9163,
+          8819
         ]
       }
     ]

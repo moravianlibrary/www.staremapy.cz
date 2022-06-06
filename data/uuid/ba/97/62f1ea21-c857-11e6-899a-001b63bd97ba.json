@@ -9,7 +9,7 @@
   "external_id": "uuid:62f1ea21-c857-11e6-899a-001b63bd97ba",
   "title": "38°49° Spiš. N. Ves",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:1299cbc2-3003-11e6-ac61-9e71128cae77?page=uuid:62f1ea21-c857-11e6-899a-001b63bd97ba",
@@ -24,31 +24,47 @@
   "georefereces": {
     "cutline": [
       [
-        543,
-        33
+        548,
+        30
       ],
       [
-        550,
+        549,
+        263
+      ],
+      [
+        552,
+        405
+      ],
+      [
+        415,
+        405
+      ],
+      [
+        187,
+        405
+      ],
+      [
+        49,
         404
       ],
       [
         54,
-        403
+        29
       ],
       [
-        57,
-        31
+        199,
+        30
       ],
       [
-        543,
-        33
+        548,
+        30
       ]
     ],
     "created": "2020-07-07T12:57:43.386400+00:00",
     "transformation_method": "affine",
     "mapID": "3ac0766a-1117-4f5d-8d1f-6c877ffe5201",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:57:43.386400+00:00",
+    "changed": "2022-06-05T11:00:33.959901+00:00",
     "gcps": [
       {
         "location": [

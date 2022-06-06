@@ -9,7 +9,7 @@
   "external_id": "uuid:b1de9a55-333c-11e8-864a-001b63bd97ba",
   "title": "Atlas pozdně barokních map",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:c9573325-1037-44d0-b4f1-7fb07daa4e1d?page=uuid:b1de9a55-333c-11e8-864a-001b63bd97ba",
@@ -24,8 +24,8 @@
   "georefereces": {
     "cutline": [
       [
-        552,
-        14
+        554,
+        12
       ],
       [
         555,
@@ -64,6 +64,10 @@
         370
       ],
       [
+        402,
+        376
+      ],
+      [
         406,
         381
       ],
@@ -81,7 +85,7 @@
       ],
       [
         386,
-        413
+        414
       ],
       [
         148,
@@ -96,8 +100,20 @@
         415
       ],
       [
-        53,
-        415
+        79,
+        416
+      ],
+      [
+        51,
+        416
+      ],
+      [
+        50,
+        290
+      ],
+      [
+        50,
+        225
       ],
       [
         50,
@@ -112,8 +128,16 @@
         143
       ],
       [
+        88,
+        136
+      ],
+      [
         103,
         135
+      ],
+      [
+        110,
+        123
       ],
       [
         120,
@@ -125,6 +149,14 @@
       ],
       [
         141,
+        79
+      ],
+      [
+        131,
+        77
+      ],
+      [
+        117,
         79
       ],
       [
@@ -144,19 +176,23 @@
         37
       ],
       [
-        191,
-        13
+        196,
+        12
       ],
       [
-        552,
-        14
+        387,
+        11
+      ],
+      [
+        554,
+        12
       ]
     ],
     "created": "2020-07-07T13:00:08.852903+00:00",
     "transformation_method": "affine",
     "mapID": "298c67fd-8077-4da7-b992-5fe84114cdda",
     "affine_transformation": null,
-    "changed": "2021-08-30T17:32:07.955204+00:00",
+    "changed": "2022-06-05T11:16:30.293285+00:00",
     "gcps": [
       {
         "location": [

@@ -9,7 +9,7 @@
   "external_id": "uuid:86d9fc2e-82e1-11e0-bc9f-0050569d679d",
   "title": "Grosser deutscher Atlass, mapa ze strany: [27]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:6dcf2833-82e1-11e0-bc9f-0050569d679d?page=uuid:86d9fc2e-82e1-11e0-bc9f-0050569d679d",
@@ -24,16 +24,28 @@
   "georefereces": {
     "cutline": [
       [
-        13039,
-        1382
+        13093,
+        1362
       ],
       [
         13112,
         9830
       ],
       [
+        10420,
+        9849
+      ],
+      [
+        8674,
+        9859
+      ],
+      [
         2201,
         9828
+      ],
+      [
+        2186,
+        9186
       ],
       [
         2229,
@@ -46,6 +58,10 @@
       [
         3505,
         6446
+      ],
+      [
+        4055,
+        5638
       ],
       [
         4560,
@@ -64,15 +80,31 @@
         1356
       ],
       [
-        13039,
-        1382
+        6700,
+        1352
+      ],
+      [
+        6579,
+        1684
+      ],
+      [
+        8631,
+        1674
+      ],
+      [
+        8439,
+        1352
+      ],
+      [
+        13093,
+        1362
       ]
     ],
     "created": "2020-07-07T07:27:48.051125+00:00",
     "transformation_method": "affine",
     "mapID": "dc9a2196-3e94-4194-9ad7-f3120e9e598f",
     "affine_transformation": null,
-    "changed": "2022-02-20T19:24:22.038354+00:00",
+    "changed": "2022-05-31T08:40:27.361984+00:00",
     "gcps": [
       {
         "location": [

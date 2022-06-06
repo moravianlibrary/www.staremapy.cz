@@ -9,7 +9,7 @@
   "external_id": "a26a91f5-c40a-4323-bbab-88584e830f4e",
   "title": "Maków a Podvlk",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,47 @@
   "georefereces": {
     "cutline": [
       [
-        12369,
-        1219
+        12360,
+        1231
       ],
       [
-        12316,
-        9958
+        12291,
+        9948
       ],
       [
-        1209,
-        9825
+        7778,
+        9879
       ],
       [
-        1263,
-        1103
+        2663,
+        9837
       ],
       [
-        12369,
-        1219
+        1218,
+        9812
+      ],
+      [
+        1252,
+        5516
+      ],
+      [
+        1267,
+        1119
+      ],
+      [
+        7131,
+        1160
+      ],
+      [
+        12360,
+        1231
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "f00fb8b0-7826-5896-ac66-5d2a6b781550",
     "affine_transformation": null,
-    "changed": "2022-03-07T14:01:34.529438+00:00",
+    "changed": "2022-06-03T06:59:52.760258+00:00",
     "gcps": [
       {
         "location": [
@@ -58,6 +74,16 @@
         "pixel": [
           2753,
           4864
+        ]
+      },
+      {
+        "location": [
+          19.560253350757687,
+          49.66089574790837
+        ],
+        "pixel": [
+          6343,
+          4213
         ]
       },
       {

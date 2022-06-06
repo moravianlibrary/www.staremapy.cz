@@ -9,7 +9,7 @@
   "external_id": "abb87ce7-3f8c-4df7-b4c2-e313cbc6597b",
   "title": "Sofia, Philippopel",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,35 +24,51 @@
   "georefereces": {
     "cutline": [
       [
-        10613,
-        1219
+        10650,
+        1197
+      ],
+      [
+        10643,
+        5466
       ],
       [
         10640,
         6815
       ],
       [
-        10614,
-        8922
+        10632,
+        8939
       ],
       [
-        1497,
-        8853
+        6206,
+        8910
       ],
       [
-        1503,
-        1144
+        1471,
+        8881
       ],
       [
-        10613,
-        1219
+        1471,
+        5994
+      ],
+      [
+        1489,
+        1133
+      ],
+      [
+        5743,
+        1157
+      ],
+      [
+        10650,
+        1197
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "ac853681-269a-5a58-ac97-60f26b0b25b4",
     "affine_transformation": null,
-    "changed": "2022-03-11T06:10:57.434685+00:00",
+    "changed": "2022-06-03T10:05:55.839746+00:00",
     "gcps": [
       {
         "location": [
@@ -102,6 +118,26 @@
         "pixel": [
           3913,
           2672
+        ]
+      },
+      {
+        "location": [
+          23.488833276824977,
+          41.839147057316154
+        ],
+        "pixel": [
+          4210,
+          7403
+        ]
+      },
+      {
+        "location": [
+          25.556066391801327,
+          41.9327815376225
+        ],
+        "pixel": [
+          9465,
+          6619
         ]
       },
       {

@@ -9,7 +9,7 @@
   "external_id": "uuid:5fef949e-82db-11e0-bc9f-0050569d679d",
   "title": "Grosser Erdbeschreibung. Ersten Theil, Blatt N. 34-90., mapa ze strany: [27]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:48b42973-82db-11e0-bc9f-0050569d679d?page=uuid:5fef949e-82db-11e0-bc9f-0050569d679d",
@@ -24,43 +24,55 @@
   "georefereces": {
     "cutline": [
       [
-        5087,
-        1576
+        5106,
+        1300
+      ],
+      [
+        5111,
+        2686
+      ],
+      [
+        5119,
+        4107
+      ],
+      [
+        2982,
+        4097
+      ],
+      [
+        906,
+        4107
+      ],
+      [
+        896,
+        2749
+      ],
+      [
+        1569,
+        2204
+      ],
+      [
+        2506,
+        2153
+      ],
+      [
+        2534,
+        1995
+      ],
+      [
+        2567,
+        1288
       ],
       [
         5106,
-        4063
-      ],
-      [
-        928,
-        4079
-      ],
-      [
-        919,
-        2783
-      ],
-      [
-        1687,
-        2230
-      ],
-      [
-        2532,
-        2105
-      ],
-      [
-        2746,
-        1684
-      ],
-      [
-        5087,
-        1576
+        1300
       ]
     ],
     "created": "2020-07-07T07:25:48.647368+00:00",
     "transformation_method": "affine",
     "mapID": "ccc6f1c1-37c4-41a1-98b4-68c40acb9bda",
     "affine_transformation": null,
-    "changed": "2022-02-20T18:49:33.422491+00:00",
+    "changed": "2022-05-30T09:14:05.689646+00:00",
     "gcps": [
       {
         "location": [
@@ -94,12 +106,22 @@
       },
       {
         "location": [
-          18.41266188904315,
-          54.72330983920159
+          18.411412177584616,
+          54.72073591807245
         ],
         "pixel": [
-          4830,
-          2010
+          4824,
+          2014
+        ]
+      },
+      {
+        "location": [
+          18.496470858624352,
+          54.60847328640719
+        ],
+        "pixel": [
+          5040,
+          2246
         ]
       },
       {

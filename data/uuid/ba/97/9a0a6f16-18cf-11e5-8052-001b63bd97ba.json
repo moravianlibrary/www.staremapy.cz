@@ -9,7 +9,7 @@
   "external_id": "uuid:9a0a6f16-18cf-11e5-8052-001b63bd97ba",
   "title": "Kaplice",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf50cd3-00c9-11e5-b939-0800200c9a66?page=uuid:9a0a6f16-18cf-11e5-8052-001b63bd97ba",
@@ -24,23 +24,47 @@
   "georefereces": {
     "cutline": [
       [
-        526,
+        528,
         40
       ],
       [
-        527,
-        363
+        528,
+        170
       ],
       [
-        79,
-        363
+        528,
+        364
       ],
       [
-        82,
-        43
+        299,
+        364
       ],
       [
-        526,
+        195,
+        364
+      ],
+      [
+        78,
+        364
+      ],
+      [
+        78,
+        250
+      ],
+      [
+        80,
+        41
+      ],
+      [
+        298,
+        41
+      ],
+      [
+        341,
+        40
+      ],
+      [
+        528,
         40
       ]
     ],
@@ -48,7 +72,7 @@
     "transformation_method": "affine",
     "mapID": "26d9739a-3e7b-4907-9154-17499f2969f8",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:52:22.858874+00:00",
+    "changed": "2022-06-03T10:29:12.003029+00:00",
     "gcps": [
       {
         "location": [
@@ -128,6 +152,16 @@
         "pixel": [
           509,
           65
+        ]
+      },
+      {
+        "location": [
+          14.577452868254987,
+          48.68698407520617
+        ],
+        "pixel": [
+          299,
+          121
         ]
       }
     ]

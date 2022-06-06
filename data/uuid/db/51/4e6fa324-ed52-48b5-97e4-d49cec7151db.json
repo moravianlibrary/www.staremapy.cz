@@ -9,7 +9,7 @@
   "external_id": "4e6fa324-ed52-48b5-97e4-d49cec7151db",
   "title": "Sklabiná",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,23 +24,39 @@
   "georefereces": {
     "cutline": [
       [
-        10700,
+        10613,
         972
       ],
       [
-        10673,
-        8758
+        10644,
+        5436
       ],
       [
-        1453,
-        8769
+        10665,
+        8740
       ],
       [
-        1386,
-        961
+        5912,
+        8740
       ],
       [
-        10700,
+        1484,
+        8742
+      ],
+      [
+        1450,
+        4078
+      ],
+      [
+        1436,
+        971
+      ],
+      [
+        6179,
+        973
+      ],
+      [
+        10613,
         972
       ]
     ],
@@ -48,7 +64,7 @@
     "transformation_method": "affine",
     "mapID": "776beaea-dcc6-5b6f-8bd2-86ca0b50a8f3",
     "affine_transformation": null,
-    "changed": "2022-03-04T14:10:43.179749+00:00",
+    "changed": "2022-06-03T06:01:23.347198+00:00",
     "gcps": [
       {
         "location": [
@@ -158,6 +174,16 @@
         "pixel": [
           4475,
           7327
+        ]
+      },
+      {
+        "location": [
+          21.11698696090005,
+          47.31776957980239
+        ],
+        "pixel": [
+          6210,
+          4113
         ]
       },
       {

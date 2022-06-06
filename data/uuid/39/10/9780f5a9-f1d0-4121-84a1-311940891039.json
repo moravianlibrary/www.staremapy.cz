@@ -9,7 +9,7 @@
   "external_id": "9780f5a9-f1d0-4121-84a1-311940891039",
   "title": "Karlovy Vary",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,55 @@
   "georefereces": {
     "cutline": [
       [
-        12977,
-        1006
+        12925,
+        979
       ],
       [
-        13040,
-        9763
+        12969,
+        4863
       ],
       [
-        1938,
-        9806
+        13009,
+        8118
       ],
       [
-        1875,
-        991
+        13031,
+        9724
       ],
       [
-        12977,
-        1006
+        7659,
+        9723
+      ],
+      [
+        2366,
+        9750
+      ],
+      [
+        1966,
+        9748
+      ],
+      [
+        1937,
+        7229
+      ],
+      [
+        1909,
+        1011
+      ],
+      [
+        7632,
+        993
+      ],
+      [
+        12925,
+        979
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "fd9e83be-b89b-5a94-b19b-afa95ff9fd97",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-06-02T11:56:50.453067+00:00",
     "gcps": [
       {
         "location": [
@@ -188,6 +212,16 @@
         "pixel": [
           4544,
           9346
+        ]
+      },
+      {
+        "location": [
+          13.168890294724262,
+          50.13673464775445
+        ],
+        "pixel": [
+          9340,
+          4917
         ]
       }
     ]

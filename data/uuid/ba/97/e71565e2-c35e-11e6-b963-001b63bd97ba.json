@@ -9,7 +9,7 @@
   "external_id": "uuid:e71565e2-c35e-11e6-b963-001b63bd97ba",
   "title": "33°46° Cilli / K.u.k. militär-geographisches Institut",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:129959da-3003-11e6-ac61-9e71128cae77?page=uuid:e71565e2-c35e-11e6-b963-001b63bd97ba",
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        531,
-        37
+        537,
+        400
       ],
       [
-        535,
-        399
-      ],
-      [
-        66,
+        65,
         399
       ],
       [
         69,
+        36
+      ],
+      [
+        532,
         37
       ],
       [
-        531,
-        37
+        537,
+        400
       ]
     ],
     "created": "2020-07-07T12:57:24.097560+00:00",
     "transformation_method": "affine",
     "mapID": "bf6796a1-ae80-4a8f-9571-056fe700d0a0",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:57:24.097560+00:00",
+    "changed": "2022-06-05T10:58:53.978696+00:00",
     "gcps": [
       {
         "location": [
@@ -168,6 +168,86 @@
         "pixel": [
           341,
           298
+        ]
+      },
+      {
+        "location": [
+          14.83687157429324,
+          46.488961163402905
+        ],
+        "pixel": [
+          70,
+          40
+        ]
+      },
+      {
+        "location": [
+          14.847377069759021,
+          46.45370719438054
+        ],
+        "pixel": [
+          74,
+          54
+        ]
+      },
+      {
+        "location": [
+          14.959559071320653,
+          46.33956106691886
+        ],
+        "pixel": [
+          126,
+          95
+        ]
+      },
+      {
+        "location": [
+          14.853000776345612,
+          46.064251387667724
+        ],
+        "pixel": [
+          76,
+          195
+        ]
+      },
+      {
+        "location": [
+          14.910304055595802,
+          45.813575684044395
+        ],
+        "pixel": [
+          101,
+          286
+        ]
+      },
+      {
+        "location": [
+          15.762229220527896,
+          46.21475966041453
+        ],
+        "pixel": [
+          500,
+          141
+        ]
+      },
+      {
+        "location": [
+          15.728583844884596,
+          45.94436210619341
+        ],
+        "pixel": [
+          484,
+          239
+        ]
+      },
+      {
+        "location": [
+          15.009057450971374,
+          45.548350576031396
+        ],
+        "pixel": [
+          148,
+          382
         ]
       }
     ]

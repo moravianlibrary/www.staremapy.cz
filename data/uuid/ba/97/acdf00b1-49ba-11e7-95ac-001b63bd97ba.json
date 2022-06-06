@@ -9,7 +9,7 @@
   "external_id": "uuid:acdf00b1-49ba-11e7-95ac-001b63bd97ba",
   "title": "Polhora",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:f1d52219-e091-42a1-8e67-07318e429352?page=uuid:acdf00b1-49ba-11e7-95ac-001b63bd97ba",
@@ -24,31 +24,43 @@
   "georefereces": {
     "cutline": [
       [
-        532,
+        533,
+        40
+      ],
+      [
+        533,
+        386
+      ],
+      [
+        302,
+        386
+      ],
+      [
+        69,
+        387
+      ],
+      [
+        70,
         41
       ],
       [
-        532,
-        385
-      ],
-      [
-        73,
-        384
-      ],
-      [
-        72,
-        43
-      ],
-      [
-        532,
+        167,
         41
+      ],
+      [
+        302,
+        40
+      ],
+      [
+        533,
+        40
       ]
     ],
     "created": "2020-07-07T12:57:49.999473+00:00",
     "transformation_method": "affine",
     "mapID": "a4c710fa-5e3f-44ee-88d6-55988f34e3de",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:57:49.999473+00:00",
+    "changed": "2022-06-05T11:02:53.129617+00:00",
     "gcps": [
       {
         "location": [

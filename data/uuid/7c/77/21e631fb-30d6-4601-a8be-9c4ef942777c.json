@@ -9,7 +9,7 @@
   "external_id": "21e631fb-30d6-4601-a8be-9c4ef942777c",
   "title": "Wanderkarte mit Waldaufdruck und Wegmarkierungen",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,55 @@
   "georefereces": {
     "cutline": [
       [
-        13235,
-        1004
+        13239,
+        998
       ],
       [
-        13219,
-        9727
+        13244,
+        5600
+      ],
+      [
+        13228,
+        9729
+      ],
+      [
+        6954,
+        9661
+      ],
+      [
+        1386,
+        9601
       ],
       [
         918,
         9595
       ],
       [
-        1012,
-        875
+        947,
+        6618
       ],
       [
-        13235,
-        1004
+        999,
+        2486
+      ],
+      [
+        1014,
+        876
+      ],
+      [
+        7726,
+        942
+      ],
+      [
+        13239,
+        998
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "22442213-3446-5fac-a83d-0702dda47429",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-06-03T09:56:15.260135+00:00",
     "gcps": [
       {
         "location": [
@@ -108,6 +132,16 @@
         "pixel": [
           11658,
           5214
+        ]
+      },
+      {
+        "location": [
+          10.641986954796762,
+          47.4420601372197
+        ],
+        "pixel": [
+          8564,
+          2937
         ]
       },
       {

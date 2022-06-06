@@ -9,7 +9,7 @@
   "external_id": "8d822651-084f-4a99-8912-e526531622c0",
   "title": "Prerau (Přerov)",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "01cacbac-9af8-5955-bb57-c97429f1196a",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-06-03T07:33:41.770712+00:00",
     "gcps": [
       {
         "location": [
@@ -138,6 +138,16 @@
         "pixel": [
           8440,
           8023
+        ]
+      },
+      {
+        "location": [
+          17.449293595681095,
+          49.453773013596674
+        ],
+        "pixel": [
+          7531,
+          6555
         ]
       },
       {

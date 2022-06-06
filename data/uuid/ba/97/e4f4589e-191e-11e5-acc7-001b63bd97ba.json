@@ -9,7 +9,7 @@
   "external_id": "uuid:e4f4589e-191e-11e5-acc7-001b63bd97ba",
   "title": "Řivnáč's Reisehandbuch für das Königreich Böhmen",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5d05f-00c9-11e5-b939-0800200c9a66?page=uuid:e4f4589e-191e-11e5-acc7-001b63bd97ba",
@@ -24,59 +24,79 @@
   "georefereces": {
     "cutline": [
       [
-        469,
-        132
+        471,
+        130
+      ],
+      [
+        562,
+        131
       ],
       [
         560,
-        133
+        306
       ],
       [
-        557,
+        558,
+        412
+      ],
+      [
+        383,
         410
       ],
       [
-        253,
-        405
+        251,
+        407
       ],
       [
         201,
-        405
-      ],
-      [
-        182,
         406
       ],
       [
-        104,
+        183,
+        408
+      ],
+      [
+        102,
         403
       ],
       [
-        17,
-        402
+        16,
+        403
       ],
       [
-        25,
-        30
+        20,
+        264
       ],
       [
-        213,
+        21,
+        181
+      ],
+      [
+        24,
+        29
+      ],
+      [
+        215,
+        33
+      ],
+      [
+        367,
         36
       ],
       [
-        470,
-        39
+        472,
+        38
       ],
       [
-        469,
-        132
+        471,
+        130
       ]
     ],
     "created": "2020-07-07T12:52:42.223239+00:00",
     "transformation_method": "affine",
     "mapID": "d36f99d6-402d-4f36-b059-530d47be0c7b",
     "affine_transformation": null,
-    "changed": "2021-08-29T19:56:32.689040+00:00",
+    "changed": "2022-06-03T11:32:06.236089+00:00",
     "gcps": [
       {
         "location": [

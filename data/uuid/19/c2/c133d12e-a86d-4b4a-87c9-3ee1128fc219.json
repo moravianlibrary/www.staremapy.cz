@@ -9,7 +9,7 @@
   "external_id": "c133d12e-a86d-4b4a-87c9-3ee1128fc219",
   "title": "Bistritz",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,51 @@
   "georefereces": {
     "cutline": [
       [
-        13431,
-        1123
+        13448,
+        1100
       ],
       [
-        13450,
-        9765
+        13479,
+        6537
       ],
       [
-        1672,
-        9695
+        13487,
+        9817
       ],
       [
-        1658,
-        1068
+        7557,
+        9782
       ],
       [
-        13431,
-        1123
+        1604,
+        9758
+      ],
+      [
+        1608,
+        6072
+      ],
+      [
+        1621,
+        1710
+      ],
+      [
+        1628,
+        1047
+      ],
+      [
+        7774,
+        1070
+      ],
+      [
+        13448,
+        1100
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "3769c93c-a848-58f6-8e8d-8dea8d059d9a",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-06-03T09:59:46.572413+00:00",
     "gcps": [
       {
         "location": [
@@ -108,6 +128,16 @@
         "pixel": [
           2165,
           1510
+        ]
+      },
+      {
+        "location": [
+          24.634851763595123,
+          47.17314961894388
+        ],
+        "pixel": [
+          8858,
+          3743
         ]
       },
       {

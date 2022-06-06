@@ -9,7 +9,7 @@
   "external_id": "bbf340ea-3d9b-4ab0-b865-72c42985c19c",
   "title": "Užhorod",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,47 @@
   "georefereces": {
     "cutline": [
       [
-        13272,
-        1046
+        13264,
+        1059
       ],
       [
-        13389,
-        9879
+        13291,
+        6030
       ],
       [
-        1720,
-        9849
+        13298,
+        9804
       ],
       [
-        1720,
-        988
+        7851,
+        9752
       ],
       [
-        13272,
-        1046
+        1759,
+        9731
+      ],
+      [
+        1770,
+        5823
+      ],
+      [
+        1797,
+        1001
+      ],
+      [
+        7740,
+        1034
+      ],
+      [
+        13264,
+        1059
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "7a1054c9-2447-54ac-a6b7-534c8f762681",
     "affine_transformation": null,
-    "changed": "2022-03-06T16:37:33.690086+00:00",
+    "changed": "2022-06-03T06:32:14.297627+00:00",
     "gcps": [
       {
         "location": [
@@ -138,6 +154,16 @@
         "pixel": [
           7227,
           5722
+        ]
+      },
+      {
+        "location": [
+          22.02855421449744,
+          48.69855790585754
+        ],
+        "pixel": [
+          6351,
+          2778
         ]
       },
       {

@@ -9,7 +9,7 @@
   "external_id": "e85db795-6c65-494e-bf9c-9ee6f33c3fcc",
   "title": "Baja",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -28,16 +28,28 @@
         1112
       ],
       [
-        13659,
-        9824
+        13660,
+        9817
+      ],
+      [
+        9322,
+        9795
       ],
       [
         1555,
         9760
       ],
       [
+        1556,
+        6766
+      ],
+      [
         1564,
         1064
+      ],
+      [
+        7490,
+        1080
       ],
       [
         13626,
@@ -48,7 +60,7 @@
     "transformation_method": "affine",
     "mapID": "0c659bf0-84eb-586d-abb0-1e54f9c477c8",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-06-03T06:09:40.090048+00:00",
     "gcps": [
       {
         "location": [
@@ -128,6 +140,16 @@
         "pixel": [
           9483,
           5445
+        ]
+      },
+      {
+        "location": [
+          18.878061111351286,
+          46.142230889474035
+        ],
+        "pixel": [
+          2647,
+          4810
         ]
       },
       {

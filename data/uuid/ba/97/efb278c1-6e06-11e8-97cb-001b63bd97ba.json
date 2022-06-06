@@ -9,7 +9,7 @@
   "external_id": "uuid:efb278c1-6e06-11e8-97cb-001b63bd97ba",
   "title": "Atlas pozdně barokních map a plánů Německa",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:ebefc666-6c7d-492f-bd27-91ee91d491e4?page=uuid:efb278c1-6e06-11e8-97cb-001b63bd97ba",
@@ -24,8 +24,8 @@
   "georefereces": {
     "cutline": [
       [
-        564,
-        175
+        568,
+        181
       ],
       [
         497,
@@ -124,12 +124,12 @@
         388
       ],
       [
-        31,
-        386
+        28,
+        390
       ],
       [
-        32,
-        60
+        29,
+        59
       ],
       [
         117,
@@ -204,19 +204,19 @@
         87
       ],
       [
-        558,
-        67
+        566,
+        63
       ],
       [
-        564,
-        175
+        568,
+        181
       ]
     ],
     "created": "2020-07-07T13:01:02.962889+00:00",
     "transformation_method": "affine",
     "mapID": "451a1db4-a914-49f1-884a-1588e97af79a",
     "affine_transformation": null,
-    "changed": "2020-07-07T13:01:02.962889+00:00",
+    "changed": "2022-06-05T14:14:08.784951+00:00",
     "gcps": [
       {
         "location": [
@@ -270,16 +270,6 @@
       },
       {
         "location": [
-          6.170674796567083,
-          51.37139509574601
-        ],
-        "pixel": [
-          148,
-          327
-        ]
-      },
-      {
-        "location": [
           6.771678210030306,
           51.225061373727755
         ],
@@ -306,6 +296,26 @@
         "pixel": [
           106,
           71
+        ]
+      },
+      {
+        "location": [
+          6.335953834207306,
+          51.40646006509263
+        ],
+        "pixel": [
+          221,
+          312
+        ]
+      },
+      {
+        "location": [
+          6.6173978488702705,
+          51.83817221493027
+        ],
+        "pixel": [
+          343,
+          134
         ]
       }
     ]

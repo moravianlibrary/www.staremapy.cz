@@ -9,7 +9,7 @@
   "external_id": "uuid:bd0f8c91-82e1-11e0-bc9f-0050569d679d",
   "title": "Atlas minor Sive totius orbis terrarum contracta delinea[ta] ex conatibus, mapa ze strany: [25]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:a69b1ae8-82e1-11e0-bc9f-0050569d679d?page=uuid:bd0f8c91-82e1-11e0-bc9f-0050569d679d",
@@ -24,8 +24,8 @@
   "georefereces": {
     "cutline": [
       [
-        9303,
-        846
+        9310,
+        831
       ],
       [
         9337,
@@ -108,12 +108,12 @@
         7677
       ],
       [
-        6283,
-        7810
+        6342,
+        7826
       ],
       [
-        787,
-        7804
+        760,
+        7819
       ],
       [
         782,
@@ -126,6 +126,10 @@
       [
         1574,
         2369
+      ],
+      [
+        1873,
+        2317
       ],
       [
         2014,
@@ -152,19 +156,23 @@
         1516
       ],
       [
-        2526,
-        857
+        2484,
+        814
       ],
       [
-        9303,
-        846
+        7282,
+        824
+      ],
+      [
+        9310,
+        831
       ]
     ],
     "created": "2020-07-07T07:30:17.652600+00:00",
     "transformation_method": "affine",
     "mapID": "ea4a64b9-0604-4536-8527-a029f859decb",
     "affine_transformation": null,
-    "changed": "2020-07-07T07:30:17.652600+00:00",
+    "changed": "2022-06-02T05:04:02.544896+00:00",
     "gcps": [
       {
         "location": [
@@ -254,6 +262,16 @@
         "pixel": [
           5788,
           6825
+        ]
+      },
+      {
+        "location": [
+          5.29888852008431,
+          51.6883122354254
+        ],
+        "pixel": [
+          4096,
+          1992
         ]
       }
     ]

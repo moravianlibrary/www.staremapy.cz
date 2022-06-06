@@ -9,7 +9,7 @@
   "external_id": "193d3555-3428-477c-8ea0-dd861fbb1144",
   "title": "Prehľadná hydrografická mapa povodia Dunaja a Visly na Slovensku",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,12 +24,16 @@
   "georefereces": {
     "cutline": [
       [
-        15924,
-        1325
+        15925,
+        1320
       ],
       [
-        15879,
-        7425
+        15907,
+        4200
+      ],
+      [
+        15889,
+        7430
       ],
       [
         12586,
@@ -40,31 +44,43 @@
         9486
       ],
       [
+        5838,
+        9489
+      ],
+      [
         1067,
-        9486
+        9496
       ],
       [
-        1099,
-        3961
+        1081,
+        6279
       ],
       [
-        2871,
-        3969
+        1098,
+        3949
+      ],
+      [
+        2848,
+        3940
       ],
       [
         2855,
         1344
       ],
       [
-        15924,
-        1325
+        8973,
+        1326
+      ],
+      [
+        15925,
+        1320
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "15684180-e8dd-5ba3-9ca0-126165fbfd99",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-06-03T06:56:20.939199+00:00",
     "gcps": [
       {
         "location": [
@@ -264,6 +280,16 @@
         "pixel": [
           4498,
           8083
+        ]
+      },
+      {
+        "location": [
+          22.075244969636532,
+          48.55376430513675
+        ],
+        "pixel": [
+          13523,
+          5626
         ]
       }
     ]

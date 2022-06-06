@@ -9,7 +9,7 @@
   "external_id": "4db896f0-6748-4f9a-a1e0-d24a98c37674",
   "title": "Košice",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -28,16 +28,40 @@
         755
       ],
       [
+        9489,
+        5613
+      ],
+      [
+        9510,
+        11017
+      ],
+      [
         9508,
         13998
       ],
       [
-        814,
-        14004
+        3908,
+        14012
+      ],
+      [
+        811,
+        14008
+      ],
+      [
+        855,
+        9298
+      ],
+      [
+        913,
+        2376
       ],
       [
         937,
         789
+      ],
+      [
+        5423,
+        770
       ],
       [
         9453,
@@ -48,7 +72,7 @@
     "transformation_method": "affine",
     "mapID": "aef8ec0c-af81-51f1-86fc-38c62fbe9ea0",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-06-03T07:32:59.211555+00:00",
     "gcps": [
       {
         "location": [
@@ -58,6 +82,16 @@
         "pixel": [
           1224,
           3703
+        ]
+      },
+      {
+        "location": [
+          21.274201120047746,
+          49.29134813415155
+        ],
+        "pixel": [
+          4711,
+          3500
         ]
       },
       {

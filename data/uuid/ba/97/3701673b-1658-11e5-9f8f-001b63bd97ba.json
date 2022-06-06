@@ -9,7 +9,7 @@
   "external_id": "uuid:3701673b-1658-11e5-9f8f-001b63bd97ba",
   "title": "Kamenice n. Lipou",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf55af3-00c9-11e5-b939-0800200c9a66?page=uuid:3701673b-1658-11e5-9f8f-001b63bd97ba",
@@ -76,7 +76,7 @@
     "transformation_method": "affine",
     "mapID": "6266f432-87de-4536-ba3a-a86abb6427f2",
     "affine_transformation": null,
-    "changed": "2022-02-23T11:06:11.705363+00:00",
+    "changed": "2022-06-03T04:12:24.404809+00:00",
     "gcps": [
       {
         "location": [
@@ -176,6 +176,16 @@
         "pixel": [
           488,
           226
+        ]
+      },
+      {
+        "location": [
+          15.269587818601796,
+          49.357796146673365
+        ],
+        "pixel": [
+          483,
+          239
         ]
       }
     ]

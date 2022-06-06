@@ -9,7 +9,7 @@
   "external_id": "20b33668-52a1-4283-9c29-814a18045a7f",
   "title": "Nagy Szalonta",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,47 @@
   "georefereces": {
     "cutline": [
       [
-        13418,
-        1211
+        13434,
+        1194
       ],
       [
-        13492,
-        9822
+        13476,
+        4626
       ],
       [
-        1774,
-        9800
+        13521,
+        9855
       ],
       [
-        1737,
-        1141
+        8079,
+        9840
       ],
       [
-        13418,
-        1211
+        1744,
+        9832
+      ],
+      [
+        1732,
+        5082
+      ],
+      [
+        1734,
+        1168
+      ],
+      [
+        6701,
+        1179
+      ],
+      [
+        13434,
+        1194
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "8330630a-6a7b-5414-ba55-08b6b4198c79",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-06-03T06:31:11.193042+00:00",
     "gcps": [
       {
         "location": [
@@ -168,6 +184,16 @@
         "pixel": [
           2103,
           4630
+        ]
+      },
+      {
+        "location": [
+          21.743273355485822,
+          46.89617828781431
+        ],
+        "pixel": [
+          11393,
+          4750
         ]
       }
     ]
