@@ -9,7 +9,7 @@
   "external_id": "0079b3a0-ea71-11e8-9984-005056825209",
   "title": "Jitschin",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -56,7 +56,7 @@
     "transformation_method": "affine",
     "mapID": "36288c4b-0c3f-5742-a995-2c28ce805de3",
     "affine_transformation": null,
-    "changed": "2021-02-12T12:17:14.190639+00:00",
+    "changed": "2022-06-08T10:56:56.248657+00:00",
     "gcps": [
       {
         "location": [
@@ -116,6 +116,16 @@
         "pixel": [
           1699,
           6434
+        ]
+      },
+      {
+        "location": [
+          15.484913739954644,
+          50.40271707756045
+        ],
+        "pixel": [
+          6176,
+          6563
         ]
       },
       {

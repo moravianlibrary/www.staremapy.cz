@@ -9,7 +9,7 @@
   "external_id": "0b23afba-6782-4742-bc6f-968d85b6de19",
   "title": "Török-Kanizsa",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,47 @@
   "georefereces": {
     "cutline": [
       [
-        13629,
-        1091
+        13630,
+        1064
       ],
       [
-        13777,
-        9788
+        13675,
+        6223
       ],
       [
-        1618,
-        9758
+        13708,
+        9769
       ],
       [
-        1530,
-        1031
+        7623,
+        9766
       ],
       [
-        13629,
-        1091
+        1592,
+        9772
+      ],
+      [
+        1569,
+        6170
+      ],
+      [
+        1548,
+        1082
+      ],
+      [
+        7643,
+        1060
+      ],
+      [
+        13630,
+        1064
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "0da4a3ad-f0d0-5b29-a50f-930e69a10c2a",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-06-08T13:08:49.037051+00:00",
     "gcps": [
       {
         "location": [
@@ -88,6 +104,16 @@
         "pixel": [
           4983,
           6896
+        ]
+      },
+      {
+        "location": [
+          20.092825362536768,
+          46.126262457161516
+        ],
+        "pixel": [
+          7885,
+          5327
         ]
       },
       {

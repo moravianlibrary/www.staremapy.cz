@@ -9,7 +9,7 @@
   "external_id": "uuid:ea1440f9-1662-11e5-9efe-001b63bd97ba",
   "title": "Jindřichův Hradec",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf55afb-00c9-11e5-b939-0800200c9a66?page=uuid:ea1440f9-1662-11e5-9efe-001b63bd97ba",
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "90108f2f-2134-468e-a881-9186939e0b50",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:51:44.557801+00:00",
+    "changed": "2022-06-09T13:08:59.234111+00:00",
     "gcps": [
       {
         "location": [
@@ -108,6 +108,36 @@
         "pixel": [
           405,
           224
+        ]
+      },
+      {
+        "location": [
+          15.073085170007925,
+          49.060030762683084
+        ],
+        "pixel": [
+          288,
+          308
+        ]
+      },
+      {
+        "location": [
+          15.126936555075705,
+          49.228829920868975
+        ],
+        "pixel": [
+          343,
+          68
+        ]
+      },
+      {
+        "location": [
+          14.909305597814424,
+          49.12811916806365
+        ],
+        "pixel": [
+          127,
+          210
         ]
       }
     ]

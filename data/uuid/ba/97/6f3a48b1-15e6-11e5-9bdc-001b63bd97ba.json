@@ -9,7 +9,7 @@
   "external_id": "uuid:6f3a48b1-15e6-11e5-9bdc-001b63bd97ba",
   "title": "Topographische Karte der in Böhmen budweiser Kreises liegenden Sr. Durchlaucht dem Fürsten zu Schwarzenberg Herzog zu Krummau gehörigen Herrschaft Krummau mit Bestimmung des äussern Gränzen und Ausscheidung des im Umfange der Herrschaft befindlichen obrigkeitlichen Grundeigentums",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf50cf8-00c9-11e5-b939-0800200c9a66?page=uuid:6f3a48b1-15e6-11e5-9bdc-001b63bd97ba",
@@ -24,12 +24,12 @@
   "georefereces": {
     "cutline": [
       [
-        509,
-        59
+        510,
+        58
       ],
       [
-        510,
-        315
+        512,
+        316
       ],
       [
         446,
@@ -60,23 +60,35 @@
         393
       ],
       [
-        67,
-        395
+        75,
+        396
       ],
       [
         66,
-        64
+        405
       ],
       [
-        509,
-        59
+        66,
+        396
+      ],
+      [
+        65,
+        264
+      ],
+      [
+        64,
+        61
+      ],
+      [
+        510,
+        58
       ]
     ],
     "created": "2020-07-07T12:51:36.985641+00:00",
     "transformation_method": "affine",
     "mapID": "76b47806-8eeb-4e17-ba94-da3a2c6a76e5",
     "affine_transformation": null,
-    "changed": "2022-03-08T18:09:05.578171+00:00",
+    "changed": "2022-06-09T11:36:47.749469+00:00",
     "gcps": [
       {
         "location": [

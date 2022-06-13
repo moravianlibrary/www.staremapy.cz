@@ -9,7 +9,7 @@
   "external_id": "uuid:a987a49d-178b-11e5-8100-001b63bd97ba",
   "title": "Ravensteins Bürokarte - Protektorat Böhmen u. Mähren und Reichsgau Sudetenland",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5f75f-00c9-11e5-b939-0800200c9a66?page=uuid:a987a49d-178b-11e5-8100-001b63bd97ba",
@@ -108,7 +108,7 @@
     "transformation_method": "affine",
     "mapID": "c8e1455d-b596-44eb-917b-75cf1604322d",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:49:53.961030+00:00",
+    "changed": "2022-06-09T13:06:57.311077+00:00",
     "gcps": [
       {
         "location": [
@@ -272,16 +272,6 @@
       },
       {
         "location": [
-          17.587345051661842,
-          48.37538587774549
-        ],
-        "pixel": [
-          386,
-          337
-        ]
-      },
-      {
-        "location": [
           17.314394927292163,
           48.90081325705634
         ],
@@ -408,6 +398,16 @@
         "pixel": [
           39,
           410
+        ]
+      },
+      {
+        "location": [
+          17.571208882228248,
+          48.38450711048401
+        ],
+        "pixel": [
+          384,
+          336
         ]
       }
     ]

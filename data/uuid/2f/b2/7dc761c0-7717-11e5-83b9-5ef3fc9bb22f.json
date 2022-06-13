@@ -9,7 +9,7 @@
   "external_id": "uuid:7dc761c0-7717-11e5-83b9-5ef3fc9bb22f",
   "title": "Katalog map a publikací [Vojenského zeměpisného ústavu v Praze: květen 1936], mapa ze strany: [V]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:518291b0-55f8-11e5-bf4b-005056827e51?page=uuid:7dc761c0-7717-11e5-83b9-5ef3fc9bb22f",
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        1520,
-        440
+        1517,
+        437
       ],
       [
         1517,
         1189
       ],
       [
-        296,
-        1189
+        293,
+        1186
       ],
       [
         292,
         435
       ],
       [
-        1520,
-        440
+        1517,
+        437
       ]
     ],
     "created": "2020-07-07T07:19:29.684337+00:00",
     "transformation_method": "affine",
     "mapID": "66756dbc-0476-401a-9b13-33cc0a467aa1",
     "affine_transformation": null,
-    "changed": "2020-07-07T07:19:29.684337+00:00",
+    "changed": "2022-06-06T16:00:11.813916+00:00",
     "gcps": [
       {
         "location": [
@@ -98,16 +98,6 @@
         "pixel": [
           629,
           1032
-        ]
-      },
-      {
-        "location": [
-          15.833669559926255,
-          50.208322997148315
-        ],
-        "pixel": [
-          1053,
-          918
         ]
       },
       {

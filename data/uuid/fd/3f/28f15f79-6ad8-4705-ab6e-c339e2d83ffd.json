@@ -9,7 +9,7 @@
   "external_id": "28f15f79-6ad8-4705-ab6e-c339e2d83ffd",
   "title": "Sáros-Nagypatak und Sátoralja-Ujhely",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,47 @@
   "georefereces": {
     "cutline": [
       [
-        13437,
-        1183
+        13463,
+        1156
       ],
       [
-        13437,
-        9805
+        13473,
+        5168
       ],
       [
-        1890,
-        9725
+        13481,
+        9849
       ],
       [
-        1945,
+        7296,
+        9796
+      ],
+      [
+        1846,
+        9762
+      ],
+      [
+        1856,
+        6075
+      ],
+      [
+        1885,
+        1079
+      ],
+      [
+        8195,
         1124
       ],
       [
-        13437,
-        1183
+        13463,
+        1156
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "d8f14e5b-92cf-5541-9b9a-89454e5b0055",
     "affine_transformation": null,
-    "changed": "2021-02-23T15:14:53.206047+00:00",
+    "changed": "2022-06-09T09:36:52.420611+00:00",
     "gcps": [
       {
         "location": [
@@ -178,6 +194,16 @@
         "pixel": [
           7795,
           5628
+        ]
+      },
+      {
+        "location": [
+          21.44646635850447,
+          48.2861614111296
+        ],
+        "pixel": [
+          4542,
+          8522
         ]
       }
     ]

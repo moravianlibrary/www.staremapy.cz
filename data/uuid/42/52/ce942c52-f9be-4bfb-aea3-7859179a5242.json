@@ -9,7 +9,7 @@
   "external_id": "ce942c52-f9be-4bfb-aea3-7859179a5242",
   "title": "[Česká Lípa]",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,47 @@
   "georefereces": {
     "cutline": [
       [
-        19641,
-        1669
+        19588,
+        1873
       ],
       [
-        19733,
-        15192
+        19621,
+        10062
       ],
       [
-        3174,
-        15238
+        19628,
+        15096
       ],
       [
-        3220,
-        1669
+        10782,
+        15104
       ],
       [
-        19641,
-        1669
+        3081,
+        15108
+      ],
+      [
+        3112,
+        9024
+      ],
+      [
+        3140,
+        1868
+      ],
+      [
+        11369,
+        1873
+      ],
+      [
+        19588,
+        1873
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "2b517ba0-c5ec-593d-a3e8-d49ad5e3496e",
     "affine_transformation": null,
-    "changed": "2022-03-17T14:44:44.538719+00:00",
+    "changed": "2022-06-08T11:10:57.238051+00:00",
     "gcps": [
       {
         "location": [
@@ -138,6 +154,16 @@
         "pixel": [
           5016,
           7653
+        ]
+      },
+      {
+        "location": [
+          14.663615056897633,
+          50.71882893801933
+        ],
+        "pixel": [
+          8358,
+          5101
         ]
       },
       {

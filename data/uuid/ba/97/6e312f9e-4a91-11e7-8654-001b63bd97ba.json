@@ -9,7 +9,7 @@
   "external_id": "uuid:6e312f9e-4a91-11e7-8654-001b63bd97ba",
   "title": "Topoľčany",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:ad0a10ca-55aa-4a44-9681-8761c2f4d28a?page=uuid:6e312f9e-4a91-11e7-8654-001b63bd97ba",
@@ -52,7 +52,7 @@
     "transformation_method": "affine",
     "mapID": "edb8f049-ba69-4b5f-9c78-f208f06044b8",
     "affine_transformation": null,
-    "changed": "2022-03-09T06:51:14.015001+00:00",
+    "changed": "2022-06-09T12:07:18.681206+00:00",
     "gcps": [
       {
         "location": [
@@ -102,6 +102,76 @@
         "pixel": [
           531,
           70
+        ]
+      },
+      {
+        "location": [
+          18.013702204955987,
+          48.53830711662533
+        ],
+        "pixel": [
+          242,
+          330
+        ]
+      },
+      {
+        "location": [
+          18.014818003906182,
+          48.54155343446595
+        ],
+        "pixel": [
+          241,
+          330
+        ]
+      },
+      {
+        "location": [
+          18.272612378086578,
+          48.610547378326686
+        ],
+        "pixel": [
+          482,
+          234
+        ]
+      },
+      {
+        "location": [
+          18.139123242427267,
+          48.69778390940684
+        ],
+        "pixel": [
+          360,
+          114
+        ]
+      },
+      {
+        "location": [
+          17.900177216290707,
+          48.640461156677816
+        ],
+        "pixel": [
+          136,
+          193
+        ]
+      },
+      {
+        "location": [
+          18.016573783303695,
+          48.62299925174224
+        ],
+        "pixel": [
+          244,
+          217
+        ]
+      },
+      {
+        "location": [
+          18.013049090409318,
+          48.71206224665775
+        ],
+        "pixel": [
+          242,
+          94
         ]
       }
     ]

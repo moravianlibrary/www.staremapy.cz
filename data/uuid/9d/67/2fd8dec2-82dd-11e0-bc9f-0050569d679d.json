@@ -9,7 +9,7 @@
   "external_id": "uuid:2fd8dec2-82dd-11e0-bc9f-0050569d679d",
   "title": "Grosser Erdbeschreibung. Blatt N. 698-802., mapa ze strany: [99]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:db53e7df-82dc-11e0-bc9f-0050569d679d?page=uuid:2fd8dec2-82dd-11e0-bc9f-0050569d679d",
@@ -216,7 +216,7 @@
     "transformation_method": "affine",
     "mapID": "f39a9977-c5e2-42be-857e-75e9f7dea851",
     "affine_transformation": null,
-    "changed": "2020-07-07T07:23:34.715700+00:00",
+    "changed": "2022-06-09T13:29:45.002112+00:00",
     "gcps": [
       {
         "location": [
@@ -296,6 +296,16 @@
         "pixel": [
           3263,
           2390
+        ]
+      },
+      {
+        "location": [
+          -2.836501582486362,
+          47.887814177226375
+        ],
+        "pixel": [
+          3137,
+          1664
         ]
       }
     ]

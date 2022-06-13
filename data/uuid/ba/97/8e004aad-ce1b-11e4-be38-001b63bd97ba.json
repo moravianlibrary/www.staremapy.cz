@@ -9,7 +9,7 @@
   "external_id": "uuid:8e004aad-ce1b-11e4-be38-001b63bd97ba",
   "title": "Prachiner Kreis",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b27414-c66b-11e4-8731-1681e6b88ec1?page=uuid:8e004aad-ce1b-11e4-be38-001b63bd97ba",
@@ -24,31 +24,51 @@
   "georefereces": {
     "cutline": [
       [
-        600,
-        0
+        430,
+        1
       ],
       [
-        600,
-        443
+        577,
+        71
       ],
       [
-        0,
-        443
+        597,
+        273
       ],
       [
-        0,
-        0
+        593,
+        375
       ],
       [
-        600,
-        0
+        299,
+        442
+      ],
+      [
+        188,
+        441
+      ],
+      [
+        8,
+        332
+      ],
+      [
+        5,
+        179
+      ],
+      [
+        256,
+        2
+      ],
+      [
+        430,
+        1
       ]
     ],
     "created": "2020-07-07T12:43:50.653909+00:00",
     "transformation_method": "affine",
     "mapID": "6ea8d077-e8df-4918-9f4e-ca4906928c8c",
     "affine_transformation": null,
-    "changed": "2022-03-26T14:58:39.166056+00:00",
+    "changed": "2022-06-12T14:02:26.272358+00:00",
     "gcps": [
       {
         "location": [
@@ -108,6 +128,36 @@
         "pixel": [
           327,
           210
+        ]
+      },
+      {
+        "location": [
+          14.07040481479077,
+          49.465907944940454
+        ],
+        "pixel": [
+          419,
+          103
+        ]
+      },
+      {
+        "location": [
+          13.395011554488958,
+          49.23774421920393
+        ],
+        "pixel": [
+          64,
+          217
+        ]
+      },
+      {
+        "location": [
+          13.868471094820098,
+          49.60241218396274
+        ],
+        "pixel": [
+          317,
+          39
         ]
       }
     ]

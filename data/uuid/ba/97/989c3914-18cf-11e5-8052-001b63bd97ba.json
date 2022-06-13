@@ -9,7 +9,7 @@
   "external_id": "uuid:989c3914-18cf-11e5-8052-001b63bd97ba",
   "title": "Politický okres Česko Budějovický",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf50cd0-00c9-11e5-b939-0800200c9a66?page=uuid:989c3914-18cf-11e5-8052-001b63bd97ba",
@@ -24,16 +24,24 @@
   "georefereces": {
     "cutline": [
       [
-        531,
-        32
+        533,
+        30
       ],
       [
-        532,
-        281
+        534,
+        285
       ],
       [
-        583,
-        293
+        565,
+        287
+      ],
+      [
+        560,
+        294
+      ],
+      [
+        574,
+        307
       ],
       [
         564,
@@ -44,20 +52,40 @@
         350
       ],
       [
+        543,
+        348
+      ],
+      [
         534,
         349
       ],
       [
-        532,
+        534,
+        402
+      ],
+      [
+        465,
+        401
+      ],
+      [
+        266,
         400
       ],
       [
-        63,
-        397
+        170,
+        399
       ],
       [
         61,
-        238
+        399
+      ],
+      [
+        61,
+        234
+      ],
+      [
+        54,
+        232
       ],
       [
         39,
@@ -76,19 +104,23 @@
         172
       ],
       [
-        62,
-        31
+        60,
+        30
       ],
       [
-        531,
-        32
+        326,
+        30
+      ],
+      [
+        533,
+        30
       ]
     ],
     "created": "2020-07-07T12:52:22.099053+00:00",
     "transformation_method": "affine",
     "mapID": "d5ea4831-87c3-4e7b-a193-1fc9d4d36ade",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:52:22.099053+00:00",
+    "changed": "2022-06-09T11:46:18.606126+00:00",
     "gcps": [
       {
         "location": [

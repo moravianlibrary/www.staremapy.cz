@@ -9,7 +9,7 @@
   "external_id": "263b20af-1687-46b2-97e3-ae3b68e87520",
   "title": "Kijew, Żytomir, Owrucz, Czernobyl, Mozyr, Łojew",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,55 @@
   "georefereces": {
     "cutline": [
       [
-        10458,
-        1242
+        10475,
+        1204
       ],
       [
-        10543,
-        8891
+        10513,
+        4511
       ],
       [
-        1451,
-        8939
+        10550,
+        7683
       ],
       [
-        1400,
-        1300
+        10564,
+        8928
       ],
       [
-        10458,
-        1242
+        5990,
+        8943
+      ],
+      [
+        1428,
+        8974
+      ],
+      [
+        1387,
+        6054
+      ],
+      [
+        1345,
+        2648
+      ],
+      [
+        1335,
+        1257
+      ],
+      [
+        6146,
+        1223
+      ],
+      [
+        10475,
+        1204
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "fa93ee1b-d852-5079-b60f-a2acadbb1635",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-06-06T12:39:32.090291+00:00",
     "gcps": [
       {
         "location": [
@@ -138,6 +162,16 @@
         "pixel": [
           5949,
           1831
+        ]
+      },
+      {
+        "location": [
+          31.11626146663006,
+          50.91278624902034
+        ],
+        "pixel": [
+          9098,
+          4835
         ]
       },
       {

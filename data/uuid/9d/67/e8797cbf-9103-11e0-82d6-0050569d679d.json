@@ -9,7 +9,7 @@
   "external_id": "uuid:e8797cbf-9103-11e0-82d6-0050569d679d",
   "title": "Atlas portatilis, oder Compendieuse Vorstellung Der gantzen Welt, in einer kleinen Cosmographie, Der grünenden Jugend zum Besten in XXX. saubern Land-Charten, mit Einer kurtzen Erläterung Zum andernmal heraus gegeben [von Johann Christoph Weigel], mapa ze strany: mapa_10",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:6cad222b-9103-11e0-82d6-0050569d679d?page=uuid:e8797cbf-9103-11e0-82d6-0050569d679d",
@@ -24,31 +24,39 @@
   "georefereces": {
     "cutline": [
       [
-        3569,
-        498
+        3543,
+        521
       ],
       [
-        3578,
-        3031
+        3559,
+        3018
       ],
       [
-        436,
-        3009
+        461,
+        2994
       ],
       [
-        423,
-        481
+        813,
+        1326
       ],
       [
-        3569,
-        498
+        1293,
+        1311
+      ],
+      [
+        1305,
+        518
+      ],
+      [
+        3543,
+        521
       ]
     ],
     "created": "2020-07-07T07:32:29.338365+00:00",
     "transformation_method": "affine",
     "mapID": "8b60194b-6826-4223-b535-d0d86a2d1bb1",
     "affine_transformation": null,
-    "changed": "2020-07-07T07:32:29.338365+00:00",
+    "changed": "2022-06-10T12:01:39.306889+00:00",
     "gcps": [
       {
         "location": [
@@ -148,16 +156,6 @@
         "pixel": [
           2803,
           2817
-        ]
-      },
-      {
-        "location": [
-          7.208448844066658,
-          53.372498715103035
-        ],
-        "pixel": [
-          3347,
-          2308
         ]
       },
       {

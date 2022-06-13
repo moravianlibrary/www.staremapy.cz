@@ -9,7 +9,7 @@
   "external_id": "0d3e7db9-306a-43ce-9e3a-416a1bcfc2f4",
   "title": "Kleneč, Regensburg",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -28,16 +28,32 @@
         1055
       ],
       [
+        9809,
+        6909
+      ],
+      [
         9765,
         14238
+      ],
+      [
+        5289,
+        14214
       ],
       [
         1082,
         14185
       ],
       [
+        1118,
+        12200
+      ],
+      [
         1332,
         998
+      ],
+      [
+        5455,
+        1022
       ],
       [
         9835,
@@ -48,7 +64,7 @@
     "transformation_method": "affine",
     "mapID": "9bc05cfa-da6f-577a-8af5-26521d70c69c",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-06-06T12:46:04.162725+00:00",
     "gcps": [
       {
         "location": [
@@ -82,12 +98,32 @@
       },
       {
         "location": [
+          12.27133643885335,
+          49.19791659230691
+        ],
+        "pixel": [
+          5015,
+          5015
+        ]
+      },
+      {
+        "location": [
           11.857471774116101,
           49.445528246518705
         ],
         "pixel": [
           1537,
           1707
+        ]
+      },
+      {
+        "location": [
+          12.689402957579233,
+          48.68142668492965
+        ],
+        "pixel": [
+          8563,
+          11846
         ]
       },
       {

@@ -9,7 +9,7 @@
   "external_id": "uuid:25ab82ed-19aa-11e5-b052-001b63bd97ba",
   "title": "Národnostní mapa Plzeňska",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5a920-00c9-11e5-b939-0800200c9a66?page=uuid:25ab82ed-19aa-11e5-b052-001b63bd97ba",
@@ -64,7 +64,7 @@
     "transformation_method": "affine",
     "mapID": "b407243d-2e82-4dc2-becd-774f376d9d56",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:53:23.172886+00:00",
+    "changed": "2022-06-09T13:10:32.856749+00:00",
     "gcps": [
       {
         "location": [
@@ -164,6 +164,16 @@
         "pixel": [
           169,
           242
+        ]
+      },
+      {
+        "location": [
+          13.00749265472423,
+          49.667933451949665
+        ],
+        "pixel": [
+          193,
+          313
         ]
       }
     ]

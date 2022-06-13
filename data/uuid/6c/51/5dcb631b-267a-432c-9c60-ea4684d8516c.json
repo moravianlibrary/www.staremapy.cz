@@ -9,7 +9,7 @@
   "external_id": "5dcb631b-267a-432c-9c60-ea4684d8516c",
   "title": "Varnsdorf",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -32,12 +32,24 @@
         9622
       ],
       [
-        1532,
-        9583
+        9003,
+        9595
+      ],
+      [
+        3936,
+        9580
+      ],
+      [
+        1533,
+        9581
       ],
       [
         1528,
         850
+      ],
+      [
+        7132,
+        869
       ],
       [
         12612,
@@ -48,7 +60,7 @@
     "transformation_method": "affine",
     "mapID": "a0fecd80-5a74-5c65-bb28-64cecc387940",
     "affine_transformation": null,
-    "changed": "2021-03-18T08:03:54.132805+00:00",
+    "changed": "2022-06-10T12:52:57.492430+00:00",
     "gcps": [
       {
         "location": [
@@ -58,6 +70,16 @@
         "pixel": [
           5989,
           4099
+        ]
+      },
+      {
+        "location": [
+          14.608666604121863,
+          50.980497270965344
+        ],
+        "pixel": [
+          7691,
+          1567
         ]
       },
       {
@@ -118,6 +140,16 @@
         "pixel": [
           11882,
           1246
+        ]
+      },
+      {
+        "location": [
+          14.59083572869611,
+          50.82951238112372
+        ],
+        "pixel": [
+          7248,
+          6788
         ]
       }
     ]

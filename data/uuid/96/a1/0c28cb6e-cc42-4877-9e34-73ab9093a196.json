@@ -9,7 +9,7 @@
   "external_id": "0c28cb6e-cc42-4877-9e34-73ab9093a196",
   "title": "Miskolc",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,47 @@
   "georefereces": {
     "cutline": [
       [
-        13209,
-        1189
+        13245,
+        1143
       ],
       [
-        13278,
-        9803
+        13261,
+        4359
       ],
       [
-        1691,
-        9764
+        13296,
+        9866
       ],
       [
-        1713,
-        1172
+        7161,
+        9836
       ],
       [
-        13209,
-        1189
+        1623,
+        9820
+      ],
+      [
+        1624,
+        6309
+      ],
+      [
+        1630,
+        1113
+      ],
+      [
+        7534,
+        1124
+      ],
+      [
+        13245,
+        1143
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "41237a54-3696-5054-8ce6-e19bdae3fe56",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-06-06T12:35:59.941062+00:00",
     "gcps": [
       {
         "location": [
@@ -78,6 +94,16 @@
         "pixel": [
           12043,
           3761
+        ]
+      },
+      {
+        "location": [
+          20.641453260547845,
+          48.18967695117021
+        ],
+        "pixel": [
+          8852,
+          3187
         ]
       },
       {

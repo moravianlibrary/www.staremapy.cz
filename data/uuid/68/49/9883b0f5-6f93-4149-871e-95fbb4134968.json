@@ -9,7 +9,7 @@
   "external_id": "9883b0f5-6f93-4149-871e-95fbb4134968",
   "title": "Pardubice a okolí",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,39 @@
   "georefereces": {
     "cutline": [
       [
-        12308,
-        1189
+        12314,
+        1184
+      ],
+      [
+        12357,
+        8674
       ],
       [
         12359,
         9943
       ],
       [
-        1101,
-        9958
+        1097,
+        9960
+      ],
+      [
+        1086,
+        6668
       ],
       [
         1084,
         1171
       ],
       [
-        12308,
-        1189
+        12314,
+        1184
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "1d783b3e-5c19-58fb-b0c2-a3e40d264da4",
     "affine_transformation": null,
-    "changed": "2021-02-12T11:19:18.657865+00:00",
+    "changed": "2022-06-06T12:43:51.070056+00:00",
     "gcps": [
       {
         "location": [
@@ -68,6 +76,26 @@
         "pixel": [
           6429,
           5314
+        ]
+      },
+      {
+        "location": [
+          15.68000701479758,
+          50.07631435920655
+        ],
+        "pixel": [
+          4391,
+          3743
+        ]
+      },
+      {
+        "location": [
+          15.79580252137595,
+          49.95093286967298
+        ],
+        "pixel": [
+          7001,
+          8142
         ]
       },
       {

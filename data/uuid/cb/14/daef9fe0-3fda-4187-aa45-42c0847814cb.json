@@ -9,7 +9,7 @@
   "external_id": "daef9fe0-3fda-4187-aa45-42c0847814cb",
   "title": "Kitzbühel und Zell am See",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -32,12 +32,20 @@
         9985
       ],
       [
+        8235,
+        9939
+      ],
+      [
         1630,
         9875
       ],
       [
         1658,
         1133
+      ],
+      [
+        7449,
+        1177
       ],
       [
         13435,
@@ -48,7 +56,7 @@
     "transformation_method": "affine",
     "mapID": "e8be91e2-4a30-596a-bae9-9e8008766cd0",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-06-08T12:12:38.552757+00:00",
     "gcps": [
       {
         "location": [
@@ -78,6 +86,26 @@
         "pixel": [
           12921,
           2998
+        ]
+      },
+      {
+        "location": [
+          11.873648737794143,
+          47.35021366513587
+        ],
+        "pixel": [
+          2572,
+          6357
+        ]
+      },
+      {
+        "location": [
+          12.170477550993732,
+          47.43795540776844
+        ],
+        "pixel": [
+          9599,
+          3346
         ]
       },
       {

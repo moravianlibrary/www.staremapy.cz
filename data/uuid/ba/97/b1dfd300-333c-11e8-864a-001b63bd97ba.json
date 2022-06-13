@@ -9,7 +9,7 @@
   "external_id": "uuid:b1dfd300-333c-11e8-864a-001b63bd97ba",
   "title": "Atlas pozdně barokních map",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:c9573325-1037-44d0-b4f1-7fb07daa4e1d?page=uuid:b1dfd300-333c-11e8-864a-001b63bd97ba",
@@ -24,20 +24,20 @@
   "georefereces": {
     "cutline": [
       [
-        579,
-        16
+        589,
+        15
       ],
       [
-        584,
-        418
+        585,
+        420
       ],
       [
         283,
-        417
+        418
       ],
       [
-        11,
-        417
+        9,
+        419
       ],
       [
         14,
@@ -80,15 +80,15 @@
         14
       ],
       [
-        579,
-        16
+        589,
+        15
       ]
     ],
     "created": "2020-07-07T13:00:44.532736+00:00",
     "transformation_method": "affine",
     "mapID": "7b5e8ba1-f723-4c63-9f9c-85783287d584",
     "affine_transformation": null,
-    "changed": "2020-07-07T13:00:44.532736+00:00",
+    "changed": "2022-06-09T12:27:20.817108+00:00",
     "gcps": [
       {
         "location": [
@@ -162,16 +162,6 @@
       },
       {
         "location": [
-          116.00505519163106,
-          -34.82444269563494
-        ],
-        "pixel": [
-          129,
-          382
-        ]
-      },
-      {
-        "location": [
           125.36527164012976,
           5.614853880617304
         ],
@@ -212,16 +202,6 @@
       },
       {
         "location": [
-          167.50715501495776,
-          -47.261674195845686
-        ],
-        "pixel": [
-          322,
-          414
-        ]
-      },
-      {
-        "location": [
           172.8607280848107,
           -34.575742260216735
         ],
@@ -238,6 +218,16 @@
         "pixel": [
           60,
           154
+        ]
+      },
+      {
+        "location": [
+          174.793453293125,
+          -41.27642267365935
+        ],
+        "pixel": [
+          351,
+          390
         ]
       }
     ]

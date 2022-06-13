@@ -9,7 +9,7 @@
   "external_id": "38f8d3b0-27d4-4172-b861-c2e6184ce807",
   "title": "Stuhlweissenburg und Seregélyes",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,51 @@
   "georefereces": {
     "cutline": [
       [
-        13514,
-        1136
+        13493,
+        1130
       ],
       [
-        13542,
-        9830
+        13507,
+        3320
       ],
       [
-        1681,
-        9746
+        13518,
+        6157
+      ],
+      [
+        13534,
+        9816
+      ],
+      [
+        6652,
+        9772
+      ],
+      [
+        1686,
+        9734
       ],
       [
         1689,
-        1054
+        6052
       ],
       [
-        13514,
-        1136
+        1716,
+        1047
+      ],
+      [
+        7613,
+        1091
+      ],
+      [
+        13493,
+        1130
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "3decc5b9-d9da-5a33-a8c9-3c855724b829",
     "affine_transformation": null,
-    "changed": "2021-10-25T14:59:48.308430+00:00",
+    "changed": "2022-06-08T11:58:44.830829+00:00",
     "gcps": [
       {
         "location": [
@@ -138,6 +158,16 @@
         "pixel": [
           12886,
           6234
+        ]
+      },
+      {
+        "location": [
+          18.543317841291735,
+          47.006573247795245
+        ],
+        "pixel": [
+          6695,
+          9506
         ]
       },
       {
