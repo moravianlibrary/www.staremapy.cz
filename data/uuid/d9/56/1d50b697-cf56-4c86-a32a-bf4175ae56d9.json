@@ -12,7 +12,7 @@
   "external_id": "1d50b697-cf56-4c86-a32a-bf4175ae56d9",
   "title": "India Antiqua",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -67,7 +67,7 @@
     "transformation_method": "affine",
     "mapID": "eb2a88e5-b5e2-55ba-b2ab-5e121f809a72",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-06-19T11:32:26.345135+00:00",
     "gcps": [
       {
         "location": [
@@ -111,6 +111,16 @@
       },
       {
         "location": [
+          94.22071147321854,
+          16.04088991720691
+        ],
+        "pixel": [
+          6657,
+          5187
+        ]
+      },
+      {
+        "location": [
           104.96879975977441,
           8.654080701554378
         ],
@@ -127,16 +137,6 @@
         "pixel": [
           9006,
           4601
-        ]
-      },
-      {
-        "location": [
-          94.8613778847744,
-          16.369962081842004
-        ],
-        "pixel": [
-          6878,
-          4877
         ]
       },
       {

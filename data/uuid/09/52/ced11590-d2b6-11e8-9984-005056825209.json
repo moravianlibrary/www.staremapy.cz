@@ -9,7 +9,7 @@
   "external_id": "ced11590-d2b6-11e8-9984-005056825209",
   "title": "Isola di S. Pietro",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -72,7 +72,7 @@
     "transformation_method": "affine",
     "mapID": "2654c8d8-ba59-59bc-a9aa-ca76bd8d170f",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-06-19T11:33:37.473159+00:00",
     "gcps": [
       {
         "location": [
@@ -92,6 +92,16 @@
         "pixel": [
           7585,
           6134
+        ]
+      },
+      {
+        "location": [
+          8.44053246566271,
+          39.30636134312164
+        ],
+        "pixel": [
+          12123,
+          1928
         ]
       },
       {

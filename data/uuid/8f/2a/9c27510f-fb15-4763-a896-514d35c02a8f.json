@@ -9,7 +9,7 @@
   "external_id": "9c27510f-fb15-4763-a896-514d35c02a8f",
   "title": "Carte Générale Orographique et Hydrographique de l'Europe",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -72,7 +72,7 @@
     "transformation_method": "affine",
     "mapID": "a3d99732-f645-597c-96ae-f0443b4dadca",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-06-19T11:30:33.545259+00:00",
     "gcps": [
       {
         "location": [
@@ -152,6 +152,16 @@
         "pixel": [
           4954,
           5082
+        ]
+      },
+      {
+        "location": [
+          55.930842852143634,
+          54.725510746421946
+        ],
+        "pixel": [
+          11075,
+          9802
         ]
       },
       {

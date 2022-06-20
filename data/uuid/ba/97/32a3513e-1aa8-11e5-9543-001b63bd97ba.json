@@ -9,7 +9,7 @@
   "external_id": "uuid:32a3513e-1aa8-11e5-9543-001b63bd97ba",
   "title": "Postkarte von Mittel Europa enthaltend Deutschland, die Niederlande, Belgien, die Schweiz und einen grossen Theil von Oesterreich, England, Frankreich, Polen, Dänemark und Ober Italien, mit Bezeichnung aller Eisenbahnen und Dampfschiffs-Course",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5d048-00c9-11e5-b939-0800200c9a66?page=uuid:32a3513e-1aa8-11e5-9543-001b63bd97ba",
@@ -77,11 +77,23 @@
       ],
       [
         22,
-        289
+        315
       ],
       [
-        23,
-        245
+        22,
+        294
+      ],
+      [
+        22,
+        273
+      ],
+      [
+        22,
+        243
+      ],
+      [
+        18,
+        244
       ],
       [
         18,
@@ -89,7 +101,15 @@
       ],
       [
         18,
-        193
+        237
+      ],
+      [
+        22,
+        235
+      ],
+      [
+        22,
+        195
       ],
       [
         15,
@@ -208,7 +228,7 @@
     "transformation_method": "affine",
     "mapID": "0e10dff2-76d3-49a8-9dd0-b2cbae4e5e44",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:50:56.933841+00:00",
+    "changed": "2022-06-19T11:25:20.866792+00:00",
     "gcps": [
       {
         "location": [
@@ -228,16 +248,6 @@
         "pixel": [
           409,
           390
-        ]
-      },
-      {
-        "location": [
-          -2.9932891633804526,
-          53.40807413358365
-        ],
-        "pixel": [
-          59,
-          85
         ]
       },
       {
@@ -268,6 +278,56 @@
         "pixel": [
           351,
           284
+        ]
+      },
+      {
+        "location": [
+          10.00696426332419,
+          53.547301751028215
+        ],
+        "pixel": [
+          314,
+          102
+        ]
+      },
+      {
+        "location": [
+          19.979833021418283,
+          54.937333089462385
+        ],
+        "pixel": [
+          505,
+          42
+        ]
+      },
+      {
+        "location": [
+          19.039281243239994,
+          47.494336298961
+        ],
+        "pixel": [
+          520,
+          294
+        ]
+      },
+      {
+        "location": [
+          4.839190563193772,
+          45.756225844316475
+        ],
+        "pixel": [
+          196,
+          361
+        ]
+      },
+      {
+        "location": [
+          -0.38952939775545237,
+          53.74401622832431
+        ],
+        "pixel": [
+          110,
+          82
         ]
       }
     ]
