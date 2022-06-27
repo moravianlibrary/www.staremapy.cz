@@ -12,7 +12,7 @@
   "external_id": "cba0e49b-7dfd-483a-b8b4-a82abe096a46",
   "title": "Náčrt Československé republiky",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -111,7 +111,7 @@
     "transformation_method": "affine",
     "mapID": "97c8222e-71a7-591c-b9c8-b7bedfe5037c",
     "affine_transformation": null,
-    "changed": "2022-04-17T10:00:22.596206+00:00",
+    "changed": "2022-06-21T11:05:14.686862+00:00",
     "gcps": [
       {
         "location": [
@@ -185,6 +185,16 @@
       },
       {
         "location": [
+          12.18947238124222,
+          50.22129150947549
+        ],
+        "pixel": [
+          2143,
+          4767
+        ]
+      },
+      {
+        "location": [
           17.9954480552414,
           49.33901157803646
         ],
@@ -205,12 +215,12 @@
       },
       {
         "location": [
-          12.190008399402766,
-          50.220131505677784
+          12.37002539365174,
+          50.07951815275058
         ],
         "pixel": [
-          2153,
-          4786
+          2503,
+          5296
         ]
       },
       {

@@ -9,7 +9,7 @@
   "external_id": "uuid:556670be-ce06-11e4-b72c-001b63bd97ba",
   "title": "La Suisse divisée en ses treze cantons, ses alliez et ses sujets",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b392e0-c66b-11e4-8731-1681e6b88ec1?page=uuid:556670be-ce06-11e4-b72c-001b63bd97ba",
@@ -25,7 +25,7 @@
     "cutline": [
       [
         443,
-        31
+        30
       ],
       [
         443,
@@ -52,8 +52,20 @@
         399
       ],
       [
-        228,
-        396
+        217,
+        397
+      ],
+      [
+        205,
+        383
+      ],
+      [
+        194,
+        360
+      ],
+      [
+        193,
+        335
       ],
       [
         165,
@@ -64,19 +76,19 @@
         295
       ],
       [
-        17,
-        30
+        15,
+        27
       ],
       [
         443,
-        31
+        30
       ]
     ],
     "created": "2020-07-07T12:42:48.396974+00:00",
     "transformation_method": "affine",
     "mapID": "39c17fe2-6d2f-4064-a185-1e811caaac82",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:42:48.396974+00:00",
+    "changed": "2022-06-25T09:55:15.678672+00:00",
     "gcps": [
       {
         "location": [
@@ -180,16 +192,6 @@
       },
       {
         "location": [
-          8.408938265902325,
-          45.87565257920204
-        ],
-        "pixel": [
-          331,
-          375
-        ]
-      },
-      {
-        "location": [
           7.680178767996549,
           46.69023111593586
         ],
@@ -200,32 +202,12 @@
       },
       {
         "location": [
-          6.797423958621028,
-          47.507156212907546
-        ],
-        "pixel": [
-          151,
-          99
-        ]
-      },
-      {
-        "location": [
           8.129212851925496,
           47.75957780893958
         ],
         "pixel": [
           289,
           70
-        ]
-      },
-      {
-        "location": [
-          6.641914922767075,
-          46.77697631876444
-        ],
-        "pixel": [
-          134,
-          190
         ]
       },
       {
@@ -256,16 +238,6 @@
         "pixel": [
           305,
           186
-        ]
-      },
-      {
-        "location": [
-          8.364843414271302,
-          46.95658387639236
-        ],
-        "pixel": [
-          316,
-          198
         ]
       }
     ]

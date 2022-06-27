@@ -9,7 +9,7 @@
   "external_id": "uuid:4d5b2047-fa07-11e4-9148-001b63bd97ba",
   "title": "Východní Lombardie",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b28134-c66b-11e4-8731-1681e6b88ec1?page=uuid:4d5b2047-fa07-11e4-9148-001b63bd97ba",
@@ -132,18 +132,8 @@
     "transformation_method": "affine",
     "mapID": "2395f0c5-a3d3-426b-ace3-1fe29cb0c71d",
     "affine_transformation": null,
-    "changed": "2022-05-23T13:43:24.429999+00:00",
+    "changed": "2022-06-25T09:51:37.858962+00:00",
     "gcps": [
-      {
-        "location": [
-          11.548332377275862,
-          45.54735967232409
-        ],
-        "pixel": [
-          167,
-          108
-        ]
-      },
       {
         "location": [
           11.714454687523839,
@@ -256,16 +246,6 @@
       },
       {
         "location": [
-          12.058558234705572,
-          45.053087166401156
-        ],
-        "pixel": [
-          346,
-          182
-        ]
-      },
-      {
-        "location": [
           12.566617403096721,
           44.056066732282716
         ],
@@ -306,22 +286,32 @@
       },
       {
         "location": [
-          12.230244264768398,
-          44.921309797097535
-        ],
-        "pixel": [
-          411,
-          218
-        ]
-      },
-      {
-        "location": [
           11.617873561436797,
           44.837692455053315
         ],
         "pixel": [
           246,
           254
+        ]
+      },
+      {
+        "location": [
+          11.873430942771215,
+          45.4079710876083
+        ],
+        "pixel": [
+          257,
+          124
+        ]
+      },
+      {
+        "location": [
+          10.993838047263408,
+          45.43496012097731
+        ],
+        "pixel": [
+          33,
+          133
         ]
       }
     ]

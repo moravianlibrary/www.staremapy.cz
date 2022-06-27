@@ -9,7 +9,7 @@
   "external_id": "uuid:69ae1d70-02c9-11e7-bff9-005056825209",
   "title": "Führer durch Brünn und Umgebung, mapa ze strany: [298a]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:73d096a0-edcc-11e6-bc0e-005056827e51?page=uuid:69ae1d70-02c9-11e7-bff9-005056825209",
@@ -32,8 +32,8 @@
         624
       ],
       [
-        850,
-        733
+        854,
+        738
       ],
       [
         770,
@@ -92,7 +92,7 @@
     "transformation_method": "affine",
     "mapID": "e09cdfbf-4fa2-4f47-b54b-3102f365992c",
     "affine_transformation": null,
-    "changed": "2021-03-23T12:56:46.545657+00:00",
+    "changed": "2022-06-21T12:55:13.326705+00:00",
     "gcps": [
       {
         "location": [
@@ -166,16 +166,6 @@
       },
       {
         "location": [
-          16.413397263915662,
-          49.43249516436293
-        ],
-        "pixel": [
-          737,
-          284
-        ]
-      },
-      {
-        "location": [
           16.33436787495026,
           49.39421473473939
         ],
@@ -192,6 +182,16 @@
         "pixel": [
           231,
           890
+        ]
+      },
+      {
+        "location": [
+          16.413397263915662,
+          49.43249516436293
+        ],
+        "pixel": [
+          731,
+          287
         ]
       }
     ]

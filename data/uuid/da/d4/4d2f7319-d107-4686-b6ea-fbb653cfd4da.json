@@ -9,7 +9,7 @@
   "external_id": "4d2f7319-d107-4686-b6ea-fbb653cfd4da",
   "title": "[Zlaté Hory]",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,47 @@
   "georefereces": {
     "cutline": [
       [
-        20181,
-        3123
+        19844,
+        3062
       ],
       [
-        20089,
-        16633
+        19848,
+        8347
       ],
       [
-        3177,
-        16633
+        19857,
+        16269
       ],
       [
-        3177,
-        3490
+        12660,
+        16294
       ],
       [
-        20181,
-        3123
+        3196,
+        16344
+      ],
+      [
+        3213,
+        10693
+      ],
+      [
+        3269,
+        3154
+      ],
+      [
+        11087,
+        3108
+      ],
+      [
+        19844,
+        3062
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "581cb88b-8053-57dc-b7da-8271e15f4bae",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-06-21T12:20:12.675739+00:00",
     "gcps": [
       {
         "location": [
@@ -298,6 +314,16 @@
         "pixel": [
           13580,
           5255
+        ]
+      },
+      {
+        "location": [
+          17.47199327553321,
+          50.32766612814788
+        ],
+        "pixel": [
+          12605,
+          7993
         ]
       },
       {

@@ -9,7 +9,7 @@
   "external_id": "uuid:efe49704-b1d3-11e6-9ac4-001b63bd97ba",
   "title": "Umgebungen von St. Leonhardt",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:1298876c-3003-11e6-ac61-9e71128cae77?page=uuid:efe49704-b1d3-11e6-9ac4-001b63bd97ba",
@@ -29,14 +29,26 @@
       ],
       [
         549,
-        215
+        177
       ],
       [
-        49,
-        149
+        391,
+        199
+      ],
+      [
+        332,
+        163
+      ],
+      [
+        144,
+        166
       ],
       [
         50,
+        134
+      ],
+      [
+        49,
         66
       ],
       [
@@ -48,7 +60,7 @@
     "transformation_method": "affine",
     "mapID": "520edc79-2581-4947-893e-06dd1b0333ab",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:56:20.529271+00:00",
+    "changed": "2022-06-26T06:20:07.816109+00:00",
     "gcps": [
       {
         "location": [
@@ -68,16 +80,6 @@
         "pixel": [
           121,
           124
-        ]
-      },
-      {
-        "location": [
-          12.344161564102055,
-          46.87628706956167
-        ],
-        "pixel": [
-          481,
-          160
         ]
       },
       {
@@ -152,16 +154,6 @@
       },
       {
         "location": [
-          12.259868913709909,
-          46.91709600956909
-        ],
-        "pixel": [
-          417,
-          116
-        ]
-      },
-      {
-        "location": [
           11.943207056384198,
           46.8986044726785
         ],
@@ -208,6 +200,36 @@
         "pixel": [
           229,
           132
+        ]
+      },
+      {
+        "location": [
+          12.103339083533555,
+          46.98504029400931
+        ],
+        "pixel": [
+          335,
+          73
+        ]
+      },
+      {
+        "location": [
+          12.167585089545744,
+          46.93293786387434
+        ],
+        "pixel": [
+          374,
+          107
+        ]
+      },
+      {
+        "location": [
+          11.740404584574293,
+          46.92405257878383
+        ],
+        "pixel": [
+          85,
+          119
         ]
       }
     ]

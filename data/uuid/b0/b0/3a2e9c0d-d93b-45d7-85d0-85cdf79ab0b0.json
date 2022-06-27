@@ -9,7 +9,7 @@
   "external_id": "3a2e9c0d-d93b-45d7-85d0-85cdf79ab0b0",
   "title": "Nitra",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,51 @@
   "georefereces": {
     "cutline": [
       [
-        9981,
-        980
+        9881,
+        1065
       ],
       [
-        9886,
-        14323
+        9890,
+        5089
       ],
       [
-        1099,
-        14297
+        9904,
+        14330
       ],
       [
-        1110,
-        1056
+        4702,
+        14336
       ],
       [
-        9981,
-        980
+        1042,
+        14337
+      ],
+      [
+        1089,
+        9928
+      ],
+      [
+        1158,
+        3996
+      ],
+      [
+        1194,
+        1082
+      ],
+      [
+        5717,
+        1073
+      ],
+      [
+        9881,
+        1065
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "b6bfd465-dffb-5b0b-a2f3-30e42e795c3f",
     "affine_transformation": null,
-    "changed": "2021-05-12T05:46:08.294024+00:00",
+    "changed": "2022-06-23T05:32:11.346892+00:00",
     "gcps": [
       {
         "location": [
@@ -108,6 +128,16 @@
         "pixel": [
           8710,
           3866
+        ]
+      },
+      {
+        "location": [
+          18.300963601781767,
+          48.20010341493537
+        ],
+        "pixel": [
+          5256,
+          5024
         ]
       },
       {

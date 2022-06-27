@@ -9,7 +9,7 @@
   "external_id": "f516c032-0815-4432-9866-fdb880824d44",
   "title": "Mühlbach",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,32 +24,58 @@
   "georefereces": {
     "cutline": [
       [
-        13571,
-        1042
+        13549,
+        1049
       ],
       [
-        13728,
-        9780
+        13621,
+        5834
       ],
       [
-        1498,
-        9839
+        13679,
+        9755
       ],
       [
-        1415,
-        1071
+        5736,
+        9776
       ],
       [
-        13571,
-        1042
+        1511,
+        9795
+      ],
+      [
+        1474,
+        4341
+      ],
+      [
+        1463,
+        1088
+      ],
+      [
+        7533,
+        1072
+      ],
+      [
+        13549,
+        1049
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "0f4c3976-b575-5b10-8563-b03e59a0e0ab",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-06-20T12:46:01.793626+00:00",
     "gcps": [
+      {
+        "location": [
+          23.560110105114696,
+          45.91948456096273
+        ],
+        "pixel": [
+          7073,
+          3878
+        ]
+      },
       {
         "location": [
           23.62474289811152,

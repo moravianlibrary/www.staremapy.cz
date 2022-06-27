@@ -9,7 +9,7 @@
   "external_id": "d208e7d6-5716-49e4-8c8f-a7b94a69fa7a",
   "title": "Serednye",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -148,7 +148,7 @@
     "transformation_method": "affine",
     "mapID": "23862604-52aa-5cb1-aac0-37fc8a4201d5",
     "affine_transformation": null,
-    "changed": "2021-11-23T15:23:16.245408+00:00",
+    "changed": "2022-06-20T12:48:48.335802+00:00",
     "gcps": [
       {
         "location": [
@@ -258,6 +258,16 @@
         "pixel": [
           680,
           3536
+        ]
+      },
+      {
+        "location": [
+          22.602202172634914,
+          48.58462966527034
+        ],
+        "pixel": [
+          6561,
+          6072
         ]
       }
     ]

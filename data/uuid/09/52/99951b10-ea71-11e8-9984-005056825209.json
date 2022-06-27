@@ -9,7 +9,7 @@
   "external_id": "99951b10-ea71-11e8-9984-005056825209",
   "title": "Libuschin",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,47 @@
   "georefereces": {
     "cutline": [
       [
-        9204,
-        1509
+        9212,
+        1516
       ],
       [
         9260,
         14670
       ],
       [
-        1363,
-        14659
+        2510,
+        14664
+      ],
+      [
+        1366,
+        14663
+      ],
+      [
+        1370,
+        12180
+      ],
+      [
+        1366,
+        9694
+      ],
+      [
+        1355,
+        5138
       ],
       [
         1340,
         1513
       ],
       [
-        9204,
-        1509
+        9212,
+        1516
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "ce4abd72-d1ed-5bfd-852b-8af94c48b7fd",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-06-21T11:27:50.869894+00:00",
     "gcps": [
       {
         "location": [
@@ -78,6 +94,16 @@
         "pixel": [
           2444,
           13280
+        ]
+      },
+      {
+        "location": [
+          13.899846171026585,
+          50.14271249085127
+        ],
+        "pixel": [
+          3441,
+          7089
         ]
       },
       {

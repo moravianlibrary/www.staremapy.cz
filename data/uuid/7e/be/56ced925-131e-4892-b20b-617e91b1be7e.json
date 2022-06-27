@@ -9,7 +9,7 @@
   "external_id": "56ced925-131e-4892-b20b-617e91b1be7e",
   "title": "Banská Bystrica",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,47 @@
   "georefereces": {
     "cutline": [
       [
-        9500,
-        728
+        9522,
+        699
       ],
       [
-        9538,
-        13830
+        9539,
+        5179
       ],
       [
-        971,
-        13872
+        9577,
+        13893
       ],
       [
-        1093,
-        793
+        5017,
+        13907
       ],
       [
-        9500,
-        728
+        913,
+        13915
+      ],
+      [
+        941,
+        9752
+      ],
+      [
+        1025,
+        735
+      ],
+      [
+        5753,
+        711
+      ],
+      [
+        9522,
+        699
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "5c92e3a7-841a-59a3-a168-eec9603f38ef",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-06-23T12:38:24.439475+00:00",
     "gcps": [
       {
         "location": [
@@ -138,6 +154,16 @@
         "pixel": [
           1254,
           13484
+        ]
+      },
+      {
+        "location": [
+          19.30402125850013,
+          49.08124977938917
+        ],
+        "pixel": [
+          5034,
+          6204
         ]
       },
       {
