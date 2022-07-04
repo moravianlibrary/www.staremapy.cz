@@ -9,7 +9,7 @@
   "external_id": "d379d9a8-3b6d-49e6-a367-4af6b5ed0fb4",
   "title": "Munkačevo =",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        12675,
-        1377
+        12880,
+        1281
       ],
       [
-        12705,
-        9866
+        12740,
+        9932
       ],
       [
-        1383,
-        9619
+        1335,
+        9778
       ],
       [
-        1504,
-        1213
+        1410,
+        1128
       ],
       [
-        12675,
-        1377
+        12880,
+        1281
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "d10f5ec5-efd9-54e5-a0f3-da067243bdaa",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-07-01T09:10:53.949794+00:00",
     "gcps": [
       {
         "location": [
@@ -92,12 +92,42 @@
       },
       {
         "location": [
+          22.573101371771894,
+          48.418889139531416
+        ],
+        "pixel": [
+          6925,
+          3985
+        ]
+      },
+      {
+        "location": [
+          22.389576638626846,
+          48.36023841825667
+        ],
+        "pixel": [
+          2739,
+          5929
+        ]
+      },
+      {
+        "location": [
           22.62645695109255,
           48.25310064569911
         ],
         "pixel": [
           8106,
           9712
+        ]
+      },
+      {
+        "location": [
+          22.77059141525516,
+          48.33825983533521
+        ],
+        "pixel": [
+          11405,
+          6829
         ]
       }
     ]

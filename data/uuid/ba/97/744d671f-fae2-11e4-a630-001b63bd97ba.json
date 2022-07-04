@@ -9,7 +9,7 @@
   "external_id": "uuid:744d671f-fae2-11e4-a630-001b63bd97ba",
   "title": "Nova mappa geographica Tartariae Europaeae seu minoris et in specie Crimeae",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b20d08-c66b-11e4-8731-1681e6b88ec1?page=uuid:744d671f-fae2-11e4-a630-001b63bd97ba",
@@ -24,12 +24,16 @@
   "georefereces": {
     "cutline": [
       [
-        547,
+        548,
         46
       ],
       [
-        547,
-        292
+        549,
+        106
+      ],
+      [
+        548,
+        290
       ],
       [
         492,
@@ -37,7 +41,11 @@
       ],
       [
         475,
-        301
+        299
+      ],
+      [
+        458,
+        306
       ],
       [
         459,
@@ -52,24 +60,36 @@
         342
       ],
       [
-        409,
-        397
+        315,
+        357
       ],
       [
-        208,
-        395
+        285,
+        358
       ],
       [
-        195,
-        362
+        268,
+        357
       ],
       [
-        188,
-        339
+        218,
+        345
+      ],
+      [
+        217,
+        278
+      ],
+      [
+        173,
+        284
       ],
       [
         157,
         325
+      ],
+      [
+        153,
+        334
       ],
       [
         124,
@@ -92,15 +112,35 @@
         375
       ],
       [
-        53,
-        374
+        113,
+        364
       ],
       [
-        52,
-        46
+        106,
+        355
       ],
       [
-        547,
+        64,
+        337
+      ],
+      [
+        62,
+        327
+      ],
+      [
+        51,
+        325
+      ],
+      [
+        47,
+        45
+      ],
+      [
+        388,
+        45
+      ],
+      [
+        548,
         46
       ]
     ],
@@ -108,7 +148,7 @@
     "transformation_method": "affine",
     "mapID": "9bdf87ed-585b-4586-9b6a-3e88a9a63ad0",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:45:40.055543+00:00",
+    "changed": "2022-07-04T05:01:50.885842+00:00",
     "gcps": [
       {
         "location": [

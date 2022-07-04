@@ -13,7 +13,7 @@
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
+  "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": null,
@@ -24,41 +24,77 @@
   "georefereces": {
     "cutline": [
       [
-        13425,
-        0
+        8735,
+        2407
       ],
       [
-        13425,
-        15690
+        10722,
+        2327
       ],
       [
-        0,
-        15690
+        10507,
+        13344
       ],
       [
-        0,
-        0
+        7205,
+        13290
       ],
       [
-        13425,
-        0
+        7466,
+        9551
+      ],
+      [
+        8735,
+        2407
       ]
     ],
-    "created": "2014-11-25T15:51:45.085010+00:00",
+    "created": "2022-06-28T13:55:45.718384+00:00",
     "transformation_method": "affine",
     "mapID": "58aa22df-08bb-5b19-a83a-27a482f4be9f",
     "affine_transformation": null,
-    "changed": "2022-05-18T10:51:42.450215+00:00",
-    "gcps": [{
-      "location": [
-        13.357336521148655,
-        49.75715663325724
-      ],
-      "pixel": [
-        5487,
-        5822
-      ]
-    }]
+    "changed": "2022-06-28T14:03:04.750604+00:00",
+    "gcps": [
+      {
+        "location": [
+          22.160639391793598,
+          48.56710167070716
+        ],
+        "pixel": [
+          7781,
+          9719
+        ]
+      },
+      {
+        "location": [
+          22.172140704049443,
+          48.58720409884481
+        ],
+        "pixel": [
+          9329,
+          4367
+        ]
+      },
+      {
+        "location": [
+          22.174567164403392,
+          48.58697699741495
+        ],
+        "pixel": [
+          9527,
+          4456
+        ]
+      },
+      {
+        "location": [
+          22.159094439401027,
+          48.52971490093225
+        ],
+        "pixel": [
+          7854,
+          12533
+        ]
+      }
+    ]
   },
   "pubdate": [null]
 }

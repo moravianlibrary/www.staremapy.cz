@@ -9,7 +9,7 @@
   "external_id": "uuid:d7f890f4-fa26-11e4-9ae1-001b63bd97ba",
   "title": "Exactissima tabula, qua tam Danubii fluvii pars inferior a Belgrado urbe usq ad ejus ostia et minores in eum influentes fluvii, quam regiones adjacentes, ut Transylvania, Valachia, Moldavia, Bulgaria, Bessarabia et Romonia, aliiq Ucrainae ac Podoliae tractatus finitimi ostenduntur",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b14634-c66b-11e4-8731-1681e6b88ec1?page=uuid:d7f890f4-fa26-11e4-9ae1-001b63bd97ba",
@@ -24,8 +24,8 @@
   "georefereces": {
     "cutline": [
       [
-        579,
-        35
+        580,
+        33
       ],
       [
         579,
@@ -37,7 +37,7 @@
       ],
       [
         224,
-        428
+        429
       ],
       [
         214,
@@ -48,8 +48,12 @@
         407
       ],
       [
-        181,
+        180,
         403
+      ],
+      [
+        163,
+        404
       ],
       [
         100,
@@ -72,19 +76,35 @@
         429
       ],
       [
-        13,
-        34
+        11,
+        418
       ],
       [
-        579,
-        35
+        10,
+        32
+      ],
+      [
+        134,
+        32
+      ],
+      [
+        261,
+        31
+      ],
+      [
+        370,
+        31
+      ],
+      [
+        580,
+        33
       ]
     ],
     "created": "2020-07-07T12:47:11.633798+00:00",
     "transformation_method": "affine",
     "mapID": "786b3c4b-e0db-4386-8713-3b4f344f5ecd",
     "affine_transformation": null,
-    "changed": "2021-10-03T08:47:04.554912+00:00",
+    "changed": "2022-07-04T05:29:58.621823+00:00",
     "gcps": [
       {
         "location": [

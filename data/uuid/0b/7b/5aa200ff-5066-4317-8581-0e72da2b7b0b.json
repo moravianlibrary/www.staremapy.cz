@@ -9,7 +9,7 @@
   "external_id": "5aa200ff-5066-4317-8581-0e72da2b7b0b",
   "title": "Gmunden und Schafberg",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        13374,
-        1173
+        13441,
+        1127
       ],
       [
-        13486,
-        9826
+        13487,
+        9907
       ],
       [
-        1729,
-        9806
+        1666,
+        9863
       ],
       [
-        1743,
-        1130
+        1687,
+        1112
       ],
       [
-        13374,
-        1173
+        13441,
+        1127
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "905d5ab7-5ae2-55b6-8f46-b117f6e0ae0d",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-07-02T09:56:30.390683+00:00",
     "gcps": [
       {
         "location": [
@@ -108,6 +108,36 @@
         "pixel": [
           7835,
           2889
+        ]
+      },
+      {
+        "location": [
+          13.658002781081446,
+          47.87305415504508
+        ],
+        "pixel": [
+          9334,
+          5568
+        ]
+      },
+      {
+        "location": [
+          13.43259548893947,
+          47.867883248740924
+        ],
+        "pixel": [
+          3997,
+          5723
+        ]
+      },
+      {
+        "location": [
+          13.675579735834413,
+          47.87305719389582
+        ],
+        "pixel": [
+          9757,
+          5543
         ]
       }
     ]

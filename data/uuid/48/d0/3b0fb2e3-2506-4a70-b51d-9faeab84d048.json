@@ -9,7 +9,7 @@
   "external_id": "3b0fb2e3-2506-4a70-b51d-9faeab84d048",
   "title": "Malý zeměpisný atlas",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,8 +48,8 @@
         1499
       ],
       [
-        450,
-        1512
+        439,
+        1511
       ],
       [
         431,
@@ -64,7 +64,7 @@
     "transformation_method": "affine",
     "mapID": "3efe601e-1be3-5442-b0f5-7cd5faea7aac",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-07-01T11:24:04.137852+00:00",
     "gcps": [
       {
         "location": [
@@ -174,6 +174,16 @@
         "pixel": [
           1100,
           953
+        ]
+      },
+      {
+        "location": [
+          17.666879494485876,
+          44.22252508150166
+        ],
+        "pixel": [
+          1000,
+          1413
         ]
       },
       {

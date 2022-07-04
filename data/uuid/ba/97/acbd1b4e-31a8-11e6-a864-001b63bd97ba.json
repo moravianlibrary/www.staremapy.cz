@@ -9,7 +9,7 @@
   "external_id": "uuid:acbd1b4e-31a8-11e6-a864-001b63bd97ba",
   "title": "Charte von Africa : nach den besten astronomischen Ortsbestimmungen, den neuesten Reisebeschreibungen, und den zuverlässigsten Hülfsmitteln",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:1297a018-3003-11e6-ac61-9e71128cae77?page=uuid:acbd1b4e-31a8-11e6-a864-001b63bd97ba",
@@ -88,18 +88,8 @@
     "transformation_method": "affine",
     "mapID": "60749a79-2c5a-4bf1-a68d-7c57519f28ab",
     "affine_transformation": null,
-    "changed": "2022-05-28T17:30:37.545533+00:00",
+    "changed": "2022-06-28T05:59:34.184417+00:00",
     "gcps": [
-      {
-        "location": [
-          28.17471631339207,
-          36.40002972077973
-        ],
-        "pixel": [
-          347,
-          35
-        ]
-      },
       {
         "location": [
           37.15054639151705,
@@ -242,26 +232,6 @@
       },
       {
         "location": [
-          55.53372971890195,
-          -21.11282319466072
-        ],
-        "pixel": [
-          508,
-          335
-        ]
-      },
-      {
-        "location": [
-          -2.4410868978958518,
-          36.88192480467988
-        ],
-        "pixel": [
-          201,
-          29
-        ]
-      },
-      {
-        "location": [
           3.0465840005416456,
           36.758798239091035
         ],
@@ -292,42 +262,12 @@
       },
       {
         "location": [
-          30.02351271147914,
-          31.201170362087282
-        ],
-        "pixel": [
-          361,
-          60
-        ]
-      },
-      {
-        "location": [
-          36.292228308136565,
-          33.50796914461509
-        ],
-        "pixel": [
-          391,
-          49
-        ]
-      },
-      {
-        "location": [
           30.690585454017068,
           36.911218013890505
         ],
         "pixel": [
           360,
           31
-        ]
-      },
-      {
-        "location": [
-          35.30484326651705,
-          37.025328484190084
-        ],
-        "pixel": [
-          380,
-          28
         ]
       },
       {
@@ -348,16 +288,6 @@
         "pixel": [
           457,
           158
-        ]
-      },
-      {
-        "location": [
-          42.982483038684514,
-          14.815565651366498
-        ],
-        "pixel": [
-          447,
-          147
         ]
       }
     ]

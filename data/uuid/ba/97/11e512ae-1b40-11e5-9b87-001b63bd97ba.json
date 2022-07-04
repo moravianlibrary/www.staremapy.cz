@@ -9,7 +9,7 @@
   "external_id": "uuid:11e512ae-1b40-11e5-9b87-001b63bd97ba",
   "title": "Special-Karte der österreichisch-preussischen Grenz-Provinzen und der anstossenden Gebietstheile des Königreichs Sachsen mit besonderer Berücksichtigung der Festungen, Flussgebiete u.s.w.",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5d02d-00c9-11e5-b939-0800200c9a66?page=uuid:11e512ae-1b40-11e5-9b87-001b63bd97ba",
@@ -112,16 +112,26 @@
     "transformation_method": "affine",
     "mapID": "5531778d-20b0-4935-a2d8-e14f9bc618bb",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:45:12.269808+00:00",
+    "changed": "2022-06-28T09:25:13.441938+00:00",
     "gcps": [
       {
         "location": [
           19.937791222803376,
-          50.06027000953591
+          50.06027000953594
         ],
         "pixel": [
           523,
           299
+        ]
+      },
+      {
+        "location": [
+          12.92322096576577,
+          50.83247996854132
+        ],
+        "pixel": [
+          102,
+          224
         ]
       },
       {
@@ -136,6 +146,26 @@
       },
       {
         "location": [
+          13.39855659343121,
+          52.51799815776826
+        ],
+        "pixel": [
+          136,
+          56
+        ]
+      },
+      {
+        "location": [
+          15.59365889747795,
+          49.39678973559501
+        ],
+        "pixel": [
+          259,
+          375
+        ]
+      },
+      {
+        "location": [
           17.24715687490193,
           49.59445856081135
         ],
@@ -146,8 +176,28 @@
       },
       {
         "location": [
+          18.76456005428881,
+          49.57803136829142
+        ],
+        "pixel": [
+          453,
+          352
+        ]
+      },
+      {
+        "location": [
+          19.55420238827318,
+          49.33522542733405
+        ],
+        "pixel": [
+          504,
+          372
+        ]
+      },
+      {
+        "location": [
           15.080558458044877,
-          50.92196677808735
+          50.921966778087324
         ],
         "pixel": [
           231,
@@ -156,12 +206,52 @@
       },
       {
         "location": [
-          13.387570265306204,
-          52.524265193124165
+          16.08592827702774,
+          51.66648569880684
         ],
         "pixel": [
-          136,
-          56
+          290,
+          145
+        ]
+      },
+      {
+        "location": [
+          17.03075249577774,
+          51.10944891864432
+        ],
+        "pixel": [
+          347,
+          201
+        ]
+      },
+      {
+        "location": [
+          17.716812798102545,
+          51.07604365203801
+        ],
+        "pixel": [
+          387,
+          205
+        ]
+      },
+      {
+        "location": [
+          17.98572207180971,
+          51.28098110927803
+        ],
+        "pixel": [
+          403,
+          183
+        ]
+      },
+      {
+        "location": [
+          19.111238297757396,
+          50.81494716224179
+        ],
+        "pixel": [
+          469,
+          224
         ]
       }
     ]

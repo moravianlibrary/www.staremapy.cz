@@ -9,7 +9,7 @@
   "external_id": "uuid:a49e5840-534f-11e4-90c9-005056825209",
   "title": "Útvar křídový v Českém Středohoří. Díl 3, mapa ze strany: [10]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:111fe950-38a9-11e4-8f64-005056827e52?page=uuid:a49e5840-534f-11e4-90c9-005056825209",
@@ -24,12 +24,12 @@
   "georefereces": {
     "cutline": [
       [
-        10821,
-        653
+        10980,
+        538
       ],
       [
-        10882,
-        7187
+        10967,
+        7227
       ],
       [
         212,
@@ -40,15 +40,15 @@
         523
       ],
       [
-        10821,
-        653
+        10980,
+        538
       ]
     ],
     "created": "2020-07-07T07:18:08.178248+00:00",
     "transformation_method": "affine",
     "mapID": "13a18b9c-1fdf-460f-af3b-31ebda024467",
     "affine_transformation": null,
-    "changed": "2020-07-07T07:18:08.178248+00:00",
+    "changed": "2022-06-28T11:46:20.371260+00:00",
     "gcps": [
       {
         "location": [
@@ -128,6 +128,26 @@
         "pixel": [
           8192,
           5229
+        ]
+      },
+      {
+        "location": [
+          13.857139338725869,
+          50.39665972052833
+        ],
+        "pixel": [
+          984,
+          5984
+        ]
+      },
+      {
+        "location": [
+          14.072556882579331,
+          50.47725574826174
+        ],
+        "pixel": [
+          8277,
+          1684
         ]
       }
     ]

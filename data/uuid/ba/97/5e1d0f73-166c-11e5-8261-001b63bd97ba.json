@@ -9,7 +9,7 @@
   "external_id": "uuid:5e1d0f73-166c-11e5-8261-001b63bd97ba",
   "title": "32°49° Budweis",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5f749-00c9-11e5-b939-0800200c9a66?page=uuid:5e1d0f73-166c-11e5-8261-001b63bd97ba",
@@ -236,7 +236,7 @@
     "transformation_method": "affine",
     "mapID": "c0d8660b-ebfe-4b76-9408-b75e3c6b6f6b",
     "affine_transformation": null,
-    "changed": "2022-06-03T04:24:11.301872+00:00",
+    "changed": "2022-07-01T11:18:49.346746+00:00",
     "gcps": [
       {
         "location": [
@@ -446,6 +446,26 @@
         "pixel": [
           569,
           227
+        ]
+      },
+      {
+        "location": [
+          14.304452970616211,
+          49.06717096203951
+        ],
+        "pixel": [
+          283,
+          191
+        ]
+      },
+      {
+        "location": [
+          14.325779818224632,
+          49.42297554854247
+        ],
+        "pixel": [
+          290,
+          42
         ]
       }
     ]

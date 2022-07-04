@@ -9,7 +9,7 @@
   "external_id": "uuid:eba2bc76-47ab-11e7-a54f-001b63bd97ba",
   "title": "Banská Bystrica",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:d669cb44-5167-44ea-bb6c-ebacfd9b51ff?page=uuid:eba2bc76-47ab-11e7-a54f-001b63bd97ba",
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        534,
-        49
+        535,
+        47
       ],
       [
-        533,
-        390
+        535,
+        393
       ],
       [
-        75,
-        390
+        72,
+        395
       ],
       [
         73,
         48
       ],
       [
-        534,
-        49
+        535,
+        47
       ]
     ],
     "created": "2020-07-07T12:58:33.765315+00:00",
     "transformation_method": "affine",
     "mapID": "80f48da7-bb90-4e10-a1f0-bf4d015a42a0",
     "affine_transformation": null,
-    "changed": "2022-05-28T17:47:04.384008+00:00",
+    "changed": "2022-06-28T11:44:38.008560+00:00",
     "gcps": [
       {
         "location": [
@@ -108,6 +108,46 @@
         "pixel": [
           81,
           230
+        ]
+      },
+      {
+        "location": [
+          19.15160942670203,
+          48.621575738079
+        ],
+        "pixel": [
+          370,
+          223
+        ]
+      },
+      {
+        "location": [
+          18.988809320915628,
+          48.647837523366036
+        ],
+        "pixel": [
+          220,
+          185
+        ]
+      },
+      {
+        "location": [
+          19.272770372043123,
+          48.677030005022175
+        ],
+        "pixel": [
+          481,
+          145
+        ]
+      },
+      {
+        "location": [
+          19.07058369373726,
+          48.74683296912161
+        ],
+        "pixel": [
+          294,
+          50
         ]
       }
     ]

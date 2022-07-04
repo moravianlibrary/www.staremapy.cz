@@ -9,7 +9,7 @@
   "external_id": "uuid:b198866a-c06d-11e6-8452-001b63bd97ba",
   "title": "29°47° Innsbruck / K.u.k. Militärgeographisches Institut",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:1298a5da-3003-11e6-ac61-9e71128cae77?page=uuid:b198866a-c06d-11e6-8452-001b63bd97ba",
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "6f838395-6b0f-4d26-8eac-a8b79ac7f9a8",
     "affine_transformation": null,
-    "changed": "2022-02-14T15:09:16.281898+00:00",
+    "changed": "2022-06-27T11:49:39.585424+00:00",
     "gcps": [
       {
         "location": [
@@ -98,6 +98,36 @@
         "pixel": [
           504,
           76
+        ]
+      },
+      {
+        "location": [
+          11.272209117048975,
+          46.92926201313918
+        ],
+        "pixel": [
+          273,
+          242
+        ]
+      },
+      {
+        "location": [
+          11.749865837670606,
+          47.060470710566165
+        ],
+        "pixel": [
+          494,
+          195
+        ]
+      },
+      {
+        "location": [
+          11.080245136615265,
+          47.452447258701625
+        ],
+        "pixel": [
+          187,
+          51
         ]
       }
     ]

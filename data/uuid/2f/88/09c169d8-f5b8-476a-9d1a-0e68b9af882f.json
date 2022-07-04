@@ -9,7 +9,7 @@
   "external_id": "09c169d8-f5b8-476a-9d1a-0e68b9af882f",
   "title": "Umgebungen von Jablunkau nebst Massstäbe",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -92,7 +92,7 @@
     "transformation_method": "affine",
     "mapID": "375d6b97-3e04-530f-a9df-4e39142467b9",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-07-01T11:21:08.151367+00:00",
     "gcps": [
       {
         "location": [
@@ -146,6 +146,16 @@
       },
       {
         "location": [
+          18.54184377732947,
+          49.49263455997635
+        ],
+        "pixel": [
+          5418,
+          4736
+        ]
+      },
+      {
+        "location": [
           18.883083949216655,
           49.54975749688725
         ],
@@ -182,16 +192,6 @@
         "pixel": [
           4844,
           5801
-        ]
-      },
-      {
-        "location": [
-          18.54191887918189,
-          49.49249518237119
-        ],
-        "pixel": [
-          5458,
-          4603
         ]
       },
       {

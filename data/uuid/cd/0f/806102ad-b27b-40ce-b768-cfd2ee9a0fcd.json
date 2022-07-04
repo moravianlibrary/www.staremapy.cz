@@ -9,7 +9,7 @@
   "external_id": "806102ad-b27b-40ce-b768-cfd2ee9a0fcd",
   "title": "Autokarte der Tschechoslowakischen Republik",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -104,7 +104,7 @@
     "transformation_method": "affine",
     "mapID": "c9295db2-51b5-59c2-9f93-9dc2ee7dd130",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-07-01T11:20:05.373207+00:00",
     "gcps": [
       {
         "location": [
@@ -154,6 +154,16 @@
         "pixel": [
           5272,
           4030
+        ]
+      },
+      {
+        "location": [
+          21.528825924559882,
+          49.025936094427095
+        ],
+        "pixel": [
+          11445,
+          1553
         ]
       },
       {

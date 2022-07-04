@@ -9,7 +9,7 @@
   "external_id": "uuid:5fc903fd-cdc8-11e4-b8fe-001b63bd97ba",
   "title": "Atlas novus terrarum orbis imperia regna et status exactis tabulis geographice demonstrans",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b2c91e-c66b-11e4-8731-1681e6b88ec1?page=uuid:5fc903fd-cdc8-11e4-b8fe-001b63bd97ba",
@@ -168,6 +168,10 @@
         346
       ],
       [
+        390,
+        353
+      ],
+      [
         385,
         375
       ],
@@ -276,7 +280,7 @@
     "transformation_method": "affine",
     "mapID": "e48d4a98-9cff-4049-be66-4224844e39ab",
     "affine_transformation": null,
-    "changed": "2022-02-19T14:20:28.335760+00:00",
+    "changed": "2022-06-28T11:38:32.660022+00:00",
     "gcps": [
       {
         "location": [
@@ -370,32 +374,12 @@
       },
       {
         "location": [
-          14.297927713252223,
-          46.62062572789915
-        ],
-        "pixel": [
-          73,
-          263
-        ]
-      },
-      {
-        "location": [
           13.647522969344708,
           47.62369325935924
         ],
         "pixel": [
           67,
           43
-        ]
-      },
-      {
-        "location": [
-          13.484272999862286,
-          47.71582423581498
-        ],
-        "pixel": [
-          46,
-          26
         ]
       },
       {
@@ -416,16 +400,6 @@
         "pixel": [
           262,
           36
-        ]
-      },
-      {
-        "location": [
-          15.093872402007023,
-          47.38097122884889
-        ],
-        "pixel": [
-          290,
-          105
         ]
       },
       {
@@ -456,16 +430,6 @@
         "pixel": [
           329,
           204
-        ]
-      },
-      {
-        "location": [
-          15.588861343141549,
-          45.89497566431504
-        ],
-        "pixel": [
-          273,
-          383
         ]
       },
       {
@@ -516,6 +480,16 @@
         "pixel": [
           273,
           343
+        ]
+      },
+      {
+        "location": [
+          15.085589441353507,
+          46.50710562504008
+        ],
+        "pixel": [
+          252,
+          294
         ]
       }
     ]

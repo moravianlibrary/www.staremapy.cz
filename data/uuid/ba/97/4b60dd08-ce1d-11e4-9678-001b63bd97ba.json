@@ -9,7 +9,7 @@
   "external_id": "uuid:4b60dd08-ce1d-11e4-9678-001b63bd97ba",
   "title": "Karte von der Insel Montreal",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b21802-c66b-11e4-8731-1681e6b88ec1?page=uuid:4b60dd08-ce1d-11e4-9678-001b63bd97ba",
@@ -88,7 +88,7 @@
     "transformation_method": "affine",
     "mapID": "24eb88e5-db9e-4cdc-aea6-0ca53924e0ff",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:43:54.528101+00:00",
+    "changed": "2022-07-01T10:53:59.918743+00:00",
     "gcps": [
       {
         "location": [
@@ -98,16 +98,6 @@
         "pixel": [
           243,
           217
-        ]
-      },
-      {
-        "location": [
-          -73.8553482716262,
-          45.36872364050075
-        ],
-        "pixel": [
-          241,
-          351
         ]
       },
       {
@@ -158,16 +148,6 @@
         "pixel": [
           214,
           387
-        ]
-      },
-      {
-        "location": [
-          -73.47777939820311,
-          45.70167573653407
-        ],
-        "pixel": [
-          433,
-          48
         ]
       }
     ]

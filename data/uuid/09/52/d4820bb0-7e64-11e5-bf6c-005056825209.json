@@ -9,7 +9,7 @@
   "external_id": "uuid:d4820bb0-7e64-11e5-bf6c-005056825209",
   "title": "Vvedenije v istoriju russkogo jazyka =: Úvod do dějin jazyka ruského. Díl I. Istočniki = PramenyIstočnikiÚvod do dějin jazyka ruského, mapa ze strany: [275]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:13180fa0-7104-11e5-99af-005056827e52?page=uuid:d4820bb0-7e64-11e5-bf6c-005056825209",
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        1916,
+        1944,
+        262
+      ],
+      [
+        1933,
+        2487
+      ],
+      [
+        196,
+        2480
+      ],
+      [
+        189,
         280
       ],
       [
-        1905,
-        2453
-      ],
-      [
-        224,
-        2442
-      ],
-      [
-        197,
-        289
-      ],
-      [
-        1916,
-        280
+        1944,
+        262
       ]
     ],
     "created": "2020-07-07T07:18:18.478023+00:00",
     "transformation_method": "affine",
     "mapID": "d41a6f54-d411-46fd-b1fa-5d8763eec416",
     "affine_transformation": null,
-    "changed": "2022-05-29T11:03:28.305465+00:00",
+    "changed": "2022-06-28T11:54:10.600452+00:00",
     "gcps": [
       {
         "location": [
@@ -58,16 +58,6 @@
         "pixel": [
           805,
           306
-        ]
-      },
-      {
-        "location": [
-          38.931912151510815,
-          47.21080706250038
-        ],
-        "pixel": [
-          1006,
-          2362
         ]
       },
       {
@@ -152,22 +142,22 @@
       },
       {
         "location": [
+          39.29476973065357,
+          48.56978770245834
+        ],
+        "pixel": [
+          1031,
+          2030
+        ]
+      },
+      {
+        "location": [
           43.84978519626235,
           55.40159373110467
         ],
         "pixel": [
           1648,
           381
-        ]
-      },
-      {
-        "location": [
-          44.50380281441803,
-          48.70131852463405
-        ],
-        "pixel": [
-          1673,
-          2053
         ]
       },
       {

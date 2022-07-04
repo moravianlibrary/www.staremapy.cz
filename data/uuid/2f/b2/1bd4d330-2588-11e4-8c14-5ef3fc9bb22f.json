@@ -9,7 +9,7 @@
   "external_id": "uuid:1bd4d330-2588-11e4-8c14-5ef3fc9bb22f",
   "title": "Národopisná mapa uherských Slováků na základě sčítání lidu z roku 1900=: Etnografičeskaja karta vengerskich' Slovakov' sostavlena na osnovaniji perepisi 1900 gEtnografičeskaja karta vengerskich' Slovakov' sostavlena na osnovaniji perepisi 1900 g, mapa ze strany: [213]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:112ab440-0bf2-11e4-8f64-005056827e52?page=uuid:1bd4d330-2588-11e4-8c14-5ef3fc9bb22f",
@@ -68,7 +68,7 @@
     "transformation_method": "affine",
     "mapID": "f501304b-e770-40a3-afc6-1ddd7b8ecedf",
     "affine_transformation": null,
-    "changed": "2022-05-29T10:53:49.792906+00:00",
+    "changed": "2022-06-28T11:50:52.823418+00:00",
     "gcps": [
       {
         "location": [
@@ -98,16 +98,6 @@
         "pixel": [
           2146,
           2139
-        ]
-      },
-      {
-        "location": [
-          19.81301267208893,
-          48.21258041961275
-        ],
-        "pixel": [
-          1937,
-          2078
         ]
       },
       {
@@ -152,32 +142,12 @@
       },
       {
         "location": [
-          19.346726714163637,
-          48.20630628837904
-        ],
-        "pixel": [
-          1980,
-          1214
-        ]
-      },
-      {
-        "location": [
           19.45109683135114,
           47.821388427127744
         ],
         "pixel": [
           828,
           1427
-        ]
-      },
-      {
-        "location": [
-          19.127848647740223,
-          47.77709718522357
-        ],
-        "pixel": [
-          652,
-          860
         ]
       },
       {
@@ -198,16 +168,6 @@
         "pixel": [
           824,
           624
-        ]
-      },
-      {
-        "location": [
-          19.893603157872146,
-          48.05416125331544
-        ],
-        "pixel": [
-          1553,
-          2350
         ]
       },
       {
@@ -242,16 +202,6 @@
       },
       {
         "location": [
-          19.4071500839932,
-          48.35329843052108
-        ],
-        "pixel": [
-          2440,
-          1309
-        ]
-      },
-      {
-        "location": [
           19.61810282557966,
           47.91360736044618
         ],
@@ -268,16 +218,6 @@
         "pixel": [
           2204,
           1514
-        ]
-      },
-      {
-        "location": [
-          19.441384326960897,
-          47.94502690444017
-        ],
-        "pixel": [
-          1218,
-          1357
         ]
       }
     ]
