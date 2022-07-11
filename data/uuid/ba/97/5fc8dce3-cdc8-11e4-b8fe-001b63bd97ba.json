@@ -9,7 +9,7 @@
   "external_id": "uuid:5fc8dce3-cdc8-11e4-b8fe-001b63bd97ba",
   "title": "Atlas novus terrarum orbis imperia regna et status exactis tabulis geographice demonstrans",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b2c91e-c66b-11e4-8731-1681e6b88ec1?page=uuid:5fc8dce3-cdc8-11e4-b8fe-001b63bd97ba",
@@ -24,16 +24,32 @@
   "georefereces": {
     "cutline": [
       [
-        567,
-        23
+        569,
+        22
       ],
       [
-        567,
+        569,
+        164
+      ],
+      [
+        568,
+        417
+      ],
+      [
+        325,
         416
+      ],
+      [
+        184,
+        416
+      ],
+      [
+        174,
+        408
       ],
       [
         179,
-        416
+        401
       ],
       [
         173,
@@ -42,6 +58,10 @@
       [
         159,
         380
+      ],
+      [
+        158,
+        378
       ],
       [
         151,
@@ -60,7 +80,7 @@
         306
       ],
       [
-        27,
+        26,
         306
       ],
       [
@@ -68,15 +88,23 @@
         24
       ],
       [
-        567,
-        23
+        195,
+        22
+      ],
+      [
+        355,
+        21
+      ],
+      [
+        569,
+        22
       ]
     ],
     "created": "2020-07-07T12:48:12.120430+00:00",
     "transformation_method": "affine",
     "mapID": "95aa28c6-46c9-4631-a479-fc95268e30f1",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:48:12.120430+00:00",
+    "changed": "2022-07-08T09:03:44.674587+00:00",
     "gcps": [
       {
         "location": [

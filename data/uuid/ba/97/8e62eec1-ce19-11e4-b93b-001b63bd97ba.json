@@ -9,7 +9,7 @@
   "external_id": "uuid:8e62eec1-ce19-11e4-b93b-001b63bd97ba",
   "title": "Circulus Budvicensis, pars Regni Bohemiae",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b230bc-c66b-11e4-8731-1681e6b88ec1?page=uuid:8e62eec1-ce19-11e4-b93b-001b63bd97ba",
@@ -24,8 +24,12 @@
   "georefereces": {
     "cutline": [
       [
-        567,
-        160
+        543,
+        174
+      ],
+      [
+        597,
+        189
       ],
       [
         598,
@@ -124,7 +128,15 @@
         4
       ],
       [
-        255,
+        259,
+        3
+      ],
+      [
+        259,
+        2
+      ],
+      [
+        258,
         0
       ],
       [
@@ -132,12 +144,36 @@
         0
       ],
       [
-        283,
-        1
+        270,
+        0
       ],
       [
-        302,
-        4
+        271,
+        2
+      ],
+      [
+        272,
+        3
+      ],
+      [
+        278,
+        3
+      ],
+      [
+        282,
+        2
+      ],
+      [
+        287,
+        2
+      ],
+      [
+        288,
+        3
+      ],
+      [
+        300,
+        3
       ],
       [
         312,
@@ -164,15 +200,31 @@
         84
       ],
       [
-        567,
-        160
+        471,
+        93
+      ],
+      [
+        483,
+        118
+      ],
+      [
+        511,
+        142
+      ],
+      [
+        550,
+        139
+      ],
+      [
+        543,
+        174
       ]
     ],
     "created": "2020-07-07T12:44:24.839693+00:00",
     "transformation_method": "affine",
     "mapID": "c9e045ef-f964-4fdb-ba6f-2b668c877429",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:44:24.839693+00:00",
+    "changed": "2022-07-07T05:43:09.297831+00:00",
     "gcps": [
       {
         "location": [

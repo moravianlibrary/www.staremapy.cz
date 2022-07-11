@@ -9,7 +9,7 @@
   "external_id": "uuid:4a897dcb-82de-11e0-bc9f-0050569d679d",
   "title": "Neuer Atlas Uber die Gantze Welt, mapa ze strany: [205]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:77e2a48b-82dd-11e0-bc9f-0050569d679d?page=uuid:4a897dcb-82de-11e0-bc9f-0050569d679d",
@@ -24,47 +24,71 @@
   "georefereces": {
     "cutline": [
       [
-        8938,
-        766
+        8907,
+        791
       ],
       [
-        9005,
-        7916
+        8943,
+        5811
       ],
       [
-        5206,
-        7944
+        8963,
+        7902
       ],
       [
-        4585,
-        7295
+        5408,
+        7930
+      ],
+      [
+        4854,
+        7472
+      ],
+      [
+        4322,
+        7030
+      ],
+      [
+        3575,
+        7047
       ],
       [
         3306,
         7305
       ],
       [
-        3306,
-        7963
+        3305,
+        7907
       ],
       [
-        653,
-        7906
+        663,
+        7885
       ],
       [
-        643,
-        766
+        682,
+        5122
       ],
       [
-        8938,
-        766
+        694,
+        774
+      ],
+      [
+        4612,
+        775
+      ],
+      [
+        6960,
+        782
+      ],
+      [
+        8907,
+        791
       ]
     ],
     "created": "2020-07-07T07:24:35.329862+00:00",
     "transformation_method": "affine",
     "mapID": "03488f12-1474-4e3a-b456-3ab667e55f32",
     "affine_transformation": null,
-    "changed": "2020-07-07T07:24:35.329862+00:00",
+    "changed": "2022-07-04T10:42:25.118911+00:00",
     "gcps": [
       {
         "location": [
@@ -194,6 +218,16 @@
         "pixel": [
           7185,
           925
+        ]
+      },
+      {
+        "location": [
+          20.51693411167248,
+          43.146246030549946
+        ],
+        "pixel": [
+          6688,
+          6162
         ]
       }
     ]

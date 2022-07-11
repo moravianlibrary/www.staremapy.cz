@@ -9,7 +9,7 @@
   "external_id": "uuid:91ef02f1-fa08-11e4-a2db-001b63bd97ba",
   "title": "Ducatus Stiriae et Carintiae, Carniolae",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b2a966-c66b-11e4-8731-1681e6b88ec1?page=uuid:91ef02f1-fa08-11e4-a2db-001b63bd97ba",
@@ -29,15 +29,103 @@
       ],
       [
         578,
+        264
+      ],
+      [
+        576,
         416
       ],
       [
-        15,
-        414
+        250,
+        415
       ],
       [
-        17,
-        26
+        249,
+        404
+      ],
+      [
+        231,
+        378
+      ],
+      [
+        213,
+        358
+      ],
+      [
+        171,
+        355
+      ],
+      [
+        128,
+        354
+      ],
+      [
+        114,
+        359
+      ],
+      [
+        91,
+        366
+      ],
+      [
+        80,
+        368
+      ],
+      [
+        44,
+        402
+      ],
+      [
+        44,
+        413
+      ],
+      [
+        15,
+        413
+      ],
+      [
+        18,
+        69
+      ],
+      [
+        109,
+        68
+      ],
+      [
+        111,
+        48
+      ],
+      [
+        108,
+        37
+      ],
+      [
+        99,
+        27
+      ],
+      [
+        258,
+        27
+      ],
+      [
+        389,
+        29
+      ],
+      [
+        392,
+        25
+      ],
+      [
+        403,
+        25
+      ],
+      [
+        412,
+        24
+      ],
+      [
+        426,
+        29
       ],
       [
         581,
@@ -48,7 +136,7 @@
     "transformation_method": "affine",
     "mapID": "5b7e6cb7-e5e0-431a-b774-fd84ca5b511c",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:44:13.893948+00:00",
+    "changed": "2022-07-05T04:30:15.992916+00:00",
     "gcps": [
       {
         "location": [
@@ -818,6 +906,16 @@
         "pixel": [
           261,
           413
+        ]
+      },
+      {
+        "location": [
+          14.022892247168366,
+          46.00156080730716
+        ],
+        "pixel": [
+          239,
+          264
         ]
       }
     ]

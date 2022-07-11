@@ -9,7 +9,7 @@
   "external_id": "b249e488-fa7e-4f56-9d8b-2c17afe131c4",
   "title": "Budweis (Budějovice)",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -56,7 +56,7 @@
     "transformation_method": "affine",
     "mapID": "05766c8d-0e61-5aec-9431-5e9d5b717b20",
     "affine_transformation": null,
-    "changed": "2021-09-07T11:42:41.119968+00:00",
+    "changed": "2022-07-10T09:58:19.391252+00:00",
     "gcps": [
       {
         "location": [
@@ -66,16 +66,6 @@
         "pixel": [
           8462,
           2256
-        ]
-      },
-      {
-        "location": [
-          14.7838780689904,
-          48.85884360416179
-        ],
-        "pixel": [
-          14278,
-          6064
         ]
       },
       {
@@ -130,12 +120,12 @@
       },
       {
         "location": [
-          14.550644786370796,
-          48.790381855248825
+          14.7838780689904,
+          48.85884360416179
         ],
         "pixel": [
-          9017,
-          8390
+          14278,
+          6064
         ]
       },
       {
@@ -166,6 +156,26 @@
         "pixel": [
           10178,
           2575
+        ]
+      },
+      {
+        "location": [
+          14.552060992730654,
+          48.79045253846161
+        ],
+        "pixel": [
+          9017,
+          8390
+        ]
+      },
+      {
+        "location": [
+          14.828791692095578,
+          48.77620133996686
+        ],
+        "pixel": [
+          15335,
+          8889
         ]
       },
       {

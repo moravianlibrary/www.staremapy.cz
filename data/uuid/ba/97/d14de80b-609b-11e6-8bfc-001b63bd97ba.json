@@ -9,7 +9,7 @@
   "external_id": "uuid:d14de80b-609b-11e6-8bfc-001b63bd97ba",
   "title": "Atlas historických map z let 1786-1800",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:1297bae4-3003-11e6-ac61-9e71128cae77?page=uuid:d14de80b-609b-11e6-8bfc-001b63bd97ba",
@@ -24,7 +24,7 @@
   "georefereces": {
     "cutline": [
       [
-        498,
+        496,
         69
       ],
       [
@@ -48,15 +48,47 @@
         375
       ],
       [
-        101,
-        379
+        338,
+        377
       ],
       [
-        98,
+        209,
+        378
+      ],
+      [
+        102,
+        376
+      ],
+      [
+        102,
+        69
+      ],
+      [
+        169,
         68
       ],
       [
-        498,
+        234,
+        68
+      ],
+      [
+        294,
+        68
+      ],
+      [
+        300,
+        69
+      ],
+      [
+        306,
+        68
+      ],
+      [
+        362,
+        67
+      ],
+      [
+        496,
         69
       ]
     ],
@@ -64,7 +96,7 @@
     "transformation_method": "affine",
     "mapID": "90b390de-cd28-498a-b44f-2db686831e3a",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:55:03.614871+00:00",
+    "changed": "2022-07-09T04:05:03.434887+00:00",
     "gcps": [
       {
         "location": [
@@ -334,6 +366,56 @@
         "pixel": [
           333,
           374
+        ]
+      },
+      {
+        "location": [
+          22.885625307619726,
+          43.977562484055994
+        ],
+        "pixel": [
+          142,
+          333
+        ]
+      },
+      {
+        "location": [
+          22.878887896854163,
+          47.79425424442229
+        ],
+        "pixel": [
+          119,
+          132
+        ]
+      },
+      {
+        "location": [
+          25.03637036784761,
+          48.529893444735336
+        ],
+        "pixel": [
+          242,
+          96
+        ]
+      },
+      {
+        "location": [
+          29.015748300329346,
+          47.761056960130446
+        ],
+        "pixel": [
+          377,
+          152
+        ]
+      },
+      {
+        "location": [
+          29.619996347204342,
+          47.93984162389492
+        ],
+        "pixel": [
+          408,
+          140
         ]
       }
     ]
