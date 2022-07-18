@@ -9,7 +9,7 @@
   "external_id": "dd231e8c-b3ba-433a-a89c-a656629343fc",
   "title": "Charte von Nord-America",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -88,17 +88,69 @@
     "transformation_method": "affine",
     "mapID": "1aa5ca6d-9a0a-53d8-8d0d-d0cee64a6029",
     "affine_transformation": null,
-    "changed": "2019-01-16T19:02:03.231809+00:00",
-    "gcps": [{
-      "location": [
-        -152.3584886875,
-        57.7978396567388
-      ],
-      "pixel": [
-        1965,
-        10280
-      ]
-    }]
+    "changed": "2022-07-12T07:46:52.931192+00:00",
+    "gcps": [
+      {
+        "location": [
+          -152.40596290086077,
+          57.79151770201139
+        ],
+        "pixel": [
+          1965,
+          10280
+        ]
+      },
+      {
+        "location": [
+          -153.30569713250478,
+          58.85428950619877
+        ],
+        "pixel": [
+          1903,
+          10190
+        ]
+      },
+      {
+        "location": [
+          -161.72108881571725,
+          58.58503814249465
+        ],
+        "pixel": [
+          1315,
+          10178
+        ]
+      },
+      {
+        "location": [
+          -149.99057262078549,
+          60.88840356596913
+        ],
+        "pixel": [
+          2107,
+          9884
+        ]
+      },
+      {
+        "location": [
+          -164.88515131571717,
+          54.47172275990289
+        ],
+        "pixel": [
+          1117,
+          10725
+        ]
+      },
+      {
+        "location": [
+          -161.1205033252521,
+          64.88438747065578
+        ],
+        "pixel": [
+          1395,
+          9289
+        ]
+      }
+    ]
   },
   "pubdate": [null]
 }

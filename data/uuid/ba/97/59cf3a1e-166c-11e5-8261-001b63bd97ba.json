@@ -9,7 +9,7 @@
   "external_id": "uuid:59cf3a1e-166c-11e5-8261-001b63bd97ba",
   "title": "Kaplice - oblast",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5f74a-00c9-11e5-b939-0800200c9a66?page=uuid:59cf3a1e-166c-11e5-8261-001b63bd97ba",
@@ -24,31 +24,91 @@
   "georefereces": {
     "cutline": [
       [
-        576,
-        21
+        577,
+        19
       ],
       [
-        575,
+        577,
+        140
+      ],
+      [
+        577,
+        260
+      ],
+      [
+        577,
+        264
+      ],
+      [
+        576,
+        387
+      ],
+      [
+        576,
+        423
+      ],
+      [
+        407,
         422
       ],
       [
+        202,
+        421
+      ],
+      [
+        93,
+        421
+      ],
+      [
+        21,
+        421
+      ],
+      [
         22,
-        419
+        304
+      ],
+      [
+        22,
+        160
       ],
       [
         23,
-        21
+        20
       ],
       [
-        576,
-        21
+        152,
+        20
+      ],
+      [
+        299,
+        20
+      ],
+      [
+        300,
+        19
+      ],
+      [
+        322,
+        19
+      ],
+      [
+        431,
+        19
+      ],
+      [
+        468,
+        19
+      ],
+      [
+        577,
+        19
       ]
     ],
     "created": "2020-07-07T12:52:08.512351+00:00",
     "transformation_method": "affine",
     "mapID": "a09316d4-163c-4a12-bc7f-ac7f9ecd0728",
     "affine_transformation": null,
-    "changed": "2022-06-26T08:35:05.539253+00:00",
+    "changed": "2022-07-11T09:42:08.473147+00:00",
     "gcps": [
       {
         "location": [
@@ -108,16 +168,6 @@
         "pixel": [
           480,
           360
-        ]
-      },
-      {
-        "location": [
-          14.762476173804664,
-          48.633900311603924
-        ],
-        "pixel": [
-          496,
-          219
         ]
       },
       {

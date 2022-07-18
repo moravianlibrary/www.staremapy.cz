@@ -9,7 +9,7 @@
   "external_id": "be0d1528-b842-42b0-b6cb-892134f39905",
   "title": "Plan der Stadt Wien und Umgebung im Jahre 1883",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -28,16 +28,40 @@
         3202
       ],
       [
-        15538,
-        16142
+        15565,
+        9545
       ],
       [
-        2051,
-        16054
+        15546,
+        16148
       ],
       [
-        2071,
-        3114
+        11065,
+        16121
+      ],
+      [
+        3184,
+        16062
+      ],
+      [
+        2055,
+        16048
+      ],
+      [
+        2062,
+        13709
+      ],
+      [
+        2055,
+        9301
+      ],
+      [
+        2064,
+        3104
+      ],
+      [
+        8827,
+        3149
       ],
       [
         15584,
@@ -48,7 +72,7 @@
     "transformation_method": "affine",
     "mapID": "469d4c95-2e9a-593d-9eae-fea292802c6f",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-07-11T07:55:59.912664+00:00",
     "gcps": [
       {
         "location": [
@@ -188,6 +212,16 @@
         "pixel": [
           14274,
           15992
+        ]
+      },
+      {
+        "location": [
+          16.336844618123465,
+          48.27492714045968
+        ],
+        "pixel": [
+          6796,
+          3700
         ]
       }
     ]

@@ -9,7 +9,7 @@
   "external_id": "uuid:82f94e05-19cb-11e5-89a0-001b63bd97ba",
   "title": "Volary - Kunžvart",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5a931-00c9-11e5-b939-0800200c9a66?page=uuid:82f94e05-19cb-11e5-89a0-001b63bd97ba",
@@ -24,31 +24,59 @@
   "georefereces": {
     "cutline": [
       [
-        538,
-        61
+        540,
+        58
       ],
       [
-        537,
+        540,
+        227
+      ],
+      [
+        540,
+        380
+      ],
+      [
+        433,
+        381
+      ],
+      [
+        253,
+        379
+      ],
+      [
+        155,
+        380
+      ],
+      [
+        55,
         378
       ],
       [
         57,
-        378
+        223
       ],
       [
-        59,
+        58,
+        56
+      ],
+      [
+        300,
+        57
+      ],
+      [
+        388,
         58
       ],
       [
-        538,
-        61
+        540,
+        58
       ]
     ],
     "created": "2020-07-07T12:50:09.119681+00:00",
     "transformation_method": "affine",
     "mapID": "2e1e1845-4b94-45e2-8517-78de0b693089",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:50:09.119681+00:00",
+    "changed": "2022-07-14T09:28:40.693687+00:00",
     "gcps": [
       {
         "location": [
@@ -158,6 +186,16 @@
         "pixel": [
           532,
           374
+        ]
+      },
+      {
+        "location": [
+          13.798824859280726,
+          48.82884004394364
+        ],
+        "pixel": [
+          373,
+          332
         ]
       }
     ]

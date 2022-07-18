@@ -9,7 +9,7 @@
   "external_id": "4c682a00-d27d-11e8-b0e0-5ef3fc9bb22f",
   "title": "Liparische Inseln",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "df18e5dc-08c7-55df-810e-4ec011f0a20e",
     "affine_transformation": null,
-    "changed": "2019-02-27T08:06:18.221151+00:00",
+    "changed": "2022-07-13T08:14:38.405479+00:00",
     "gcps": [
       {
         "location": [
@@ -58,6 +58,16 @@
         "pixel": [
           2051,
           8586
+        ]
+      },
+      {
+        "location": [
+          14.351409673690783,
+          38.54439251941628
+        ],
+        "pixel": [
+          2305,
+          8553
         ]
       },
       {

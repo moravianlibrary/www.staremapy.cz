@@ -9,7 +9,7 @@
   "external_id": "abae189e-d643-4d36-8aee-522c984fe59f",
   "title": "Hamburg, Wilhelmshaven, Schleswig",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,35 +24,55 @@
   "georefereces": {
     "cutline": [
       [
-        10470,
-        1424
+        10535,
+        1352
       ],
       [
-        10518,
-        9093
+        10570,
+        4856
       ],
       [
-        1564,
-        9058
+        10596,
+        9104
       ],
       [
-        1481,
-        1436
+        5040,
+        9122
       ],
       [
-        3836,
-        1413
+        1469,
+        9119
       ],
       [
-        10470,
-        1424
+        1458,
+        7664
+      ],
+      [
+        1425,
+        4531
+      ],
+      [
+        1412,
+        1375
+      ],
+      [
+        3726,
+        1366
+      ],
+      [
+        6303,
+        1351
+      ],
+      [
+        10535,
+        1352
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "6b1c8d43-6344-566d-b53a-571ee5c7fa02",
     "affine_transformation": null,
-    "changed": "2022-07-07T10:04:46.913619+00:00",
+    "changed": "2022-07-14T08:47:01.458851+00:00",
     "gcps": [
       {
         "location": [
@@ -242,6 +262,16 @@
         "pixel": [
           1636,
           6809
+        ]
+      },
+      {
+        "location": [
+          8.797943338580362,
+          53.0770386528832
+        ],
+        "pixel": [
+          6657,
+          6865
         ]
       },
       {
