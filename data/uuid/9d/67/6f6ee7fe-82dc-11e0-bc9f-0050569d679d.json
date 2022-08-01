@@ -9,7 +9,7 @@
   "external_id": "uuid:6f6ee7fe-82dc-11e0-bc9f-0050569d679d",
   "title": "Grosser Erdbeschreibung. Blatt N. 607-697, mapa ze strany: [14]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:637c6f30-82dc-11e0-bc9f-0050569d679d?page=uuid:6f6ee7fe-82dc-11e0-bc9f-0050569d679d",
@@ -24,16 +24,16 @@
   "georefereces": {
     "cutline": [
       [
-        4942,
-        1003
+        4940,
+        1008
       ],
       [
-        4931,
-        3591
+        4923,
+        3588
       ],
       [
         1174,
-        3584
+        3580
       ],
       [
         1173,
@@ -68,8 +68,8 @@
         2277
       ],
       [
-        1170,
-        1584
+        1174,
+        1582
       ],
       [
         1831,
@@ -96,19 +96,35 @@
         1377
       ],
       [
-        3025,
-        996
+        3023,
+        999
       ],
       [
-        4942,
+        3244,
         1003
+      ],
+      [
+        3267,
+        986
+      ],
+      [
+        3812,
+        992
+      ],
+      [
+        3821,
+        1006
+      ],
+      [
+        4940,
+        1008
       ]
     ],
     "created": "2020-07-07T07:26:32.985367+00:00",
     "transformation_method": "affine",
     "mapID": "3e02458a-4da1-45cb-86fb-8d6559f65f49",
     "affine_transformation": null,
-    "changed": "2022-05-30T12:51:29.185240+00:00",
+    "changed": "2022-07-29T08:20:36.035623+00:00",
     "gcps": [
       {
         "location": [
@@ -172,16 +188,6 @@
       },
       {
         "location": [
-          5.018377923937088,
-          52.20605621524544
-        ],
-        "pixel": [
-          3762,
-          2304
-        ]
-      },
-      {
-        "location": [
           4.936460531934309,
           52.21350393372256
         ],
@@ -208,6 +214,26 @@
         "pixel": [
           4012,
           3521
+        ]
+      },
+      {
+        "location": [
+          5.018377923937088,
+          52.20605621524544
+        ],
+        "pixel": [
+          3762,
+          2304
+        ]
+      },
+      {
+        "location": [
+          5.115872161189288,
+          52.25010963405202
+        ],
+        "pixel": [
+          4659,
+          1694
         ]
       }
     ]
