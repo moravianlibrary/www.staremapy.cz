@@ -9,7 +9,7 @@
   "external_id": "5155b405-a48c-4773-bb98-54c685ea878d",
   "title": "Turnov",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -28,6 +28,10 @@
         894
       ],
       [
+        12992,
+        3860
+      ],
+      [
         13015,
         9661
       ],
@@ -36,8 +40,20 @@
         9611
       ],
       [
+        2014,
+        7073
+      ],
+      [
+        2029,
+        2419
+      ],
+      [
         2047,
         855
+      ],
+      [
+        7888,
+        877
       ],
       [
         12966,
@@ -48,7 +64,7 @@
     "transformation_method": "affine",
     "mapID": "072668ad-a35a-5af0-8d7d-f6c25db6fedc",
     "affine_transformation": null,
-    "changed": "2022-06-16T17:52:27.089943+00:00",
+    "changed": "2022-08-01T15:03:57.137273+00:00",
     "gcps": [
       {
         "location": [
@@ -78,6 +94,16 @@
         "pixel": [
           3914,
           4627
+        ]
+      },
+      {
+        "location": [
+          15.088375801760522,
+          50.66408725020463
+        ],
+        "pixel": [
+          7605,
+          3873
         ]
       },
       {

@@ -9,7 +9,7 @@
   "external_id": "7714eb36-cffa-4a4d-8f58-e34d7bb7914a",
   "title": "Hollabrunn",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,39 @@
   "georefereces": {
     "cutline": [
       [
-        13283,
-        1317
+        13314,
+        1289
       ],
       [
-        13360,
-        9962
+        13381,
+        9996
       ],
       [
-        1827,
-        9947
+        1790,
+        9968
       ],
       [
-        1839,
-        1253
+        1793,
+        1226
       ],
       [
-        13283,
-        1317
+        6638,
+        1258
+      ],
+      [
+        11467,
+        1278
+      ],
+      [
+        13314,
+        1289
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "49cc684d-eada-593c-8749-c3185f651410",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-08-05T03:26:29.131870+00:00",
     "gcps": [
       {
         "location": [
@@ -78,16 +86,6 @@
         "pixel": [
           2094,
           1346
-        ]
-      },
-      {
-        "location": [
-          15.858723815250539,
-          48.51348196955931
-        ],
-        "pixel": [
-          2366,
-          9471
         ]
       },
       {
@@ -168,6 +166,16 @@
         "pixel": [
           12614,
           2350
+        ]
+      },
+      {
+        "location": [
+          15.858723815250539,
+          48.51348196955931
+        ],
+        "pixel": [
+          2366,
+          9471
         ]
       }
     ]

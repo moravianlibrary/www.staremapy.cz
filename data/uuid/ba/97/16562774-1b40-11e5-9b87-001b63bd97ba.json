@@ -9,7 +9,7 @@
   "external_id": "uuid:16562774-1b40-11e5-9b87-001b63bd97ba",
   "title": "Übersichts-Karte der Domaine Gratzen - Přehledná mapa velkostatku Nových Hradů",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:932a565d-00c9-11e5-b939-0800200c9a66?page=uuid:16562774-1b40-11e5-9b87-001b63bd97ba",
@@ -40,56 +40,32 @@
         415
       ],
       [
-        551,
-        395
+        510,
+        419
       ],
       [
-        540,
-        388
+        475,
+        420
       ],
       [
-        506,
-        390
+        423,
+        421
       ],
       [
-        453,
-        380
-      ],
-      [
-        433,
-        390
-      ],
-      [
-        372,
-        382
-      ],
-      [
-        317,
-        380
-      ],
-      [
-        309,
-        384
-      ],
-      [
-        294,
-        383
-      ],
-      [
-        294,
-        366
+        314,
+        408
       ],
       [
         262,
-        351
+        394
       ],
       [
-        248,
-        351
+        232,
+        368
       ],
       [
-        245,
-        346
+        206,
+        352
       ],
       [
         200,
@@ -120,7 +96,7 @@
     "transformation_method": "affine",
     "mapID": "4211012d-176f-4cb7-8079-5ad0513bda79",
     "affine_transformation": null,
-    "changed": "2022-05-07T18:19:16.022315+00:00",
+    "changed": "2022-08-05T11:40:24.000536+00:00",
     "gcps": [
       {
         "location": [
@@ -234,16 +210,6 @@
       },
       {
         "location": [
-          14.460267717498105,
-          48.81332796001004
-        ],
-        "pixel": [
-          265,
-          135
-        ]
-      },
-      {
-        "location": [
           14.494348591096806,
           48.848610815495135
         ],
@@ -260,6 +226,16 @@
         "pixel": [
           313,
           226
+        ]
+      },
+      {
+        "location": [
+          14.459044590086002,
+          48.81876994892923
+        ],
+        "pixel": [
+          265,
+          135
         ]
       }
     ]

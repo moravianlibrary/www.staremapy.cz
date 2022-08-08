@@ -9,7 +9,7 @@
   "external_id": "aa0c8963-4705-49ba-b027-064e82bc3e0b",
   "title": "Klatovy",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,47 @@
   "georefereces": {
     "cutline": [
       [
-        9689,
-        1109
+        9726,
+        1067
       ],
       [
-        9814,
-        14261
+        9798,
+        14214
       ],
       [
-        1148,
-        14200
+        4511,
+        14237
       ],
       [
-        1221,
-        1136
+        1074,
+        14247
       ],
       [
-        9689,
-        1109
+        1105,
+        9743
+      ],
+      [
+        1143,
+        5340
+      ],
+      [
+        1186,
+        1119
+      ],
+      [
+        5325,
+        1077
+      ],
+      [
+        9726,
+        1067
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "33c10904-6250-5418-b144-9cc26c6d4a9c",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-08-01T15:20:17.445047+00:00",
     "gcps": [
       {
         "location": [
@@ -118,6 +134,16 @@
         "pixel": [
           1270,
           7586
+        ]
+      },
+      {
+        "location": [
+          13.235151095521,
+          49.13715540451122
+        ],
+        "pixel": [
+          4593,
+          5848
         ]
       },
       {

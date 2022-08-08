@@ -9,7 +9,7 @@
   "external_id": "uuid:67814e1a-47cb-11e7-83ec-001b63bd97ba",
   "title": "Lučenec",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:d63fa15a-7ce4-49d6-9354-e3907c002d3d?page=uuid:67814e1a-47cb-11e7-83ec-001b63bd97ba",
@@ -28,12 +28,12 @@
         38
       ],
       [
-        544,
-        381
+        545,
+        382
       ],
       [
-        69,
-        380
+        68,
+        381
       ],
       [
         71,
@@ -52,7 +52,7 @@
     "transformation_method": "affine",
     "mapID": "1b2b8272-8a25-467d-a60e-ae8ebf564cc5",
     "affine_transformation": null,
-    "changed": "2022-05-16T13:12:36.529304+00:00",
+    "changed": "2022-08-08T05:27:15.116978+00:00",
     "gcps": [
       {
         "location": [
@@ -132,6 +132,36 @@
         "pixel": [
           381,
           255
+        ]
+      },
+      {
+        "location": [
+          19.361129431330188,
+          48.27155944912306
+        ],
+        "pixel": [
+          95,
+          350
+        ]
+      },
+      {
+        "location": [
+          19.599742188712934,
+          48.27930481325569
+        ],
+        "pixel": [
+          324,
+          340
+        ]
+      },
+      {
+        "location": [
+          19.823857625236023,
+          48.26932353831904
+        ],
+        "pixel": [
+          539,
+          354
         ]
       }
     ]

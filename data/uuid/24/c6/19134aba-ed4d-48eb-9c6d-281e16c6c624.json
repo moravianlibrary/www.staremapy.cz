@@ -9,7 +9,7 @@
   "external_id": "19134aba-ed4d-48eb-9c6d-281e16c6c624",
   "title": "Strakonitz (Strakonice)",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        12108,
-        0
+        10006,
+        1597
       ],
       [
-        12108,
-        9622
+        9983,
+        8006
       ],
       [
-        0,
-        9622
+        2256,
+        7931
       ],
       [
-        0,
-        0
+        2284,
+        1527
       ],
       [
-        12108,
-        0
+        10006,
+        1597
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "484cf4ed-19f2-5a15-b917-ea264277a0c7",
     "affine_transformation": null,
-    "changed": "2022-07-24T14:01:25.455821+00:00",
+    "changed": "2022-08-08T06:34:55.531404+00:00",
     "gcps": [
       {
         "location": [
@@ -88,16 +88,6 @@
         "pixel": [
           7316,
           6368
-        ]
-      },
-      {
-        "location": [
-          13.920600650692169,
-          49.26488984944632
-        ],
-        "pixel": [
-          8076,
-          3891
         ]
       },
       {
@@ -168,6 +158,16 @@
         "pixel": [
           5814,
           2486
+        ]
+      },
+      {
+        "location": [
+          13.920628075235078,
+          49.26488359191285
+        ],
+        "pixel": [
+          8076,
+          3891
         ]
       },
       {

@@ -9,7 +9,7 @@
   "external_id": "uuid:37962cc4-1aa6-11e5-a58a-001b63bd97ba",
   "title": "Písek, hlava Prácheňska",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5d034-00c9-11e5-b939-0800200c9a66?page=uuid:37962cc4-1aa6-11e5-a58a-001b63bd97ba",
@@ -24,31 +24,67 @@
   "georefereces": {
     "cutline": [
       [
-        600,
-        0
+        522,
+        61
       ],
       [
-        600,
-        443
+        521,
+        378
       ],
       [
-        0,
-        443
+        217,
+        379
       ],
       [
-        0,
-        0
+        218,
+        375
       ],
       [
-        600,
-        0
+        161,
+        372
+      ],
+      [
+        162,
+        303
+      ],
+      [
+        102,
+        303
+      ],
+      [
+        101,
+        378
+      ],
+      [
+        72,
+        378
+      ],
+      [
+        76,
+        59
+      ],
+      [
+        255,
+        60
+      ],
+      [
+        303,
+        61
+      ],
+      [
+        355,
+        60
+      ],
+      [
+        522,
+        61
       ]
     ],
     "created": "2020-07-07T12:50:52.740413+00:00",
     "transformation_method": "affine",
     "mapID": "0e7445a5-568a-4adf-9a01-f3e4316b807c",
     "affine_transformation": null,
-    "changed": "2022-07-07T11:06:12.426306+00:00",
+    "changed": "2022-08-02T11:00:39.286353+00:00",
     "gcps": [
       {
         "location": [
@@ -252,12 +288,12 @@
       },
       {
         "location": [
-          14.16137240753487,
-          49.30027493550952
+          14.164399584506311,
+          49.297928339055375
         ],
         "pixel": [
-          405,
-          299
+          430,
+          329
         ]
       }
     ]

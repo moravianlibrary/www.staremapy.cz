@@ -9,7 +9,7 @@
   "external_id": "d202a10e-3be5-4c30-ad47-a5326804963f",
   "title": "Kort over Grönland syd for 75° N. Br",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,12 +24,16 @@
   "georefereces": {
     "cutline": [
       [
-        17638,
-        976
+        17605,
+        849
       ],
       [
         17613,
         5597
+      ],
+      [
+        17599,
+        6700
       ],
       [
         11783,
@@ -48,23 +52,27 @@
         12105
       ],
       [
-        1201,
-        12214
+        1174,
+        12076
       ],
       [
-        1327,
-        914
+        1223,
+        2997
       ],
       [
-        17638,
-        976
+        1260,
+        837
+      ],
+      [
+        17605,
+        849
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "8f146e50-fd9f-5906-97d7-8af33216a1a0",
     "affine_transformation": null,
-    "changed": "2022-05-11T04:29:14.300808+00:00",
+    "changed": "2022-08-05T12:51:29.796795+00:00",
     "gcps": [
       {
         "location": [

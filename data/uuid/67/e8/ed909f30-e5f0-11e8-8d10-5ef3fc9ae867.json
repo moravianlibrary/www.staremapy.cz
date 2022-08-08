@@ -9,7 +9,7 @@
   "external_id": "ed909f30-e5f0-11e8-8d10-5ef3fc9ae867",
   "title": "Audun-le-Roman",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -29,15 +29,31 @@
       ],
       [
         13902,
+        9161
+      ],
+      [
+        13902,
         10509
+      ],
+      [
+        5483,
+        10487
       ],
       [
         1381,
         10451
       ],
       [
-        1483,
-        1494
+        1403,
+        6306
+      ],
+      [
+        1452,
+        2385
+      ],
+      [
+        1448,
+        1497
       ],
       [
         13889,
@@ -48,7 +64,7 @@
     "transformation_method": "affine",
     "mapID": "7c12f563-f98e-55eb-a0fe-a675202c4d7e",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-08-01T15:04:49.969278+00:00",
     "gcps": [
       {
         "location": [
@@ -128,6 +144,16 @@
         "pixel": [
           3373,
           9436
+        ]
+      },
+      {
+        "location": [
+          5.994414997607281,
+          49.38808510741228
+        ],
+        "pixel": [
+          5441,
+          3713
         ]
       }
     ]

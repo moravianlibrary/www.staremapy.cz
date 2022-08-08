@@ -9,7 +9,7 @@
   "external_id": "uuid:5fca15a5-cdc8-11e4-b8fe-001b63bd97ba",
   "title": "Atlas novus terrarum orbis imperia regna et status exactis tabulis geographice demonstrans",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b2c91e-c66b-11e4-8731-1681e6b88ec1?page=uuid:5fca15a5-cdc8-11e4-b8fe-001b63bd97ba",
@@ -24,16 +24,48 @@
   "georefereces": {
     "cutline": [
       [
-        587,
-        33
+        588,
+        32
       ],
       [
         589,
+        59
+      ],
+      [
+        588,
+        143
+      ],
+      [
+        547,
+        149
+      ],
+      [
+        545,
+        162
+      ],
+      [
+        551,
+        199
+      ],
+      [
+        583,
+        217
+      ],
+      [
+        589,
+        341
+      ],
+      [
+        590,
+        417
+      ],
+      [
+        334,
         416
       ],
       [
-        247,
-        414
+        249,
+        415
       ],
       [
         242,
@@ -44,39 +76,71 @@
         390
       ],
       [
-        127,
-        389
+        195,
+        392
+      ],
+      [
+        125,
+        390
       ],
       [
         114,
         397
       ],
       [
-        112,
+        113,
+        414
+      ],
+      [
+        47,
         413
       ],
       [
-        48,
-        412
+        49,
+        252
       ],
       [
-        52,
-        29
+        49,
+        155
+      ],
+      [
+        50,
+        91
+      ],
+      [
+        49,
+        44
+      ],
+      [
+        54,
+        39
+      ],
+      [
+        53,
+        28
+      ],
+      [
+        284,
+        30
       ],
       [
         320,
-        32
+        31
       ],
       [
-        587,
-        33
+        359,
+        31
+      ],
+      [
+        588,
+        32
       ]
     ],
     "created": "2020-07-07T12:49:09.385123+00:00",
     "transformation_method": "affine",
     "mapID": "7363ddab-539d-432c-a7c5-416b625e5797",
     "affine_transformation": null,
-    "changed": "2022-04-14T15:19:29.407286+00:00",
+    "changed": "2022-08-04T08:05:22.500518+00:00",
     "gcps": [
       {
         "location": [

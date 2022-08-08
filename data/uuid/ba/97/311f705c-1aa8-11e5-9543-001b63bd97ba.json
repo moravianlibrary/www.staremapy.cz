@@ -9,7 +9,7 @@
   "external_id": "uuid:311f705c-1aa8-11e5-9543-001b63bd97ba",
   "title": "J.G. Thöni's Routenkarte von Tirol, Vorarlberg u. Lichtenstein mit Entfernungsangaben",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5d045-00c9-11e5-b939-0800200c9a66?page=uuid:311f705c-1aa8-11e5-9543-001b63bd97ba",
@@ -24,31 +24,59 @@
   "georefereces": {
     "cutline": [
       [
-        531,
-        58
+        520,
+        64
       ],
       [
-        529,
-        393
+        518,
+        375
       ],
       [
-        63,
-        392
+        188,
+        376
       ],
       [
-        66,
-        55
+        140,
+        342
       ],
       [
-        531,
-        58
+        106,
+        351
+      ],
+      [
+        101,
+        316
+      ],
+      [
+        91,
+        311
+      ],
+      [
+        80,
+        307
+      ],
+      [
+        80,
+        113
+      ],
+      [
+        253,
+        113
+      ],
+      [
+        254,
+        65
+      ],
+      [
+        520,
+        64
       ]
     ],
     "created": "2020-07-07T12:50:59.410432+00:00",
     "transformation_method": "affine",
     "mapID": "4dd4f26e-e649-490b-9254-3323e932e1ef",
     "affine_transformation": null,
-    "changed": "2022-07-22T14:08:31.639892+00:00",
+    "changed": "2022-08-07T13:55:59.880102+00:00",
     "gcps": [
       {
         "location": [
@@ -428,6 +456,26 @@
         "pixel": [
           492,
           368
+        ]
+      },
+      {
+        "location": [
+          13.746952986786884,
+          48.859378838649036
+        ],
+        "pixel": [
+          84,
+          195
+        ]
+      },
+      {
+        "location": [
+          13.910823740187558,
+          48.675166355116005
+        ],
+        "pixel": [
+          170,
+          352
         ]
       },
       {

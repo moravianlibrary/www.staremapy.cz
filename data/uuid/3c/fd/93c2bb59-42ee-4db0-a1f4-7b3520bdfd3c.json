@@ -9,7 +9,7 @@
   "external_id": "93c2bb59-42ee-4db0-a1f4-7b3520bdfd3c",
   "title": "Znojmo",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -132,7 +132,7 @@
     "transformation_method": "affine",
     "mapID": "ba22277a-5472-5a5c-aa60-5959b39da4a5",
     "affine_transformation": null,
-    "changed": "2022-06-20T12:52:03.099655+00:00",
+    "changed": "2022-08-01T15:16:20.807123+00:00",
     "gcps": [
       {
         "location": [
@@ -232,6 +232,16 @@
         "pixel": [
           11214,
           8345
+        ]
+      },
+      {
+        "location": [
+          16.05447538347425,
+          48.85600941318836
+        ],
+        "pixel": [
+          5418,
+          5393
         ]
       },
       {

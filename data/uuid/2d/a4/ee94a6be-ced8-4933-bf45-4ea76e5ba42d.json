@@ -9,7 +9,7 @@
   "external_id": "ee94a6be-ced8-4933-bf45-4ea76e5ba42d",
   "title": "Rim. Sobota",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "2f1944be-2315-5fbc-b967-23e341c84c3f",
     "affine_transformation": null,
-    "changed": "2022-05-11T04:40:39.817124+00:00",
+    "changed": "2022-08-07T14:00:56.139618+00:00",
     "gcps": [
       {
         "location": [
@@ -102,6 +102,26 @@
       },
       {
         "location": [
+          20.149943209016307,
+          48.39282411059483
+        ],
+        "pixel": [
+          8309,
+          4547
+        ]
+      },
+      {
+        "location": [
+          20.31664280219319,
+          48.407270634654964
+        ],
+        "pixel": [
+          12100,
+          4027
+        ]
+      },
+      {
+        "location": [
           19.881889255717258,
           48.48439793508663
         ],
@@ -112,22 +132,22 @@
       },
       {
         "location": [
+          19.894281341164668,
+          48.37742132479991
+        ],
+        "pixel": [
+          2483,
+          5085
+        ]
+      },
+      {
+        "location": [
           19.84799460765959,
           48.29364108311742
         ],
         "pixel": [
           1429,
           8004
-        ]
-      },
-      {
-        "location": [
-          19.89427083950086,
-          48.37742132479991
-        ],
-        "pixel": [
-          2480,
-          5084
         ]
       }
     ]

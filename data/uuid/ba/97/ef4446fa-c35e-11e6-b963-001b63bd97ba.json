@@ -9,7 +9,7 @@
   "external_id": "uuid:ef4446fa-c35e-11e6-b963-001b63bd97ba",
   "title": "35°48° Pressburg",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:129968e4-3003-11e6-ac61-9e71128cae77?page=uuid:ef4446fa-c35e-11e6-b963-001b63bd97ba",
@@ -24,23 +24,27 @@
   "georefereces": {
     "cutline": [
       [
-        581,
+        579,
         7
       ],
       [
-        592,
-        434
+        587,
+        435
       ],
       [
-        17,
-        438
+        14,
+        436
       ],
       [
-        17,
-        6
+        18,
+        8
       ],
       [
-        581,
+        220,
+        7
+      ],
+      [
+        579,
         7
       ]
     ],
@@ -48,7 +52,7 @@
     "transformation_method": "affine",
     "mapID": "c581e72e-4138-4569-a358-cff5675dbf4a",
     "affine_transformation": null,
-    "changed": "2022-05-15T16:47:47.975022+00:00",
+    "changed": "2022-08-08T05:19:29.873864+00:00",
     "gcps": [
       {
         "location": [

@@ -12,7 +12,7 @@
   "external_id": "50f7901e-8ce1-4865-9520-51cba38afa2a",
   "title": "Okres rakovnický",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,31 +27,51 @@
   "georefereces": {
     "cutline": [
       [
-        9050,
-        1262
+        9069,
+        1247
       ],
       [
         9048,
         9916
       ],
       [
+        7382,
+        9937
+      ],
+      [
+        7267,
+        9930
+      ],
+      [
+        3943,
+        9950
+      ],
+      [
         646,
         9959
+      ],
+      [
+        643,
+        6909
       ],
       [
         652,
         1281
       ],
       [
-        9050,
-        1262
+        4852,
+        1261
+      ],
+      [
+        9069,
+        1247
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "c50ad5d4-4d86-52a8-a16b-43fcdb51fa0b",
     "affine_transformation": null,
-    "changed": "2022-05-09T04:54:23.963632+00:00",
+    "changed": "2022-08-05T08:54:45.104404+00:00",
     "gcps": [
       {
         "location": [
@@ -591,6 +611,16 @@
         "pixel": [
           8957,
           1550
+        ]
+      },
+      {
+        "location": [
+          13.94637985113807,
+          49.98239287866414
+        ],
+        "pixel": [
+          6745,
+          7852
         ]
       }
     ]

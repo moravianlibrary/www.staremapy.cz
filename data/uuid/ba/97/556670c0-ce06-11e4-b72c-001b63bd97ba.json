@@ -9,7 +9,7 @@
   "external_id": "uuid:556670c0-ce06-11e4-b72c-001b63bd97ba",
   "title": "La Suisse divisée en ses treze cantons, ses alliez et ses sujets",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b392e0-c66b-11e4-8731-1681e6b88ec1?page=uuid:556670c0-ce06-11e4-b72c-001b63bd97ba",
@@ -140,7 +140,15 @@
         35
       ],
       [
-        409,
+        293,
+        35
+      ],
+      [
+        410,
+        35
+      ],
+      [
+        480,
         35
       ],
       [
@@ -152,7 +160,7 @@
     "transformation_method": "affine",
     "mapID": "b696fea8-1c44-4489-81ce-ea8a1d963dfb",
     "affine_transformation": null,
-    "changed": "2022-07-08T17:52:39.455503+00:00",
+    "changed": "2022-08-05T10:48:49.782684+00:00",
     "gcps": [
       {
         "location": [
@@ -312,6 +320,16 @@
         "pixel": [
           393,
           55
+        ]
+      },
+      {
+        "location": [
+          8.653695507770447,
+          47.02139199267748
+        ],
+        "pixel": [
+          331,
+          199
         ]
       }
     ]

@@ -9,7 +9,7 @@
   "external_id": "uuid:387cbf57-fa73-11e4-aacc-001b63bd97ba",
   "title": "Regni Bohemiae circulus Reginohradecensis",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b1b02e-c66b-11e4-8731-1681e6b88ec1?page=uuid:387cbf57-fa73-11e4-aacc-001b63bd97ba",
@@ -284,7 +284,7 @@
     "transformation_method": "affine",
     "mapID": "9dfdc1fd-6284-4e68-b30a-1f564e744b0d",
     "affine_transformation": null,
-    "changed": "2022-05-05T17:00:02.683734+00:00",
+    "changed": "2022-08-05T09:00:15.723973+00:00",
     "gcps": [
       {
         "location": [
@@ -384,16 +384,6 @@
         "pixel": [
           148,
           152
-        ]
-      },
-      {
-        "location": [
-          15.818027732975736,
-          50.42677594074817
-        ],
-        "pixel": [
-          294,
-          205
         ]
       },
       {
@@ -544,6 +534,16 @@
         "pixel": [
           539,
           217
+        ]
+      },
+      {
+        "location": [
+          15.813938333381497,
+          50.43187045245523
+        ],
+        "pixel": [
+          294,
+          205
         ]
       }
     ]

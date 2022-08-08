@@ -9,7 +9,7 @@
   "external_id": "363375c5-8921-4f1d-8e93-cc5422515f8c",
   "title": "Sarkad und Kis Jenő",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -28,12 +28,20 @@
         1125
       ],
       [
-        13512,
-        9901
+        13507,
+        9896
       ],
       [
-        1500,
-        9848
+        1505,
+        9842
+      ],
+      [
+        1509,
+        6940
+      ],
+      [
+        1517,
+        2620
       ],
       [
         1528,
@@ -48,7 +56,7 @@
     "transformation_method": "affine",
     "mapID": "4d981fbc-a4f6-52b1-b57b-6ff31cfd3ffe",
     "affine_transformation": null,
-    "changed": "2022-07-13T22:34:19.566716+00:00",
+    "changed": "2022-08-08T06:40:17.904680+00:00",
     "gcps": [
       {
         "location": [
@@ -108,6 +116,16 @@
         "pixel": [
           7885,
           3452
+        ]
+      },
+      {
+        "location": [
+          21.27295077726432,
+          46.643209053577266
+        ],
+        "pixel": [
+          12050,
+          4801
         ]
       },
       {

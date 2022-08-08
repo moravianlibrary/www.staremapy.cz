@@ -9,7 +9,7 @@
   "external_id": "uuid:e8bccfee-ecae-11e4-9f7c-001b63bd97ba",
   "title": "Post Karte von Deutschland nebst angränzenden Ländern in 3 Blatt",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b1807c-c66b-11e4-8731-1681e6b88ec1?page=uuid:e8bccfee-ecae-11e4-9f7c-001b63bd97ba",
@@ -24,15 +24,27 @@
   "georefereces": {
     "cutline": [
       [
-        475,
-        28
+        477,
+        27
+      ],
+      [
+        480,
+        137
       ],
       [
         483,
-        400
+        252
       ],
       [
-        243,
+        486,
+        404
+      ],
+      [
+        346,
+        405
+      ],
+      [
+        244,
         405
       ],
       [
@@ -40,31 +52,43 @@
         410
       ],
       [
-        204,
-        410
+        205,
+        411
       ],
       [
-        196,
-        405
-      ],
-      [
-        89,
+        198,
         406
       ],
       [
-        83,
-        32
+        89,
+        407
       ],
       [
-        475,
-        28
+        88,
+        402
+      ],
+      [
+        85,
+        217
+      ],
+      [
+        80,
+        30
+      ],
+      [
+        242,
+        29
+      ],
+      [
+        477,
+        27
       ]
     ],
     "created": "2020-07-07T12:42:25.437533+00:00",
     "transformation_method": "affine",
     "mapID": "57cd62c1-9599-4a17-849a-6381ab28cc13",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:42:25.437533+00:00",
+    "changed": "2022-08-05T10:29:02.893040+00:00",
     "gcps": [
       {
         "location": [
@@ -194,6 +218,36 @@
         "pixel": [
           194,
           181
+        ]
+      },
+      {
+        "location": [
+          25.952895739538164,
+          43.848333100541254
+        ],
+        "pixel": [
+          305,
+          390
+        ]
+      },
+      {
+        "location": [
+          25.350842933830098,
+          43.616438731623674
+        ],
+        "pixel": [
+          291,
+          397
+        ]
+      },
+      {
+        "location": [
+          24.89666723698239,
+          43.70614676538554
+        ],
+        "pixel": [
+          283,
+          398
         ]
       }
     ]
