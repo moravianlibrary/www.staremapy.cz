@@ -9,7 +9,7 @@
   "external_id": "uuid:7cd2a4ee-fa4e-11e4-9633-001b63bd97ba",
   "title": "Carte general de toute l´Europe, presente sur six feuilies",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b17e38-c66b-11e4-8731-1681e6b88ec1?page=uuid:7cd2a4ee-fa4e-11e4-9633-001b63bd97ba",
@@ -24,39 +24,55 @@
   "georefereces": {
     "cutline": [
       [
-        504,
-        34
+        506,
+        33
       ],
       [
         508,
-        282
+        160
+      ],
+      [
+        510,
+        283
       ],
       [
         356,
         287
       ],
       [
-        337,
-        368
-      ],
-      [
-        62,
+        338,
         371
       ],
       [
-        54,
-        37
+        58,
+        373
       ],
       [
-        504,
-        34
+        56,
+        275
+      ],
+      [
+        53,
+        142
+      ],
+      [
+        53,
+        36
+      ],
+      [
+        270,
+        35
+      ],
+      [
+        506,
+        33
       ]
     ],
     "created": "2020-07-07T12:44:18.083824+00:00",
     "transformation_method": "affine",
     "mapID": "0ca49f10-3b6e-4ae0-8fbd-e611bfa13b34",
     "affine_transformation": null,
-    "changed": "2022-07-27T17:02:58.459599+00:00",
+    "changed": "2022-08-10T13:38:56.501185+00:00",
     "gcps": [
       {
         "location": [

@@ -9,7 +9,7 @@
   "external_id": "uuid:4bcdb24c-ead6-11e4-8cbf-001b63bd97ba",
   "title": "Kriegs Schau-Platz in Preussischen Landen",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b26fdc-c66b-11e4-8731-1681e6b88ec1?page=uuid:4bcdb24c-ead6-11e4-8cbf-001b63bd97ba",
@@ -25,30 +25,34 @@
     "cutline": [
       [
         497,
-        419
+        416
       ],
       [
         496,
-        299
+        300
+      ],
+      [
+        576,
+        298
       ],
       [
         577,
-        297
-      ],
-      [
-        578,
         415
       ],
       [
+        530,
+        416
+      ],
+      [
         497,
-        419
+        416
       ]
     ],
     "created": "2022-06-25T12:01:09.453405+00:00",
     "transformation_method": "affine",
     "mapID": "5c1404bf-8f4a-424d-8f4d-9448d36c9fa0",
     "affine_transformation": null,
-    "changed": "2022-06-25T12:08:49.142500+00:00",
+    "changed": "2022-08-10T13:32:24.889192+00:00",
     "gcps": [
       {
         "location": [
@@ -78,26 +82,6 @@
         "pixel": [
           560,
           399
-        ]
-      },
-      {
-        "location": [
-          21.82191434002241,
-          56.04766978012884
-        ],
-        "pixel": [
-          543,
-          307
-        ]
-      },
-      {
-        "location": [
-          22.931533480647406,
-          56.003926738604065
-        ],
-        "pixel": [
-          566,
-          301
         ]
       },
       {
@@ -178,6 +162,26 @@
         "pixel": [
           534,
           415
+        ]
+      },
+      {
+        "location": [
+          21.846677403915244,
+          55.912788968777164
+        ],
+        "pixel": [
+          543,
+          307
+        ]
+      },
+      {
+        "location": [
+          22.931533480647406,
+          56.003926738604065
+        ],
+        "pixel": [
+          566,
+          301
         ]
       }
     ]

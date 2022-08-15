@@ -9,7 +9,7 @@
   "external_id": "uuid:be7b410b-49bb-11e7-9275-001b63bd97ba",
   "title": "Revúca",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:e9b90e4a-dda0-4376-a396-ab855210da06?page=uuid:be7b410b-49bb-11e7-9275-001b63bd97ba",
@@ -32,11 +32,23 @@
         392
       ],
       [
+        326,
+        391
+      ],
+      [
         69,
         391
       ],
       [
+        70,
+        194
+      ],
+      [
         71,
+        43
+      ],
+      [
+        308,
         43
       ],
       [
@@ -48,7 +60,7 @@
     "transformation_method": "affine",
     "mapID": "55f15263-4076-465a-bfb9-2a131fbcc46b",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:58:20.361569+00:00",
+    "changed": "2022-08-08T07:40:34.272852+00:00",
     "gcps": [
       {
         "location": [
@@ -118,6 +130,16 @@
         "pixel": [
           170,
           376
+        ]
+      },
+      {
+        "location": [
+          20.236028233138086,
+          48.62976975136925
+        ],
+        "pixel": [
+          445,
+          208
         ]
       }
     ]

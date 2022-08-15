@@ -9,7 +9,7 @@
   "external_id": "uuid:3b19878f-1658-11e5-9f8f-001b63bd97ba",
   "title": "Třeboň",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf55af6-00c9-11e5-b939-0800200c9a66?page=uuid:3b19878f-1658-11e5-9f8f-001b63bd97ba",
@@ -25,30 +25,30 @@
     "cutline": [
       [
         524,
+        49
+      ],
+      [
+        526,
+        384
+      ],
+      [
+        74,
+        386
+      ],
+      [
+        76,
         51
       ],
       [
         524,
-        385
-      ],
-      [
-        77,
-        387
-      ],
-      [
-        80,
-        51
-      ],
-      [
-        524,
-        51
+        49
       ]
     ],
     "created": "2020-07-07T12:51:28.703990+00:00",
     "transformation_method": "affine",
     "mapID": "2c7affe1-4653-46f5-80e8-ff607e833049",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:51:28.703990+00:00",
+    "changed": "2022-08-12T05:00:52.267163+00:00",
     "gcps": [
       {
         "location": [
@@ -112,16 +112,6 @@
       },
       {
         "location": [
-          14.37724004338017,
-          49.060021117228416
-        ],
-        "pixel": [
-          114,
-          304
-        ]
-      },
-      {
-        "location": [
           14.757170719939044,
           49.005157479138944
         ],
@@ -162,22 +152,22 @@
       },
       {
         "location": [
-          14.346840119271038,
-          49.1430160396454
-        ],
-        "pixel": [
-          87,
-          192
-        ]
-      },
-      {
-        "location": [
           14.420896000554608,
           49.22275505145845
         ],
         "pixel": [
           155,
           86
+        ]
+      },
+      {
+        "location": [
+          14.370325391796637,
+          49.08957798233024
+        ],
+        "pixel": [
+          108,
+          264
         ]
       }
     ]

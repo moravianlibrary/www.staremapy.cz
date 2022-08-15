@@ -9,7 +9,7 @@
   "external_id": "731dfb53-9792-43b5-8fb0-455bd69da81b",
   "title": "Ružomberok",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -32,12 +32,12 @@
         9774
       ],
       [
-        1250,
-        9572
+        1153,
+        9672
       ],
       [
-        1201,
-        1035
+        1173,
+        1018
       ],
       [
         12440,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "61a25586-455a-5ae7-b595-29e8a504fb63",
     "affine_transformation": null,
-    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "changed": "2022-08-15T02:10:39.704738+00:00",
     "gcps": [
       {
         "location": [
@@ -108,6 +108,16 @@
         "pixel": [
           7497,
           9383
+        ]
+      },
+      {
+        "location": [
+          19.25728056238409,
+          49.09126129403529
+        ],
+        "pixel": [
+          10797,
+          6545
         ]
       },
       {
@@ -188,6 +198,16 @@
         "pixel": [
           12137,
           7927
+        ]
+      },
+      {
+        "location": [
+          18.87018960354986,
+          49.198568112421384
+        ],
+        "pixel": [
+          2047,
+          2673
         ]
       }
     ]

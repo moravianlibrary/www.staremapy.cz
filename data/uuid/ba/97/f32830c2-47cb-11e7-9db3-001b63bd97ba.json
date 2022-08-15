@@ -9,7 +9,7 @@
   "external_id": "uuid:f32830c2-47cb-11e7-9db3-001b63bd97ba",
   "title": "Malacky",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:f5670b3b-4b4c-4029-8522-42cfed618c50?page=uuid:f32830c2-47cb-11e7-9db3-001b63bd97ba",
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "c7420214-3fba-46c0-a7b2-01d29b0d7b90",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:58:15.024533+00:00",
+    "changed": "2022-08-08T07:38:15.586006+00:00",
     "gcps": [
       {
         "location": [
@@ -148,6 +148,16 @@
         "pixel": [
           244,
           124
+        ]
+      },
+      {
+        "location": [
+          17.22279904025316,
+          48.34090095289935
+        ],
+        "pixel": [
+          437,
+          255
         ]
       }
     ]

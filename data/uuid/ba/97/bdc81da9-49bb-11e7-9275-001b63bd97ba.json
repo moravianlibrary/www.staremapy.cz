@@ -9,7 +9,7 @@
   "external_id": "uuid:bdc81da9-49bb-11e7-9275-001b63bd97ba",
   "title": "Prievidza",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:c21025e7-e57e-495a-840d-c840d361cc1d?page=uuid:bdc81da9-49bb-11e7-9275-001b63bd97ba",
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "8d04789b-edcb-4573-944a-2af71fd72699",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:59:09.071157+00:00",
+    "changed": "2022-08-09T05:11:53.214611+00:00",
     "gcps": [
       {
         "location": [
@@ -72,16 +72,6 @@
       },
       {
         "location": [
-          18.343574818778816,
-          48.7667782250935
-        ],
-        "pixel": [
-          82,
-          363
-        ]
-      },
-      {
-        "location": [
           18.405372914481934,
           48.984619832556234
         ],
@@ -98,6 +88,56 @@
         "pixel": [
           329,
           238
+        ]
+      },
+      {
+        "location": [
+          18.432376992861784,
+          48.950230056888415
+        ],
+        "pixel": [
+          163,
+          104
+        ]
+      },
+      {
+        "location": [
+          18.35246834109574,
+          48.8083821964768
+        ],
+        "pixel": [
+          90,
+          304
+        ]
+      },
+      {
+        "location": [
+          18.44049180049386,
+          48.762045531529395
+        ],
+        "pixel": [
+          170,
+          370
+        ]
+      },
+      {
+        "location": [
+          18.583166152568687,
+          48.77836432269643
+        ],
+        "pixel": [
+          299,
+          345
+        ]
+      },
+      {
+        "location": [
+          18.633463085664022,
+          48.96481811314666
+        ],
+        "pixel": [
+          346,
+          84
         ]
       }
     ]

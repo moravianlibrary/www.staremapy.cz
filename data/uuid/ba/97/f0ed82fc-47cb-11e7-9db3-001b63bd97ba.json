@@ -9,7 +9,7 @@
   "external_id": "uuid:f0ed82fc-47cb-11e7-9db3-001b63bd97ba",
   "title": "Liptovský Sv. Mikuláš",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:beb33382-7021-4566-b71e-3d5ead2e314c?page=uuid:f0ed82fc-47cb-11e7-9db3-001b63bd97ba",
@@ -32,11 +32,19 @@
         395
       ],
       [
+        291,
+        395
+      ],
+      [
         78,
         395
       ],
       [
         80,
+        41
+      ],
+      [
+        314,
         41
       ],
       [
@@ -48,7 +56,7 @@
     "transformation_method": "affine",
     "mapID": "7a1077de-e4da-4ddb-90e8-52aa129e1de2",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:58:37.634912+00:00",
+    "changed": "2022-08-08T07:54:28.249346+00:00",
     "gcps": [
       {
         "location": [
@@ -138,6 +146,16 @@
         "pixel": [
           128,
           132
+        ]
+      },
+      {
+        "location": [
+          19.797851341633997,
+          49.09581765897431
+        ],
+        "pixel": [
+          503,
+          258
         ]
       }
     ]

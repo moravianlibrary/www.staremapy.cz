@@ -9,7 +9,7 @@
   "external_id": "5316dd40-a697-11e8-ba56-5ef3fc9bb22f",
   "title": "Piešťany",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -56,7 +56,7 @@
     "transformation_method": "affine",
     "mapID": "6ddd4708-d8df-5aa7-8af3-5325dbf7767d",
     "affine_transformation": null,
-    "changed": "2022-07-05T04:15:35.569522+00:00",
+    "changed": "2022-08-11T06:35:54.315918+00:00",
     "gcps": [
       {
         "location": [
@@ -146,6 +146,16 @@
         "pixel": [
           4188,
           9324
+        ]
+      },
+      {
+        "location": [
+          17.53540341906431,
+          48.60228702363682
+        ],
+        "pixel": [
+          5806,
+          6603
         ]
       },
       {

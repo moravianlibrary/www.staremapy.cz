@@ -9,7 +9,7 @@
   "external_id": "uuid:bff9f1cf-49bb-11e7-9275-001b63bd97ba",
   "title": "Radvaň n. Dunajom",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:d325306f-7f06-4f5a-80b3-5819d69c8905?page=uuid:bff9f1cf-49bb-11e7-9275-001b63bd97ba",
@@ -40,6 +40,10 @@
         43
       ],
       [
+        299,
+        44
+      ],
+      [
         550,
         44
       ]
@@ -48,8 +52,18 @@
     "transformation_method": "affine",
     "mapID": "16a1bfab-c99c-44ea-9bbd-98515953968d",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:58:22.372911+00:00",
+    "changed": "2022-08-08T07:41:50.836175+00:00",
     "gcps": [
+      {
+        "location": [
+          18.77653490447912,
+          47.622897581844455
+        ],
+        "pixel": [
+          496,
+          217
+        ]
+      },
       {
         "location": [
           18.336747476187334,
@@ -108,6 +122,16 @@
         "pixel": [
           455,
           87
+        ]
+      },
+      {
+        "location": [
+          18.656145232878053,
+          47.533663674716195
+        ],
+        "pixel": [
+          380,
+          340
         ]
       }
     ]

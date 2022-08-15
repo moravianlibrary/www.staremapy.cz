@@ -9,7 +9,7 @@
   "external_id": "uuid:9e025a62-4ac0-11e7-bcbd-001b63bd97ba",
   "title": "Vlašim",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:d36c4fd2-494e-407b-a2f6-fce6dcad6a53?page=uuid:9e025a62-4ac0-11e7-bcbd-001b63bd97ba",
@@ -24,31 +24,47 @@
   "georefereces": {
     "cutline": [
       [
-        526,
-        45
-      ],
-      [
-        525,
-        387
-      ],
-      [
-        75,
-        388
-      ],
-      [
-        75,
+        527,
         44
       ],
       [
-        526,
-        45
+        527,
+        207
+      ],
+      [
+        527,
+        389
+      ],
+      [
+        284,
+        388
+      ],
+      [
+        73,
+        389
+      ],
+      [
+        74,
+        164
+      ],
+      [
+        74,
+        44
+      ],
+      [
+        298,
+        44
+      ],
+      [
+        527,
+        44
       ]
     ],
     "created": "2020-07-07T12:58:53.963159+00:00",
     "transformation_method": "affine",
     "mapID": "7ad61ccc-af3e-45c7-b988-3bb1150d6d43",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:58:53.963159+00:00",
+    "changed": "2022-08-08T07:58:06.610803+00:00",
     "gcps": [
       {
         "location": [
@@ -198,6 +214,16 @@
         "pixel": [
           373,
           125
+        ]
+      },
+      {
+        "location": [
+          15.304100824000574,
+          49.59247402906004
+        ],
+        "pixel": [
+          500,
+          260
         ]
       }
     ]

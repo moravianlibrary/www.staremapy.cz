@@ -9,7 +9,7 @@
   "external_id": "8d32bad0-4bfc-4c04-89a6-a0879a144ece",
   "title": "Ökörmező",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -76,7 +76,7 @@
     "transformation_method": "affine",
     "mapID": "45bed9ae-5430-50e2-8c07-89a76f67f219",
     "affine_transformation": null,
-    "changed": "2021-12-21T14:47:31.587742+00:00",
+    "changed": "2022-08-12T04:41:16.949329+00:00",
     "gcps": [
       {
         "location": [
@@ -156,6 +156,16 @@
         "pixel": [
           8640,
           9215
+        ]
+      },
+      {
+        "location": [
+          23.689837011392267,
+          48.58371084567719
+        ],
+        "pixel": [
+          10112,
+          6821
         ]
       },
       {

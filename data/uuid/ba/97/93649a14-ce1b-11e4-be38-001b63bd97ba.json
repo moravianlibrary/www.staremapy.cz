@@ -9,7 +9,7 @@
   "external_id": "uuid:93649a14-ce1b-11e4-be38-001b63bd97ba",
   "title": "Norddeutsche Bundesstaaten",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b25e7a-c66b-11e4-8731-1681e6b88ec1?page=uuid:93649a14-ce1b-11e4-be38-001b63bd97ba",
@@ -24,63 +24,87 @@
   "georefereces": {
     "cutline": [
       [
-        474,
-        42
+        476,
+        41
       ],
       [
-        476,
-        124
+        478,
+        126
       ],
       [
         486,
         132
       ],
       [
-        550,
-        134
+        551,
+        131
+      ],
+      [
+        551,
+        225
       ],
       [
         548,
         415
       ],
       [
-        248,
-        416
+        443,
+        415
       ],
       [
-        34,
-        406
+        298,
+        413
+      ],
+      [
+        230,
+        412
+      ],
+      [
+        33,
+        408
+      ],
+      [
+        35,
+        256
+      ],
+      [
+        37,
+        167
       ],
       [
         39,
-        171
-      ],
-      [
-        40,
-        95
+        85
       ],
       [
         135,
         87
       ],
       [
-        158,
-        82
+        149,
+        83
       ],
       [
-        158,
-        40
+        157,
+        76
       ],
       [
-        474,
-        42
+        157,
+        37
+      ],
+      [
+        312,
+        39
+      ],
+      [
+        476,
+        41
       ]
     ],
     "created": "2020-07-07T12:45:49.039993+00:00",
     "transformation_method": "affine",
     "mapID": "f2e069f9-6222-47cc-8e26-418b67221b1c",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:45:49.039993+00:00",
+    "changed": "2022-08-10T14:10:04.442853+00:00",
     "gcps": [
       {
         "location": [
@@ -220,6 +244,26 @@
         "pixel": [
           47,
           181
+        ]
+      },
+      {
+        "location": [
+          13.40560642060666,
+          52.51876008514532
+        ],
+        "pixel": [
+          326,
+          169
+        ]
+      },
+      {
+        "location": [
+          11.738551471734446,
+          51.79374273158973
+        ],
+        "pixel": [
+          275,
+          205
         ]
       }
     ]

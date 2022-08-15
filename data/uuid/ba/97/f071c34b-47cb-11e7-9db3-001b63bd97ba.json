@@ -9,7 +9,7 @@
   "external_id": "uuid:f071c34b-47cb-11e7-9db3-001b63bd97ba",
   "title": "Žilina",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:e0a1d6c4-dca6-4c9d-a741-853cd7922a70?page=uuid:f071c34b-47cb-11e7-9db3-001b63bd97ba",
@@ -24,31 +24,43 @@
   "georefereces": {
     "cutline": [
       [
-        600,
-        0
+        543,
+        36
       ],
       [
-        600,
-        443
+        543,
+        199
       ],
       [
-        0,
-        443
+        543,
+        382
       ],
       [
-        0,
-        0
+        287,
+        381
       ],
       [
-        600,
-        0
+        85,
+        382
+      ],
+      [
+        86,
+        183
+      ],
+      [
+        87,
+        36
+      ],
+      [
+        543,
+        36
       ]
     ],
     "created": "2020-07-07T12:58:34.526724+00:00",
     "transformation_method": "affine",
     "mapID": "39ed94b8-848f-4f6f-badf-8e59168f7e4c",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:58:34.526724+00:00",
+    "changed": "2022-08-08T07:46:33.121248+00:00",
     "gcps": [
       {
         "location": [

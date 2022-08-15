@@ -9,7 +9,7 @@
   "external_id": "uuid:ce4c9c43-4a91-11e7-9af4-001b63bd97ba",
   "title": "Slavonice",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:fa28f423-824f-4ee3-8d09-e2a374cf180a?page=uuid:ce4c9c43-4a91-11e7-9af4-001b63bd97ba",
@@ -28,6 +28,10 @@
         40
       ],
       [
+        532,
+        288
+      ],
+      [
         531,
         387
       ],
@@ -44,6 +48,10 @@
         40
       ],
       [
+        299,
+        39
+      ],
+      [
         532,
         40
       ]
@@ -52,7 +60,7 @@
     "transformation_method": "affine",
     "mapID": "1b315381-ab46-4ce4-bdd3-c83af102d029",
     "affine_transformation": null,
-    "changed": "2021-06-20T19:36:56.316808+00:00",
+    "changed": "2022-08-08T07:56:40.718786+00:00",
     "gcps": [
       {
         "location": [
@@ -142,6 +150,26 @@
         "pixel": [
           512,
           182
+        ]
+      },
+      {
+        "location": [
+          15.717274606082341,
+          48.82818021826998
+        ],
+        "pixel": [
+          425,
+          276
+        ]
+      },
+      {
+        "location": [
+          15.808774530445552,
+          48.78469482071398
+        ],
+        "pixel": [
+          509,
+          337
         ]
       }
     ]

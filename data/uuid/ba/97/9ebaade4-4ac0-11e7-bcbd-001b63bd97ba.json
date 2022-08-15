@@ -9,7 +9,7 @@
   "external_id": "uuid:9ebaade4-4ac0-11e7-bcbd-001b63bd97ba",
   "title": "Turzovka",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:fdfcd9c5-3b7e-4b57-b377-f29edb8d72db?page=uuid:9ebaade4-4ac0-11e7-bcbd-001b63bd97ba",
@@ -24,31 +24,47 @@
   "georefereces": {
     "cutline": [
       [
-        526,
-        45
-      ],
-      [
         528,
-        387
+        44
       ],
       [
-        73,
+        529,
+        294
+      ],
+      [
+        529,
+        389
+      ],
+      [
+        293,
         390
       ],
       [
-        74,
-        46
+        72,
+        391
       ],
       [
-        526,
+        73,
+        158
+      ],
+      [
+        73,
         45
+      ],
+      [
+        297,
+        44
+      ],
+      [
+        528,
+        44
       ]
     ],
     "created": "2020-07-07T12:58:28.039907+00:00",
     "transformation_method": "affine",
     "mapID": "00643ba6-ade6-432f-91df-f312286c6022",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:58:28.039907+00:00",
+    "changed": "2022-08-08T07:44:04.966706+00:00",
     "gcps": [
       {
         "location": [
@@ -138,6 +154,16 @@
         "pixel": [
           251,
           379
+        ]
+      },
+      {
+        "location": [
+          18.626578197124545,
+          49.40566574032502
+        ],
+        "pixel": [
+          341,
+          173
         ]
       }
     ]

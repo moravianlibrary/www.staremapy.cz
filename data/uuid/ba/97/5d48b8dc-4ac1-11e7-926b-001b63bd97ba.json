@@ -9,7 +9,7 @@
   "external_id": "uuid:5d48b8dc-4ac1-11e7-926b-001b63bd97ba",
   "title": "Vranov n. Topl'ou",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:b8a790aa-d0a7-4275-9a39-54fc76f957ae?page=uuid:5d48b8dc-4ac1-11e7-926b-001b63bd97ba",
@@ -28,8 +28,16 @@
         35
       ],
       [
+        536,
+        214
+      ],
+      [
         537,
         380
+      ],
+      [
+        314,
+        381
       ],
       [
         74,
@@ -37,6 +45,10 @@
       ],
       [
         74,
+        36
+      ],
+      [
+        302,
         36
       ],
       [
@@ -48,7 +60,7 @@
     "transformation_method": "affine",
     "mapID": "ab772fb8-3c3a-43b3-9856-0a6da49ff6be",
     "affine_transformation": null,
-    "changed": "2022-05-17T22:31:14.503324+00:00",
+    "changed": "2022-08-08T07:42:48.795257+00:00",
     "gcps": [
       {
         "location": [
@@ -138,6 +150,16 @@
         "pixel": [
           494,
           346
+        ]
+      },
+      {
+        "location": [
+          21.449890228753727,
+          48.88733943737725
+        ],
+        "pixel": [
+          184,
+          190
         ]
       }
     ]

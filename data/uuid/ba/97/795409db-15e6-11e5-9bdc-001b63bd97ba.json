@@ -9,7 +9,7 @@
   "external_id": "uuid:795409db-15e6-11e5-9bdc-001b63bd97ba",
   "title": "Topographische Karte der in Böhmen budweiser Kreises liegenden Sr. Durchlaucht dem Fürsten zu Schwarzenberg Herzog zu Krummau gehörigen Herrschaft Krummau mit Bestimmung des äussern Gränzen und Ausscheidung des im Umfange der Herrschaft befindlichen obrigkeitlichen Grundeigentums",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf50cf2-00c9-11e5-b939-0800200c9a66?page=uuid:795409db-15e6-11e5-9bdc-001b63bd97ba",
@@ -48,27 +48,39 @@
         225
       ],
       [
-        509,
+        507,
         229
       ],
       [
-        508,
+        506,
         388
       ],
       [
-        62,
-        388
+        445,
+        389
       ],
       [
-        68,
-        65
+        369,
+        389
       ],
       [
-        212,
-        65
+        63,
+        389
+      ],
+      [
+        66,
+        66
+      ],
+      [
+        213,
+        66
       ],
       [
         221,
+        96
+      ],
+      [
+        227,
         96
       ],
       [
@@ -92,7 +104,7 @@
     "transformation_method": "affine",
     "mapID": "46205460-38e7-41f2-aceb-d9d9624ca425",
     "affine_transformation": null,
-    "changed": "2022-06-20T16:02:39.252594+00:00",
+    "changed": "2022-08-12T05:08:53.705164+00:00",
     "gcps": [
       {
         "location": [
@@ -102,16 +114,6 @@
         "pixel": [
           429,
           385
-        ]
-      },
-      {
-        "location": [
-          14.469776342852626,
-          48.97273208492368
-        ],
-        "pixel": [
-          246,
-          195
         ]
       },
       {
@@ -126,26 +128,6 @@
       },
       {
         "location": [
-          14.38545663377706,
-          48.966235670766935
-        ],
-        "pixel": [
-          125,
-          204
-        ]
-      },
-      {
-        "location": [
-          14.617741992431505,
-          48.93209076052
-        ],
-        "pixel": [
-          460,
-          275
-        ]
-      },
-      {
-        "location": [
           14.446449119875126,
           48.89783602827353
         ],
@@ -156,22 +138,102 @@
       },
       {
         "location": [
-          14.360922814691191,
-          49.03370189613247
+          14.474321839642895,
+          48.97456353370504
         ],
         "pixel": [
-          88,
-          67
+          251,
+          188
         ]
       },
       {
         "location": [
-          14.355153157566075,
-          48.889913319827514
+          14.393846093867497,
+          48.93124404814702
         ],
         "pixel": [
-          78,
-          366
+          135,
+          278
+        ]
+      },
+      {
+        "location": [
+          14.360313357344591,
+          48.890601128521524
+        ],
+        "pixel": [
+          86,
+          364
+        ]
+      },
+      {
+        "location": [
+          14.37669933238635,
+          48.895092665813934
+        ],
+        "pixel": [
+          110,
+          356
+        ]
+      },
+      {
+        "location": [
+          14.385739419072927,
+          48.89292612181046
+        ],
+        "pixel": [
+          122,
+          360
+        ]
+      },
+      {
+        "location": [
+          14.437712001727643,
+          48.881577995958594
+        ],
+        "pixel": [
+          198,
+          384
+        ]
+      },
+      {
+        "location": [
+          14.46353014448939,
+          48.88797522657785
+        ],
+        "pixel": [
+          236,
+          369
+        ]
+      },
+      {
+        "location": [
+          14.60671979891768,
+          48.89166781813043
+        ],
+        "pixel": [
+          441,
+          363
+        ]
+      },
+      {
+        "location": [
+          14.626880885744242,
+          48.88268979238947
+        ],
+        "pixel": [
+          478,
+          380
+        ]
+      },
+      {
+        "location": [
+          14.406722140851707,
+          48.99477390674949
+        ],
+        "pixel": [
+          153,
+          145
         ]
       }
     ]

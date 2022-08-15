@@ -9,7 +9,7 @@
   "external_id": "uuid:584ba070-fa56-11e4-9da5-001b63bd97ba",
   "title": "Alsatia landgraviatus cum utroque marchionatu Badensi, Sundgovia, Brisgovia",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b1a214-c66b-11e4-8731-1681e6b88ec1?page=uuid:584ba070-fa56-11e4-9da5-001b63bd97ba",
@@ -24,55 +24,75 @@
   "georefereces": {
     "cutline": [
       [
-        581,
-        8
+        582,
+        7
       ],
       [
-        580,
+        581,
         148
       ],
       [
-        580,
-        312
+        582,
+        295
       ],
       [
-        580,
-        436
+        581,
+        334
       ],
       [
-        323,
-        434
+        581,
+        437
       ],
       [
-        26,
-        433
+        324,
+        435
+      ],
+      [
+        152,
+        435
       ],
       [
         25,
-        253
+        435
       ],
       [
-        26,
-        103
+        24,
+        350
+      ],
+      [
+        24,
+        255
+      ],
+      [
+        24,
+        215
+      ],
+      [
+        24,
+        171
+      ],
+      [
+        25,
+        102
       ],
       [
         45,
         106
       ],
       [
-        61,
+        64,
+        106
+      ],
+      [
+        79,
         107
       ],
       [
-        77,
+        95,
         107
       ],
       [
-        92,
-        108
-      ],
-      [
-        114,
+        112,
         107
       ],
       [
@@ -136,19 +156,23 @@
         19
       ],
       [
-        173,
+        171,
+        6
+      ],
+      [
+        379,
         7
       ],
       [
-        581,
-        8
+        582,
+        7
       ]
     ],
     "created": "2020-07-07T12:46:34.685717+00:00",
     "transformation_method": "affine",
     "mapID": "073d8bf7-3c63-4a21-9c63-e9658b2f6d2e",
     "affine_transformation": null,
-    "changed": "2022-05-24T19:37:07.490954+00:00",
+    "changed": "2022-08-10T14:14:01.849565+00:00",
     "gcps": [
       {
         "location": [
@@ -248,6 +272,36 @@
         "pixel": [
           410,
           14
+        ]
+      },
+      {
+        "location": [
+          8.63499710395467,
+          47.696008919584216
+        ],
+        "pixel": [
+          563,
+          375
+        ]
+      },
+      {
+        "location": [
+          7.943813524479855,
+          49.0368219217051
+        ],
+        "pixel": [
+          373,
+          52
+        ]
+      },
+      {
+        "location": [
+          8.631472667336148,
+          48.36213021523787
+        ],
+        "pixel": [
+          569,
+          227
         ]
       }
     ]

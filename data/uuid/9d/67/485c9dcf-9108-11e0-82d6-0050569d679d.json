@@ -9,7 +9,7 @@
   "external_id": "uuid:485c9dcf-9108-11e0-82d6-0050569d679d",
   "title": "Atlas minor, mapa ze strany: 579",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:187692de-9106-11e0-82d6-0050569d679d?page=uuid:485c9dcf-9108-11e0-82d6-0050569d679d",
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "35ddf6a9-de50-4e2a-98e7-1edd70efc64b",
     "affine_transformation": null,
-    "changed": "2022-06-25T08:12:41.412875+00:00",
+    "changed": "2022-08-10T07:21:15.204522+00:00",
     "gcps": [
       {
         "location": [
@@ -82,16 +82,6 @@
       },
       {
         "location": [
-          10.262586640480496,
-          37.17604598925648
-        ],
-        "pixel": [
-          1363,
-          2066
-        ]
-      },
-      {
-        "location": [
           11.059243250231114,
           37.06077677304066
         ],
@@ -108,6 +98,16 @@
         "pixel": [
           676,
           2060
+        ]
+      },
+      {
+        "location": [
+          10.171992826396263,
+          36.80188774073662
+        ],
+        "pixel": [
+          1277,
+          2567
         ]
       }
     ]

@@ -9,7 +9,7 @@
   "external_id": "29bbcf5e-a17b-4f3c-a7fc-31c3124f5309",
   "title": "Brno",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "91189003-cef8-5816-b681-23b1d417b165",
     "affine_transformation": null,
-    "changed": "2020-12-27T08:32:36.968466+00:00",
+    "changed": "2022-08-10T06:42:18.024021+00:00",
     "gcps": [
       {
         "location": [
@@ -98,6 +98,36 @@
         "pixel": [
           7602,
           5976
+        ]
+      },
+      {
+        "location": [
+          16.652303594063877,
+          49.13428049291656
+        ],
+        "pixel": [
+          15866,
+          4122
+        ]
+      },
+      {
+        "location": [
+          16.64887935351487,
+          49.14493520985917
+        ],
+        "pixel": [
+          16465,
+          6928
+        ]
+      },
+      {
+        "location": [
+          16.64605534190002,
+          49.132232616573646
+        ],
+        "pixel": [
+          16969,
+          3546
         ]
       }
     ]

@@ -9,7 +9,7 @@
   "external_id": "uuid:86559868-19cb-11e5-89a0-001b63bd97ba",
   "title": "Horní Planá - Vyšší Brod",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5a935-00c9-11e5-b939-0800200c9a66?page=uuid:86559868-19cb-11e5-89a0-001b63bd97ba",
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "93e436be-b7ca-4dbc-a814-b8abf6a4581e",
     "affine_transformation": null,
-    "changed": "2022-07-07T10:51:39.965711+00:00",
+    "changed": "2022-08-14T13:18:52.600330+00:00",
     "gcps": [
       {
         "location": [
@@ -178,6 +178,16 @@
         "pixel": [
           130,
           171
+        ]
+      },
+      {
+        "location": [
+          13.953445545388293,
+          48.7899005842732
+        ],
+        "pixel": [
+          68,
+          73
         ]
       }
     ]

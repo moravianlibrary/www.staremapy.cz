@@ -9,7 +9,7 @@
   "external_id": "uuid:3e6d5bf4-4a76-11e7-bf4a-001b63bd97ba",
   "title": "Sklabiná",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:e96da796-447f-47e1-8531-1889de850cf0?page=uuid:3e6d5bf4-4a76-11e7-bf4a-001b63bd97ba",
@@ -52,7 +52,7 @@
     "transformation_method": "affine",
     "mapID": "ce6d4158-e208-44c6-abdf-7b6f84a8b26c",
     "affine_transformation": null,
-    "changed": "2022-05-17T13:12:09.554400+00:00",
+    "changed": "2022-08-08T07:37:39.189168+00:00",
     "gcps": [
       {
         "location": [
@@ -112,6 +112,16 @@
         "pixel": [
           530,
           375
+        ]
+      },
+      {
+        "location": [
+          19.624053808382097,
+          48.06819113859632
+        ],
+        "pixel": [
+          342,
+          290
         ]
       }
     ]

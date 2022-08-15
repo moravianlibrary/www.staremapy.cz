@@ -9,7 +9,7 @@
   "external_id": "uuid:5f5be172-4ac1-11e7-926b-001b63bd97ba",
   "title": "Ústí Ipľu",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:a1c68f70-58e9-4513-a604-d08b3ba5cf86?page=uuid:5f5be172-4ac1-11e7-926b-001b63bd97ba",
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "ef166953-7860-4e2e-bbfe-bebdda572123",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:59:10.722869+00:00",
+    "changed": "2022-08-09T05:26:00.405826+00:00",
     "gcps": [
       {
         "location": [
@@ -72,16 +72,6 @@
       },
       {
         "location": [
-          18.857359647935354,
-          47.99800191007307
-        ],
-        "pixel": [
-          95,
-          45
-        ]
-      },
-      {
-        "location": [
           19.082424878608442,
           47.895376607858026
         ],
@@ -92,12 +82,32 @@
       },
       {
         "location": [
-          19.19913744944901,
-          47.99711167283576
+          18.850250595952534,
+          47.95422290191627
+        ],
+        "pixel": [
+          86,
+          106
+        ]
+      },
+      {
+        "location": [
+          19.198236227220008,
+          47.99762858665022
         ],
         "pixel": [
           422,
           47
+        ]
+      },
+      {
+        "location": [
+          19.114039725878065,
+          47.977084293270195
+        ],
+        "pixel": [
+          340,
+          75
         ]
       }
     ]
