@@ -13,7 +13,7 @@
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
+  "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": null,
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        15766,
-        0
+        7868,
+        9605
       ],
       [
-        15766,
-        11961
+        9122,
+        9644
       ],
       [
-        0,
-        11961
+        9184,
+        10991
       ],
       [
-        0,
-        0
+        8214,
+        10975
       ],
       [
-        15766,
-        0
+        7868,
+        9605
       ]
     ],
-    "created": "2014-11-25T17:20:00.573120+00:00",
+    "created": "2022-08-17T16:29:14.588754+00:00",
     "transformation_method": "affine",
     "mapID": "2e494e40-bfba-507a-be82-524892b9e881",
     "affine_transformation": null,
-    "changed": "2014-11-25T17:20:00.573120+00:00",
+    "changed": "2022-08-17T16:29:45.501542+00:00",
     "gcps": []
   },
   "pubdate": ["1825"]

@@ -13,7 +13,7 @@
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
+  "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": null,
@@ -48,8 +48,69 @@
     "transformation_method": "affine",
     "mapID": "cafeca65-633a-5c02-82a6-2acd1b146a33",
     "affine_transformation": null,
-    "changed": "2014-11-25T17:31:41.049230+00:00",
-    "gcps": []
+    "changed": "2022-08-21T16:09:54.550706+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.289460573303817,
+          49.4742694799225
+        ],
+        "pixel": [
+          3091,
+          3535
+        ]
+      },
+      {
+        "location": [
+          14.291735086548437,
+          49.474492566923885
+        ],
+        "pixel": [
+          2975,
+          1930
+        ]
+      },
+      {
+        "location": [
+          14.289739523041353,
+          49.47272527172575
+        ],
+        "pixel": [
+          5993,
+          2376
+        ]
+      },
+      {
+        "location": [
+          14.288559351074813,
+          49.47215010273075
+        ],
+        "pixel": [
+          7342,
+          3524
+        ]
+      },
+      {
+        "location": [
+          14.286553058731673,
+          49.47046987340926
+        ],
+        "pixel": [
+          13242,
+          5259
+        ]
+      },
+      {
+        "location": [
+          14.285855684387794,
+          49.47498056619713
+        ],
+        "pixel": [
+          1443,
+          7672
+        ]
+      }
+    ]
   },
   "pubdate": ["1762"]
 }

@@ -9,7 +9,7 @@
   "external_id": "uuid:15e4f87f-910b-11e0-82d6-0050569d679d",
   "title": "Speculum nauticum super navigatione maris Occidentalis confectum, continens omnes oras maritimas Galliae, Hispaniae et praecipuarum partium Angliae, in diuersis mappis maritimis comprehensum una cum usu et interpretatione carundem, accurata diligentia concinnatum, et elaboratum., mapa ze strany: [10]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:0cfeae45-910b-11e0-82d6-0050569d679d?page=uuid:15e4f87f-910b-11e0-82d6-0050569d679d",
@@ -28,8 +28,12 @@
         395
       ],
       [
-        2612,
-        1260
+        2672,
+        572
+      ],
+      [
+        2678,
+        1212
       ],
       [
         2678,
@@ -112,7 +116,7 @@
     "transformation_method": "affine",
     "mapID": "0ca17c2b-48b7-41d7-9576-64785a376776",
     "affine_transformation": null,
-    "changed": "2020-07-07T07:22:21.140010+00:00",
+    "changed": "2022-08-15T13:49:25.959731+00:00",
     "gcps": [
       {
         "location": [
@@ -262,6 +266,16 @@
         "pixel": [
           2459,
           1554
+        ]
+      },
+      {
+        "location": [
+          32.5036470370322,
+          45.346175430481594
+        ],
+        "pixel": [
+          1410,
+          3135
         ]
       }
     ]

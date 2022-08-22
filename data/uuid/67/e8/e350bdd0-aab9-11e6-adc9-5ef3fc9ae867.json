@@ -9,7 +9,7 @@
   "external_id": "uuid:e350bdd0-aab9-11e6-adc9-5ef3fc9ae867",
   "title": "Zápočtové cesty Jihlavského krajeZápočtové cesty. Jihlavský kraj, mapa ze strany: [19]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:92124fc0-9681-11e6-baa5-005056827e51?page=uuid:e350bdd0-aab9-11e6-adc9-5ef3fc9ae867",
@@ -60,7 +60,7 @@
     "transformation_method": "affine",
     "mapID": "e4bd79a2-f72c-4994-94c2-f1066a3506ca",
     "affine_transformation": null,
-    "changed": "2020-07-07T07:20:26.418370+00:00",
+    "changed": "2022-08-16T10:27:15.353075+00:00",
     "gcps": [
       {
         "location": [
@@ -104,16 +104,6 @@
       },
       {
         "location": [
-          15.588034115053368,
-          49.599019305246685
-        ],
-        "pixel": [
-          47,
-          614
-        ]
-      },
-      {
-        "location": [
           15.588172794144224,
           49.393343842403794
         ],
@@ -140,6 +130,16 @@
         "pixel": [
           434,
           479
+        ]
+      },
+      {
+        "location": [
+          15.578957259124051,
+          49.60675188844516
+        ],
+        "pixel": [
+          55,
+          557
         ]
       }
     ]

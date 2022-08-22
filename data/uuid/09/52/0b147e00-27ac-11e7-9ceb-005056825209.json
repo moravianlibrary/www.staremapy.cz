@@ -9,7 +9,7 @@
   "external_id": "uuid:0b147e00-27ac-11e7-9ceb-005056825209",
   "title": "Cestovní mapa království Českého s rozdělením dle soudních obvodů : v měřítku 1:600 000, mapa ze strany: [1]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:a4bbe6f0-1844-11e7-8bbb-005056827e52?page=uuid:0b147e00-27ac-11e7-9ceb-005056825209",
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "d7f2db0b-4438-425e-a521-cddf2a9571c8",
     "affine_transformation": null,
-    "changed": "2022-07-08T15:05:26.873590+00:00",
+    "changed": "2022-08-16T10:30:46.050273+00:00",
     "gcps": [
       {
         "location": [
@@ -128,6 +128,16 @@
         "pixel": [
           652,
           4116
+        ]
+      },
+      {
+        "location": [
+          14.375044937437831,
+          50.07015460201512
+        ],
+        "pixel": [
+          853,
+          4687
         ]
       }
     ]

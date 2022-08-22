@@ -9,7 +9,7 @@
   "external_id": "uuid:98a92180-526e-11e6-8361-5ef3fc9ae867",
   "title": "Obrázkové dějiny národa československého, mapa ze strany: 435",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:65cc3180-3f3b-11e6-ab2f-005056827e52?page=uuid:98a92180-526e-11e6-8361-5ef3fc9ae867",
@@ -48,18 +48,8 @@
     "transformation_method": "affine",
     "mapID": "663ce97d-65c1-4a65-8519-3c99cd88c955",
     "affine_transformation": null,
-    "changed": "2020-07-07T07:19:58.018101+00:00",
+    "changed": "2022-08-17T12:26:42.426506+00:00",
     "gcps": [
-      {
-        "location": [
-          14.32566358599049,
-          50.0832910913326
-        ],
-        "pixel": [
-          1203,
-          871
-        ]
-      },
       {
         "location": [
           14.34158517870289,
@@ -148,6 +138,16 @@
         "pixel": [
           248,
           1152
+        ]
+      },
+      {
+        "location": [
+          14.326199425331428,
+          50.083384278691625
+        ],
+        "pixel": [
+          1203,
+          871
         ]
       }
     ]

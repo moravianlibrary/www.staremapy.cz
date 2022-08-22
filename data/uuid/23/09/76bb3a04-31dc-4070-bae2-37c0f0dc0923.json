@@ -9,7 +9,7 @@
   "external_id": "76bb3a04-31dc-4070-bae2-37c0f0dc0923",
   "title": "Podrobná mapa Vysokých Tater 1:25 000",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -28,28 +28,32 @@
         14333
       ],
       [
-        5566,
-        15478
+        5576,
+        15486
       ],
       [
         5584,
         18948
       ],
       [
-        12669,
-        19011
+        9125,
+        18967
+      ],
+      [
+        12664,
+        19004
       ],
       [
         12675,
         18306
       ],
       [
-        13357,
-        18313
+        13350,
+        18314
       ],
       [
-        13334,
-        14365
+        13328,
+        14371
       ],
       [
         7923,
@@ -60,8 +64,18 @@
     "transformation_method": "affine",
     "mapID": "f75b562a-231e-5150-a0af-57fc2d530098",
     "affine_transformation": null,
-    "changed": "2019-01-30T13:29:11.834168+00:00",
+    "changed": "2022-08-16T13:14:32.701833+00:00",
     "gcps": [
+      {
+        "location": [
+          19.90233777871096,
+          49.21331187172348
+        ],
+        "pixel": [
+          8592,
+          16328
+        ]
+      },
       {
         "location": [
           19.59457765518069,

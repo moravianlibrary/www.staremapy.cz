@@ -9,7 +9,7 @@
   "external_id": "uuid:14ad14db-82df-11e0-bc9f-0050569d679d",
   "title": "Atlas Ameriquain Septentrional Contenant, mapa ze strany: [25]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:00748972-82df-11e0-bc9f-0050569d679d?page=uuid:14ad14db-82df-11e0-bc9f-0050569d679d",
@@ -50,46 +50,6 @@
     "affine_transformation": null,
     "changed": "2022-08-14T11:14:09.981262+00:00",
     "gcps": [
-      {
-        "location": [
-          -73.34737662618218,
-          44.82833045836841
-        ],
-        "pixel": [
-          15597,
-          4947
-        ]
-      },
-      {
-        "location": [
-          -73.31647757833062,
-          44.90230453673365
-        ],
-        "pixel": [
-          15693,
-          4446
-        ]
-      },
-      {
-        "location": [
-          -73.34428672139705,
-          45.01041754043959
-        ],
-        "pixel": [
-          15467,
-          3676
-        ]
-      },
-      {
-        "location": [
-          -73.07927646155501,
-          45.037764527457284
-        ],
-        "pixel": [
-          16605,
-          3486
-        ]
-      },
       {
         "location": [
           -73.24969526516989,
@@ -148,6 +108,46 @@
         "pixel": [
           15497,
           4962
+        ]
+      },
+      {
+        "location": [
+          -73.34737662618218,
+          44.82833045836841
+        ],
+        "pixel": [
+          15597,
+          4947
+        ]
+      },
+      {
+        "location": [
+          -73.31647757833062,
+          44.90230453673365
+        ],
+        "pixel": [
+          15693,
+          4446
+        ]
+      },
+      {
+        "location": [
+          -73.34428672139705,
+          45.01041754043959
+        ],
+        "pixel": [
+          15467,
+          3676
+        ]
+      },
+      {
+        "location": [
+          -73.07927646155501,
+          45.037764527457284
+        ],
+        "pixel": [
+          16605,
+          3486
         ]
       }
     ]

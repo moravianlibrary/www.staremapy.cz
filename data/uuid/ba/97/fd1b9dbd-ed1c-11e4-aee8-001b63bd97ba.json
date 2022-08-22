@@ -9,7 +9,7 @@
   "external_id": "uuid:fd1b9dbd-ed1c-11e4-aee8-001b63bd97ba",
   "title": "Operationum bellicarum in Germania ulterior representatio ... a primo Ian. 1759 ad finem Iunii 1762",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b226ee-c66b-11e4-8731-1681e6b88ec1?page=uuid:fd1b9dbd-ed1c-11e4-aee8-001b63bd97ba",
@@ -24,31 +24,67 @@
   "georefereces": {
     "cutline": [
       [
-        555,
-        35
-      ],
-      [
         553,
-        411
-      ],
-      [
-        34,
-        410
-      ],
-      [
-        38,
         33
       ],
       [
-        555,
-        35
+        553,
+        153
+      ],
+      [
+        579,
+        164
+      ],
+      [
+        576,
+        180
+      ],
+      [
+        552,
+        207
+      ],
+      [
+        552,
+        411
+      ],
+      [
+        381,
+        410
+      ],
+      [
+        106,
+        409
+      ],
+      [
+        35,
+        409
+      ],
+      [
+        36,
+        241
+      ],
+      [
+        37,
+        81
+      ],
+      [
+        37,
+        32
+      ],
+      [
+        287,
+        32
+      ],
+      [
+        553,
+        33
       ]
     ],
     "created": "2020-07-07T12:45:33.560269+00:00",
     "transformation_method": "affine",
     "mapID": "fefca573-279d-4468-a672-4debe42e3c2c",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:45:33.560269+00:00",
+    "changed": "2022-08-16T13:20:18.821864+00:00",
     "gcps": [
       {
         "location": [
@@ -142,16 +178,6 @@
       },
       {
         "location": [
-          12.648389085458934,
-          51.86521580227449
-        ],
-        "pixel": [
-          168,
-          82
-        ]
-      },
-      {
-        "location": [
           13.964380803347556,
           51.87220442923467
         ],
@@ -228,6 +254,36 @@
         "pixel": [
           357,
           164
+        ]
+      },
+      {
+        "location": [
+          12.645319753616214,
+          51.86655116427164
+        ],
+        "pixel": [
+          168,
+          82
+        ]
+      },
+      {
+        "location": [
+          17.034517999203224,
+          51.10907685667664
+        ],
+        "pixel": [
+          569,
+          169
+        ]
+      },
+      {
+        "location": [
+          11.96873467370751,
+          51.48334364182131
+        ],
+        "pixel": [
+          94,
+          126
         ]
       }
     ]
