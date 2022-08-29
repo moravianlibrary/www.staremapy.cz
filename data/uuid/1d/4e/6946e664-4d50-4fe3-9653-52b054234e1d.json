@@ -9,7 +9,7 @@
   "external_id": "763350-10_01",
   "title": "Geognostische uibersichts Karte der Oesterreichischen Monarchie.aus den in der Bibliothek der k.k. Hofkammer im Münz und Bergwesen vorhandenen und den von den k.k. montanistischen Aemtern eingesendeten Daten nebst den arbeiten und Mittheilungen000752744 an dem montanistischen Museo.1 mapa v 9 listech",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -25,34 +25,54 @@
     "cutline": [
       [
         894,
-        8700
+        8711
       ],
       [
-        12254,
-        8700
+        7508,
+        8747
       ],
       [
-        12254,
-        812
+        12271,
+        8781
       ],
       [
-        6574,
-        844
+        12288,
+        5292
+      ],
+      [
+        12297,
+        2999
+      ],
+      [
+        12308,
+        918
+      ],
+      [
+        9458,
+        892
+      ],
+      [
+        6561,
+        877
+      ],
+      [
+        913,
+        846
+      ],
+      [
+        905,
+        4312
       ],
       [
         894,
-        812
-      ],
-      [
-        894,
-        8700
+        8711
       ]
     ],
     "created": "2013-03-21T16:20:56.045520+00:00",
     "transformation_method": "affine",
     "mapID": "7dc659b2-97cb-575b-9427-515d79934ad2",
     "affine_transformation": null,
-    "changed": "2021-10-29T17:23:40.740453+00:00",
+    "changed": "2022-08-23T07:41:14.273138+00:00",
     "gcps": [
       {
         "location": [
@@ -186,16 +206,6 @@
       },
       {
         "location": [
-          17.806902998152243,
-          43.34147226181142
-        ],
-        "pixel": [
-          7723,
-          5040
-        ]
-      },
-      {
-        "location": [
           18.948440751170715,
           42.77638322349591
         ],
@@ -222,6 +232,16 @@
         "pixel": [
           10980,
           1147
+        ]
+      },
+      {
+        "location": [
+          17.95771855164212,
+          43.08325000401808
+        ],
+        "pixel": [
+          7908,
+          5531
         ]
       },
       {
@@ -422,6 +442,36 @@
         "pixel": [
           8584,
           1039
+        ]
+      },
+      {
+        "location": [
+          18.428450216495914,
+          42.87280169531283
+        ],
+        "pixel": [
+          9255,
+          6318
+        ]
+      },
+      {
+        "location": [
+          18.34675308457292,
+          42.710445162912606
+        ],
+        "pixel": [
+          8700,
+          6772
+        ]
+      },
+      {
+        "location": [
+          17.807330411094327,
+          43.34511313277315
+        ],
+        "pixel": [
+          7723,
+          5040
         ]
       }
     ]

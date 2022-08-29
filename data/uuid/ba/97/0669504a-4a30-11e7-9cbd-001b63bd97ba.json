@@ -9,7 +9,7 @@
   "external_id": "uuid:0669504a-4a30-11e7-9cbd-001b63bd97ba",
   "title": "Kutná Hora",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:d339b277-f487-4421-b03e-63d056f04b5f?page=uuid:0669504a-4a30-11e7-9cbd-001b63bd97ba",
@@ -28,8 +28,16 @@
         36
       ],
       [
+        518,
+        212
+      ],
+      [
         519,
         389
+      ],
+      [
+        252,
+        390
       ],
       [
         74,
@@ -37,7 +45,15 @@
       ],
       [
         74,
+        218
+      ],
+      [
+        74,
         39
+      ],
+      [
+        310,
+        37
       ],
       [
         517,
@@ -48,7 +64,7 @@
     "transformation_method": "affine",
     "mapID": "23a2d07c-bd66-450f-be2a-b91c9d06e893",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:59:11.651343+00:00",
+    "changed": "2022-08-22T11:37:41.945932+00:00",
     "gcps": [
       {
         "location": [
@@ -98,6 +114,46 @@
         "pixel": [
           99,
           45
+        ]
+      },
+      {
+        "location": [
+          15.076707428463173,
+          49.95709416843957
+        ],
+        "pixel": [
+          289,
+          97
+        ]
+      },
+      {
+        "location": [
+          15.252441158465587,
+          49.83384179045831
+        ],
+        "pixel": [
+          447,
+          269
+        ]
+      },
+      {
+        "location": [
+          14.975801038628118,
+          49.80279114991313
+        ],
+        "pixel": [
+          201,
+          314
+        ]
+      },
+      {
+        "location": [
+          14.851528720333082,
+          49.94926983262181
+        ],
+        "pixel": [
+          90,
+          108
         ]
       }
     ]

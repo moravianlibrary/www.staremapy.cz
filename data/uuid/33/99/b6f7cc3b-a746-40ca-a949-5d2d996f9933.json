@@ -12,7 +12,7 @@
   "external_id": "762637-10_02",
   "title": "Geologische Übersichts-Karte der Österreichisch-Ungarischen Monarchie.1 mapa ve 12 listech",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -30,31 +30,63 @@
   "georefereces": {
     "cutline": [
       [
-        12445,
-        1175
+        12469,
+        1155
       ],
       [
-        12488,
-        12491
+        12487,
+        4481
       ],
       [
-        676,
-        12522
+        12497,
+        8451
       ],
       [
-        666,
-        1218
+        12509,
+        12512
       ],
       [
-        12445,
-        1175
+        6668,
+        12526
+      ],
+      [
+        2242,
+        12531
+      ],
+      [
+        669,
+        12536
+      ],
+      [
+        661,
+        9183
+      ],
+      [
+        657,
+        5493
+      ],
+      [
+        646,
+        2368
+      ],
+      [
+        648,
+        1194
+      ],
+      [
+        6990,
+        1169
+      ],
+      [
+        12469,
+        1155
       ]
     ],
     "created": "2013-02-27T09:28:30.157760+00:00",
     "transformation_method": "affine",
     "mapID": "12c10e65-ff29-5cb3-bf0c-1da768e51599",
     "affine_transformation": null,
-    "changed": "2022-07-19T17:09:03.678333+00:00",
+    "changed": "2022-08-23T14:06:12.971928+00:00",
     "gcps": [
       {
         "location": [
@@ -208,12 +240,32 @@
       },
       {
         "location": [
-          16.596576757860387,
-          49.19344407427411
+          17.252719170633764,
+          49.59340813126002
         ],
         "pixel": [
           11983,
           6993
+        ]
+      },
+      {
+        "location": [
+          16.61037115650978,
+          49.19422125586041
+        ],
+        "pixel": [
+          10387,
+          8493
+        ]
+      },
+      {
+        "location": [
+          14.42015222756096,
+          50.087096360125116
+        ],
+        "pixel": [
+          5072,
+          4969
         ]
       }
     ]

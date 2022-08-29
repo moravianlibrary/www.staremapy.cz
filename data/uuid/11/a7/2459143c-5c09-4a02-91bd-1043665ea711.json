@@ -9,7 +9,7 @@
   "external_id": "761468-10_01",
   "title": "Neuer Hand-Atlas über alle Theile der Erde",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -227,7 +227,7 @@
     "transformation_method": "affine",
     "mapID": "c4059343-2264-5da9-a141-c4456400b3cb",
     "affine_transformation": null,
-    "changed": "2022-07-04T20:05:44.120996+00:00",
+    "changed": "2022-08-25T13:31:37.454468+00:00",
     "gcps": [
       {
         "location": [
@@ -551,16 +551,6 @@
       },
       {
         "location": [
-          14.493021665801635,
-          49.894830524511605
-        ],
-        "pixel": [
-          5018,
-          2151
-        ]
-      },
-      {
-        "location": [
           14.5040037047499,
           49.879021245284804
         ],
@@ -627,6 +617,16 @@
         "pixel": [
           5287,
           5326
+        ]
+      },
+      {
+        "location": [
+          14.493021665801635,
+          49.894830524511605
+        ],
+        "pixel": [
+          5018,
+          2156
         ]
       }
     ]

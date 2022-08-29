@@ -9,7 +9,7 @@
   "external_id": "uuid:66a063f8-47cb-11e7-83ec-001b63bd97ba",
   "title": "Mladá Boleslav",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:ca42c6ed-df0d-491b-b330-206753e0cf1c?page=uuid:66a063f8-47cb-11e7-83ec-001b63bd97ba",
@@ -29,15 +29,35 @@
       ],
       [
         523,
+        166
+      ],
+      [
+        523,
+        391
+      ],
+      [
+        276,
+        391
+      ],
+      [
+        77,
         391
       ],
       [
         78,
-        391
+        265
+      ],
+      [
+        79,
+        67
       ],
       [
         79,
         45
+      ],
+      [
+        305,
+        44
       ],
       [
         523,
@@ -48,7 +68,7 @@
     "transformation_method": "affine",
     "mapID": "c47e8257-4588-4a53-8530-244b5eb2fc25",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:58:32.061597+00:00",
+    "changed": "2022-08-22T08:35:20.166994+00:00",
     "gcps": [
       {
         "location": [
@@ -148,6 +168,16 @@
         "pixel": [
           468,
           269
+        ]
+      },
+      {
+        "location": [
+          15.171000303477527,
+          50.30720655577238
+        ],
+        "pixel": [
+          378,
+          311
         ]
       }
     ]

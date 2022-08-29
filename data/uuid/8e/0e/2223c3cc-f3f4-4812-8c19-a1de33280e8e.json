@@ -9,7 +9,7 @@
   "external_id": "767912-10_10",
   "title": "Atlas der Personalkredit-Bezirke der Haupt- und Zweiganstalten der Oesterreichisch-ungarischen Bank = Az Osztrák-Magyar Bank Fö- és Fiókintézetei Személyhitel-Kerületeinek Térkép-Gyüjteménye",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,67 @@
   "georefereces": {
     "cutline": [
       [
-        5334,
-        590
+        5359,
+        567
+      ],
+      [
+        5352,
+        1244
+      ],
+      [
+        5359,
+        2111
       ],
       [
         5368,
-        4402
+        3099
       ],
       [
-        763,
-        4429
+        5382,
+        4419
       ],
       [
-        704,
-        638
+        3664,
+        4430
       ],
       [
-        5334,
-        590
+        1701,
+        4446
+      ],
+      [
+        741,
+        4451
+      ],
+      [
+        719,
+        2805
+      ],
+      [
+        698,
+        1296
+      ],
+      [
+        683,
+        613
+      ],
+      [
+        1827,
+        597
+      ],
+      [
+        2904,
+        585
+      ],
+      [
+        5359,
+        567
       ]
     ],
     "created": "2013-02-27T09:28:09.431170+00:00",
     "transformation_method": "affine",
     "mapID": "65032cdd-c85b-5a87-8ff7-dc0406585609",
     "affine_transformation": null,
-    "changed": "2022-08-12T08:57:05.315402+00:00",
+    "changed": "2022-08-23T13:12:01.519787+00:00",
     "gcps": [
       {
         "location": [
@@ -188,6 +224,16 @@
         "pixel": [
           1030,
           2545
+        ]
+      },
+      {
+        "location": [
+          12.99426718045252,
+          47.22859230265507
+        ],
+        "pixel": [
+          3028,
+          3231
         ]
       }
     ]

@@ -9,7 +9,7 @@
   "external_id": "763169-10_02",
   "title": "Neueste Karte von Hindostan, Bengalen etc..Mit der Anzeige der Strassen, Paesse, und genauester Eintheilung der britischen Besitzungen in Ostindien",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,31 +27,59 @@
   "georefereces": {
     "cutline": [
       [
-        15334,
-        894
+        15394,
+        839
       ],
       [
-        15321,
-        11835
+        15371,
+        5238
       ],
       [
-        1497,
-        11825
+        15348,
+        9125
       ],
       [
-        1563,
-        816
+        15338,
+        11950
       ],
       [
-        15334,
-        894
+        7809,
+        11900
+      ],
+      [
+        3529,
+        11885
+      ],
+      [
+        1459,
+        11880
+      ],
+      [
+        1482,
+        6872
+      ],
+      [
+        1516,
+        3277
+      ],
+      [
+        1537,
+        754
+      ],
+      [
+        8124,
+        775
+      ],
+      [
+        15394,
+        839
       ]
     ],
     "created": "2013-02-27T09:29:44.376860+00:00",
     "transformation_method": "affine",
     "mapID": "b7aa1481-265d-554c-b347-562a0ca47bfc",
     "affine_transformation": null,
-    "changed": "2022-06-15T12:20:35.738634+00:00",
+    "changed": "2022-08-24T10:44:29.153379+00:00",
     "gcps": [
       {
         "location": [
@@ -91,16 +119,6 @@
         "pixel": [
           7499,
           10387
-        ]
-      },
-      {
-        "location": [
-          79.06525070554565,
-          21.14122237327753
-        ],
-        "pixel": [
-          2603,
-          8595
         ]
       },
       {
@@ -195,22 +213,22 @@
       },
       {
         "location": [
-          77.60725019101561,
-          17.341339646545237
-        ],
-        "pixel": [
-          1778,
-          11278
-        ]
-      },
-      {
-        "location": [
           88.88730360478671,
           29.265219424590512
         ],
         "pixel": [
           9929,
           1168
+        ]
+      },
+      {
+        "location": [
+          77.60593831235204,
+          17.350196302734005
+        ],
+        "pixel": [
+          1778,
+          11278
         ]
       },
       {
@@ -301,6 +319,16 @@
         "pixel": [
           12247,
           1220
+        ]
+      },
+      {
+        "location": [
+          79.08071923847099,
+          21.150488224342865
+        ],
+        "pixel": [
+          2603,
+          8595
         ]
       }
     ]

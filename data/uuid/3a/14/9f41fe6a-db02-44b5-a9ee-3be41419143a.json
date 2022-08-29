@@ -9,7 +9,7 @@
   "external_id": "767584-10_01",
   "title": "Karte der Markgrafschaft Maehren und des Herzogthumes Schlesien",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,35 +27,43 @@
   "georefereces": {
     "cutline": [
       [
-        860,
-        942
+        858,
+        949
       ],
       [
-        5746,
-        946
+        2854,
+        954
       ],
       [
-        5731,
-        3006
+        5729,
+        962
       ],
       [
-        3007,
-        4652
+        5713,
+        2993
       ],
       [
-        810,
+        2982,
         4634
       ],
       [
-        860,
-        942
+        838,
+        4623
+      ],
+      [
+        848,
+        3072
+      ],
+      [
+        858,
+        949
       ]
     ],
     "created": "2022-06-29T15:20:43.706625+00:00",
     "transformation_method": "affine",
     "mapID": "80948d14-d618-577f-afab-eafab3d7ffa6",
     "affine_transformation": null,
-    "changed": "2022-06-29T15:23:42.044155+00:00",
+    "changed": "2022-08-23T06:23:05.254144+00:00",
     "gcps": [
       {
         "location": [
@@ -155,6 +163,16 @@
         "pixel": [
           986,
           1544
+        ]
+      },
+      {
+        "location": [
+          16.63509402548892,
+          49.201292408781256
+        ],
+        "pixel": [
+          3646,
+          2521
         ]
       }
     ]

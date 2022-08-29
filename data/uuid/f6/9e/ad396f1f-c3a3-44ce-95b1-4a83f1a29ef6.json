@@ -9,7 +9,7 @@
   "external_id": "762188-10_03",
   "title": "Die Markgrafschaft Mähren mit dem Herzogthume Schlesien.in acht, die einzelnen Kreise darstellenden Blättern, nach den neuesten astronomischen und geometrischen Messungen. Als Land-, Wasser-, Strassen-, Eisenbahn-, Post- und Herrschafts-Gränzkarte; Ein Supplement zu den topographischen Werken von Wolny, Ens, Kneifel",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -26,6 +26,10 @@
       [
         10763,
         1680
+      ],
+      [
+        10849,
+        2316
       ],
       [
         10797,
@@ -96,7 +100,7 @@
     "transformation_method": "affine",
     "mapID": "a6e67d28-ec4e-50cd-a74c-1c04b9ad65f9",
     "affine_transformation": null,
-    "changed": "2022-07-27T09:08:08.524576+00:00",
+    "changed": "2022-08-25T08:34:43.387220+00:00",
     "gcps": [
       {
         "location": [
@@ -606,6 +610,16 @@
         "pixel": [
           4033,
           7881
+        ]
+      },
+      {
+        "location": [
+          17.854426131414677,
+          49.22191268731362
+        ],
+        "pixel": [
+          7107,
+          3866
         ]
       }
     ]

@@ -9,7 +9,7 @@
   "external_id": "uuid:5bef73c0-635b-11e3-8c6a-005056825209",
   "title": "Bok po boku. Díl 1, kniha 1-2, mapa ze strany: 41",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:97beda60-1e93-11e3-9319-005056827e51?page=uuid:5bef73c0-635b-11e3-8c6a-005056825209",
@@ -24,42 +24,36 @@
   "georefereces": {
     "cutline": [
       [
-        1086,
-        235
+        1093,
+        234
       ],
       [
-        1084,
-        1580
+        1089,
+        1591
       ],
       [
-        114,
-        1580
+        108,
+        1588
       ],
       [
-        125,
-        236
+        118,
+        502
       ],
       [
-        1086,
-        235
+        119,
+        232
+      ],
+      [
+        1093,
+        234
       ]
     ],
     "created": "2020-07-07T07:20:30.084380+00:00",
     "transformation_method": "affine",
     "mapID": "b11fe5f2-df79-4eb3-a877-6f1f299e1b7e",
     "affine_transformation": null,
-    "changed": "2020-07-07T07:20:30.084380+00:00",
+    "changed": "2022-08-22T11:48:06.939162+00:00",
     "gcps": [
-      {
-        "location": [
-          11.508313237072745,
-          45.875187220343605
-        ],
-        "pixel": [
-          275,
-          846
-        ]
-      },
       {
         "location": [
           11.552207422234492,
@@ -118,6 +112,26 @@
         "pixel": [
           855,
           1153
+        ]
+      },
+      {
+        "location": [
+          11.50955804066686,
+          45.875293379412796
+        ],
+        "pixel": [
+          275,
+          846
+        ]
+      },
+      {
+        "location": [
+          11.658168003269306,
+          45.85995200937765
+        ],
+        "pixel": [
+          1062,
+          969
         ]
       }
     ]

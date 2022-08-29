@@ -9,7 +9,7 @@
   "external_id": "uuid:5dfee97e-4ac1-11e7-926b-001b63bd97ba",
   "title": "Valtice",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:dc6963be-71e7-428d-9019-d3ca581ce263?page=uuid:5dfee97e-4ac1-11e7-926b-001b63bd97ba",
@@ -24,31 +24,47 @@
   "georefereces": {
     "cutline": [
       [
-        532,
-        43
+        534,
+        41
       ],
       [
-        532,
-        388
+        533,
+        162
+      ],
+      [
+        533,
+        389
+      ],
+      [
+        268,
+        389
+      ],
+      [
+        71,
+        389
+      ],
+      [
+        72,
+        168
       ],
       [
         73,
-        388
-      ],
-      [
-        74,
         42
       ],
       [
-        532,
-        43
+        304,
+        41
+      ],
+      [
+        534,
+        41
       ]
     ],
     "created": "2020-07-07T12:58:27.139037+00:00",
     "transformation_method": "affine",
     "mapID": "17023e0b-7668-49a7-bb67-433abff8ac52",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:58:27.139037+00:00",
+    "changed": "2022-08-22T08:34:18.032190+00:00",
     "gcps": [
       {
         "location": [
@@ -158,6 +174,26 @@
         "pixel": [
           359,
           215
+        ]
+      },
+      {
+        "location": [
+          16.51039457831893,
+          48.64395524167702
+        ],
+        "pixel": [
+          236,
+          189
+        ]
+      },
+      {
+        "location": [
+          16.573148185974222,
+          48.56962181856963
+        ],
+        "pixel": [
+          292,
+          291
         ]
       }
     ]

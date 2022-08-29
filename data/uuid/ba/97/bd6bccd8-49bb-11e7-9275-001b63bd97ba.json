@@ -9,7 +9,7 @@
   "external_id": "uuid:bd6bccd8-49bb-11e7-9275-001b63bd97ba",
   "title": "Prešov",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:c61567b8-7684-4517-9ab3-0e9f9e06cd32?page=uuid:bd6bccd8-49bb-11e7-9275-001b63bd97ba",
@@ -28,8 +28,16 @@
         44
       ],
       [
+        535,
+        215
+      ],
+      [
         534,
         390
+      ],
+      [
+        316,
+        389
       ],
       [
         76,
@@ -37,6 +45,10 @@
       ],
       [
         78,
+        44
+      ],
+      [
+        306,
         44
       ],
       [
@@ -48,7 +60,7 @@
     "transformation_method": "affine",
     "mapID": "3243ff47-3652-4f48-a1d7-2664a81e84ad",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:59:07.649803+00:00",
+    "changed": "2022-08-22T11:36:16.656557+00:00",
     "gcps": [
       {
         "location": [
@@ -98,6 +110,36 @@
         "pixel": [
           273,
           216
+        ]
+      },
+      {
+        "location": [
+          21.192311191722254,
+          49.06439678532769
+        ],
+        "pixel": [
+          407,
+          299
+        ]
+      },
+      {
+        "location": [
+          20.90946100828522,
+          49.17101679479006
+        ],
+        "pixel": [
+          149,
+          151
+        ]
+      },
+      {
+        "location": [
+          21.04721435307233,
+          49.167264045674045
+        ],
+        "pixel": [
+          275,
+          158
         ]
       }
     ]

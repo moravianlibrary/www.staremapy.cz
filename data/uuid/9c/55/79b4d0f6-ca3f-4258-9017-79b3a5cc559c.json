@@ -9,7 +9,7 @@
   "external_id": "794389-10_01",
   "title": "Novissima Et Accuratissima Decem Austriacarum In Belgio Provinciarum Tabula.ut sunt Ducatus Brabantiae, Luxemburgensis, Limburgensis, et Geldriae, Comitatus Flandriae, Artesiae, Hannoniae, et Namurci. Dominium Mechliniense, et S. R. Imp. Marchionatus. Finitimae quoque Regiones, ut Ducatus Cliviae & Iuliacensis, Comitatus Zelandiae, integre ibidem demonstrantur. Accedunt Electoratus Coloniensis, Trevirensis, Moguntinensis, Ducatus Montensis et Westphaliae, Principatus Nassoviae & Comitatus March",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,80 +27,126 @@
   "georefereces": {
     "cutline": [
       [
-        1164,
-        12233
+        1142,
+        12256
       ],
       [
-        7231,
-        12286
+        3036,
+        12274
       ],
       [
-        14612,
-        12271
+        5992,
+        12292
       ],
       [
-        14590,
-        1622
+        7265,
+        12297
       ],
       [
-        12545,
-        1610
+        11073,
+        12303
+      ],
+      [
+        14627,
+        12289
+      ],
+      [
+        14609,
+        8884
+      ],
+      [
+        14601,
+        5734
+      ],
+      [
+        14610,
+        1606
+      ],
+      [
+        12520,
+        1600
       ],
       [
         12396,
         1381
       ],
       [
-        7259,
-        1393
+        9793,
+        1373
       ],
       [
-        6961,
-        1235
+        7278,
+        1375
       ],
       [
-        6403,
-        1387
+        7148,
+        1259
       ],
       [
-        6281,
-        1609
+        6985,
+        1243
       ],
       [
-        1194,
-        1582
+        7012,
+        1369
       ],
       [
-        1183,
-        5788
+        6268,
+        1370
+      ],
+      [
+        6272,
+        1586
+      ],
+      [
+        1174,
+        1567
+      ],
+      [
+        1161,
+        5790
       ],
       [
         919,
         5994
       ],
       [
-        929,
-        9562
+        909,
+        7706
       ],
       [
-        917,
-        9780
+        910,
+        9573
       ],
       [
-        1181,
-        9971
+        931,
+        9864
       ],
       [
-        1164,
-        12233
+        1154,
+        9965
+      ],
+      [
+        1142,
+        12256
       ]
     ],
     "created": "2013-03-23T15:44:53.486450+00:00",
     "transformation_method": "affine",
     "mapID": "06b34fb4-4f7a-57f9-80dd-aa43b583e1b2",
     "affine_transformation": null,
-    "changed": "2022-07-21T18:48:21.298257+00:00",
+    "changed": "2022-08-23T13:22:47.073901+00:00",
     "gcps": [
+      {
+        "location": [
+          2.510253936726639,
+          49.90778671535219
+        ],
+        "pixel": [
+          2548,
+          11068
+        ]
+      },
       {
         "location": [
           2.661961679,
@@ -173,16 +219,6 @@
       },
       {
         "location": [
-          6.133771306,
-          49.609748487
-        ],
-        "pixel": [
-          13048,
-          11860
-        ]
-      },
-      {
-        "location": [
           6.180041462,
           51.242824594
         ],
@@ -229,6 +265,26 @@
         "pixel": [
           6838,
           11279
+        ]
+      },
+      {
+        "location": [
+          6.130126124908625,
+          49.61167424936258
+        ],
+        "pixel": [
+          13048,
+          11860
+        ]
+      },
+      {
+        "location": [
+          5.788955608116208,
+          50.132306057477535
+        ],
+        "pixel": [
+          12118,
+          9702
         ]
       },
       {
@@ -369,6 +425,16 @@
         "pixel": [
           6631,
           2776
+        ]
+      },
+      {
+        "location": [
+          3.073726107670111,
+          49.746060872989545
+        ],
+        "pixel": [
+          4067,
+          11751
         ]
       }
     ]

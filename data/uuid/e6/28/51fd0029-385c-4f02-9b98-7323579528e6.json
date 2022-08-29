@@ -9,7 +9,7 @@
   "external_id": "760089-10_06",
   "title": "Geologische Karte der im Reichsrathe vertretenen Königreiche und Länder der Österreich-Ungarischen Monarchie.auf Grundlage der Specialkarte i. M. 1:75.000 des k.u.k. Militär-geographischen Institutes..Sechste Lieferung",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,42 +27,64 @@
   "georefereces": {
     "cutline": [
       [
-        1956,
-        1879
+        1936,
+        1856
+      ],
+      [
+        1930,
+        3000
       ],
       [
         1908,
-        7995
+        5784
       ],
       [
-        9872,
-        7978
+        1891,
+        8026
       ],
       [
-        9895,
-        1857
+        3761,
+        8017
       ],
       [
-        1956,
-        1879
+        7214,
+        8010
+      ],
+      [
+        9900,
+        8008
+      ],
+      [
+        9901,
+        7265
+      ],
+      [
+        9904,
+        4517
+      ],
+      [
+        9912,
+        1847
+      ],
+      [
+        7483,
+        1852
+      ],
+      [
+        5996,
+        1847
+      ],
+      [
+        1936,
+        1856
       ]
     ],
     "created": "2013-03-21T17:26:24.714660+00:00",
     "transformation_method": "affine",
     "mapID": "7d5f7b16-142e-597c-9d8b-888f9114e105",
     "affine_transformation": null,
-    "changed": "2022-07-20T23:19:50.429569+00:00",
+    "changed": "2022-08-25T08:53:42.434314+00:00",
     "gcps": [
-      {
-        "location": [
-          17.08162572313487,
-          49.87797074453201
-        ],
-        "pixel": [
-          6083,
-          4963
-        ]
-      },
       {
         "location": [
           16.917057037,
@@ -231,6 +253,16 @@
         "pixel": [
           6370,
           5343
+        ]
+      },
+      {
+        "location": [
+          17.08302868484336,
+          49.87819556343371
+        ],
+        "pixel": [
+          5903,
+          4827
         ]
       },
       {

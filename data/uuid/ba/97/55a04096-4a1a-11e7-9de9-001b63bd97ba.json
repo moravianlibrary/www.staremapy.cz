@@ -9,7 +9,7 @@
   "external_id": "uuid:55a04096-4a1a-11e7-9de9-001b63bd97ba",
   "title": "Kadaň",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:e9fc0349-a7a4-48ec-aa53-a56e44712ffd?page=uuid:55a04096-4a1a-11e7-9de9-001b63bd97ba",
@@ -32,12 +32,24 @@
         390
       ],
       [
+        282,
+        389
+      ],
+      [
         77,
         390
       ],
       [
         78,
+        119
+      ],
+      [
+        78,
         44
+      ],
+      [
+        299,
+        43
       ],
       [
         525,
@@ -48,7 +60,7 @@
     "transformation_method": "affine",
     "mapID": "18996cf4-75b5-4d8b-898b-fa7c20b5b09e",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:58:21.081270+00:00",
+    "changed": "2022-08-22T08:32:37.261182+00:00",
     "gcps": [
       {
         "location": [
@@ -188,6 +200,16 @@
         "pixel": [
           465,
           116
+        ]
+      },
+      {
+        "location": [
+          13.137416040319902,
+          50.300291153959904
+        ],
+        "pixel": [
+          349,
+          319
         ]
       }
     ]

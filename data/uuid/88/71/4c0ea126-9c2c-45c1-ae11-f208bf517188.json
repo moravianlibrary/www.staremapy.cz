@@ -9,7 +9,7 @@
   "external_id": "762196-10_01",
   "title": "Geologische Karte der Markgrafschaft Mähren und des Herzogthumes Schlesien",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,32 +27,52 @@
   "georefereces": {
     "cutline": [
       [
-        13431,
-        1459
+        13469,
+        1418
       ],
       [
-        13412,
-        4117
+        13440,
+        3684
       ],
       [
-        13220,
-        17688
+        13418,
+        4934
       ],
       [
-        8697,
-        17325
+        13388,
+        7291
       ],
       [
-        6446,
-        17205
+        13340,
+        11146
       ],
       [
-        1532,
-        14697
+        13303,
+        15082
       ],
       [
-        1571,
-        11380
+        13276,
+        17768
+      ],
+      [
+        9884,
+        17723
+      ],
+      [
+        7124,
+        17684
+      ],
+      [
+        4656,
+        16481
+      ],
+      [
+        1488,
+        14586
+      ],
+      [
+        1535,
+        11264
       ],
       [
         6070,
@@ -67,19 +87,19 @@
         3972
       ],
       [
-        11538,
-        1427
+        11489,
+        1390
       ],
       [
-        13431,
-        1459
+        13469,
+        1418
       ]
     ],
     "created": "2013-02-27T09:28:31.001800+00:00",
     "transformation_method": "affine",
     "mapID": "c5720ca5-137b-5c92-b138-dd7ae204ce61",
     "affine_transformation": null,
-    "changed": "2021-10-27T03:50:31.610781+00:00",
+    "changed": "2022-08-23T06:51:15.381768+00:00",
     "gcps": [
       {
         "location": [
@@ -539,6 +559,16 @@
         "pixel": [
           8123,
           12015
+        ]
+      },
+      {
+        "location": [
+          17.01127804067168,
+          50.15259167634346
+        ],
+        "pixel": [
+          12821,
+          4322
         ]
       },
       {

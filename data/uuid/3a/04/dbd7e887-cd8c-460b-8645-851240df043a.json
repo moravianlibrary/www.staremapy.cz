@@ -9,7 +9,7 @@
   "external_id": "762496-10_19",
   "title": "Special Karte der Markgrafschaft Maehren, mit den Antheilen des Herzogthums Schlesien",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,43 +27,55 @@
   "georefereces": {
     "cutline": [
       [
-        7032,
-        1966
+        7519,
+        1957
+      ],
+      [
+        7469,
+        3236
       ],
       [
         7168,
         3788
       ],
       [
-        6600,
-        3935
+        6701,
+        4166
       ],
       [
-        5758,
-        4127
+        6102,
+        4895
       ],
       [
-        4980,
-        4981
+        4928,
+        6263
       ],
       [
-        1914,
-        6198
+        1918,
+        7131
       ],
       [
-        1934,
-        1958
+        1907,
+        6186
       ],
       [
-        7032,
-        1966
+        1915,
+        2861
+      ],
+      [
+        1917,
+        1943
+      ],
+      [
+        7519,
+        1957
       ]
     ],
     "created": "2013-02-27T09:29:15.235180+00:00",
     "transformation_method": "affine",
     "mapID": "6c933073-44cd-55f6-b380-a629d9d39424",
     "affine_transformation": null,
-    "changed": "2021-10-29T17:08:04.922971+00:00",
+    "changed": "2022-08-23T07:31:21.389147+00:00",
     "gcps": [
       {
         "location": [
@@ -223,6 +235,36 @@
         "pixel": [
           2177,
           5648
+        ]
+      },
+      {
+        "location": [
+          17.781367205108605,
+          48.925262394850904
+        ],
+        "pixel": [
+          5358,
+          3659
+        ]
+      },
+      {
+        "location": [
+          17.620964097462036,
+          48.84202310837199
+        ],
+        "pixel": [
+          3486,
+          5209
+        ]
+      },
+      {
+        "location": [
+          17.896515368289904,
+          48.951806191247016
+        ],
+        "pixel": [
+          6690,
+          3128
         ]
       }
     ]

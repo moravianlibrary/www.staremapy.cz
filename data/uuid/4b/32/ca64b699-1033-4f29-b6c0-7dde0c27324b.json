@@ -12,7 +12,7 @@
   "external_id": "758037-10_05",
   "title": "Orbis terrarum antiquus.cum thesauro topographico, continente indices tabularum geographicarum topographicos, eosdemque criticos",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,52 +27,40 @@
   "georefereces": {
     "cutline": [
       [
-        2174,
-        7083
+        2228,
+        7152
       ],
       [
-        2159,
-        8174
+        2236,
+        8153
       ],
       [
-        4913,
-        8195
+        3133,
+        8156
       ],
       [
-        4912,
-        7100
+        4832,
+        8165
       ],
       [
-        2174,
-        7083
+        4847,
+        7167
+      ],
+      [
+        3421,
+        7154
+      ],
+      [
+        2228,
+        7152
       ]
     ],
     "created": "2022-06-29T07:27:16.726828+00:00",
     "transformation_method": "affine",
     "mapID": "fb556b10-ec3d-58e5-a0dc-7e01fc826df9",
     "affine_transformation": null,
-    "changed": "2022-06-29T07:38:53.583342+00:00",
+    "changed": "2022-08-23T06:42:10.051555+00:00",
     "gcps": [
-      {
-        "location": [
-          25.78862880028645,
-          35.00108155097935
-        ],
-        "pixel": [
-          4007,
-          7999
-        ]
-      },
-      {
-        "location": [
-          25.141694331907537,
-          35.337820962487925
-        ],
-        "pixel": [
-          3645,
-          7747
-        ]
-      },
       {
         "location": [
           24.173454105779257,
@@ -91,16 +79,6 @@
         "pixel": [
           4315,
           7820
-        ]
-      },
-      {
-        "location": [
-          25.72568905417059,
-          35.301496643493365
-        ],
-        "pixel": [
-          3952,
-          7772
         ]
       },
       {
@@ -151,6 +129,36 @@
         "pixel": [
           2680,
           7389
+        ]
+      },
+      {
+        "location": [
+          25.738537374493074,
+          35.00852451867276
+        ],
+        "pixel": [
+          4009,
+          7972
+        ]
+      },
+      {
+        "location": [
+          25.772667049250533,
+          35.3413793468428
+        ],
+        "pixel": [
+          3972,
+          7739
+        ]
+      },
+      {
+        "location": [
+          25.13285377099446,
+          35.341006668475444
+        ],
+        "pixel": [
+          3645,
+          7747
         ]
       }
     ]

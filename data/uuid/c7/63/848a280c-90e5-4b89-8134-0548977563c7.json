@@ -9,7 +9,7 @@
   "external_id": "762496-10_03",
   "title": "Special Karte der Markgrafschaft Maehren, mit den Antheilen des Herzogthums Schlesien",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,31 +27,43 @@
   "georefereces": {
     "cutline": [
       [
-        487,
-        1941
+        493,
+        1943
       ],
       [
         2700,
-        1950
+        1953
       ],
       [
-        2703,
-        471
+        2704,
+        1242
       ],
       [
-        506,
-        459
+        2706,
+        468
       ],
       [
-        487,
-        1941
+        1606,
+        463
+      ],
+      [
+        504,
+        458
+      ],
+      [
+        500,
+        1045
+      ],
+      [
+        493,
+        1943
       ]
     ],
     "created": "2013-03-21T18:05:28.875950+00:00",
     "transformation_method": "affine",
     "mapID": "6015aa43-bf37-5e84-870d-2f1042dbee54",
     "affine_transformation": null,
-    "changed": "2013-03-21T18:05:28.875950+00:00",
+    "changed": "2022-08-23T13:57:35.743663+00:00",
     "gcps": [
       {
         "location": [
@@ -225,16 +237,6 @@
       },
       {
         "location": [
-          17.442091761,
-          49.793786569
-        ],
-        "pixel": [
-          2509,
-          1412
-        ]
-      },
-      {
-        "location": [
           17.426813899,
           49.787691395
         ],
@@ -271,6 +273,26 @@
         "pixel": [
           1597,
           529
+        ]
+      },
+      {
+        "location": [
+          17.4402910655086,
+          49.79410962196127
+        ],
+        "pixel": [
+          2494,
+          1404
+        ]
+      },
+      {
+        "location": [
+          17.400857027028064,
+          49.82938398438964
+        ],
+        "pixel": [
+          2379,
+          1269
         ]
       },
       {
@@ -331,16 +353,6 @@
         "pixel": [
           2479,
           1513
-        ]
-      },
-      {
-        "location": [
-          17.401064692,
-          49.833774037
-        ],
-        "pixel": [
-          2374,
-          1265
         ]
       },
       {

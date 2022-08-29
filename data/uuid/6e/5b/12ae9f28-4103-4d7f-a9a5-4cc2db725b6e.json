@@ -9,7 +9,7 @@
   "external_id": "794463-10_01",
   "title": "Plan Von der Zugrundrichtung der türkischen Tschaiken und Position der K.K. Troupen bey Uipalancka unter Com. des G. M. Grafe v. Harach am 27. Oct. 1788",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,20 +27,32 @@
   "georefereces": {
     "cutline": [
       [
-        1912,
-        589
+        2051,
+        633
+      ],
+      [
+        3769,
+        673
       ],
       [
         6937,
         728
       ],
       [
-        6926,
-        3244
+        6913,
+        3340
       ],
       [
-        5767,
-        3391
+        5786,
+        3381
+      ],
+      [
+        5865,
+        3612
+      ],
+      [
+        5895,
+        3813
       ],
       [
         5864,
@@ -48,18 +60,18 @@
       ],
       [
         2029,
-        4512
+        4503
       ],
       [
-        1912,
-        589
+        2051,
+        633
       ]
     ],
     "created": "2013-03-21T17:10:48.580780+00:00",
     "transformation_method": "affine",
     "mapID": "a902a52e-29b7-505c-90b9-cbc5ac35eb05",
     "affine_transformation": null,
-    "changed": "2022-06-05T22:03:26.477810+00:00",
+    "changed": "2022-08-24T05:05:52.798005+00:00",
     "gcps": [
       {
         "location": [
@@ -73,12 +85,22 @@
       },
       {
         "location": [
-          21.338433762461094,
-          44.82967780171401
+          21.339193898289615,
+          44.82713976304203
         ],
         "pixel": [
           4847,
           2553
+        ]
+      },
+      {
+        "location": [
+          21.398104109888973,
+          44.76666290932522
+        ],
+        "pixel": [
+          2474,
+          1176
         ]
       },
       {
@@ -93,12 +115,12 @@
       },
       {
         "location": [
-          21.33083486021127,
-          44.809778926670276
+          21.330234045064508,
+          44.81281650079407
         ],
         "pixel": [
-          4941,
-          1441
+          4379,
+          1380
         ]
       }
     ]

@@ -9,7 +9,7 @@
   "external_id": "763350-10_09",
   "title": "Geognostische uibersichts Karte der Oesterreichischen Monarchie.aus den in der Bibliothek der k.k. Hofkammer im Münz und Bergwesen vorhandenen und den von den k.k. montanistischen Aemtern eingesendeten Daten nebst den arbeiten und Mittheilungen000752744 an dem montanistischen Museo.1 mapa v 9 listech",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,39 +24,115 @@
   "georefereces": {
     "cutline": [
       [
-        941,
-        9235
+        977,
+        9056
       ],
       [
-        12309,
-        9300
+        3637,
+        9064
       ],
       [
-        12760,
-        6297
+        8168,
+        9071
       ],
       [
-        11932,
-        4879
+        12003,
+        9076
       ],
       [
-        11909,
-        793
+        12001,
+        7650
       ],
       [
-        915,
-        729
+        12125,
+        7513
       ],
       [
-        941,
-        9235
+        12241,
+        7489
+      ],
+      [
+        12264,
+        7227
+      ],
+      [
+        12268,
+        7073
+      ],
+      [
+        12315,
+        7026
+      ],
+      [
+        12379,
+        6982
+      ],
+      [
+        12383,
+        6812
+      ],
+      [
+        12523,
+        6733
+      ],
+      [
+        12619,
+        6486
+      ],
+      [
+        12627,
+        6372
+      ],
+      [
+        12384,
+        5988
+      ],
+      [
+        12328,
+        5723
+      ],
+      [
+        12268,
+        5610
+      ],
+      [
+        12269,
+        5516
+      ],
+      [
+        12128,
+        5363
+      ],
+      [
+        11996,
+        5188
+      ],
+      [
+        11987,
+        802
+      ],
+      [
+        952,
+        785
+      ],
+      [
+        958,
+        2017
+      ],
+      [
+        967,
+        5951
+      ],
+      [
+        977,
+        9056
       ]
     ],
     "created": "2013-03-23T07:18:56.815860+00:00",
     "transformation_method": "affine",
     "mapID": "722a8542-9120-50ef-9e5b-1ace816d0612",
     "affine_transformation": null,
-    "changed": "2022-07-20T22:40:51.793039+00:00",
+    "changed": "2022-08-24T10:48:17.145088+00:00",
     "gcps": [
       {
         "location": [
@@ -146,6 +222,16 @@
         "pixel": [
           6215,
           5071
+        ]
+      },
+      {
+        "location": [
+          26.39795276377367,
+          47.9530655453043
+        ],
+        "pixel": [
+          10255,
+          1015
         ]
       },
       {
@@ -240,16 +326,6 @@
       },
       {
         "location": [
-          26.40010525293729,
-          47.9550816041409
-        ],
-        "pixel": [
-          10255,
-          1015
-        ]
-      },
-      {
-        "location": [
           20.61461163183368,
           45.11430272728731
         ],
@@ -306,6 +382,16 @@
         "pixel": [
           8222,
           823
+        ]
+      },
+      {
+        "location": [
+          26.66023244134095,
+          47.74543090343181
+        ],
+        "pixel": [
+          10860,
+          1597
         ]
       }
     ]

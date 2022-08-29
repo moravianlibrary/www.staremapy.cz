@@ -9,7 +9,7 @@
   "external_id": "uuid:9ce5037f-4ac0-11e7-bcbd-001b63bd97ba",
   "title": "Turnov",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:cf0028a8-8085-48c9-b594-8adab4d9b4a5?page=uuid:9ce5037f-4ac0-11e7-bcbd-001b63bd97ba",
@@ -28,6 +28,10 @@
         38
       ],
       [
+        518,
+        162
+      ],
+      [
         517,
         384
       ],
@@ -38,6 +42,10 @@
       [
         74,
         384
+      ],
+      [
+        74,
+        233
       ],
       [
         76,
@@ -52,7 +60,7 @@
     "transformation_method": "affine",
     "mapID": "19b1c84d-12c8-4e2b-8eb6-2267a59b1ef0",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:58:55.771752+00:00",
+    "changed": "2022-08-22T10:51:01.185186+00:00",
     "gcps": [
       {
         "location": [
@@ -162,6 +170,16 @@
         "pixel": [
           196,
           364
+        ]
+      },
+      {
+        "location": [
+          15.096207741269104,
+          50.742932626018785
+        ],
+        "pixel": [
+          307,
+          47
         ]
       }
     ]

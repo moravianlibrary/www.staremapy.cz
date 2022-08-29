@@ -9,7 +9,7 @@
   "external_id": "uuid:18052344-4a92-11e7-9b3b-001b63bd97ba",
   "title": "Lanžhot",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:fc6fe338-19d4-4b29-9007-be1fb4d58d9c?page=uuid:18052344-4a92-11e7-9b3b-001b63bd97ba",
@@ -52,7 +52,7 @@
     "transformation_method": "affine",
     "mapID": "cd49032c-f70e-454f-afc7-4690153467c8",
     "affine_transformation": null,
-    "changed": "2020-07-07T12:58:39.191342+00:00",
+    "changed": "2022-08-22T09:56:30.367904+00:00",
     "gcps": [
       {
         "location": [
@@ -182,6 +182,16 @@
         "pixel": [
           520,
           230
+        ]
+      },
+      {
+        "location": [
+          16.902761009585053,
+          48.540630729907434
+        ],
+        "pixel": [
+          135,
+          327
         ]
       }
     ]

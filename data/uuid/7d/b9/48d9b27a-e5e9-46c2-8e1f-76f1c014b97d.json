@@ -9,7 +9,7 @@
   "external_id": "2650821267_01",
   "title": "Belagerung von Olmütz in A[nn]o 1758",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,8 +27,8 @@
   "georefereces": {
     "cutline": [
       [
-        8907,
-        510
+        8874,
+        511
       ],
       [
         8902,
@@ -43,23 +43,27 @@
         11290
       ],
       [
-        324,
-        11334
+        4129,
+        11251
       ],
       [
-        377,
-        510
+        369,
+        11253
       ],
       [
-        8907,
-        510
+        375,
+        544
+      ],
+      [
+        8874,
+        511
       ]
     ],
     "created": "2013-02-27T09:29:55.575410+00:00",
     "transformation_method": "affine",
     "mapID": "af3b9919-8969-5258-8d49-015998c5df4c",
     "affine_transformation": null,
-    "changed": "2021-12-15T16:13:39.501398+00:00",
+    "changed": "2022-08-26T05:35:33.035346+00:00",
     "gcps": [
       {
         "location": [
@@ -109,16 +113,6 @@
         "pixel": [
           1361,
           8500
-        ]
-      },
-      {
-        "location": [
-          17.21749514699694,
-          49.584316939942624
-        ],
-        "pixel": [
-          2896,
-          9146
         ]
       },
       {

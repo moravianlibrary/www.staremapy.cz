@@ -9,7 +9,7 @@
   "external_id": "760161-10_05",
   "title": "Geologische Karte der im Reichsrathe vertretenen Königreiche und Länder der Österreich-Ungarischen Monarchie.auf Grundlage der Specialkarte i. M. 1:75.000 des k.u.k. Militär-geographischen Institutes..Neunte Lieferung",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,31 +27,43 @@
   "georefereces": {
     "cutline": [
       [
-        1010,
-        1346
+        1015,
+        1350
       ],
       [
-        7330,
-        1362
+        4165,
+        1355
       ],
       [
-        7314,
-        5746
+        7325,
+        1356
+      ],
+      [
+        7312,
+        4240
+      ],
+      [
+        7303,
+        5747
       ],
       [
         970,
         5738
       ],
       [
-        1010,
-        1346
+        1000,
+        2697
+      ],
+      [
+        1015,
+        1350
       ]
     ],
     "created": "2013-03-21T22:51:20.487820+00:00",
     "transformation_method": "affine",
     "mapID": "a64eb93e-9c79-5eec-839f-3ada45d23143",
     "affine_transformation": null,
-    "changed": "2022-06-29T14:36:23.282515+00:00",
+    "changed": "2022-08-25T08:08:12.832367+00:00",
     "gcps": [
       {
         "location": [
@@ -95,22 +107,12 @@
       },
       {
         "location": [
-          14.800841534,
-          44.259130318
+          14.79657826482812,
+          44.340771163922824
         ],
         "pixel": [
-          6886,
-          5565
-        ]
-      },
-      {
-        "location": [
-          14.600555623,
-          44.343699807
-        ],
-        "pixel": [
-          4357,
-          4097
+          6844,
+          4141
         ]
       },
       {
@@ -121,26 +123,6 @@
         "pixel": [
           6609,
           3420
-        ]
-      },
-      {
-        "location": [
-          14.558855523,
-          44.44779385
-        ],
-        "pixel": [
-          3843,
-          2259
-        ]
-      },
-      {
-        "location": [
-          14.693765030190944,
-          44.368397218582516
-        ],
-        "pixel": [
-          5547,
-          3657
         ]
       },
       {
@@ -165,12 +147,42 @@
       },
       {
         "location": [
-          14.79657826482812,
-          44.340771163922824
+          14.800841534,
+          44.259130318
         ],
         "pixel": [
-          6844,
-          4141
+          6886,
+          5565
+        ]
+      },
+      {
+        "location": [
+          14.558855523,
+          44.44779385
+        ],
+        "pixel": [
+          3843,
+          2259
+        ]
+      },
+      {
+        "location": [
+          14.600555623,
+          44.343699807
+        ],
+        "pixel": [
+          4357,
+          4097
+        ]
+      },
+      {
+        "location": [
+          14.693765030190944,
+          44.368397218582516
+        ],
+        "pixel": [
+          5547,
+          3657
         ]
       }
     ]

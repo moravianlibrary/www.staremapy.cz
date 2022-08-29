@@ -9,7 +9,7 @@
   "external_id": "uuid:0216ca2a-191a-11e5-a85e-001b63bd97ba",
   "title": "Podrobná mapa Moravského krasu",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5823b-00c9-11e5-b939-0800200c9a66?page=uuid:0216ca2a-191a-11e5-a85e-001b63bd97ba",
@@ -48,18 +48,8 @@
     "transformation_method": "affine",
     "mapID": "b63ff925-2cd2-4ff1-aaf2-71c326fe023f",
     "affine_transformation": null,
-    "changed": "2022-08-13T15:03:58.460033+00:00",
+    "changed": "2022-08-22T11:46:45.221388+00:00",
     "gcps": [
-      {
-        "location": [
-          16.693509995425966,
-          49.30770033154701
-        ],
-        "pixel": [
-          513,
-          381
-        ]
-      },
       {
         "location": [
           16.69484607286187,
@@ -72,8 +62,38 @@
       },
       {
         "location": [
-          16.693796654444068,
-          49.307315634080396
+          16.69315099444007,
+          49.30794519282884
+        ],
+        "pixel": [
+          513,
+          381
+        ]
+      },
+      {
+        "location": [
+          16.694487628790153,
+          49.30678515356257
+        ],
+        "pixel": [
+          537,
+          387
+        ]
+      },
+      {
+        "location": [
+          16.69442444377501,
+          49.30749880724068
+        ],
+        "pixel": [
+          533,
+          379
+        ]
+      },
+      {
+        "location": [
+          16.69383374954199,
+          49.307064184614575
         ],
         "pixel": [
           528,

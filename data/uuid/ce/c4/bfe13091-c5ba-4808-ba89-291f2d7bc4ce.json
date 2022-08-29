@@ -9,7 +9,7 @@
   "external_id": "763468-10_04",
   "title": "Neueste Karte von ganz Preussen und Herzogthum Warschau.mit dem grösten il von Sachsen das Herzogthum Meklenburg und Schwedisch Pommern nebst dem angränzenden Oesterreichischen und Russischen Antheil von Polen. Nach den neuesten geographischen Bestimungen und Berichtigungen und mit Benützung der grossen Karte von Chauchard von Deutschland..mapa je ve 12 listech",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,31 +27,139 @@
   "georefereces": {
     "cutline": [
       [
-        12997,
-        2464
+        13027,
+        2439
       ],
       [
-        13024,
-        9473
+        13042,
+        4497
       ],
       [
-        3251,
-        9567
+        13056,
+        6343
       ],
       [
-        3158,
-        2564
+        13078,
+        9491
       ],
       [
-        12997,
-        2464
+        10787,
+        9521
+      ],
+      [
+        7716,
+        9555
+      ],
+      [
+        5425,
+        9582
+      ],
+      [
+        5406,
+        9623
+      ],
+      [
+        5132,
+        9628
+      ],
+      [
+        4993,
+        9593
+      ],
+      [
+        3719,
+        9602
+      ],
+      [
+        3655,
+        9632
+      ],
+      [
+        3626,
+        9603
+      ],
+      [
+        3211,
+        9614
+      ],
+      [
+        3188,
+        7549
+      ],
+      [
+        3155,
+        3561
+      ],
+      [
+        3150,
+        2557
+      ],
+      [
+        5696,
+        2516
+      ],
+      [
+        6505,
+        2498
+      ],
+      [
+        6559,
+        2465
+      ],
+      [
+        6605,
+        2497
+      ],
+      [
+        6984,
+        2498
+      ],
+      [
+        7712,
+        2487
+      ],
+      [
+        7791,
+        2414
+      ],
+      [
+        8101,
+        2398
+      ],
+      [
+        9134,
+        2434
+      ],
+      [
+        9389,
+        2443
+      ],
+      [
+        9478,
+        2469
+      ],
+      [
+        12141,
+        2444
+      ],
+      [
+        12213,
+        2415
+      ],
+      [
+        12285,
+        2443
+      ],
+      [
+        13027,
+        2439
       ]
     ],
     "created": "2013-02-27T09:29:31.243680+00:00",
     "transformation_method": "affine",
     "mapID": "d97aaa9b-3845-59fb-b67e-bcb82c84fa3a",
     "affine_transformation": null,
-    "changed": "2022-07-21T18:54:33.027640+00:00",
+    "changed": "2022-08-23T13:50:39.554759+00:00",
     "gcps": [
       {
         "location": [
@@ -125,16 +233,6 @@
       },
       {
         "location": [
-          14.335098267,
-          51.75636626
-        ],
-        "pixel": [
-          9411,
-          9446
-        ]
-      },
-      {
-        "location": [
           12.424163818,
           53.477422878
         ],
@@ -151,16 +249,6 @@
         "pixel": [
           5448,
           3546
-        ]
-      },
-      {
-        "location": [
-          15.502553990266922,
-          51.93632087372592
-        ],
-        "pixel": [
-          12453,
-          8736
         ]
       },
       {
@@ -231,6 +319,16 @@
         "pixel": [
           10109,
           5711
+        ]
+      },
+      {
+        "location": [
+          15.097789369836066,
+          52.048071554203744
+        ],
+        "pixel": [
+          11300,
+          8454
         ]
       },
       {
@@ -381,6 +479,26 @@
         "pixel": [
           9089,
           4651
+        ]
+      },
+      {
+        "location": [
+          14.335844010034268,
+          51.75770329096699
+        ],
+        "pixel": [
+          9411,
+          9446
+        ]
+      },
+      {
+        "location": [
+          15.504313519380691,
+          51.93794806615156
+        ],
+        "pixel": [
+          12453,
+          8736
         ]
       }
     ]
