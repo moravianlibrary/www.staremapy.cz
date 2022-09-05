@@ -9,7 +9,7 @@
   "external_id": "767777-10_01",
   "title": "Europa",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -163,7 +163,7 @@
     "transformation_method": "affine",
     "mapID": "424efb60-47ab-5e90-b0e2-f96bc83dfa45",
     "affine_transformation": null,
-    "changed": "2022-03-24T14:04:54.628090+00:00",
+    "changed": "2022-08-31T10:02:51.164195+00:00",
     "gcps": [
       {
         "location": [
@@ -193,16 +193,6 @@
         "pixel": [
           5621,
           5596
-        ]
-      },
-      {
-        "location": [
-          -9.670116980241994,
-          30.621722501394686
-        ],
-        "pixel": [
-          2205,
-          9461
         ]
       },
       {
@@ -1023,6 +1013,16 @@
         "pixel": [
           8319,
           2370
+        ]
+      },
+      {
+        "location": [
+          -9.603677941108325,
+          30.418298604947637
+        ],
+        "pixel": [
+          2205,
+          9461
         ]
       }
     ]

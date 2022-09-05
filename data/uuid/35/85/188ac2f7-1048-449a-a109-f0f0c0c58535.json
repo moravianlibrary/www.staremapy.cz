@@ -9,7 +9,7 @@
   "external_id": "762635-10_01",
   "title": "Karte von Asien",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -51,7 +51,7 @@
     "transformation_method": "affine",
     "mapID": "6fc84bd7-793d-52bc-b1da-1c8a3a86c342",
     "affine_transformation": null,
-    "changed": "2022-06-29T07:26:39.114790+00:00",
+    "changed": "2022-08-31T11:17:34.922941+00:00",
     "gcps": [
       {
         "location": [
@@ -61,16 +61,6 @@
         "pixel": [
           6655,
           1361
-        ]
-      },
-      {
-        "location": [
-          172.24628502185487,
-          65.12116766418077
-        ],
-        "pixel": [
-          7254,
-          1375
         ]
       },
       {
@@ -85,22 +75,42 @@
       },
       {
         "location": [
-          176.15846527448787,
-          64.89211793033834
-        ],
-        "pixel": [
-          7300,
-          1242
-        ]
-      },
-      {
-        "location": [
           176.43829601936005,
           64.66895090267482
         ],
         "pixel": [
           7397,
           1212
+        ]
+      },
+      {
+        "location": [
+          -169.79388581517594,
+          66.16120627326191
+        ],
+        "pixel": [
+          7339,
+          558
+        ]
+      },
+      {
+        "location": [
+          -179.21283157471072,
+          66.20557048372763
+        ],
+        "pixel": [
+          7299,
+          1015
+        ]
+      },
+      {
+        "location": [
+          170.40875023302183,
+          68.81919645101055
+        ],
+        "pixel": [
+          6754,
+          1046
         ]
       }
     ]

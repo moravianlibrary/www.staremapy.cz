@@ -9,7 +9,7 @@
   "external_id": "762496-10_11",
   "title": "Special Karte der Markgrafschaft Maehren, mit den Antheilen des Herzogthums Schlesien",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -37,6 +37,10 @@
       [
         10764,
         7837
+      ],
+      [
+        10793,
+        5658
       ],
       [
         10829,
@@ -67,7 +71,7 @@
     "transformation_method": "affine",
     "mapID": "d862c229-9c81-507f-ae24-e843f6d468a5",
     "affine_transformation": null,
-    "changed": "2013-03-21T18:20:49.156860+00:00",
+    "changed": "2022-08-30T12:49:23.082786+00:00",
     "gcps": [
       {
         "location": [
@@ -157,6 +161,16 @@
         "pixel": [
           4614,
           2022
+        ]
+      },
+      {
+        "location": [
+          16.196971915351234,
+          49.172757938108504
+        ],
+        "pixel": [
+          4317,
+          5123
         ]
       },
       {

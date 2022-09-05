@@ -9,7 +9,7 @@
   "external_id": "759829-10_01",
   "title": "Post= Charte vom Königreiche Böheim",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -63,12 +63,16 @@
         1144
       ],
       [
-        7960,
-        1696
+        8061,
+        1660
       ],
       [
-        8080,
-        2175
+        8038,
+        1858
+      ],
+      [
+        8077,
+        2162
       ],
       [
         8279,
@@ -143,7 +147,7 @@
     "transformation_method": "affine",
     "mapID": "bf202f8b-9c77-5039-8b84-322d9428d476",
     "affine_transformation": null,
-    "changed": "2022-08-23T21:54:02.153070+00:00",
+    "changed": "2022-09-02T11:18:05.322634+00:00",
     "gcps": [
       {
         "location": [
@@ -203,6 +207,16 @@
         "pixel": [
           3802,
           7435
+        ]
+      },
+      {
+        "location": [
+          12.53055906212899,
+          49.34228108040443
+        ],
+        "pixel": [
+          2214,
+          5527
         ]
       },
       {
@@ -313,16 +327,6 @@
         "pixel": [
           5009,
           3657
-        ]
-      },
-      {
-        "location": [
-          12.529008010062316,
-          49.34225660184953
-        ],
-        "pixel": [
-          2214,
-          5527
         ]
       }
     ]

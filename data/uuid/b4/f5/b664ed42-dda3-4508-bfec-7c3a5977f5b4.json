@@ -9,7 +9,7 @@
   "external_id": "769172-10_05",
   "title": "Fluss und Gebirgs-Wandkarte von Deutschland",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -59,7 +59,7 @@
     "transformation_method": "affine",
     "mapID": "3cc1dff0-cbd8-50ef-b90c-dd2b3e2494a1",
     "affine_transformation": null,
-    "changed": "2022-06-29T14:39:15.588729+00:00",
+    "changed": "2022-09-02T12:58:57.060764+00:00",
     "gcps": [
       {
         "location": [
@@ -69,16 +69,6 @@
         "pixel": [
           11830,
           1828
-        ]
-      },
-      {
-        "location": [
-          15.974933558808644,
-          45.81756474789785
-        ],
-        "pixel": [
-          6038,
-          3112
         ]
       },
       {
@@ -99,16 +89,6 @@
         "pixel": [
           5167,
           6709
-        ]
-      },
-      {
-        "location": [
-          13.110536015856031,
-          47.23654975689152
-        ],
-        "pixel": [
-          1990,
-          585
         ]
       },
       {
@@ -209,6 +189,26 @@
         "pixel": [
           741,
           6158
+        ]
+      },
+      {
+        "location": [
+          15.978389012535628,
+          45.81308043356947
+        ],
+        "pixel": [
+          6038,
+          3112
+        ]
+      },
+      {
+        "location": [
+          13.104999936449293,
+          47.2422168657543
+        ],
+        "pixel": [
+          1990,
+          585
         ]
       }
     ]

@@ -9,7 +9,7 @@
   "external_id": "760106-10_04",
   "title": "Geologische Karte der im Reichsrathe vertretenen Königreiche und Länder der Österreich-Ungarischen Monarchie.auf Grundlage der Specialkarte i. M. 1:75.000 des k.u.k. Militär-geographischen Institutes..Siebente Lieferung",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -39,6 +39,10 @@
         7970
       ],
       [
+        1706,
+        2836
+      ],
+      [
         1721,
         1806
       ],
@@ -55,7 +59,7 @@
     "transformation_method": "affine",
     "mapID": "2bd28d49-4dbb-5b6a-8735-ef4311b352ce",
     "affine_transformation": null,
-    "changed": "2022-07-18T06:16:46.318628+00:00",
+    "changed": "2022-08-30T10:31:34.717922+00:00",
     "gcps": [
       {
         "location": [
@@ -135,6 +139,16 @@
         "pixel": [
           9999,
           2065
+        ]
+      },
+      {
+        "location": [
+          15.605604445122166,
+          48.105438746467115
+        ],
+        "pixel": [
+          6160,
+          5361
         ]
       },
       {

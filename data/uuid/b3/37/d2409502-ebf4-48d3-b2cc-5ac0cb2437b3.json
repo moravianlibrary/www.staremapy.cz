@@ -9,7 +9,7 @@
   "external_id": "763467-10_06",
   "title": "Mappa generalis regni Hungariae.partiumque adnexarum Croatiae, Slavoniae et confiniorum militarium magni item principatus Transylvaniae geometricis partium dimensionibus, recentissimisque astronomicis observationibus superstructa adjectis sinibus Provinciarum Bukovinae, Galliciae, Silesiae, Austriae, Styriae, Carinthiae, Carnioliae, Dalmatiae, Bosniae, Serviae, Valachiae et Moldaviae quam honoribus serenissimi Principis Regii Josephus Archiducis Palatini.mapa je v 9 listech",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -95,7 +95,7 @@
     "transformation_method": "affine",
     "mapID": "c57cacaa-aedb-5237-a61d-aa42b923a7eb",
     "affine_transformation": null,
-    "changed": "2021-11-28T10:16:28.991557+00:00",
+    "changed": "2022-08-30T09:20:29.784727+00:00",
     "gcps": [
       {
         "location": [
@@ -245,6 +245,16 @@
         "pixel": [
           7508,
           1017
+        ]
+      },
+      {
+        "location": [
+          22.340757574932784,
+          47.34716744546509
+        ],
+        "pixel": [
+          12905,
+          3165
         ]
       }
     ]

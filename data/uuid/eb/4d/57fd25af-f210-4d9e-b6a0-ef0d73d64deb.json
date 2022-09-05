@@ -9,7 +9,7 @@
   "external_id": "794468-10_02",
   "title": "Hydrographische Karte der oestreichischen Erbstaaten diesseits des Rheins = Carte Hydrographique des Etats le Maison d' Austriche en deca du Rhin :.Sortie aux fraix de Mrs. Ch. et Fréd. Bargum et Comp. Banquiers",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -156,7 +156,7 @@
     "transformation_method": "affine",
     "mapID": "4ff0f381-8489-59b6-b688-21b41964c04f",
     "affine_transformation": null,
-    "changed": "2022-05-24T17:45:06.570870+00:00",
+    "changed": "2022-09-02T13:24:18.242506+00:00",
     "gcps": [
       {
         "location": [
@@ -266,6 +266,16 @@
         "pixel": [
           9504,
           3423
+        ]
+      },
+      {
+        "location": [
+          14.326424000365677,
+          46.893637425218515
+        ],
+        "pixel": [
+          14730,
+          1876
         ]
       },
       {

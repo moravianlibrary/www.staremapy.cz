@@ -9,7 +9,7 @@
   "external_id": "767912-10_29",
   "title": "Atlas der Personalkredit-Bezirke der Haupt- und Zweiganstalten der Oesterreichisch-ungarischen Bank = Az Osztrák-Magyar Bank Fö- és Fiókintézetei Személyhitel-Kerületeinek Térkép-Gyüjteménye",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -28,12 +28,72 @@
         524
       ],
       [
+        731,
+        525
+      ],
+      [
+        990,
+        532
+      ],
+      [
+        1243,
+        535
+      ],
+      [
+        1664,
+        528
+      ],
+      [
+        2431,
+        534
+      ],
+      [
+        3368,
+        539
+      ],
+      [
         3981,
         530
       ],
       [
+        3970,
+        1647
+      ],
+      [
         3923,
         6293
+      ],
+      [
+        3660,
+        6297
+      ],
+      [
+        3256,
+        6292
+      ],
+      [
+        2878,
+        6292
+      ],
+      [
+        1932,
+        6295
+      ],
+      [
+        1833,
+        6299
+      ],
+      [
+        1425,
+        6296
+      ],
+      [
+        1131,
+        6296
+      ],
+      [
+        513,
+        6304
       ],
       [
         415,
@@ -48,7 +108,7 @@
     "transformation_method": "affine",
     "mapID": "2cdbc137-c419-5405-9c4a-bfd17009085c",
     "affine_transformation": null,
-    "changed": "2022-05-18T23:42:23.528540+00:00",
+    "changed": "2022-08-30T11:34:44.175939+00:00",
     "gcps": [
       {
         "location": [
@@ -182,16 +242,6 @@
       },
       {
         "location": [
-          24.493992103803315,
-          47.131539966995234
-        ],
-        "pixel": [
-          424,
-          6192
-        ]
-      },
-      {
-        "location": [
           25.36022068153166,
           47.35183550290131
         ],
@@ -222,22 +272,42 @@
       },
       {
         "location": [
-          26.400464309986596,
-          47.95477186030857
-        ],
-        "pixel": [
-          3628,
-          3528
-        ]
-      },
-      {
-        "location": [
           26.677317639133463,
           48.87669878965778
         ],
         "pixel": [
           3694,
           727
+        ]
+      },
+      {
+        "location": [
+          24.81511924719768,
+          47.42303590525188
+        ],
+        "pixel": [
+          540,
+          5609
+        ]
+      },
+      {
+        "location": [
+          26.145206367759734,
+          47.96558655969983
+        ],
+        "pixel": [
+          3011,
+          3637
+        ]
+      },
+      {
+        "location": [
+          26.594739995137385,
+          48.18633013441945
+        ],
+        "pixel": [
+          3868,
+          2854
         ]
       }
     ]

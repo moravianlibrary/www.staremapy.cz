@@ -9,7 +9,7 @@
   "external_id": "760081-10_02",
   "title": "Geologische Karte der im Reichsrathe vertretenen Königreiche und Länder der Österreich-Ungarischen Monarchie.auf Grundlage der Specialkarte i. M. 1:75.000 des k.u.k. Militär-geographischen Institutes..Fünfte Lieferung",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -28,39 +28,79 @@
     "cutline": [
       [
         1600,
-        1832
+        1824
       ],
       [
-        10144,
-        1832
+        5767,
+        1819
       ],
       [
-        10112,
-        8024
+        10142,
+        1823
       ],
       [
-        1536,
-        8008
+        10126,
+        5986
+      ],
+      [
+        10121,
+        7996
+      ],
+      [
+        7828,
+        7991
+      ],
+      [
+        3089,
+        7998
+      ],
+      [
+        1547,
+        7996
+      ],
+      [
+        1575,
+        4799
       ],
       [
         1600,
-        1832
+        1824
       ]
     ],
     "created": "2013-03-21T14:02:43.218950+00:00",
     "transformation_method": "affine",
     "mapID": "207694bc-ba52-5a0d-9698-5d073710a8e7",
     "affine_transformation": null,
-    "changed": "2021-08-18T00:21:56.024850+00:00",
+    "changed": "2022-08-30T11:28:47.031837+00:00",
     "gcps": [
       {
         "location": [
-          11.309288564,
-          46.473737306
+          11.240442449054541,
+          46.34187134717047
         ],
         "pixel": [
-          8914,
-          2114
+          8522,
+          5633
+        ]
+      },
+      {
+        "location": [
+          11.280176938388763,
+          46.322760604711306
+        ],
+        "pixel": [
+          9191,
+          6171
+        ]
+      },
+      {
+        "location": [
+          11.299275950694474,
+          46.48453542808991
+        ],
+        "pixel": [
+          9536,
+          2185
         ]
       },
       {
@@ -95,12 +135,22 @@
       },
       {
         "location": [
-          11.194340731,
-          46.359236225
+          10.913014980297879,
+          46.352588336943
         ],
         "pixel": [
-          7696,
-          5251
+          2916,
+          5449
+        ]
+      },
+      {
+        "location": [
+          11.259660163730864,
+          46.453656339649626
+        ],
+        "pixel": [
+          8844,
+          2962
         ]
       }
     ]

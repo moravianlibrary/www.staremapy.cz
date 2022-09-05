@@ -9,7 +9,7 @@
   "external_id": "762701-10_03",
   "title": "Umgebung von Olmütz.lithografirt im k.k. milit. geograf. Institute",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,39 +27,47 @@
   "georefereces": {
     "cutline": [
       [
-        1593,
-        1087
+        3599,
+        1014
       ],
       [
-        13881,
-        943
+        7449,
+        964
       ],
       [
-        14009,
-        9327
+        13924,
+        885
       ],
       [
-        11881,
-        9407
+        14039,
+        9431
+      ],
+      [
+        11861,
+        9519
       ],
       [
         1737,
         9487
       ],
       [
-        1593,
-        1071
+        1642,
+        6129
       ],
       [
-        1593,
-        1087
+        1568,
+        1059
+      ],
+      [
+        3599,
+        1014
       ]
     ],
     "created": "2013-03-21T14:08:45.218170+00:00",
     "transformation_method": "affine",
     "mapID": "6f0b760a-a766-5d70-b063-834cdab131ce",
     "affine_transformation": null,
-    "changed": "2022-07-21T18:50:49.214511+00:00",
+    "changed": "2022-08-31T13:55:32.162333+00:00",
     "gcps": [
       {
         "location": [
@@ -193,12 +201,12 @@
       },
       {
         "location": [
-          17.234102006,
-          49.527424473
+          17.234944072963497,
+          49.52758269512057
         ],
         "pixel": [
           9285,
-          4810
+          4698
         ]
       },
       {

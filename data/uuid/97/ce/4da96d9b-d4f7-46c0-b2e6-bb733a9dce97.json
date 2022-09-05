@@ -12,7 +12,7 @@
   "external_id": "762637-10_06",
   "title": "Geologische Übersichts-Karte der Österreichisch-Ungarischen Monarchie.1 mapa ve 12 listech",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -82,7 +82,7 @@
     "transformation_method": "affine",
     "mapID": "fe9d53d1-2210-556f-a4f9-4a7161e7028d",
     "affine_transformation": null,
-    "changed": "2022-06-18T15:22:31.644313+00:00",
+    "changed": "2022-08-30T09:40:18.328261+00:00",
     "gcps": [
       {
         "location": [
@@ -392,6 +392,16 @@
         "pixel": [
           11838,
           3269
+        ]
+      },
+      {
+        "location": [
+          14.358167411737396,
+          47.52529375448378
+        ],
+        "pixel": [
+          5063,
+          3324
         ]
       },
       {

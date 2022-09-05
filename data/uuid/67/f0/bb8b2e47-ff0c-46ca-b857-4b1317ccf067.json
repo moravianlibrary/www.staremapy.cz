@@ -9,7 +9,7 @@
   "external_id": "760055-10_01",
   "title": "Geologische Karte der im Reichsrathe vertretenen Königreiche und Länder der Österreich-Ungarischen Monarchie.auf Grundlage der Specialkarte i. M. 1:75.000 des k.u.k. Militär-geographischen Institutes..Dritte Lieferung",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,31 +27,47 @@
   "georefereces": {
     "cutline": [
       [
-        1355,
-        7952
+        1370,
+        7933
       ],
       [
-        10331,
-        7960
+        5517,
+        7947
       ],
       [
-        10363,
-        1800
+        10326,
+        7956
+      ],
+      [
+        10343,
+        4772
+      ],
+      [
+        10365,
+        1807
+      ],
+      [
+        5921,
+        1786
+      ],
+      [
+        1435,
+        1779
       ],
       [
         1411,
-        1768
+        3411
       ],
       [
-        1355,
-        7952
+        1370,
+        7933
       ]
     ],
     "created": "2013-03-21T23:45:32.793900+00:00",
     "transformation_method": "affine",
     "mapID": "9b858003-7856-5ab8-9069-1f69e791f6c8",
     "affine_transformation": null,
-    "changed": "2022-01-07T14:31:40.778980+00:00",
+    "changed": "2022-09-02T11:17:27.426198+00:00",
     "gcps": [
       {
         "location": [
@@ -91,16 +107,6 @@
         "pixel": [
           8096,
           4498
-        ]
-      },
-      {
-        "location": [
-          15.918934025,
-          43.818827814
-        ],
-        "pixel": [
-          2865,
-          6162
         ]
       },
       {
@@ -195,16 +201,6 @@
       },
       {
         "location": [
-          15.901338734,
-          43.790705133
-        ],
-        "pixel": [
-          2452,
-          6768
-        ]
-      },
-      {
-        "location": [
           15.998451921,
           43.956478557
         ],
@@ -231,6 +227,26 @@
         "pixel": [
           5913,
           6261
+        ]
+      },
+      {
+        "location": [
+          15.926369795334224,
+          43.818123946618016
+        ],
+        "pixel": [
+          3042,
+          6248
+        ]
+      },
+      {
+        "location": [
+          15.893706191129974,
+          43.7967917556272
+        ],
+        "pixel": [
+          2452,
+          6768
         ]
       }
     ]

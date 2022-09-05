@@ -9,7 +9,7 @@
   "external_id": "763467-10_02",
   "title": "Mappa generalis regni Hungariae.partiumque adnexarum Croatiae, Slavoniae et confiniorum militarium magni item principatus Transylvaniae geometricis partium dimensionibus, recentissimisque astronomicis observationibus superstructa adjectis sinibus Provinciarum Bukovinae, Galliciae, Silesiae, Austriae, Styriae, Carinthiae, Carnioliae, Dalmatiae, Bosniae, Serviae, Valachiae et Moldaviae quam honoribus serenissimi Principis Regii Josephus Archiducis Palatini.mapa je v 9 listech",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,32 +27,88 @@
   "georefereces": {
     "cutline": [
       [
-        13453,
-        572
+        13475,
+        548
       ],
       [
-        13431,
-        8716
+        13462,
+        3612
       ],
       [
-        465,
-        8744
+        13461,
+        6308
       ],
       [
-        452,
-        568
+        13475,
+        8775
       ],
       [
-        13453,
-        572
+        9789,
+        8772
+      ],
+      [
+        7078,
+        8778
+      ],
+      [
+        3967,
+        8780
+      ],
+      [
+        422,
+        8782
+      ],
+      [
+        431,
+        6385
+      ],
+      [
+        431,
+        3735
+      ],
+      [
+        436,
+        555
+      ],
+      [
+        6636,
+        534
+      ],
+      [
+        10633,
+        544
+      ],
+      [
+        13475,
+        548
       ]
     ],
     "created": "2013-02-27T09:29:36.801760+00:00",
     "transformation_method": "affine",
     "mapID": "8f270c29-74ea-503c-8c23-e3347a3398ef",
     "affine_transformation": null,
-    "changed": "2013-02-27T09:29:36.801760+00:00",
+    "changed": "2022-08-30T12:29:29.743326+00:00",
     "gcps": [
+      {
+        "location": [
+          25.646369873763252,
+          44.86597865394728
+        ],
+        "pixel": [
+          10864,
+          5183
+        ]
+      },
+      {
+        "location": [
+          25.879572992089383,
+          44.785003443858585
+        ],
+        "pixel": [
+          12205,
+          5249
+        ]
+      },
       {
         "location": [
           22.649930536,
@@ -265,16 +321,6 @@
       },
       {
         "location": [
-          25.742641381,
-          45.126937044
-        ],
-        "pixel": [
-          11292,
-          4316
-        ]
-      },
-      {
-        "location": [
           25.463863305,
           44.926992456
         ],
@@ -341,6 +387,36 @@
         "pixel": [
           12408,
           7380
+        ]
+      },
+      {
+        "location": [
+          25.71736372085371,
+          44.78576490209673
+        ],
+        "pixel": [
+          11211,
+          5290
+        ]
+      },
+      {
+        "location": [
+          26.085580961771505,
+          44.803276185509446
+        ],
+        "pixel": [
+          12951,
+          5156
+        ]
+      },
+      {
+        "location": [
+          25.793373950894708,
+          44.79052392270128
+        ],
+        "pixel": [
+          11561,
+          5285
         ]
       },
       {
@@ -541,6 +617,26 @@
         "pixel": [
           8654,
           5867
+        ]
+      },
+      {
+        "location": [
+          25.735218759099883,
+          45.12573565340054
+        ],
+        "pixel": [
+          11292,
+          4316
+        ]
+      },
+      {
+        "location": [
+          26.084179701301387,
+          44.811499665075644
+        ],
+        "pixel": [
+          12913,
+          5063
         ]
       }
     ]

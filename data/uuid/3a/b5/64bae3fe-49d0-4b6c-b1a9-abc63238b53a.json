@@ -9,7 +9,7 @@
   "external_id": "763468-10_10",
   "title": "Neueste Karte von ganz Preussen und Herzogthum Warschau.mit dem grösten il von Sachsen das Herzogthum Meklenburg und Schwedisch Pommern nebst dem angränzenden Oesterreichischen und Russischen Antheil von Polen. Nach den neuesten geographischen Bestimungen und Berichtigungen und mit Benützung der grossen Karte von Chauchard von Deutschland..mapa je ve 12 listech",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,31 +27,59 @@
   "georefereces": {
     "cutline": [
       [
-        13111,
-        2494
-      ],
-      [
-        13038,
-        9460
-      ],
-      [
-        3238,
-        9478
-      ],
-      [
-        3197,
+        13137,
         2464
       ],
       [
-        13111,
-        2494
+        13108,
+        6493
+      ],
+      [
+        13094,
+        9521
+      ],
+      [
+        8635,
+        9510
+      ],
+      [
+        5464,
+        9514
+      ],
+      [
+        3178,
+        9523
+      ],
+      [
+        3166,
+        6370
+      ],
+      [
+        3163,
+        2428
+      ],
+      [
+        5674,
+        2416
+      ],
+      [
+        8030,
+        2427
+      ],
+      [
+        11476,
+        2453
+      ],
+      [
+        13137,
+        2464
       ]
     ],
     "created": "2013-02-27T09:29:31.419720+00:00",
     "transformation_method": "affine",
     "mapID": "2f760e41-f588-5d15-a450-a1795e9d82df",
     "affine_transformation": null,
-    "changed": "2022-07-04T19:39:32.226262+00:00",
+    "changed": "2022-08-30T12:01:06.541938+00:00",
     "gcps": [
       {
         "location": [
@@ -265,16 +293,6 @@
       },
       {
         "location": [
-          16.030068216,
-          50.782617613
-        ],
-        "pixel": [
-          3851,
-          7321
-        ]
-      },
-      {
-        "location": [
           17.473336319,
           50.85531087
         ],
@@ -311,6 +329,26 @@
         "pixel": [
           5679,
           3183
+        ]
+      },
+      {
+        "location": [
+          16.033256813083007,
+          50.783645977450135
+        ],
+        "pixel": [
+          3851,
+          7321
+        ]
+      },
+      {
+        "location": [
+          15.83353399150862,
+          50.79403880696191
+        ],
+        "pixel": [
+          3565,
+          7187
         ]
       },
       {
@@ -535,16 +573,6 @@
       },
       {
         "location": [
-          15.724854288,
-          50.90358625
-        ],
-        "pixel": [
-          3565,
-          7187
-        ]
-      },
-      {
-        "location": [
           17.289315323,
           50.945384707
         ],
@@ -591,6 +619,16 @@
         "pixel": [
           4815,
           4443
+        ]
+      },
+      {
+        "location": [
+          18.681993976725668,
+          50.66904675205686
+        ],
+        "pixel": [
+          10933,
+          6389
         ]
       }
     ]

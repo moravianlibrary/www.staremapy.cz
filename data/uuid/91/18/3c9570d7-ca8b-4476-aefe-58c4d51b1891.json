@@ -9,7 +9,7 @@
   "external_id": "759015-10_01",
   "title": "Charte vom Berauner Kreise des Königreichs Böheim nach zu verlässigen astronomischen Ortsbestimmungen und geographischen Hülfsmitteln",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -143,7 +143,7 @@
     "transformation_method": "affine",
     "mapID": "0c5fb614-1367-5fea-83fb-4544ec61a245",
     "affine_transformation": null,
-    "changed": "2022-06-02T16:34:37.261675+00:00",
+    "changed": "2022-08-30T12:48:35.926660+00:00",
     "gcps": [
       {
         "location": [
@@ -297,6 +297,16 @@
       },
       {
         "location": [
+          13.87280779074932,
+          50.0375702846635
+        ],
+        "pixel": [
+          2383,
+          1116
+        ]
+      },
+      {
+        "location": [
           14.169230461,
           49.780904803
         ],
@@ -403,16 +413,6 @@
         "pixel": [
           6723,
           4870
-        ]
-      },
-      {
-        "location": [
-          13.847927896809704,
-          50.03311133489112
-        ],
-        "pixel": [
-          2383,
-          1116
         ]
       },
       {

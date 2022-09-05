@@ -9,7 +9,7 @@
   "external_id": "762464-10_03",
   "title": "Wiens Umgebungen",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -35,8 +35,16 @@
         2324
       ],
       [
+        3073,
+        1252
+      ],
+      [
         3060,
         273
+      ],
+      [
+        1662,
+        260
       ],
       [
         298,
@@ -51,7 +59,7 @@
     "transformation_method": "affine",
     "mapID": "4add2cb9-0b36-5ce4-b434-00c5f7e13d5e",
     "affine_transformation": null,
-    "changed": "2022-07-21T18:50:08.870339+00:00",
+    "changed": "2022-08-30T11:37:58.901432+00:00",
     "gcps": [
       {
         "location": [
@@ -121,16 +129,6 @@
         "pixel": [
           674,
           2118
-        ]
-      },
-      {
-        "location": [
-          16.31433012949723,
-          48.0790087428567
-        ],
-        "pixel": [
-          2881,
-          1643
         ]
       },
       {
@@ -251,6 +249,26 @@
         "pixel": [
           425,
           1377
+        ]
+      },
+      {
+        "location": [
+          16.314412202409798,
+          48.08276561326673
+        ],
+        "pixel": [
+          3059,
+          1639
+        ]
+      },
+      {
+        "location": [
+          16.174436335718077,
+          48.15553562843485
+        ],
+        "pixel": [
+          2213,
+          1099
         ]
       }
     ]

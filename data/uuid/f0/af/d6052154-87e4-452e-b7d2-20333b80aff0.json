@@ -9,7 +9,7 @@
   "external_id": "762883-10_01",
   "title": "Církevní mapa biskupství litoměřického",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -431,7 +431,7 @@
     "transformation_method": "affine",
     "mapID": "2a771169-4492-56ff-851f-057aebe86d75",
     "affine_transformation": null,
-    "changed": "2022-06-15T16:42:17.384260+00:00",
+    "changed": "2022-08-30T09:21:31.611179+00:00",
     "gcps": [
       {
         "location": [
@@ -491,6 +491,16 @@
         "pixel": [
           4585,
           7040
+        ]
+      },
+      {
+        "location": [
+          14.655567091470147,
+          50.56424239830122
+        ],
+        "pixel": [
+          7328,
+          4870
         ]
       },
       {
