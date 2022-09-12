@@ -12,7 +12,7 @@
   "external_id": "214422f5-3929-451c-8975-5a4792d39904",
   "title": "Karte der Ost-See und des Schwarzen Meeres",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,12 +27,12 @@
   "georefereces": {
     "cutline": [
       [
-        755,
-        2348
+        771,
+        2359
       ],
       [
-        865,
-        6865
+        885,
+        6785
       ],
       [
         4867,
@@ -43,19 +43,19 @@
         3932
       ],
       [
-        7849,
-        2146
+        7796,
+        2189
       ],
       [
-        755,
-        2348
+        771,
+        2359
       ]
     ],
     "created": "2022-06-22T00:22:48.215486+00:00",
     "transformation_method": "affine",
     "mapID": "d0e27730-b3f0-57be-9fe0-ab2db46029b6",
     "affine_transformation": null,
-    "changed": "2022-06-22T00:29:36.234932+00:00",
+    "changed": "2022-09-07T08:32:23.370623+00:00",
     "gcps": [
       {
         "location": [
@@ -85,6 +85,16 @@
         "pixel": [
           6446,
           4194
+        ]
+      },
+      {
+        "location": [
+          24.746098113376977,
+          59.43756157990359
+        ],
+        "pixel": [
+          5190,
+          3666
         ]
       },
       {

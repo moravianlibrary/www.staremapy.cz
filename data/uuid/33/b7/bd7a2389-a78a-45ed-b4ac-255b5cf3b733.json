@@ -9,7 +9,7 @@
   "external_id": "765741-10_01",
   "title": "Historisch-geographisches Tableau des österreichischen Kaiserstaates.eine übersichtliche Darstellung der Geschichte dieses Staates, seiner Gebietsveränderungen, Wappen und Orden, nebst der Stammtafel der österreichischen Regenten aus den Häusern Babenberg, Habsburg und Lothringen, sammt der dazu gehörigen historischen Karte",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -31,24 +31,64 @@
         1008
       ],
       [
-        10413,
-        1999
+        10398,
+        1943
       ],
       [
-        10687,
-        2174
+        10465,
+        2031
+      ],
+      [
+        10515,
+        2084
+      ],
+      [
+        10575,
+        2121
+      ],
+      [
+        10685,
+        2156
+      ],
+      [
+        10804,
+        2217
+      ],
+      [
+        10893,
+        2276
+      ],
+      [
+        10970,
+        2350
+      ],
+      [
+        11070,
+        2419
+      ],
+      [
+        11182,
+        2475
       ],
       [
         11284,
         2542
       ],
       [
-        12085,
-        2195
+        12072,
+        2251
       ],
       [
-        12090,
-        1001
+        12084,
+        1592
+      ],
+      [
+        12087,
+        1009
+      ],
+      [
+        11163,
+        1007
       ],
       [
         10399,
@@ -59,8 +99,109 @@
     "transformation_method": "affine",
     "mapID": "7c549de6-e51a-55d0-b982-173c68ea3036",
     "affine_transformation": null,
-    "changed": "2022-06-29T15:07:29.861184+00:00",
-    "gcps": []
+    "changed": "2022-09-05T07:40:42.996864+00:00",
+    "gcps": [
+      {
+        "location": [
+          -3.705098413295869,
+          40.415314614268084
+        ],
+        "pixel": [
+          11104,
+          1557
+        ]
+      },
+      {
+        "location": [
+          -1.1304707638926186,
+          37.99235656098645
+        ],
+        "pixel": [
+          11455,
+          1887
+        ]
+      },
+      {
+        "location": [
+          -0.984331913075052,
+          37.60180265027732
+        ],
+        "pixel": [
+          11493,
+          1940
+        ]
+      },
+      {
+        "location": [
+          -0.3761169030873364,
+          39.473197683583635
+        ],
+        "pixel": [
+          11547,
+          1681
+        ]
+      },
+      {
+        "location": [
+          2.1794255311024155,
+          41.38366220444797
+        ],
+        "pixel": [
+          11776,
+          1343
+        ]
+      },
+      {
+        "location": [
+          5.370732799251983,
+          43.296884566885865
+        ],
+        "pixel": [
+          12067,
+          1050
+        ]
+      },
+      {
+        "location": [
+          -1.4741616432598676,
+          43.49262249926775
+        ],
+        "pixel": [
+          11333,
+          1066
+        ]
+      },
+      {
+        "location": [
+          -5.844691347756103,
+          43.36097650780425
+        ],
+        "pixel": [
+          10849,
+          1104
+        ]
+      },
+      {
+        "location": [
+          -8.612979387769972,
+          41.14881706420411
+        ],
+        "pixel": [
+          10564,
+          1440
+        ]
+      },
+      {
+        "location": [
+          -9.139428100633765,
+          38.71109075317463
+        ],
+        "pixel": [
+          10485,
+          1801
+        ]
+      }
+    ]
   },
   "pubdate": ["1840"]
 }

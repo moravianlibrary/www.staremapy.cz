@@ -9,7 +9,7 @@
   "external_id": "763683-10_01",
   "title": "Karte des Arabischen Meerbusens oder des Rothen Meeres",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -35,12 +35,24 @@
         10218
       ],
       [
-        4882,
-        14622
+        4873,
+        13093
       ],
       [
-        1677,
-        14614
+        4877,
+        14611
+      ],
+      [
+        3159,
+        14599
+      ],
+      [
+        3027,
+        14084
+      ],
+      [
+        1689,
+        14037
       ],
       [
         1706,
@@ -51,7 +63,7 @@
     "transformation_method": "affine",
     "mapID": "50f5205a-c53a-5108-bf5c-e8cfcf041666",
     "affine_transformation": null,
-    "changed": "2022-06-29T15:20:17.360740+00:00",
+    "changed": "2022-09-05T08:54:20.660775+00:00",
     "gcps": [
       {
         "location": [
@@ -101,6 +113,26 @@
         "pixel": [
           3775,
           14373
+        ]
+      },
+      {
+        "location": [
+          32.666245913724644,
+          29.097881340529028
+        ],
+        "pixel": [
+          2429,
+          11777
+        ]
+      },
+      {
+        "location": [
+          33.58817266857464,
+          27.790099125603177
+        ],
+        "pixel": [
+          3296,
+          13561
         ]
       }
     ]

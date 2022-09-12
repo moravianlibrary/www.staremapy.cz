@@ -9,7 +9,7 @@
   "external_id": "uuid:61b33ca0-82db-11e0-bc9f-0050569d679d",
   "title": "Grosser Erdbeschreibung. Ersten Theil, Blatt N. 34-90., mapa ze strany: [29]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:48b42973-82db-11e0-bc9f-0050569d679d?page=uuid:61b33ca0-82db-11e0-bc9f-0050569d679d",
@@ -24,32 +24,87 @@
   "georefereces": {
     "cutline": [
       [
-        1924,
+        1926,
+        2959
+      ],
+      [
+        1928,
+        3725
+      ],
+      [
+        2971,
+        3706
+      ],
+      [
+        2963,
         2954
       ],
       [
-        1919,
-        3734
+        2479,
+        2956
       ],
       [
-        2977,
-        3719
-      ],
-      [
-        2967,
-        2946
-      ],
-      [
-        1924,
-        2954
+        1926,
+        2959
       ]
     ],
     "created": "2022-06-21T15:08:06.995343+00:00",
     "transformation_method": "affine",
     "mapID": "a9e23db4-7d56-4a57-b3d1-a2ae616ba42d",
     "affine_transformation": null,
-    "changed": "2022-06-21T15:14:37.876686+00:00",
-    "gcps": []
+    "changed": "2022-09-06T12:29:59.029995+00:00",
+    "gcps": [
+      {
+        "location": [
+          26.297175438552234,
+          55.977811302618306
+        ],
+        "pixel": [
+          2045,
+          3103
+        ]
+      },
+      {
+        "location": [
+          26.58687754352788,
+          55.85457137106383
+        ],
+        "pixel": [
+          2370,
+          3336
+        ]
+      },
+      {
+        "location": [
+          27.03758522434384,
+          55.858298843295955
+        ],
+        "pixel": [
+          2656,
+          3455
+        ]
+      },
+      {
+        "location": [
+          26.171907560564502,
+          55.93258162689301
+        ],
+        "pixel": [
+          1954,
+          3269
+        ]
+      },
+      {
+        "location": [
+          27.2966043207264,
+          55.82953438499695
+        ],
+        "pixel": [
+          2811,
+          3647
+        ]
+      }
+    ]
   },
   "pubdate": ["1780-1800"]
 }

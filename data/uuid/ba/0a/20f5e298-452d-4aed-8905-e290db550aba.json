@@ -9,7 +9,7 @@
   "external_id": "760161-10_06",
   "title": "Geologische Karte der im Reichsrathe vertretenen Königreiche und Länder der Österreich-Ungarischen Monarchie.auf Grundlage der Specialkarte i. M. 1:75.000 des k.u.k. Militär-geographischen Institutes..Neunte Lieferung",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -31,20 +31,32 @@
         5740
       ],
       [
-        7238,
-        5756
+        7240,
+        5758
       ],
       [
         7256,
         3561
       ],
       [
+        7262,
+        1962
+      ],
+      [
         7259,
         1369
       ],
       [
+        4065,
+        1357
+      ],
+      [
         975,
         1357
+      ],
+      [
+        951,
+        3278
       ],
       [
         933,
@@ -55,7 +67,7 @@
     "transformation_method": "affine",
     "mapID": "77338cb4-ca8b-58fe-baf3-f08f5ac804d0",
     "affine_transformation": null,
-    "changed": "2022-09-03T18:25:22.174538+00:00",
+    "changed": "2022-09-05T14:13:07.434079+00:00",
     "gcps": [
       {
         "location": [
@@ -155,16 +167,6 @@
         "pixel": [
           5726,
           5054
-        ]
-      },
-      {
-        "location": [
-          15.23840828,
-          44.524023897
-        ],
-        "pixel": [
-          6162,
-          5406
         ]
       },
       {
@@ -279,6 +281,16 @@
       },
       {
         "location": [
+          15.23840828,
+          44.524023897
+        ],
+        "pixel": [
+          6045,
+          5322
+        ]
+      },
+      {
+        "location": [
           15.068940294,
           44.530022486
         ],
@@ -375,16 +387,6 @@
         "pixel": [
           5718,
           5286
-        ]
-      },
-      {
-        "location": [
-          15.275143814,
-          44.527205875
-        ],
-        "pixel": [
-          6592,
-          5330
         ]
       },
       {
@@ -555,6 +557,16 @@
         "pixel": [
           1689,
           1388
+        ]
+      },
+      {
+        "location": [
+          15.276305704260839,
+          44.52712828882454
+        ],
+        "pixel": [
+          6518,
+          5272
         ]
       }
     ]

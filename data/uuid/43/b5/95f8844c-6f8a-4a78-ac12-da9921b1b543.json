@@ -9,7 +9,7 @@
   "external_id": "767578-10_01",
   "title": "Das Osmanische Europa oder die Europaeische Türkey.nebst dem Koenigr. Griechenland und den Jonischen Inseln",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,31 +27,31 @@
   "georefereces": {
     "cutline": [
       [
-        9322,
-        11391
+        9328,
+        11402
       ],
       [
-        10452,
-        11403
+        10441,
+        11413
       ],
       [
-        10457,
-        12474
+        10434,
+        12469
       ],
       [
-        9313,
-        12464
+        9327,
+        12455
       ],
       [
-        9322,
-        11391
+        9328,
+        11402
       ]
     ],
     "created": "2022-06-29T14:17:23.846573+00:00",
     "transformation_method": "affine",
     "mapID": "a8a68fc2-e67a-5f16-a335-e3ddc7fb5f5f",
     "affine_transformation": null,
-    "changed": "2022-06-29T14:24:02.857500+00:00",
+    "changed": "2022-09-09T07:34:25.384993+00:00",
     "gcps": [
       {
         "location": [
@@ -75,16 +75,6 @@
       },
       {
         "location": [
-          19.92958044660433,
-          39.62473405154037
-        ],
-        "pixel": [
-          9988,
-          12088
-        ]
-      },
-      {
-        "location": [
           19.932858106020525,
           39.62422996051268
         ],
@@ -95,22 +85,32 @@
       },
       {
         "location": [
-          19.928695317629405,
-          39.62226727603809
-        ],
-        "pixel": [
-          10056,
-          12316
-        ]
-      },
-      {
-        "location": [
           19.927343209399456,
           39.64508455100108
         ],
         "pixel": [
           10163,
           11555
+        ]
+      },
+      {
+        "location": [
+          19.92039807762012,
+          39.62779201667135
+        ],
+        "pixel": [
+          9988,
+          12088
+        ]
+      },
+      {
+        "location": [
+          19.928695317629405,
+          39.62226727603809
+        ],
+        "pixel": [
+          10162,
+          12257
         ]
       }
     ]

@@ -9,7 +9,7 @@
   "external_id": "uuid:d446c379-82df-11e0-bc9f-0050569d679d",
   "title": "Grosser deutscher Atlas, mapa ze strany: [9]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:ccdabd30-82df-11e0-bc9f-0050569d679d?page=uuid:d446c379-82df-11e0-bc9f-0050569d679d",
@@ -24,35 +24,51 @@
   "georefereces": {
     "cutline": [
       [
-        408,
-        5327
+        479,
+        5408
       ],
       [
-        4514,
-        5345
+        3229,
+        5419
       ],
       [
-        4587,
-        5461
+        4550,
+        5422
       ],
       [
-        4606,
-        9293
+        4533,
+        6950
       ],
       [
-        396,
-        9274
+        4516,
+        9191
       ],
       [
-        408,
-        5327
+        2807,
+        9177
+      ],
+      [
+        1461,
+        9185
+      ],
+      [
+        471,
+        9192
+      ],
+      [
+        477,
+        6499
+      ],
+      [
+        479,
+        5408
       ]
     ],
     "created": "2022-06-24T06:36:05.137878+00:00",
     "transformation_method": "affine",
     "mapID": "0b47338e-dddc-484d-9264-d88c1e8faafa",
     "affine_transformation": null,
-    "changed": "2022-06-24T07:15:05.815738+00:00",
+    "changed": "2022-09-07T13:33:36.978413+00:00",
     "gcps": [
       {
         "location": [
@@ -126,22 +142,22 @@
       },
       {
         "location": [
-          -87.09803363023983,
-          41.65463502238555
-        ],
-        "pixel": [
-          1787,
-          6737
-        ]
-      },
-      {
-        "location": [
           -87.96046038805235,
           44.57994703083784
         ],
         "pixel": [
           1480,
           6459
+        ]
+      },
+      {
+        "location": [
+          -87.33076878899952,
+          41.62250686715507
+        ],
+        "pixel": [
+          1787,
+          6737
         ]
       }
     ]

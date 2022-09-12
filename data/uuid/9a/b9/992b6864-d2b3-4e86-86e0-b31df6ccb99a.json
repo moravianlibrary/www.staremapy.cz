@@ -9,7 +9,7 @@
   "external_id": "763318-10_01",
   "title": "Zobrazení stavu veřej. škol obecných na Moravě v roce 1888",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -55,7 +55,7 @@
     "transformation_method": "affine",
     "mapID": "f1292913-a7ce-5b76-ad30-c4afab7e2fab",
     "affine_transformation": null,
-    "changed": "2022-06-29T13:34:31.530252+00:00",
+    "changed": "2022-09-05T13:31:36.416221+00:00",
     "gcps": [
       {
         "location": [
@@ -135,6 +135,26 @@
         "pixel": [
           9542,
           6742
+        ]
+      },
+      {
+        "location": [
+          16.612829265766322,
+          49.19154474435274
+        ],
+        "pixel": [
+          9437,
+          6944
+        ]
+      },
+      {
+        "location": [
+          16.60910285680038,
+          49.19389039431417
+        ],
+        "pixel": [
+          9321,
+          6779
         ]
       }
     ]

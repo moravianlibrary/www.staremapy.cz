@@ -9,7 +9,7 @@
   "external_id": "763316-10_01",
   "title": "Zobrazení stavu veřej. škol obecných na Moravě v roce 1848",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -51,18 +51,8 @@
     "transformation_method": "affine",
     "mapID": "99759e6a-1d43-5820-9d21-750f15ebbcc0",
     "affine_transformation": null,
-    "changed": "2022-06-30T07:05:46.170027+00:00",
+    "changed": "2022-09-05T08:44:32.733825+00:00",
     "gcps": [
-      {
-        "location": [
-          17.701205328042434,
-          50.30743522846885
-        ],
-        "pixel": [
-          7460,
-          393
-        ]
-      },
       {
         "location": [
           17.44783313565962,
@@ -75,8 +65,18 @@
       },
       {
         "location": [
-          17.604731634194778,
-          50.220964658258055
+          17.70099075132124,
+          50.31033360547889
+        ],
+        "pixel": [
+          7460,
+          393
+        ]
+      },
+      {
+        "location": [
+          17.605332449014114,
+          50.22227921401475
         ],
         "pixel": [
           7185,
@@ -85,12 +85,32 @@
       },
       {
         "location": [
-          17.73450763517134,
-          50.20844195621086
+          17.734453990991046,
+          50.20988731519802
         ],
         "pixel": [
           7557,
           849
+        ]
+      },
+      {
+        "location": [
+          17.4832637390066,
+          50.24690008929153
+        ],
+        "pixel": [
+          6839,
+          661
+        ]
+      },
+      {
+        "location": [
+          17.714549775102807,
+          50.27509169030279
+        ],
+        "pixel": [
+          7483,
+          555
         ]
       }
     ]

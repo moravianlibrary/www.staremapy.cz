@@ -9,7 +9,7 @@
   "external_id": "cd97577d-5446-485a-8988-9a8ee9525d5b",
   "title": "Königreich Daenemark nebst Island und den Far Öer",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -28,16 +28,16 @@
         7619
       ],
       [
-        11180,
-        7611
+        11166,
+        7622
       ],
       [
-        11182,
-        8338
+        11167,
+        8326
       ],
       [
-        10599,
-        8331
+        10597,
+        8327
       ],
       [
         10592,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "67bd3e3d-4265-56c2-8a3b-0fa89f3f4674",
     "affine_transformation": null,
-    "changed": "2022-07-07T12:38:04.738951+00:00",
+    "changed": "2022-09-07T07:19:13.297768+00:00",
     "gcps": [
       {
         "location": [
@@ -92,12 +92,22 @@
       },
       {
         "location": [
-          14.690739795898441,
-          55.09502995428926
+          14.697701226273118,
+          55.09913109492135
         ],
         "pixel": [
-          10780,
-          7920
+          10790,
+          7903
+        ]
+      },
+      {
+        "location": [
+          15.131275006738033,
+          55.064289098971386
+        ],
+        "pixel": [
+          11050,
+          7998
         ]
       }
     ]

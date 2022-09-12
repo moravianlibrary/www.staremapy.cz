@@ -9,7 +9,7 @@
   "external_id": "302fd32b-763c-4704-a4c4-f24b4bd61bd7",
   "title": "Recens Rvrsvs post omnes omnivm description Vrb. Romae Topographia",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,8 +24,12 @@
   "georefereces": {
     "cutline": [
       [
-        12850,
-        1805
+        12869,
+        1821
+      ],
+      [
+        12845,
+        4950
       ],
       [
         12799,
@@ -38,6 +42,10 @@
       [
         10471,
         10201
+      ],
+      [
+        7373,
+        10189
       ],
       [
         1976,
@@ -56,15 +64,19 @@
         1864
       ],
       [
-        12850,
-        1805
+        9379,
+        1814
+      ],
+      [
+        12869,
+        1821
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "6c8147ce-eef2-5f57-bea7-2f3b3b3aaf38",
     "affine_transformation": null,
-    "changed": "2021-11-09T12:00:05.884811+00:00",
+    "changed": "2022-09-06T10:22:18.483650+00:00",
     "gcps": [
       {
         "location": [
@@ -138,6 +150,16 @@
       },
       {
         "location": [
+          12.515284279607524,
+          41.89154345922708
+        ],
+        "pixel": [
+          4078,
+          9232
+        ]
+      },
+      {
+        "location": [
           12.49227337650936,
           41.890226920862375
         ],
@@ -164,6 +186,16 @@
         "pixel": [
           5949,
           4567
+        ]
+      },
+      {
+        "location": [
+          12.455448113082504,
+          41.90739205189365
+        ],
+        "pixel": [
+          12476,
+          3694
         ]
       }
     ]

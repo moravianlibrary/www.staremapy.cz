@@ -9,7 +9,7 @@
   "external_id": "bd2e8be8-5356-4975-9fd8-ad866b54a21f",
   "title": "Accurater grundris der Stadt Riga nebst der Citadel",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,18 +48,8 @@
     "transformation_method": "affine",
     "mapID": "29dffc3a-440b-5eda-99de-3b4720d73cdc",
     "affine_transformation": null,
-    "changed": "2022-06-15T15:28:14.293301+00:00",
+    "changed": "2022-09-06T10:17:15.257594+00:00",
     "gcps": [
-      {
-        "location": [
-          24.11089255560303,
-          56.95232246860232
-        ],
-        "pixel": [
-          5147,
-          4616
-        ]
-      },
       {
         "location": [
           24.117244026550292,
@@ -88,6 +78,16 @@
         "pixel": [
           6902,
           4275
+        ]
+      },
+      {
+        "location": [
+          24.11089255560303,
+          56.95232246860232
+        ],
+        "pixel": [
+          5129,
+          4625
         ]
       },
       {
