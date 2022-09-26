@@ -9,7 +9,7 @@
   "external_id": "763388-10_01",
   "title": "General Karte von Europa.Worinnen die Gestalt dieses Erdheiles zu ersehen ist, wie selbe nach seinem Höhensisteme und Wasserzuge angeordnet ist",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,32 +27,101 @@
   "georefereces": {
     "cutline": [
       [
-        12039,
-        9721
+        12038,
+        9725
       ],
       [
-        12075,
-        11244
+        12069,
+        11235
       ],
       [
-        13866,
-        11244
+        13854,
+        11226
       ],
       [
         13852,
-        9697
+        10713
       ],
       [
-        12039,
-        9721
+        13845,
+        9713
+      ],
+      [
+        12883,
+        9719
+      ],
+      [
+        12038,
+        9725
       ]
     ],
     "created": "2022-06-29T14:32:26.182009+00:00",
     "transformation_method": "affine",
     "mapID": "7ebc62b4-f0e7-587c-88b4-13ebab7e9053",
     "affine_transformation": null,
-    "changed": "2022-06-29T14:33:26.776482+00:00",
-    "gcps": []
+    "changed": "2022-09-19T12:41:27.533788+00:00",
+    "gcps": [
+      {
+        "location": [
+          20.19267531381644,
+          46.25285840324494
+        ],
+        "pixel": [
+          12417,
+          10816
+        ]
+      },
+      {
+        "location": [
+          22.339409563401826,
+          48.11444200181111
+        ],
+        "pixel": [
+          12942,
+          10185
+        ]
+      },
+      {
+        "location": [
+          21.414114717720103,
+          48.12251195581169
+        ],
+        "pixel": [
+          12722,
+          10160
+        ]
+      },
+      {
+        "location": [
+          20.202399865352806,
+          47.17183945334878
+        ],
+        "pixel": [
+          12413,
+          10498
+        ]
+      },
+      {
+        "location": [
+          20.315245521473678,
+          45.20650347546973
+        ],
+        "pixel": [
+          12452,
+          11195
+        ]
+      },
+      {
+        "location": [
+          20.277880563503114,
+          45.12856179515106
+        ],
+        "pixel": [
+          12445,
+          11213
+        ]
+      }
+    ]
   },
   "pubdate": ["1818"]
 }

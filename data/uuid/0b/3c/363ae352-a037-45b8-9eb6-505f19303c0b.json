@@ -12,7 +12,7 @@
   "external_id": "618355-10_01",
   "title": "Insula Creta hodie Candia :.in sua IV. Territoria divisa cum adjacentibus Aegei Maris insulis ac praesertim nuperrime ex abbysso pelagi emergente Nova Santorini Insula occasione cuius tam stupendi Natura phaenomeni tabulam hanc Curiosis spectandum",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -30,61 +30,175 @@
   "georefereces": {
     "cutline": [
       [
-        301,
-        602
+        298,
+        622
       ],
       [
-        11296,
-        538
+        3535,
+        601
       ],
       [
-        11353,
-        4870
+        5673,
+        591
       ],
       [
-        5570,
-        4587
+        5926,
+        589
+      ],
+      [
+        7549,
+        568
+      ],
+      [
+        11278,
+        557
+      ],
+      [
+        11305,
+        2791
+      ],
+      [
+        11332,
+        4873
+      ],
+      [
+        8590,
+        4862
+      ],
+      [
+        8482,
+        4472
+      ],
+      [
+        7842,
+        4472
+      ],
+      [
+        7139,
+        4480
+      ],
+      [
+        6643,
+        4461
+      ],
+      [
+        4881,
+        3948
+      ],
+      [
+        4772,
+        3716
       ],
       [
         4297,
         3592
       ],
       [
+        2846,
+        3525
+      ],
+      [
         2406,
         3540
       ],
       [
-        1793,
-        3054
+        2009,
+        3170
+      ],
+      [
+        1379,
+        3288
       ],
       [
         781,
         3557
       ],
       [
-        324,
-        3390
+        346,
+        3399
       ],
       [
-        301,
-        602
+        298,
+        622
       ]
     ],
     "created": "2022-06-29T14:57:39.505171+00:00",
     "transformation_method": "affine",
     "mapID": "95025e75-5adb-5339-9748-38daf7f0b06e",
     "affine_transformation": null,
-    "changed": "2022-06-29T15:00:12.721249+00:00",
-    "gcps": [{
-      "location": [
-        24.422097391925686,
-        36.714349082319146
-      ],
-      "pixel": [
-        2957,
-        2765
-      ]
-    }]
+    "changed": "2022-09-19T09:36:52.502993+00:00",
+    "gcps": [
+      {
+        "location": [
+          24.422097391925686,
+          36.714349082319146
+        ],
+        "pixel": [
+          2957,
+          2765
+        ]
+      },
+      {
+        "location": [
+          24.238558841402348,
+          36.78935136377973
+        ],
+        "pixel": [
+          2769,
+          2383
+        ]
+      },
+      {
+        "location": [
+          24.48517903359484,
+          37.163369532080665
+        ],
+        "pixel": [
+          4031,
+          1606
+        ]
+      },
+      {
+        "location": [
+          23.57731918594677,
+          37.365774155352355
+        ],
+        "pixel": [
+          2983,
+          1097
+        ]
+      },
+      {
+        "location": [
+          25.44918248010292,
+          36.917049403784134
+        ],
+        "pixel": [
+          7485,
+          2337
+        ]
+      },
+      {
+        "location": [
+          26.385257591103624,
+          36.57123710442248
+        ],
+        "pixel": [
+          10341,
+          3234
+        ]
+      },
+      {
+        "location": [
+          25.397067307154327,
+          36.4048164002416
+        ],
+        "pixel": [
+          7955,
+          4108
+        ]
+      }
+    ]
   },
   "pubdate": [
     "1701",

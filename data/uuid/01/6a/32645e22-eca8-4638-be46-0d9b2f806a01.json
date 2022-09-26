@@ -9,7 +9,7 @@
   "external_id": "763695-10_01",
   "title": "Guinea Zwischen Sierra-Leona und dem Aequator",
   "collection_id": "b9fae97b-fb90-588a-beeb-ebd5e37a5793",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,46 +27,44 @@
   "georefereces": {
     "cutline": [
       [
-        6136,
-        8764
+        6166,
+        8750
       ],
       [
-        6191,
-        7301
+        6212,
+        7308
       ],
       [
-        9420,
-        6164
+        9427,
+        6190
       ],
       [
-        11018,
-        6235
+        10975,
+        6240
       ],
       [
-        10891,
-        8884
+        10929,
+        7563
       ],
       [
-        6136,
-        8764
+        9774,
+        7625
+      ],
+      [
+        7202,
+        8768
+      ],
+      [
+        6166,
+        8750
       ]
     ],
     "created": "2022-06-29T09:01:31.573658+00:00",
     "transformation_method": "affine",
     "mapID": "1dd04da5-1646-5eb6-a9f8-490984d9785d",
     "affine_transformation": null,
-    "changed": "2022-06-29T09:57:32.018667+00:00",
+    "changed": "2022-09-19T13:11:33.053648+00:00",
     "gcps": [
-      {
-        "location": [
-          -0.1958980831486273,
-          5.554124132002343
-        ],
-        "pixel": [
-          9956,
-          6723
-        ]
-      },
       {
         "location": [
           -1.7518368038517516,
@@ -85,6 +83,26 @@
         "pixel": [
           7206,
           7931
+        ]
+      },
+      {
+        "location": [
+          -0.2116710502753876,
+          5.540430626142324
+        ],
+        "pixel": [
+          9956,
+          6723
+        ]
+      },
+      {
+        "location": [
+          -2.2427842467884553,
+          4.865482928650508
+        ],
+        "pixel": [
+          6231,
+          8219
         ]
       },
       {

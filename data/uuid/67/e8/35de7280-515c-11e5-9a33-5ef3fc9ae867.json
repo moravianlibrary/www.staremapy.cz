@@ -9,7 +9,7 @@
   "external_id": "uuid:35de7280-515c-11e5-9a33-5ef3fc9ae867",
   "title": "Atlas k dějinám rakouským: pro vyšší třídy škol středních a jiné toho řádu ústavy, mapa ze strany: [14],[15]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:a4e645f0-4b11-11e5-8851-005056827e51?page=uuid:35de7280-515c-11e5-9a33-5ef3fc9ae867",
@@ -28,20 +28,28 @@
         805
       ],
       [
-        4317,
-        3417
+        4327,
+        3399
       ],
       [
-        7527,
-        3410
+        7520,
+        3397
       ],
       [
-        7530,
-        2700
+        7521,
+        2739
       ],
       [
-        8623,
-        2706
+        7522,
+        2694
+      ],
+      [
+        8608,
+        2698
+      ],
+      [
+        8608,
+        2544
       ],
       [
         8760,
@@ -52,16 +60,20 @@
         2553
       ],
       [
-        8963,
-        1577
+        8976,
+        1739
       ],
       [
-        8623,
-        1451
+        8775,
+        1648
       ],
       [
-        8627,
-        787
+        8617,
+        1508
+      ],
+      [
+        8618,
+        795
       ],
       [
         4335,
@@ -72,7 +84,7 @@
     "transformation_method": "affine",
     "mapID": "a610afca-38ad-4b98-8d11-f84b860c37b7",
     "affine_transformation": null,
-    "changed": "2022-06-20T17:36:28.835458+00:00",
+    "changed": "2022-09-23T11:34:02.224984+00:00",
     "gcps": [
       {
         "location": [
@@ -122,6 +134,26 @@
         "pixel": [
           6768,
           3239
+        ]
+      },
+      {
+        "location": [
+          13.967590283897653,
+          50.61770344146538
+        ],
+        "pixel": [
+          5029,
+          1681
+        ]
+      },
+      {
+        "location": [
+          15.072250186965888,
+          52.05168061105252
+        ],
+        "pixel": [
+          5469,
+          904
         ]
       }
     ]
