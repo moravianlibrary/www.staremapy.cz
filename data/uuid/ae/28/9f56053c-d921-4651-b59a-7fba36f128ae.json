@@ -9,7 +9,7 @@
   "external_id": "9f56053c-d921-4651-b59a-7fba36f128ae",
   "title": "Přehledná letecká mapa republiky Československé",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,39 @@
   "georefereces": {
     "cutline": [
       [
-        4425,
-        1493
+        5397,
+        1561
       ],
       [
-        4201,
-        3429
+        5342,
+        2232
       ],
       [
-        7077,
-        3643
+        4362,
+        2161
       ],
       [
-        7254,
-        1660
+        4245,
+        3428
       ],
       [
-        4425,
-        1493
+        7079,
+        3637
+      ],
+      [
+        7237,
+        1682
+      ],
+      [
+        5397,
+        1561
       ]
     ],
     "created": "2022-06-24T20:21:53.788593+00:00",
     "transformation_method": "affine",
     "mapID": "cbefe89c-038e-5eef-ba35-0cf86209338a",
     "affine_transformation": null,
-    "changed": "2022-06-24T20:29:11.513123+00:00",
+    "changed": "2022-09-27T08:01:19.524085+00:00",
     "gcps": [
       {
         "location": [
@@ -182,22 +190,22 @@
       },
       {
         "location": [
-          14.459905990362548,
-          50.10338988154902
-        ],
-        "pixel": [
-          5105,
-          2735
-        ]
-      },
-      {
-        "location": [
           14.426947005987548,
           50.09436047517252
         ],
         "pixel": [
           4440,
           2923
+        ]
+      },
+      {
+        "location": [
+          14.480118870566093,
+          50.10559156727709
+        ],
+        "pixel": [
+          5379,
+          2701
         ]
       }
     ]
