@@ -9,7 +9,7 @@
   "external_id": "e637a40a-bf16-40cc-9ad5-f646bf83dbbf",
   "title": "Slovanský zeměvid",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -25,11 +25,15 @@
     "cutline": [
       [
         4147,
-        873
+        876
       ],
       [
         4131,
         2827
+      ],
+      [
+        3165,
+        2825
       ],
       [
         1080,
@@ -41,14 +45,14 @@
       ],
       [
         4147,
-        873
+        876
       ]
     ],
     "created": "2019-02-04T10:33:03.816020+00:00",
     "transformation_method": "affine",
     "mapID": "4ffc9433-655a-528d-ab92-c71d57cb515f",
     "affine_transformation": null,
-    "changed": "2019-02-04T10:33:03.816020+00:00",
+    "changed": "2022-10-06T16:45:07.208927+00:00",
     "gcps": [
       {
         "location": [
@@ -78,6 +82,16 @@
         "pixel": [
           1229,
           2098
+        ]
+      },
+      {
+        "location": [
+          32.38180504355905,
+          67.15110438030845
+        ],
+        "pixel": [
+          2342,
+          1245
         ]
       },
       {

@@ -9,7 +9,7 @@
   "external_id": "uuid:9f4fb0ca-82e0-11e0-bc9f-0050569d679d",
   "title": "Atlas Novus indicibus instructus, Oder Neuer mit Wort=Registern versehener Atlas, mapa ze strany: [32]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:844c421a-82e0-11e0-bc9f-0050569d679d?page=uuid:9f4fb0ca-82e0-11e0-bc9f-0050569d679d",
@@ -28,8 +28,28 @@
         4758
       ],
       [
-        4035,
-        4780
+        2422,
+        4759
+      ],
+      [
+        2890,
+        4767
+      ],
+      [
+        2883,
+        4819
+      ],
+      [
+        3737,
+        4821
+      ],
+      [
+        3734,
+        4782
+      ],
+      [
+        4041,
+        4774
       ],
       [
         4051,
@@ -84,7 +104,7 @@
     "transformation_method": "affine",
     "mapID": "5bcbfbd1-fec0-4942-b706-06fff4afcab7",
     "affine_transformation": null,
-    "changed": "2020-07-14T09:40:17.112294+00:00",
+    "changed": "2022-10-04T12:41:46.096952+00:00",
     "gcps": [
       {
         "location": [
@@ -124,6 +144,26 @@
         "pixel": [
           1240,
           5138
+        ]
+      },
+      {
+        "location": [
+          -35.43564686526683,
+          -5.2032281515571555
+        ],
+        "pixel": [
+          3684,
+          5381
+        ]
+      },
+      {
+        "location": [
+          -43.207055434530446,
+          -22.909344246669008
+        ],
+        "pixel": [
+          2764,
+          7535
         ]
       }
     ]

@@ -12,7 +12,7 @@
   "external_id": "4c0b31b4-3658-4ef6-9c41-19614b2262a9",
   "title": "Moravská Ostrava =",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,35 +27,39 @@
   "georefereces": {
     "cutline": [
       [
-        6115,
-        1566
+        6125,
+        1568
       ],
       [
-        9296,
-        1561
+        8236,
+        1567
       ],
       [
-        9296,
-        4590
+        9284,
+        1570
       ],
       [
-        8926,
-        5079
+        9284,
+        4557
       ],
       [
-        6112,
-        5093
+        8923,
+        5072
       ],
       [
-        6115,
-        1566
+        6120,
+        5089
+      ],
+      [
+        6125,
+        1568
       ]
     ],
     "created": "2022-08-13T14:03:02.782685+00:00",
     "transformation_method": "affine",
     "mapID": "b02fe04f-24a6-57da-8f91-215bd48a7d3c",
     "affine_transformation": null,
-    "changed": "2022-08-13T14:08:29.910869+00:00",
+    "changed": "2022-10-06T16:30:36.550660+00:00",
     "gcps": [
       {
         "location": [

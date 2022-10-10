@@ -9,7 +9,7 @@
   "external_id": "uuid:0265c95f-4a30-11e7-9cbd-001b63bd97ba",
   "title": "Kunštát a Glatz",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:a7e1d22f-a429-4fb5-aa73-1be91d35e276?page=uuid:0265c95f-4a30-11e7-9cbd-001b63bd97ba",
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        522,
-        41
+        523,
+        40
       ],
       [
         523,
-        381
-      ],
-      [
-        75,
         382
       ],
       [
-        77,
+        74,
+        382
+      ],
+      [
+        76,
         39
       ],
       [
-        522,
-        41
+        523,
+        40
       ]
     ],
     "created": "2020-07-07T12:59:17.881053+00:00",
     "transformation_method": "affine",
     "mapID": "b2defb81-9c13-4598-a3a7-a7908c475631",
     "affine_transformation": null,
-    "changed": "2021-06-26T04:24:34.244601+00:00",
+    "changed": "2022-10-07T09:38:08.846348+00:00",
     "gcps": [
       {
         "location": [
@@ -58,16 +58,6 @@
         "pixel": [
           123,
           256
-        ]
-      },
-      {
-        "location": [
-          16.465137829293305,
-          50.29662789225358
-        ],
-        "pixel": [
-          192,
-          316
         ]
       },
       {
@@ -182,16 +172,6 @@
       },
       {
         "location": [
-          16.794904338541155,
-          50.2689562466133
-        ],
-        "pixel": [
-          491,
-          355
-        ]
-      },
-      {
-        "location": [
           16.641154469290523,
           50.2597846651023
         ],
@@ -212,12 +192,32 @@
       },
       {
         "location": [
+          16.45237051438275,
+          50.30516686218226
+        ],
+        "pixel": [
+          183,
+          304
+        ]
+      },
+      {
+        "location": [
+          16.75049739080152,
+          50.26755039597873
+        ],
+        "pixel": [
+          450,
+          355
+        ]
+      },
+      {
+        "location": [
           16.34112604081743,
           50.270685102847665
         ],
         "pixel": [
-          82,
-          353
+          81,
+          352
         ]
       }
     ]

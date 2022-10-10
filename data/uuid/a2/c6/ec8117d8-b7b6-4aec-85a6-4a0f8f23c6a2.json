@@ -9,7 +9,7 @@
   "external_id": "ec8117d8-b7b6-4aec-85a6-4a0f8f23c6a2",
   "title": "Jižní Čechy",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "e142e265-fb40-5a29-9486-b81bd9210187",
     "affine_transformation": null,
-    "changed": "2022-01-21T07:19:08.847872+00:00",
+    "changed": "2022-10-05T16:33:47.018911+00:00",
     "gcps": [
       {
         "location": [
@@ -72,22 +72,32 @@
       },
       {
         "location": [
-          14.471398125483834,
-          48.972947319030055
-        ],
-        "pixel": [
-          3287,
-          1424
-        ]
-      },
-      {
-        "location": [
           14.479439703664498,
           48.97548258052731
         ],
         "pixel": [
           3128,
           1560
+        ]
+      },
+      {
+        "location": [
+          14.470759759738279,
+          48.97321141478514
+        ],
+        "pixel": [
+          3290,
+          1435
+        ]
+      },
+      {
+        "location": [
+          14.482560832117583,
+          48.9864589436402
+        ],
+        "pixel": [
+          3138,
+          1928
         ]
       }
     ]

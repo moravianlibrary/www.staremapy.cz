@@ -9,7 +9,7 @@
   "external_id": "uuid:9a6255c9-fa0a-11e4-9a6b-001b63bd97ba",
   "title": "Circuli Austriaci in que sunt Archiducatus Austriae",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:16b2b2f8-c66b-11e4-8731-1681e6b88ec1?page=uuid:9a6255c9-fa0a-11e4-9a6b-001b63bd97ba",
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        47,
+        49,
+        43
+      ],
+      [
+        173,
         42
       ],
       [
-        173,
-        41
-      ],
-      [
-        173,
+        172,
         119
       ],
       [
-        48,
+        49,
         120
       ],
       [
-        47,
-        42
+        49,
+        43
       ]
     ],
     "created": "2022-08-11T17:48:58.631106+00:00",
     "transformation_method": "affine",
     "mapID": "3543d73b-1a10-4645-a453-e8c7789f4973",
     "affine_transformation": null,
-    "changed": "2022-08-11T17:58:37.751562+00:00",
+    "changed": "2022-10-08T20:13:30.924671+00:00",
     "gcps": [
       {
         "location": [
@@ -158,6 +158,66 @@
         "pixel": [
           52,
           108
+        ]
+      },
+      {
+        "location": [
+          10.315489618143662,
+          47.726339775183845
+        ],
+        "pixel": [
+          76,
+          46
+        ]
+      },
+      {
+        "location": [
+          11.658456340728549,
+          46.71756607140233
+        ],
+        "pixel": [
+          133,
+          83
+        ]
+      },
+      {
+        "location": [
+          10.37442924111917,
+          46.46937760035331
+        ],
+        "pixel": [
+          85,
+          102
+        ]
+      },
+      {
+        "location": [
+          11.158578411041045,
+          46.667642345800886
+        ],
+        "pixel": [
+          113,
+          89
+        ]
+      },
+      {
+        "location": [
+          11.508767620025367,
+          47.28324983116781
+        ],
+        "pixel": [
+          123,
+          63
+        ]
+      },
+      {
+        "location": [
+          11.88394079808919,
+          47.23198670897196
+        ],
+        "pixel": [
+          139,
+          61
         ]
       }
     ]
