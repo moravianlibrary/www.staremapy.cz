@@ -9,7 +9,7 @@
   "external_id": "uuid:48d1c699-910b-11e0-82d6-0050569d679d",
   "title": "Speculum nauticum super navigatione maris Occidentalis confectum, continens omnes oras maritimas Galliae, Hispaniae et praecipuarum partium Angliae, in diuersis mappis maritimis comprehensum una cum usu et interpretatione carundem, accurata diligentia concinnatum, et elaboratum., mapa ze strany: [68]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:0cfeae45-910b-11e0-82d6-0050569d679d?page=uuid:48d1c699-910b-11e0-82d6-0050569d679d",
@@ -24,51 +24,183 @@
   "georefereces": {
     "cutline": [
       [
-        3631,
-        251
+        3654,
+        245
       ],
       [
-        3661,
-        2422
+        3655,
+        726
       ],
       [
-        1903,
-        2432
+        3077,
+        771
+      ],
+      [
+        2913,
+        826
+      ],
+      [
+        2808,
+        570
+      ],
+      [
+        2771,
+        549
+      ],
+      [
+        2673,
+        678
+      ],
+      [
+        2577,
+        752
+      ],
+      [
+        2650,
+        980
+      ],
+      [
+        2636,
+        1094
+      ],
+      [
+        3207,
+        1142
+      ],
+      [
+        3223,
+        1179
+      ],
+      [
+        3262,
+        1211
+      ],
+      [
+        3316,
+        1233
+      ],
+      [
+        3359,
+        1231
+      ],
+      [
+        3412,
+        1164
+      ],
+      [
+        3663,
+        1157
+      ],
+      [
+        3664,
+        1208
+      ],
+      [
+        3675,
+        1240
+      ],
+      [
+        3659,
+        1253
+      ],
+      [
+        3663,
+        1665
+      ],
+      [
+        3678,
+        1679
+      ],
+      [
+        3679,
+        1788
+      ],
+      [
+        3663,
+        1833
+      ],
+      [
+        3672,
+        2436
+      ],
+      [
+        2275,
+        2442
+      ],
+      [
+        2204,
+        2192
+      ],
+      [
+        2109,
+        2073
+      ],
+      [
+        1911,
+        1940
+      ],
+      [
+        1788,
+        1907
       ],
       [
         1499,
         1527
       ],
       [
-        794,
-        1292
+        701,
+        1351
       ],
       [
-        337,
-        1577
+        330,
+        1545
       ],
       [
-        336,
-        540
+        321,
+        1072
+      ],
+      [
+        322,
+        920
+      ],
+      [
+        321,
+        541
       ],
       [
         1865,
         515
       ],
       [
-        1695,
-        288
+        1864,
+        487
       ],
       [
-        3631,
-        251
+        1760,
+        413
+      ],
+      [
+        1690,
+        386
+      ],
+      [
+        1678,
+        260
+      ],
+      [
+        2421,
+        250
+      ],
+      [
+        3654,
+        245
       ]
     ],
     "created": "2020-07-07T07:24:31.631598+00:00",
     "transformation_method": "affine",
     "mapID": "f305ce79-7138-4d9a-8b5d-ca1844938484",
     "affine_transformation": null,
-    "changed": "2022-07-12T13:44:04.737071+00:00",
+    "changed": "2022-10-12T11:20:56.583867+00:00",
     "gcps": [
       {
         "location": [
@@ -168,6 +300,36 @@
         "pixel": [
           3479,
           1752
+        ]
+      },
+      {
+        "location": [
+          -2.4486448906481106,
+          49.471081807617736
+        ],
+        "pixel": [
+          3243,
+          1756
+        ]
+      },
+      {
+        "location": [
+          0.10471852488327643,
+          49.49125162437136
+        ],
+        "pixel": [
+          411,
+          1261
+        ]
+      },
+      {
+        "location": [
+          -1.5115170234145368,
+          48.636006221449065
+        ],
+        "pixel": [
+          2175,
+          405
         ]
       }
     ]

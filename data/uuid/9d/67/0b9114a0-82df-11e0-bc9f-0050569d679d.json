@@ -9,7 +9,7 @@
   "external_id": "uuid:0b9114a0-82df-11e0-bc9f-0050569d679d",
   "title": "Atlas Ameriquain Septentrional Contenant, mapa ze strany: [14]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:00748972-82df-11e0-bc9f-0050569d679d?page=uuid:0b9114a0-82df-11e0-bc9f-0050569d679d",
@@ -24,16 +24,32 @@
   "georefereces": {
     "cutline": [
       [
-        2802,
-        343
+        2905,
+        522
       ],
       [
-        2829,
-        2739
+        2907,
+        2128
       ],
       [
-        1463,
-        2770
+        2736,
+        2188
+      ],
+      [
+        2587,
+        2441
+      ],
+      [
+        2100,
+        2726
+      ],
+      [
+        1478,
+        2754
+      ],
+      [
+        1288,
+        3168
       ],
       [
         1047,
@@ -44,27 +60,27 @@
         3206
       ],
       [
-        723,
-        790
+        725,
+        797
       ],
       [
-        1170,
-        794
+        1184,
+        799
       ],
       [
-        1162,
-        319
+        1176,
+        500
       ],
       [
-        2802,
-        343
+        2905,
+        522
       ]
     ],
     "created": "2020-07-21T12:11:21.356700+00:00",
     "transformation_method": "affine",
     "mapID": "28b453da-7d25-4f81-82e5-9259fc1d22c4",
     "affine_transformation": null,
-    "changed": "2020-07-21T12:11:21.356700+00:00",
+    "changed": "2022-10-14T12:04:09.069354+00:00",
     "gcps": [
       {
         "location": [
@@ -334,6 +350,16 @@
         "pixel": [
           1892,
           2489
+        ]
+      },
+      {
+        "location": [
+          -71.05107406955464,
+          42.36373859194262
+        ],
+        "pixel": [
+          2512,
+          1260
         ]
       }
     ]

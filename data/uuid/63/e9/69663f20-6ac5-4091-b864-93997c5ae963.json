@@ -9,7 +9,7 @@
   "external_id": "69663f20-6ac5-4091-b864-93997c5ae963",
   "title": "Karte zur Orientirung der Aussicht von den auf dem Felsenkamme (sogenannten \"Babylom\")",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,46 +24,40 @@
   "georefereces": {
     "cutline": [
       [
-        1269,
-        10777
+        1153,
+        10872
       ],
       [
-        4605,
-        10791
+        4700,
+        10877
       ],
       [
-        4672,
-        15269
+        4686,
+        15164
       ],
       [
-        1202,
-        15197
+        2533,
+        15093
       ],
       [
-        1170,
-        10773
+        1136,
+        14963
       ],
       [
-        1269,
-        10777
+        1149,
+        12677
+      ],
+      [
+        1153,
+        10872
       ]
     ],
     "created": "2022-07-04T15:35:43.379212+00:00",
     "transformation_method": "affine",
     "mapID": "74645ef2-5571-510a-a9c0-c9273ae752b7",
     "affine_transformation": null,
-    "changed": "2022-07-04T15:43:04.504578+00:00",
+    "changed": "2022-10-13T11:26:36.048223+00:00",
     "gcps": [
-      {
-        "location": [
-          16.56155884925654,
-          49.30565625956902
-        ],
-        "pixel": [
-          3729,
-          13368
-        ]
-      },
       {
         "location": [
           16.56443417732051,
@@ -132,6 +126,26 @@
         "pixel": [
           3526,
           14428
+        ]
+      },
+      {
+        "location": [
+          16.576082713515607,
+          49.30511180444401
+        ],
+        "pixel": [
+          3502,
+          13808
+        ]
+      },
+      {
+        "location": [
+          16.561758025642682,
+          49.30598467425128
+        ],
+        "pixel": [
+          3729,
+          13368
         ]
       }
     ]

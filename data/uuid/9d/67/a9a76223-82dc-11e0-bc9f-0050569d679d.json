@@ -9,7 +9,7 @@
   "external_id": "uuid:a9a76223-82dc-11e0-bc9f-0050569d679d",
   "title": "Grosser Erdbeschreibung. Blatt N. 607-697, mapa ze strany: [83]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:637c6f30-82dc-11e0-bc9f-0050569d679d?page=uuid:a9a76223-82dc-11e0-bc9f-0050569d679d",
@@ -92,7 +92,7 @@
     "transformation_method": "affine",
     "mapID": "c6da43f8-b778-496f-b53d-650047c6130d",
     "affine_transformation": null,
-    "changed": "2020-08-27T07:52:38.291579+00:00",
+    "changed": "2022-10-12T07:32:27.745071+00:00",
     "gcps": [
       {
         "location": [
@@ -132,6 +132,16 @@
         "pixel": [
           5010,
           1375
+        ]
+      },
+      {
+        "location": [
+          -6.281530962533163,
+          57.01192652060283
+        ],
+        "pixel": [
+          4948,
+          1234
         ]
       }
     ]

@@ -9,7 +9,7 @@
   "external_id": "uuid:ae0160a4-49ba-11e7-95ac-001b63bd97ba",
   "title": "Přerov",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:d1f96a22-3144-4a3b-90da-6327f8a0d955?page=uuid:ae0160a4-49ba-11e7-95ac-001b63bd97ba",
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        535,
-        38
+        538,
+        36
       ],
       [
         538,
-        380
+        383
+      ],
+      [
+        83,
+        382
       ],
       [
         84,
-        380
+        37
       ],
       [
-        86,
-        38
-      ],
-      [
-        535,
-        38
+        538,
+        36
       ]
     ],
     "created": "2020-07-07T12:59:08.353043+00:00",
     "transformation_method": "affine",
     "mapID": "81225a67-c621-497f-bc89-be5340e51b1d",
     "affine_transformation": null,
-    "changed": "2022-09-30T09:13:17.881632+00:00",
+    "changed": "2022-10-14T11:48:04.904688+00:00",
     "gcps": [
       {
         "location": [
@@ -72,32 +72,12 @@
       },
       {
         "location": [
-          17.3961139306402,
-          49.29754328098224
-        ],
-        "pixel": [
-          144,
-          313
-        ]
-      },
-      {
-        "location": [
           17.338556433731423,
           49.26944510497509
         ],
         "pixel": [
           89,
           353
-        ]
-      },
-      {
-        "location": [
-          17.453736703055444,
-          49.315387105647176
-        ],
-        "pixel": [
-          193,
-          291
         ]
       },
       {
@@ -168,6 +148,26 @@
         "pixel": [
           524,
           41
+        ]
+      },
+      {
+        "location": [
+          17.3961139306402,
+          49.29754328098224
+        ],
+        "pixel": [
+          142,
+          315
+        ]
+      },
+      {
+        "location": [
+          17.466599482149043,
+          49.31481941287802
+        ],
+        "pixel": [
+          205,
+          292
         ]
       }
     ]

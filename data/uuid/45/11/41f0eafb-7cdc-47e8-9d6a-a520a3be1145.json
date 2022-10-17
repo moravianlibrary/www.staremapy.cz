@@ -12,7 +12,7 @@
   "external_id": "41f0eafb-7cdc-47e8-9d6a-a520a3be1145",
   "title": "Broumov-Braunau-Úpice",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,8 +27,8 @@
   "georefereces": {
     "cutline": [
       [
-        10575,
-        6145
+        10583,
+        6152
       ],
       [
         12735,
@@ -43,23 +43,23 @@
         7586
       ],
       [
-        10929,
-        7205
+        10938,
+        7199
+      ],
+      [
+        10591,
+        7201
       ],
       [
         10583,
-        7202
-      ],
-      [
-        10575,
-        6145
+        6152
       ]
     ],
     "created": "2022-06-15T15:36:45.801407+00:00",
     "transformation_method": "affine",
     "mapID": "3a353d6e-21aa-5235-8f9e-d9478e45dade",
     "affine_transformation": null,
-    "changed": "2022-06-15T15:39:30.642742+00:00",
+    "changed": "2022-10-10T11:46:49.282522+00:00",
     "gcps": [
       {
         "location": [
@@ -159,6 +159,26 @@
         "pixel": [
           12413,
           6412
+        ]
+      },
+      {
+        "location": [
+          16.093602131036935,
+          50.476320834484284
+        ],
+        "pixel": [
+          12210,
+          6857
+        ]
+      },
+      {
+        "location": [
+          16.09168516155048,
+          50.47860659315177
+        ],
+        "pixel": [
+          11985,
+          6552
         ]
       }
     ]
