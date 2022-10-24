@@ -9,7 +9,7 @@
   "external_id": "uuid:d7b4bfaf-1b3d-11e5-ac23-001b63bd97ba",
   "title": "Artaria's Eisenbahn- u. Post-Communications-Karte von Oesterreich-Ungarn 1895",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5a953-00c9-11e5-b939-0800200c9a66?page=uuid:d7b4bfaf-1b3d-11e5-ac23-001b63bd97ba",
@@ -25,30 +25,34 @@
     "cutline": [
       [
         58,
-        397
-      ],
-      [
-        57,
-        62
-      ],
-      [
-        -3,
-        70
-      ],
-      [
-        -1,
-        397
+        394
       ],
       [
         58,
-        397
+        337
+      ],
+      [
+        59,
+        64
+      ],
+      [
+        0,
+        64
+      ],
+      [
+        0,
+        394
+      ],
+      [
+        58,
+        394
       ]
     ],
     "created": "2022-06-25T14:41:35.409842+00:00",
     "transformation_method": "affine",
     "mapID": "ba727806-898f-4010-9099-f2b2bb3e4f58",
     "affine_transformation": null,
-    "changed": "2022-06-25T14:44:57.228127+00:00",
+    "changed": "2022-10-18T12:15:15.412546+00:00",
     "gcps": [
       {
         "location": [
@@ -178,6 +182,36 @@
         "pixel": [
           52,
           202
+        ]
+      },
+      {
+        "location": [
+          25.941439663132215,
+          48.28519473271939
+        ],
+        "pixel": [
+          21,
+          245
+        ]
+      },
+      {
+        "location": [
+          23.60135177250722,
+          46.77202887172487
+        ],
+        "pixel": [
+          5,
+          276
+        ]
+      },
+      {
+        "location": [
+          28.10820130434356,
+          49.02788887880928
+        ],
+        "pixel": [
+          41,
+          228
         ]
       }
     ]

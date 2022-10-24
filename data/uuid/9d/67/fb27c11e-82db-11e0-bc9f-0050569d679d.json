@@ -9,7 +9,7 @@
   "external_id": "uuid:fb27c11e-82db-11e0-bc9f-0050569d679d",
   "title": "Grosser Erdbeschreibung. Zweyten Theil, Blatt N. 92-427., mapa ze strany: [108]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:9f27a8c2-82db-11e0-bc9f-0050569d679d?page=uuid:fb27c11e-82db-11e0-bc9f-0050569d679d",
@@ -24,23 +24,23 @@
   "georefereces": {
     "cutline": [
       [
-        1175,
+        1178,
         1621
       ],
       [
-        1761,
-        1622
+        1758,
+        1618
       ],
       [
         1764,
-        952
+        954
       ],
       [
         1182,
         953
       ],
       [
-        1175,
+        1178,
         1621
       ]
     ],
@@ -48,8 +48,49 @@
     "transformation_method": "affine",
     "mapID": "ed7f60ea-4e97-41d3-8539-4487dd288305",
     "affine_transformation": null,
-    "changed": "2022-07-08T17:48:27.261317+00:00",
-    "gcps": []
+    "changed": "2022-10-20T11:22:29.849299+00:00",
+    "gcps": [
+      {
+        "location": [
+          9.393952195724092,
+          48.29088287907555
+        ],
+        "pixel": [
+          1519,
+          1487
+        ]
+      },
+      {
+        "location": [
+          9.432869260827397,
+          48.3206461789662
+        ],
+        "pixel": [
+          1560,
+          1420
+        ]
+      },
+      {
+        "location": [
+          9.428640843122727,
+          48.35106710384974
+        ],
+        "pixel": [
+          1496,
+          1214
+        ]
+      },
+      {
+        "location": [
+          9.30783825710974,
+          48.34572845514856
+        ],
+        "pixel": [
+          1362,
+          1252
+        ]
+      }
+    ]
   },
   "pubdate": ["1780-1800"]
 }

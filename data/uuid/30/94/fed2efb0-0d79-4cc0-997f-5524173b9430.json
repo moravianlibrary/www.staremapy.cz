@@ -9,7 +9,7 @@
   "external_id": "fed2efb0-0d79-4cc0-997f-5524173b9430",
   "title": "Tarnopol, Brody, Stryj, Czernowitz",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,47 @@
   "georefereces": {
     "cutline": [
       [
-        10628,
-        1276
+        10660,
+        1250
       ],
       [
-        10676,
-        8949
+        10696,
+        5073
       ],
       [
-        1621,
-        9029
+        10724,
+        9011
       ],
       [
-        1550,
-        1319
+        6126,
+        9031
       ],
       [
-        10628,
-        1276
+        1591,
+        9055
+      ],
+      [
+        1538,
+        4409
+      ],
+      [
+        1510,
+        1293
+      ],
+      [
+        5286,
+        1271
+      ],
+      [
+        10660,
+        1250
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "9b37970e-dd18-5b11-9e47-598ec157086d",
     "affine_transformation": null,
-    "changed": "2022-10-13T11:06:48.433022+00:00",
+    "changed": "2022-10-20T10:59:13.360721+00:00",
     "gcps": [
       {
         "location": [
@@ -98,6 +114,16 @@
         "pixel": [
           7837,
           3460
+        ]
+      },
+      {
+        "location": [
+          25.39484028900572,
+          49.062099778682864
+        ],
+        "pixel": [
+          6653,
+          5331
         ]
       },
       {

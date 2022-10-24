@@ -9,7 +9,7 @@
   "external_id": "uuid:97a990b9-19e7-11e5-8ab9-001b63bd97ba",
   "title": "G. Freytags Verkehrskarte von Österreich-Ungarn",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5a917-00c9-11e5-b939-0800200c9a66?page=uuid:97a990b9-19e7-11e5-8ab9-001b63bd97ba",
@@ -25,11 +25,15 @@
     "cutline": [
       [
         181,
-        119
+        118
       ],
       [
         220,
         119
+      ],
+      [
+        219,
+        132
       ],
       [
         219,
@@ -44,31 +48,47 @@
         141
       ],
       [
+        158,
+        138
+      ],
+      [
         159,
         135
+      ],
+      [
+        161,
+        131
       ],
       [
         162,
         129
       ],
       [
+        164,
+        127
+      ],
+      [
         167,
         125
       ],
       [
-        173,
-        122
+        171,
+        123
+      ],
+      [
+        176,
+        120
       ],
       [
         181,
-        119
+        118
       ]
     ],
     "created": "2020-08-21T18:28:22.706938+00:00",
     "transformation_method": "affine",
     "mapID": "ce97c1e4-691f-4282-a1a3-65f547f01f02",
     "affine_transformation": null,
-    "changed": "2020-08-21T18:28:22.706938+00:00",
+    "changed": "2022-10-20T11:39:26.884415+00:00",
     "gcps": [
       {
         "location": [

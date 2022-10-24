@@ -9,7 +9,7 @@
   "external_id": "uuid:cd599e5b-a583-11e6-99ff-001b63bd97ba",
   "title": "Die Brittischen Jnseln : England, Schotland, Jreland",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:1297c2b4-3003-11e6-ac61-9e71128cae77?page=uuid:cd599e5b-a583-11e6-99ff-001b63bd97ba",
@@ -56,7 +56,7 @@
     "transformation_method": "affine",
     "mapID": "509de4f5-236a-4ffb-99bd-a1b06de15f86",
     "affine_transformation": null,
-    "changed": "2022-07-09T01:46:42.226197+00:00",
+    "changed": "2022-10-18T06:58:47.731034+00:00",
     "gcps": [
       {
         "location": [
@@ -146,6 +146,16 @@
         "pixel": [
           80,
           140
+        ]
+      },
+      {
+        "location": [
+          -3.1840646229559932,
+          55.95360436809224
+        ],
+        "pixel": [
+          94,
+          157
         ]
       }
     ]

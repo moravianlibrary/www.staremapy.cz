@@ -9,7 +9,7 @@
   "external_id": "uuid:9a2761fd-19e7-11e5-8ab9-001b63bd97ba",
   "title": "Mapa školství království Českého",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5a911-00c9-11e5-b939-0800200c9a66?page=uuid:9a2761fd-19e7-11e5-8ab9-001b63bd97ba",
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "5f3bd54b-732a-4051-9535-48cf15c64948",
     "affine_transformation": null,
-    "changed": "2022-08-19T16:36:08.528954+00:00",
+    "changed": "2022-10-18T06:53:30.066908+00:00",
     "gcps": [
       {
         "location": [
@@ -98,6 +98,46 @@
         "pixel": [
           535,
           395
+        ]
+      },
+      {
+        "location": [
+          14.458034381056754,
+          50.04793545125801
+        ],
+        "pixel": [
+          544,
+          400
+        ]
+      },
+      {
+        "location": [
+          14.471423968459098,
+          50.07041746057169
+        ],
+        "pixel": [
+          544,
+          397
+        ]
+      },
+      {
+        "location": [
+          14.403789385939566,
+          50.07460412187103
+        ],
+        "pixel": [
+          539,
+          397
+        ]
+      },
+      {
+        "location": [
+          14.437778338576285,
+          50.09597243333084
+        ],
+        "pixel": [
+          543,
+          393
         ]
       }
     ]
