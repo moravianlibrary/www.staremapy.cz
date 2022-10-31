@@ -9,7 +9,7 @@
   "external_id": "34829",
   "title": "Orientační plán hlavního města Prahy s okolím",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "ed9bf0a6-a7d8-592a-9853-f5b26af29210",
     "affine_transformation": null,
-    "changed": "2015-06-22T17:27:10.170720+00:00",
+    "changed": "2022-10-24T06:14:02.837471+00:00",
     "gcps": [
       {
         "location": [
@@ -108,6 +108,26 @@
         "pixel": [
           11597,
           11749
+        ]
+      },
+      {
+        "location": [
+          14.38555263626728,
+          50.15231645911294
+        ],
+        "pixel": [
+          7620,
+          4599
+        ]
+      },
+      {
+        "location": [
+          14.396155782124834,
+          50.15539237354082
+        ],
+        "pixel": [
+          11173,
+          3033
         ]
       }
     ]

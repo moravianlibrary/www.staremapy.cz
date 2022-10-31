@@ -13,7 +13,7 @@
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
+  "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": "Kriegshilfe",
@@ -48,17 +48,49 @@
     "transformation_method": "affine",
     "mapID": "4e3705f8-0ae1-5497-81e0-b007ccbb579a",
     "affine_transformation": null,
-    "changed": "2021-09-25T13:37:59.183370+00:00",
-    "gcps": [{
-      "location": [
-        14.135912509856615,
-        50.541157581192294
-      ],
-      "pixel": [
-        1202,
-        918
-      ]
-    }]
+    "changed": "2022-10-24T20:44:59.042242+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.135912509856615,
+          50.541157581192294
+        ],
+        "pixel": [
+          1202,
+          918
+        ]
+      },
+      {
+        "location": [
+          14.410505584499358,
+          50.55694786547363
+        ],
+        "pixel": [
+          1439,
+          909
+        ]
+      },
+      {
+        "location": [
+          14.399962399352711,
+          50.560007867070226
+        ],
+        "pixel": [
+          1422,
+          903
+        ]
+      },
+      {
+        "location": [
+          14.399810089039937,
+          50.55987424958835
+        ],
+        "pixel": [
+          1422,
+          903
+        ]
+      }
+    ]
   },
   "pubdate": ["1915"]
 }
