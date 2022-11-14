@@ -12,7 +12,7 @@
   "external_id": "1041190",
   "title": "Plan von Prag, Karolinenthal, Smichow, Wyschehrad, Žižkov, königl. Weinberge und der nächsten Umgebung",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -67,7 +67,7 @@
     "transformation_method": "affine",
     "mapID": "dc015e77-70b4-50b8-918d-35808fb41d96",
     "affine_transformation": null,
-    "changed": "2021-10-27T19:50:28.066778+00:00",
+    "changed": "2022-11-09T06:07:06.826042+00:00",
     "gcps": [
       {
         "location": [
@@ -97,6 +97,46 @@
         "pixel": [
           1807,
           520
+        ]
+      },
+      {
+        "location": [
+          14.393785386902064,
+          50.07215192716558
+        ],
+        "pixel": [
+          449,
+          1282
+        ]
+      },
+      {
+        "location": [
+          14.417256451588312,
+          50.06720716791125
+        ],
+        "pixel": [
+          1031,
+          1470
+        ]
+      },
+      {
+        "location": [
+          14.431326005345527,
+          50.0786333464782
+        ],
+        "pixel": [
+          1378,
+          1033
+        ]
+      },
+      {
+        "location": [
+          14.40422889020782,
+          50.07205609781343
+        ],
+        "pixel": [
+          702,
+          1266
         ]
       },
       {
@@ -147,6 +187,16 @@
         "pixel": [
           1159,
           685
+        ]
+      },
+      {
+        "location": [
+          14.402736206316119,
+          50.08797699663137
+        ],
+        "pixel": [
+          669,
+          662
         ]
       }
     ]

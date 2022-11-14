@@ -9,7 +9,7 @@
   "external_id": "1117909",
   "title": "Carte d'une partie des Indes orientales, estats du Mogol les côtes de Malabar et de Coromandel &c",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,39 @@
   "georefereces": {
     "cutline": [
       [
-        172,
-        2996
+        180,
+        2991
       ],
       [
-        2604,
-        2998
+        2219,
+        2723
       ],
       [
-        2604,
+        2598,
+        2712
+      ],
+      [
+        2599,
+        2370
+      ],
+      [
+        2593,
         348
       ],
       [
-        176,
-        344
+        179,
+        347
       ],
       [
-        172,
-        2996
+        180,
+        2991
       ]
     ],
     "created": "2017-04-10T16:39:27.858980+00:00",
     "transformation_method": "affine",
     "mapID": "5441ca5f-6e01-548b-b290-f64290b2b5d8",
     "affine_transformation": null,
-    "changed": "2021-08-02T09:06:28.448161+00:00",
+    "changed": "2022-11-13T03:52:42.134624+00:00",
     "gcps": [
       {
         "location": [
@@ -108,6 +116,16 @@
         "pixel": [
           1647,
           650
+        ]
+      },
+      {
+        "location": [
+          80.21203563264065,
+          6.0325692746733495
+        ],
+        "pixel": [
+          1666,
+          1961
         ]
       },
       {

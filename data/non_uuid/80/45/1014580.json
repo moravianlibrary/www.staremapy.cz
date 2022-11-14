@@ -12,7 +12,7 @@
   "external_id": "1014580",
   "title": "Orléans",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,31 +27,31 @@
   "georefereces": {
     "cutline": [
       [
-        2699,
-        0
+        2144,
+        372
       ],
       [
-        2699,
-        1866
+        2149,
+        1462
       ],
       [
-        0,
-        1866
+        582,
+        1464
       ],
       [
-        0,
-        0
+        576,
+        376
       ],
       [
-        2699,
-        0
+        2144,
+        372
       ]
     ],
     "created": "2013-03-05T14:42:21.588210+00:00",
     "transformation_method": "affine",
     "mapID": "c656b0c4-198a-50f7-ad45-a749bad2d0ce",
     "affine_transformation": null,
-    "changed": "2022-03-28T18:34:26.062080+00:00",
+    "changed": "2022-11-13T09:26:07.839066+00:00",
     "gcps": [
       {
         "location": [
@@ -171,6 +171,36 @@
         "pixel": [
           661,
           491
+        ]
+      },
+      {
+        "location": [
+          1.8782331690659397,
+          47.911324863352405
+        ],
+        "pixel": [
+          808,
+          771
+        ]
+      },
+      {
+        "location": [
+          1.9326725304036565,
+          47.9049782515047
+        ],
+        "pixel": [
+          1844,
+          957
+        ]
+      },
+      {
+        "location": [
+          1.904557594026121,
+          47.89470442215759
+        ],
+        "pixel": [
+          1304,
+          1249
         ]
       }
     ]

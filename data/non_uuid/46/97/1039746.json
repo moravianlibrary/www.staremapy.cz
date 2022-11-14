@@ -12,7 +12,7 @@
   "external_id": "1039746",
   "title": "Plán význačných novostaveb pražských 1919-1934",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,31 +27,31 @@
   "georefereces": {
     "cutline": [
       [
-        557,
-        1557
+        561,
+        1554
       ],
       [
-        2014,
-        1556
+        2012,
+        1554
       ],
       [
-        2014,
-        151
+        2012,
+        152
       ],
       [
-        560,
-        148
+        561,
+        149
       ],
       [
-        557,
-        1557
+        561,
+        1554
       ]
     ],
     "created": "2013-03-24T08:32:05.093290+00:00",
     "transformation_method": "affine",
     "mapID": "dfddd2d8-7712-5c85-a1f0-46737f61f4c4",
     "affine_transformation": null,
-    "changed": "2022-06-11T22:20:28.204256+00:00",
+    "changed": "2022-11-13T06:05:54.941347+00:00",
     "gcps": [
       {
         "location": [
@@ -131,6 +131,36 @@
         "pixel": [
           1400,
           225
+        ]
+      },
+      {
+        "location": [
+          14.3963404932126,
+          50.038362332152275
+        ],
+        "pixel": [
+          919,
+          1353
+        ]
+      },
+      {
+        "location": [
+          14.39063356788699,
+          50.04122149371781
+        ],
+        "pixel": [
+          863,
+          1312
+        ]
+      },
+      {
+        "location": [
+          14.457866501206608,
+          50.03007176941355
+        ],
+        "pixel": [
+          1514,
+          1483
         ]
       }
     ]

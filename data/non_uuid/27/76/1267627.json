@@ -9,7 +9,7 @@
   "external_id": "1267627",
   "title": "Topographische Karte der Schweiz",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,8 +24,8 @@
   "georefereces": {
     "cutline": [
       [
-        143,
-        187
+        142,
+        183
       ],
       [
         3138,
@@ -40,15 +40,15 @@
         2218
       ],
       [
-        143,
-        187
+        142,
+        183
       ]
     ],
     "created": "2017-10-02T04:50:36.841390+00:00",
     "transformation_method": "affine",
     "mapID": "4855a3a7-4135-5789-8d31-7517f4b6875d",
     "affine_transformation": null,
-    "changed": "2022-02-18T02:52:26.641248+00:00",
+    "changed": "2022-11-11T03:58:39.601340+00:00",
     "gcps": [
       {
         "location": [
@@ -112,6 +112,16 @@
       },
       {
         "location": [
+          7.724748617487779,
+          46.9200383628482
+        ],
+        "pixel": [
+          178,
+          619
+        ]
+      },
+      {
+        "location": [
           8.049374465,
           46.742391229
         ],
@@ -128,6 +138,16 @@
         "pixel": [
           2205,
           282
+        ]
+      },
+      {
+        "location": [
+          8.416795739979602,
+          46.61271506320372
+        ],
+        "pixel": [
+          2489,
+          2016
         ]
       }
     ]

@@ -12,7 +12,7 @@
   "external_id": "1173668",
   "title": "Umgebungskarte der Kurstadt Franzensbad",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,31 +27,31 @@
   "georefereces": {
     "cutline": [
       [
-        161,
-        3053
+        176,
+        3026
       ],
       [
-        2452,
-        3053
+        2444,
+        3026
       ],
       [
-        2452,
-        249
+        2435,
+        267
       ],
       [
-        161,
-        249
+        169,
+        266
       ],
       [
-        161,
-        3053
+        176,
+        3026
       ]
     ],
     "created": "2015-04-02T10:04:42.762070+00:00",
     "transformation_method": "affine",
     "mapID": "f979015d-651f-584c-8a9e-6a011604525c",
     "affine_transformation": null,
-    "changed": "2021-10-29T10:10:48.418699+00:00",
+    "changed": "2022-11-13T04:17:14.081356+00:00",
     "gcps": [
       {
         "location": [
@@ -101,6 +101,26 @@
         "pixel": [
           1728,
           2695
+        ]
+      },
+      {
+        "location": [
+          12.304033936219513,
+          50.097074576775924
+        ],
+        "pixel": [
+          713,
+          2278
+        ]
+      },
+      {
+        "location": [
+          12.274506784442277,
+          50.15665790643013
+        ],
+        "pixel": [
+          269,
+          878
         ]
       },
       {

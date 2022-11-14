@@ -9,7 +9,7 @@
   "external_id": "1251005",
   "title": "Philippopel",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        2729,
-        0
+        2603,
+        122
       ],
       [
-        2729,
-        2403
+        2588,
+        2305
       ],
       [
-        0,
-        2403
+        106,
+        2308
       ],
       [
-        0,
-        0
+        116,
+        120
       ],
       [
-        2729,
-        0
+        2603,
+        122
       ]
     ],
     "created": "2015-11-05T16:08:20.603190+00:00",
     "transformation_method": "affine",
     "mapID": "7a66b104-40d0-5ec2-b4d6-f156d254c953",
     "affine_transformation": null,
-    "changed": "2021-07-29T23:10:31.324672+00:00",
+    "changed": "2022-11-13T04:13:58.623804+00:00",
     "gcps": [
       {
         "location": [
@@ -68,6 +68,16 @@
         "pixel": [
           789,
           1484
+        ]
+      },
+      {
+        "location": [
+          25.900680288303484,
+          41.93375898483859
+        ],
+        "pixel": [
+          2489,
+          1743
         ]
       },
       {

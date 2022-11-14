@@ -12,7 +12,7 @@
   "external_id": "839331",
   "title": "Lovanivm Brabantiarum vrbium caput vnica Musaru[m] ac prestantißimarum artium sedes optantißimum que domiciliu[m]",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,31 +27,75 @@
   "georefereces": {
     "cutline": [
       [
-        2099,
-        0
+        1702,
+        248
       ],
       [
-        2099,
-        1597
+        1817,
+        613
       ],
       [
-        0,
-        1597
+        1884,
+        961
       ],
       [
-        0,
-        0
+        1573,
+        1376
       ],
       [
-        2099,
-        0
+        1463,
+        1551
+      ],
+      [
+        690,
+        1551
+      ],
+      [
+        775,
+        1260
+      ],
+      [
+        525,
+        1154
+      ],
+      [
+        360,
+        1081
+      ],
+      [
+        44,
+        1262
+      ],
+      [
+        38,
+        315
+      ],
+      [
+        233,
+        430
+      ],
+      [
+        355,
+        351
+      ],
+      [
+        429,
+        41
+      ],
+      [
+        1472,
+        37
+      ],
+      [
+        1702,
+        248
       ]
     ],
     "created": "2012-08-23T12:42:27.525920+00:00",
     "transformation_method": "affine",
     "mapID": "4df7a2ea-a99a-536e-b3db-58123a3d85fa",
     "affine_transformation": null,
-    "changed": "2022-01-09T16:21:01.247279+00:00",
+    "changed": "2022-11-13T03:47:50.488520+00:00",
     "gcps": [
       {
         "location": [
@@ -81,6 +125,16 @@
         "pixel": [
           1178,
           1414
+        ]
+      },
+      {
+        "location": [
+          4.683889746538016,
+          50.87708577165776
+        ],
+        "pixel": [
+          509,
+          956
         ]
       },
       {

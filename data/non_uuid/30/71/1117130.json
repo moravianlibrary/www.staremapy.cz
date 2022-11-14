@@ -12,7 +12,7 @@
   "external_id": "1117130",
   "title": "PLAN DE PRAG",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -71,7 +71,7 @@
     "transformation_method": "affine",
     "mapID": "e068ff83-4645-5e97-a13a-fb78d8d2d0bd",
     "affine_transformation": null,
-    "changed": "2021-06-19T10:05:00.828787+00:00",
+    "changed": "2022-11-13T04:48:59.253500+00:00",
     "gcps": [
       {
         "location": [
@@ -101,6 +101,16 @@
         "pixel": [
           887,
           675
+        ]
+      },
+      {
+        "location": [
+          14.430471732179408,
+          50.08487481295356
+        ],
+        "pixel": [
+          2034,
+          676
         ]
       },
       {

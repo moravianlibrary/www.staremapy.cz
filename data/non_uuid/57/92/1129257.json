@@ -12,7 +12,7 @@
   "external_id": "1129257",
   "title": "Grundriss von Berlin",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": "Sineck",
   "catalog_url": null,
   "viewer_url": null,
@@ -31,20 +31,20 @@
         157
       ],
       [
-        2738,
-        158
+        2735,
+        161
       ],
       [
-        3306,
-        151
+        2733,
+        681
       ],
       [
-        3294,
-        678
+        3287,
+        679
       ],
       [
-        3308,
-        2692
+        3304,
+        2689
       ],
       [
         126,
@@ -59,7 +59,7 @@
     "transformation_method": "affine",
     "mapID": "549caea2-ffe9-5322-9a34-881dace416dd",
     "affine_transformation": null,
-    "changed": "2022-01-30T08:47:24.643031+00:00",
+    "changed": "2022-11-14T05:51:01.501674+00:00",
     "gcps": [
       {
         "location": [
@@ -89,6 +89,26 @@
         "pixel": [
           1603,
           1039
+        ]
+      },
+      {
+        "location": [
+          13.342832260641464,
+          52.508668767982726
+        ],
+        "pixel": [
+          204,
+          1662
+        ]
+      },
+      {
+        "location": [
+          13.386925474796001,
+          52.49016500159769
+        ],
+        "pixel": [
+          1439,
+          2491
         ]
       },
       {
@@ -159,6 +179,16 @@
         "pixel": [
           2483,
           779
+        ]
+      },
+      {
+        "location": [
+          13.34500341336818,
+          52.48907626664308
+        ],
+        "pixel": [
+          276,
+          2550
         ]
       }
     ]
