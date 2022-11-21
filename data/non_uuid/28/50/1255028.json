@@ -9,7 +9,7 @@
   "external_id": "1255028",
   "title": "37°48° Lučenec",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "90d22329-82d6-5374-8a6a-363359d174af",
     "affine_transformation": null,
-    "changed": "2016-04-26T12:07:21.509180+00:00",
+    "changed": "2022-11-17T10:44:06.157417+00:00",
     "gcps": [
       {
         "location": [
@@ -92,22 +92,22 @@
       },
       {
         "location": [
+          19.748283585364923,
+          47.94756116171882
+        ],
+        "pixel": [
+          2100,
+          1882
+        ]
+      },
+      {
+        "location": [
           19.334215164,
           48.240189745
         ],
         "pixel": [
           1237,
           968
-        ]
-      },
-      {
-        "location": [
-          19.33867836,
-          48.215488917
-        ],
-        "pixel": [
-          1235,
-          1039
         ]
       },
       {
@@ -182,16 +182,6 @@
       },
       {
         "location": [
-          19.115861893,
-          48.439644994
-        ],
-        "pixel": [
-          781,
-          357
-        ]
-      },
-      {
-        "location": [
           19.087709427,
           48.416635695
         ],
@@ -238,6 +228,16 @@
         "pixel": [
           518,
           831
+        ]
+      },
+      {
+        "location": [
+          19.34355746176955,
+          47.601505304645514
+        ],
+        "pixel": [
+          1264,
+          2951
         ]
       }
     ]

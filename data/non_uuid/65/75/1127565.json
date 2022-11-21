@@ -12,7 +12,7 @@
   "external_id": "1127565",
   "title": "Umgebungen von Klattau und Nepomuk",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": "David, Johann",
   "catalog_url": null,
   "viewer_url": null,
@@ -27,23 +27,43 @@
   "georefereces": {
     "cutline": [
       [
-        137,
+        128,
         128
       ],
       [
-        125,
-        1584
+        119,
+        1592
+      ],
+      [
+        528,
+        1593
+      ],
+      [
+        1606,
+        1596
+      ],
+      [
+        2312,
+        1593
+      ],
+      [
+        2312,
+        1206
       ],
       [
         2317,
-        1588
+        134
       ],
       [
-        2329,
-        148
+        1930,
+        132
       ],
       [
-        137,
+        819,
+        129
+      ],
+      [
+        128,
         128
       ]
     ],
@@ -51,7 +71,7 @@
     "transformation_method": "affine",
     "mapID": "f9ea4284-3597-5d5a-8149-4bf613236b31",
     "affine_transformation": null,
-    "changed": "2015-03-29T22:37:35.365780+00:00",
+    "changed": "2022-11-17T06:27:43.852273+00:00",
     "gcps": [
       {
         "location": [
@@ -101,6 +121,16 @@
         "pixel": [
           970,
           289
+        ]
+      },
+      {
+        "location": [
+          13.026578526225641,
+          49.39240410138342
+        ],
+        "pixel": [
+          238,
+          1215
         ]
       },
       {
@@ -201,6 +231,26 @@
         "pixel": [
           2204,
           1416
+        ]
+      },
+      {
+        "location": [
+          13.047186458040303,
+          49.51315044193524
+        ],
+        "pixel": [
+          323,
+          661
+        ]
+      },
+      {
+        "location": [
+          13.36419940765958,
+          49.49264532348485
+        ],
+        "pixel": [
+          1248,
+          802
         ]
       }
     ]

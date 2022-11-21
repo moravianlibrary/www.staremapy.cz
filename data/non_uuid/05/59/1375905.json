@@ -9,7 +9,7 @@
   "external_id": "1375905",
   "title": "Schirwindt",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        2400,
-        0
+        2098,
+        169
       ],
       [
-        2400,
-        2067
+        2105,
+        1778
       ],
       [
-        0,
-        2067
+        237,
+        1778
       ],
       [
-        0,
-        0
+        249,
+        173
       ],
       [
-        2400,
-        0
+        2098,
+        169
       ]
     ],
     "created": "2016-01-08T13:33:14.841950+00:00",
     "transformation_method": "affine",
     "mapID": "c77dbd09-e554-5859-83a0-88d89b93f4ca",
     "affine_transformation": null,
-    "changed": "2016-01-08T13:33:14.841950+00:00",
+    "changed": "2022-11-17T10:33:17.008492+00:00",
     "gcps": [
       {
         "location": [
@@ -98,6 +98,46 @@
         "pixel": [
           385,
           1710
+        ]
+      },
+      {
+        "location": [
+          23.07199048450802,
+          54.860405463502445
+        ],
+        "pixel": [
+          1138,
+          1073
+        ]
+      },
+      {
+        "location": [
+          23.212921066724284,
+          54.970660287024
+        ],
+        "pixel": [
+          1659,
+          359
+        ]
+      },
+      {
+        "location": [
+          23.00582535036989,
+          54.762717813740124
+        ],
+        "pixel": [
+          889,
+          1698
+        ]
+      },
+      {
+        "location": [
+          22.99063320690659,
+          54.84457701551159
+        ],
+        "pixel": [
+          833,
+          1171
         ]
       }
     ]

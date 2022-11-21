@@ -9,7 +9,7 @@
   "external_id": "1374484",
   "title": "Minnesota",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": "Baldwin, H. L.",
   "catalog_url": null,
   "viewer_url": null,
@@ -28,8 +28,8 @@
         180
       ],
       [
-        2136,
-        180
+        2139,
+        178
       ],
       [
         2142,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "72f5a399-31a9-5600-9904-11addd607f90",
     "affine_transformation": null,
-    "changed": "2017-10-16T03:30:02.932400+00:00",
+    "changed": "2022-11-16T04:16:43.723154+00:00",
     "gcps": [
       {
         "location": [
@@ -298,6 +298,26 @@
         "pixel": [
           1471,
           1222
+        ]
+      },
+      {
+        "location": [
+          -93.11746517216658,
+          44.923909850519976
+        ],
+        "pixel": [
+          1310,
+          948
+        ]
+      },
+      {
+        "location": [
+          -93.10861956238944,
+          44.93656690768802
+        ],
+        "pixel": [
+          1375,
+          827
         ]
       }
     ]

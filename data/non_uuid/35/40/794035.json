@@ -9,7 +9,7 @@
   "external_id": "794035",
   "title": "Geognostische Karte der Umgebungen von Bilin und Teplitz",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": "Kreibich, František Jakub Jindřich",
   "catalog_url": null,
   "viewer_url": null,
@@ -24,23 +24,39 @@
   "georefereces": {
     "cutline": [
       [
-        149,
+        1272,
         186
       ],
       [
-        2458,
-        201
+        2466,
+        194
       ],
       [
-        2450,
-        2817
+        2444,
+        2835
       ],
       [
         138,
         2805
       ],
       [
-        149,
+        139,
+        1316
+      ],
+      [
+        472,
+        1180
+      ],
+      [
+        570,
+        676
+      ],
+      [
+        1046,
+        671
+      ],
+      [
+        1272,
         186
       ]
     ],
@@ -48,7 +64,7 @@
     "transformation_method": "affine",
     "mapID": "ca001b93-51ef-588c-a073-295bb2e4f49f",
     "affine_transformation": null,
-    "changed": "2017-09-20T17:21:12.496150+00:00",
+    "changed": "2022-11-19T10:18:27.679216+00:00",
     "gcps": [
       {
         "location": [
@@ -78,16 +94,6 @@
         "pixel": [
           1526,
           1005
-        ]
-      },
-      {
-        "location": [
-          14.040971609,
-          50.660261071
-        ],
-        "pixel": [
-          1922,
-          1241
         ]
       },
       {
@@ -138,16 +144,6 @@
         "pixel": [
           1085,
           1402
-        ]
-      },
-      {
-        "location": [
-          13.761237079,
-          50.732635076
-        ],
-        "pixel": [
-          871,
-          753
         ]
       }
     ]

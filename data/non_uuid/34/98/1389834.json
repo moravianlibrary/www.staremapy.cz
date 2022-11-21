@@ -9,7 +9,7 @@
   "external_id": "1389834",
   "title": "Iwacewicze",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        2579,
-        0
+        2178,
+        179
       ],
       [
-        2579,
-        1992
+        2189,
+        1698
       ],
       [
-        0,
-        1992
+        335,
+        1696
       ],
       [
-        0,
-        0
+        350,
+        183
       ],
       [
-        2579,
-        0
+        2178,
+        179
       ]
     ],
     "created": "2016-01-08T13:41:52.049140+00:00",
     "transformation_method": "affine",
     "mapID": "c3223695-c928-503b-8ac5-de94851a3588",
     "affine_transformation": null,
-    "changed": "2016-01-08T13:41:52.049140+00:00",
+    "changed": "2022-11-19T10:04:03.140303+00:00",
     "gcps": [
       {
         "location": [
@@ -68,6 +68,16 @@
         "pixel": [
           485,
           1301
+        ]
+      },
+      {
+        "location": [
+          25.56269474349877,
+          52.51182290372219
+        ],
+        "pixel": [
+          1191,
+          1623
         ]
       },
       {
@@ -98,6 +108,16 @@
         "pixel": [
           656,
           195
+        ]
+      },
+      {
+        "location": [
+          25.52751953634742,
+          52.64986836856224
+        ],
+        "pixel": [
+          1062,
+          786
         ]
       }
     ]

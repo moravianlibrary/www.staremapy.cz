@@ -12,7 +12,7 @@
   "external_id": "1282471",
   "title": "Dorpat, Pskow, Ostrow",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,31 +27,35 @@
   "georefereces": {
     "cutline": [
       [
-        355,
-        2027
+        360,
+        2025
+      ],
+      [
+        2367,
+        2007
       ],
       [
         2374,
-        2014
+        295
       ],
       [
-        2377,
-        293
+        1370,
+        295
       ],
       [
-        361,
-        292
+        364,
+        295
       ],
       [
-        355,
-        2027
+        360,
+        2025
       ]
     ],
     "created": "2017-03-07T22:37:30.396520+00:00",
     "transformation_method": "affine",
     "mapID": "fe6ef5e0-dd67-514a-8764-3b2e14c87347",
     "affine_transformation": null,
-    "changed": "2017-03-07T22:37:30.396520+00:00",
+    "changed": "2022-11-17T10:26:21.993161+00:00",
     "gcps": [
       {
         "location": [
@@ -101,6 +105,16 @@
         "pixel": [
           2205,
           2002
+        ]
+      },
+      {
+        "location": [
+          26.40033436553613,
+          57.24069742734284
+        ],
+        "pixel": [
+          1197,
+          1744
         ]
       },
       {

@@ -9,7 +9,7 @@
   "external_id": "1368598",
   "title": "Słopanowo",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        201,
-        143
+        200,
+        152
       ],
       [
-        2077,
-        143
+        2069,
+        149
       ],
       [
         2073,
-        1711
+        1699
       ],
       [
-        185,
-        1703
+        194,
+        1697
       ],
       [
-        201,
-        143
+        200,
+        152
       ]
     ],
     "created": "2017-01-19T19:40:15.792550+00:00",
     "transformation_method": "affine",
     "mapID": "abd34901-b1bf-5819-8e26-fb46575b2160",
     "affine_transformation": null,
-    "changed": "2017-01-19T19:40:15.792550+00:00",
+    "changed": "2022-11-16T04:51:22.588609+00:00",
     "gcps": [
       {
         "location": [
@@ -392,16 +392,6 @@
       },
       {
         "location": [
-          16.049173355,
-          53.044080718
-        ],
-        "pixel": [
-          1015,
-          1427
-        ]
-      },
-      {
-        "location": [
           16.082132339,
           53.069770578
         ],
@@ -548,6 +538,16 @@
         "pixel": [
           1109,
           770
+        ]
+      },
+      {
+        "location": [
+          16.057241439723633,
+          53.04088130931589
+        ],
+        "pixel": [
+          1048,
+          1441
         ]
       },
       {

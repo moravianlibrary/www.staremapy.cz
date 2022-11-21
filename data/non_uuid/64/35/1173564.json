@@ -12,7 +12,7 @@
   "external_id": "1173564",
   "title": "Základ zkázy nezvratné",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -51,7 +51,7 @@
     "transformation_method": "affine",
     "mapID": "ad3b666e-1d41-5025-a9ba-4f2f10d894a2",
     "affine_transformation": null,
-    "changed": "2015-06-18T13:06:08.044130+00:00",
+    "changed": "2022-11-18T07:10:45.333509+00:00",
     "gcps": [
       {
         "location": [
@@ -111,6 +111,36 @@
         "pixel": [
           679,
           497
+        ]
+      },
+      {
+        "location": [
+          7.74313859879156,
+          48.58546579864338
+        ],
+        "pixel": [
+          215,
+          910
+        ]
+      },
+      {
+        "location": [
+          21.31362715159886,
+          46.178524846661105
+        ],
+        "pixel": [
+          1602,
+          1229
+        ]
+      },
+      {
+        "location": [
+          22.3106899715146,
+          48.624601127954094
+        ],
+        "pixel": [
+          1666,
+          847
         ]
       },
       {
@@ -221,6 +251,16 @@
         "pixel": [
           783,
           923
+        ]
+      },
+      {
+        "location": [
+          6.96094130181702,
+          50.94538518748166
+        ],
+        "pixel": [
+          158,
+          554
         ]
       }
     ]

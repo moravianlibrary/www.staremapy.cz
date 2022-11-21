@@ -9,7 +9,7 @@
   "external_id": "1292864",
   "title": "Saybusch",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        2849,
-        0
+        2601,
+        185
       ],
       [
-        2849,
-        2262
+        2613,
+        1994
       ],
       [
-        0,
-        2262
+        265,
+        2012
       ],
       [
-        0,
-        0
+        286,
+        200
       ],
       [
-        2849,
-        0
+        2601,
+        185
       ]
     ],
     "created": "2015-11-05T16:44:20.870920+00:00",
     "transformation_method": "affine",
     "mapID": "6eb26bae-8ef6-5d9e-a927-b95b3ee8177a",
     "affine_transformation": null,
-    "changed": "2015-11-05T16:44:20.870920+00:00",
+    "changed": "2022-11-17T10:40:06.571727+00:00",
     "gcps": [
       {
         "location": [
@@ -168,6 +168,16 @@
         "pixel": [
           2479,
           835
+        ]
+      },
+      {
+        "location": [
+          18.91678362067579,
+          49.64697026062362
+        ],
+        "pixel": [
+          673,
+          927
         ]
       },
       {

@@ -9,7 +9,7 @@
   "external_id": "1305451",
   "title": "St. Ľubovňa a Szczawnica",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        375,
-        259
+        372,
+        257
       ],
       [
-        2638,
-        255
+        2639,
+        254
       ],
       [
-        2640,
-        1994
+        2641,
+        1997
       ],
       [
-        370,
-        1993
+        368,
+        1992
       ],
       [
-        375,
-        259
+        372,
+        257
       ]
     ],
     "created": "2016-11-01T12:28:51.140620+00:00",
     "transformation_method": "affine",
     "mapID": "f5d2435d-bc6e-5519-a7cc-d44f05f69341",
     "affine_transformation": null,
-    "changed": "2016-11-01T12:28:51.140620+00:00",
+    "changed": "2022-11-17T04:31:56.937658+00:00",
     "gcps": [
       {
         "location": [
@@ -232,6 +232,26 @@
       },
       {
         "location": [
+          20.402031504683798,
+          49.465370717006266
+        ],
+        "pixel": [
+          690,
+          483
+        ]
+      },
+      {
+        "location": [
+          20.373518446508303,
+          49.446510693287536
+        ],
+        "pixel": [
+          563,
+          621
+        ]
+      },
+      {
+        "location": [
           20.64035595,
           49.302986892
         ],
@@ -298,6 +318,16 @@
         "pixel": [
           1726,
           1894
+        ]
+      },
+      {
+        "location": [
+          20.52620514918121,
+          49.41432192592316
+        ],
+        "pixel": [
+          1252,
+          836
         ]
       },
       {

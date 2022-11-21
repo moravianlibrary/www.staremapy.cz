@@ -9,7 +9,7 @@
   "external_id": "1369312",
   "title": "Breno",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        528,
-        149
+        521,
+        143
       ],
       [
         2862,
-        147
+        143
       ],
       [
         2862,
         1821
       ],
       [
-        522,
-        1813
+        517,
+        1822
       ],
       [
-        528,
-        149
+        521,
+        143
       ]
     ],
     "created": "2016-05-01T06:14:28.720610+00:00",
     "transformation_method": "affine",
     "mapID": "d09e8bab-dfe4-5321-940b-345dbbbe9ac9",
     "affine_transformation": null,
-    "changed": "2016-05-01T06:14:28.720610+00:00",
+    "changed": "2022-11-17T10:38:14.328827+00:00",
     "gcps": [
       {
         "location": [
@@ -112,16 +112,6 @@
       },
       {
         "location": [
-          9.84665016,
-          45.859724598
-        ],
-        "pixel": [
-          529,
-          1063
-        ]
-      },
-      {
-        "location": [
           9.85126356,
           45.764168625
         ],
@@ -138,6 +128,16 @@
         "pixel": [
           1691,
           1685
+        ]
+      },
+      {
+        "location": [
+          9.894574708311834,
+          45.96396382017406
+        ],
+        "pixel": [
+          796,
+          388
         ]
       },
       {

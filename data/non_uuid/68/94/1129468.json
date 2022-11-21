@@ -12,7 +12,7 @@
   "external_id": "1129468",
   "title": "Orientační automobilový plán Velké Prahy",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": "Wallenfels, F.",
   "catalog_url": null,
   "viewer_url": null,
@@ -27,31 +27,39 @@
   "georefereces": {
     "cutline": [
       [
-        3453,
-        257
+        3425,
+        263
       ],
       [
-        3485,
-        2577
+        3440,
+        2562
       ],
       [
-        477,
-        2569
+        459,
+        2556
       ],
       [
-        485,
-        273
+        450,
+        800
       ],
       [
-        3453,
-        257
+        966,
+        796
+      ],
+      [
+        966,
+        271
+      ],
+      [
+        3425,
+        263
       ]
     ],
     "created": "2015-02-23T14:07:26.075340+00:00",
     "transformation_method": "affine",
     "mapID": "6e63772e-393b-5a8f-adce-008a5310949e",
     "affine_transformation": null,
-    "changed": "2015-02-23T14:07:26.075340+00:00",
+    "changed": "2022-11-17T10:36:39.720485+00:00",
     "gcps": [
       {
         "location": [
@@ -115,16 +123,6 @@
       },
       {
         "location": [
-          14.377752084,
-          50.069683403
-        ],
-        "pixel": [
-          860,
-          1997
-        ]
-      },
-      {
-        "location": [
           14.434314508,
           50.056652636
         ],
@@ -141,6 +139,16 @@
         "pixel": [
           2722,
           853
+        ]
+      },
+      {
+        "location": [
+          14.389620532191238,
+          50.07894004851022
+        ],
+        "pixel": [
+          1095,
+          1698
         ]
       }
     ]

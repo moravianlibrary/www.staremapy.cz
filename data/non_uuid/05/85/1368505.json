@@ -9,7 +9,7 @@
   "external_id": "1368505",
   "title": "Płock",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        2669,
-        0
+        2190,
+        179
       ],
       [
-        2669,
-        1946
+        2189,
+        1631
       ],
       [
-        0,
-        1946
+        423,
+        1620
       ],
       [
-        0,
-        0
+        431,
+        176
       ],
       [
-        2669,
-        0
+        2190,
+        179
       ]
     ],
     "created": "2015-11-05T17:44:18.470310+00:00",
     "transformation_method": "affine",
     "mapID": "81f91fc3-25dd-58a7-8b2f-3474f84ffe70",
     "affine_transformation": null,
-    "changed": "2015-11-05T17:44:18.470310+00:00",
+    "changed": "2022-11-16T04:49:25.124223+00:00",
     "gcps": [
       {
         "location": [
@@ -98,6 +98,26 @@
         "pixel": [
           1684,
           304
+        ]
+      },
+      {
+        "location": [
+          19.481811237244692,
+          52.53124987848193
+        ],
+        "pixel": [
+          984,
+          1443
+        ]
+      },
+      {
+        "location": [
+          19.65641802987528,
+          52.56474625719713
+        ],
+        "pixel": [
+          1601,
+          1251
         ]
       }
     ]

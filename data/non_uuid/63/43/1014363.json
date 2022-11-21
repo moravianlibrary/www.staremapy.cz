@@ -12,7 +12,7 @@
   "external_id": "1014363",
   "title": "Severovýchodní Italie a alpské země rakouské s Přímořím, Istrii [sic] a Chorvatskem",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,31 +27,47 @@
   "georefereces": {
     "cutline": [
       [
-        3000,
-        0
+        2846,
+        311
       ],
       [
-        3000,
-        2327
+        2839,
+        2051
       ],
       [
-        0,
-        2327
+        1924,
+        2046
       ],
       [
-        0,
-        0
+        197,
+        2040
       ],
       [
-        3000,
-        0
+        166,
+        1987
+      ],
+      [
+        138,
+        1973
+      ],
+      [
+        149,
+        299
+      ],
+      [
+        1330,
+        301
+      ],
+      [
+        2846,
+        311
       ]
     ],
     "created": "2013-06-19T13:49:41.066100+00:00",
     "transformation_method": "affine",
     "mapID": "75d0d04c-c6fe-58ce-8702-8fdb64b85538",
     "affine_transformation": null,
-    "changed": "2013-06-19T13:49:41.066100+00:00",
+    "changed": "2022-11-16T11:23:56.213321+00:00",
     "gcps": [
       {
         "location": [
@@ -221,6 +237,16 @@
         "pixel": [
           2257,
           438
+        ]
+      },
+      {
+        "location": [
+          10.36858242338465,
+          46.468861064220846
+        ],
+        "pixel": [
+          338,
+          482
         ]
       },
       {

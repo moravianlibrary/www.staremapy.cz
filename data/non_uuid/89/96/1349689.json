@@ -9,7 +9,7 @@
   "external_id": "1349689",
   "title": "Přehled počasí",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": "Machač, František",
   "catalog_url": null,
   "viewer_url": null,
@@ -72,18 +72,8 @@
     "transformation_method": "affine",
     "mapID": "466b32cd-e64e-5c26-9556-7d643628c41e",
     "affine_transformation": null,
-    "changed": "2015-12-09T00:05:34.738030+00:00",
+    "changed": "2022-11-19T10:00:07.614476+00:00",
     "gcps": [
-      {
-        "location": [
-          -18.2572,
-          65.121597859
-        ],
-        "pixel": [
-          282,
-          329
-        ]
-      },
       {
         "location": [
           30.233633997,
@@ -136,32 +126,22 @@
       },
       {
         "location": [
+          7.985084749187497,
+          58.14858338158086
+        ],
+        "pixel": [
+          573,
+          656
+        ]
+      },
+      {
+        "location": [
           28.950980189,
           41.031768147
         ],
         "pixel": [
           1019,
           1158
-        ]
-      },
-      {
-        "location": [
-          25.899527552,
-          71.055362613
-        ],
-        "pixel": [
-          851,
-          229
-        ]
-      },
-      {
-        "location": [
-          -5.07360625,
-          32.645785884
-        ],
-        "pixel": [
-          194,
-          1349
         ]
       }
     ]

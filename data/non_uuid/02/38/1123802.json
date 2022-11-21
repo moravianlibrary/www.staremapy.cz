@@ -9,7 +9,7 @@
   "external_id": "1123802",
   "title": "Generální mapa okresního hejtmanství Něm. Brodského",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,39 +24,39 @@
   "georefereces": {
     "cutline": [
       [
-        245,
-        1431
+        247,
+        1426
       ],
       [
-        1928,
-        1430
+        1926,
+        1428
       ],
       [
-        1929,
-        213
-      ],
-      [
-        920,
-        209
+        1925,
+        214
       ],
       [
         921,
+        214
+      ],
+      [
+        923,
+        412
+      ],
+      [
+        249,
         409
       ],
       [
-        245,
-        411
-      ],
-      [
-        245,
-        1431
+        247,
+        1426
       ]
     ],
     "created": "2014-12-19T21:56:01.541800+00:00",
     "transformation_method": "affine",
     "mapID": "aba11532-36a9-58e6-b889-bfc926d64aa1",
     "affine_transformation": null,
-    "changed": "2014-12-19T21:56:01.541800+00:00",
+    "changed": "2022-11-18T06:59:50.935674+00:00",
     "gcps": [
       {
         "location": [
@@ -126,6 +126,16 @@
         "pixel": [
           1058,
           1033
+        ]
+      },
+      {
+        "location": [
+          15.223808765664362,
+          49.4312491035688
+        ],
+        "pixel": [
+          472,
+          1156
         ]
       }
     ]

@@ -9,7 +9,7 @@
   "external_id": "1367105",
   "title": "California",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": "Fletcher, L. C.",
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "9530d51b-394c-5028-b7c2-17ccdb52632a",
     "affine_transformation": null,
-    "changed": "2017-09-14T05:35:56.684010+00:00",
+    "changed": "2022-11-18T06:56:50.125717+00:00",
     "gcps": [
       {
         "location": [
@@ -68,6 +68,26 @@
         "pixel": [
           969,
           2661
+        ]
+      },
+      {
+        "location": [
+          -122.34046515039135,
+          38.256553553929905
+        ],
+        "pixel": [
+          870,
+          1416
+        ]
+      },
+      {
+        "location": [
+          -122.2199597479875,
+          38.34183401661207
+        ],
+        "pixel": [
+          1350,
+          981
         ]
       },
       {

@@ -9,7 +9,7 @@
   "external_id": "1125314",
   "title": "[Kartenblatt]",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,35 +24,35 @@
   "georefereces": {
     "cutline": [
       [
-        3093,
-        377
+        3025,
+        434
       ],
       [
-        3101,
-        2661
+        3036,
+        2616
       ],
       [
-        153,
-        2665
+        207,
+        2605
       ],
       [
-        157,
-        373
+        208,
+        433
       ],
       [
-        1145,
-        373
+        1606,
+        435
       ],
       [
-        3093,
-        377
+        3025,
+        434
       ]
     ],
     "created": "2014-10-30T19:58:32.900780+00:00",
     "transformation_method": "affine",
     "mapID": "8f0f55c5-e309-5507-8ac8-acd8cb5e0ec8",
     "affine_transformation": null,
-    "changed": "2014-10-30T19:58:32.900780+00:00",
+    "changed": "2022-11-16T06:03:49.857762+00:00",
     "gcps": [
       {
         "location": [
@@ -182,6 +182,16 @@
         "pixel": [
           2203,
           651
+        ]
+      },
+      {
+        "location": [
+          17.24303666678101,
+          49.69473828069343
+        ],
+        "pixel": [
+          2023,
+          1377
         ]
       }
     ]

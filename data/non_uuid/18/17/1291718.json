@@ -9,7 +9,7 @@
   "external_id": "1291718",
   "title": "Wyzwa",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        2789,
-        0
+        2586,
+        110
       ],
       [
-        2789,
-        2185
+        2597,
+        1973
       ],
       [
-        0,
-        2185
+        261,
+        1991
       ],
       [
-        0,
-        0
+        267,
+        127
       ],
       [
-        2789,
-        0
+        2586,
+        110
       ]
     ],
     "created": "2015-11-05T16:41:55.420080+00:00",
     "transformation_method": "affine",
     "mapID": "b5faa284-3d67-5304-8158-99547cb3b982",
     "affine_transformation": null,
-    "changed": "2015-11-05T16:41:55.420080+00:00",
+    "changed": "2022-11-18T07:09:19.108163+00:00",
     "gcps": [
       {
         "location": [
@@ -88,6 +88,36 @@
         "pixel": [
           1473,
           606
+        ]
+      },
+      {
+        "location": [
+          24.444801753279897,
+          51.43797995906672
+        ],
+        "pixel": [
+          750,
+          577
+        ]
+      },
+      {
+        "location": [
+          24.767449284691935,
+          51.34093953193653
+        ],
+        "pixel": [
+          2252,
+          1296
+        ]
+      },
+      {
+        "location": [
+          24.747205724516913,
+          51.25827369452779
+        ],
+        "pixel": [
+          2175,
+          1906
         ]
       },
       {

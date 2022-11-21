@@ -9,7 +9,7 @@
   "external_id": "1331511",
   "title": "Arló a M[alé] Terany",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -28,16 +28,16 @@
         2052
       ],
       [
-        2636,
-        2052
+        2642,
+        2049
       ],
       [
-        2636,
-        240
+        2638,
+        237
       ],
       [
-        232,
-        240
+        238,
+        238
       ],
       [
         232,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "3608da56-50ab-5351-a7ca-776fd2ab2691",
     "affine_transformation": null,
-    "changed": "2017-07-21T16:05:16.844250+00:00",
+    "changed": "2022-11-17T03:52:42.315095+00:00",
     "gcps": [
       {
         "location": [
@@ -118,6 +118,26 @@
         "pixel": [
           1246,
           1063
+        ]
+      },
+      {
+        "location": [
+          19.843319023872613,
+          48.078006879122626
+        ],
+        "pixel": [
+          286,
+          1474
+        ]
+      },
+      {
+        "location": [
+          20.250081526668154,
+          48.156527868635976
+        ],
+        "pixel": [
+          2253,
+          903
         ]
       }
     ]

@@ -9,7 +9,7 @@
   "external_id": "1289435",
   "title": "Communications-Übersichtskarte von Tirol und Vorarlberg",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -32,7 +32,7 @@
         1081
       ],
       [
-        220,
+        217,
         177
       ],
       [
@@ -60,16 +60,8 @@
         2275
       ],
       [
-        654,
-        2269
-      ],
-      [
-        656,
-        2269
-      ],
-      [
-        666,
-        2251
+        648,
+        2274
       ],
       [
         659,
@@ -80,7 +72,7 @@
     "transformation_method": "affine",
     "mapID": "5b94a6ae-949a-549d-9882-42b05575dab7",
     "affine_transformation": null,
-    "changed": "2017-08-27T07:44:26.973020+00:00",
+    "changed": "2022-11-18T05:58:20.917909+00:00",
     "gcps": [
       {
         "location": [
@@ -140,6 +132,16 @@
         "pixel": [
           2807,
           993
+        ]
+      },
+      {
+        "location": [
+          10.174603986781246,
+          46.21565580356736
+        ],
+        "pixel": [
+          774,
+          1675
         ]
       },
       {
