@@ -9,7 +9,7 @@
   "external_id": "1292969",
   "title": "Mikołajów und Bóbrka",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "5a5b7391-68cf-52e5-8fc5-378f9fb78c7d",
     "affine_transformation": null,
-    "changed": "2016-02-16T08:43:12.953210+00:00",
+    "changed": "2022-11-25T05:36:07.649371+00:00",
     "gcps": [
       {
         "location": [
@@ -148,6 +148,36 @@
         "pixel": [
           870,
           1929
+        ]
+      },
+      {
+        "location": [
+          23.85787629933406,
+          49.64580647300846
+        ],
+        "pixel": [
+          411,
+          960
+        ]
+      },
+      {
+        "location": [
+          23.846079109024295,
+          49.57899523927293
+        ],
+        "pixel": [
+          352,
+          1435
+        ]
+      },
+      {
+        "location": [
+          24.00838459242754,
+          49.59076376849407
+        ],
+        "pixel": [
+          1109,
+          1357
         ]
       }
     ]

@@ -9,7 +9,7 @@
   "external_id": "1329388",
   "title": "40°49° Ungvár",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,8 +48,48 @@
     "transformation_method": "affine",
     "mapID": "a82d788b-147d-50f7-a857-4844ef17aea6",
     "affine_transformation": null,
-    "changed": "2016-12-28T07:22:15.290130+00:00",
+    "changed": "2022-11-23T06:54:24.584039+00:00",
     "gcps": [
+      {
+        "location": [
+          22.779775181561785,
+          49.26357135245473
+        ],
+        "pixel": [
+          2194,
+          1026
+        ]
+      },
+      {
+        "location": [
+          22.757735421884064,
+          49.03275019235397
+        ],
+        "pixel": [
+          2154,
+          1699
+        ]
+      },
+      {
+        "location": [
+          22.761735540649312,
+          48.84645631012242
+        ],
+        "pixel": [
+          2166,
+          2244
+        ]
+      },
+      {
+        "location": [
+          22.78337445261266,
+          48.55592486142484
+        ],
+        "pixel": [
+          2211,
+          3093
+        ]
+      },
       {
         "location": [
           21.899462785,
@@ -98,6 +138,16 @@
         "pixel": [
           493,
           1999
+        ]
+      },
+      {
+        "location": [
+          22.69104214320677,
+          49.45151675097341
+        ],
+        "pixel": [
+          2019,
+          474
         ]
       }
     ]

@@ -9,7 +9,7 @@
   "external_id": "1341281",
   "title": "Theile des Trenschiner",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": "Dedovics",
   "catalog_url": null,
   "viewer_url": null,
@@ -52,7 +52,7 @@
     "transformation_method": "affine",
     "mapID": "e2ee59d1-6baf-519d-abb3-8db8a656f7d3",
     "affine_transformation": null,
-    "changed": "2016-02-19T14:50:50.839220+00:00",
+    "changed": "2022-11-23T09:28:20.499601+00:00",
     "gcps": [
       {
         "location": [
@@ -162,6 +162,16 @@
         "pixel": [
           2912,
           500
+        ]
+      },
+      {
+        "location": [
+          18.36437702205908,
+          48.64795416437215
+        ],
+        "pixel": [
+          1525,
+          380
         ]
       }
     ]

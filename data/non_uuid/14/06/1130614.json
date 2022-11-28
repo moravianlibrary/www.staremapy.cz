@@ -9,7 +9,7 @@
   "external_id": "1130614",
   "title": "Josefov a Náchod",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "6b4046f0-b7b3-5b49-8350-96f0317e34d5",
     "affine_transformation": null,
-    "changed": "2017-02-07T13:26:35.194880+00:00",
+    "changed": "2022-11-25T06:09:37.111238+00:00",
     "gcps": [
       {
         "location": [
@@ -212,6 +212,26 @@
       },
       {
         "location": [
+          15.858121126784479,
+          50.25596851637752
+        ],
+        "pixel": [
+          494,
+          1922
+        ]
+      },
+      {
+        "location": [
+          15.88282843359543,
+          50.28303202115211
+        ],
+        "pixel": [
+          598,
+          1731
+        ]
+      },
+      {
+        "location": [
           15.811421394,
           50.431983271
         ],
@@ -278,6 +298,16 @@
         "pixel": [
           2503,
           1102
+        ]
+      },
+      {
+        "location": [
+          15.84767754720608,
+          50.32289058730689
+        ],
+        "pixel": [
+          445,
+          1452
         ]
       }
     ]

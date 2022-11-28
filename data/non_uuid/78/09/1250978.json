@@ -9,7 +9,7 @@
   "external_id": "1250978",
   "title": "Rusčuk",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        2729,
-        0
+        2604,
+        101
       ],
       [
-        2729,
-        2413
+        2612,
+        2297
       ],
       [
-        0,
-        2413
+        117,
+        2299
       ],
       [
-        0,
-        0
+        115,
+        109
       ],
       [
-        2729,
-        0
+        2604,
+        101
       ]
     ],
     "created": "2015-11-05T16:08:17.856080+00:00",
     "transformation_method": "affine",
     "mapID": "92718d2c-5c17-51c0-b6d6-a7b873be7fb4",
     "affine_transformation": null,
-    "changed": "2015-11-05T16:08:17.856080+00:00",
+    "changed": "2022-11-23T09:40:03.884247+00:00",
     "gcps": [
       {
         "location": [
@@ -58,6 +58,26 @@
         "pixel": [
           2174,
           200
+        ]
+      },
+      {
+        "location": [
+          25.352907989755376,
+          43.61507581994073
+        ],
+        "pixel": [
+          1390,
+          794
+        ]
+      },
+      {
+        "location": [
+          24.611738194400424,
+          43.416487710212266
+        ],
+        "pixel": [
+          397,
+          1300
         ]
       },
       {
@@ -98,6 +118,16 @@
         "pixel": [
           1892,
           1792
+        ]
+      },
+      {
+        "location": [
+          26.054477070907918,
+          43.3516953996681
+        ],
+        "pixel": [
+          2375,
+          1188
         ]
       }
     ]

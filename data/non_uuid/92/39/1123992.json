@@ -12,7 +12,7 @@
   "external_id": "1123992",
   "title": "Generální mapa okresního hejtmanství Nov. Města nad Metují",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -59,7 +59,7 @@
     "transformation_method": "affine",
     "mapID": "9fb08ae9-5f78-5ac6-a920-79be73a89a0d",
     "affine_transformation": null,
-    "changed": "2014-12-07T14:51:31.367680+00:00",
+    "changed": "2022-11-23T09:24:53.623732+00:00",
     "gcps": [
       {
         "location": [
@@ -183,6 +183,16 @@
       },
       {
         "location": [
+          15.814821853137845,
+          50.43159754875532
+        ],
+        "pixel": [
+          336,
+          471
+        ]
+      },
+      {
+        "location": [
           16.09240387,
           50.476012375
         ],
@@ -209,6 +219,16 @@
         "pixel": [
           1025,
           924
+        ]
+      },
+      {
+        "location": [
+          16.411724244264946,
+          50.323980416811
+        ],
+        "pixel": [
+          1546,
+          838
         ]
       }
     ]

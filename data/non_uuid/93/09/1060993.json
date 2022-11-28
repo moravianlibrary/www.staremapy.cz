@@ -12,7 +12,7 @@
   "external_id": "1060993",
   "title": "Luditzer Vikariat",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -35,8 +35,16 @@
         1549
       ],
       [
-        1366,
-        253
+        1358,
+        735
+      ],
+      [
+        1013,
+        548
+      ],
+      [
+        886,
+        243
       ],
       [
         318,
@@ -51,7 +59,7 @@
     "transformation_method": "affine",
     "mapID": "4aad287c-7d35-5982-b381-0ce043fc7f14",
     "affine_transformation": null,
-    "changed": "2014-10-14T14:56:37.263760+00:00",
+    "changed": "2022-11-23T09:16:46.434049+00:00",
     "gcps": [
       {
         "location": [
@@ -145,16 +153,6 @@
       },
       {
         "location": [
-          13.15110928,
-          50.155842035
-        ],
-        "pixel": [
-          870,
-          924
-        ]
-      },
-      {
-        "location": [
           12.985971035,
           50.187616766
         ],
@@ -211,6 +209,16 @@
         "pixel": [
           1154,
           1001
+        ]
+      },
+      {
+        "location": [
+          13.173854412446309,
+          50.190913970974435
+        ],
+        "pixel": [
+          901,
+          831
         ]
       }
     ]

@@ -9,7 +9,7 @@
   "external_id": "1278609",
   "title": "Umgebungen von Wien",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "5a7f1688-32cc-5c77-9f88-b182b3b5a436",
     "affine_transformation": null,
-    "changed": "2017-09-30T07:06:54.414460+00:00",
+    "changed": "2022-11-25T06:18:47.907442+00:00",
     "gcps": [
       {
         "location": [
@@ -158,6 +158,16 @@
         "pixel": [
           1620,
           1296
+        ]
+      },
+      {
+        "location": [
+          16.13924881028638,
+          48.101998091779876
+        ],
+        "pixel": [
+          743,
+          1450
         ]
       },
       {

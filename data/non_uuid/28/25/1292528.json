@@ -9,7 +9,7 @@
   "external_id": "1292528",
   "title": "Beraun und Hořowitz",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -56,7 +56,7 @@
     "transformation_method": "affine",
     "mapID": "c39a78fa-79e7-5af6-ba0c-2a16d3336437",
     "affine_transformation": null,
-    "changed": "2017-11-02T11:18:54.040830+00:00",
+    "changed": "2022-11-25T04:40:02.268784+00:00",
     "gcps": [
       {
         "location": [
@@ -190,6 +190,16 @@
       },
       {
         "location": [
+          13.838255523705255,
+          49.877482911977694
+        ],
+        "pixel": [
+          373,
+          1108
+        ]
+      },
+      {
+        "location": [
           14.217124462,
           49.951977962
         ],
@@ -256,6 +266,46 @@
         "pixel": [
           2453,
           1729
+        ]
+      },
+      {
+        "location": [
+          13.942497997316776,
+          49.76916688137743
+        ],
+        "pixel": [
+          843,
+          1879
+        ]
+      },
+      {
+        "location": [
+          13.841129047286381,
+          49.76532080124929
+        ],
+        "pixel": [
+          380,
+          1906
+        ]
+      },
+      {
+        "location": [
+          14.036029840531151,
+          49.78475862132805
+        ],
+        "pixel": [
+          1276,
+          1763
+        ]
+      },
+      {
+        "location": [
+          13.865484546232533,
+          49.932692654684956
+        ],
+        "pixel": [
+          499,
+          718
         ]
       },
       {

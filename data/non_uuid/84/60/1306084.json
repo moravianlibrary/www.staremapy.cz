@@ -9,7 +9,7 @@
   "external_id": "1306084",
   "title": "Cejkov",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "4fa86d84-8cea-592d-a1a6-c2a764e98dee",
     "affine_transformation": null,
-    "changed": "2017-09-30T10:22:35.525950+00:00",
+    "changed": "2022-11-25T05:33:18.103856+00:00",
     "gcps": [
       {
         "location": [
@@ -78,6 +78,36 @@
         "pixel": [
           1418,
           1433
+        ]
+      },
+      {
+        "location": [
+          21.356269585869946,
+          48.26728033249174
+        ],
+        "pixel": [
+          464,
+          1817
+        ]
+      },
+      {
+        "location": [
+          21.365450267205723,
+          48.45098942090078
+        ],
+        "pixel": [
+          508,
+          541
+        ]
+      },
+      {
+        "location": [
+          21.794954949920367,
+          48.31546132583517
+        ],
+        "pixel": [
+          2490,
+          1484
         ]
       },
       {

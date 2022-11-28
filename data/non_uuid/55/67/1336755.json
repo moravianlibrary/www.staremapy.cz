@@ -9,7 +9,7 @@
   "external_id": "1336755",
   "title": "Polička",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,12 +24,16 @@
   "georefereces": {
     "cutline": [
       [
-        380,
-        186
+        379,
+        184
       ],
       [
-        2613,
-        190
+        2263,
+        185
+      ],
+      [
+        2615,
+        186
       ],
       [
         2620,
@@ -40,15 +44,15 @@
         1919
       ],
       [
-        380,
-        186
+        379,
+        184
       ]
     ],
     "created": "2017-12-06T04:28:01.612760+00:00",
     "transformation_method": "affine",
     "mapID": "5be82b08-6d0e-5fb3-b169-0e7f4c20a78c",
     "affine_transformation": null,
-    "changed": "2017-12-06T04:28:01.612760+00:00",
+    "changed": "2022-11-22T15:06:40.911936+00:00",
     "gcps": [
       {
         "location": [
@@ -118,6 +122,16 @@
         "pixel": [
           498,
           397
+        ]
+      },
+      {
+        "location": [
+          16.029993593679112,
+          49.71229561667192
+        ],
+        "pixel": [
+          1254,
+          433
         ]
       },
       {
@@ -218,6 +232,16 @@
         "pixel": [
           706,
           1779
+        ]
+      },
+      {
+        "location": [
+          16.17645043791582,
+          49.728981503355925
+        ],
+        "pixel": [
+          1916,
+          329
         ]
       }
     ]

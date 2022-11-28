@@ -9,7 +9,7 @@
   "external_id": "uuid:87c071a6-9cb3-11e0-8637-0050569d679d",
   "title": "Atlas d'Afrique En 20. Carter, mapa ze strany: [20]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:7429cb92-9cb3-11e0-8637-0050569d679d?page=uuid:87c071a6-9cb3-11e0-8637-0050569d679d",
@@ -48,8 +48,39 @@
     "transformation_method": "affine",
     "mapID": "a8bc5cd7-c057-49ec-96ef-8e2b8f67e35f",
     "affine_transformation": null,
-    "changed": "2020-08-27T09:22:20.915663+00:00",
-    "gcps": []
+    "changed": "2022-11-23T11:13:22.341688+00:00",
+    "gcps": [
+      {
+        "location": [
+          43.66067633274382,
+          -23.612615363347928
+        ],
+        "pixel": [
+          2326,
+          9038
+        ]
+      },
+      {
+        "location": [
+          43.736893984111006,
+          -23.522615233182975
+        ],
+        "pixel": [
+          1869,
+          8202
+        ]
+      },
+      {
+        "location": [
+          43.758866640361006,
+          -23.56416141750121
+        ],
+        "pixel": [
+          2121,
+          8060
+        ]
+      }
+    ]
   },
   "pubdate": ["1701-1750"]
 }

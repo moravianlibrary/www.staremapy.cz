@@ -9,7 +9,7 @@
   "external_id": "1367144",
   "title": "California",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": "Ahern, Jeremiah",
   "catalog_url": null,
   "viewer_url": null,
@@ -24,8 +24,8 @@
   "georefereces": {
     "cutline": [
       [
-        172,
-        188
+        170,
+        189
       ],
       [
         2299,
@@ -40,15 +40,15 @@
         2509
       ],
       [
-        172,
-        188
+        170,
+        189
       ]
     ],
     "created": "2016-04-21T06:56:24.247680+00:00",
     "transformation_method": "affine",
     "mapID": "a475663d-8b82-5e4e-81ca-36659006ad60",
     "affine_transformation": null,
-    "changed": "2016-04-21T06:56:24.247680+00:00",
+    "changed": "2022-11-25T04:46:11.657086+00:00",
     "gcps": [
       {
         "location": [
@@ -188,6 +188,26 @@
         "pixel": [
           2219,
           2273
+        ]
+      },
+      {
+        "location": [
+          -116.9227899241304,
+          32.8635727616047
+        ],
+        "pixel": [
+          490,
+          897
+        ]
+      },
+      {
+        "location": [
+          -116.98363697525518,
+          32.76703897703227
+        ],
+        "pixel": [
+          234,
+          1381
         ]
       }
     ]

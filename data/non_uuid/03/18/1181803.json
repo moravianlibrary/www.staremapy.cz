@@ -9,7 +9,7 @@
   "external_id": "1181803",
   "title": "Levoča a Kežmarok",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "6b878be7-c477-5e3d-a7cb-b9eaa39729b6",
     "affine_transformation": null,
-    "changed": "2016-12-19T05:25:10.057750+00:00",
+    "changed": "2022-11-25T06:28:15.408161+00:00",
     "gcps": [
       {
         "location": [
@@ -272,6 +272,26 @@
       },
       {
         "location": [
+          20.36758353337695,
+          49.15913819145541
+        ],
+        "pixel": [
+          470,
+          865
+        ]
+      },
+      {
+        "location": [
+          20.51933172403605,
+          49.08862011758541
+        ],
+        "pixel": [
+          1188,
+          1372
+        ]
+      },
+      {
+        "location": [
           20.583182176,
           49.068533772
         ],
@@ -462,12 +482,12 @@
       },
       {
         "location": [
-          20.367411872,
-          49.158773346
+          20.378293253237317,
+          49.18900234590157
         ],
         "pixel": [
-          470,
-          868
+          521,
+          651
         ]
       },
       {
@@ -492,32 +512,12 @@
       },
       {
         "location": [
-          20.332822104,
-          49.220162828
-        ],
-        "pixel": [
-          334,
-          448
-        ]
-      },
-      {
-        "location": [
           20.446805259,
           49.191900173
         ],
         "pixel": [
           847,
           635
-        ]
-      },
-      {
-        "location": [
-          20.43195655,
-          49.221704473
-        ],
-        "pixel": [
-          778,
-          423
         ]
       },
       {

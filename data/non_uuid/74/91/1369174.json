@@ -9,7 +9,7 @@
   "external_id": "1369174",
   "title": "Arad und Perjámos",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        95,
-        148
+        91,
+        145
       ],
       [
-        2672,
-        148
+        2674,
+        147
       ],
       [
-        2680,
-        2019
+        2679,
+        2018
       ],
       [
         87,
         2015
       ],
       [
-        95,
-        148
+        91,
+        145
       ]
     ],
     "created": "2017-11-26T05:33:56.730440+00:00",
     "transformation_method": "affine",
     "mapID": "981e486b-4f28-5c21-9289-bd35a79aff97",
     "affine_transformation": null,
-    "changed": "2017-11-26T05:33:56.730440+00:00",
+    "changed": "2022-11-25T05:53:26.547239+00:00",
     "gcps": [
       {
         "location": [
@@ -78,6 +78,26 @@
         "pixel": [
           474,
           243
+        ]
+      },
+      {
+        "location": [
+          21.149527056430163,
+          46.11702613637351
+        ],
+        "pixel": [
+          1736,
+          1140
+        ]
+      },
+      {
+        "location": [
+          21.14853861813855,
+          46.11867453198096
+        ],
+        "pixel": [
+          1729,
+          1128
         ]
       },
       {
@@ -148,6 +168,16 @@
         "pixel": [
           471,
           295
+        ]
+      },
+      {
+        "location": [
+          21.321726605260523,
+          46.17105010835226
+        ],
+        "pixel": [
+          2629,
+          737
         ]
       }
     ]

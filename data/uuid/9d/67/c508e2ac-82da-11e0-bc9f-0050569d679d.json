@@ -9,7 +9,7 @@
   "external_id": "uuid:c508e2ac-82da-11e0-bc9f-0050569d679d",
   "title": "Atlas de l'Amerique Consistant en 46. Cartes hollandoises et angloises, mapa ze strany: [49]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:8ffd7a5b-82da-11e0-bc9f-0050569d679d?page=uuid:c508e2ac-82da-11e0-bc9f-0050569d679d",
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "15c6652b-5a65-4f69-830f-870bf71d3cd4",
     "affine_transformation": null,
-    "changed": "2022-09-16T15:43:03.362102+00:00",
+    "changed": "2022-11-23T13:33:25.551258+00:00",
     "gcps": [
       {
         "location": [
@@ -68,6 +68,26 @@
         "pixel": [
           4333,
           5479
+        ]
+      },
+      {
+        "location": [
+          -75.86354073185193,
+          19.999750830931887
+        ],
+        "pixel": [
+          4458,
+          4766
+        ]
+      },
+      {
+        "location": [
+          -75.87517079014052,
+          19.977448257028698
+        ],
+        "pixel": [
+          4171,
+          5167
         ]
       }
     ]

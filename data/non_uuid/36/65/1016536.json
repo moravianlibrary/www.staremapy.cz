@@ -12,7 +12,7 @@
   "external_id": "1016536",
   "title": "Okolí Prahy",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -59,7 +59,7 @@
     "transformation_method": "affine",
     "mapID": "e93bdd1c-e298-5353-9527-73fbd60960cb",
     "affine_transformation": null,
-    "changed": "2013-12-01T12:09:44.045270+00:00",
+    "changed": "2022-11-23T09:41:03.293859+00:00",
     "gcps": [
       {
         "location": [
@@ -109,16 +109,6 @@
         "pixel": [
           968,
           1316
-        ]
-      },
-      {
-        "location": [
-          13.897525098,
-          49.87564249
-        ],
-        "pixel": [
-          219,
-          1039
         ]
       },
       {
@@ -183,16 +173,6 @@
       },
       {
         "location": [
-          14.653178479,
-          49.992102565
-        ],
-        "pixel": [
-          1668,
-          746
-        ]
-      },
-      {
-        "location": [
           14.679957654,
           50.164395859
         ],
@@ -239,16 +219,6 @@
         "pixel": [
           1352,
           1022
-        ]
-      },
-      {
-        "location": [
-          14.400149609,
-          49.892012505
-        ],
-        "pixel": [
-          1159,
-          1028
         ]
       }
     ]

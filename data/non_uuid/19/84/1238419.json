@@ -9,7 +9,7 @@
   "external_id": "1238419",
   "title": "Océan pacifique",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,51 @@
   "georefereces": {
     "cutline": [
       [
-        3899,
-        0
+        2976,
+        665
       ],
       [
-        3899,
-        2732
+        3025,
+        970
       ],
       [
-        0,
-        2732
+        3515,
+        1671
       ],
       [
-        0,
-        0
+        3488,
+        2353
       ],
       [
-        3899,
-        0
+        2117,
+        2077
+      ],
+      [
+        1315,
+        1541
+      ],
+      [
+        342,
+        1217
+      ],
+      [
+        335,
+        263
+      ],
+      [
+        2837,
+        285
+      ],
+      [
+        2976,
+        665
       ]
     ],
     "created": "2015-11-05T16:01:35.760310+00:00",
     "transformation_method": "affine",
     "mapID": "4b862c9b-c7d3-5d20-b76a-a96e072f4e60",
     "affine_transformation": null,
-    "changed": "2015-11-05T16:01:35.760310+00:00",
+    "changed": "2022-11-23T06:45:40.219955+00:00",
     "gcps": [
       {
         "location": [
@@ -98,6 +118,16 @@
         "pixel": [
           2730,
           1058
+        ]
+      },
+      {
+        "location": [
+          -149.8942713229558,
+          -17.489829945097085
+        ],
+        "pixel": [
+          499,
+          575
         ]
       }
     ]

@@ -9,7 +9,7 @@
   "external_id": "1269210",
   "title": "Budapest fö- és székváros legujabb tervrajza",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -56,7 +56,7 @@
     "transformation_method": "affine",
     "mapID": "a6e98f6f-4747-5e15-a977-148e7aea177c",
     "affine_transformation": null,
-    "changed": "2017-08-05T16:32:02.577330+00:00",
+    "changed": "2022-11-23T09:48:38.210908+00:00",
     "gcps": [
       {
         "location": [
@@ -100,12 +100,32 @@
       },
       {
         "location": [
-          19.041832143,
-          47.532498797
+          19.087236577164063,
+          47.52222607050268
         ],
         "pixel": [
-          260,
-          275
+          1560,
+          477
+        ]
+      },
+      {
+        "location": [
+          19.045131535583145,
+          47.507132297587816
+        ],
+        "pixel": [
+          426,
+          1107
+        ]
+      },
+      {
+        "location": [
+          19.04356251126367,
+          47.514691854860814
+        ],
+        "pixel": [
+          380,
+          798
         ]
       }
     ]

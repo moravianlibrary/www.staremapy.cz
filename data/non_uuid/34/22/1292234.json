@@ -9,7 +9,7 @@
   "external_id": "1292234",
   "title": "Brody",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -56,7 +56,7 @@
     "transformation_method": "affine",
     "mapID": "0e6de946-7124-55a8-8d76-be827324989f",
     "affine_transformation": null,
-    "changed": "2017-04-25T22:08:33.227130+00:00",
+    "changed": "2022-11-23T09:29:43.360567+00:00",
     "gcps": [
       {
         "location": [
@@ -76,6 +76,26 @@
         "pixel": [
           1774,
           1322
+        ]
+      },
+      {
+        "location": [
+          25.293923785841745,
+          50.02017996144437
+        ],
+        "pixel": [
+          2428,
+          1824
+        ]
+      },
+      {
+        "location": [
+          24.886547729269456,
+          50.15236455237908
+        ],
+        "pixel": [
+          609,
+          895
         ]
       },
       {

@@ -9,7 +9,7 @@
   "external_id": "uuid:551c1e5a-9cb3-11e0-8637-0050569d679d",
   "title": "Atlas d'Asie En 26. Carter, mapa ze strany: [27]",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:3a7c2b6f-9cb3-11e0-8637-0050569d679d?page=uuid:551c1e5a-9cb3-11e0-8637-0050569d679d",
@@ -32,6 +32,10 @@
         7347
       ],
       [
+        2441,
+        7371
+      ],
+      [
         5769,
         7370
       ],
@@ -52,16 +56,44 @@
         6656
       ],
       [
-        6908,
-        6492
+        6484,
+        6662
+      ],
+      [
+        6671,
+        6610
+      ],
+      [
+        6938,
+        6467
+      ],
+      [
+        7192,
+        6375
+      ],
+      [
+        7306,
+        6373
+      ],
+      [
+        7622,
+        6321
       ],
       [
         7775,
         6328
       ],
       [
-        9128,
+        9001,
         6331
+      ],
+      [
+        9070,
+        6193
+      ],
+      [
+        9131,
+        6190
       ],
       [
         9151,
@@ -76,7 +108,7 @@
     "transformation_method": "affine",
     "mapID": "96567528-df23-499f-ba55-9e0f483b5616",
     "affine_transformation": null,
-    "changed": "2022-10-16T15:53:33.167569+00:00",
+    "changed": "2022-11-23T10:58:52.434868+00:00",
     "gcps": [
       {
         "location": [
@@ -126,6 +158,16 @@
         "pixel": [
           8340,
           4515
+        ]
+      },
+      {
+        "location": [
+          133.18490908638813,
+          33.91771201935188
+        ],
+        "pixel": [
+          6596,
+          5597
         ]
       }
     ]

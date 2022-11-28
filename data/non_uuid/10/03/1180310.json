@@ -9,7 +9,7 @@
   "external_id": "1180310",
   "title": "Kałusz und Halicz",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": "Nolz, F.",
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "b242ad7b-e5f4-5381-a288-ae7c390f20a7",
     "affine_transformation": null,
-    "changed": "2014-11-25T11:33:24.352010+00:00",
+    "changed": "2022-11-23T06:48:33.086347+00:00",
     "gcps": [
       {
         "location": [
@@ -68,6 +68,36 @@
         "pixel": [
           1741,
           1436
+        ]
+      },
+      {
+        "location": [
+          24.340130293111624,
+          49.216787993301466
+        ],
+        "pixel": [
+          227,
+          377
+        ]
+      },
+      {
+        "location": [
+          24.53250577115142,
+          49.226615553549436
+        ],
+        "pixel": [
+          1161,
+          302
+        ]
+      },
+      {
+        "location": [
+          24.545933337010908,
+          49.21844602473459
+        ],
+        "pixel": [
+          1234,
+          376
         ]
       },
       {
@@ -128,6 +158,26 @@
         "pixel": [
           2136,
           976
+        ]
+      },
+      {
+        "location": [
+          24.810838220053213,
+          49.14813752968152
+        ],
+        "pixel": [
+          2519,
+          897
+        ]
+      },
+      {
+        "location": [
+          24.791336562481106,
+          49.13032571956609
+        ],
+        "pixel": [
+          2436,
+          1025
         ]
       }
     ]
