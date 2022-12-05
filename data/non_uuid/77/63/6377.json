@@ -9,7 +9,7 @@
   "external_id": "6377",
   "title": "III. vojenské mapování 4364/2",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,35 +24,35 @@
   "georefereces": {
     "cutline": [
       [
-        68,
-        8886
+        48,
+        8907
       ],
       [
-        62,
-        199
+        41,
+        162
       ],
       [
-        11479,
-        177
+        11508,
+        154
       ],
       [
-        11504,
-        8848
+        11541,
+        8897
       ],
       [
         8970,
         8870
       ],
       [
-        68,
-        8886
+        48,
+        8907
       ]
     ],
     "created": "2014-12-02T07:34:51.367390+00:00",
     "transformation_method": "affine",
     "mapID": "31dc8551-9f19-5321-aff7-18630fde4b22",
     "affine_transformation": null,
-    "changed": "2021-10-10T21:11:17.332992+00:00",
+    "changed": "2022-12-01T09:46:42.373790+00:00",
     "gcps": [
       {
         "location": [
@@ -192,6 +192,26 @@
         "pixel": [
           1701,
           896
+        ]
+      },
+      {
+        "location": [
+          20.223433623608496,
+          49.141174168507064
+        ],
+        "pixel": [
+          6592,
+          7697
+        ]
+      },
+      {
+        "location": [
+          20.220912347134497,
+          49.141244356231425
+        ],
+        "pixel": [
+          6478,
+          7702
         ]
       }
     ]

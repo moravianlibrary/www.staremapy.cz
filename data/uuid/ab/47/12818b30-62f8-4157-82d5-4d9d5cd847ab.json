@@ -9,7 +9,7 @@
   "external_id": "12818b30-62f8-4157-82d5-4d9d5cd847ab",
   "title": "Klenčí p. Čerchovem",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,47 @@
   "georefereces": {
     "cutline": [
       [
-        9721,
-        1080
+        9776,
+        1037
       ],
       [
-        9743,
-        14035
+        9792,
+        6918
       ],
       [
-        1195,
-        13960
+        9798,
+        14113
       ],
       [
-        1352,
-        1155
+        5839,
+        14109
       ],
       [
-        9721,
-        1080
+        1090,
+        14100
+      ],
+      [
+        1163,
+        6663
+      ],
+      [
+        1237,
+        1063
+      ],
+      [
+        5369,
+        1051
+      ],
+      [
+        9776,
+        1037
       ]
     ],
     "created": "2018-12-19T14:27:52.977214+00:00",
     "transformation_method": "affine",
     "mapID": "66294905-db1c-56f6-a051-d967e1d0b23e",
     "affine_transformation": null,
-    "changed": "2022-10-06T16:18:17.329463+00:00",
+    "changed": "2022-11-28T07:09:07.559484+00:00",
     "gcps": [
       {
         "location": [
@@ -238,6 +254,16 @@
         "pixel": [
           9566,
           10716
+        ]
+      },
+      {
+        "location": [
+          12.39071372537549,
+          48.967603195600645
+        ],
+        "pixel": [
+          5988,
+          7988
         ]
       }
     ]

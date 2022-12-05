@@ -9,7 +9,7 @@
   "external_id": "5914",
   "title": "III. vojenské mapování 3750/4",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -108,7 +108,7 @@
     "transformation_method": "affine",
     "mapID": "a860de36-0ad4-5c8b-a2db-b5d70f8e07fb",
     "affine_transformation": null,
-    "changed": "2014-12-08T17:17:11.207770+00:00",
+    "changed": "2022-12-04T05:11:55.617289+00:00",
     "gcps": [
       {
         "location": [
@@ -598,6 +598,16 @@
         "pixel": [
           9276,
           4098
+        ]
+      },
+      {
+        "location": [
+          13.28832665236719,
+          50.513241054509905
+        ],
+        "pixel": [
+          9261,
+          8357
         ]
       }
     ]

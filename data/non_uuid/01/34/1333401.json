@@ -9,7 +9,7 @@
   "external_id": "1333401",
   "title": "Kossewen",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "1553ae28-4749-5e35-a9ed-3478ee434cd2",
     "affine_transformation": null,
-    "changed": "2017-08-25T14:57:05.210540+00:00",
+    "changed": "2022-11-28T10:38:11.263787+00:00",
     "gcps": [
       {
         "location": [
@@ -118,6 +118,26 @@
         "pixel": [
           2307,
           1347
+        ]
+      },
+      {
+        "location": [
+          21.491840874865154,
+          53.888978418185616
+        ],
+        "pixel": [
+          2335,
+          515
+        ]
+      },
+      {
+        "location": [
+          21.411200061630815,
+          53.88770691160698
+        ],
+        "pixel": [
+          1296,
+          540
         ]
       },
       {
@@ -222,12 +242,12 @@
       },
       {
         "location": [
-          21.372345271,
-          53.892213187
+          21.380432689659017,
+          53.893238154972465
         ],
         "pixel": [
-          800,
-          435
+          898,
+          417
         ]
       }
     ]

@@ -9,7 +9,7 @@
   "external_id": "1376783",
   "title": "Plan der Umgebung von Magenta",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -84,8 +84,8 @@
         2287
       ],
       [
-        831,
-        2295
+        784,
+        2197
       ],
       [
         49,
@@ -96,7 +96,7 @@
     "transformation_method": "affine",
     "mapID": "11037b57-d0fd-5f4f-a477-dcca62653588",
     "affine_transformation": null,
-    "changed": "2017-10-06T06:43:00.103770+00:00",
+    "changed": "2022-11-30T06:52:34.430285+00:00",
     "gcps": [
       {
         "location": [
@@ -216,6 +216,16 @@
         "pixel": [
           2363,
           1918
+        ]
+      },
+      {
+        "location": [
+          8.733053473157707,
+          45.52820751059426
+        ],
+        "pixel": [
+          368,
+          353
         ]
       }
     ]

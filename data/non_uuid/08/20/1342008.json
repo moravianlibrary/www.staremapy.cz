@@ -9,7 +9,7 @@
   "external_id": "1342008",
   "title": "Klausen",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "9ac12921-0243-5bc0-8f9b-8a67365b04fa",
     "affine_transformation": null,
-    "changed": "2016-09-23T05:05:56.317500+00:00",
+    "changed": "2022-11-30T05:11:41.271232+00:00",
     "gcps": [
       {
         "location": [
@@ -138,6 +138,46 @@
         "pixel": [
           1773,
           1589
+        ]
+      },
+      {
+        "location": [
+          11.766466588077744,
+          46.70852979784627
+        ],
+        "pixel": [
+          2335,
+          485
+        ]
+      },
+      {
+        "location": [
+          11.734383336565845,
+          46.71894574259949
+        ],
+        "pixel": [
+          2159,
+          430
+        ]
+      },
+      {
+        "location": [
+          11.82054797987244,
+          46.658858162784554
+        ],
+        "pixel": [
+          2591,
+          861
+        ]
+      },
+      {
+        "location": [
+          11.760978727446963,
+          46.746505156137204
+        ],
+        "pixel": [
+          2293,
+          228
         ]
       },
       {
@@ -247,6 +287,16 @@
         ],
         "pixel": [
           1523,
+          1384
+        ]
+      },
+      {
+        "location": [
+          11.782835666007593,
+          46.58436811072775
+        ],
+        "pixel": [
+          2412,
           1384
         ]
       }

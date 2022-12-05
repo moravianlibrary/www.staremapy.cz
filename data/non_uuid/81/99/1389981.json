@@ -9,7 +9,7 @@
   "external_id": "1389981",
   "title": "Snowidowicze",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        2580,
-        0
+        2096,
+        170
       ],
       [
-        2580,
-        1978
+        2103,
+        1675
       ],
       [
-        0,
-        1978
+        211,
+        1680
       ],
       [
-        0,
-        0
+        219,
+        170
       ],
       [
-        2580,
-        0
+        2096,
+        170
       ]
     ],
     "created": "2016-01-08T13:42:10.802900+00:00",
     "transformation_method": "affine",
     "mapID": "607b3dd1-4e09-5e34-a9c6-eb4f6e6af4c4",
     "affine_transformation": null,
-    "changed": "2016-01-08T13:42:10.802900+00:00",
+    "changed": "2022-11-29T10:23:02.264255+00:00",
     "gcps": [
       {
         "location": [
@@ -78,6 +78,26 @@
         "pixel": [
           476,
           1437
+        ]
+      },
+      {
+        "location": [
+          27.74875300026348,
+          51.297737624839755
+        ],
+        "pixel": [
+          1782,
+          1398
+        ]
+      },
+      {
+        "location": [
+          27.490030468692453,
+          51.31538694413453
+        ],
+        "pixel": [
+          804,
+          1279
         ]
       },
       {

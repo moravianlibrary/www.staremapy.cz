@@ -9,7 +9,7 @@
   "external_id": "29138",
   "title": "Polohopisný plán královského hlavního města Prahy\u2026",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "72ddb48b-d6a5-5fbf-b258-b8a3f8d43872",
     "affine_transformation": null,
-    "changed": "2017-04-26T14:57:41.832430+00:00",
+    "changed": "2022-12-03T06:25:27.242639+00:00",
     "gcps": [
       {
         "location": [
@@ -132,6 +132,36 @@
       },
       {
         "location": [
+          14.394100794525569,
+          50.066927716554886
+        ],
+        "pixel": [
+          5161,
+          4539
+        ]
+      },
+      {
+        "location": [
+          14.39377052098486,
+          50.06411701284503
+        ],
+        "pixel": [
+          5039,
+          6344
+        ]
+      },
+      {
+        "location": [
+          14.406906366573974,
+          50.06791507709664
+        ],
+        "pixel": [
+          10555,
+          3784
+        ]
+      },
+      {
+        "location": [
           14.40290451,
           50.071829959
         ],
@@ -198,16 +228,6 @@
         "pixel": [
           10688,
           4117
-        ]
-      },
-      {
-        "location": [
-          14.403215647,
-          50.062009441
-        ],
-        "pixel": [
-          9048,
-          7673
         ]
       }
     ]

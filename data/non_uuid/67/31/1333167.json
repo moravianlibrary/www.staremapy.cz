@@ -9,7 +9,7 @@
   "external_id": "1333167",
   "title": "Belorusskaja SSR",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "f0b50bb0-7f1e-5781-ad99-d7227442060e",
     "affine_transformation": null,
-    "changed": "2017-04-15T19:38:35.394360+00:00",
+    "changed": "2022-12-04T14:58:52.338738+00:00",
     "gcps": [
       {
         "location": [
@@ -98,6 +98,36 @@
         "pixel": [
           712,
           1812
+        ]
+      },
+      {
+        "location": [
+          29.513749070975404,
+          52.5322229612151
+        ],
+        "pixel": [
+          367,
+          1254
+        ]
+      },
+      {
+        "location": [
+          29.854834346327717,
+          52.543313400599914
+        ],
+        "pixel": [
+          1656,
+          1194
+        ]
+      },
+      {
+        "location": [
+          29.961021592293644,
+          52.41732525222449
+        ],
+        "pixel": [
+          2054,
+          1975
         ]
       }
     ]

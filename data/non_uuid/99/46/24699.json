@@ -9,7 +9,7 @@
   "external_id": "24699",
   "title": "Podrobné mapy zemí Koruny české v měřítku 1:75.000 a mapa vzdáleností všech míst při silnici ležících - Jindř. Hradec - Třeboň - N. Bystřice. Průvodce statisticko-historický po všech místech na těchto mapách uvedených a rejstřík věcný názvů hor, potoků, řek, rybníků atd. Sešit 49. List 73,",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,18 +48,8 @@
     "transformation_method": "affine",
     "mapID": "ccfac621-f2bb-541f-9ad4-18083b3656af",
     "affine_transformation": null,
-    "changed": "2014-12-16T21:49:21.601940+00:00",
+    "changed": "2022-12-03T15:52:26.395523+00:00",
     "gcps": [
-      {
-        "location": [
-          14.864276437,
-          49.181827761
-        ],
-        "pixel": [
-          2597,
-          1153
-        ]
-      },
       {
         "location": [
           14.865177659,
@@ -82,32 +72,12 @@
       },
       {
         "location": [
-          14.777630357,
-          49.180411111
-        ],
-        "pixel": [
-          1281,
-          1201
-        ]
-      },
-      {
-        "location": [
           14.839308988,
           49.001877528
         ],
         "pixel": [
           2231,
           5323
-        ]
-      },
-      {
-        "location": [
-          14.847977887,
-          49.001652296
-        ],
-        "pixel": [
-          2357,
-          5333
         ]
       },
       {
@@ -208,6 +178,16 @@
         "pixel": [
           5310,
           3076
+        ]
+      },
+      {
+        "location": [
+          14.81795958506371,
+          49.10287206314686
+        ],
+        "pixel": [
+          1890,
+          3003
         ]
       }
     ]

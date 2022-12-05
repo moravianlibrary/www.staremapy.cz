@@ -9,7 +9,7 @@
   "external_id": "1332444",
   "title": "Litva",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        2370,
-        0
+        2078,
+        442
       ],
       [
-        2370,
-        3264
+        2083,
+        2603
       ],
       [
-        0,
-        3264
+        269,
+        2602
       ],
       [
-        0,
-        0
+        271,
+        445
       ],
       [
-        2370,
-        0
+        2078,
+        442
       ]
     ],
     "created": "2015-11-05T17:10:06.678170+00:00",
     "transformation_method": "affine",
     "mapID": "b98764eb-d4f3-5796-a34c-112597d05a97",
     "affine_transformation": null,
-    "changed": "2015-11-05T17:10:06.678170+00:00",
+    "changed": "2022-11-30T05:49:38.636253+00:00",
     "gcps": [
       {
         "location": [
@@ -98,6 +98,26 @@
         "pixel": [
           1750,
           473
+        ]
+      },
+      {
+        "location": [
+          22.535350816893803,
+          55.98812536481233
+        ],
+        "pixel": [
+          395,
+          521
+        ]
+      },
+      {
+        "location": [
+          22.726359966726115,
+          55.99895509414293
+        ],
+        "pixel": [
+          1042,
+          482
         ]
       }
     ]

@@ -9,7 +9,7 @@
   "external_id": "1271340",
   "title": "46°46° Bołgrad",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "29d8ec2b-a8f1-56bc-b2d6-e5c3543b52a5",
     "affine_transformation": null,
-    "changed": "2017-04-14T15:53:10.668610+00:00",
+    "changed": "2022-11-30T06:51:23.629643+00:00",
     "gcps": [
       {
         "location": [
@@ -98,6 +98,26 @@
         "pixel": [
           990,
           327
+        ]
+      },
+      {
+        "location": [
+          28.188105536049605,
+          45.90256999042376
+        ],
+        "pixel": [
+          973,
+          2034
+        ]
+      },
+      {
+        "location": [
+          28.762542473447695,
+          46.10679683070674
+        ],
+        "pixel": [
+          2172,
+          1430
         ]
       }
     ]

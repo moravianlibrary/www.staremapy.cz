@@ -9,7 +9,7 @@
   "external_id": "38051",
   "title": "B.Z. - Karte von Oesterreich",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "3435f18e-d506-5a65-81d8-2fd5f955bdd3",
     "affine_transformation": null,
-    "changed": "2017-02-25T13:09:58.364970+00:00",
+    "changed": "2022-12-03T07:05:13.112719+00:00",
     "gcps": [
       {
         "location": [
@@ -228,6 +228,26 @@
         "pixel": [
           12757,
           1465
+        ]
+      },
+      {
+        "location": [
+          12.484623298169417,
+          47.081424304625955
+        ],
+        "pixel": [
+          6747,
+          4947
+        ]
+      },
+      {
+        "location": [
+          12.557472283391528,
+          47.35582445347245
+        ],
+        "pixel": [
+          7301,
+          2090
         ]
       },
       {

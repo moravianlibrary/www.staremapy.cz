@@ -9,7 +9,7 @@
   "external_id": "788895",
   "title": "Karte von Olmützer-Kreise des Markgrafthumes Maehren",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": "Liechtenstern",
   "catalog_url": null,
   "viewer_url": null,
@@ -316,7 +316,7 @@
     "transformation_method": "affine",
     "mapID": "9abd51b9-5f30-56c9-8757-91d216a480b3",
     "affine_transformation": null,
-    "changed": "2015-06-24T03:51:49.734900+00:00",
+    "changed": "2022-11-29T08:56:29.553399+00:00",
     "gcps": [
       {
         "location": [
@@ -726,6 +726,36 @@
         "pixel": [
           826,
           2478
+        ]
+      },
+      {
+        "location": [
+          17.099876722907602,
+          49.96367289021214
+        ],
+        "pixel": [
+          1751,
+          1273
+        ]
+      },
+      {
+        "location": [
+          17.388777129614375,
+          49.510525485885125
+        ],
+        "pixel": [
+          2431,
+          2789
+        ]
+      },
+      {
+        "location": [
+          17.17610315196653,
+          49.325947714096316
+        ],
+        "pixel": [
+          1953,
+          3433
         ]
       },
       {
@@ -1186,6 +1216,16 @@
         "pixel": [
           1559,
           2319
+        ]
+      },
+      {
+        "location": [
+          16.723815556303308,
+          49.93605433770418
+        ],
+        "pixel": [
+          913,
+          1380
         ]
       }
     ]

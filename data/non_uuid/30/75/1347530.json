@@ -9,7 +9,7 @@
   "external_id": "1347530",
   "title": "Jabal es Smane",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,35 @@
   "georefereces": {
     "cutline": [
       [
-        2849,
-        0
+        2546,
+        547
       ],
       [
-        2849,
-        3936
+        2548,
+        3332
       ],
       [
-        0,
-        3936
+        1581,
+        3326
       ],
       [
-        0,
-        0
+        293,
+        3332
       ],
       [
-        2849,
-        0
+        286,
+        558
+      ],
+      [
+        2546,
+        547
       ]
     ],
     "created": "2015-11-05T17:33:35.904240+00:00",
     "transformation_method": "affine",
     "mapID": "c01b8825-dcf5-50fb-b403-b3a629b63892",
     "affine_transformation": null,
-    "changed": "2015-11-05T17:33:35.904240+00:00",
+    "changed": "2022-11-29T08:52:53.285132+00:00",
     "gcps": [
       {
         "location": [
@@ -158,6 +162,16 @@
         "pixel": [
           1062,
           2470
+        ]
+      },
+      {
+        "location": [
+          36.801666945622394,
+          36.25161713255726
+        ],
+        "pixel": [
+          765,
+          3291
         ]
       }
     ]

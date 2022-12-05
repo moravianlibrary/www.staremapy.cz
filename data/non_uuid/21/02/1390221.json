@@ -9,7 +9,7 @@
   "external_id": "1390221",
   "title": "Mikuliczyn",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        2580,
-        0
+        2276,
+        188
       ],
       [
-        2580,
-        1973
+        2280,
+        1687
       ],
       [
-        0,
-        1973
+        284,
+        1685
       ],
       [
-        0,
-        0
+        289,
+        190
       ],
       [
-        2580,
-        0
+        2276,
+        188
       ]
     ],
     "created": "2016-01-08T13:42:40.568780+00:00",
     "transformation_method": "affine",
     "mapID": "5c7f6439-e10d-527d-b1d2-157287631ede",
     "affine_transformation": null,
-    "changed": "2016-01-08T13:42:40.568780+00:00",
+    "changed": "2022-11-30T06:41:35.625704+00:00",
     "gcps": [
       {
         "location": [
@@ -88,6 +88,36 @@
         "pixel": [
           405,
           1551
+        ]
+      },
+      {
+        "location": [
+          24.489059100039533,
+          48.31411899057389
+        ],
+        "pixel": [
+          913,
+          1298
+        ]
+      },
+      {
+        "location": [
+          24.631731985721398,
+          48.27801326875729
+        ],
+        "pixel": [
+          1486,
+          1512
+        ]
+      },
+      {
+        "location": [
+          24.414492142107427,
+          48.272602049544645
+        ],
+        "pixel": [
+          619,
+          1546
         ]
       },
       {

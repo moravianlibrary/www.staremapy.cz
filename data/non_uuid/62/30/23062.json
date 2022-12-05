@@ -9,7 +9,7 @@
   "external_id": "23062",
   "title": "Orientační plán Prahy a obcí sousedních List 14a.",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        384,
-        13952
+        761,
+        13422
       ],
       [
-        11584,
-        13952
+        11137,
+        13471
       ],
       [
-        11584,
-        256
+        11216,
+        720
       ],
       [
-        384,
-        256
+        852,
+        665
       ],
       [
-        384,
-        13952
+        761,
+        13422
       ]
     ],
     "created": "2015-07-21T06:33:43.590260+00:00",
     "transformation_method": "affine",
     "mapID": "13c48f6b-fb4a-557b-a23d-950bf222776f",
     "affine_transformation": null,
-    "changed": "2015-07-21T06:33:43.590260+00:00",
+    "changed": "2022-12-03T07:50:04.198058+00:00",
     "gcps": [
       {
         "location": [
@@ -102,6 +102,16 @@
       },
       {
         "location": [
+          14.320019712307772,
+          50.081017675110985
+        ],
+        "pixel": [
+          1026,
+          1445
+        ]
+      },
+      {
+        "location": [
           14.324523605,
           50.07559799
         ],
@@ -128,6 +138,26 @@
         "pixel": [
           8471,
           1442
+        ]
+      },
+      {
+        "location": [
+          14.32026647553714,
+          50.08118635080834
+        ],
+        "pixel": [
+          1117,
+          1358
+        ]
+      },
+      {
+        "location": [
+          14.34669695652223,
+          50.06244604012383
+        ],
+        "pixel": [
+          10048,
+          11222
         ]
       }
     ]

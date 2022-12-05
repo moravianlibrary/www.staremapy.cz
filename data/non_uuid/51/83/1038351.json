@@ -12,7 +12,7 @@
   "external_id": "1038351",
   "title": "[Frýdlant a okolí]",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -31,20 +31,32 @@
         227
       ],
       [
-        298,
-        39
+        305,
+        27
+      ],
+      [
+        1198,
+        24
       ],
       [
         1453,
         33
       ],
       [
-        1456,
-        1138
+        1455,
+        1176
+      ],
+      [
+        523,
+        1164
       ],
       [
         27,
         1156
+      ],
+      [
+        22,
+        807
       ],
       [
         64,
@@ -59,7 +71,7 @@
     "transformation_method": "affine",
     "mapID": "bed78675-b3ba-55c4-9a08-49102273db12",
     "affine_transformation": null,
-    "changed": "2013-12-07T09:04:44.966760+00:00",
+    "changed": "2022-11-30T05:40:14.289463+00:00",
     "gcps": [
       {
         "location": [
@@ -89,6 +101,16 @@
         "pixel": [
           1312,
           178
+        ]
+      },
+      {
+        "location": [
+          15.00434626725681,
+          50.97555046285325
+        ],
+        "pixel": [
+          440,
+          276
         ]
       },
       {

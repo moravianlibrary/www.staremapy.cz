@@ -9,7 +9,7 @@
   "external_id": "1016810",
   "title": "Copie aus der Katastral Mappe der Gemeinde Pirnitz Markt",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -28,20 +28,52 @@
         1471
       ],
       [
-        277,
-        2247
+        570,
+        1750
       ],
       [
-        1463,
-        2243
+        785,
+        1883
       ],
       [
-        1477,
+        863,
+        2059
+      ],
+      [
+        846,
+        2176
+      ],
+      [
+        1003,
+        2171
+      ],
+      [
+        1005,
+        2103
+      ],
+      [
+        1267,
+        2082
+      ],
+      [
+        1194,
+        1465
+      ],
+      [
+        1405,
+        938
+      ],
+      [
+        894,
         747
       ],
       [
-        301,
-        743
+        689,
+        1163
+      ],
+      [
+        323,
+        1307
       ],
       [
         289,
@@ -52,7 +84,7 @@
     "transformation_method": "affine",
     "mapID": "3323d4ba-34ee-5f9b-aea7-3b6a057b51b9",
     "affine_transformation": null,
-    "changed": "2014-02-27T13:31:02.762850+00:00",
+    "changed": "2022-12-01T05:02:45.662602+00:00",
     "gcps": [
       {
         "location": [
@@ -112,6 +144,16 @@
         "pixel": [
           1146,
           2048
+        ]
+      },
+      {
+        "location": [
+          15.674285983646856,
+          49.30660622966698
+        ],
+        "pixel": [
+          1033,
+          1308
         ]
       }
     ]

@@ -9,7 +9,7 @@
   "external_id": "1389561",
   "title": "Tumiłowicze",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        2579,
-        0
+        2181,
+        171
       ],
       [
-        2579,
-        1989
+        2189,
+        1675
       ],
       [
-        0,
-        1989
+        433,
+        1690
       ],
       [
-        0,
-        0
+        448,
+        180
       ],
       [
-        2579,
-        0
+        2181,
+        171
       ]
     ],
     "created": "2016-01-08T13:41:13.852350+00:00",
     "transformation_method": "affine",
     "mapID": "28d3340e-1ced-5cbb-b1bd-4bc2d25ec115",
     "affine_transformation": null,
-    "changed": "2016-01-08T13:41:13.852350+00:00",
+    "changed": "2022-11-29T10:18:57.778996+00:00",
     "gcps": [
       {
         "location": [
@@ -68,6 +68,26 @@
         "pixel": [
           630,
           1591
+        ]
+      },
+      {
+        "location": [
+          28.056579410191397,
+          54.838239011634016
+        ],
+        "pixel": [
+          1197,
+          1155
+        ]
+      },
+      {
+        "location": [
+          28.240845291613574,
+          54.90039902897519
+        ],
+        "pixel": [
+          1883,
+          759
         ]
       },
       {
@@ -108,6 +128,16 @@
         "pixel": [
           1463,
           499
+        ]
+      },
+      {
+        "location": [
+          28.128039109606206,
+          54.756018662196055
+        ],
+        "pixel": [
+          1471,
+          1652
         ]
       }
     ]

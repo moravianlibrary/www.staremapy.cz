@@ -9,7 +9,7 @@
   "external_id": "1389555",
   "title": "Miadzioł",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,23 +24,27 @@
   "georefereces": {
     "cutline": [
       [
-        426,
+        413,
         1684
       ],
       [
         2154,
-        1684
+        1687
       ],
       [
-        2154,
-        176
+        2149,
+        190
       ],
       [
-        426,
-        176
+        1562,
+        188
       ],
       [
-        426,
+        423,
+        185
+      ],
+      [
+        413,
         1684
       ]
     ],
@@ -48,7 +52,7 @@
     "transformation_method": "affine",
     "mapID": "cb2f179e-6817-5dba-8702-1af49a44377a",
     "affine_transformation": null,
-    "changed": "2017-01-06T16:22:36.211720+00:00",
+    "changed": "2022-11-30T05:53:54.661588+00:00",
     "gcps": [
       {
         "location": [
@@ -68,6 +72,26 @@
         "pixel": [
           1948,
           910
+        ]
+      },
+      {
+        "location": [
+          26.85887000475323,
+          54.95506180738863
+        ],
+        "pixel": [
+          514,
+          457
+        ]
+      },
+      {
+        "location": [
+          27.25342358074916,
+          54.977587151392726
+        ],
+        "pixel": [
+          1878,
+          315
         ]
       },
       {
@@ -98,6 +122,16 @@
         "pixel": [
           755,
           886
+        ]
+      },
+      {
+        "location": [
+          27.27772640887292,
+          54.78996947033474
+        ],
+        "pixel": [
+          1968,
+          1440
         ]
       }
     ]

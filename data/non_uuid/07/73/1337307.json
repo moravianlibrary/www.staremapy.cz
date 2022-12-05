@@ -9,7 +9,7 @@
   "external_id": "1337307",
   "title": "Bleiberg und Tarvis",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        200,
-        189
+        199,
+        186
       ],
       [
-        2651,
-        199
+        2660,
+        185
       ],
       [
-        2666,
-        1968
+        2667,
+        1967
       ],
       [
         200,
         1970
       ],
       [
-        200,
-        189
+        199,
+        186
       ]
     ],
     "created": "2017-11-26T05:27:45.770590+00:00",
     "transformation_method": "affine",
     "mapID": "62ab385b-e3cc-5532-b864-d5f3786befc0",
     "affine_transformation": null,
-    "changed": "2017-11-26T05:27:45.770590+00:00",
+    "changed": "2022-12-01T04:08:58.311384+00:00",
     "gcps": [
       {
         "location": [
@@ -138,6 +138,46 @@
         "pixel": [
           2105,
           650
+        ]
+      },
+      {
+        "location": [
+          13.396029121749743,
+          46.73848941143481
+        ],
+        "pixel": [
+          503,
+          261
+        ]
+      },
+      {
+        "location": [
+          13.365323198882393,
+          46.67151523767083
+        ],
+        "pixel": [
+          352,
+          738
+        ]
+      },
+      {
+        "location": [
+          13.471720404192949,
+          46.629249440301066
+        ],
+        "pixel": [
+          873,
+          1042
+        ]
+      },
+      {
+        "location": [
+          13.626933499000868,
+          46.59123725754654
+        ],
+        "pixel": [
+          1642,
+          1312
         ]
       },
       {

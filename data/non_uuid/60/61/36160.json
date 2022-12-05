@@ -9,7 +9,7 @@
   "external_id": "36160",
   "title": "Mapy plánování ČSR",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "9a692ae5-1167-57ea-b218-9b635d96b290",
     "affine_transformation": null,
-    "changed": "2017-08-03T06:07:03.675740+00:00",
+    "changed": "2022-12-03T06:16:54.488192+00:00",
     "gcps": [
       {
         "location": [
@@ -102,12 +102,12 @@
       },
       {
         "location": [
-          13.882780552,
-          48.906668963
+          13.996416433797924,
+          48.791570057127274
         ],
         "pixel": [
-          1990,
-          4620
+          4639,
+          8662
         ]
       },
       {
@@ -178,6 +178,16 @@
         "pixel": [
           5144,
           3192
+        ]
+      },
+      {
+        "location": [
+          13.88346719750781,
+          48.907035662022565
+        ],
+        "pixel": [
+          1990,
+          4620
         ]
       }
     ]
