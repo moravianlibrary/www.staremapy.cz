@@ -12,7 +12,7 @@
   "external_id": "1239650",
   "title": "Skizze der Wege welche vom obern Nebraska (Platte river) zum Mormonen Gebiet am Grossen Salzsee führen",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,12 +27,40 @@
   "georefereces": {
     "cutline": [
       [
-        189,
-        215
+        182,
+        409
+      ],
+      [
+        416,
+        230
+      ],
+      [
+        485,
+        208
       ],
       [
         614,
         212
+      ],
+      [
+        721,
+        273
+      ],
+      [
+        824,
+        332
+      ],
+      [
+        936,
+        432
+      ],
+      [
+        941,
+        402
+      ],
+      [
+        844,
+        279
       ],
       [
         976,
@@ -87,15 +115,15 @@
         1311
       ],
       [
-        189,
-        215
+        182,
+        409
       ]
     ],
     "created": "2017-11-22T06:56:50.643160+00:00",
     "transformation_method": "affine",
     "mapID": "61c796f6-1e4b-5c06-bfd5-045843852b90",
     "affine_transformation": null,
-    "changed": "2017-11-22T06:56:50.643160+00:00",
+    "changed": "2022-12-05T10:48:17.846510+00:00",
     "gcps": [
       {
         "location": [
@@ -139,12 +167,32 @@
       },
       {
         "location": [
+          -106.87657387352088,
+          41.51582722071231
+        ],
+        "pixel": [
+          1423,
+          672
+        ]
+      },
+      {
+        "location": [
           -105.615961716,
           40.254802537
         ],
         "pixel": [
           1633,
           1011
+        ]
+      },
+      {
+        "location": [
+          -112.5832472266859,
+          42.86303493209161
+        ],
+        "pixel": [
+          349,
+          313
         ]
       }
     ]

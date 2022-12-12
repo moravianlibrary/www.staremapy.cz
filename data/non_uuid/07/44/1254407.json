@@ -9,7 +9,7 @@
   "external_id": "1254407",
   "title": "Turow",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "20132c3a-6b9c-5951-9d3e-f7884700a0fa",
     "affine_transformation": null,
-    "changed": "2017-04-23T17:19:33.367600+00:00",
+    "changed": "2022-12-09T07:46:09.907092+00:00",
     "gcps": [
       {
         "location": [
@@ -62,22 +62,32 @@
       },
       {
         "location": [
-          27.128508453,
-          51.612355991
-        ],
-        "pixel": [
-          955,
-          2963
-        ]
-      },
-      {
-        "location": [
           27.780643008,
           52.068835316
         ],
         "pixel": [
           2138,
           1636
+        ]
+      },
+      {
+        "location": [
+          27.131457152665256,
+          51.61413760527711
+        ],
+        "pixel": [
+          956,
+          2955
+        ]
+      },
+      {
+        "location": [
+          26.916852162742202,
+          51.939530135537524
+        ],
+        "pixel": [
+          600,
+          2021
         ]
       },
       {
@@ -98,6 +108,16 @@
         "pixel": [
           1643,
           862
+        ]
+      },
+      {
+        "location": [
+          27.63160902065813,
+          51.51304822235019
+        ],
+        "pixel": [
+          1857,
+          3247
         ]
       }
     ]

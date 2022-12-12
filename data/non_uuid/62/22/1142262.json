@@ -12,7 +12,7 @@
   "external_id": "1142262",
   "title": "Piano generale delle lagune di Venezia dalla foce dell' Adige a quello della Piave, e paesi limitrofi",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,31 +27,43 @@
   "georefereces": {
     "cutline": [
       [
-        406,
-        2026
+        402,
+        2015
       ],
       [
         4162,
         2026
       ],
       [
-        4162,
-        358
+        4150,
+        809
       ],
       [
-        406,
-        358
+        3552,
+        369
       ],
       [
-        406,
-        2026
+        1031,
+        372
+      ],
+      [
+        901,
+        736
+      ],
+      [
+        414,
+        985
+      ],
+      [
+        402,
+        2015
       ]
     ],
     "created": "2017-02-25T11:49:50.859280+00:00",
     "transformation_method": "affine",
     "mapID": "2f36ed17-c59d-54ec-b696-ec8aa11d1a7d",
     "affine_transformation": null,
-    "changed": "2017-02-25T11:49:50.859280+00:00",
+    "changed": "2022-12-08T09:35:54.786710+00:00",
     "gcps": [
       {
         "location": [
@@ -111,6 +123,16 @@
         "pixel": [
           937,
           1650
+        ]
+      },
+      {
+        "location": [
+          12.317076168519524,
+          45.3443177138891
+        ],
+        "pixel": [
+          1902,
+          1177
         ]
       }
     ]

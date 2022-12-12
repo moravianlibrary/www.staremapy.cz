@@ -12,7 +12,7 @@
   "external_id": "856197",
   "title": "[Plan von der churfürstl. saechsischen Residenz Dresden]",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,39 +27,55 @@
   "georefereces": {
     "cutline": [
       [
-        139,
-        282
+        113,
+        300
       ],
       [
-        99,
-        2850
+        94,
+        2811
       ],
       [
-        2387,
-        2802
+        2379,
+        2796
       ],
       [
-        2403,
-        770
+        2394,
+        764
       ],
       [
-        1731,
-        786
+        1724,
+        757
       ],
       [
-        1723,
-        282
+        1660,
+        581
       ],
       [
-        139,
-        282
+        1658,
+        398
+      ],
+      [
+        1694,
+        260
+      ],
+      [
+        293,
+        268
+      ],
+      [
+        267,
+        289
+      ],
+      [
+        113,
+        300
       ]
     ],
     "created": "2014-11-16T20:52:56.786440+00:00",
     "transformation_method": "affine",
     "mapID": "d2db6164-690b-59e4-af93-c31a7a78b827",
     "affine_transformation": null,
-    "changed": "2014-11-16T20:52:56.786440+00:00",
+    "changed": "2022-12-07T12:09:59.526215+00:00",
     "gcps": [
       {
         "location": [
@@ -109,6 +125,16 @@
         "pixel": [
           1468,
           2202
+        ]
+      },
+      {
+        "location": [
+          13.7391804798282,
+          51.04872118805193
+        ],
+        "pixel": [
+          1535,
+          2064
         ]
       }
     ]

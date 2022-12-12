@@ -9,7 +9,7 @@
   "external_id": "1241692",
   "title": "Žďárské vrchy",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,35 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        383,
-        245
+        392,
+        230
       ],
       [
-        2639,
-        229
+        2613,
+        230
       ],
       [
-        2623,
-        1957
+        2615,
+        1968
       ],
       [
-        383,
-        1941
+        378,
+        1965
       ],
       [
-        383,
-        1941
-      ],
-      [
-        383,
-        245
+        392,
+        230
       ]
     ],
     "created": "2017-01-30T19:20:06.977960+00:00",
     "transformation_method": "affine",
     "mapID": "a652f60a-e2ce-5a9d-a9ac-e69e10529e9f",
     "affine_transformation": null,
-    "changed": "2017-01-30T19:20:06.977960+00:00",
+    "changed": "2022-12-09T08:01:18.481967+00:00",
     "gcps": [
       {
         "location": [
@@ -132,6 +128,26 @@
         "pixel": [
           755,
           1210
+        ]
+      },
+      {
+        "location": [
+          16.261710770512565,
+          49.52279805886198
+        ],
+        "pixel": [
+          2294,
+          1803
+        ]
+      },
+      {
+        "location": [
+          16.263658919244406,
+          49.71361776195809
+        ],
+        "pixel": [
+          2293,
+          478
         ]
       },
       {
@@ -442,6 +458,16 @@
         "pixel": [
           1252,
           324
+        ]
+      },
+      {
+        "location": [
+          16.309366043455192,
+          49.609468402685536
+        ],
+        "pixel": [
+          2504,
+          1193
         ]
       }
     ]

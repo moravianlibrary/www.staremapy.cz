@@ -9,7 +9,7 @@
   "external_id": "36251",
   "title": "Beroun",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -36,8 +36,8 @@
         969
       ],
       [
-        2150,
-        977
+        2138,
+        976
       ],
       [
         2158,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "6a0b9fdf-36cf-583c-82cf-c4a02adee59c",
     "affine_transformation": null,
-    "changed": "2015-01-17T11:13:57.777310+00:00",
+    "changed": "2022-12-05T12:32:19.584346+00:00",
     "gcps": [
       {
         "location": [
@@ -88,6 +88,16 @@
         "pixel": [
           3725,
           2414
+        ]
+      },
+      {
+        "location": [
+          14.053890447573476,
+          49.95028905365689
+        ],
+        "pixel": [
+          2682,
+          8055
         ]
       },
       {
@@ -188,6 +198,16 @@
         "pixel": [
           5086,
           2484
+        ]
+      },
+      {
+        "location": [
+          14.0577981131088,
+          49.95975449003055
+        ],
+        "pixel": [
+          3341,
+          5555
         ]
       }
     ]

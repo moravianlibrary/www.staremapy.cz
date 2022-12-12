@@ -9,7 +9,7 @@
   "external_id": "1168690",
   "title": "Chemische Industrie",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -28,6 +28,10 @@
         982
       ],
       [
+        798,
+        1681
+      ],
+      [
         927,
         1786
       ],
@@ -40,8 +44,12 @@
         1758
       ],
       [
-        3015,
-        1090
+        3024,
+        1112
+      ],
+      [
+        3030,
+        1068
       ],
       [
         2939,
@@ -72,7 +80,7 @@
     "transformation_method": "affine",
     "mapID": "d144a970-636e-5f22-ac6e-d58fd831400b",
     "affine_transformation": null,
-    "changed": "2016-12-08T07:43:00.406060+00:00",
+    "changed": "2022-12-05T10:40:30.867628+00:00",
     "gcps": [
       {
         "location": [
@@ -142,6 +150,26 @@
         "pixel": [
           1043,
           987
+        ]
+      },
+      {
+        "location": [
+          14.267344881435788,
+          50.98538724052716
+        ],
+        "pixel": [
+          1023,
+          119
+        ]
+      },
+      {
+        "location": [
+          16.329594820779445,
+          50.58603455058392
+        ],
+        "pixel": [
+          1903,
+          413
         ]
       },
       {

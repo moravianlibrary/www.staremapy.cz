@@ -9,7 +9,7 @@
   "external_id": "1366852",
   "title": "[Land registry series]",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,35 @@
   "georefereces": {
     "cutline": [
       [
-        3840,
-        0
+        3670,
+        173
       ],
       [
-        3840,
-        2720
+        3667,
+        2504
       ],
       [
-        0,
-        2720
+        158,
+        2505
       ],
       [
-        0,
-        0
+        164,
+        173
       ],
       [
-        3840,
-        0
+        3592,
+        173
+      ],
+      [
+        3670,
+        173
       ]
     ],
     "created": "2015-11-05T17:41:55.990140+00:00",
     "transformation_method": "affine",
     "mapID": "e7aeb186-37d5-549a-a479-de94a1f76b62",
     "affine_transformation": null,
-    "changed": "2015-11-05T17:41:55.990140+00:00",
+    "changed": "2022-12-11T05:30:20.554133+00:00",
     "gcps": [
       {
         "location": [

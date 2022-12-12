@@ -12,7 +12,7 @@
   "external_id": "1037819",
   "title": "Südwestliches Böhmen",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -28,15 +28,19 @@
     "cutline": [
       [
         359,
-        403
+        392
       ],
       [
-        383,
-        2499
+        1242,
+        1556
       ],
       [
-        2903,
-        2507
+        2477,
+        2530
+      ],
+      [
+        2900,
+        2530
       ],
       [
         2895,
@@ -44,14 +48,14 @@
       ],
       [
         359,
-        403
+        392
       ]
     ],
     "created": "2014-01-25T20:31:00.062400+00:00",
     "transformation_method": "affine",
     "mapID": "d200366b-f52b-5f63-a6b0-5e7720dd433a",
     "affine_transformation": null,
-    "changed": "2014-01-25T20:31:00.062400+00:00",
+    "changed": "2022-12-08T09:30:57.891773+00:00",
     "gcps": [
       {
         "location": [
@@ -61,6 +65,26 @@
         "pixel": [
           1510,
           675
+        ]
+      },
+      {
+        "location": [
+          13.888553453578805,
+          48.90897995812628
+        ],
+        "pixel": [
+          2316,
+          1790
+        ]
+      },
+      {
+        "location": [
+          14.04211270045368,
+          48.574855465771094
+        ],
+        "pixel": [
+          2523,
+          2511
         ]
       },
       {

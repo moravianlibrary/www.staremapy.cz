@@ -9,7 +9,7 @@
   "external_id": "1374655",
   "title": "New York",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": "Jennings, J. H.",
   "catalog_url": null,
   "viewer_url": null,
@@ -24,35 +24,39 @@
   "georefereces": {
     "cutline": [
       [
+        172,
+        1957
+      ],
+      [
+        2491,
+        1956
+      ],
+      [
+        2488,
+        1442
+      ],
+      [
+        2488,
+        850
+      ],
+      [
+        2487,
+        270
+      ],
+      [
         208,
-        1923
-      ],
-      [
-        2452,
-        1923
-      ],
-      [
-        2464,
-        1151
-      ],
-      [
-        2452,
         323
       ],
       [
-        208,
-        323
-      ],
-      [
-        208,
-        1923
+        172,
+        1957
       ]
     ],
     "created": "2016-12-07T13:38:47.328330+00:00",
     "transformation_method": "affine",
     "mapID": "36f5a21e-9140-5ef6-b7f8-b0a8dd08bed3",
     "affine_transformation": null,
-    "changed": "2016-12-07T13:38:47.328330+00:00",
+    "changed": "2022-12-09T07:37:04.959819+00:00",
     "gcps": [
       {
         "location": [

@@ -9,7 +9,7 @@
   "external_id": "24561",
   "title": "Podrobné mapy zemí Koruny české v měřítku 1:75.000 a mapa vzdáleností všech míst při silnici ležících - Hor. Planá - Vyšší Brod. Průvodce statisticko-historický po všech místech na těchto mapách uvedených a rejstřík věcný názvů hor, potoků, řek, rybníků atd. Sešit 26. List 48,",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "bad8b668-85d9-515d-ba9c-7126602fec81",
     "affine_transformation": null,
-    "changed": "2021-11-13T16:37:11.615382+00:00",
+    "changed": "2022-12-10T05:11:03.062315+00:00",
     "gcps": [
       {
         "location": [
@@ -82,6 +82,26 @@
       },
       {
         "location": [
+          14.20974159290978,
+          48.729607151099884
+        ],
+        "pixel": [
+          4792,
+          2399
+        ]
+      },
+      {
+        "location": [
+          14.147235641582137,
+          48.79734285358401
+        ],
+        "pixel": [
+          3841,
+          810
+        ]
+      },
+      {
+        "location": [
           14.310340587871915,
           48.61319536286709
         ],
@@ -108,6 +128,56 @@
         "pixel": [
           3457,
           3342
+        ]
+      },
+      {
+        "location": [
+          13.963753383571415,
+          48.698636487581155
+        ],
+        "pixel": [
+          944,
+          3160
+        ]
+      },
+      {
+        "location": [
+          14.067846131614605,
+          48.61549350515577
+        ],
+        "pixel": [
+          2615,
+          5032
+        ]
+      },
+      {
+        "location": [
+          14.178704896101886,
+          48.657228321356115
+        ],
+        "pixel": [
+          4324,
+          4067
+        ]
+      },
+      {
+        "location": [
+          14.28798088752012,
+          48.67669024087894
+        ],
+        "pixel": [
+          6022,
+          3607
+        ]
+      },
+      {
+        "location": [
+          14.074938509174729,
+          48.78270861405346
+        ],
+        "pixel": [
+          2718,
+          1139
         ]
       }
     ]

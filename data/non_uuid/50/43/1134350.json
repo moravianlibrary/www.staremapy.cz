@@ -9,7 +9,7 @@
   "external_id": "1134350",
   "title": "Carte normale aeronautique internationale",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,47 @@
   "georefereces": {
     "cutline": [
       [
-        654,
-        3193
+        646,
+        3217
       ],
       [
-        2638,
-        3193
+        2648,
+        3212
       ],
       [
-        2638,
-        577
+        2322,
+        2853
       ],
       [
-        654,
-        577
+        2017,
+        2703
       ],
       [
-        654,
-        3193
+        2056,
+        2291
+      ],
+      [
+        2654,
+        2300
+      ],
+      [
+        2664,
+        600
+      ],
+      [
+        658,
+        591
+      ],
+      [
+        646,
+        3217
       ]
     ],
     "created": "2015-02-28T17:27:28.222170+00:00",
     "transformation_method": "affine",
     "mapID": "2412254f-1f5a-5f6e-9d81-17f19f41b523",
     "affine_transformation": null,
-    "changed": "2015-02-28T17:27:28.222170+00:00",
+    "changed": "2022-12-07T12:06:51.922239+00:00",
     "gcps": [
       {
         "location": [
