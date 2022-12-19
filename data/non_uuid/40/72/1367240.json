@@ -9,7 +9,7 @@
   "external_id": "1367240",
   "title": "California",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": "Gannett, Henry",
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "43818ee2-c403-5f4c-879a-db56764566da",
     "affine_transformation": null,
-    "changed": "2015-12-02T11:32:35.459530+00:00",
+    "changed": "2022-12-15T06:19:34.279245+00:00",
     "gcps": [
       {
         "location": [
@@ -58,6 +58,26 @@
         "pixel": [
           760,
           1303
+        ]
+      },
+      {
+        "location": [
+          -120.8582087900254,
+          39.94726354012991
+        ],
+        "pixel": [
+          804,
+          469
+        ]
+      },
+      {
+        "location": [
+          -120.62741588132047,
+          39.9936970876999
+        ],
+        "pixel": [
+          1708,
+          235
         ]
       },
       {
@@ -98,6 +118,46 @@
         "pixel": [
           997,
           656
+        ]
+      },
+      {
+        "location": [
+          -120.55227381895936,
+          39.662237857898845
+        ],
+        "pixel": [
+          2012,
+          1909
+        ]
+      },
+      {
+        "location": [
+          -120.53086717486539,
+          39.8675812516874
+        ],
+        "pixel": [
+          2085,
+          874
+        ]
+      },
+      {
+        "location": [
+          -120.59770002391139,
+          39.820655145143576
+        ],
+        "pixel": [
+          1836,
+          1120
+        ]
+      },
+      {
+        "location": [
+          -120.68933045340863,
+          39.70824418784815
+        ],
+        "pixel": [
+          1483,
+          1676
         ]
       }
     ]

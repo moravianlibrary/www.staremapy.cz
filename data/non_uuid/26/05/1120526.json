@@ -12,7 +12,7 @@
   "external_id": "1120526",
   "title": "GRAECIAE et ARCHIPELAGI delineatio",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -79,7 +79,7 @@
     "transformation_method": "affine",
     "mapID": "a0db61db-e0bd-5d1c-8186-8dd512005a10",
     "affine_transformation": null,
-    "changed": "2014-12-02T17:24:07.184530+00:00",
+    "changed": "2022-12-14T03:15:11.422598+00:00",
     "gcps": [
       {
         "location": [
@@ -153,6 +153,36 @@
       },
       {
         "location": [
+          18.77397552236332,
+          42.42808745170382
+        ],
+        "pixel": [
+          309,
+          366
+        ]
+      },
+      {
+        "location": [
+          18.09011022650824,
+          42.65269122726471
+        ],
+        "pixel": [
+          214,
+          296
+        ]
+      },
+      {
+        "location": [
+          19.45153569205043,
+          41.314853350035406
+        ],
+        "pixel": [
+          350,
+          508
+        ]
+      },
+      {
+        "location": [
           23.741297461,
           37.969941183
         ],
@@ -189,6 +219,16 @@
         "pixel": [
           1357,
           302
+        ]
+      },
+      {
+        "location": [
+          18.839927121039494,
+          42.29005324528808
+        ],
+        "pixel": [
+          273,
+          390
         ]
       }
     ]

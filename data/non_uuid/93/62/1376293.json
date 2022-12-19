@@ -12,7 +12,7 @@
   "external_id": "1376293",
   "title": "Dějiště války rusko-japonské",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -107,7 +107,7 @@
     "transformation_method": "affine",
     "mapID": "b4379e10-f4d1-5ff4-ac21-354a83516eb4",
     "affine_transformation": null,
-    "changed": "2017-09-27T09:43:37.962660+00:00",
+    "changed": "2022-12-18T05:16:59.586157+00:00",
     "gcps": [
       {
         "location": [
@@ -171,6 +171,36 @@
       },
       {
         "location": [
+          126.97611598766936,
+          37.55798210849679
+        ],
+        "pixel": [
+          1186,
+          1347
+        ]
+      },
+      {
+        "location": [
+          135.7575962334163,
+          35.03118738212844
+        ],
+        "pixel": [
+          1907,
+          1595
+        ]
+      },
+      {
+        "location": [
+          121.47298509015272,
+          31.234003264479696
+        ],
+        "pixel": [
+          659,
+          1961
+        ]
+      },
+      {
+        "location": [
           145.810083984,
           43.380983484
         ],
@@ -197,6 +227,16 @@
         "pixel": [
           2379,
           386
+        ]
+      },
+      {
+        "location": [
+          136.87732216100403,
+          35.180596904412184
+        ],
+        "pixel": [
+          2006,
+          1566
         ]
       }
     ]

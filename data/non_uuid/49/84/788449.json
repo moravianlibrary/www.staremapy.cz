@@ -12,7 +12,7 @@
   "external_id": "788449",
   "title": "America",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,8 +27,12 @@
   "georefereces": {
     "cutline": [
       [
-        132,
-        121
+        128,
+        115
+      ],
+      [
+        1101,
+        123
       ],
       [
         2074,
@@ -36,34 +40,46 @@
       ],
       [
         2076,
+        2736
+      ],
+      [
+        1627,
+        2769
+      ],
+      [
+        1612,
         2853
       ],
       [
-        130,
-        2853
+        711,
+        2854
+      ],
+      [
+        762,
+        2505
+      ],
+      [
+        617,
+        2367
       ],
       [
         128,
         2285
       ],
       [
-        128,
-        2229
-      ],
-      [
         130,
         2227
       ],
       [
-        132,
-        121
+        128,
+        115
       ]
     ],
     "created": "2015-07-29T20:58:40.134200+00:00",
     "transformation_method": "affine",
     "mapID": "6f20d8ae-a626-54db-9c99-e2fbe5c6ffd1",
     "affine_transformation": null,
-    "changed": "2015-07-29T20:58:40.134200+00:00",
+    "changed": "2022-12-15T06:08:58.819658+00:00",
     "gcps": [
       {
         "location": [

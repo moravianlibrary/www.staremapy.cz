@@ -9,7 +9,7 @@
   "external_id": "1332741",
   "title": "Pol'ša",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,23 +24,23 @@
   "georefereces": {
     "cutline": [
       [
-        417,
+        408,
         2437
       ],
       [
-        2289,
-        2437
+        2291,
+        2438
       ],
       [
-        2289,
-        365
+        2285,
+        364
       ],
       [
-        417,
-        365
+        411,
+        361
       ],
       [
-        417,
+        408,
         2437
       ]
     ],
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "df7b769b-056e-52d3-bf26-dcf229748cd5",
     "affine_transformation": null,
-    "changed": "2017-04-27T06:58:40.311910+00:00",
+    "changed": "2022-12-19T04:59:01.573865+00:00",
     "gcps": [
       {
         "location": [
@@ -58,6 +58,26 @@
         "pixel": [
           1202,
           526
+        ]
+      },
+      {
+        "location": [
+          23.966713012807304,
+          52.95871404422644
+        ],
+        "pixel": [
+          2165,
+          622
+        ]
+      },
+      {
+        "location": [
+          23.55734262486521,
+          52.99923309209922
+        ],
+        "pixel": [
+          631,
+          368
         ]
       },
       {

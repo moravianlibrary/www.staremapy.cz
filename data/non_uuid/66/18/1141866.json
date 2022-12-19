@@ -9,7 +9,7 @@
   "external_id": "1141866",
   "title": "Schleinitz",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        296,
-        318
+        292,
+        313
       ],
       [
-        2337,
-        320
+        2348,
+        314
       ],
       [
-        2340,
-        1808
-      ],
-      [
-        291,
+        2343,
         1811
       ],
       [
-        296,
-        318
+        286,
+        1812
+      ],
+      [
+        292,
+        313
       ]
     ],
     "created": "2015-02-28T15:30:20.143530+00:00",
     "transformation_method": "affine",
     "mapID": "79e4686c-c44c-539d-beeb-c077fad28d19",
     "affine_transformation": null,
-    "changed": "2015-02-28T15:30:20.143530+00:00",
+    "changed": "2022-12-14T10:41:27.253329+00:00",
     "gcps": [
       {
         "location": [
@@ -162,6 +162,16 @@
       },
       {
         "location": [
+          12.802590582055673,
+          46.89649211795512
+        ],
+        "pixel": [
+          1851,
+          1286
+        ]
+      },
+      {
+        "location": [
           12.789383504,
           46.92875756
         ],
@@ -248,6 +258,16 @@
         "pixel": [
           458,
           750
+        ]
+      },
+      {
+        "location": [
+          12.793419228413907,
+          46.92665376626712
+        ],
+        "pixel": [
+          1716,
+          572
         ]
       }
     ]
