@@ -9,7 +9,7 @@
   "external_id": "46193",
   "title": "Stuttgart",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "b7c58f16-14fd-5b34-aaf1-2baae157e4c9",
     "affine_transformation": null,
-    "changed": "2017-03-31T04:36:25.798530+00:00",
+    "changed": "2022-12-21T13:26:19.812212+00:00",
     "gcps": [
       {
         "location": [
@@ -172,6 +172,16 @@
       },
       {
         "location": [
+          9.213475174392531,
+          48.800773782025914
+        ],
+        "pixel": [
+          12287,
+          12161
+        ]
+      },
+      {
+        "location": [
           9.206212997,
           48.80691625
         ],
@@ -288,6 +298,16 @@
         "pixel": [
           5091,
           2425
+        ]
+      },
+      {
+        "location": [
+          9.219232314726208,
+          48.80506798722644
+        ],
+        "pixel": [
+          16252,
+          7642
         ]
       }
     ]

@@ -12,7 +12,7 @@
   "external_id": "1254170",
   "title": "Oświęcim",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,31 +27,31 @@
   "georefereces": {
     "cutline": [
       [
-        2490,
-        0
+        2223,
+        191
       ],
       [
-        2490,
-        3582
+        2255,
+        3294
       ],
       [
-        0,
-        3582
+        238,
+        3284
       ],
       [
-        0,
-        0
+        249,
+        186
       ],
       [
-        2490,
-        0
+        2223,
+        191
       ]
     ],
     "created": "2015-11-05T16:12:23.398120+00:00",
     "transformation_method": "affine",
     "mapID": "712b6cb4-cbac-5b9b-b632-bd5e9ee0bbb2",
     "affine_transformation": null,
-    "changed": "2015-11-05T16:12:23.398120+00:00",
+    "changed": "2022-12-24T06:03:28.006348+00:00",
     "gcps": [
       {
         "location": [
@@ -61,6 +61,16 @@
         "pixel": [
           694,
           3061
+        ]
+      },
+      {
+        "location": [
+          18.853209382606053,
+          49.95201844747379
+        ],
+        "pixel": [
+          291,
+          1881
         ]
       },
       {
@@ -101,6 +111,16 @@
         "pixel": [
           1691,
           873
+        ]
+      },
+      {
+        "location": [
+          19.801486530990005,
+          49.841766752433045
+        ],
+        "pixel": [
+          2188,
+          2232
         ]
       }
     ]

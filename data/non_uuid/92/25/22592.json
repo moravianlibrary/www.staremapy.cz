@@ -9,7 +9,7 @@
   "external_id": "22592",
   "title": "Verkehrs - Karte von Böhmen, Mähren, Schlesien, Erzh. Oesterreich\u2026",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        328,
-        5124
+        365,
+        5054
       ],
       [
-        3664,
-        5124
+        3615,
+        5049
       ],
       [
-        3664,
-        244
+        3611,
+        271
       ],
       [
-        328,
-        244
+        373,
+        264
       ],
       [
-        328,
-        5124
+        365,
+        5054
       ]
     ],
     "created": "2015-09-14T10:05:41.342660+00:00",
     "transformation_method": "affine",
     "mapID": "4bf0fd81-2cb7-5e93-b581-ebeee1ede62b",
     "affine_transformation": null,
-    "changed": "2015-09-14T10:05:41.342660+00:00",
+    "changed": "2022-12-21T13:39:39.781125+00:00",
     "gcps": [
       {
         "location": [
@@ -92,6 +92,36 @@
       },
       {
         "location": [
+          16.38560312104462,
+          48.269707299788536
+        ],
+        "pixel": [
+          2185,
+          1223
+        ]
+      },
+      {
+        "location": [
+          16.389457058182348,
+          48.2966600529509
+        ],
+        "pixel": [
+          2237,
+          584
+        ]
+      },
+      {
+        "location": [
+          16.294383133221835,
+          48.14743443430177
+        ],
+        "pixel": [
+          749,
+          4091
+        ]
+      },
+      {
+        "location": [
           16.354601904,
           48.114562255
         ],
@@ -118,6 +148,26 @@
         "pixel": [
           603,
           5024
+        ]
+      },
+      {
+        "location": [
+          16.306297940195766,
+          48.24361472355815
+        ],
+        "pixel": [
+          930,
+          1810
+        ]
+      },
+      {
+        "location": [
+          16.440906718462564,
+          48.26305676578181
+        ],
+        "pixel": [
+          3040,
+          1375
         ]
       }
     ]

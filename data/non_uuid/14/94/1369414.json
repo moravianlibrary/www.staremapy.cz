@@ -9,7 +9,7 @@
   "external_id": "1369414",
   "title": "Barcs und Virovitica",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": "Schuberth",
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        185,
-        209
+        173,
+        190
       ],
       [
-        2685,
-        199
+        2694,
+        190
       ],
       [
-        2693,
-        1999
+        2700,
+        2002
       ],
       [
-        175,
-        1991
+        166,
+        2001
       ],
       [
-        185,
-        209
+        173,
+        190
       ]
     ],
     "created": "2017-01-03T06:36:37.226210+00:00",
     "transformation_method": "affine",
     "mapID": "55258e05-e0f3-592f-9cb7-d75476f12868",
     "affine_transformation": null,
-    "changed": "2017-01-03T06:36:37.226210+00:00",
+    "changed": "2022-12-26T05:42:19.166031+00:00",
     "gcps": [
       {
         "location": [
@@ -178,6 +178,36 @@
         "pixel": [
           689,
           831
+        ]
+      },
+      {
+        "location": [
+          17.76523897306412,
+          45.88674677709224
+        ],
+        "pixel": [
+          2348,
+          1005
+        ]
+      },
+      {
+        "location": [
+          17.59004819352396,
+          45.980974863855124
+        ],
+        "pixel": [
+          1465,
+          326
+        ]
+      },
+      {
+        "location": [
+          17.70105755045289,
+          45.987345292436146
+        ],
+        "pixel": [
+          2027,
+          277
         ]
       },
       {

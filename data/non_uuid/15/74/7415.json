@@ -9,7 +9,7 @@
   "external_id": "7415",
   "title": "II. vojenské mapování 4",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        1742,
-        1655
+        1731,
+        1641
       ],
       [
         1742,
         7559
       ],
       [
-        10586,
-        7539
+        10589,
+        7548
       ],
       [
-        10558,
-        1647
+        10574,
+        1627
       ],
       [
-        1742,
-        1655
+        1731,
+        1641
       ]
     ],
     "created": "2014-12-09T21:35:46.820640+00:00",
     "transformation_method": "affine",
     "mapID": "2725052f-9ca4-5812-8c8f-eb4aeb5c7182",
     "affine_transformation": null,
-    "changed": "2014-12-09T21:35:46.820640+00:00",
+    "changed": "2022-12-22T04:10:20.250414+00:00",
     "gcps": [
       {
         "location": [
@@ -98,6 +98,36 @@
         "pixel": [
           7686,
           6475
+        ]
+      },
+      {
+        "location": [
+          16.784913872250037,
+          49.798461808848174
+        ],
+        "pixel": [
+          2105,
+          5434
+        ]
+      },
+      {
+        "location": [
+          17.473517310962702,
+          49.84148895078559
+        ],
+        "pixel": [
+          10135,
+          4563
+        ]
+      },
+      {
+        "location": [
+          16.798954278524253,
+          50.006451168617616
+        ],
+        "pixel": [
+          2241,
+          1673
         ]
       },
       {

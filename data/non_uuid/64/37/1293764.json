@@ -12,7 +12,7 @@
   "external_id": "1293764",
   "title": "Trenčín",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,31 +27,39 @@
   "georefereces": {
     "cutline": [
       [
-        397,
-        222
-      ],
-      [
-        2667,
+        388,
         220
       ],
       [
-        2665,
-        1956
+        1899,
+        214
       ],
       [
-        381,
-        1946
+        2670,
+        212
       ],
       [
-        397,
-        222
+        2669,
+        1952
+      ],
+      [
+        1266,
+        1953
+      ],
+      [
+        376,
+        1954
+      ],
+      [
+        388,
+        220
       ]
     ],
     "created": "2017-11-03T11:05:13.774290+00:00",
     "transformation_method": "affine",
     "mapID": "c1850663-7bc6-534b-a01e-a50a3f309414",
     "affine_transformation": null,
-    "changed": "2017-11-03T11:05:13.774290+00:00",
+    "changed": "2022-12-22T11:39:00.466910+00:00",
     "gcps": [
       {
         "location": [
@@ -231,6 +239,26 @@
         "pixel": [
           2520,
           1542
+        ]
+      },
+      {
+        "location": [
+          18.22166949392893,
+          48.987842882245076
+        ],
+        "pixel": [
+          2160,
+          289
+        ]
+      },
+      {
+        "location": [
+          18.3067121355334,
+          48.92281651466848
+        ],
+        "pixel": [
+          2555,
+          739
         ]
       },
       {

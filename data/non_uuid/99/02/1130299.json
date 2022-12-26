@@ -9,7 +9,7 @@
   "external_id": "1130299",
   "title": "Königgratz, Elbeteinitz und Pardubitz",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": "Fenzl",
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        372,
-        313
+        360,
+        305
       ],
       [
-        364,
-        2043
+        361,
+        2051
       ],
       [
-        2604,
-        2043
+        2611,
+        2044
       ],
       [
-        2596,
-        293
+        2600,
+        291
       ],
       [
-        372,
-        313
+        360,
+        305
       ]
     ],
     "created": "2014-12-16T22:13:18.815220+00:00",
     "transformation_method": "affine",
     "mapID": "e46dcd49-0657-5e26-a7aa-6bebb7b9f9e8",
     "affine_transformation": null,
-    "changed": "2014-12-16T22:13:18.815220+00:00",
+    "changed": "2022-12-21T10:25:29.817455+00:00",
     "gcps": [
       {
         "location": [
@@ -62,12 +62,22 @@
       },
       {
         "location": [
-          15.427218969,
-          50.153077154
+          15.544879564333048,
+          50.153798400619536
         ],
         "pixel": [
-          595,
-          1116
+          1311,
+          968
+        ]
+      },
+      {
+        "location": [
+          15.72548475460574,
+          50.118885978471525
+        ],
+        "pixel": [
+          2118,
+          1206
         ]
       },
       {
@@ -108,6 +118,26 @@
         "pixel": [
           2492,
           571
+        ]
+      },
+      {
+        "location": [
+          15.38886751638536,
+          50.134343653957046
+        ],
+        "pixel": [
+          607,
+          1109
+        ]
+      },
+      {
+        "location": [
+          15.348487923436869,
+          50.02382262873033
+        ],
+        "pixel": [
+          421,
+          1880
         ]
       }
     ]
