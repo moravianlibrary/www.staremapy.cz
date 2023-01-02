@@ -9,7 +9,7 @@
   "external_id": "1048979",
   "title": "Section Dresden",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": "Bach",
   "catalog_url": null,
   "viewer_url": null,
@@ -24,35 +24,35 @@
   "georefereces": {
     "cutline": [
       [
-        346,
-        211
+        378,
+        252
       ],
       [
-        350,
-        2660
+        372,
+        2599
       ],
       [
-        3270,
-        2676
+        3172,
+        2604
       ],
       [
-        3270,
-        228
+        3168,
+        261
       ],
       [
-        2674,
-        228
+        2001,
+        255
       ],
       [
-        346,
-        211
+        378,
+        252
       ]
     ],
     "created": "2015-01-19T21:01:33.746150+00:00",
     "transformation_method": "affine",
     "mapID": "0456410c-73ab-5086-8bba-4aef93b76100",
     "affine_transformation": null,
-    "changed": "2015-01-19T21:01:33.746150+00:00",
+    "changed": "2022-12-26T06:43:23.925172+00:00",
     "gcps": [
       {
         "location": [
@@ -72,6 +72,16 @@
         "pixel": [
           2786,
           1691
+        ]
+      },
+      {
+        "location": [
+          13.804833723796824,
+          50.85906624811807
+        ],
+        "pixel": [
+          2158,
+          2489
         ]
       },
       {
@@ -132,6 +142,16 @@
         "pixel": [
           1162,
           704
+        ]
+      },
+      {
+        "location": [
+          13.584371022810355,
+          50.88611211329879
+        ],
+        "pixel": [
+          1094,
+          2313
         ]
       }
     ]

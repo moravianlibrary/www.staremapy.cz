@@ -9,7 +9,7 @@
   "external_id": "1215323",
   "title": "Umgebungen von Mohács",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,35 @@
   "georefereces": {
     "cutline": [
       [
-        448,
-        375
+        447,
+        374
       ],
       [
-        2319,
-        380
+        2322,
+        371
       ],
       [
-        2312,
-        1637
+        2314,
+        1484
       ],
       [
-        452,
-        1639
+        2313,
+        1642
       ],
       [
-        448,
-        375
+        445,
+        1646
+      ],
+      [
+        447,
+        374
       ]
     ],
     "created": "2017-10-10T05:20:50.861150+00:00",
     "transformation_method": "affine",
     "mapID": "7e21405c-4ee1-5bc0-b3c6-ad3bbb9aca2f",
     "affine_transformation": null,
-    "changed": "2017-10-10T05:20:50.861150+00:00",
+    "changed": "2023-01-02T04:44:45.270513+00:00",
     "gcps": [
       {
         "location": [
@@ -128,6 +132,16 @@
         "pixel": [
           728,
           1214
+        ]
+      },
+      {
+        "location": [
+          18.204006729187515,
+          45.99876297277231
+        ],
+        "pixel": [
+          608,
+          628
         ]
       },
       {

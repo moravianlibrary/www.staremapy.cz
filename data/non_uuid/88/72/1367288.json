@@ -9,7 +9,7 @@
   "external_id": "1367288",
   "title": "Virginia - West-Virginia - Maryland",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": "Gannett, Henry",
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        362,
-        325
+        357,
+        317
       ],
       [
-        2214,
-        333
+        2219,
+        329
       ],
       [
-        2207,
-        2719
+        2212,
+        2721
       ],
       [
-        345,
-        2711
+        341,
+        2715
       ],
       [
-        362,
-        325
+        357,
+        317
       ]
     ],
     "created": "2017-09-06T04:54:03.486230+00:00",
     "transformation_method": "affine",
     "mapID": "4d7bec9e-86fd-596d-9f86-466b2ea8331f",
     "affine_transformation": null,
-    "changed": "2017-09-06T04:54:03.486230+00:00",
+    "changed": "2022-12-28T04:49:31.396170+00:00",
     "gcps": [
       {
         "location": [
@@ -78,6 +78,36 @@
         "pixel": [
           2041,
           1431
+        ]
+      },
+      {
+        "location": [
+          -77.74015239160394,
+          39.05597298399573
+        ],
+        "pixel": [
+          1313,
+          2451
+        ]
+      },
+      {
+        "location": [
+          -77.62167953583095,
+          39.02947913293738
+        ],
+        "pixel": [
+          1758,
+          2575
+        ]
+      },
+      {
+        "location": [
+          -77.95791457156474,
+          39.24944288264223
+        ],
+        "pixel": [
+          495,
+          1535
         ]
       },
       {
@@ -118,6 +148,16 @@
         "pixel": [
           2159,
           2161
+        ]
+      },
+      {
+        "location": [
+          -77.8655988343762,
+          39.05804328589929
+        ],
+        "pixel": [
+          856,
+          2438
         ]
       }
     ]

@@ -9,7 +9,7 @@
   "external_id": "1330663",
   "title": "Parkan a Esztergom",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -88,7 +88,7 @@
     "transformation_method": "affine",
     "mapID": "45710b64-3100-5eb6-acb3-8bdaae11c580",
     "affine_transformation": null,
-    "changed": "2017-07-17T10:09:13.609410+00:00",
+    "changed": "2022-12-28T05:02:43.778347+00:00",
     "gcps": [
       {
         "location": [
@@ -98,6 +98,16 @@
         "pixel": [
           1525,
           1760
+        ]
+      },
+      {
+        "location": [
+          18.507114471401835,
+          47.96395499545548
+        ],
+        "pixel": [
+          1081,
+          489
         ]
       },
       {
@@ -168,6 +178,16 @@
         "pixel": [
           2209,
           1723
+        ]
+      },
+      {
+        "location": [
+          18.398682153426613,
+          47.92904739141156
+        ],
+        "pixel": [
+          540,
+          742
         ]
       }
     ]

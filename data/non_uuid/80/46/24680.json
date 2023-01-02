@@ -9,7 +9,7 @@
   "external_id": "24680",
   "title": "Podrobné mapy zemí Koruny české v měřítku 1:75.000 a mapa vzdáleností všech míst při silnici ležících - Lhenice - Český Krumlov. Průvodce statisticko-historický po všech místech na těchto mapách uvedených a rejstřík věcný názvů hor, potoků, řek, rybníků atd. Sešit 34. List 47,",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "5cf6d381-a915-54c4-b8ab-ceb8f5ddf8a0",
     "affine_transformation": null,
-    "changed": "2014-12-21T12:58:38.195620+00:00",
+    "changed": "2022-12-31T02:20:58.822150+00:00",
     "gcps": [
       {
         "location": [
@@ -122,6 +122,16 @@
       },
       {
         "location": [
+          14.020778109818584,
+          48.908847470801135
+        ],
+        "pixel": [
+          2433,
+          3025
+        ]
+      },
+      {
+        "location": [
           13.93706072266679,
           48.87894890561418
         ],
@@ -188,6 +198,16 @@
         "pixel": [
           3204,
           1438
+        ]
+      },
+      {
+        "location": [
+          13.9883798388324,
+          48.97763851996123
+        ],
+        "pixel": [
+          1919,
+          1429
         ]
       }
     ]

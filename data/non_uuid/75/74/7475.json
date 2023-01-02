@@ -9,7 +9,7 @@
   "external_id": "7475",
   "title": "II. vojenské mapování 6",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -88,12 +88,12 @@
         5840
       ],
       [
-        10632,
-        7436
+        10655,
+        7450
       ],
       [
-        1795,
-        7427
+        1783,
+        7447
       ],
       [
         1782,
@@ -108,7 +108,7 @@
     "transformation_method": "affine",
     "mapID": "b60b9ca5-4a3e-5eda-b995-24a53b8a175d",
     "affine_transformation": null,
-    "changed": "2014-12-14T07:40:00.881550+00:00",
+    "changed": "2022-12-31T02:18:59.972731+00:00",
     "gcps": [
       {
         "location": [
@@ -258,6 +258,26 @@
         "pixel": [
           5987,
           4017
+        ]
+      },
+      {
+        "location": [
+          18.69280874570543,
+          49.86223416812902
+        ],
+        "pixel": [
+          6674,
+          3782
+        ]
+      },
+      {
+        "location": [
+          18.856328497579767,
+          49.774615034383004
+        ],
+        "pixel": [
+          8633,
+          5358
         ]
       }
     ]

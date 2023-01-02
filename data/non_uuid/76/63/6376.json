@@ -9,7 +9,7 @@
   "external_id": "6376",
   "title": "III. vojenské mapování 4364/1",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "3a71dbec-f9ab-55f1-9c6f-ef73ac49a283",
     "affine_transformation": null,
-    "changed": "2014-12-08T12:59:02.306480+00:00",
+    "changed": "2022-12-31T02:28:11.824925+00:00",
     "gcps": [
       {
         "location": [
@@ -58,16 +58,6 @@
         "pixel": [
           4334,
           6904
-        ]
-      },
-      {
-        "location": [
-          19.842594715095952,
-          49.18850187351606
-        ],
-        "pixel": [
-          558,
-          4408
         ]
       },
       {
@@ -88,6 +78,36 @@
         "pixel": [
           10514,
           6959
+        ]
+      },
+      {
+        "location": [
+          19.842594715095952,
+          49.1886070544881
+        ],
+        "pixel": [
+          558,
+          4408
+        ]
+      },
+      {
+        "location": [
+          19.971393070092578,
+          49.151913963424676
+        ],
+        "pixel": [
+          6500,
+          6979
+        ]
+      },
+      {
+        "location": [
+          20.071150155669052,
+          49.193870289836525
+        ],
+        "pixel": [
+          11122,
+          4065
         ]
       },
       {
@@ -152,8 +172,8 @@
       },
       {
         "location": [
-          19.939631484570832,
-          49.12718541455342
+          19.93939545017752,
+          49.12723455983743
         ],
         "pixel": [
           5040,

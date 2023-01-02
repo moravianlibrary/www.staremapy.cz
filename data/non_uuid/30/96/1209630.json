@@ -12,7 +12,7 @@
   "external_id": "1209630",
   "title": "Karte der Rhein-Provinz u[nd] Prov[inz] Westfalen",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -47,8 +47,28 @@
         71
       ],
       [
-        55,
-        70
+        930,
+        62
+      ],
+      [
+        882,
+        433
+      ],
+      [
+        702,
+        577
+      ],
+      [
+        425,
+        648
+      ],
+      [
+        409,
+        698
+      ],
+      [
+        61,
+        700
       ],
       [
         85,
@@ -63,7 +83,7 @@
     "transformation_method": "affine",
     "mapID": "86fce4d2-4c5c-55af-ad1a-68d9c327545b",
     "affine_transformation": null,
-    "changed": "2017-04-12T17:31:08.859830+00:00",
+    "changed": "2022-12-28T18:11:35.776920+00:00",
     "gcps": [
       {
         "location": [
@@ -153,6 +173,16 @@
         "pixel": [
           1309,
           3025
+        ]
+      },
+      {
+        "location": [
+          7.111280069564564,
+          49.98364447151749
+        ],
+        "pixel": [
+          1398,
+          4299
         ]
       },
       {

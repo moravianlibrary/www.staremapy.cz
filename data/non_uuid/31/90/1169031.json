@@ -12,7 +12,7 @@
   "external_id": "1169031",
   "title": "Podrobná mapa Markrabství moravského a Vévodství slezského",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,46 +27,44 @@
   "georefereces": {
     "cutline": [
       [
-        335,
-        252
+        331,
+        227
       ],
       [
-        2407,
-        236
+        2409,
+        227
       ],
       [
         2399,
         1916
       ],
       [
-        311,
-        1924
+        2010,
+        1913
       ],
       [
-        311,
-        1924
+        1932,
+        1953
       ],
       [
-        335,
-        252
+        1834,
+        1921
+      ],
+      [
+        319,
+        1917
+      ],
+      [
+        331,
+        227
       ]
     ],
     "created": "2017-01-29T17:52:19.089300+00:00",
     "transformation_method": "affine",
     "mapID": "89169488-4532-5102-9238-d657c90d552a",
     "affine_transformation": null,
-    "changed": "2017-01-29T17:52:19.089300+00:00",
+    "changed": "2022-12-28T18:14:22.865026+00:00",
     "gcps": [
-      {
-        "location": [
-          16.060508655,
-          48.857470986
-        ],
-        "pixel": [
-          753,
-          1228
-        ]
-      },
       {
         "location": [
           16.078189777,
@@ -505,6 +503,26 @@
         "pixel": [
           706,
           1060
+        ]
+      },
+      {
+        "location": [
+          16.46603736422077,
+          49.0129835227132
+        ],
+        "pixel": [
+          2286,
+          342
+        ]
+      },
+      {
+        "location": [
+          16.01020796414497,
+          48.80938597951484
+        ],
+        "pixel": [
+          606,
+          1490
         ]
       }
     ]

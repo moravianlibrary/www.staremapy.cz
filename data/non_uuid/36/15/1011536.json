@@ -12,7 +12,7 @@
   "external_id": "1011536",
   "title": "Umgegend von Teplitz",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": "Goldschmidt, Albert",
   "catalog_url": null,
   "viewer_url": null,
@@ -27,15 +27,15 @@
   "georefereces": {
     "cutline": [
       [
-        152,
-        198
+        155,
+        196
       ],
       [
-        1402,
-        188
+        1393,
+        192
       ],
       [
-        1400,
+        1397,
         914
       ],
       [
@@ -47,15 +47,15 @@
         916
       ],
       [
-        152,
-        198
+        155,
+        196
       ]
     ],
     "created": "2013-12-22T20:29:47.216680+00:00",
     "transformation_method": "affine",
     "mapID": "2e85aaf4-2bad-5bb4-829b-593113133d4a",
     "affine_transformation": null,
-    "changed": "2013-12-22T20:29:47.216680+00:00",
+    "changed": "2022-12-26T06:29:42.307902+00:00",
     "gcps": [
       {
         "location": [
@@ -555,6 +555,16 @@
         "pixel": [
           516,
           482
+        ]
+      },
+      {
+        "location": [
+          13.649735831972352,
+          50.64466519758349
+        ],
+        "pixel": [
+          198,
+          540
         ]
       },
       {
