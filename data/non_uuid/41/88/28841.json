@@ -9,7 +9,7 @@
   "external_id": "28841",
   "title": "Nordwestliche Dolomiten",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,8 +24,12 @@
   "georefereces": {
     "cutline": [
       [
-        313,
-        272
+        324,
+        258
+      ],
+      [
+        2425,
+        254
       ],
       [
         19153,
@@ -40,15 +44,15 @@
         13896
       ],
       [
-        313,
-        272
+        324,
+        258
       ]
     ],
     "created": "2017-03-19T05:01:42.567200+00:00",
     "transformation_method": "affine",
     "mapID": "ec20d12e-0c82-5c06-b5bb-45d039ea51ee",
     "affine_transformation": null,
-    "changed": "2017-03-19T05:01:42.567200+00:00",
+    "changed": "2023-01-09T04:14:30.241941+00:00",
     "gcps": [
       {
         "location": [
@@ -118,6 +122,16 @@
         "pixel": [
           9085,
           8762
+        ]
+      },
+      {
+        "location": [
+          11.999231865944743,
+          46.62735738812674
+        ],
+        "pixel": [
+          17917,
+          852
         ]
       },
       {
@@ -208,6 +222,26 @@
         "pixel": [
           6731,
           9889
+        ]
+      },
+      {
+        "location": [
+          11.531370789116547,
+          46.473931710457435
+        ],
+        "pixel": [
+          445,
+          8978
+        ]
+      },
+      {
+        "location": [
+          11.539117865608695,
+          46.430181745006195
+        ],
+        "pixel": [
+          687,
+          11307
         ]
       }
     ]

@@ -12,7 +12,7 @@
   "external_id": "1267719",
   "title": "Griebens Stadtplan von Berlin",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -59,7 +59,7 @@
     "transformation_method": "affine",
     "mapID": "c31501ab-4b80-583a-9b9b-3319636597ad",
     "affine_transformation": null,
-    "changed": "2017-10-10T03:56:29.397720+00:00",
+    "changed": "2023-01-04T13:13:07.695884+00:00",
     "gcps": [
       {
         "location": [
@@ -129,6 +129,16 @@
         "pixel": [
           3388,
           822
+        ]
+      },
+      {
+        "location": [
+          13.43533322815713,
+          52.460186261066525
+        ],
+        "pixel": [
+          2738,
+          2334
         ]
       },
       {

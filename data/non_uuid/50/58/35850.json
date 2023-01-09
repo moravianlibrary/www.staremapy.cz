@@ -9,7 +9,7 @@
   "external_id": "35850",
   "title": "Podiebrad (Poděbrady)",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,43 @@
   "georefereces": {
     "cutline": [
       [
-        1774,
-        927
+        2190,
+        1309
       ],
       [
-        11598,
-        911
+        8369,
+        1299
       ],
       [
-        11646,
-        9599
+        11225,
+        1302
       ],
       [
-        1790,
-        9615
+        11243,
+        4769
       ],
       [
-        1774,
-        927
+        11236,
+        9175
+      ],
+      [
+        4497,
+        9180
+      ],
+      [
+        2181,
+        9181
+      ],
+      [
+        2190,
+        1309
       ]
     ],
     "created": "2017-02-07T11:55:45.554540+00:00",
     "transformation_method": "affine",
     "mapID": "4c6db93a-97d3-55b7-b42e-d001176fae12",
     "affine_transformation": null,
-    "changed": "2017-02-07T11:55:45.554540+00:00",
+    "changed": "2023-01-09T05:09:44.686072+00:00",
     "gcps": [
       {
         "location": [
@@ -358,6 +370,26 @@
         "pixel": [
           7531,
           5683
+        ]
+      },
+      {
+        "location": [
+          15.10630433638875,
+          50.15728621828242
+        ],
+        "pixel": [
+          4527,
+          1639
+        ]
+      },
+      {
+        "location": [
+          15.145503042056095,
+          50.139067428614766
+        ],
+        "pixel": [
+          11116,
+          6405
         ]
       },
       {

@@ -9,7 +9,7 @@
   "external_id": "1215332",
   "title": "Umgebungen von Neusohl und Bries",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -56,7 +56,7 @@
     "transformation_method": "affine",
     "mapID": "8ae00ad5-164d-51fe-9c66-12f3443d3ede",
     "affine_transformation": null,
-    "changed": "2016-12-07T12:10:10.103550+00:00",
+    "changed": "2023-01-03T03:42:53.890363+00:00",
     "gcps": [
       {
         "location": [
@@ -126,6 +126,16 @@
         "pixel": [
           742,
           1148
+        ]
+      },
+      {
+        "location": [
+          19.641495808399572,
+          48.802455852057534
+        ],
+        "pixel": [
+          2121,
+          1030
         ]
       }
     ]

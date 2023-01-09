@@ -21,5 +21,35 @@
   "id": "41b3c53d-e94c-513f-8050-0e6392489bd0",
   "physical_size": null,
   "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        10235,
+        0
+      ],
+      [
+        10235,
+        6669
+      ],
+      [
+        0,
+        6669
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        10235,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:20:11.062820+00:00",
+    "transformation_method": "affine",
+    "mapID": "41b3c53d-e94c-513f-8050-0e6392489bd0",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:20:11.062820+00:00",
+    "gcps": []
+  },
   "pubdate": ["1876"]
 }

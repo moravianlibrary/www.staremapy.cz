@@ -9,7 +9,7 @@
   "external_id": "809233",
   "title": "England",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": "Maedel, Carl Jos.",
   "catalog_url": null,
   "viewer_url": null,
@@ -24,8 +24,16 @@
   "georefereces": {
     "cutline": [
       [
-        494,
+        487,
+        565
+      ],
+      [
+        1220,
         570
+      ],
+      [
+        1640,
+        573
       ],
       [
         2026,
@@ -36,39 +44,43 @@
         1402
       ],
       [
-        2122,
-        1490
+        2140,
+        1495
       ],
       [
-        2542,
-        1490
+        2396,
+        1763
       ],
       [
-        2534,
-        2954
+        2497,
+        1785
       ],
       [
-        482,
+        2538,
+        1855
+      ],
+      [
+        2536,
+        2134
+      ],
+      [
+        2528,
+        2946
+      ],
+      [
+        473,
         2926
       ],
       [
-        482,
-        2930
-      ],
-      [
-        478,
-        2938
-      ],
-      [
-        494,
-        570
+        487,
+        565
       ]
     ],
     "created": "2014-12-10T13:15:12.585340+00:00",
     "transformation_method": "affine",
     "mapID": "727bb50b-4c6e-5717-afdf-5a27be822896",
     "affine_transformation": null,
-    "changed": "2014-12-10T13:15:12.585340+00:00",
+    "changed": "2023-01-03T03:44:40.688666+00:00",
     "gcps": [
       {
         "location": [
