@@ -9,7 +9,7 @@
   "external_id": "1330468",
   "title": "Ujsoły und Stara-Bistrica",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,43 @@
   "georefereces": {
     "cutline": [
       [
-        260,
-        147
+        255,
+        143
+      ],
+      [
+        982,
+        145
+      ],
+      [
+        1651,
+        146
+      ],
+      [
+        2277,
+        148
       ],
       [
         2610,
-        152
+        149
       ],
       [
         2609,
         1959
       ],
       [
-        252,
-        1950
+        248,
+        1955
       ],
       [
-        260,
-        147
+        255,
+        143
       ]
     ],
     "created": "2015-11-30T15:02:13.744420+00:00",
     "transformation_method": "affine",
     "mapID": "c5e52f20-d2f2-5d14-bf4f-d177d69bda27",
     "affine_transformation": null,
-    "changed": "2015-11-30T15:02:13.744420+00:00",
+    "changed": "2023-01-15T03:27:18.432028+00:00",
     "gcps": [
       {
         "location": [
@@ -138,6 +150,26 @@
         "pixel": [
           1180,
           1880
+        ]
+      },
+      {
+        "location": [
+          19.143787276703247,
+          49.4777644934579
+        ],
+        "pixel": [
+          1730,
+          296
+        ]
+      },
+      {
+        "location": [
+          19.272718578201655,
+          49.428973969829315
+        ],
+        "pixel": [
+          2339,
+          653
         ]
       },
       {

@@ -9,7 +9,7 @@
   "external_id": "29294",
   "title": "Bez tituliu: Jaroměř",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "9e49d644-2c3b-55e5-91a8-41b15f9636f2",
     "affine_transformation": null,
-    "changed": "2015-05-01T10:20:47.378290+00:00",
+    "changed": "2023-01-13T05:34:11.843972+00:00",
     "gcps": [
       {
         "location": [
@@ -62,12 +62,52 @@
       },
       {
         "location": [
+          15.921047787477372,
+          50.35604667079343
+        ],
+        "pixel": [
+          12430,
+          10912
+        ]
+      },
+      {
+        "location": [
+          15.931505477677723,
+          50.36144499510459
+        ],
+        "pixel": [
+          18320,
+          6219
+        ]
+      },
+      {
+        "location": [
+          15.916541822729185,
+          50.346401641401656
+        ],
+        "pixel": [
+          9870,
+          19624
+        ]
+      },
+      {
+        "location": [
           15.919980128,
           50.351874255
         ],
         "pixel": [
           11818,
           14706
+        ]
+      },
+      {
+        "location": [
+          15.918748299164662,
+          50.34317279655389
+        ],
+        "pixel": [
+          11133,
+          22557
         ]
       },
       {
@@ -88,16 +128,6 @@
         "pixel": [
           16272,
           9198
-        ]
-      },
-      {
-        "location": [
-          15.91596783,
-          50.346805586
-        ],
-        "pixel": [
-          9531,
-          19233
         ]
       },
       {

@@ -9,7 +9,7 @@
   "external_id": "1031009",
   "title": "Situations-Plan der Gegend vor dem Carls-Thore zum Gebrauche bei der Beurtheilung der Distanzen",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,35 +24,47 @@
   "georefereces": {
     "cutline": [
       [
-        214,
-        295
+        237,
+        695
       ],
       [
-        1826,
-        301
+        579,
+        694
       ],
       [
-        1820,
-        1655
+        585,
+        318
       ],
       [
-        206,
-        1651
+        1292,
+        326
       ],
       [
-        206,
-        1651
+        1803,
+        322
       ],
       [
-        214,
-        295
+        1800,
+        830
+      ],
+      [
+        1793,
+        1627
+      ],
+      [
+        237,
+        1622
+      ],
+      [
+        237,
+        695
       ]
     ],
     "created": "2013-10-28T19:32:47.310890+00:00",
     "transformation_method": "affine",
     "mapID": "2cc5b402-3049-52ff-a29c-2a53d313b406",
     "affine_transformation": null,
-    "changed": "2013-10-28T19:32:47.310890+00:00",
+    "changed": "2023-01-15T05:53:04.516342+00:00",
     "gcps": [
       {
         "location": [
@@ -72,6 +84,16 @@
         "pixel": [
           1086,
           1426
+        ]
+      },
+      {
+        "location": [
+          14.376710927801538,
+          50.10488317622662
+        ],
+        "pixel": [
+          581,
+          759
         ]
       },
       {

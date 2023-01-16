@@ -9,7 +9,7 @@
   "external_id": "46814",
   "title": "Orientační plán král. Hl. města Prahy",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "781846fb-66df-5790-bf58-26a97fee30d9",
     "affine_transformation": null,
-    "changed": "2015-12-27T06:56:57.567800+00:00",
+    "changed": "2023-01-13T06:38:25.764718+00:00",
     "gcps": [
       {
         "location": [
@@ -72,12 +72,22 @@
       },
       {
         "location": [
-          14.477211952,
-          50.029744968
+          14.477226661120586,
+          50.02975759397819
         ],
         "pixel": [
           2011,
           2430
+        ]
+      },
+      {
+        "location": [
+          14.476532299550655,
+          50.03026570558143
+        ],
+        "pixel": [
+          1765,
+          2128
         ]
       },
       {
@@ -98,6 +108,26 @@
         "pixel": [
           9521,
           775
+        ]
+      },
+      {
+        "location": [
+          14.474457017519864,
+          50.0296754940274
+        ],
+        "pixel": [
+          1041,
+          2461
+        ]
+      },
+      {
+        "location": [
+          14.483072350023306,
+          50.028674084284376
+        ],
+        "pixel": [
+          3932,
+          2985
         ]
       }
     ]

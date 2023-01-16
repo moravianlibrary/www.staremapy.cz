@@ -9,7 +9,7 @@
   "external_id": "45702",
   "title": "Bez titulu: Slobodskoj a okolí",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "64bd6e03-45f0-5a2d-b504-ed39c2c86dc6",
     "affine_transformation": null,
-    "changed": "2015-02-04T18:54:30.585240+00:00",
+    "changed": "2023-01-09T05:47:01.579036+00:00",
     "gcps": [
       {
         "location": [
@@ -112,6 +112,26 @@
       },
       {
         "location": [
+          51.34833578769127,
+          59.21076070743956
+        ],
+        "pixel": [
+          5629,
+          6611
+        ]
+      },
+      {
+        "location": [
+          52.97304433593216,
+          59.95991925285085
+        ],
+        "pixel": [
+          9899,
+          1167
+        ]
+      },
+      {
+        "location": [
           50.678400596,
           58.839369917
         ],
@@ -138,6 +158,16 @@
         "pixel": [
           5393,
           11271
+        ]
+      },
+      {
+        "location": [
+          52.140915232071016,
+          59.37321110088939
+        ],
+        "pixel": [
+          7896,
+          5220
         ]
       }
     ]

@@ -9,7 +9,7 @@
   "external_id": "17978",
   "title": "Das Königreich Böhmen",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -160,7 +160,7 @@
     "transformation_method": "affine",
     "mapID": "198275cb-c8dd-5360-82e7-974505b5dc27",
     "affine_transformation": null,
-    "changed": "2017-08-17T14:39:25.928140+00:00",
+    "changed": "2023-01-09T06:01:40.002002+00:00",
     "gcps": [
       {
         "location": [
@@ -180,6 +180,26 @@
         "pixel": [
           1358,
           3931
+        ]
+      },
+      {
+        "location": [
+          11.863144867228206,
+          49.44419007849285
+        ],
+        "pixel": [
+          916,
+          7405
+        ]
+      },
+      {
+        "location": [
+          12.670639984415708,
+          49.216869270515076
+        ],
+        "pixel": [
+          2954,
+          8301
         ]
       },
       {

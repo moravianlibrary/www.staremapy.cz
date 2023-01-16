@@ -9,7 +9,7 @@
   "external_id": "45893",
   "title": "Paris",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -56,7 +56,7 @@
     "transformation_method": "affine",
     "mapID": "f8e72599-b630-5945-857b-430bc6a85faa",
     "affine_transformation": null,
-    "changed": "2017-04-20T10:08:47.524050+00:00",
+    "changed": "2023-01-13T12:49:38.580406+00:00",
     "gcps": [
       {
         "location": [
@@ -226,6 +226,26 @@
         "pixel": [
           13782,
           11808
+        ]
+      },
+      {
+        "location": [
+          2.25765743267035,
+          48.896684534859645
+        ],
+        "pixel": [
+          1285,
+          2382
+        ]
+      },
+      {
+        "location": [
+          2.395155979971005,
+          48.9056580428427
+        ],
+        "pixel": [
+          12721,
+          1753
         ]
       }
     ]

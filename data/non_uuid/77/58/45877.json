@@ -9,7 +9,7 @@
   "external_id": "45877",
   "title": "Carte d´une partie de la province de Constantine",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        751,
-        7080
+        671,
+        7230
       ],
       [
-        12399,
-        7080
+        12461,
+        7145
       ],
       [
-        12399,
-        2312
+        12477,
+        2307
       ],
       [
-        751,
-        2312
+        651,
+        2318
       ],
       [
-        751,
-        7080
+        671,
+        7230
       ]
     ],
     "created": "2015-02-05T07:49:39.216460+00:00",
     "transformation_method": "affine",
     "mapID": "4e2fe0f7-3bf6-591f-a8f2-3f0fed1a100f",
     "affine_transformation": null,
-    "changed": "2015-02-05T07:49:39.216460+00:00",
+    "changed": "2023-01-13T07:35:11.861274+00:00",
     "gcps": [
       {
         "location": [
@@ -58,16 +58,6 @@
         "pixel": [
           3975,
           3746
-        ]
-      },
-      {
-        "location": [
-          6.260490417,
-          36.451960031
-        ],
-        "pixel": [
-          4535,
-          5072
         ]
       },
       {
@@ -118,16 +108,6 @@
         "pixel": [
           868,
           4261
-        ]
-      },
-      {
-        "location": [
-          5.276527405,
-          36.547312359
-        ],
-        "pixel": [
-          1949,
-          5328
         ]
       },
       {

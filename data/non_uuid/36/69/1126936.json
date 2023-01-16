@@ -16,7 +16,7 @@
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
+  "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": "V. Neubert a synové",
@@ -51,7 +51,7 @@
     "transformation_method": "affine",
     "mapID": "cd21bb80-6a6d-5bc2-8f4e-be72d29ccac1",
     "affine_transformation": null,
-    "changed": "2022-03-24T11:50:35.894777+00:00",
+    "changed": "2023-01-13T12:34:11.577133+00:00",
     "gcps": [
       {
         "location": [
@@ -66,11 +66,21 @@
       {
         "location": [
           6.070797949569318,
-          52.12897374221902
+          52.12897374221899
         ],
         "pixel": [
           1500,
           400
+        ]
+      },
+      {
+        "location": [
+          5.49774955215823,
+          51.941243152998084
+        ],
+        "pixel": [
+          1500,
+          401
         ]
       }
     ]

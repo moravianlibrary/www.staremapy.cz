@@ -12,7 +12,7 @@
   "external_id": "1169279",
   "title": "Mapa činnosti Ústřední matice škol v Praze v letech 1880-1930",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,8 +27,8 @@
   "georefereces": {
     "cutline": [
       [
-        507,
-        771
+        590,
+        964
       ],
       [
         993,
@@ -83,12 +83,12 @@
         2065
       ],
       [
-        2281,
-        1995
+        2236,
+        1996
       ],
       [
-        2039,
-        1955
+        1836,
+        1950
       ],
       [
         1313,
@@ -99,8 +99,8 @@
         2011
       ],
       [
-        1205,
-        1833
+        1137,
+        1853
       ],
       [
         1055,
@@ -119,15 +119,15 @@
         1189
       ],
       [
-        507,
-        771
+        590,
+        964
       ]
     ],
     "created": "2017-09-05T15:01:02.016180+00:00",
     "transformation_method": "affine",
     "mapID": "8ae4e6ff-5f5e-5884-a440-f3cdb0e0bb2d",
     "affine_transformation": null,
-    "changed": "2017-09-05T15:01:02.016180+00:00",
+    "changed": "2023-01-15T17:40:50.929203+00:00",
     "gcps": [
       {
         "location": [
@@ -267,6 +267,16 @@
         "pixel": [
           1458,
           1907
+        ]
+      },
+      {
+        "location": [
+          14.462310853590337,
+          50.10861992263358
+        ],
+        "pixel": [
+          1468,
+          1125
         ]
       }
     ]

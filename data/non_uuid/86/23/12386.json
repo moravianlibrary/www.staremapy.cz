@@ -13,7 +13,7 @@
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
+  "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": null,
@@ -48,8 +48,59 @@
     "transformation_method": "affine",
     "mapID": "142f01d8-d379-59c8-b861-b3031527cb5b",
     "affine_transformation": null,
-    "changed": "2014-11-25T17:27:47.522080+00:00",
-    "gcps": []
+    "changed": "2023-01-13T19:22:39.228173+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.768717786046288,
+          49.005167805958564
+        ],
+        "pixel": [
+          868,
+          5991
+        ]
+      },
+      {
+        "location": [
+          14.768885424109719,
+          49.00514493239021
+        ],
+        "pixel": [
+          3623,
+          6626
+        ]
+      },
+      {
+        "location": [
+          14.768759360286019,
+          49.005267217883556
+        ],
+        "pixel": [
+          2194,
+          3546
+        ]
+      },
+      {
+        "location": [
+          14.768975278111714,
+          49.00524346460978
+        ],
+        "pixel": [
+          5630,
+          4401
+        ]
+      },
+      {
+        "location": [
+          14.768808981152793,
+          49.00530768639794
+        ],
+        "pixel": [
+          3271,
+          2470
+        ]
+      }
+    ]
   },
   "pubdate": ["1913"]
 }

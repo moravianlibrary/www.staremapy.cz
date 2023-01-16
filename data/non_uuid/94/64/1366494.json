@@ -9,7 +9,7 @@
   "external_id": "1366494",
   "title": "Die Environs von London",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        54,
-        2044
+        98,
+        1929
       ],
       [
-        1710,
-        2044
+        1646,
+        1932
       ],
       [
-        1710,
-        68
+        1651,
+        363
       ],
       [
-        54,
-        68
+        97,
+        365
       ],
       [
-        54,
-        2044
+        98,
+        1929
       ]
     ],
     "created": "2016-07-17T09:33:49.378330+00:00",
     "transformation_method": "affine",
     "mapID": "b71096b2-eb82-5c6e-a5b4-b11a350b4f0e",
     "affine_transformation": null,
-    "changed": "2016-07-17T09:33:49.378330+00:00",
+    "changed": "2023-01-15T17:37:16.880032+00:00",
     "gcps": [
       {
         "location": [
@@ -92,12 +92,32 @@
       },
       {
         "location": [
+          -0.09004637337288945,
+          51.65387942886201
+        ],
+        "pixel": [
+          925,
+          489
+        ]
+      },
+      {
+        "location": [
           -0.118188251,
           51.507612035
         ],
         "pixel": [
           802,
           1197
+        ]
+      },
+      {
+        "location": [
+          -0.2836939140563992,
+          51.486089394237894
+        ],
+        "pixel": [
+          262,
+          1331
         ]
       }
     ]

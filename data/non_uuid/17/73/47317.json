@@ -9,7 +9,7 @@
   "external_id": "47317",
   "title": "Československá socialistická republika",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "9d43fc3a-b592-5167-a813-9d76b23cdb58",
     "affine_transformation": null,
-    "changed": "2017-05-25T10:09:11.678080+00:00",
+    "changed": "2023-01-13T08:59:29.914962+00:00",
     "gcps": [
       {
         "location": [
@@ -118,6 +118,16 @@
         "pixel": [
           14258,
           9638
+        ]
+      },
+      {
+        "location": [
+          14.772842989317311,
+          50.966844674519905
+        ],
+        "pixel": [
+          11734,
+          2401
         ]
       },
       {
@@ -198,6 +208,26 @@
         "pixel": [
           12210,
           12020
+        ]
+      },
+      {
+        "location": [
+          12.503146721496826,
+          49.967416949306596
+        ],
+        "pixel": [
+          3860,
+          7330
+        ]
+      },
+      {
+        "location": [
+          17.250696369125528,
+          48.73524286155947
+        ],
+        "pixel": [
+          19978,
+          14305
         ]
       }
     ]

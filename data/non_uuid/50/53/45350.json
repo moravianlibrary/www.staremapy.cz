@@ -9,7 +9,7 @@
   "external_id": "45350",
   "title": "Soubor přehledných map pro plánování a statistiku: 3752 \u2013 Litoměřice",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        13033,
-        0
+        12026,
+        935
       ],
       [
-        13033,
-        11152
+        12104,
+        9695
       ],
       [
-        0,
-        11152
+        974,
+        9750
       ],
       [
-        0,
-        0
+        960,
+        1001
       ],
       [
-        13033,
-        0
+        12026,
+        935
       ]
     ],
     "created": "2014-11-25T16:08:09.083700+00:00",
     "transformation_method": "affine",
     "mapID": "155ede21-f89c-5fdc-9a5c-d8e3527237ae",
     "affine_transformation": null,
-    "changed": "2014-11-25T16:08:09.083700+00:00",
+    "changed": "2023-01-13T11:17:08.012744+00:00",
     "gcps": [
       {
         "location": [
@@ -98,6 +98,16 @@
         "pixel": [
           9687,
           9342
+        ]
+      },
+      {
+        "location": [
+          13.881131356183163,
+          50.51604873833264
+        ],
+        "pixel": [
+          2014,
+          9161
         ]
       }
     ]

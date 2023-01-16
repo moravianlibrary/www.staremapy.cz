@@ -9,7 +9,7 @@
   "external_id": "18242",
   "title": "Karte des Bezirkes Krumau",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -64,7 +64,7 @@
     "transformation_method": "affine",
     "mapID": "16809250-c8a5-50bb-b270-966c551f0fab",
     "affine_transformation": null,
-    "changed": "2017-08-05T16:22:50.192550+00:00",
+    "changed": "2023-01-13T08:51:54.484315+00:00",
     "gcps": [
       {
         "location": [
@@ -184,6 +184,26 @@
         "pixel": [
           9159,
           4847
+        ]
+      },
+      {
+        "location": [
+          13.89473154481441,
+          48.66923425231553
+        ],
+        "pixel": [
+          2635,
+          7144
+        ]
+      },
+      {
+        "location": [
+          14.110892062802481,
+          48.73781542583541
+        ],
+        "pixel": [
+          5144,
+          5952
         ]
       },
       {
