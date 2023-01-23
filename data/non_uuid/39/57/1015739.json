@@ -12,7 +12,7 @@
   "external_id": "1015739",
   "title": "Die Umgebungen von Neustadt",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": "Zutz, Joseph",
   "catalog_url": null,
   "viewer_url": null,
@@ -27,31 +27,31 @@
   "georefereces": {
     "cutline": [
       [
-        1889,
-        0
+        1598,
+        355
       ],
       [
-        1889,
-        1589
+        1599,
+        1328
       ],
       [
-        0,
-        1589
+        319,
+        1323
       ],
       [
-        0,
-        0
+        325,
+        350
       ],
       [
-        1889,
-        0
+        1598,
+        355
       ]
     ],
     "created": "2013-10-17T17:32:55.171270+00:00",
     "transformation_method": "affine",
     "mapID": "ba60147b-dccb-50cd-8d72-c21490b30a8c",
     "affine_transformation": null,
-    "changed": "2013-10-17T17:32:55.171270+00:00",
+    "changed": "2023-01-20T05:19:05.500672+00:00",
     "gcps": [
       {
         "location": [
@@ -91,6 +91,16 @@
         "pixel": [
           997,
           518
+        ]
+      },
+      {
+        "location": [
+          15.934580266161072,
+          47.91180252570433
+        ],
+        "pixel": [
+          614,
+          725
         ]
       },
       {

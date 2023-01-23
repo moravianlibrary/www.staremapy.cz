@@ -13,7 +13,7 @@
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
+  "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": null,
@@ -48,7 +48,7 @@
     "transformation_method": "affine",
     "mapID": "d455563c-f525-5bac-8026-0fbb83b8d5d8",
     "affine_transformation": null,
-    "changed": "2023-01-07T17:09:37.489464+00:00",
+    "changed": "2023-01-20T19:17:26.216465+00:00",
     "gcps": [
       {
         "location": [
@@ -68,6 +68,16 @@
         "pixel": [
           10143,
           4401
+        ]
+      },
+      {
+        "location": [
+          14.946641414073696,
+          49.93408932174282
+        ],
+        "pixel": [
+          8692,
+          7003
         ]
       }
     ]

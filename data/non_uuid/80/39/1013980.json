@@ -12,7 +12,7 @@
   "external_id": "1013980",
   "title": "Shweden und Norwegen",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -87,7 +87,7 @@
     "transformation_method": "affine",
     "mapID": "7468a95f-eaba-5aa6-964a-867d8aba1370",
     "affine_transformation": null,
-    "changed": "2013-07-11T21:01:27.939420+00:00",
+    "changed": "2023-01-21T05:47:14.632055+00:00",
     "gcps": [
       {
         "location": [
@@ -167,6 +167,26 @@
         "pixel": [
           637,
           1713
+        ]
+      },
+      {
+        "location": [
+          22.12804849032088,
+          65.58045355889351
+        ],
+        "pixel": [
+          1061,
+          843
+        ]
+      },
+      {
+        "location": [
+          31.112449136711,
+          70.35630289424535
+        ],
+        "pixel": [
+          1332,
+          338
         ]
       }
     ]

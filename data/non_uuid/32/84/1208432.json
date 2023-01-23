@@ -12,7 +12,7 @@
   "external_id": "1208432",
   "title": "Lechner´s Übersichtskarte von Rumänien, der Bukowina und des östlichen Teiles von Galizien und Ungarn",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,51 +27,63 @@
   "georefereces": {
     "cutline": [
       [
-        186,
-        3698
+        150,
+        3728
       ],
       [
-        784,
-        3706
+        748,
+        3728
       ],
       [
-        806,
+        750,
+        4039
+      ],
+      [
+        2336,
+        4036
+      ],
+      [
+        2428,
         4034
       ],
       [
-        2404,
-        4022
+        2429,
+        3741
       ],
       [
-        2419,
-        3768
+        2504,
+        3722
       ],
       [
-        2603,
-        3609
+        2573,
+        3673
       ],
       [
-        3026,
-        3594
+        2606,
+        3614
       ],
       [
-        3018,
-        170
+        3013,
+        3614
       ],
       [
-        186,
-        170
+        3022,
+        133
       ],
       [
-        186,
-        3698
+        156,
+        135
+      ],
+      [
+        150,
+        3728
       ]
     ],
     "created": "2017-09-03T20:31:00.593960+00:00",
     "transformation_method": "affine",
     "mapID": "05a1d548-bbb1-54cd-80d4-055907771f46",
     "affine_transformation": null,
-    "changed": "2017-09-03T20:31:00.593960+00:00",
+    "changed": "2023-01-23T04:20:46.269222+00:00",
     "gcps": [
       {
         "location": [
@@ -181,6 +193,16 @@
         "pixel": [
           2127,
           305
+        ]
+      },
+      {
+        "location": [
+          23.05987343275911,
+          47.1801895121601
+        ],
+        "pixel": [
+          491,
+          2010
         ]
       }
     ]

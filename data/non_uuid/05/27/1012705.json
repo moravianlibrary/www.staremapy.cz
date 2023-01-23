@@ -12,7 +12,7 @@
   "external_id": "1012705",
   "title": "Australia",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,31 +27,39 @@
   "georefereces": {
     "cutline": [
       [
-        1799,
-        0
+        1119,
+        776
       ],
       [
-        1799,
-        1173
+        984,
+        951
       ],
       [
-        0,
-        1173
+        353,
+        951
       ],
       [
-        0,
-        0
+        362,
+        198
       ],
       [
-        1799,
-        0
+        1423,
+        202
+      ],
+      [
+        1414,
+        772
+      ],
+      [
+        1119,
+        776
       ]
     ],
     "created": "2013-10-17T16:29:43.785040+00:00",
     "transformation_method": "affine",
     "mapID": "40705f8f-2b98-5d18-9fc2-c2c7719770eb",
     "affine_transformation": null,
-    "changed": "2013-10-17T16:29:43.785040+00:00",
+    "changed": "2023-01-21T08:03:54.887084+00:00",
     "gcps": [
       {
         "location": [
@@ -81,6 +89,26 @@
         "pixel": [
           794,
           836
+        ]
+      },
+      {
+        "location": [
+          -109.73511122539392,
+          22.84040445845899
+        ],
+        "pixel": [
+          1384,
+          313
+        ]
+      },
+      {
+        "location": [
+          -114.71191786601867,
+          31.73640149154714
+        ],
+        "pixel": [
+          1348,
+          243
         ]
       },
       {

@@ -9,7 +9,7 @@
   "external_id": "1179830",
   "title": "Lubochiny und Golowno",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": "Fitz, J.",
   "catalog_url": null,
   "viewer_url": null,
@@ -48,16 +48,16 @@
     "transformation_method": "affine",
     "mapID": "19069e61-961d-5453-8f4b-cd0b73cd5bd6",
     "affine_transformation": null,
-    "changed": "2014-09-18T15:06:56.664030+00:00",
+    "changed": "2023-01-18T06:33:45.098899+00:00",
     "gcps": [
       {
         "location": [
-          23.924154761,
-          51.490379269
+          23.9278468645959,
+          51.488601269667214
         ],
         "pixel": [
-          661,
-          201
+          665,
+          210
         ]
       },
       {
@@ -102,6 +102,26 @@
       },
       {
         "location": [
+          23.954172757152552,
+          51.4002118738706
+        ],
+        "pixel": [
+          783,
+          872
+        ]
+      },
+      {
+        "location": [
+          23.870294079696897,
+          51.375362755062014
+        ],
+        "pixel": [
+          395,
+          1062
+        ]
+      },
+      {
+        "location": [
           24.102151515,
           51.386374368
         ],
@@ -138,6 +158,16 @@
         "pixel": [
           2250,
           1249
+        ]
+      },
+      {
+        "location": [
+          23.8732459491811,
+          51.48599201735661
+        ],
+        "pixel": [
+          412,
+          229
         ]
       }
     ]

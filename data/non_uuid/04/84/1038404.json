@@ -12,7 +12,7 @@
   "external_id": "1038404",
   "title": "Hydrographische Übersichtskarte des Elbe-Gebietes und des in Böhmen gelegenen Oder-Gebietes",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -27,32 +27,36 @@
   "georefereces": {
     "cutline": [
       [
-        146,
-        400
+        143,
+        399
       ],
       [
         2607,
         393
       ],
       [
-        2620,
-        1956
-      ],
-      [
-        1997,
+        2615,
         1952
       ],
       [
-        1998,
+        1992,
+        1954
+      ],
+      [
+        1997,
         2309
       ],
       [
-        1633,
-        2313
+        1628,
+        2310
       ],
       [
-        1629,
-        2340
+        1615,
+        2330
+      ],
+      [
+        1610,
+        2338
       ],
       [
         1534,
@@ -79,11 +83,11 @@
         2414
       ],
       [
-        1262,
+        1279,
         2333
       ],
       [
-        1258,
+        1253,
         2312
       ],
       [
@@ -95,23 +99,19 @@
         1915
       ],
       [
-        156,
-        1924
+        143,
+        1918
       ],
       [
-        149,
-        1921
-      ],
-      [
-        146,
-        400
+        143,
+        399
       ]
     ],
     "created": "2013-11-14T05:23:29.867250+00:00",
     "transformation_method": "affine",
     "mapID": "967563f8-635d-5820-bf61-26e0ca95620e",
     "affine_transformation": null,
-    "changed": "2013-11-14T05:23:29.867250+00:00",
+    "changed": "2023-01-23T04:41:02.043131+00:00",
     "gcps": [
       {
         "location": [

@@ -9,7 +9,7 @@
   "external_id": "1208124",
   "title": "[Ostrog",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        2700,
-        0
+        2612,
+        98
       ],
       [
-        2700,
-        2388
+        2593,
+        2290
       ],
       [
-        0,
-        2388
+        100,
+        2295
       ],
       [
-        0,
-        0
+        95,
+        101
       ],
       [
-        2700,
-        0
+        2612,
+        98
       ]
     ],
     "created": "2015-11-05T15:54:27.528940+00:00",
     "transformation_method": "affine",
     "mapID": "b2ce80f1-fcac-5c23-b4f3-0ee62a0388ec",
     "affine_transformation": null,
-    "changed": "2015-11-05T15:54:27.528940+00:00",
+    "changed": "2023-01-23T04:43:16.771937+00:00",
     "gcps": [
       {
         "location": [
@@ -78,6 +78,36 @@
         "pixel": [
           528,
           370
+        ]
+      },
+      {
+        "location": [
+          25.380241282647308,
+          49.79975868885282
+        ],
+        "pixel": [
+          210,
+          2211
+        ]
+      },
+      {
+        "location": [
+          26.473604387857776,
+          49.71424659448161
+        ],
+        "pixel": [
+          1550,
+          2225
+        ]
+      },
+      {
+        "location": [
+          25.53701116207088,
+          50.666870437321194
+        ],
+        "pixel": [
+          198,
+          531
         ]
       },
       {

@@ -9,7 +9,7 @@
   "external_id": "806435",
   "title": "Topographische Reisekarte durch die umliegende Gegend von Dresden",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -80,8 +80,18 @@
     "transformation_method": "affine",
     "mapID": "a882c19c-55c0-5fb1-b13e-aad68dd0a7b7",
     "affine_transformation": null,
-    "changed": "2015-06-05T11:36:46.386120+00:00",
+    "changed": "2023-01-18T05:35:19.031917+00:00",
     "gcps": [
+      {
+        "location": [
+          13.520565680132334,
+          51.136741666866385
+        ],
+        "pixel": [
+          253,
+          939
+        ]
+      },
       {
         "location": [
           13.881509842,
@@ -90,6 +100,26 @@
         "pixel": [
           1549,
           795
+        ]
+      },
+      {
+        "location": [
+          13.747542132191068,
+          51.053696627641074
+        ],
+        "pixel": [
+          969,
+          795
+        ]
+      },
+      {
+        "location": [
+          13.427572508651457,
+          51.09882971464572
+        ],
+        "pixel": [
+          150,
+          1265
         ]
       },
       {

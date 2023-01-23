@@ -9,7 +9,7 @@
   "external_id": "1130079",
   "title": "Neszmély",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -28,24 +28,32 @@
         631
       ],
       [
-        254,
+        251,
         268
       ],
       [
-        575,
-        224
+        304,
+        245
       ],
       [
-        3230,
-        204
+        309,
+        220
       ],
       [
-        3255,
-        2404
+        831,
+        217
       ],
       [
-        267,
-        2417
+        3235,
+        203
+      ],
+      [
+        3257,
+        2409
+      ],
+      [
+        263,
+        2425
       ],
       [
         257,
@@ -56,7 +64,7 @@
     "transformation_method": "affine",
     "mapID": "faf3866a-ed26-54fa-a44c-848b986575b3",
     "affine_transformation": null,
-    "changed": "2014-09-09T10:28:21.395600+00:00",
+    "changed": "2023-01-21T08:02:24.242786+00:00",
     "gcps": [
       {
         "location": [
@@ -126,6 +134,16 @@
         "pixel": [
           2956,
           617
+        ]
+      },
+      {
+        "location": [
+          18.577655888322635,
+          47.683386660246384
+        ],
+        "pixel": [
+          3188,
+          1398
         ]
       },
       {

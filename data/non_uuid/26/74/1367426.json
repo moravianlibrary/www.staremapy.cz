@@ -9,7 +9,7 @@
   "external_id": "1367426",
   "title": "California",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": "Davis, E.P.",
   "catalog_url": null,
   "viewer_url": null,
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        183,
-        2765
+        174,
+        2739
       ],
       [
-        2327,
-        2765
+        2311,
+        2739
       ],
       [
-        2327,
-        165
+        2313,
+        164
       ],
       [
-        183,
-        165
+        176,
+        164
       ],
       [
-        183,
-        2765
+        174,
+        2739
       ]
     ],
     "created": "2016-03-16T15:18:54.770940+00:00",
     "transformation_method": "affine",
     "mapID": "1eee2316-6935-51e2-b578-d08ad8c50264",
     "affine_transformation": null,
-    "changed": "2016-03-16T15:18:54.770940+00:00",
+    "changed": "2023-01-19T05:44:20.239583+00:00",
     "gcps": [
       {
         "location": [
@@ -58,6 +58,36 @@
         "pixel": [
           454,
           2020
+        ]
+      },
+      {
+        "location": [
+          -118.39345538273899,
+          34.0041363347911
+        ],
+        "pixel": [
+          325,
+          2628
+        ]
+      },
+      {
+        "location": [
+          -118.39600884572118,
+          34.00707136184489
+        ],
+        "pixel": [
+          267,
+          2559
+        ]
+      },
+      {
+        "location": [
+          -118.31660230178024,
+          34.088900979988665
+        ],
+        "pixel": [
+          1961,
+          440
         ]
       },
       {
