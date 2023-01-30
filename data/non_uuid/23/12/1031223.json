@@ -9,7 +9,7 @@
   "external_id": "1031223",
   "title": "Combat de Lowositz, en Bohéme, gagné par le roi de Prusse sur l'armée imperériale aux ordres du feldmaréchal de Brown, le 1er octobre, 1756",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -24,8 +24,32 @@
   "georefereces": {
     "cutline": [
       [
-        203,
-        1910
+        825,
+        1600
+      ],
+      [
+        919,
+        1769
+      ],
+      [
+        981,
+        1757
+      ],
+      [
+        1124,
+        1877
+      ],
+      [
+        1160,
+        1857
+      ],
+      [
+        1348,
+        1864
+      ],
+      [
+        1388,
+        1913
       ],
       [
         2675,
@@ -40,15 +64,35 @@
         206
       ],
       [
-        203,
-        1910
+        204,
+        1415
+      ],
+      [
+        317,
+        1368
+      ],
+      [
+        447,
+        1394
+      ],
+      [
+        664,
+        1385
+      ],
+      [
+        833,
+        1410
+      ],
+      [
+        825,
+        1600
       ]
     ],
     "created": "2013-12-10T20:50:50.568510+00:00",
     "transformation_method": "affine",
     "mapID": "951d5aa2-6693-5d57-b932-092f9b41489b",
     "affine_transformation": null,
-    "changed": "2013-12-10T20:50:50.568510+00:00",
+    "changed": "2023-01-23T13:44:25.634177+00:00",
     "gcps": [
       {
         "location": [
@@ -88,6 +132,56 @@
         "pixel": [
           1133,
           1569
+        ]
+      },
+      {
+        "location": [
+          14.02803825818941,
+          50.484400924583326
+        ],
+        "pixel": [
+          2002,
+          1665
+        ]
+      },
+      {
+        "location": [
+          14.036232263905566,
+          50.49889571464993
+        ],
+        "pixel": [
+          1944,
+          1125
+        ]
+      },
+      {
+        "location": [
+          13.960669730902373,
+          50.49840503775761
+        ],
+        "pixel": [
+          967,
+          1664
+        ]
+      },
+      {
+        "location": [
+          13.93773630178431,
+          50.53886012974755
+        ],
+        "pixel": [
+          296,
+          1161
+        ]
+      },
+      {
+        "location": [
+          14.07061547311527,
+          50.47766883388465
+        ],
+        "pixel": [
+          2478,
+          1191
         ]
       },
       {

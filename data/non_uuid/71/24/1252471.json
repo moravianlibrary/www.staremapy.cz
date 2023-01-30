@@ -13,7 +13,7 @@
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
+  "georeference_is_finished": true,
   "bounds": null,
   "reviewed": null,
   "publisher": "Kriegshilfe",
@@ -24,31 +24,31 @@
   "georefereces": {
     "cutline": [
       [
-        3058,
-        0
+        2059,
+        98
       ],
       [
-        3058,
-        1615
+        2989,
+        99
       ],
       [
-        0,
-        1615
+        2988,
+        637
       ],
       [
-        0,
-        0
+        2060,
+        636
       ],
       [
-        3058,
-        0
+        2059,
+        98
       ]
     ],
-    "created": "2015-11-05T16:09:27.663090+00:00",
+    "created": "2023-01-24T13:48:09.426060+00:00",
     "transformation_method": "affine",
     "mapID": "1de915e7-5210-584c-8d28-57ddb82f801a",
     "affine_transformation": null,
-    "changed": "2022-04-10T21:50:16.129720+00:00",
+    "changed": "2023-01-24T13:48:40.305341+00:00",
     "gcps": []
   },
   "pubdate": ["1916"]

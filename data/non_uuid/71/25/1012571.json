@@ -12,7 +12,7 @@
   "external_id": "1012571",
   "title": "Carte patriculiére des pais ou les apôtres ont preché l'euangile, des lieux les plus renommez de leurs voyages, et de la route de St. Paul a Rome",
   "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": "Mortier, Pieter",
   "catalog_url": null,
   "viewer_url": null,
@@ -27,31 +27,51 @@
   "georefereces": {
     "cutline": [
       [
-        2970,
-        0
+        2499,
+        489
       ],
       [
-        2970,
-        2570
+        2500,
+        1296
       ],
       [
-        0,
-        2570
+        2497,
+        2021
       ],
       [
-        0,
-        0
+        2091,
+        2020
       ],
       [
-        2970,
-        0
+        2093,
+        2175
+      ],
+      [
+        377,
+        2166
+      ],
+      [
+        374,
+        478
+      ],
+      [
+        724,
+        477
+      ],
+      [
+        1416,
+        482
+      ],
+      [
+        2499,
+        489
       ]
     ],
     "created": "2013-06-19T13:47:23.144800+00:00",
     "transformation_method": "affine",
     "mapID": "2bcd65b5-a5b5-5101-8703-8857be62da48",
     "affine_transformation": null,
-    "changed": "2013-06-19T13:47:23.144800+00:00",
+    "changed": "2023-01-24T06:15:40.370963+00:00",
     "gcps": [
       {
         "location": [
@@ -95,22 +115,52 @@
       },
       {
         "location": [
-          13.177419609,
-          32.896250249
-        ],
-        "pixel": [
-          468,
-          1455
-        ]
-      },
-      {
-        "location": [
           39.709649928,
           40.999523616
         ],
         "pixel": [
           1859,
           678
+        ]
+      },
+      {
+        "location": [
+          12.584819115568575,
+          35.51340551610835
+        ],
+        "pixel": [
+          408,
+          1200
+        ]
+      },
+      {
+        "location": [
+          31.28423417638834,
+          30.04746147616369
+        ],
+        "pixel": [
+          1466,
+          1478
+        ]
+      },
+      {
+        "location": [
+          29.018759365414265,
+          41.099680520165805
+        ],
+        "pixel": [
+          1320,
+          681
+        ]
+      },
+      {
+        "location": [
+          48.00269598515072,
+          30.40472329929696
+        ],
+        "pixel": [
+          2336,
+          1458
         ]
       },
       {
@@ -141,6 +191,16 @@
         "pixel": [
           1606,
           1138
+        ]
+      },
+      {
+        "location": [
+          26.110914503038604,
+          35.21006588390897
+        ],
+        "pixel": [
+          1220,
+          1177
         ]
       }
     ]
