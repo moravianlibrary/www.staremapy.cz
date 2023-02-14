@@ -14,7 +14,12 @@
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
-  "bounds": null,
+  "bounds": [
+    12.335575,
+    50.000195,
+    12.583204,
+    50.123905
+  ],
   "reviewed": null,
   "publisher": null,
   "link_url": "http://chartae-antiquae.cz/maps/6034",
@@ -48,7 +53,7 @@
     "transformation_method": "affine",
     "mapID": "bd7ae4c8-b3b2-5064-bdd9-9b1bbf7d0d93",
     "affine_transformation": null,
-    "changed": "2014-12-22T15:00:01.707750+00:00",
+    "changed": "2023-02-13T14:36:08.827025+00:00",
     "gcps": [
       {
         "location": [

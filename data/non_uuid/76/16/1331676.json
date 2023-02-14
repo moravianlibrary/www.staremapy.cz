@@ -14,7 +14,12 @@
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
-  "bounds": null,
+  "bounds": [
+    25.814104,
+    47.980747,
+    26.35302,
+    48.264343
+  ],
   "reviewed": null,
   "publisher": "K. u. k. Militärgeographisches Institut",
   "link_url": "http://digitool.is.cuni.cz/R/?func=dbin-jump-full&object_id=1331676",
@@ -48,7 +53,7 @@
     "transformation_method": "affine",
     "mapID": "a98e34d6-2990-5e3c-8447-28aa5ef221d1",
     "affine_transformation": null,
-    "changed": "2016-10-29T19:30:00.288650+00:00",
+    "changed": "2023-01-31T02:22:15.513158+00:00",
     "gcps": [
       {
         "location": [

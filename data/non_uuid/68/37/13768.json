@@ -13,8 +13,13 @@
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
-  "bounds": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.597085,
+    48.43316,
+    14.617283,
+    48.444244
+  ],
   "reviewed": null,
   "publisher": null,
   "link_url": "http://chartae-antiquae.cz/maps/13768",
@@ -48,8 +53,49 @@
     "transformation_method": "affine",
     "mapID": "53c1d797-bcc6-5496-b8d0-97e2598f1150",
     "affine_transformation": null,
-    "changed": "2014-11-25T16:32:54.012300+00:00",
-    "gcps": []
+    "changed": "2023-02-13T14:15:34.288130+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.608413200989949,
+          48.44011193623098
+        ],
+        "pixel": [
+          6911,
+          3042
+        ]
+      },
+      {
+        "location": [
+          14.607458334580649,
+          48.438538936209085
+        ],
+        "pixel": [
+          5650,
+          4551
+        ]
+      },
+      {
+        "location": [
+          14.60785530151485,
+          48.43895176445838
+        ],
+        "pixel": [
+          6178,
+          4141
+        ]
+      },
+      {
+        "location": [
+          14.607723060910288,
+          48.43749881933914
+        ],
+        "pixel": [
+          5466,
+          5490
+        ]
+      }
+    ]
   },
   "pubdate": [
     "1900",

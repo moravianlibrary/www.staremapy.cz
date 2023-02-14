@@ -14,7 +14,12 @@
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
-  "bounds": null,
+  "bounds": [
+    -26.929586,
+    62.899433,
+    -10.5584345,
+    66.913185
+  ],
   "reviewed": null,
   "publisher": null,
   "link_url": "http://digitool.is.cuni.cz/R/?func=dbin-jump-full&object_id=853934",
@@ -24,67 +29,39 @@
   "georefereces": {
     "cutline": [
       [
-        197,
-        215
+        123,
+        160
       ],
       [
-        209,
-        1339
+        115,
+        1783
       ],
       [
-        529,
-        1351
+        1846,
+        1783
       ],
       [
-        609,
-        1475
+        1855,
+        1243
       ],
       [
-        561,
-        1655
+        2404,
+        1249
       ],
       [
-        697,
-        1747
+        2406,
+        159
       ],
       [
-        1809,
-        1743
-      ],
-      [
-        1821,
-        1307
-      ],
-      [
-        1849,
-        1223
-      ],
-      [
-        2341,
-        1231
-      ],
-      [
-        2353,
-        215
-      ],
-      [
-        1263,
-        199
-      ],
-      [
-        734,
-        187
-      ],
-      [
-        197,
-        215
+        123,
+        160
       ]
     ],
     "created": "2015-02-21T19:44:11.660150+00:00",
     "transformation_method": "affine",
     "mapID": "95e4d447-3b17-57dc-bb7f-ac6d13ecb483",
     "affine_transformation": null,
-    "changed": "2015-02-21T19:44:11.660150+00:00",
+    "changed": "2023-02-06T02:16:15.991692+00:00",
     "gcps": [
       {
         "location": [

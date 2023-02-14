@@ -14,7 +14,12 @@
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
-  "bounds": null,
+  "bounds": [
+    18.331175,
+    48.498432,
+    18.831833,
+    48.74894
+  ],
   "reviewed": null,
   "publisher": "Vojenský zeměpisný ústav",
   "link_url": "https://www.digitalniknihovna.cz/mzk/view/uuid:9ee724fa-7d85-4cc3-a832-e8f73f7ba252?page=uuid:b2a81b7e-07bf-4657-bfa1-350185d3a867",
@@ -64,7 +69,7 @@
     "transformation_method": "affine",
     "mapID": "5b89bbe1-a8ca-5579-a903-04ac4cc531de",
     "affine_transformation": null,
-    "changed": "2021-04-29T10:31:37.817076+00:00",
+    "changed": "2023-02-07T11:37:50.181046+00:00",
     "gcps": [
       {
         "location": [

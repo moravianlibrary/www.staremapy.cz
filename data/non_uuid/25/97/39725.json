@@ -14,7 +14,12 @@
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": false,
-  "bounds": null,
+  "bounds": [
+    -175.78972,
+    -80.04501,
+    169.37288,
+    76.58218
+  ],
   "reviewed": null,
   "publisher": null,
   "link_url": "http://chartae-antiquae.cz/maps/39725",
@@ -76,7 +81,7 @@
     "transformation_method": "affine",
     "mapID": "473ff7bd-c1c1-50f8-8936-f77830476401",
     "affine_transformation": null,
-    "changed": "2023-01-08T19:23:57.028742+00:00",
+    "changed": "2023-02-12T22:57:57.072432+00:00",
     "gcps": []
   },
   "pubdate": [null]

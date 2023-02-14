@@ -17,7 +17,12 @@
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
-  "bounds": null,
+  "bounds": [
+    19.841516,
+    50.01215,
+    20.060701,
+    50.114044
+  ],
   "reviewed": null,
   "publisher": "nakladem Księgarni D.E. Friedleina",
   "link_url": "http://digitool.is.cuni.cz/R/?func=dbin-jump-full&object_id=1040828",
@@ -83,7 +88,7 @@
     "transformation_method": "affine",
     "mapID": "a8384b69-4212-5ae1-9f3a-bd0645b42b92",
     "affine_transformation": null,
-    "changed": "2013-03-22T20:01:09.509290+00:00",
+    "changed": "2023-02-02T22:20:47.863726+00:00",
     "gcps": [
       {
         "location": [

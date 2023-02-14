@@ -17,7 +17,12 @@
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": false,
-  "bounds": null,
+  "bounds": [
+    -170.156,
+    -48.4583,
+    174.375,
+    80.8728
+  ],
   "reviewed": null,
   "publisher": "Geographisches Institut",
   "link_url": "http://digitool.is.cuni.cz/R/?func=dbin-jump-full&object_id=820982",
@@ -27,8 +32,8 @@
   "georefereces": {
     "cutline": [
       [
-        3209,
-        0
+        2197,
+        932
       ],
       [
         3209,
@@ -43,15 +48,15 @@
         0
       ],
       [
-        3209,
-        0
+        2197,
+        932
       ]
     ],
     "created": "2014-08-18T18:54:00.972870+00:00",
     "transformation_method": "affine",
     "mapID": "b5e2ef1f-6dd4-5c70-99d7-76ba9065226e",
     "affine_transformation": null,
-    "changed": "2022-11-04T07:33:02.711166+00:00",
+    "changed": "2023-02-10T14:26:39.072511+00:00",
     "gcps": []
   },
   "pubdate": [

@@ -14,7 +14,12 @@
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": false,
-  "bounds": null,
+  "bounds": [
+    14.718416,
+    48.994534,
+    14.788126,
+    49.045418
+  ],
   "reviewed": null,
   "publisher": null,
   "link_url": "http://chartae-antiquae.cz/maps/9453",
@@ -48,7 +53,7 @@
     "transformation_method": "affine",
     "mapID": "f8ff7d96-a806-5f2f-a162-ec95118bfb76",
     "affine_transformation": null,
-    "changed": "2014-11-25T17:16:50.673880+00:00",
+    "changed": "2023-02-11T17:55:56.041121+00:00",
     "gcps": []
   },
   "pubdate": ["1857"]

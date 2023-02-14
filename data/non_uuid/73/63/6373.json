@@ -14,7 +14,12 @@
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
-  "bounds": null,
+  "bounds": [
+    19.58107,
+    49.12398,
+    19.831085,
+    49.248764
+  ],
   "reviewed": null,
   "publisher": null,
   "link_url": "http://chartae-antiquae.cz/maps/6373",
@@ -48,7 +53,7 @@
     "transformation_method": "affine",
     "mapID": "7cf35393-08dd-58ed-824e-5d4fe69cd2a1",
     "affine_transformation": null,
-    "changed": "2014-12-24T18:00:57.942300+00:00",
+    "changed": "2023-02-12T00:58:59.156687+00:00",
     "gcps": [
       {
         "location": [

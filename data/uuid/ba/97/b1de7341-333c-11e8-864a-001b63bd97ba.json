@@ -14,7 +14,12 @@
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:c9573325-1037-44d0-b4f1-7fb07daa4e1d?page=uuid:b1de7341-333c-11e8-864a-001b63bd97ba",
   "georeference_is_finished": true,
-  "bounds": null,
+  "bounds": [
+    12.16596,
+    55.34521,
+    13.11857,
+    56.16872
+  ],
   "reviewed": null,
   "publisher": null,
   "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:c9573325-1037-44d0-b4f1-7fb07daa4e1d?page=uuid:b1de7341-333c-11e8-864a-001b63bd97ba",
@@ -132,7 +137,7 @@
     "transformation_method": "affine",
     "mapID": "9d1c92c3-414e-4985-b5e0-53087a592fa5",
     "affine_transformation": null,
-    "changed": "2023-01-07T20:00:19.499636+00:00",
+    "changed": "2023-02-14T11:10:56.009062+00:00",
     "gcps": [
       {
         "location": [

@@ -14,7 +14,12 @@
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
-  "bounds": null,
+  "bounds": [
+    14.404475,
+    50.076992,
+    14.410435,
+    50.094307
+  ],
   "reviewed": null,
   "publisher": null,
   "link_url": "http://chartae-antiquae.cz/maps/46151",
@@ -48,7 +53,7 @@
     "transformation_method": "affine",
     "mapID": "42a974b3-86a1-5618-96b3-0f8129db3339",
     "affine_transformation": null,
-    "changed": "2023-01-05T08:49:25.603684+00:00",
+    "changed": "2023-02-13T00:58:38.841846+00:00",
     "gcps": [
       {
         "location": [

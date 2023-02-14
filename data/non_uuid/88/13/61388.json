@@ -14,7 +14,12 @@
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
-  "bounds": null,
+  "bounds": [
+    32.584732,
+    0.43771118,
+    88.83116,
+    25.061893
+  ],
   "reviewed": null,
   "publisher": "Phil. Jos. Schalbacher",
   "link_url": "http://chartae-antiquae.cz/maps/61388",
@@ -96,7 +101,7 @@
     "transformation_method": "affine",
     "mapID": "cccb07cd-7f4f-56d6-bedf-0e07d9a9bbfc",
     "affine_transformation": null,
-    "changed": "2015-01-06T20:45:56.447020+00:00",
+    "changed": "2023-02-07T15:57:48.926529+00:00",
     "gcps": [
       {
         "location": [

@@ -17,7 +17,12 @@
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
-  "bounds": null,
+  "bounds": [
+    37.388325,
+    35.69113,
+    44.41492,
+    42.574455
+  ],
   "reviewed": null,
   "publisher": null,
   "link_url": "http://digitool.is.cuni.cz/R/?func=dbin-jump-full&object_id=1172261",
@@ -51,7 +56,7 @@
     "transformation_method": "affine",
     "mapID": "ef1dacc7-8dca-578c-8afa-8a861b547e65",
     "affine_transformation": null,
-    "changed": "2014-08-19T15:31:00.419680+00:00",
+    "changed": "2023-02-09T18:30:00.091230+00:00",
     "gcps": [
       {
         "location": [

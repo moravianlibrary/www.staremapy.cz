@@ -14,7 +14,12 @@
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
-  "bounds": null,
+  "bounds": [
+    28.828726,
+    35.98063,
+    30.849762,
+    37.025234
+  ],
   "reviewed": null,
   "publisher": "Alfred Hölder",
   "link_url": "http://digitool.is.cuni.cz/R/?func=dbin-jump-full&object_id=1172503",
@@ -48,7 +53,7 @@
     "transformation_method": "affine",
     "mapID": "cb85110d-141c-5e78-bf6c-1882c5c2f322",
     "affine_transformation": null,
-    "changed": "2014-08-19T15:31:19.793390+00:00",
+    "changed": "2023-01-31T16:14:47.230174+00:00",
     "gcps": [
       {
         "location": [

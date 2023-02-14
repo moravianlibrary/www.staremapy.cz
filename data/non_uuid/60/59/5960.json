@@ -14,7 +14,12 @@
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
-  "bounds": null,
+  "bounds": [
+    12.585449,
+    50.374435,
+    12.833471,
+    50.463654
+  ],
   "reviewed": null,
   "publisher": null,
   "link_url": "http://chartae-antiquae.cz/maps/5960",
@@ -112,7 +117,7 @@
     "transformation_method": "affine",
     "mapID": "0da375e7-46bb-5695-9caa-b00f869bf1f1",
     "affine_transformation": null,
-    "changed": "2014-12-05T10:22:34.684590+00:00",
+    "changed": "2023-02-01T09:18:41.035803+00:00",
     "gcps": [
       {
         "location": [

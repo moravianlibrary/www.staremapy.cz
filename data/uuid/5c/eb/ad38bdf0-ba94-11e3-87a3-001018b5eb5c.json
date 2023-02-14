@@ -14,7 +14,12 @@
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:3bfab140-ae62-11e3-b833-005056827e52?page=uuid:ad38bdf0-ba94-11e3-87a3-001018b5eb5c",
   "georeference_is_finished": true,
-  "bounds": null,
+  "bounds": [
+    33.340763,
+    30.885424,
+    42.925858,
+    37.028843
+  ],
   "reviewed": null,
   "publisher": "Státní nakladatelství krásné literatury a umění",
   "link_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:3bfab140-ae62-11e3-b833-005056827e52?page=uuid:ad38bdf0-ba94-11e3-87a3-001018b5eb5c",
@@ -60,7 +65,7 @@
     "transformation_method": "affine",
     "mapID": "9b205a8f-937e-4bc5-bc05-c9445a42a127",
     "affine_transformation": null,
-    "changed": "2023-01-07T20:31:43.748537+00:00",
+    "changed": "2023-02-01T12:47:38.738959+00:00",
     "gcps": [
       {
         "location": [

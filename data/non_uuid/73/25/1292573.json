@@ -14,7 +14,12 @@
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
-  "bounds": null,
+  "bounds": [
+    17.825964,
+    49.742004,
+    18.344126,
+    50.00041
+  ],
   "reviewed": null,
   "publisher": "R. Lechner's k. k. Hof-und Universitäts-Buchhandlung",
   "link_url": "http://digitool.is.cuni.cz/R/?func=dbin-jump-full&object_id=1292573",
@@ -52,7 +57,7 @@
     "transformation_method": "affine",
     "mapID": "952d40c6-7494-517b-a671-977f5902434f",
     "affine_transformation": null,
-    "changed": "2016-03-11T20:06:33.243820+00:00",
+    "changed": "2023-02-04T22:51:49.885896+00:00",
     "gcps": [
       {
         "location": [
@@ -146,16 +151,6 @@
       },
       {
         "location": [
-          18.109388841,
-          49.89640458
-        ],
-        "pixel": [
-          1594,
-          934
-        ]
-      },
-      {
-        "location": [
           18.088274492,
           49.871960346
         ],
@@ -182,6 +177,16 @@
         "pixel": [
           1137,
           1689
+        ]
+      },
+      {
+        "location": [
+          18.05128272529595,
+          49.97876995286006
+        ],
+        "pixel": [
+          1323,
+          338
         ]
       },
       {

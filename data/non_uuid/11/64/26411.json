@@ -14,7 +14,12 @@
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
-  "bounds": null,
+  "bounds": [
+    13.069963,
+    49.289024,
+    13.079254,
+    49.29544
+  ],
   "reviewed": null,
   "publisher": null,
   "link_url": "http://chartae-antiquae.cz/maps/26411",
@@ -68,7 +73,7 @@
     "transformation_method": "affine",
     "mapID": "f1ee221f-adbc-5cde-97f5-dfd6b008f3a0",
     "affine_transformation": null,
-    "changed": "2015-01-03T15:03:00.778940+00:00",
+    "changed": "2023-02-01T09:17:09.742631+00:00",
     "gcps": [
       {
         "location": [

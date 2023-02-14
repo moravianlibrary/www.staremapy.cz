@@ -14,7 +14,12 @@
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
-  "bounds": null,
+  "bounds": [
+    10.250565,
+    50.276882,
+    17.53814,
+    51.782516
+  ],
   "reviewed": null,
   "publisher": "A. Robert Friese",
   "link_url": "http://digitool.is.cuni.cz/R/?func=dbin-jump-full&object_id=1389060",
@@ -24,35 +29,35 @@
   "georefereces": {
     "cutline": [
       [
-        203,
-        382
+        77,
+        372
       ],
       [
-        522,
-        380
+        720,
+        362
       ],
       [
-        523,
-        3385
+        650,
+        3386
       ],
       [
         201,
         3388
       ],
       [
-        202,
-        3388
+        66,
+        3387
       ],
       [
-        203,
-        382
+        77,
+        372
       ]
     ],
     "created": "2017-12-07T22:37:03.996640+00:00",
     "transformation_method": "affine",
     "mapID": "0ad7a6eb-07c7-5e5c-9b3a-aefec6403925",
     "affine_transformation": null,
-    "changed": "2017-12-07T22:37:03.996640+00:00",
+    "changed": "2023-02-01T11:25:33.730285+00:00",
     "gcps": [
       {
         "location": [

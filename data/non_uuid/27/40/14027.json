@@ -14,7 +14,12 @@
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
-  "bounds": null,
+  "bounds": [
+    16.45783,
+    50.090286,
+    16.542921,
+    50.168213
+  ],
   "reviewed": null,
   "publisher": null,
   "link_url": "http://chartae-antiquae.cz/maps/14027",
@@ -48,7 +53,7 @@
     "transformation_method": "affine",
     "mapID": "39ed3ec5-edaf-585d-9a08-ff41f4ca1a4f",
     "affine_transformation": null,
-    "changed": "2021-08-31T06:13:40.085350+00:00",
+    "changed": "2023-02-06T12:09:42.162716+00:00",
     "gcps": [
       {
         "location": [
@@ -58,6 +63,26 @@
         "pixel": [
           10574,
           10365
+        ]
+      },
+      {
+        "location": [
+          16.346569070853043,
+          49.99068530982706
+        ],
+        "pixel": [
+          -67790,
+          24944
+        ]
+      },
+      {
+        "location": [
+          16.346225748099137,
+          49.99046458295459
+        ],
+        "pixel": [
+          -66263,
+          23731
         ]
       },
       {
@@ -88,6 +113,36 @@
         "pixel": [
           11245,
           7075
+        ]
+      },
+      {
+        "location": [
+          16.39480591777687,
+          49.973244765597315
+        ],
+        "pixel": [
+          -57745,
+          20804
+        ]
+      },
+      {
+        "location": [
+          16.44699097637062,
+          49.943095252642024
+        ],
+        "pixel": [
+          -64880,
+          24147
+        ]
+      },
+      {
+        "location": [
+          16.349303453285852,
+          49.98462279596049
+        ],
+        "pixel": [
+          -27213,
+          -15060
         ]
       }
     ]

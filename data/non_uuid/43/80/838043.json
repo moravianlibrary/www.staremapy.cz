@@ -14,7 +14,12 @@
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
-  "bounds": null,
+  "bounds": [
+    28.90973,
+    40.961136,
+    29.04643,
+    41.062237
+  ],
   "reviewed": null,
   "publisher": "C.A. Hartleben",
   "link_url": "http://digitool.is.cuni.cz/R/?func=dbin-jump-full&object_id=838043",
@@ -68,7 +73,7 @@
     "transformation_method": "affine",
     "mapID": "c18ed256-5bb1-5cac-8e5f-b23df20002bf",
     "affine_transformation": null,
-    "changed": "2022-11-28T23:16:04.079466+00:00",
+    "changed": "2023-02-05T14:19:17.420698+00:00",
     "gcps": [
       {
         "location": [

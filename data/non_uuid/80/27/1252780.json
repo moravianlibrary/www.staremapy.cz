@@ -17,7 +17,12 @@
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": false,
-  "bounds": null,
+  "bounds": [
+    -180,
+    -60,
+    180,
+    85
+  ],
   "reviewed": null,
   "publisher": "Wagner & Debes",
   "link_url": "http://digitool.is.cuni.cz/R/?func=dbin-jump-full&object_id=1252780",

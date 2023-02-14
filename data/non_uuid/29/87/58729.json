@@ -14,7 +14,12 @@
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
-  "bounds": null,
+  "bounds": [
+    8.679133,
+    47.70599,
+    10.02763,
+    48.430595
+  ],
   "reviewed": null,
   "publisher": "Albrecht, Ignatz; Herausgegeben von F.I.I. Reilly",
   "link_url": "http://chartae-antiquae.cz/maps/58729",
@@ -76,7 +81,7 @@
     "transformation_method": "affine",
     "mapID": "49b8cf97-1bcb-52b4-bd31-7c0cbb3c71aa",
     "affine_transformation": null,
-    "changed": "2015-01-19T15:55:58.369290+00:00",
+    "changed": "2023-02-08T20:44:58.801705+00:00",
     "gcps": [
       {
         "location": [

@@ -14,7 +14,12 @@
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
-  "bounds": null,
+  "bounds": [
+    16.834267,
+    48.7496,
+    17.082455,
+    48.873756
+  ],
   "reviewed": null,
   "publisher": null,
   "link_url": "http://chartae-antiquae.cz/maps/6425",
@@ -48,7 +53,7 @@
     "transformation_method": "affine",
     "mapID": "3d9e2f30-c9de-5053-ac12-d04f566075e0",
     "affine_transformation": null,
-    "changed": "2014-12-22T17:05:46.783030+00:00",
+    "changed": "2023-02-04T11:53:28.312430+00:00",
     "gcps": [
       {
         "location": [
