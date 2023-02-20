@@ -15,10 +15,10 @@
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    22.277237,
-    48.458054,
-    22.891388,
-    48.786755
+    22.332092,
+    48.498966,
+    22.83093,
+    48.748993
   ],
   "reviewed": null,
   "publisher": "Zeměpisný ústav M. N. O.",
@@ -53,18 +53,8 @@
     "transformation_method": "affine",
     "mapID": "52f6d2da-3e1a-5c0b-8fb7-cff869a64de1",
     "affine_transformation": null,
-    "changed": "2015-11-05T17:05:39.807220+00:00",
+    "changed": "2023-02-17T07:13:46.361744+00:00",
     "gcps": [
-      {
-        "location": [
-          22.49598549017894,
-          48.7325433572928
-        ],
-        "pixel": [
-          1038,
-          385
-        ]
-      },
       {
         "location": [
           22.795295896386236,
@@ -73,6 +63,16 @@
         "pixel": [
           2454,
           762
+        ]
+      },
+      {
+        "location": [
+          22.49598549017894,
+          48.7325433572928
+        ],
+        "pixel": [
+          1038,
+          385
         ]
       },
       {
