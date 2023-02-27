@@ -18,10 +18,10 @@
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    8.525037,
-    47.36221,
-    8.55572,
-    47.38419
+    8.529669,
+    47.363594,
+    8.549235,
+    47.382133
   ],
   "reviewed": null,
   "publisher": "Cäsar Schmidt",
@@ -120,7 +120,7 @@
     "transformation_method": "affine",
     "mapID": "bbbc8bea-d78c-5e4c-9b21-6d2a1483da55",
     "affine_transformation": null,
-    "changed": "2013-03-29T09:05:19.416600+00:00",
+    "changed": "2023-02-22T22:33:53.246627+00:00",
     "gcps": [
       {
         "location": [
@@ -190,6 +190,16 @@
         "pixel": [
           820,
           733
+        ]
+      },
+      {
+        "location": [
+          8.539268509142955,
+          47.37479761329459
+        ],
+        "pixel": [
+          1047,
+          1511
         ]
       }
     ]

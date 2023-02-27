@@ -15,10 +15,10 @@
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    26.075068,
-    41.999416,
-    26.82433,
-    42.500854
+    26.074057,
+    41.999542,
+    26.827158,
+    42.5003
   ],
   "reviewed": null,
   "publisher": "vom OKH/Gen St d H",
@@ -53,18 +53,8 @@
     "transformation_method": "affine",
     "mapID": "13d64cc4-cd7c-5c3a-b9de-d59440c00120",
     "affine_transformation": null,
-    "changed": "2017-07-29T20:26:36.257060+00:00",
+    "changed": "2023-02-26T17:58:31.620092+00:00",
     "gcps": [
-      {
-        "location": [
-          26.50635835,
-          42.489653352
-        ],
-        "pixel": [
-          1823,
-          305
-        ]
-      },
       {
         "location": [
           26.483012402,
@@ -163,6 +153,16 @@
         "pixel": [
           493,
           652
+        ]
+      },
+      {
+        "location": [
+          26.50635835,
+          42.489653352
+        ],
+        "pixel": [
+          1786,
+          293
         ]
       },
       {

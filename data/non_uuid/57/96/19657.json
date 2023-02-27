@@ -13,8 +13,13 @@
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
-  "bounds": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -177.68913,
+    -28.69839,
+    179.11668,
+    61.7184
+  ],
   "reviewed": null,
   "publisher": null,
   "link_url": "http://chartae-antiquae.cz/maps/19657",
@@ -24,8 +29,8 @@
   "georefereces": {
     "cutline": [
       [
-        16395,
-        0
+        13008,
+        4951
       ],
       [
         16395,
@@ -40,25 +45,47 @@
         0
       ],
       [
-        16395,
-        0
+        13008,
+        4951
       ]
     ],
     "created": "2014-11-25T16:57:53.286320+00:00",
     "transformation_method": "affine",
     "mapID": "4e015379-c9ec-55bd-bf42-2710f3c3358b",
     "affine_transformation": null,
-    "changed": "2021-09-05T15:44:04.296292+00:00",
-    "gcps": [{
-      "location": [
-        13.135873096629966,
-        49.78484937200423
-      ],
-      "pixel": [
-        9462,
-        4362
-      ]
-    }]
+    "changed": "2023-02-22T14:09:51.844924+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.135873096629966,
+          49.78484937200423
+        ],
+        "pixel": [
+          9462,
+          4362
+        ]
+      },
+      {
+        "location": [
+          82.74392671005545,
+          38.27466478678119
+        ],
+        "pixel": [
+          6860,
+          4055
+        ]
+      },
+      {
+        "location": [
+          75.76265490920359,
+          15.061652830202988
+        ],
+        "pixel": [
+          4541,
+          7724
+        ]
+      }
+    ]
   },
   "pubdate": [
     "1900",
