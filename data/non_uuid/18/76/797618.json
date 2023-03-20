@@ -15,10 +15,10 @@
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    11.811028,
-    46.793163,
-    17.230135,
-    49.187897
+    12.434992,
+    46.65556,
+    16.693352,
+    49.23
   ],
   "reviewed": null,
   "publisher": "K. und K. Kriegsarchiv",
@@ -141,7 +141,7 @@
     "transformation_method": "affine",
     "mapID": "a482e11c-0f63-548c-b5ca-3f31a387fef3",
     "affine_transformation": null,
-    "changed": "2015-05-10T17:45:36.814080+00:00",
+    "changed": "2023-03-15T23:27:37.827188+00:00",
     "gcps": [
       {
         "location": [
@@ -261,6 +261,16 @@
         "pixel": [
           2660,
           350
+        ]
+      },
+      {
+        "location": [
+          15.42400619425001,
+          49.230766866140186
+        ],
+        "pixel": [
+          3188,
+          270
         ]
       },
       {
