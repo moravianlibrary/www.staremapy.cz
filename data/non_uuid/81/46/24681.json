@@ -9,16 +9,16 @@
   "external_id": "24681",
   "title": "Podrobné mapy zemí Koruny české v měřítku 1:75.000 a mapa vzdáleností všech míst při silnici ležících - Tábor - Milevsko - Sedlec. Průvodce statisticko-historický po všech místech na těchto mapách uvedených a rejstřík věcný názvů hor, potoků, řek, rybníků atd. Sešit 44. List 58,",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    14.331643,
-    49.39877,
-    14.732427,
-    49.599606
+    14.330769,
+    49.399235,
+    14.733076,
+    49.599518
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,31 @@
   "georefereces": {
     "cutline": [
       [
-        636,
-        800
+        555,
+        768
       ],
       [
-        6527,
-        771
+        6603,
+        776
       ],
       [
-        6622,
-        5404
+        6616,
+        5432
       ],
       [
-        547,
-        5422
+        533,
+        5411
       ],
       [
-        636,
-        800
+        555,
+        768
       ]
     ],
     "created": "2014-12-08T16:53:25.563040+00:00",
     "transformation_method": "affine",
     "mapID": "4bc4be56-d758-57bc-95cc-86e3b066bded",
     "affine_transformation": null,
-    "changed": "2014-12-08T16:53:25.563040+00:00",
+    "changed": "2023-03-24T16:12:11.545157+00:00",
     "gcps": [
       {
         "location": [
@@ -103,16 +103,6 @@
         "pixel": [
           5500,
           2286
-        ]
-      },
-      {
-        "location": [
-          14.659338367,
-          49.506845061
-        ],
-        "pixel": [
-          5488,
-          2924
         ]
       },
       {

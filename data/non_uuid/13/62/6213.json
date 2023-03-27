@@ -9,16 +9,16 @@
   "external_id": "6213",
   "title": "III. vojenské mapování 4153/3",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    14.333125,
-    49.498768,
-    14.585293,
-    49.624226
+    14.333524,
+    49.498463,
+    14.584476,
+    49.624363
   ],
   "reviewed": null,
   "publisher": null,
@@ -53,7 +53,7 @@
     "transformation_method": "affine",
     "mapID": "6d4ad8c3-e25b-54af-abd7-43fe96bdb750",
     "affine_transformation": null,
-    "changed": "2014-12-12T23:15:16.393720+00:00",
+    "changed": "2023-03-24T16:09:01.109746+00:00",
     "gcps": [
       {
         "location": [
@@ -63,16 +63,6 @@
         "pixel": [
           1177,
           8800
-        ]
-      },
-      {
-        "location": [
-          14.532266307,
-          49.573245687
-        ],
-        "pixel": [
-          9077,
-          3731
         ]
       },
       {
@@ -93,16 +83,6 @@
         "pixel": [
           5623,
           666
-        ]
-      },
-      {
-        "location": [
-          14.372894812,
-          49.591241127
-        ],
-        "pixel": [
-          1801,
-          2434
         ]
       },
       {
@@ -157,32 +137,12 @@
       },
       {
         "location": [
-          14.393365431,
-          49.512511702
-        ],
-        "pixel": [
-          2656,
-          7990
-        ]
-      },
-      {
-        "location": [
           14.367079782,
           49.519045411
         ],
         "pixel": [
           1587,
           7439
-        ]
-      },
-      {
-        "location": [
-          14.476256418,
-          49.515667216
-        ],
-        "pixel": [
-          6417,
-          7679
         ]
       },
       {
@@ -243,26 +203,6 @@
         "pixel": [
           2133,
           2048
-        ]
-      },
-      {
-        "location": [
-          14.34718852,
-          49.586984591
-        ],
-        "pixel": [
-          729,
-          2762
-        ]
-      },
-      {
-        "location": [
-          14.366135645,
-          49.511243866
-        ],
-        "pixel": [
-          1531,
-          8041
         ]
       }
     ]

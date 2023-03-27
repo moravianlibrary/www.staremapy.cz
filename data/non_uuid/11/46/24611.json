@@ -9,16 +9,16 @@
   "external_id": "24611",
   "title": "Podrobné mapy zemí Koruny české v měřítku 1:75.000 a mapa vzdáleností všech míst při silnici ležících - Tišnov - Blansko - Král. Pole. Průvodce statisticko-historický po všech místech na těchto mapách uvedených a rejstřík věcný názvů hor, potoků, řek, rybníků atd. Sešit 6. List 115,",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    16.333656,
-    49.19908,
-    16.733345,
-    49.39883
+    16.333641,
+    49.199085,
+    16.733112,
+    49.398922
   ],
   "reviewed": null,
   "publisher": null,
@@ -53,7 +53,7 @@
     "transformation_method": "affine",
     "mapID": "f81f72f7-194e-5880-8b5d-7d2d0a68b9c0",
     "affine_transformation": null,
-    "changed": "2021-08-21T12:22:47.593000+00:00",
+    "changed": "2023-03-24T16:10:21.943322+00:00",
     "gcps": [
       {
         "location": [
@@ -123,6 +123,16 @@
         "pixel": [
           6217,
           1340
+        ]
+      },
+      {
+        "location": [
+          16.63327297426391,
+          49.32298999494333
+        ],
+        "pixel": [
+          5139,
+          2531
         ]
       }
     ]

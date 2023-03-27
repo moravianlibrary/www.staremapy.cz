@@ -9,16 +9,16 @@
   "external_id": "uuid:d7b4bfae-1b3d-11e5-ac23-001b63bd97ba",
   "title": "Artaria's Eisenbahn- u. Post-Communications-Karte von Oesterreich-Ungarn 1895",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:3bf5a953-00c9-11e5-b939-0800200c9a66?page=uuid:d7b4bfae-1b3d-11e5-ac23-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": [
-    -13.85784,
-    35.484234,
-    32.239876,
-    58.76195
+    -13.905622,
+    35.419605,
+    31.92681,
+    58.713722
   ],
   "reviewed": null,
   "publisher": "Artaria & Comp",
@@ -29,35 +29,51 @@
   "georefereces": {
     "cutline": [
       [
-        494,
-        130
+        493,
+        128
       ],
       [
         574,
         119
       ],
       [
+        582,
+        116
+      ],
+      [
+        585,
+        110
+      ],
+      [
         600,
         98
       ],
       [
-        601,
+        600,
         353
       ],
       [
-        495,
-        355
+        493,
+        353
       ],
       [
-        494,
-        130
+        493,
+        266
+      ],
+      [
+        493,
+        166
+      ],
+      [
+        493,
+        128
       ]
     ],
     "created": "2022-06-25T14:21:59.223864+00:00",
     "transformation_method": "affine",
     "mapID": "361f6f9d-a97c-419b-809b-bde30cad599b",
     "affine_transformation": null,
-    "changed": "2022-06-25T14:37:52.896874+00:00",
+    "changed": "2023-03-22T13:07:49.104947+00:00",
     "gcps": [
       {
         "location": [
@@ -127,16 +143,6 @@
         "pixel": [
           561,
           241
-        ]
-      },
-      {
-        "location": [
-          13.656292062625576,
-          50.718645291704576
-        ],
-        "pixel": [
-          532,
-          145
         ]
       },
       {
@@ -287,6 +293,16 @@
         "pixel": [
           508,
           180
+        ]
+      },
+      {
+        "location": [
+          13.657196484594964,
+          50.72024266717483
+        ],
+        "pixel": [
+          538,
+          142
         ]
       }
     ]

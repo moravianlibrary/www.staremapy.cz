@@ -15,10 +15,10 @@
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    25.776882,
-    48.712856,
-    26.383675,
-    49.035263
+    25.631851,
+    48.895836,
+    26.421848,
+    48.975536
   ],
   "reviewed": null,
   "publisher": "K. u. k. Militärgeographisches Institut",
@@ -53,7 +53,7 @@
     "transformation_method": "affine",
     "mapID": "35abeec9-e1b0-57fa-afe2-4f3621188838",
     "affine_transformation": null,
-    "changed": "2015-11-05T16:52:47.740860+00:00",
+    "changed": "2023-03-20T23:10:29.131296+00:00",
     "gcps": [
       {
         "location": [
@@ -97,12 +97,32 @@
       },
       {
         "location": [
+          25.79548824421875,
+          49.11187137628801
+        ],
+        "pixel": [
+          1891,
+          2990
+        ]
+      },
+      {
+        "location": [
           25.997125989,
           48.843703074
         ],
         "pixel": [
           1032,
           1359
+        ]
+      },
+      {
+        "location": [
+          25.7487963496875,
+          49.08309712929861
+        ],
+        "pixel": [
+          -22,
+          -606
         ]
       }
     ]
