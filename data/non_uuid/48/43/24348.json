@@ -9,16 +9,16 @@
   "external_id": "24348",
   "title": "Indikační skica mapy stabilního katastru pro obec Poběžovice u Holic VIII.",
   "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    15.995045,
-    50.084175,
-    16.022924,
-    50.096153
+    15.995151,
+    50.08429,
+    16.022934,
+    50.09562
   ],
   "reviewed": null,
   "publisher": null,
@@ -41,8 +41,20 @@
         5926
       ],
       [
+        12149,
+        10514
+      ],
+      [
+        11238,
+        11054
+      ],
+      [
         8696,
         11038
+      ],
+      [
+        5452,
+        9709
       ],
       [
         1160,
@@ -57,7 +69,7 @@
     "transformation_method": "affine",
     "mapID": "9b55df12-4b14-5521-8644-39c6934983f9",
     "affine_transformation": null,
-    "changed": "2015-01-26T23:02:34.589710+00:00",
+    "changed": "2023-03-27T07:35:11.295105+00:00",
     "gcps": [
       {
         "location": [
@@ -101,16 +113,6 @@
       },
       {
         "location": [
-          15.998256087,
-          50.089259074
-        ],
-        "pixel": [
-          3234,
-          7019
-        ]
-      },
-      {
-        "location": [
           16.00321281,
           50.091489292
         ],
@@ -127,6 +129,16 @@
         "pixel": [
           10338,
           4347
+        ]
+      },
+      {
+        "location": [
+          15.998067627370977,
+          50.0891955065178
+        ],
+        "pixel": [
+          3234,
+          7019
         ]
       },
       {
@@ -167,16 +179,6 @@
         "pixel": [
           13346,
           4683
-        ]
-      },
-      {
-        "location": [
-          16.003126979,
-          50.096252251
-        ],
-        "pixel": [
-          5831,
-          1389
         ]
       },
       {
