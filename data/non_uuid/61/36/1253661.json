@@ -18,10 +18,10 @@
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    9.012097,
-    48.460297,
-    9.529015,
-    48.762627
+    9.011789,
+    48.460247,
+    9.529526,
+    48.7628
   ],
   "reviewed": null,
   "publisher": "Sportverlag Dieck",
@@ -56,7 +56,7 @@
     "transformation_method": "affine",
     "mapID": "6533ea49-1d2b-525f-978c-5f7e6ecd2209",
     "affine_transformation": null,
-    "changed": "2015-12-23T20:59:49.458690+00:00",
+    "changed": "2023-04-03T22:32:01.022093+00:00",
     "gcps": [
       {
         "location": [
@@ -226,6 +226,16 @@
         "pixel": [
           3181,
           501
+        ]
+      },
+      {
+        "location": [
+          9.4622611509422,
+          48.69681339498311
+        ],
+        "pixel": [
+          3080,
+          593
         ]
       },
       {
