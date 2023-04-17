@@ -15,10 +15,10 @@
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    12.333233,
-    41.76103,
-    12.632799,
-    42.02436
+    12.333432,
+    41.76102,
+    12.632848,
+    42.024334
   ],
   "reviewed": null,
   "publisher": "Istituto geografico militare",
@@ -53,18 +53,8 @@
     "transformation_method": "affine",
     "mapID": "4a64a9fd-9827-5774-af02-45464198e8b5",
     "affine_transformation": null,
-    "changed": "2015-11-05T17:41:27.072960+00:00",
+    "changed": "2023-04-13T19:57:00.921829+00:00",
     "gcps": [
-      {
-        "location": [
-          12.46635944,
-          41.903075741
-        ],
-        "pixel": [
-          1658,
-          2021
-        ]
-      },
       {
         "location": [
           12.362705736,
@@ -83,6 +73,16 @@
         "pixel": [
           2008,
           514
+        ]
+      },
+      {
+        "location": [
+          12.46623549147091,
+          41.90305215929419
+        ],
+        "pixel": [
+          1649,
+          2020
         ]
       },
       {
