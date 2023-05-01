@@ -13,12 +13,12 @@
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
+  "georeference_is_finished": true,
   "bounds": [
-    -66.7967,
-    -56.17,
-    128.672,
-    5.96556
+    -179.55467,
+    -50.96684,
+    176.75644,
+    -3.7029386
   ],
   "reviewed": null,
   "publisher": "Secretary of Agriculture",
@@ -29,32 +29,73 @@
   "georefereces": {
     "cutline": [
       [
-        3180,
-        0
+        3027,
+        281
       ],
       [
-        3180,
-        2453
+        3036,
+        2253
       ],
       [
-        0,
-        2453
+        130,
+        2253
       ],
       [
-        0,
-        0
+        145,
+        303
       ],
       [
-        3180,
-        0
+        3027,
+        281
       ]
     ],
     "created": "2014-08-19T15:37:07.214850+00:00",
     "transformation_method": "affine",
     "mapID": "3d1392ec-155a-5b41-8465-3f989d54e520",
     "affine_transformation": null,
-    "changed": "2021-01-14T19:56:19.711505+00:00",
-    "gcps": []
+    "changed": "2023-04-27T06:30:51.593821+00:00",
+    "gcps": [
+      {
+        "location": [
+          -76.00651521012811,
+          -13.633706049598715
+        ],
+        "pixel": [
+          2838,
+          632
+        ]
+      },
+      {
+        "location": [
+          -77.37802033005475,
+          -13.675958931163919
+        ],
+        "pixel": [
+          410,
+          498
+        ]
+      },
+      {
+        "location": [
+          146.7430734199452,
+          -35.68235420167714
+        ],
+        "pixel": [
+          1111,
+          1402
+        ]
+      },
+      {
+        "location": [
+          142.1727609199452,
+          -16.560465942732947
+        ],
+        "pixel": [
+          -105,
+          1043
+        ]
+      }
+    ]
   },
   "pubdate": ["1911"]
 }

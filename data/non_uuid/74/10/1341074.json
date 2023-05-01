@@ -13,12 +13,12 @@
   "contributor": "Prohaska",
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
+  "georeference_is_finished": true,
   "bounds": [
-    17.1044,
-    48.8661,
-    17.2969,
-    48.9428
+    -21.665623,
+    29.524492,
+    54.53548,
+    62.887688
   ],
   "reviewed": null,
   "publisher": "Mapová sbírka",
@@ -53,17 +53,39 @@
     "transformation_method": "affine",
     "mapID": "7217ba62-36a9-5e79-a31f-23cd7443fbb4",
     "affine_transformation": null,
-    "changed": "2022-03-05T04:14:12.273789+00:00",
-    "gcps": [{
-      "location": [
-        16.98053621000884,
-        49.154443553391644
-      ],
-      "pixel": [
-        1485,
-        1183
-      ]
-    }]
+    "changed": "2023-04-24T09:11:25.276243+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.200649999999996,
+          48.90502889085943
+        ],
+        "pixel": [
+          1479,
+          1139
+        ]
+      },
+      {
+        "location": [
+          14.898509422259965,
+          49.70575378292142
+        ],
+        "pixel": [
+          1574,
+          1157
+        ]
+      },
+      {
+        "location": [
+          16.98053621000884,
+          49.154443553391644
+        ],
+        "pixel": [
+          1485,
+          1183
+        ]
+      }
+    ]
   },
   "pubdate": ["1962"]
 }
