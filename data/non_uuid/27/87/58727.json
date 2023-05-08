@@ -15,10 +15,10 @@
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    7.9687734,
-    48.497753,
-    9.034912,
-    49.187576
+    7.935368,
+    48.509228,
+    9.193564,
+    49.191364
   ],
   "reviewed": null,
   "publisher": "Albrecht, Ignatz; Herausgegeben von F.I.I. Reilly",
@@ -69,7 +69,7 @@
     "transformation_method": "affine",
     "mapID": "0f91781c-8957-53fd-a085-469e5feaa960",
     "affine_transformation": null,
-    "changed": "2015-01-19T21:41:43.851870+00:00",
+    "changed": "2023-05-05T12:49:24.876623+00:00",
     "gcps": [
       {
         "location": [
@@ -219,6 +219,16 @@
         "pixel": [
           4387,
           2317
+        ]
+      },
+      {
+        "location": [
+          14.71385739959206,
+          50.029543108136295
+        ],
+        "pixel": [
+          33665,
+          314
         ]
       },
       {
