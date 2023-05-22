@@ -15,10 +15,10 @@
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    11.730204,
-    50.0187,
-    17.417868,
-    51.189735
+    11.730211,
+    50.018703,
+    17.417858,
+    51.18973
   ],
   "reviewed": null,
   "publisher": "Kriegshilfe",
@@ -53,8 +53,18 @@
     "transformation_method": "affine",
     "mapID": "4e3705f8-0ae1-5497-81e0-b007ccbb579a",
     "affine_transformation": null,
-    "changed": "2022-10-24T20:44:59.042242+00:00",
+    "changed": "2023-05-18T14:16:35.492340+00:00",
     "gcps": [
+      {
+        "location": [
+          16.600329637111674,
+          49.2275751387493
+        ],
+        "pixel": [
+          6642,
+          3335
+        ]
+      },
       {
         "location": [
           14.135912509856615,

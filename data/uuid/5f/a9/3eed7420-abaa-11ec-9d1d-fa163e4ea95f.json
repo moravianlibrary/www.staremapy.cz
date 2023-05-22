@@ -3,7 +3,7 @@
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://digitool.is.cuni.cz:5881/ImageServer/imageInfo.jsp?filename=L2V4bGlicmlzL2R0bC9zdG9yYWdlX21hcC8yMDE1LzEwLzAyL3ZpZXdfMS8xMzY3Njc4",
+  "image_url": "https://kramerius.cuni.cz/search/iiif/uuid:3eed7420-abaa-11ec-9d1d-fa163e4ea95f/info.json",
   "description": "Egypt",
   "scale": 100000,
   "external_id": "1367676",
@@ -22,30 +22,30 @@
   ],
   "reviewed": null,
   "publisher": "Survey of Egypt",
-  "link_url": "http://digitool.is.cuni.cz/R/?func=dbin-jump-full&object_id=1367676",
+  "link_url": "https://www.digitalniknihovna.cz/cuni/view/uuid:3deee176-abaa-11ec-9d1d-fa163e4ea95f?page=uuid:3eed7420-abaa-11ec-9d1d-fa163e4ea95f",
   "id": "429c2338-a1df-5de1-9af9-48a8012a0e69",
   "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        3000,
+        7610,
         0
       ],
       [
-        3000,
-        3966
+        7610,
+        10061
       ],
       [
         0,
-        3966
+        10061
       ],
       [
         0,
         0
       ],
       [
-        3000,
+        7610,
         0
       ]
     ],
@@ -53,15 +53,15 @@
     "transformation_method": "affine",
     "mapID": "429c2338-a1df-5de1-9af9-48a8012a0e69",
     "affine_transformation": null,
-    "changed": "2015-11-05T17:43:31.206630+00:00",
+    "changed": "2023-05-18T08:10:23.640496+00:00",
     "gcps": [{
       "location": [
         16.983173331709736,
         49.503378409611116
       ],
       "pixel": [
-        1686,
-        2359
+        4277,
+        5984
       ]
     }]
   },
