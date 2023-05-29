@@ -15,10 +15,10 @@
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    -3.120238,
-    -70.81958,
-    61.223686,
-    -62.7375
+    10.82562,
+    -76.40049,
+    96.08491,
+    -21.30486
   ],
   "reviewed": null,
   "publisher": "Admiralty",
@@ -53,7 +53,7 @@
     "transformation_method": "affine",
     "mapID": "e9239905-7bc8-58c3-8bb7-4bd61ee471d2",
     "affine_transformation": null,
-    "changed": "2022-05-03T20:24:42.977036+00:00",
+    "changed": "2023-05-27T10:45:57.975582+00:00",
     "gcps": [
       {
         "location": [
@@ -93,6 +93,16 @@
         "pixel": [
           3657,
           1493
+        ]
+      },
+      {
+        "location": [
+          48.10772483431654,
+          -61.12921316118869
+        ],
+        "pixel": [
+          2123,
+          1123
         ]
       }
     ]
