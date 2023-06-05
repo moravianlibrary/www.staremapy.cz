@@ -15,10 +15,10 @@
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    124.44285,
-    33.787483,
-    129.64671,
-    41.621006
+    124.46893,
+    33.788563,
+    129.69482,
+    41.612774
   ],
   "reviewed": null,
   "publisher": "Justus Perthes",
@@ -177,7 +177,7 @@
     "transformation_method": "affine",
     "mapID": "5138d22b-d651-5fec-9021-d8480cb66d88",
     "affine_transformation": null,
-    "changed": "2022-11-18T06:07:43.841545+00:00",
+    "changed": "2023-05-29T14:07:38.289760+00:00",
     "gcps": [
       {
         "location": [
@@ -271,6 +271,16 @@
       },
       {
         "location": [
+          125.74370387862498,
+          39.0189626855024
+        ],
+        "pixel": [
+          584,
+          1321
+        ]
+      },
+      {
+        "location": [
           127.361856934,
           39.238414947
         ],
@@ -297,16 +307,6 @@
         "pixel": [
           1805,
           3400
-        ]
-      },
-      {
-        "location": [
-          125.235169964,
-          39.632676057
-        ],
-        "pixel": [
-          572,
-          1069
         ]
       },
       {
