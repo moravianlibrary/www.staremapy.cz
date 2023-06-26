@@ -15,10 +15,10 @@
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    15.01296,
-    51.106014,
-    17.309805,
-    52.361187
+    15.013368,
+    51.106094,
+    17.309738,
+    52.361164
   ],
   "reviewed": null,
   "publisher": "Militärgeographisches Institut",
@@ -53,7 +53,7 @@
     "transformation_method": "affine",
     "mapID": "b6183b31-47a5-53d5-aa85-1179c1460f31",
     "affine_transformation": null,
-    "changed": "2015-11-05T15:54:04.409460+00:00",
+    "changed": "2023-06-24T14:05:00.430845+00:00",
     "gcps": [
       {
         "location": [
@@ -103,6 +103,16 @@
         "pixel": [
           334,
           1428
+        ]
+      },
+      {
+        "location": [
+          15.666565414812492,
+          51.68369225755879
+        ],
+        "pixel": [
+          758,
+          1301
         ]
       }
     ]
