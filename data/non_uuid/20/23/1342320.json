@@ -13,12 +13,12 @@
   "contributor": "Machač, František",
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
+  "georeference_is_finished": true,
   "bounds": [
-    -27.8283,
-    33.8272,
-    40.0933,
-    71.5314
+    -178.73407,
+    9.942051,
+    178.58482,
+    79.85322
   ],
   "reviewed": null,
   "publisher": "Státní ústav meteorologický",
@@ -53,8 +53,69 @@
     "transformation_method": "affine",
     "mapID": "a9b1d0d0-d720-5236-b438-f39110b2c82a",
     "affine_transformation": null,
-    "changed": "2022-04-12T06:19:34.508396+00:00",
-    "gcps": []
+    "changed": "2023-07-01T20:32:27.939065+00:00",
+    "gcps": [
+      {
+        "location": [
+          28.810388928854454,
+          70.08695054602438
+        ],
+        "pixel": [
+          897,
+          256
+        ]
+      },
+      {
+        "location": [
+          7.963774427836588,
+          58.15792662852837
+        ],
+        "pixel": [
+          590,
+          667
+        ]
+      },
+      {
+        "location": [
+          -1.3386283359040572,
+          60.34230037334831
+        ],
+        "pixel": [
+          471,
+          573
+        ]
+      },
+      {
+        "location": [
+          1.758559537587112,
+          52.4903672524793
+        ],
+        "pixel": [
+          473,
+          826
+        ]
+      },
+      {
+        "location": [
+          -1.9614316627838801,
+          43.30129944839635
+        ],
+        "pixel": [
+          353,
+          1080
+        ]
+      },
+      {
+        "location": [
+          -5.372901606648332,
+          36.03043897009046
+        ],
+        "pixel": [
+          211,
+          1301
+        ]
+      }
+    ]
   },
   "pubdate": ["1937"]
 }

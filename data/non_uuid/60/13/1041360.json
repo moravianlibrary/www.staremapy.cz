@@ -15,10 +15,10 @@
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    15.181516,
-    50.018677,
-    15.225694,
-    50.038845
+    15.177405,
+    50.01876,
+    15.227484,
+    50.038372
   ],
   "reviewed": null,
   "publisher": "Fr. Šindelíř",
@@ -53,18 +53,8 @@
     "transformation_method": "affine",
     "mapID": "686751ef-1f2a-5f0d-8c1b-88aa8185ce1d",
     "affine_transformation": null,
-    "changed": "2015-03-04T10:15:19.841620+00:00",
+    "changed": "2023-07-02T08:45:49.692710+00:00",
     "gcps": [
-      {
-        "location": [
-          15.187163311,
-          50.026945594
-        ],
-        "pixel": [
-          507,
-          1124
-        ]
-      },
       {
         "location": [
           15.202403622,
@@ -93,6 +83,16 @@
         "pixel": [
           1576,
           694
+        ]
+      },
+      {
+        "location": [
+          15.187163311,
+          50.026945594
+        ],
+        "pixel": [
+          649,
+          1077
         ]
       },
       {
