@@ -13,8 +13,13 @@
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
-  "bounds": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -121.103386,
+    38.605774,
+    -120.45182,
+    39.44188
+  ],
   "reviewed": null,
   "publisher": null,
   "link_url": "http://chartae-antiquae.cz/maps/34999",
@@ -52,7 +57,7 @@
     "transformation_method": "affine",
     "mapID": "6173e285-a421-51ce-a976-31abff963518",
     "affine_transformation": null,
-    "changed": "2022-07-18T16:37:05.386712+00:00",
+    "changed": "2023-07-05T20:12:13.882378+00:00",
     "gcps": []
   },
   "pubdate": [null]
