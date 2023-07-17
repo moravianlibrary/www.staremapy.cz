@@ -15,10 +15,10 @@
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    -9.425259,
-    38.24165,
-    33.749985,
-    59.321697
+    -9.109921,
+    36.60113,
+    50.43727,
+    50.107555
   ],
   "reviewed": null,
   "publisher": "Expedition v. Barthol's Coursbuch",
@@ -77,7 +77,7 @@
     "transformation_method": "affine",
     "mapID": "deba750d-7d3b-54a0-ae68-21dee57ede12",
     "affine_transformation": null,
-    "changed": "2016-01-08T13:42:54.677320+00:00",
+    "changed": "2023-07-12T11:47:14.639961+00:00",
     "gcps": [
       {
         "location": [
@@ -117,6 +117,46 @@
         "pixel": [
           1808,
           765
+        ]
+      },
+      {
+        "location": [
+          47.97794606566488,
+          37.780319566987814
+        ],
+        "pixel": [
+          1927,
+          4880
+        ]
+      },
+      {
+        "location": [
+          39.551685624273254,
+          39.79790694094277
+        ],
+        "pixel": [
+          2327,
+          3556
+        ]
+      },
+      {
+        "location": [
+          39.6009905244475,
+          31.416600625643255
+        ],
+        "pixel": [
+          -3472,
+          48635
+        ]
+      },
+      {
+        "location": [
+          47.52363862887188,
+          29.1537839942074
+        ],
+        "pixel": [
+          2121,
+          7473
         ]
       }
     ]

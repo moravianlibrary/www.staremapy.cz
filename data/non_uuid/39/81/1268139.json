@@ -15,10 +15,10 @@
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    21.32812,
-    48.87017,
-    21.584644,
-    49.00563
+    21.328245,
+    48.869915,
+    21.58452,
+    49.005886
   ],
   "reviewed": null,
   "publisher": "Vojenský zeměpisný ústav",
@@ -53,7 +53,7 @@
     "transformation_method": "affine",
     "mapID": "641a0420-ca4f-507e-b4e5-463dd04f7106",
     "affine_transformation": null,
-    "changed": "2015-11-05T16:17:48.901020+00:00",
+    "changed": "2023-07-12T18:26:49.581758+00:00",
     "gcps": [
       {
         "location": [
@@ -83,6 +83,16 @@
         "pixel": [
           2341,
           509
+        ]
+      },
+      {
+        "location": [
+          35.823127406747815,
+          32.608644808236306
+        ],
+        "pixel": [
+          185084,
+          248657
         ]
       },
       {
