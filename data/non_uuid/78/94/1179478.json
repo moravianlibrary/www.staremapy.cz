@@ -15,10 +15,10 @@
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    19.777294,
-    51.737526,
-    29.389885,
-    57.477474
+    19.762959,
+    51.727165,
+    29.395481,
+    57.493153
   ],
   "reviewed": null,
   "publisher": "Gebethner & Wolff",
@@ -53,7 +53,7 @@
     "transformation_method": "affine",
     "mapID": "9bcdca29-25d1-504a-b044-02b2a0d97af5",
     "affine_transformation": null,
-    "changed": "2014-08-19T15:39:27.598930+00:00",
+    "changed": "2023-07-26T11:34:27.674709+00:00",
     "gcps": [
       {
         "location": [
@@ -113,6 +113,16 @@
         "pixel": [
           304,
           999
+        ]
+      },
+      {
+        "location": [
+          21.064154957437584,
+          56.06843246001603
+        ],
+        "pixel": [
+          276,
+          831
         ]
       }
     ]

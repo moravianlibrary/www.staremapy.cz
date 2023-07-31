@@ -15,10 +15,10 @@
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    6.46455,
-    -79.998245,
-    22.359827,
-    87.34923
+    6.285212,
+    -80.05136,
+    22.573402,
+    87.36128
   ],
   "reviewed": null,
   "publisher": "Franz Xaver Miller",
@@ -53,7 +53,7 @@
     "transformation_method": "affine",
     "mapID": "7c3b0e36-2886-539f-9c5e-da56db3be743",
     "affine_transformation": null,
-    "changed": "2022-01-03T19:12:43.786975+00:00",
+    "changed": "2023-07-25T00:50:55.060286+00:00",
     "gcps": [
       {
         "location": [
@@ -83,6 +83,16 @@
         "pixel": [
           0,
           1345
+        ]
+      },
+      {
+        "location": [
+          14.098725146103028,
+          50.53956278627152
+        ],
+        "pixel": [
+          953,
+          1413
         ]
       }
     ]
