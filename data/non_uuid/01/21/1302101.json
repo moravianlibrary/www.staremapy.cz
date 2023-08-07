@@ -18,10 +18,10 @@
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    6.6803613,
-    47.36262,
-    8.048029,
-    49.248367
+    8.068903,
+    47.568874,
+    10.534224,
+    49.336166
   ],
   "reviewed": null,
   "publisher": "Michelin",
@@ -56,7 +56,7 @@
     "transformation_method": "affine",
     "mapID": "8b2fb788-a3b0-5089-9826-cc1a2b700f71",
     "affine_transformation": null,
-    "changed": "2015-11-05T16:48:06.136400+00:00",
+    "changed": "2023-08-04T12:08:00.153305+00:00",
     "gcps": [
       {
         "location": [
@@ -76,6 +76,16 @@
         "pixel": [
           511,
           511
+        ]
+      },
+      {
+        "location": [
+          17.58192764807183,
+          49.01220153967509
+        ],
+        "pixel": [
+          1565,
+          3080
         ]
       },
       {
