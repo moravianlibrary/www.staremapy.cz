@@ -1,0 +1,111 @@
+{
+  "date": ["1906"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:cc3603fa-8fe5-11ec-8a21-fa163e4ea95f?page=uuid%3Acd0e5b74-8fe5-11ec-8a21-fa163e4ea95f",
+  "description": "Rakousko-Uhersko",
+  "scale": 75000,
+  "external_id": "1213982",
+  "title": "[Geologische Spezialkarte der im Reichsrate vertretenen Königreiche und Länder der Österreichisch-Ungarischen Monarchie]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.77462,
+    45.972942,
+    14.398527,
+    46.257504
+  ],
+  "reviewed": null,
+  "publisher": "der K. k. geologischen Reichsanstalt",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:cc3603fa-8fe5-11ec-8a21-fa163e4ea95f",
+  "id": "dc8e3c53-f09c-5691-82ce-955d7d42d8df",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T15:56:39.482900+00:00",
+    "transformation_method": "affine",
+    "mapID": "dc8e3c53-f09c-5691-82ce-955d7d42d8df",
+    "affine_transformation": null,
+    "changed": "2015-11-05T15:56:39.482900+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.298244467,
+          46.022809078
+        ],
+        "pixel": [
+          505,
+          366
+        ]
+      },
+      {
+        "location": [
+          13.904162292,
+          46.150682136
+        ],
+        "pixel": [
+          123,
+          167
+        ]
+      },
+      {
+        "location": [
+          14.14280509,
+          46.104160584
+        ],
+        "pixel": [
+          355,
+          238
+        ]
+      },
+      {
+        "location": [
+          14.109760275,
+          46.046762453
+        ],
+        "pixel": [
+          323,
+          328
+        ]
+      },
+      {
+        "location": [
+          13.903739939,
+          46.024180236
+        ],
+        "pixel": [
+          124,
+          363
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1906"]
+}

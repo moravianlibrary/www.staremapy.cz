@@ -1,0 +1,131 @@
+{
+  "date": ["1913"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:a9ac1e90-8ff5-11ec-a077-fa163e4ea95f?page=uuid%3Aaa8268ec-8ff5-11ec-a077-fa163e4ea95f",
+  "description": "Württembersko (Německo)",
+  "scale": 350000,
+  "external_id": "1214719",
+  "title": "Siedlungs-Karte des Königreichs Württenberg und der Hohenzollernschen Lande",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    8.015992,
+    47.367428,
+    10.642485,
+    49.71978
+  ],
+  "reviewed": null,
+  "publisher": "Königliches Statistisches Landesamt",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:a9ac1e90-8ff5-11ec-a077-fa163e4ea95f",
+  "id": "5cbf97c6-5f89-5491-b9b1-63bb34acc64f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T15:59:01.798230+00:00",
+    "transformation_method": "affine",
+    "mapID": "5cbf97c6-5f89-5491-b9b1-63bb34acc64f",
+    "affine_transformation": null,
+    "changed": "2015-11-05T15:59:01.798230+00:00",
+    "gcps": [
+      {
+        "location": [
+          8.340381763438614,
+          48.22862008189992
+        ],
+        "pixel": [
+          73,
+          282
+        ]
+      },
+      {
+        "location": [
+          9.554183596605874,
+          47.58769261159475
+        ],
+        "pixel": [
+          352,
+          406
+        ]
+      },
+      {
+        "location": [
+          8.441292610802831,
+          48.5381839075969
+        ],
+        "pixel": [
+          95,
+          223
+        ]
+      },
+      {
+        "location": [
+          9.996183694982884,
+          48.39618708857316
+        ],
+        "pixel": [
+          454,
+          251
+        ]
+      },
+      {
+        "location": [
+          8.801220830124107,
+          49.06434501963088
+        ],
+        "pixel": [
+          180,
+          125
+        ]
+      },
+      {
+        "location": [
+          10.068227638911194,
+          49.53259308732319
+        ],
+        "pixel": [
+          466,
+          36
+        ]
+      },
+      {
+        "location": [
+          9.251902706374567,
+          49.24063020565012
+        ],
+        "pixel": [
+          284,
+          91
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1913"]
+}

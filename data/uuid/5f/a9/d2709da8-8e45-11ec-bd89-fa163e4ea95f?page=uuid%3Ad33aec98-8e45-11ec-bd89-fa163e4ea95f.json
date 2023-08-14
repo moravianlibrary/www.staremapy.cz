@@ -1,0 +1,121 @@
+{
+  "date": ["1874"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:d2709da8-8e45-11ec-bd89-fa163e4ea95f?page=uuid%3Ad33aec98-8e45-11ec-bd89-fa163e4ea95f",
+  "description": "Głogów (Polsko : oblast)",
+  "scale": 300000,
+  "external_id": "1207941",
+  "title": "Glogau",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.013368,
+    51.106094,
+    17.309738,
+    52.361164
+  ],
+  "reviewed": null,
+  "publisher": "Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:d2709da8-8e45-11ec-bd89-fa163e4ea95f",
+  "id": "b6183b31-47a5-53d5-aa85-1179c1460f31",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T15:54:04.409460+00:00",
+    "transformation_method": "affine",
+    "mapID": "b6183b31-47a5-53d5-aa85-1179c1460f31",
+    "affine_transformation": null,
+    "changed": "2023-06-24T14:05:00.430845+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.622620102312501,
+          52.08698591493945
+        ],
+        "pixel": [
+          161,
+          96
+        ]
+      },
+      {
+        "location": [
+          16.160471422299743,
+          51.207996632986465
+        ],
+        "pixel": [
+          297,
+          408
+        ]
+      },
+      {
+        "location": [
+          16.841330048,
+          51.607027102
+        ],
+        "pixel": [
+          480,
+          268
+        ]
+      },
+      {
+        "location": [
+          16.654047485,
+          52.086774955
+        ],
+        "pixel": [
+          432,
+          98
+        ]
+      },
+      {
+        "location": [
+          15.315775391,
+          51.617153978
+        ],
+        "pixel": [
+          74,
+          264
+        ]
+      },
+      {
+        "location": [
+          15.666565414812492,
+          51.68369225755879
+        ],
+        "pixel": [
+          168,
+          240
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1874"]
+}

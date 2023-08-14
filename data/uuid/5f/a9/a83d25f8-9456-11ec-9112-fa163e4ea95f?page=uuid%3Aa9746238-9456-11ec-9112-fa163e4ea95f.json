@@ -1,0 +1,111 @@
+{
+  "date": ["1891"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:a83d25f8-9456-11ec-9112-fa163e4ea95f?page=uuid%3Aa9746238-9456-11ec-9112-fa163e4ea95f",
+  "description": "Vinnycja (Ukrajina : oblast)",
+  "scale": 200000,
+  "external_id": "1254659",
+  "title": "46°49° Winnica",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    27.726995,
+    48.41494,
+    28.977776,
+    49.552277
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:a83d25f8-9456-11ec-9112-fa163e4ea95f",
+  "id": "4bb29fc2-4d9e-5b63-be4b-54884ea842bd",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:14:29.004780+00:00",
+    "transformation_method": "affine",
+    "mapID": "4bb29fc2-4d9e-5b63-be4b-54884ea842bd",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:14:29.004780+00:00",
+    "gcps": [
+      {
+        "location": [
+          28.75963013,
+          48.520175687
+        ],
+        "pixel": [
+          504,
+          403
+        ]
+      },
+      {
+        "location": [
+          28.786943663,
+          48.912510097
+        ],
+        "pixel": [
+          510,
+          250
+        ]
+      },
+      {
+        "location": [
+          28.463428424,
+          49.233926716
+        ],
+        "pixel": [
+          352,
+          124
+        ]
+      },
+      {
+        "location": [
+          28.047492907,
+          48.552442274
+        ],
+        "pixel": [
+          154,
+          392
+        ]
+      },
+      {
+        "location": [
+          28.043529048,
+          49.402869142
+        ],
+        "pixel": [
+          147,
+          59
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1891"]
+}

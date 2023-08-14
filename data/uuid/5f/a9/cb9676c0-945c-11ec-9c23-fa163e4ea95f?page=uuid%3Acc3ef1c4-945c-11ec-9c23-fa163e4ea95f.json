@@ -1,0 +1,111 @@
+{
+  "date": ["1913"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:cb9676c0-945c-11ec-9c23-fa163e4ea95f?page=uuid%3Acc3ef1c4-945c-11ec-9c23-fa163e4ea95f",
+  "description": "Moldávie (historické území)",
+  "scale": 200000,
+  "external_id": "1254836",
+  "title": "45°48° Mogilew",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    26.816004,
+    47.499226,
+    27.839823,
+    48.50233
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:cb9676c0-945c-11ec-9c23-fa163e4ea95f",
+  "id": "f0cb33ac-054b-5910-a15e-9d2d56e933e9",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        50,
+        408
+      ],
+      [
+        551,
+        408
+      ],
+      [
+        543,
+        25
+      ],
+      [
+        52,
+        25
+      ],
+      [
+        50,
+        408
+      ]
+    ],
+    "created": "2017-07-10T22:39:41.686320+00:00",
+    "transformation_method": "affine",
+    "mapID": "f0cb33ac-054b-5910-a15e-9d2d56e933e9",
+    "affine_transformation": null,
+    "changed": "2017-07-10T22:39:41.686320+00:00",
+    "gcps": [
+      {
+        "location": [
+          27.51694463103839,
+          47.77324331258549
+        ],
+        "pixel": [
+          393,
+          305
+        ]
+      },
+      {
+        "location": [
+          27.779755437,
+          48.448728118
+        ],
+        "pixel": [
+          514,
+          45
+        ]
+      },
+      {
+        "location": [
+          26.850981557,
+          48.234503489
+        ],
+        "pixel": [
+          62,
+          128
+        ]
+      },
+      {
+        "location": [
+          27.260908925,
+          47.668909798
+        ],
+        "pixel": [
+          268,
+          344
+        ]
+      },
+      {
+        "location": [
+          27.200441205,
+          47.790147765
+        ],
+        "pixel": [
+          233,
+          297
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1913"]
+}

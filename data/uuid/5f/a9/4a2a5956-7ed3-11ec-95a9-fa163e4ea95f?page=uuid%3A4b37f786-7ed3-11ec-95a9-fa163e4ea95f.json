@@ -1,0 +1,111 @@
+{
+  "date": ["1927"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:4a2a5956-7ed3-11ec-95a9-fa163e4ea95f?page=uuid%3A4b37f786-7ed3-11ec-95a9-fa163e4ea95f",
+  "description": "Teplice (Česko : oblast)",
+  "scale": 100000,
+  "external_id": "1169432",
+  "title": "Sayda-Teplitz-Aussig",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.270449,
+    50.408367,
+    14.391399,
+    50.80788
+  ],
+  "reviewed": null,
+  "publisher": "Reichsamt für Landesaufnahme-Reichskartenstelle",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:4a2a5956-7ed3-11ec-95a9-fa163e4ea95f",
+  "id": "e54521fc-605a-518c-b620-d5ef19f8bc6d",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T15:45:58.215930+00:00",
+    "transformation_method": "affine",
+    "mapID": "e54521fc-605a-518c-b620-d5ef19f8bc6d",
+    "affine_transformation": null,
+    "changed": "2015-11-05T15:45:58.215930+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.786132529,
+          50.537838576
+        ],
+        "pixel": [
+          275,
+          302
+        ]
+      },
+      {
+        "location": [
+          14.170654013,
+          50.673693319
+        ],
+        "pixel": [
+          483,
+          148
+        ]
+      },
+      {
+        "location": [
+          13.867884584,
+          50.742683666
+        ],
+        "pixel": [
+          320,
+          73
+        ]
+      },
+      {
+        "location": [
+          13.425815298,
+          50.709932925
+        ],
+        "pixel": [
+          83,
+          108
+        ]
+      },
+      {
+        "location": [
+          14.239319084,
+          50.504794403
+        ],
+        "pixel": [
+          519,
+          335
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1927"]
+}

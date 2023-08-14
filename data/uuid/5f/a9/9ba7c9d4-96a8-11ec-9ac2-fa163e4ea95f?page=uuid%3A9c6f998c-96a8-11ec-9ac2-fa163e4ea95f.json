@@ -1,0 +1,121 @@
+{
+  "date": ["1912"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:9ba7c9d4-96a8-11ec-9ac2-fa163e4ea95f?page=uuid%3A9c6f998c-96a8-11ec-9ac2-fa163e4ea95f",
+  "description": null,
+  "scale": 200000,
+  "external_id": "1271808",
+  "title": "38°41° Elbasan",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    19.832026,
+    40.494106,
+    20.836239,
+    41.509876
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:9ba7c9d4-96a8-11ec-9ac2-fa163e4ea95f",
+  "id": "ed991a4e-6f74-510f-8801-ece7df0a6769",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        54,
+        39
+      ],
+      [
+        544,
+        39
+      ],
+      [
+        555,
+        398
+      ],
+      [
+        55,
+        397
+      ],
+      [
+        54,
+        39
+      ]
+    ],
+    "created": "2017-10-04T05:58:44.958320+00:00",
+    "transformation_method": "affine",
+    "mapID": "ed991a4e-6f74-510f-8801-ece7df0a6769",
+    "affine_transformation": null,
+    "changed": "2017-10-04T05:58:44.958320+00:00",
+    "gcps": [
+      {
+        "location": [
+          20.004954522,
+          40.987254493
+        ],
+        "pixel": [
+          121,
+          224
+        ]
+      },
+      {
+        "location": [
+          19.944744294,
+          40.703125247
+        ],
+        "pixel": [
+          113,
+          326
+        ]
+      },
+      {
+        "location": [
+          20.783481782,
+          40.615746573
+        ],
+        "pixel": [
+          532,
+          354
+        ]
+      },
+      {
+        "location": [
+          20.67579243,
+          41.176774672
+        ],
+        "pixel": [
+          463,
+          155
+        ]
+      },
+      {
+        "location": [
+          20.08194465,
+          41.098016588
+        ],
+        "pixel": [
+          178,
+          184
+        ]
+      },
+      {
+        "location": [
+          20.63237283,
+          41.049322067
+        ],
+        "pixel": [
+          460,
+          205
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1912"]
+}

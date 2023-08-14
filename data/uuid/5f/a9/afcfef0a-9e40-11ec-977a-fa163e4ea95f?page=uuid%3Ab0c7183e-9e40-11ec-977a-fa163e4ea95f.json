@@ -1,0 +1,131 @@
+{
+  "date": ["1934"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:afcfef0a-9e40-11ec-977a-fa163e4ea95f?page=uuid%3Ab0c7183e-9e40-11ec-977a-fa163e4ea95f",
+  "description": "Kutná Hora (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1304776",
+  "title": "Kutná Hora",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.780529,
+    49.72394,
+    15.380578,
+    50.027176
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:afcfef0a-9e40-11ec-977a-fa163e4ea95f",
+  "id": "6552a66e-d30b-58d1-a33c-ad87db3029b7",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:51:28.489330+00:00",
+    "transformation_method": "affine",
+    "mapID": "6552a66e-d30b-58d1-a33c-ad87db3029b7",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:51:28.489330+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.064073925781244,
+          49.88102471398841
+        ],
+        "pixel": [
+          284,
+          215
+        ]
+      },
+      {
+        "location": [
+          15.107250558809985,
+          49.90027271437492
+        ],
+        "pixel": [
+          326,
+          185
+        ]
+      },
+      {
+        "location": [
+          15.081372606234304,
+          49.89908406659771
+        ],
+        "pixel": [
+          301,
+          187
+        ]
+      },
+      {
+        "location": [
+          15.03368986206054,
+          49.912539591677444
+        ],
+        "pixel": [
+          253,
+          168
+        ]
+      },
+      {
+        "location": [
+          15.113773691134211,
+          49.91508688965621
+        ],
+        "pixel": [
+          334,
+          164
+        ]
+      },
+      {
+        "location": [
+          14.848518796204658,
+          49.90238342520223
+        ],
+        "pixel": [
+          68,
+          182
+        ]
+      },
+      {
+        "location": [
+          14.88066238903912,
+          49.92429809320237
+        ],
+        "pixel": [
+          100,
+          151
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1934"]
+}

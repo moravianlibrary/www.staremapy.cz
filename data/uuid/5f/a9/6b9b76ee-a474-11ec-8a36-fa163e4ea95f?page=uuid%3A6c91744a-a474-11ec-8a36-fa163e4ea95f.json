@@ -1,0 +1,121 @@
+{
+  "date": ["1895"],
+  "creator": "Frič, Antonín",
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:6b9b76ee-a474-11ec-8a36-fa163e4ea95f?page=uuid%3A6c91744a-a474-11ec-8a36-fa163e4ea95f",
+  "description": "Liberec (Česko : oblast)",
+  "scale": 200000,
+  "external_id": "1335583",
+  "title": "Geologische Karte von Böhmen",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Laube, Gustav Carl",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.348686,
+    50.127666,
+    15.495236,
+    51.158646
+  ],
+  "reviewed": null,
+  "publisher": "F. Řivnáč",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:6b9b76ee-a474-11ec-8a36-fa163e4ea95f",
+  "id": "ade468b5-7ee7-5956-9ba9-7b1350230700",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:22:09.170780+00:00",
+    "transformation_method": "affine",
+    "mapID": "ade468b5-7ee7-5956-9ba9-7b1350230700",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:22:09.170780+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.82481499,
+          50.641553187
+        ],
+        "pixel": [
+          131,
+          218
+        ]
+      },
+      {
+        "location": [
+          15.058030322,
+          50.770269658
+        ],
+        "pixel": [
+          482,
+          171
+        ]
+      },
+      {
+        "location": [
+          15.1762335,
+          50.4674179
+        ],
+        "pixel": [
+          513,
+          306
+        ]
+      },
+      {
+        "location": [
+          14.453097576,
+          51.003492623
+        ],
+        "pixel": [
+          313,
+          63
+        ]
+      },
+      {
+        "location": [
+          14.125909045,
+          50.40428988
+        ],
+        "pixel": [
+          213,
+          327
+        ]
+      },
+      {
+        "location": [
+          14.131745532,
+          50.53387394
+        ],
+        "pixel": [
+          216,
+          270
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1895"]
+}

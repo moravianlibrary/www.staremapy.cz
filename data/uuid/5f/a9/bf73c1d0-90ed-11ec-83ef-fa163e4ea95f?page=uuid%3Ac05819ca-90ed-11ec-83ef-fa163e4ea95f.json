@@ -1,0 +1,121 @@
+{
+  "date": ["1881"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:bf73c1d0-90ed-11ec-83ef-fa163e4ea95f?page=uuid%3Ac05819ca-90ed-11ec-83ef-fa163e4ea95f",
+  "description": "Basilej-oblast (Švýcarsko)",
+  "scale": 300000,
+  "external_id": "1240444",
+  "title": "Basel",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    7.368842,
+    47.339375,
+    9.480617,
+    48.602222
+  ],
+  "reviewed": null,
+  "publisher": "Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:bf73c1d0-90ed-11ec-83ef-fa163e4ea95f",
+  "id": "9f44528b-5aca-5d24-8c96-4f069be8a86a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        24,
+        19
+      ],
+      [
+        579,
+        17
+      ],
+      [
+        576,
+        422
+      ],
+      [
+        24,
+        424
+      ],
+      [
+        24,
+        19
+      ]
+    ],
+    "created": "2017-11-03T07:01:01.703430+00:00",
+    "transformation_method": "affine",
+    "mapID": "9f44528b-5aca-5d24-8c96-4f069be8a86a",
+    "affine_transformation": null,
+    "changed": "2017-11-03T07:01:01.703430+00:00",
+    "gcps": [
+      {
+        "location": [
+          7.44237896,
+          48.26146964
+        ],
+        "pixel": [
+          38,
+          92
+        ]
+      },
+      {
+        "location": [
+          7.542629204,
+          47.814984252
+        ],
+        "pixel": [
+          40,
+          256
+        ]
+      },
+      {
+        "location": [
+          7.578506432,
+          48.019424363
+        ],
+        "pixel": [
+          60,
+          181
+        ]
+      },
+      {
+        "location": [
+          7.93230053,
+          48.494866766
+        ],
+        "pixel": [
+          184,
+          22
+        ]
+      },
+      {
+        "location": [
+          9.433571815,
+          47.515401056
+        ],
+        "pixel": [
+          565,
+          410
+        ]
+      },
+      {
+        "location": [
+          9.176766396,
+          47.666136181
+        ],
+        "pixel": [
+          499,
+          350
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1881"]
+}

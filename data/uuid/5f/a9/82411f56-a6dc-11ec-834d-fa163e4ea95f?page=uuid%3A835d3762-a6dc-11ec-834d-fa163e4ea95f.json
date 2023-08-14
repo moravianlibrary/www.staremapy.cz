@@ -1,0 +1,105 @@
+{
+  "date": ["1914"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:82411f56-a6dc-11ec-834d-fa163e4ea95f?page=uuid%3A835d3762-a6dc-11ec-834d-fa163e4ea95f",
+  "description": "Chiusa (Bolzano, Itálie)",
+  "scale": 75000,
+  "external_id": "1342011",
+  "title": "Klausen",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    11.335943,
+    46.497364,
+    11.833252,
+    46.75458
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:82411f56-a6dc-11ec-834d-fa163e4ea95f",
+  "id": "9b281861-e5b9-59b7-968b-07c4902ecbf4",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        42,
+        29
+      ],
+      [
+        558,
+        28
+      ],
+      [
+        561,
+        403
+      ],
+      [
+        43,
+        403
+      ],
+      [
+        43,
+        401
+      ],
+      [
+        42,
+        29
+      ]
+    ],
+    "created": "2016-07-10T20:22:18.390630+00:00",
+    "transformation_method": "affine",
+    "mapID": "9b281861-e5b9-59b7-968b-07c4902ecbf4",
+    "affine_transformation": null,
+    "changed": "2023-01-08T21:11:01.275257+00:00",
+    "gcps": [
+      {
+        "location": [
+          11.71355870315107,
+          46.55921648029741
+        ],
+        "pixel": [
+          439,
+          314
+        ]
+      },
+      {
+        "location": [
+          11.657040119,
+          46.715913496
+        ],
+        "pixel": [
+          373,
+          83
+        ]
+      },
+      {
+        "location": [
+          11.566422939,
+          46.639933357
+        ],
+        "pixel": [
+          279,
+          200
+        ]
+      },
+      {
+        "location": [
+          11.530402691374432,
+          46.596042477889455
+        ],
+        "pixel": [
+          245,
+          256
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1914"]
+}

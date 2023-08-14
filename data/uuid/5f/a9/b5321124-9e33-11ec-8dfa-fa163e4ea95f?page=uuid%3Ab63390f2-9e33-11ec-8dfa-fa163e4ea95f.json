@@ -1,0 +1,111 @@
+{
+  "date": ["1930"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:b5321124-9e33-11ec-8dfa-fa163e4ea95f?page=uuid%3Ab63390f2-9e33-11ec-8dfa-fa163e4ea95f",
+  "description": null,
+  "scale": 200000,
+  "external_id": "1304410",
+  "title": "40°42° Kriva Palanka",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    21.754047,
+    41.40693,
+    22.919638,
+    42.606808
+  ],
+  "reviewed": null,
+  "publisher": "Hauptvermessungsabteilung XIV",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:b5321124-9e33-11ec-8dfa-fa163e4ea95f",
+  "id": "cbcb72fc-1b29-5fea-a336-f9242d0f2a7e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:50:38.826070+00:00",
+    "transformation_method": "affine",
+    "mapID": "cbcb72fc-1b29-5fea-a336-f9242d0f2a7e",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:50:38.826070+00:00",
+    "gcps": [
+      {
+        "location": [
+          22.182446973,
+          42.079532003
+        ],
+        "pixel": [
+          221,
+          196
+        ]
+      },
+      {
+        "location": [
+          21.877775203,
+          42.486905833
+        ],
+        "pixel": [
+          61,
+          41
+        ]
+      },
+      {
+        "location": [
+          22.690564648,
+          42.281027959
+        ],
+        "pixel": [
+          483,
+          120
+        ]
+      },
+      {
+        "location": [
+          22.465344922,
+          41.639729832
+        ],
+        "pixel": [
+          366,
+          363
+        ]
+      },
+      {
+        "location": [
+          22.121492911,
+          41.527337494
+        ],
+        "pixel": [
+          190,
+          397
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1930"]
+}

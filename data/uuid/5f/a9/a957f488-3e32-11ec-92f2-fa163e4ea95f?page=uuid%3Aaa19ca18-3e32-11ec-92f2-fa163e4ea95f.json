@@ -1,0 +1,121 @@
+{
+  "date": ["1836"],
+  "creator": "Zebrawski, Teofil",
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:a957f488-3e32-11ec-92f2-fa163e4ea95f?page=uuid%3Aaa19ca18-3e32-11ec-92f2-fa163e4ea95f",
+  "description": "Krakov (Polsko)",
+  "scale": 10000,
+  "external_id": "821931",
+  "title": "Plan miasta Krakowa w obrębie okopów",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Kliewer, Heinrich",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    19.919958,
+    50.040535,
+    19.969358,
+    50.078022
+  ],
+  "reviewed": null,
+  "publisher": "D.E. Fridlein",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:a957f488-3e32-11ec-92f2-fa163e4ea95f",
+  "id": "f43f30d5-2528-5cf9-ae39-3ab203e6acbd",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        181,
+        383
+      ],
+      [
+        438,
+        389
+      ],
+      [
+        437,
+        50
+      ],
+      [
+        181,
+        50
+      ],
+      [
+        181,
+        383
+      ]
+    ],
+    "created": "2014-12-25T23:43:08.266780+00:00",
+    "transformation_method": "affine",
+    "mapID": "f43f30d5-2528-5cf9-ae39-3ab203e6acbd",
+    "affine_transformation": null,
+    "changed": "2014-12-25T23:43:08.266780+00:00",
+    "gcps": [
+      {
+        "location": [
+          19.93935627,
+          50.061646818
+        ],
+        "pixel": [
+          277,
+          196
+        ]
+      },
+      {
+        "location": [
+          19.942778769,
+          50.068740435
+        ],
+        "pixel": [
+          308,
+          135
+        ]
+      },
+      {
+        "location": [
+          19.940332594,
+          50.065730941
+        ],
+        "pixel": [
+          301,
+          160
+        ]
+      },
+      {
+        "location": [
+          19.945031824,
+          50.064656568
+        ],
+        "pixel": [
+          314,
+          168
+        ]
+      },
+      {
+        "location": [
+          19.937382164,
+          50.061701918
+        ],
+        "pixel": [
+          265,
+          197
+        ]
+      },
+      {
+        "location": [
+          19.935558262,
+          50.054717477
+        ],
+        "pixel": [
+          250,
+          267
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1836"]
+}

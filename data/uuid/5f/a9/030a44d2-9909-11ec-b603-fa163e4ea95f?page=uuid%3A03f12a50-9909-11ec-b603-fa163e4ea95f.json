@@ -1,0 +1,121 @@
+{
+  "date": ["1882"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:030a44d2-9909-11ec-b603-fa163e4ea95f?page=uuid%3A03f12a50-9909-11ec-b603-fa163e4ea95f",
+  "description": "Polsko",
+  "scale": 75000,
+  "external_id": "1292132",
+  "title": "Rzeszów und Łańcut",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    21.832474,
+    49.99972,
+    22.326817,
+    50.247463
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär. geografisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:030a44d2-9909-11ec-b603-fa163e4ea95f",
+  "id": "7cc570b0-3289-5dc3-9221-ab026d49c1f0",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        86,
+        47
+      ],
+      [
+        519,
+        49
+      ],
+      [
+        513,
+        384
+      ],
+      [
+        82,
+        385
+      ],
+      [
+        86,
+        47
+      ]
+    ],
+    "created": "2017-08-25T18:26:48.803230+00:00",
+    "transformation_method": "affine",
+    "mapID": "7cc570b0-3289-5dc3-9221-ab026d49c1f0",
+    "affine_transformation": null,
+    "changed": "2017-08-25T18:26:48.803230+00:00",
+    "gcps": [
+      {
+        "location": [
+          21.838807819,
+          50.078597136
+        ],
+        "pixel": [
+          88,
+          279
+        ]
+      },
+      {
+        "location": [
+          22.232599017,
+          50.081681553
+        ],
+        "pixel": [
+          433,
+          276
+        ]
+      },
+      {
+        "location": [
+          21.899404285,
+          50.077936163
+        ],
+        "pixel": [
+          141,
+          279
+        ]
+      },
+      {
+        "location": [
+          22.272510287,
+          50.081461244
+        ],
+        "pixel": [
+          468,
+          276
+        ]
+      },
+      {
+        "location": [
+          22.104024646,
+          50.193247841
+        ],
+        "pixel": [
+          323,
+          121
+        ]
+      },
+      {
+        "location": [
+          22.000169513,
+          50.04278134
+        ],
+        "pixel": [
+          229,
+          326
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1882"]
+}

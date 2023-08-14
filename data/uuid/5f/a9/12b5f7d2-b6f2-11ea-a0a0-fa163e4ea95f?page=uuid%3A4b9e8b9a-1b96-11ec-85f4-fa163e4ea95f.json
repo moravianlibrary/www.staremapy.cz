@@ -1,0 +1,111 @@
+{
+  "date": ["1778"],
+  "creator": "Sauthier, Claudii Josephi",
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:12b5f7d2-b6f2-11ea-a0a0-fa163e4ea95f?page=uuid%3A4b9e8b9a-1b96-11ec-85f4-fa163e4ea95f",
+  "description": "New Jersey",
+  "scale": 10000,
+  "external_id": "788440",
+  "title": "Mappa geographica provinciae novae eboraci ab anglis New-York",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -78.01552,
+    38.21117,
+    -69.63806,
+    46.147003
+  ],
+  "reviewed": null,
+  "publisher": "Homannianor Heredum",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:12b5f7d2-b6f2-11ea-a0a0-fa163e4ea95f",
+  "id": "1b6c05c3-fc43-594a-9ee4-28caf797add0",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2014-08-18T18:20:36.501330+00:00",
+    "transformation_method": "affine",
+    "mapID": "1b6c05c3-fc43-594a-9ee4-28caf797add0",
+    "affine_transformation": null,
+    "changed": "2014-08-18T18:20:36.501330+00:00",
+    "gcps": [
+      {
+        "location": [
+          -75.733191482,
+          43.223003028
+        ],
+        "pixel": [
+          138,
+          172
+        ]
+      },
+      {
+        "location": [
+          -74.948567188,
+          38.943361791
+        ],
+        "pixel": [
+          239,
+          411
+        ]
+      },
+      {
+        "location": [
+          -74.053524768,
+          40.603760814
+        ],
+        "pixel": [
+          296,
+          322
+        ]
+      },
+      {
+        "location": [
+          -70.669735706,
+          41.522175859
+        ],
+        "pixel": [
+          547,
+          259
+        ]
+      },
+      {
+        "location": [
+          -73.162017938,
+          44.92333062
+        ],
+        "pixel": [
+          339,
+          65
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1778"]
+}

@@ -1,0 +1,91 @@
+{
+  "date": ["1866"],
+  "creator": "Kocen, Blaž",
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:3a6255b4-6335-11ec-b38f-fa163e4ea95f?page=uuid%3A3b34c13e-6335-11ec-b38f-fa163e4ea95f",
+  "description": "Česko",
+  "scale": 600000,
+  "external_id": "1096612",
+  "title": "Mapa příruční Království českého",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Erben, Josef",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -176.66467,
+    -18.49091,
+    176.03224,
+    74.374344
+  ],
+  "reviewed": null,
+  "publisher": "sklad Eduarda Hölzela",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:3a6255b4-6335-11ec-b38f-fa163e4ea95f",
+  "id": "4f4f2d79-bf16-5b4d-b57b-bbf653329fdc",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2014-08-19T13:10:22.959640+00:00",
+    "transformation_method": "affine",
+    "mapID": "4f4f2d79-bf16-5b4d-b57b-bbf653329fdc",
+    "affine_transformation": null,
+    "changed": "2014-08-19T13:10:22.959640+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.622694921874995,
+          50.15209138927267
+        ],
+        "pixel": [
+          312,
+          163
+        ]
+      },
+      {
+        "location": [
+          17.69069835690789,
+          50.19809596402939
+        ],
+        "pixel": [
+          297,
+          168
+        ]
+      },
+      {
+        "location": [
+          17.702371330540704,
+          50.20380971981487
+        ],
+        "pixel": [
+          446,
+          110
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1866"]
+}

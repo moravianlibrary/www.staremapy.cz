@@ -1,0 +1,119 @@
+{
+  "date": ["1880"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:ca58e166-797d-11ec-b5cc-fa163e4ea95f?page=uuid%3Acb81aec4-797d-11ec-b5cc-fa163e4ea95f",
+  "description": "Praha (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1127232",
+  "title": "Prag",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.3332205,
+    49.99931,
+    14.834952,
+    50.24989
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:ca58e166-797d-11ec-b5cc-fa163e4ea95f",
+  "id": "ee1beff4-d817-5ebb-9fd8-ccee90c5cfde",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        13,
+        431
+      ],
+      [
+        588,
+        429
+      ],
+      [
+        588,
+        13
+      ],
+      [
+        302,
+        13
+      ],
+      [
+        14,
+        16
+      ],
+      [
+        14,
+        223
+      ],
+      [
+        13,
+        431
+      ]
+    ],
+    "created": "2014-12-05T09:31:53.825570+00:00",
+    "transformation_method": "affine",
+    "mapID": "ee1beff4-d817-5ebb-9fd8-ccee90c5cfde",
+    "affine_transformation": null,
+    "changed": "2014-12-05T09:31:53.825570+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.475670354,
+          50.114110856
+        ],
+        "pixel": [
+          177,
+          240
+        ]
+      },
+      {
+        "location": [
+          14.409409062,
+          50.075374668
+        ],
+        "pixel": [
+          101,
+          309
+        ]
+      },
+      {
+        "location": [
+          14.671106831,
+          50.087546766
+        ],
+        "pixel": [
+          400,
+          284
+        ]
+      },
+      {
+        "location": [
+          14.409537808,
+          50.081295871
+        ],
+        "pixel": [
+          99,
+          295
+        ]
+      },
+      {
+        "location": [
+          14.668145673,
+          50.190349062
+        ],
+        "pixel": [
+          397,
+          113
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1880"]
+}

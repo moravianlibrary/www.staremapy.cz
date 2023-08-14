@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:900972b0-b108-11ec-bdc5-fa163e4ea95f?page=uuid%3A90cef602-b108-11ec-bdc5-fa163e4ea95f",
+  "description": "Kalifornie",
+  "scale": 250000,
+  "external_id": "1375230",
+  "title": "California",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Gannett, Henry",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -123.161026,
+    39.90796,
+    -121.86636,
+    41.084705
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:900972b0-b108-11ec-bdc5-fa163e4ea95f",
+  "id": "64ac66f7-768a-53a3-8c8a-ada6b4bbf5bd",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2016-01-08T13:32:35.390210+00:00",
+    "transformation_method": "affine",
+    "mapID": "64ac66f7-768a-53a3-8c8a-ada6b4bbf5bd",
+    "affine_transformation": null,
+    "changed": "2016-01-08T13:32:35.390210+00:00",
+    "gcps": [
+      {
+        "location": [
+          -122.381549374,
+          40.880934366
+        ],
+        "pixel": [
+          360,
+          74
+        ]
+      },
+      {
+        "location": [
+          -122.638224244,
+          40.7011682
+        ],
+        "pixel": [
+          239,
+          146
+        ]
+      },
+      {
+        "location": [
+          -122.236466753,
+          40.181319677
+        ],
+        "pixel": [
+          433,
+          340
+        ]
+      },
+      {
+        "location": [
+          -122.940332096,
+          40.732763104
+        ],
+        "pixel": [
+          98,
+          133
+        ]
+      },
+      {
+        "location": [
+          -122.392238855,
+          40.587548644
+        ],
+        "pixel": [
+          354,
+          189
+        ]
+      },
+      {
+        "location": [
+          -122.106680155,
+          40.029213815
+        ],
+        "pixel": [
+          496,
+          398
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

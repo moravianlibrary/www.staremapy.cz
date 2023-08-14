@@ -1,0 +1,111 @@
+{
+  "date": ["1902"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:6e45fdb4-9e49-11ec-a44a-fa163e4ea95f?page=uuid%3A6f39f1da-9e49-11ec-a44a-fa163e4ea95f",
+  "description": "Velká Bíteš (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1305022",
+  "title": "G. Meseritsch",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.833305,
+    49.25028,
+    16.33414,
+    49.500435
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:6e45fdb4-9e49-11ec-a44a-fa163e4ea95f",
+  "id": "24933130-b9b6-575c-b0a0-415571852803",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        67,
+        383
+      ],
+      [
+        529,
+        383
+      ],
+      [
+        529,
+        47
+      ],
+      [
+        67,
+        47
+      ],
+      [
+        67,
+        383
+      ]
+    ],
+    "created": "2017-04-01T11:43:57.399640+00:00",
+    "transformation_method": "affine",
+    "mapID": "24933130-b9b6-575c-b0a0-415571852803",
+    "affine_transformation": null,
+    "changed": "2017-04-01T11:43:57.399640+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.109682569,
+          49.388748051
+        ],
+        "pixel": [
+          322,
+          197
+        ]
+      },
+      {
+        "location": [
+          15.874935636,
+          49.479172791
+        ],
+        "pixel": [
+          106,
+          76
+        ]
+      },
+      {
+        "location": [
+          16.175529604,
+          49.496081515
+        ],
+        "pixel": [
+          383,
+          53
+        ]
+      },
+      {
+        "location": [
+          15.921091089,
+          49.254619008
+        ],
+        "pixel": [
+          148,
+          377
+        ]
+      },
+      {
+        "location": [
+          16.308348297,
+          49.310572443
+        ],
+        "pixel": [
+          506,
+          301
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1902"]
+}

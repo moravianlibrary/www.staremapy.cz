@@ -1,0 +1,121 @@
+{
+  "date": ["1930"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:fc8205b4-7892-11ec-8d48-fa163e4ea95f?page=uuid%3Afd89a17e-7892-11ec-8d48-fa163e4ea95f",
+  "description": "Slovensko",
+  "scale": 75000,
+  "external_id": "1131037",
+  "title": "Šurany",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    17.836283,
+    47.98156,
+    18.337755,
+    48.276928
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:fc8205b4-7892-11ec-8d48-fa163e4ea95f",
+  "id": "fceccc14-5e31-5528-9308-6a2211f08899",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        75,
+        30
+      ],
+      [
+        537,
+        31
+      ],
+      [
+        543,
+        376
+      ],
+      [
+        74,
+        372
+      ],
+      [
+        75,
+        30
+      ]
+    ],
+    "created": "2014-12-09T16:36:29.860580+00:00",
+    "transformation_method": "affine",
+    "mapID": "fceccc14-5e31-5528-9308-6a2211f08899",
+    "affine_transformation": null,
+    "changed": "2014-12-09T16:36:29.860580+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.26048761,
+          48.092248012
+        ],
+        "pixel": [
+          469,
+          243
+        ]
+      },
+      {
+        "location": [
+          18.173626953,
+          48.080322161
+        ],
+        "pixel": [
+          386,
+          259
+        ]
+      },
+      {
+        "location": [
+          18.170880371,
+          48.091101415
+        ],
+        "pixel": [
+          385,
+          248
+        ]
+      },
+      {
+        "location": [
+          18.238171631,
+          48.100502749
+        ],
+        "pixel": [
+          448,
+          233
+        ]
+      },
+      {
+        "location": [
+          18.087796265,
+          48.055314771
+        ],
+        "pixel": [
+          309,
+          294
+        ]
+      },
+      {
+        "location": [
+          18.15199762,
+          48.076881498
+        ],
+        "pixel": [
+          368,
+          264
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1930"]
+}

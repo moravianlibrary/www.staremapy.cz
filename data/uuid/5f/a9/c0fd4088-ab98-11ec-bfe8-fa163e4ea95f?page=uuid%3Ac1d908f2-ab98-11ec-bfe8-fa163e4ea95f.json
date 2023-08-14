@@ -1,0 +1,111 @@
+{
+  "date": ["1897"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:c0fd4088-ab98-11ec-bfe8-fa163e4ea95f?page=uuid%3Ac1d908f2-ab98-11ec-bfe8-fa163e4ea95f",
+  "description": "Colorado",
+  "scale": 125000,
+  "external_id": "1367204",
+  "title": "Colorado",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Gannett, Henry",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -105.01957,
+    37.500004,
+    -104.46904,
+    38.002136
+  ],
+  "reviewed": null,
+  "publisher": "U. S. Geological Survey",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:c0fd4088-ab98-11ec-bfe8-fa163e4ea95f",
+  "id": "d50f9d6b-ca3f-5a73-8160-4a35eafb8803",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        535,
+        28
+      ],
+      [
+        537,
+        400
+      ],
+      [
+        33,
+        400
+      ],
+      [
+        36,
+        28
+      ],
+      [
+        535,
+        28
+      ]
+    ],
+    "created": "2015-11-05T17:42:34.214430+00:00",
+    "transformation_method": "affine",
+    "mapID": "d50f9d6b-ca3f-5a73-8160-4a35eafb8803",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:42:34.214430+00:00",
+    "gcps": [
+      {
+        "location": [
+          -104.93055105678668,
+          37.92276812165508
+        ],
+        "pixel": [
+          112,
+          87
+        ]
+      },
+      {
+        "location": [
+          -104.96900808151483,
+          37.53390660307976
+        ],
+        "pixel": [
+          72,
+          378
+        ]
+      },
+      {
+        "location": [
+          -104.65031835429065,
+          37.67562646444341
+        ],
+        "pixel": [
+          389,
+          270
+        ]
+      },
+      {
+        "location": [
+          -104.78607061381764,
+          37.62080130115791
+        ],
+        "pixel": [
+          251,
+          312
+        ]
+      },
+      {
+        "location": [
+          -104.66600503812748,
+          37.89765775256954
+        ],
+        "pixel": [
+          335,
+          104
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1897"]
+}

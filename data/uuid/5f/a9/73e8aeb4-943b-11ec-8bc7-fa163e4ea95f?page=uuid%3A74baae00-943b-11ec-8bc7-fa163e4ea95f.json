@@ -1,0 +1,111 @@
+{
+  "date": ["1929"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:73e8aeb4-943b-11ec-8bc7-fa163e4ea95f?page=uuid%3A74baae00-943b-11ec-8bc7-fa163e4ea95f",
+  "description": "Chotěbuz (Česko)",
+  "scale": 10000,
+  "external_id": "1253885",
+  "title": "[Mapový list]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    18.519043,
+    49.749447,
+    18.581669,
+    49.780582
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:73e8aeb4-943b-11ec-8bc7-fa163e4ea95f",
+  "id": "e7dfe3fe-4749-50a1-ae55-61d56ccec687",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        92,
+        372
+      ],
+      [
+        534,
+        373
+      ],
+      [
+        535,
+        57
+      ],
+      [
+        94,
+        57
+      ],
+      [
+        92,
+        372
+      ]
+    ],
+    "created": "2017-04-17T21:54:03.727120+00:00",
+    "transformation_method": "affine",
+    "mapID": "e7dfe3fe-4749-50a1-ae55-61d56ccec687",
+    "affine_transformation": null,
+    "changed": "2017-04-17T21:54:03.727120+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.571004617,
+          49.766228882
+        ],
+        "pixel": [
+          459,
+          203
+        ]
+      },
+      {
+        "location": [
+          18.572013127,
+          49.779747112
+        ],
+        "pixel": [
+          466,
+          65
+        ]
+      },
+      {
+        "location": [
+          18.524919218,
+          49.751552598
+        ],
+        "pixel": [
+          133,
+          351
+        ]
+      },
+      {
+        "location": [
+          18.527020425,
+          49.777979974
+        ],
+        "pixel": [
+          148,
+          84
+        ]
+      },
+      {
+        "location": [
+          18.548538434,
+          49.762812352
+        ],
+        "pixel": [
+          301,
+          238
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1929"]
+}

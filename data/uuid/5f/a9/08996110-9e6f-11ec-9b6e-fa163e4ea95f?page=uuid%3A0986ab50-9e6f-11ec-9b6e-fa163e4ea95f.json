@@ -1,0 +1,111 @@
+{
+  "date": ["1930"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:08996110-9e6f-11ec-9b6e-fa163e4ea95f?page=uuid%3A0986ab50-9e6f-11ec-9b6e-fa163e4ea95f",
+  "description": "Maďarsko",
+  "scale": 75000,
+  "external_id": "1306081",
+  "title": "Göncz",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    20.773079,
+    48.206245,
+    21.392288,
+    48.531326
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:08996110-9e6f-11ec-9b6e-fa163e4ea95f",
+  "id": "a18e012b-0385-5eb9-938c-f54866a85ffd",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:01:23.169530+00:00",
+    "transformation_method": "affine",
+    "mapID": "a18e012b-0385-5eb9-938c-f54866a85ffd",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:01:23.169530+00:00",
+    "gcps": [
+      {
+        "location": [
+          21.30460051,
+          48.298817378
+        ],
+        "pixel": [
+          516,
+          318
+        ]
+      },
+      {
+        "location": [
+          20.970055839,
+          48.470084523
+        ],
+        "pixel": [
+          191,
+          83
+        ]
+      },
+      {
+        "location": [
+          20.910999209,
+          48.274068555
+        ],
+        "pixel": [
+          132,
+          351
+        ]
+      },
+      {
+        "location": [
+          21.273787292,
+          48.471191319
+        ],
+        "pixel": [
+          486,
+          82
+        ]
+      },
+      {
+        "location": [
+          20.88325766,
+          48.459012091
+        ],
+        "pixel": [
+          108,
+          98
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1930"]
+}

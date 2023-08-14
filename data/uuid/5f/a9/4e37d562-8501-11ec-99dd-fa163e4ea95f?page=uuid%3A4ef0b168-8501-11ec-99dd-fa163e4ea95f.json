@@ -1,0 +1,111 @@
+{
+  "date": ["1912"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:4e37d562-8501-11ec-99dd-fa163e4ea95f?page=uuid%3A4ef0b168-8501-11ec-99dd-fa163e4ea95f",
+  "description": "Belz-oblast (Ukrajina)",
+  "scale": 75000,
+  "external_id": "1180118",
+  "title": "Belz und Sokal",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Bernhauer",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    23.82931,
+    50.247658,
+    24.33301,
+    50.498753
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:4e37d562-8501-11ec-99dd-fa163e4ea95f",
+  "id": "e8bdcf7b-9899-5c1b-851b-aa9d15be0fb0",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        41,
+        405
+      ],
+      [
+        558,
+        407
+      ],
+      [
+        559,
+        28
+      ],
+      [
+        44,
+        28
+      ],
+      [
+        41,
+        405
+      ]
+    ],
+    "created": "2017-04-13T16:07:15.099900+00:00",
+    "transformation_method": "affine",
+    "mapID": "e8bdcf7b-9899-5c1b-851b-aa9d15be0fb0",
+    "affine_transformation": null,
+    "changed": "2017-04-13T16:07:15.099900+00:00",
+    "gcps": [
+      {
+        "location": [
+          24.266759271,
+          50.46663331
+        ],
+        "pixel": [
+          492,
+          76
+        ]
+      },
+      {
+        "location": [
+          24.193889017,
+          50.295266022
+        ],
+        "pixel": [
+          417,
+          336
+        ]
+      },
+      {
+        "location": [
+          23.943928327,
+          50.301700341
+        ],
+        "pixel": [
+          158,
+          324
+        ]
+      },
+      {
+        "location": [
+          23.989611978,
+          50.383298401
+        ],
+        "pixel": [
+          206,
+          204
+        ]
+      },
+      {
+        "location": [
+          23.882558111,
+          50.490887588
+        ],
+        "pixel": [
+          100,
+          40
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1912"]
+}

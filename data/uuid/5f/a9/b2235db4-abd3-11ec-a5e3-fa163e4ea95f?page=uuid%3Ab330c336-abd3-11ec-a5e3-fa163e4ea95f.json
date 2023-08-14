@@ -1,0 +1,111 @@
+{
+  "date": ["1892"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:b2235db4-abd3-11ec-a5e3-fa163e4ea95f?page=uuid%3Ab330c336-abd3-11ec-a5e3-fa163e4ea95f",
+  "description": "Pécs (Maďarsko : oblast)",
+  "scale": 75000,
+  "external_id": "1369222",
+  "title": "Fünfkirchen",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    17.76302,
+    45.94678,
+    18.403433,
+    46.278496
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:b2235db4-abd3-11ec-a5e3-fa163e4ea95f",
+  "id": "52c443b3-fd03-5468-84a4-cd1fd0a03e4e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:48:27.333100+00:00",
+    "transformation_method": "affine",
+    "mapID": "52c443b3-fd03-5468-84a4-cd1fd0a03e4e",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:48:27.333100+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.987596973,
+          46.085147152
+        ],
+        "pixel": [
+          210,
+          258
+        ]
+      },
+      {
+        "location": [
+          17.971804126,
+          46.034343678
+        ],
+        "pixel": [
+          195,
+          326
+        ]
+      },
+      {
+        "location": [
+          17.850081817,
+          46.230139936
+        ],
+        "pixel": [
+          82,
+          64
+        ]
+      },
+      {
+        "location": [
+          18.228180392,
+          46.076573995
+        ],
+        "pixel": [
+          436,
+          270
+        ]
+      },
+      {
+        "location": [
+          18.120998088,
+          46.222063718
+        ],
+        "pixel": [
+          336,
+          75
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1892"]
+}

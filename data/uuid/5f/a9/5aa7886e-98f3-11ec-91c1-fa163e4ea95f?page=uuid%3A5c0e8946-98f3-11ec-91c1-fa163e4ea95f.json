@@ -1,0 +1,111 @@
+{
+  "date": ["1883"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:5aa7886e-98f3-11ec-91c1-fa163e4ea95f?page=uuid%3A5c0e8946-98f3-11ec-91c1-fa163e4ea95f",
+  "description": "Chomutov (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1291520",
+  "title": "Saaz und Komotau",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.26976,
+    50.203987,
+    13.892777,
+    50.53056
+  ],
+  "reviewed": null,
+  "publisher": "R. Lechner's k. k. Hof- und Universitäts-Buchhandlung",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:5aa7886e-98f3-11ec-91c1-fa163e4ea95f",
+  "id": "5cafbb76-df08-5586-a661-3753d4bbd1a5",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:41:30.444810+00:00",
+    "transformation_method": "affine",
+    "mapID": "5cafbb76-df08-5586-a661-3753d4bbd1a5",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:41:30.444810+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.713467153991509,
+          50.45707900740413
+        ],
+        "pixel": [
+          427,
+          97
+        ]
+      },
+      {
+        "location": [
+          13.545680568349315,
+          50.3267957641973
+        ],
+        "pixel": [
+          266,
+          275
+        ]
+      },
+      {
+        "location": [
+          13.796946157449119,
+          50.35677624986053
+        ],
+        "pixel": [
+          508,
+          237
+        ]
+      },
+      {
+        "location": [
+          13.388916550714434,
+          50.26952456228781
+        ],
+        "pixel": [
+          114,
+          356
+        ]
+      },
+      {
+        "location": [
+          13.404562554224668,
+          50.46108747798573
+        ],
+        "pixel": [
+          130,
+          96
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1883"]
+}

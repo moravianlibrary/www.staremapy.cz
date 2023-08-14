@@ -1,0 +1,111 @@
+{
+  "date": ["1905"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:dbb79d24-9f3b-11ec-b956-fa163e4ea95f?page=uuid%3Adcad927e-9f3b-11ec-b956-fa163e4ea95f",
+  "description": "Rumunsko",
+  "scale": 75000,
+  "external_id": "1331388",
+  "title": "Dorohoiu",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    26.306091,
+    47.72211,
+    26.865314,
+    48.01748
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:dbb79d24-9f3b-11ec-b956-fa163e4ea95f",
+  "id": "e7ca72f9-2a81-52c1-9f7c-65feb8424318",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:07:57.577400+00:00",
+    "transformation_method": "affine",
+    "mapID": "e7ca72f9-2a81-52c1-9f7c-65feb8424318",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:07:57.577400+00:00",
+    "gcps": [
+      {
+        "location": [
+          26.791267758,
+          47.884015918
+        ],
+        "pixel": [
+          520,
+          201
+        ]
+      },
+      {
+        "location": [
+          26.400137311,
+          47.951318444
+        ],
+        "pixel": [
+          100,
+          98
+        ]
+      },
+      {
+        "location": [
+          26.629505356,
+          47.756241986
+        ],
+        "pixel": [
+          347,
+          393
+        ]
+      },
+      {
+        "location": [
+          26.658479294,
+          47.977392057
+        ],
+        "pixel": [
+          378,
+          60
+        ]
+      },
+      {
+        "location": [
+          26.47176302,
+          47.761554478
+        ],
+        "pixel": [
+          178,
+          384
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1905"]
+}

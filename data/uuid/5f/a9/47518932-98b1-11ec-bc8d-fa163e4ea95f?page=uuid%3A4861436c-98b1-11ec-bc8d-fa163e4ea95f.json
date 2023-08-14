@@ -1,0 +1,111 @@
+{
+  "date": ["1935"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:47518932-98b1-11ec-bc8d-fa163e4ea95f?page=uuid%3A4861436c-98b1-11ec-bc8d-fa163e4ea95f",
+  "description": "Německo",
+  "scale": 75000,
+  "external_id": "1286203",
+  "title": "Šluknov a Bautzen",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.333647,
+    50.99841,
+    14.826444,
+    51.24829
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:47518932-98b1-11ec-bc8d-fa163e4ea95f",
+  "id": "8dbebb8d-d3cc-5d78-bab0-8fbffff798ba",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        81,
+        384
+      ],
+      [
+        518,
+        383
+      ],
+      [
+        519,
+        44
+      ],
+      [
+        85,
+        43
+      ],
+      [
+        81,
+        384
+      ]
+    ],
+    "created": "2017-07-16T12:23:41.428200+00:00",
+    "transformation_method": "affine",
+    "mapID": "8dbebb8d-d3cc-5d78-bab0-8fbffff798ba",
+    "affine_transformation": null,
+    "changed": "2017-07-16T12:23:41.428200+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.818784849,
+          51.008184856
+        ],
+        "pixel": [
+          511,
+          371
+        ]
+      },
+      {
+        "location": [
+          14.658304297,
+          51.197057255
+        ],
+        "pixel": [
+          372,
+          113
+        ]
+      },
+      {
+        "location": [
+          14.453592505,
+          51.00341106
+        ],
+        "pixel": [
+          186,
+          377
+        ]
+      },
+      {
+        "location": [
+          14.664398276,
+          51.096099468
+        ],
+        "pixel": [
+          378,
+          253
+        ]
+      },
+      {
+        "location": [
+          14.4342862,
+          51.181349278
+        ],
+        "pixel": [
+          173,
+          135
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1935"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": ["1919"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:a2196f9e-9693-11ec-8357-fa163e4ea95f?page=uuid%3Aa30c11c2-9693-11ec-8357-fa163e4ea95f",
+  "description": null,
+  "scale": 200000,
+  "external_id": "1271208",
+  "title": "33°46° Cilli",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.710785,
+    45.38827,
+    15.957629,
+    46.57972
+  ],
+  "reviewed": null,
+  "publisher": "Kartographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:a2196f9e-9693-11ec-8357-fa163e4ea95f",
+  "id": "b37732cb-08bc-5d6e-9f0b-6730063d47dd",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:21:40.250500+00:00",
+    "transformation_method": "affine",
+    "mapID": "b37732cb-08bc-5d6e-9f0b-6730063d47dd",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:21:40.250500+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.572999366,
+          46.391992373
+        ],
+        "pixel": [
+          413,
+          70
+        ]
+      },
+      {
+        "location": [
+          15.190226825,
+          45.575121736
+        ],
+        "pixel": [
+          232,
+          375
+        ]
+      },
+      {
+        "location": [
+          15.706584247,
+          45.801103768
+        ],
+        "pixel": [
+          483,
+          290
+        ]
+      },
+      {
+        "location": [
+          15.266616138,
+          46.23133328
+        ],
+        "pixel": [
+          265,
+          130
+        ]
+      },
+      {
+        "location": [
+          14.943623324,
+          46.227922759
+        ],
+        "pixel": [
+          109,
+          132
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1919"]
+}

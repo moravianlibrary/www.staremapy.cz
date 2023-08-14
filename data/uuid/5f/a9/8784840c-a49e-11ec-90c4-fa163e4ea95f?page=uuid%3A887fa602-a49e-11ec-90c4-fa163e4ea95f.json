@@ -1,0 +1,111 @@
+{
+  "date": ["1907"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:8784840c-a49e-11ec-90c4-fa163e4ea95f?page=uuid%3A887fa602-a49e-11ec-90c4-fa163e4ea95f",
+  "description": null,
+  "scale": 75000,
+  "external_id": "1337232",
+  "title": "Somogyvár",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.715538,
+    42.930428,
+    29.039015,
+    46.64017
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:8784840c-a49e-11ec-90c4-fa163e4ea95f",
+  "id": "70534fdf-f367-5744-b6a6-b518f67e1f00",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:24:36.800930+00:00",
+    "transformation_method": "affine",
+    "mapID": "70534fdf-f367-5744-b6a6-b518f67e1f00",
+    "affine_transformation": null,
+    "changed": "2023-04-08T09:10:06.999095+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.832522758,
+          46.507289318
+        ],
+        "pixel": [
+          543,
+          372
+        ]
+      },
+      {
+        "location": [
+          17.76603299,
+          46.70707492
+        ],
+        "pixel": [
+          477,
+          107
+        ]
+      },
+      {
+        "location": [
+          17.370281586,
+          46.703149603
+        ],
+        "pixel": [
+          95,
+          112
+        ]
+      },
+      {
+        "location": [
+          17.421350845,
+          46.52031358
+        ],
+        "pixel": [
+          143,
+          354
+        ]
+      },
+      {
+        "location": [
+          44.228227574380476,
+          37.00001547190483
+        ],
+        "pixel": [
+          327,
+          172
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1907"]
+}

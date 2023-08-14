@@ -1,0 +1,101 @@
+{
+  "date": ["1928"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:e772293e-9f7e-11ec-bb05-fa163e4ea95f?page=uuid%3Ae84cfe38-9f7e-11ec-bb05-fa163e4ea95f",
+  "description": "Prusko",
+  "scale": 25000,
+  "external_id": "1333236",
+  "title": "Alt Gertlauken",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    21.163313,
+    54.698154,
+    21.330845,
+    54.798737
+  ],
+  "reviewed": null,
+  "publisher": "Reichsamt für Landesaufnahme",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:e772293e-9f7e-11ec-bb05-fa163e4ea95f",
+  "id": "c5bfd8bf-8599-542b-b534-d28f930d3424",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        40,
+        381
+      ],
+      [
+        505,
+        381
+      ],
+      [
+        503,
+        47
+      ],
+      [
+        40,
+        48
+      ],
+      [
+        40,
+        381
+      ]
+    ],
+    "created": "2017-02-18T23:08:25.859310+00:00",
+    "transformation_method": "affine",
+    "mapID": "c5bfd8bf-8599-542b-b534-d28f930d3424",
+    "affine_transformation": null,
+    "changed": "2017-02-18T23:08:25.859310+00:00",
+    "gcps": [
+      {
+        "location": [
+          21.276242733,
+          54.758376949
+        ],
+        "pixel": [
+          353,
+          181
+        ]
+      },
+      {
+        "location": [
+          21.240022182,
+          54.792721393
+        ],
+        "pixel": [
+          253,
+          67
+        ]
+      },
+      {
+        "location": [
+          21.188395023,
+          54.710642411
+        ],
+        "pixel": [
+          109,
+          340
+        ]
+      },
+      {
+        "location": [
+          21.190876739,
+          54.778106135
+        ],
+        "pixel": [
+          116,
+          116
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1928"]
+}

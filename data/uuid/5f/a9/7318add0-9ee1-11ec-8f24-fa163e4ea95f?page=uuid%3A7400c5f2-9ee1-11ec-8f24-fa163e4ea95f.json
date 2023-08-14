@@ -1,0 +1,111 @@
+{
+  "date": ["1943"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:7318add0-9ee1-11ec-8f24-fa163e4ea95f?page=uuid%3A7400c5f2-9ee1-11ec-8f24-fa163e4ea95f",
+  "description": "Sibiř (Rusko)",
+  "scale": 500000,
+  "external_id": "1328800",
+  "title": "Zavitaya",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    128.6155,
+    49.39759,
+    132.69316,
+    52.217228
+  ],
+  "reviewed": null,
+  "publisher": "Army map service, U.S. Army",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:7318add0-9ee1-11ec-8f24-fa163e4ea95f",
+  "id": "9657f0ac-16f6-54db-a2d5-c14038765291",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:02:55.742520+00:00",
+    "transformation_method": "affine",
+    "mapID": "9657f0ac-16f6-54db-a2d5-c14038765291",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:02:55.742520+00:00",
+    "gcps": [
+      {
+        "location": [
+          131.300893013,
+          50.461686458
+        ],
+        "pixel": [
+          395,
+          279
+        ]
+      },
+      {
+        "location": [
+          129.116065979,
+          50.384054445
+        ],
+        "pixel": [
+          67,
+          294
+        ]
+      },
+      {
+        "location": [
+          129.434326172,
+          50.124589704
+        ],
+        "pixel": [
+          118,
+          331
+        ]
+      },
+      {
+        "location": [
+          129.091346741,
+          51.748761719
+        ],
+        "pixel": [
+          72,
+          75
+        ]
+      },
+      {
+        "location": [
+          129.231334226,
+          51.3328553
+        ],
+        "pixel": [
+          86,
+          142
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1943"]
+}

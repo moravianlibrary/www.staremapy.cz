@@ -1,0 +1,127 @@
+{
+  "date": ["1922"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:09bbb632-8a70-11ec-bd82-fa163e4ea95f?page=uuid%3A0aec5c46-8a70-11ec-bd82-fa163e4ea95f",
+  "description": "Šlesvicko-Holštýnsko (Německo)",
+  "scale": 50000,
+  "external_id": "1280941",
+  "title": "Schleswig-Holstein",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    9.276125,
+    54.032166,
+    9.592535,
+    54.231876
+  ],
+  "reviewed": null,
+  "publisher": "Reichs-Marine-Amt",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:09bbb632-8a70-11ec-bd82-fa163e4ea95f",
+  "id": "d9c4d387-47d0-51d4-ab95-d1e561bb11d8",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        308,
+        415
+      ],
+      [
+        441,
+        414
+      ],
+      [
+        441,
+        330
+      ],
+      [
+        573,
+        330
+      ],
+      [
+        575,
+        171
+      ],
+      [
+        386,
+        170
+      ],
+      [
+        386,
+        250
+      ],
+      [
+        308,
+        249
+      ],
+      [
+        308,
+        415
+      ]
+    ],
+    "created": "2017-12-05T09:36:18.788250+00:00",
+    "transformation_method": "affine",
+    "mapID": "d9c4d387-47d0-51d4-ab95-d1e561bb11d8",
+    "affine_transformation": null,
+    "changed": "2017-12-05T09:36:18.788250+00:00",
+    "gcps": [
+      {
+        "location": [
+          9.443154899,
+          54.118674196
+        ],
+        "pixel": [
+          449,
+          308
+        ]
+      },
+      {
+        "location": [
+          9.329565525,
+          54.124736488
+        ],
+        "pixel": [
+          353,
+          302
+        ]
+      },
+      {
+        "location": [
+          9.288538456,
+          54.036015331
+        ],
+        "pixel": [
+          319,
+          411
+        ]
+      },
+      {
+        "location": [
+          9.550751209,
+          54.219240411
+        ],
+        "pixel": [
+          540,
+          186
+        ]
+      },
+      {
+        "location": [
+          9.452560902,
+          54.168875236
+        ],
+        "pixel": [
+          456,
+          247
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1922"]
+}

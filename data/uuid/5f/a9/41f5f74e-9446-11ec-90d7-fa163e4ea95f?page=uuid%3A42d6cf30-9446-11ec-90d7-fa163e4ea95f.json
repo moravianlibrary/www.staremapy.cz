@@ -1,0 +1,121 @@
+{
+  "date": ["1932"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:41f5f74e-9446-11ec-90d7-fa163e4ea95f?page=uuid%3A42d6cf30-9446-11ec-90d7-fa163e4ea95f",
+  "description": "Tarnów (Polsko : oblast)",
+  "scale": 200000,
+  "external_id": "1254197",
+  "title": "Tarnów",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    20.7112,
+    49.397736,
+    21.95079,
+    50.550503
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:41f5f74e-9446-11ec-90d7-fa163e4ea95f",
+  "id": "b1334241-c6ed-5ae8-87b5-8a4e71360829",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        540,
+        22
+      ],
+      [
+        544,
+        406
+      ],
+      [
+        54,
+        404
+      ],
+      [
+        61,
+        20
+      ],
+      [
+        540,
+        22
+      ]
+    ],
+    "created": "2015-11-05T16:12:26.317410+00:00",
+    "transformation_method": "affine",
+    "mapID": "b1334241-c6ed-5ae8-87b5-8a4e71360829",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:12:26.317410+00:00",
+    "gcps": [
+      {
+        "location": [
+          20.947005076488296,
+          50.281573480235494
+        ],
+        "pixel": [
+          115,
+          103
+        ]
+      },
+      {
+        "location": [
+          21.762045896178527,
+          50.39130803851097
+        ],
+        "pixel": [
+          508,
+          62
+        ]
+      },
+      {
+        "location": [
+          20.987193493919587,
+          50.01279485165233
+        ],
+        "pixel": [
+          133,
+          207
+        ]
+      },
+      {
+        "location": [
+          21.29487881225586,
+          49.97976507141445
+        ],
+        "pixel": [
+          282,
+          220
+        ]
+      },
+      {
+        "location": [
+          20.947640187611427,
+          49.62488291237068
+        ],
+        "pixel": [
+          114,
+          357
+        ]
+      },
+      {
+        "location": [
+          21.683100641871548,
+          49.557286698838226
+        ],
+        "pixel": [
+          471,
+          383
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1932"]
+}

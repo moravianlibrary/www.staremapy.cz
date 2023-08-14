@@ -1,0 +1,111 @@
+{
+  "date": ["1911"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:395429bc-991e-11ec-a19e-fa163e4ea95f?page=uuid%3A3a557b18-991e-11ec-a19e-fa163e4ea95f",
+  "description": "Ukrajina západní",
+  "scale": 75000,
+  "external_id": "1292735",
+  "title": "Jaworów und Gródek",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    23.334993,
+    49.74798,
+    23.830923,
+    49.99844
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:395429bc-991e-11ec-a19e-fa163e4ea95f",
+  "id": "09f1ef2f-063d-560b-a57e-a99d44db81ae",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        78,
+        389
+      ],
+      [
+        526,
+        389
+      ],
+      [
+        526,
+        52
+      ],
+      [
+        78,
+        52
+      ],
+      [
+        78,
+        389
+      ]
+    ],
+    "created": "2017-03-05T19:48:41.952010+00:00",
+    "transformation_method": "affine",
+    "mapID": "09f1ef2f-063d-560b-a57e-a99d44db81ae",
+    "affine_transformation": null,
+    "changed": "2017-03-05T19:48:41.952010+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.639275999,
+          49.782695361
+        ],
+        "pixel": [
+          353,
+          343
+        ]
+      },
+      {
+        "location": [
+          23.542272931,
+          49.946077544
+        ],
+        "pixel": [
+          267,
+          123
+        ]
+      },
+      {
+        "location": [
+          23.815657306,
+          49.955398916
+        ],
+        "pixel": [
+          512,
+          108
+        ]
+      },
+      {
+        "location": [
+          23.383958226,
+          49.944696705
+        ],
+        "pixel": [
+          122,
+          124
+        ]
+      },
+      {
+        "location": [
+          23.373958951,
+          49.78679988
+        ],
+        "pixel": [
+          112,
+          338
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1911"]
+}

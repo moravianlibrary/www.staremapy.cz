@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:71099e68-b4f9-11ec-b285-fa163e4ea95f?page=uuid%3A71eefc6a-b4f9-11ec-b285-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1390116",
+  "title": "Połonne",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    27.230614,
+    49.934605,
+    27.975079,
+    50.297638
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:71099e68-b4f9-11ec-b285-fa163e4ea95f",
+  "id": "759b5bef-0967-5401-ad13-53028b50b4b7",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2016-01-08T13:42:27.282310+00:00",
+    "transformation_method": "affine",
+    "mapID": "759b5bef-0967-5401-ad13-53028b50b4b7",
+    "affine_transformation": null,
+    "changed": "2016-01-08T13:42:27.282310+00:00",
+    "gcps": [
+      {
+        "location": [
+          27.644480776,
+          50.235079322
+        ],
+        "pixel": [
+          333,
+          76
+        ]
+      },
+      {
+        "location": [
+          27.702632545,
+          50.012851152
+        ],
+        "pixel": [
+          380,
+          350
+        ]
+      },
+      {
+        "location": [
+          27.782283424,
+          50.117396011
+        ],
+        "pixel": [
+          445,
+          221
+        ]
+      },
+      {
+        "location": [
+          27.443380951,
+          50.037472064
+        ],
+        "pixel": [
+          171,
+          319
+        ]
+      },
+      {
+        "location": [
+          27.506209015,
+          50.120753094
+        ],
+        "pixel": [
+          223,
+          214
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

@@ -1,0 +1,111 @@
+{
+  "date": ["1872"],
+  "creator": "Erb",
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:b21d9a74-900c-11ec-b6d3-fa163e4ea95f?page=uuid%3Ab31a14a2-900c-11ec-b6d3-fa163e4ea95f",
+  "description": "země světa",
+  "scale": 90000000,
+  "external_id": "1215483",
+  "title": "Geologische Übersichtskarte der Erde",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Marcou, Jules",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -168.98782,
+    -57.184574,
+    169.4573,
+    75.113174
+  ],
+  "reviewed": null,
+  "publisher": "Artaria",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:b21d9a74-900c-11ec-b6d3-fa163e4ea95f",
+  "id": "9c71db2d-ab20-5a37-9cf4-7a5e2b9d63fb",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        71,
+        287
+      ],
+      [
+        536,
+        287
+      ],
+      [
+        536,
+        65
+      ],
+      [
+        71,
+        65
+      ],
+      [
+        71,
+        287
+      ]
+    ],
+    "created": "2017-09-12T06:15:00.807760+00:00",
+    "transformation_method": "affine",
+    "mapID": "9c71db2d-ab20-5a37-9cf4-7a5e2b9d63fb",
+    "affine_transformation": null,
+    "changed": "2017-09-12T06:15:00.807760+00:00",
+    "gcps": [
+      {
+        "location": [
+          49.21875,
+          -12.039319064
+        ],
+        "pixel": [
+          350,
+          218
+        ]
+      },
+      {
+        "location": [
+          77.34375,
+          8.059231139
+        ],
+        "pixel": [
+          387,
+          194
+        ]
+      },
+      {
+        "location": [
+          57.48046875,
+          70.649051276
+        ],
+        "pixel": [
+          362,
+          83
+        ]
+      },
+      {
+        "location": [
+          45.17578125,
+          -25.482949797
+        ],
+        "pixel": [
+          345,
+          235
+        ]
+      },
+      {
+        "location": [
+          -81.079101563,
+          25.165174751
+        ],
+        "pixel": [
+          181,
+          173
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1872"]
+}

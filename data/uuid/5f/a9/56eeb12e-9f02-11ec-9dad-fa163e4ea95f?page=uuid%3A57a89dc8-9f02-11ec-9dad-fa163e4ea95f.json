@@ -1,0 +1,101 @@
+{
+  "date": ["1925"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:56eeb12e-9f02-11ec-9dad-fa163e4ea95f?page=uuid%3A57a89dc8-9f02-11ec-9dad-fa163e4ea95f",
+  "description": "Lanškroun (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1329784",
+  "title": "Mor[avská] Třebová a Lanškroun",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.279207,
+    49.712914,
+    16.880968,
+    50.037735
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:56eeb12e-9f02-11ec-9dad-fa163e4ea95f",
+  "id": "5e6daf79-d548-5f2d-8c6c-ba5766d05acc",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:04:22.437160+00:00",
+    "transformation_method": "affine",
+    "mapID": "5e6daf79-d548-5f2d-8c6c-ba5766d05acc",
+    "affine_transformation": null,
+    "changed": "2023-08-03T19:02:42.981292+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.665697460937483,
+          49.75908436532711
+        ],
+        "pixel": [
+          382,
+          385
+        ]
+      },
+      {
+        "location": [
+          16.609392529296862,
+          49.913202841570495
+        ],
+        "pixel": [
+          332,
+          169
+        ]
+      },
+      {
+        "location": [
+          16.44871748046875,
+          49.900820672791326
+        ],
+        "pixel": [
+          167,
+          183
+        ]
+      },
+      {
+        "location": [
+          16.39515913085936,
+          49.97329959730456
+        ],
+        "pixel": [
+          115,
+          84
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1925"]
+}

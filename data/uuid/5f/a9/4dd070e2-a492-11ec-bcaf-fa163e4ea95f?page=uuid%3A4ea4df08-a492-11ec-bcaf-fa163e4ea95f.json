@@ -1,0 +1,121 @@
+{
+  "date": ["1909"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:4dd070e2-a492-11ec-bcaf-fa163e4ea95f?page=uuid%3A4ea4df08-a492-11ec-bcaf-fa163e4ea95f",
+  "description": null,
+  "scale": 75000,
+  "external_id": "1336896",
+  "title": "Steyregg",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.268233,
+    48.20462,
+    14.893448,
+    48.5382
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:4dd070e2-a492-11ec-bcaf-fa163e4ea95f",
+  "id": "4e8d9d4b-3406-53c8-902a-06e2bbb56aea",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:23:48.971910+00:00",
+    "transformation_method": "affine",
+    "mapID": "4e8d9d4b-3406-53c8-902a-06e2bbb56aea",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:23:48.971910+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.486576359046953,
+          48.29752913782451
+        ],
+        "pixel": [
+          209,
+          319
+        ]
+      },
+      {
+        "location": [
+          14.343567330030956,
+          48.28670250535879
+        ],
+        "pixel": [
+          72,
+          335
+        ]
+      },
+      {
+        "location": [
+          14.527195068359372,
+          48.356748600411635
+        ],
+        "pixel": [
+          246,
+          241
+        ]
+      },
+      {
+        "location": [
+          14.373612047850923,
+          48.26986708659254
+        ],
+        "pixel": [
+          99,
+          357
+        ]
+      },
+      {
+        "location": [
+          14.522431465148923,
+          48.35573624255346
+        ],
+        "pixel": [
+          242,
+          242
+        ]
+      },
+      {
+        "location": [
+          14.50656537535522,
+          48.33023090648268
+        ],
+        "pixel": [
+          234,
+          278
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1909"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": ["1855"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:04285882-4d13-11ec-9c21-fa163e4ea95f?page=uuid%3A05591098-4d13-11ec-9c21-fa163e4ea95f",
+  "description": "Česko",
+  "scale": 690000,
+  "external_id": "1037986",
+  "title": "Karte vom Königreiche Böhmen",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    11.450817,
+    48.276234,
+    17.648699,
+    51.34371
+  ],
+  "reviewed": null,
+  "publisher": "Carl Wilhelm Medau",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:04285882-4d13-11ec-9c21-fa163e4ea95f",
+  "id": "ff3d76dd-06bf-5ada-bc7c-967d436224ba",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2013-10-17T15:52:12.962970+00:00",
+    "transformation_method": "affine",
+    "mapID": "ff3d76dd-06bf-5ada-bc7c-967d436224ba",
+    "affine_transformation": null,
+    "changed": "2013-10-17T15:52:12.962970+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.69547417,
+          48.584738305
+        ],
+        "pixel": [
+          320,
+          403
+        ]
+      },
+      {
+        "location": [
+          14.475747607,
+          48.974763625
+        ],
+        "pixel": [
+          291,
+          344
+        ]
+      },
+      {
+        "location": [
+          15.056649707,
+          50.771164321
+        ],
+        "pixel": [
+          351,
+          85
+        ]
+      },
+      {
+        "location": [
+          12.116433643,
+          50.31999479
+        ],
+        "pixel": [
+          63,
+          149
+        ]
+      },
+      {
+        "location": [
+          14.474374316,
+          50.080012956
+        ],
+        "pixel": [
+          288,
+          184
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1855"]
+}

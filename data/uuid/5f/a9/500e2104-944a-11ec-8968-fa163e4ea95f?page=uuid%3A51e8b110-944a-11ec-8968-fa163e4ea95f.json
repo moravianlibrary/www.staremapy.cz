@@ -1,0 +1,121 @@
+{
+  "date": ["1891"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:500e2104-944a-11ec-8968-fa163e4ea95f?page=uuid%3A51e8b110-944a-11ec-8968-fa163e4ea95f",
+  "description": "Luck (Ukrajina : oblast)",
+  "scale": 200000,
+  "external_id": "1254314",
+  "title": "Łuck",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    24.83272,
+    50.497303,
+    25.848715,
+    51.497055
+  ],
+  "reviewed": null,
+  "publisher": "K.u.k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:500e2104-944a-11ec-8968-fa163e4ea95f",
+  "id": "277a238a-2ec6-50f8-92a2-8508228303fa",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        106,
+        50
+      ],
+      [
+        513,
+        51
+      ],
+      [
+        513,
+        396
+      ],
+      [
+        99,
+        394
+      ],
+      [
+        106,
+        50
+      ]
+    ],
+    "created": "2016-11-06T16:19:10.736360+00:00",
+    "transformation_method": "affine",
+    "mapID": "277a238a-2ec6-50f8-92a2-8508228303fa",
+    "affine_transformation": null,
+    "changed": "2016-11-06T16:19:10.736360+00:00",
+    "gcps": [
+      {
+        "location": [
+          25.812116098,
+          51.459709608
+        ],
+        "pixel": [
+          498,
+          64
+        ]
+      },
+      {
+        "location": [
+          24.909177255,
+          50.692550044
+        ],
+        "pixel": [
+          128,
+          328
+        ]
+      },
+      {
+        "location": [
+          24.878449869,
+          51.470724764
+        ],
+        "pixel": [
+          120,
+          59
+        ]
+      },
+      {
+        "location": [
+          25.291810464,
+          51.46912078
+        ],
+        "pixel": [
+          288,
+          61
+        ]
+      },
+      {
+        "location": [
+          25.590844583,
+          50.520091825
+        ],
+        "pixel": [
+          410,
+          389
+        ]
+      },
+      {
+        "location": [
+          25.269151163,
+          50.893891344
+        ],
+        "pixel": [
+          278,
+          259
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1891"]
+}

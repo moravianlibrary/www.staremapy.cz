@@ -1,0 +1,141 @@
+{
+  "date": ["1943"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:e3b85f84-9105-11ec-873d-fa163e4ea95f?page=uuid%3Ae4a378ca-9105-11ec-873d-fa163e4ea95f",
+  "description": "Svídnice (Polsko : oblast)",
+  "scale": 200000,
+  "external_id": "1241806",
+  "title": "34°51° Schweidnitz",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.798561,
+    50.5052,
+    16.843315,
+    51.494427
+  ],
+  "reviewed": null,
+  "publisher": "Landesvermessungsamt Böhmen und Mähren",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:e3b85f84-9105-11ec-873d-fa163e4ea95f",
+  "id": "c2744a74-a785-5c38-9418-7ea539c986fa",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        74,
+        28
+      ],
+      [
+        525,
+        29
+      ],
+      [
+        529,
+        397
+      ],
+      [
+        70,
+        395
+      ],
+      [
+        74,
+        28
+      ]
+    ],
+    "created": "2017-12-11T06:44:45.874740+00:00",
+    "transformation_method": "affine",
+    "mapID": "c2744a74-a785-5c38-9418-7ea539c986fa",
+    "affine_transformation": null,
+    "changed": "2017-12-11T06:44:45.874740+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.643327325,
+          50.710367454
+        ],
+        "pixel": [
+          449,
+          323
+        ]
+      },
+      {
+        "location": [
+          16.593717187,
+          51.163838095
+        ],
+        "pixel": [
+          417,
+          152
+        ]
+      },
+      {
+        "location": [
+          15.937284082,
+          51.277589207
+        ],
+        "pixel": [
+          121,
+          109
+        ]
+      },
+      {
+        "location": [
+          15.876687616,
+          51.343367471
+        ],
+        "pixel": [
+          93,
+          85
+        ]
+      },
+      {
+        "location": [
+          15.893510431,
+          51.385488933
+        ],
+        "pixel": [
+          101,
+          69
+        ]
+      },
+      {
+        "location": [
+          16.569684595,
+          51.132717306
+        ],
+        "pixel": [
+          407,
+          163
+        ]
+      },
+      {
+        "location": [
+          16.750272363,
+          51.037825769
+        ],
+        "pixel": [
+          489,
+          199
+        ]
+      },
+      {
+        "location": [
+          16.641954034,
+          50.723844688
+        ],
+        "pixel": [
+          441,
+          314
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1943"]
+}

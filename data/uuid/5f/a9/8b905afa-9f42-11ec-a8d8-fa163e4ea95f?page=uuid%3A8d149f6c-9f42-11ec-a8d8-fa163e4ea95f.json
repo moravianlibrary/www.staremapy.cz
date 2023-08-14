@@ -1,0 +1,111 @@
+{
+  "date": ["1919"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:8b905afa-9f42-11ec-a8d8-fa163e4ea95f?page=uuid%3A8d149f6c-9f42-11ec-a8d8-fa163e4ea95f",
+  "description": "Chust (Ukrajina : oblast)",
+  "scale": 75000,
+  "external_id": "1331574",
+  "title": "Sevljus a Hust",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    22.831554,
+    47.995663,
+    23.334293,
+    48.249283
+  ],
+  "reviewed": null,
+  "publisher": "Zeměpisný ústav M. N. O.",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:8b905afa-9f42-11ec-a8d8-fa163e4ea95f",
+  "id": "050449c2-8529-5034-ad2c-b181e56a3971",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        53,
+        389
+      ],
+      [
+        549,
+        389
+      ],
+      [
+        549,
+        44
+      ],
+      [
+        53,
+        44
+      ],
+      [
+        53,
+        389
+      ]
+    ],
+    "created": "2017-03-26T07:49:31.628130+00:00",
+    "transformation_method": "affine",
+    "mapID": "050449c2-8529-5034-ad2c-b181e56a3971",
+    "affine_transformation": null,
+    "changed": "2017-03-26T07:49:31.628130+00:00",
+    "gcps": [
+      {
+        "location": [
+          22.881821323,
+          48.005300349
+        ],
+        "pixel": [
+          101,
+          380
+        ]
+      },
+      {
+        "location": [
+          23.290323621,
+          48.169362853
+        ],
+        "pixel": [
+          504,
+          149
+        ]
+      },
+      {
+        "location": [
+          23.14498241,
+          48.025756785
+        ],
+        "pixel": [
+          364,
+          351
+        ]
+      },
+      {
+        "location": [
+          23.019098645,
+          48.139931435
+        ],
+        "pixel": [
+          238,
+          194
+        ]
+      },
+      {
+        "location": [
+          22.871040707,
+          48.223429099
+        ],
+        "pixel": [
+          92,
+          80
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1919"]
+}

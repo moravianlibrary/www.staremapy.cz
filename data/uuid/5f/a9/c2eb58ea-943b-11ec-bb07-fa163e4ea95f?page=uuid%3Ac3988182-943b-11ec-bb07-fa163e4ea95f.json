@@ -1,0 +1,125 @@
+{
+  "date": ["1929"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:c2eb58ea-943b-11ec-bb07-fa163e4ea95f?page=uuid%3Ac3988182-943b-11ec-bb07-fa163e4ea95f",
+  "description": "Obecnice (Česko)",
+  "scale": 10000,
+  "external_id": "1253894",
+  "title": "[Mapový list]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.83238,
+    49.68637,
+    13.89471,
+    49.71816
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:c2eb58ea-943b-11ec-bb07-fa163e4ea95f",
+  "id": "94bef10b-f255-5376-b3a7-25eb77a21d05",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        543,
+        52
+      ],
+      [
+        542,
+        362
+      ],
+      [
+        102,
+        362
+      ],
+      [
+        103,
+        52
+      ],
+      [
+        381,
+        52
+      ],
+      [
+        543,
+        52
+      ]
+    ],
+    "created": "2015-11-05T16:11:52.910050+00:00",
+    "transformation_method": "affine",
+    "mapID": "94bef10b-f255-5376-b3a7-25eb77a21d05",
+    "affine_transformation": null,
+    "changed": "2022-12-23T03:56:36.768964+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.884044342,
+          49.68945204
+        ],
+        "pixel": [
+          467,
+          337
+        ]
+      },
+      {
+        "location": [
+          13.858407496839527,
+          49.71254919553584
+        ],
+        "pixel": [
+          287,
+          105
+        ]
+      },
+      {
+        "location": [
+          13.87669090430094,
+          49.70440795313033
+        ],
+        "pixel": [
+          414,
+          185
+        ]
+      },
+      {
+        "location": [
+          13.852799892,
+          49.688312598
+        ],
+        "pixel": [
+          245,
+          347
+        ]
+      },
+      {
+        "location": [
+          13.837951183409666,
+          49.695176733186145
+        ],
+        "pixel": [
+          141,
+          273
+        ]
+      },
+      {
+        "location": [
+          13.872634223231408,
+          49.702353824249485
+        ],
+        "pixel": [
+          387,
+          207
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1929"]
+}

@@ -1,0 +1,101 @@
+{
+  "date": ["1893"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:c7f0cb92-992f-11ec-bb3c-fa163e4ea95f?page=uuid%3Ac91fa696-992f-11ec-bb3c-fa163e4ea95f",
+  "description": "Polsko",
+  "scale": 75000,
+  "external_id": "1293233",
+  "title": "Turka",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    22.830421,
+    48.998577,
+    23.334751,
+    49.248856
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:c7f0cb92-992f-11ec-bb3c-fa163e4ea95f",
+  "id": "60a1ce94-51b4-5ebf-b732-fc66196e22ea",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        50,
+        392
+      ],
+      [
+        544,
+        392
+      ],
+      [
+        544,
+        39
+      ],
+      [
+        54,
+        38
+      ],
+      [
+        50,
+        392
+      ]
+    ],
+    "created": "2017-04-17T19:29:19.822410+00:00",
+    "transformation_method": "affine",
+    "mapID": "60a1ce94-51b4-5ebf-b732-fc66196e22ea",
+    "affine_transformation": null,
+    "changed": "2017-04-17T19:29:19.822410+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.306696208,
+          49.21300286
+        ],
+        "pixel": [
+          520,
+          90
+        ]
+      },
+      {
+        "location": [
+          22.85272141,
+          49.235891009
+        ],
+        "pixel": [
+          75,
+          57
+        ]
+      },
+      {
+        "location": [
+          23.035685809,
+          49.152130783
+        ],
+        "pixel": [
+          253,
+          175
+        ]
+      },
+      {
+        "location": [
+          23.036200793,
+          49.058151318
+        ],
+        "pixel": [
+          252,
+          308
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1893"]
+}

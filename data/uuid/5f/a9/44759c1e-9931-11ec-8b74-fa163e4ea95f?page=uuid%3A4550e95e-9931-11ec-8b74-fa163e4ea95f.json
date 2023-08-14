@@ -1,0 +1,111 @@
+{
+  "date": ["1893"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:44759c1e-9931-11ec-8b74-fa163e4ea95f?page=uuid%3A4550e95e-9931-11ec-8b74-fa163e4ea95f",
+  "description": "Ukrajina",
+  "scale": 75000,
+  "external_id": "1293275",
+  "title": "Monasterzyska",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    24.753098,
+    48.945213,
+    25.409403,
+    49.281532
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:44759c1e-9931-11ec-8b74-fa163e4ea95f",
+  "id": "227eb119-e59f-5a20-9753-0ff334789c5a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:45:15.292310+00:00",
+    "transformation_method": "affine",
+    "mapID": "227eb119-e59f-5a20-9753-0ff334789c5a",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:45:15.292310+00:00",
+    "gcps": [
+      {
+        "location": [
+          24.851455443,
+          49.037032767
+        ],
+        "pixel": [
+          88,
+          322
+        ]
+      },
+      {
+        "location": [
+          24.929239504,
+          49.200195105
+        ],
+        "pixel": [
+          161,
+          106
+        ]
+      },
+      {
+        "location": [
+          25.319103949,
+          49.239465867
+        ],
+        "pixel": [
+          519,
+          55
+        ]
+      },
+      {
+        "location": [
+          25.286509745,
+          49.081225793
+        ],
+        "pixel": [
+          489,
+          266
+        ]
+      },
+      {
+        "location": [
+          25.272218935,
+          49.046077044
+        ],
+        "pixel": [
+          475,
+          312
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1893"]
+}

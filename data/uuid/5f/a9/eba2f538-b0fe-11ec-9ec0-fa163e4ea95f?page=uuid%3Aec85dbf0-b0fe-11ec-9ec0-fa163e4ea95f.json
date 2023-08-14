@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:eba2f538-b0fe-11ec-9ec0-fa163e4ea95f?page=uuid%3Aec85dbf0-b0fe-11ec-9ec0-fa163e4ea95f",
+  "description": "Kalifornie",
+  "scale": 62500,
+  "external_id": "1374993",
+  "title": "California",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Fletcher, L. C.",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -122.28081,
+    37.977264,
+    -121.96662,
+    38.27028
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:eba2f538-b0fe-11ec-9ec0-fa163e4ea95f",
+  "id": "e18da7a4-d468-582c-93f8-b314445492f8",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        541,
+        29
+      ],
+      [
+        542,
+        406
+      ],
+      [
+        59,
+        406
+      ],
+      [
+        58,
+        29
+      ],
+      [
+        541,
+        29
+      ]
+    ],
+    "created": "2016-01-08T13:32:07.126550+00:00",
+    "transformation_method": "affine",
+    "mapID": "e18da7a4-d468-582c-93f8-b314445492f8",
+    "affine_transformation": null,
+    "changed": "2016-01-08T13:32:07.126550+00:00",
+    "gcps": [
+      {
+        "location": [
+          -122.13790621023128,
+          38.210055463521144
+        ],
+        "pixel": [
+          273,
+          91
+        ]
+      },
+      {
+        "location": [
+          -122.06241546848135,
+          38.23592554577854
+        ],
+        "pixel": [
+          418,
+          51
+        ]
+      },
+      {
+        "location": [
+          -122.19733437781058,
+          38.23055157986735
+        ],
+        "pixel": [
+          160,
+          59
+        ]
+      },
+      {
+        "location": [
+          -122.19430381819845,
+          38.05992612160841
+        ],
+        "pixel": [
+          164,
+          319
+        ]
+      },
+      {
+        "location": [
+          -122.02061289217284,
+          38.04126114117588
+        ],
+        "pixel": [
+          497,
+          346
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

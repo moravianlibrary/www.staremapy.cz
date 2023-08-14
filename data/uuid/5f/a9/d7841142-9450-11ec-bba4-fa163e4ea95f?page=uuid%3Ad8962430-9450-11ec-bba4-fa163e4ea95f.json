@@ -1,0 +1,111 @@
+{
+  "date": ["1914"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:d7841142-9450-11ec-bba4-fa163e4ea95f?page=uuid%3Ad8962430-9450-11ec-bba4-fa163e4ea95f",
+  "description": "Bobrujsk (Bělorusko)",
+  "scale": 200000,
+  "external_id": "1254500",
+  "title": "Bobrujsk",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    28.67583,
+    52.404484,
+    30.010183,
+    53.549698
+  ],
+  "reviewed": null,
+  "publisher": "K.u.k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:d7841142-9450-11ec-bba4-fa163e4ea95f",
+  "id": "1088c860-9ccd-57ec-a778-a79ab0dd59fa",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:13:02.374960+00:00",
+    "transformation_method": "affine",
+    "mapID": "1088c860-9ccd-57ec-a778-a79ab0dd59fa",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:13:02.374960+00:00",
+    "gcps": [
+      {
+        "location": [
+          29.422759546,
+          52.806081322
+        ],
+        "pixel": [
+          337,
+          288
+        ]
+      },
+      {
+        "location": [
+          28.975999671,
+          53.434017918
+        ],
+        "pixel": [
+          136,
+          45
+        ]
+      },
+      {
+        "location": [
+          29.569615854,
+          53.120198331
+        ],
+        "pixel": [
+          402,
+          167
+        ]
+      },
+      {
+        "location": [
+          28.885293422,
+          52.554948396
+        ],
+        "pixel": [
+          93,
+          387
+        ]
+      },
+      {
+        "location": [
+          29.212646021,
+          53.129623679
+        ],
+        "pixel": [
+          240,
+          164
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1914"]
+}

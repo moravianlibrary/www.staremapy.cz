@@ -1,0 +1,111 @@
+{
+  "date": ["1932"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:81fab184-a4a6-11ec-a89b-fa163e4ea95f?page=uuid%3A82e0f338-a4a6-11ec-a89b-fa163e4ea95f",
+  "description": "Moskva (Rusko : oblast)",
+  "scale": 100000,
+  "external_id": "1337451",
+  "title": "RSFSR",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    34.929024,
+    56.287575,
+    35.570137,
+    56.714046
+  ],
+  "reviewed": null,
+  "publisher": "Glavnoje geodezičeskoje upravlenije",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:81fab184-a4a6-11ec-a89b-fa163e4ea95f",
+  "id": "d90350f9-307c-5d5a-b029-3c3dfaca9d14",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:25:07.630950+00:00",
+    "transformation_method": "affine",
+    "mapID": "d90350f9-307c-5d5a-b029-3c3dfaca9d14",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:25:07.630950+00:00",
+    "gcps": [
+      {
+        "location": [
+          35.47153279,
+          56.592930235
+        ],
+        "pixel": [
+          509,
+          125
+        ]
+      },
+      {
+        "location": [
+          35.261200905,
+          56.393913033
+        ],
+        "pixel": [
+          313,
+          333
+        ]
+      },
+      {
+        "location": [
+          35.0293293,
+          56.484706485
+        ],
+        "pixel": [
+          90,
+          239
+        ]
+      },
+      {
+        "location": [
+          35.307163239,
+          56.662624754
+        ],
+        "pixel": [
+          358,
+          54
+        ]
+      },
+      {
+        "location": [
+          35.374489935,
+          56.347908872
+        ],
+        "pixel": [
+          415,
+          381
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1932"]
+}

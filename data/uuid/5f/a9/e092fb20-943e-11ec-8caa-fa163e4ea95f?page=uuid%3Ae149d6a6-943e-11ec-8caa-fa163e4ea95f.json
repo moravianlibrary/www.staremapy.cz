@@ -1,0 +1,111 @@
+{
+  "date": ["1932"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:e092fb20-943e-11ec-8caa-fa163e4ea95f?page=uuid%3Ae149d6a6-943e-11ec-8caa-fa163e4ea95f",
+  "description": "Albrechtice (Karviná, Česko)",
+  "scale": 10000,
+  "external_id": "1253984",
+  "title": "[Mapový list]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    18.56694,
+    49.740967,
+    18.652744,
+    49.785698
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:e092fb20-943e-11ec-8caa-fa163e4ea95f",
+  "id": "b107476c-945e-547b-9635-06e4b87c0980",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:12:03.694180+00:00",
+    "transformation_method": "affine",
+    "mapID": "b107476c-945e-547b-9635-06e4b87c0980",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:12:03.694180+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.607245562,
+          49.75581469
+        ],
+        "pixel": [
+          281,
+          296
+        ]
+      },
+      {
+        "location": [
+          18.596613286,
+          49.773895151
+        ],
+        "pixel": [
+          207,
+          116
+        ]
+      },
+      {
+        "location": [
+          18.586149625,
+          49.770066308
+        ],
+        "pixel": [
+          134,
+          153
+        ]
+      },
+      {
+        "location": [
+          18.599949954,
+          49.753610478
+        ],
+        "pixel": [
+          229,
+          318
+        ]
+      },
+      {
+        "location": [
+          18.603190062,
+          49.767686599
+        ],
+        "pixel": [
+          254,
+          178
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1932"]
+}

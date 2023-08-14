@@ -1,0 +1,111 @@
+{
+  "date": ["1937"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:6d4a33d8-7277-11ec-8f56-fa163e4ea95f?page=uuid%3A6e441b14-7277-11ec-8f56-fa163e4ea95f",
+  "description": "Nízké Tatry (Slovensko)",
+  "scale": 25000,
+  "external_id": "1119737",
+  "title": "[Gradkartenblatt]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    19.821112,
+    48.863132,
+    20.090242,
+    49.00837
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:6d4a33d8-7277-11ec-8f56-fa163e4ea95f",
+  "id": "42b973b8-5ab8-5840-8748-d3f1a14e1aa4",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2014-08-19T13:35:30.989390+00:00",
+    "transformation_method": "affine",
+    "mapID": "42b973b8-5ab8-5840-8748-d3f1a14e1aa4",
+    "affine_transformation": null,
+    "changed": "2014-08-19T13:35:30.989390+00:00",
+    "gcps": [
+      {
+        "location": [
+          19.878954846,
+          48.94340778
+        ],
+        "pixel": [
+          129,
+          199
+        ]
+      },
+      {
+        "location": [
+          19.877495724,
+          48.988599211
+        ],
+        "pixel": [
+          125,
+          60
+        ]
+      },
+      {
+        "location": [
+          19.981458146,
+          48.968445624
+        ],
+        "pixel": [
+          358,
+          121
+        ]
+      },
+      {
+        "location": [
+          20.073761342,
+          48.891745506
+        ],
+        "pixel": [
+          563,
+          355
+        ]
+      },
+      {
+        "location": [
+          19.831833681,
+          48.896389201
+        ],
+        "pixel": [
+          23,
+          344
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1937"]
+}

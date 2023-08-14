@@ -1,0 +1,111 @@
+{
+  "date": ["1945"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:bda246e2-9458-11ec-ad72-fa163e4ea95f?page=uuid%3Abea7573a-9458-11ec-ad72-fa163e4ea95f",
+  "description": null,
+  "scale": 200000,
+  "external_id": "1254719",
+  "title": "41°49° Svalava",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    22.693094,
+    48.33667,
+    23.950077,
+    49.612576
+  ],
+  "reviewed": null,
+  "publisher": "Zeměměřičský úřad",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:bda246e2-9458-11ec-ad72-fa163e4ea95f",
+  "id": "174e00d2-2418-5edd-9fa0-a1fe56a6df38",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:14:36.855600+00:00",
+    "transformation_method": "affine",
+    "mapID": "174e00d2-2418-5edd-9fa0-a1fe56a6df38",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:14:36.855600+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.655261008,
+          49.230270299
+        ],
+        "pixel": [
+          458,
+          134
+        ]
+      },
+      {
+        "location": [
+          23.506087271,
+          49.351244187
+        ],
+        "pixel": [
+          387,
+          91
+        ]
+      },
+      {
+        "location": [
+          23.032044379,
+          49.154770458
+        ],
+        "pixel": [
+          163,
+          160
+        ]
+      },
+      {
+        "location": [
+          22.95035564,
+          48.550561054
+        ],
+        "pixel": [
+          121,
+          370
+        ]
+      },
+      {
+        "location": [
+          23.500011167,
+          48.529146657
+        ],
+        "pixel": [
+          389,
+          377
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1945"]
+}

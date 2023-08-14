@@ -1,0 +1,111 @@
+{
+  "date": ["1940"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:e4ce292c-9f64-11ec-8f31-fa163e4ea95f?page=uuid%3Ae5b0ddd0-9f64-11ec-8f31-fa163e4ea95f",
+  "description": "Litva",
+  "scale": 100000,
+  "external_id": "1332516",
+  "title": "Litovskaja SSR i Germanija",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    22.42898,
+    54.61115,
+    23.100084,
+    55.05806
+  ],
+  "reviewed": null,
+  "publisher": "General'nyj štab Krasnoj Armii",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:e4ce292c-9f64-11ec-8f31-fa163e4ea95f",
+  "id": "fb457bc9-f1fe-5a40-b612-f74ea4007721",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:10:15.813970+00:00",
+    "transformation_method": "affine",
+    "mapID": "fb457bc9-f1fe-5a40-b612-f74ea4007721",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:10:15.813970+00:00",
+    "gcps": [
+      {
+        "location": [
+          22.505683148,
+          54.704107996
+        ],
+        "pixel": [
+          62,
+          351
+        ]
+      },
+      {
+        "location": [
+          22.668187261,
+          54.795184834
+        ],
+        "pixel": [
+          213,
+          260
+        ]
+      },
+      {
+        "location": [
+          22.863543272,
+          54.773920765
+        ],
+        "pixel": [
+          388,
+          284
+        ]
+      },
+      {
+        "location": [
+          22.995005151,
+          54.880612295
+        ],
+        "pixel": [
+          510,
+          177
+        ]
+      },
+      {
+        "location": [
+          22.706875443,
+          54.975290554
+        ],
+        "pixel": [
+          250,
+          82
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1940"]
+}

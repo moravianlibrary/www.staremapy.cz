@@ -1,0 +1,111 @@
+{
+  "date": ["1926"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:5f1897fe-7962-11ec-8140-fa163e4ea95f?page=uuid%3A600338ae-7962-11ec-8140-fa163e4ea95f",
+  "description": "Fryštát (Karviná, Česko)",
+  "scale": 75000,
+  "external_id": "1125536",
+  "title": "Fryštát",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    17.88333,
+    49.7467,
+    18.829582,
+    49.90749
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:5f1897fe-7962-11ec-8140-fa163e4ea95f",
+  "id": "68b5908b-8f78-5f6a-a5f9-d8ac21aa71a1",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        53,
+        35
+      ],
+      [
+        560,
+        38
+      ],
+      [
+        555,
+        402
+      ],
+      [
+        56,
+        399
+      ],
+      [
+        53,
+        35
+      ]
+    ],
+    "created": "2014-12-07T07:28:59.916140+00:00",
+    "transformation_method": "affine",
+    "mapID": "68b5908b-8f78-5f6a-a5f9-d8ac21aa71a1",
+    "affine_transformation": null,
+    "changed": "2014-12-07T07:28:59.916140+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.465287876,
+          49.762150553
+        ],
+        "pixel": [
+          186,
+          378
+        ]
+      },
+      {
+        "location": [
+          18.528630924,
+          49.759045625
+        ],
+        "pixel": [
+          231,
+          388
+        ]
+      },
+      {
+        "location": [
+          18.55927248,
+          49.755580068
+        ],
+        "pixel": [
+          280,
+          388
+        ]
+      },
+      {
+        "location": [
+          18.524854374,
+          49.757825777
+        ],
+        "pixel": [
+          227,
+          391
+        ]
+      },
+      {
+        "location": [
+          18.548371983,
+          49.762926754
+        ],
+        "pixel": [
+          270,
+          377
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1926"]
+}

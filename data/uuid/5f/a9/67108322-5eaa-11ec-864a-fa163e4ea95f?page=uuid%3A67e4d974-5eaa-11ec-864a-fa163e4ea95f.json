@@ -1,0 +1,111 @@
+{
+  "date": ["1876"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:67108322-5eaa-11ec-864a-fa163e4ea95f?page=uuid%3A67e4d974-5eaa-11ec-864a-fa163e4ea95f",
+  "description": "Hustopeče-oblast (Česko)",
+  "scale": 25000,
+  "external_id": "1065544",
+  "title": "Gradkartenblatt",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Bulla, Eduard",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.58437,
+    48.875145,
+    16.833374,
+    48.99827
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:67108322-5eaa-11ec-864a-fa163e4ea95f",
+  "id": "40ee6a15-fb80-54fc-a2bb-5137e446a7c7",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        16,
+        425
+      ],
+      [
+        549,
+        425
+      ],
+      [
+        549,
+        50
+      ],
+      [
+        16,
+        50
+      ],
+      [
+        16,
+        425
+      ]
+    ],
+    "created": "2015-04-06T20:30:10.136270+00:00",
+    "transformation_method": "affine",
+    "mapID": "40ee6a15-fb80-54fc-a2bb-5137e446a7c7",
+    "affine_transformation": null,
+    "changed": "2015-04-06T20:30:10.136270+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.650413153,
+          48.904044567
+        ],
+        "pixel": [
+          157,
+          339
+        ]
+      },
+      {
+        "location": [
+          16.786712286,
+          48.990290187
+        ],
+        "pixel": [
+          448,
+          73
+        ]
+      },
+      {
+        "location": [
+          16.813577292,
+          48.962572561
+        ],
+        "pixel": [
+          507,
+          158
+        ]
+      },
+      {
+        "location": [
+          16.671742079,
+          48.927255348
+        ],
+        "pixel": [
+          204,
+          266
+        ]
+      },
+      {
+        "location": [
+          16.713927863,
+          48.897626562
+        ],
+        "pixel": [
+          294,
+          357
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1876"]
+}

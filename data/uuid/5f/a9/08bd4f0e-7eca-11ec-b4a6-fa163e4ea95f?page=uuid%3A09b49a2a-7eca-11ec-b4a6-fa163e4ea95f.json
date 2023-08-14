@@ -1,0 +1,111 @@
+{
+  "date": ["1932"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:08bd4f0e-7eca-11ec-b4a6-fa163e4ea95f?page=uuid%3A09b49a2a-7eca-11ec-b4a6-fa163e4ea95f",
+  "description": "Praha (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1169147",
+  "title": "Praha",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.241032,
+    49.952755,
+    14.932936,
+    50.289764
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:08bd4f0e-7eca-11ec-b4a6-fa163e4ea95f",
+  "id": "10a599bd-6b09-5b1b-b439-69c9b5de62fa",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T15:45:22.972560+00:00",
+    "transformation_method": "affine",
+    "mapID": "10a599bd-6b09-5b1b-b439-69c9b5de62fa",
+    "affine_transformation": null,
+    "changed": "2015-11-05T15:45:22.972560+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.801423178,
+          50.140854144
+        ],
+        "pixel": [
+          487,
+          196
+        ]
+      },
+      {
+        "location": [
+          14.400499782,
+          50.202918585
+        ],
+        "pixel": [
+          138,
+          115
+        ]
+      },
+      {
+        "location": [
+          14.547227344,
+          50.13504981
+        ],
+        "pixel": [
+          265,
+          203
+        ]
+      },
+      {
+        "location": [
+          14.35912939,
+          50.052813191
+        ],
+        "pixel": [
+          101,
+          312
+        ]
+      },
+      {
+        "location": [
+          14.446547703,
+          50.026775049
+        ],
+        "pixel": [
+          177,
+          347
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1932"]
+}

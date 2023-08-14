@@ -1,0 +1,127 @@
+{
+  "date": ["1898"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:305fba1a-9f31-11ec-ae83-fa163e4ea95f?page=uuid%3A31c5662a-9f31-11ec-ae83-fa163e4ea95f",
+  "description": "Rumunsko",
+  "scale": 200000,
+  "external_id": "1331091",
+  "title": "47°45° Sulina",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    28.815464,
+    44.46809,
+    29.828592,
+    45.508644
+  ],
+  "reviewed": null,
+  "publisher": "K. u k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:305fba1a-9f31-11ec-ae83-fa163e4ea95f",
+  "id": "acfab1a7-89e5-5cd2-b63d-01f47e17dcae",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        72,
+        44
+      ],
+      [
+        530,
+        44
+      ],
+      [
+        532,
+        399
+      ],
+      [
+        84,
+        399
+      ],
+      [
+        71,
+        406
+      ],
+      [
+        62,
+        405
+      ],
+      [
+        69,
+        397
+      ],
+      [
+        72,
+        44
+      ],
+      [
+        72,
+        44
+      ]
+    ],
+    "created": "2016-05-20T20:33:42.149700+00:00",
+    "transformation_method": "affine",
+    "mapID": "acfab1a7-89e5-5cd2-b63d-01f47e17dcae",
+    "affine_transformation": null,
+    "changed": "2016-05-20T20:33:42.149700+00:00",
+    "gcps": [
+      {
+        "location": [
+          29.271501904,
+          45.441331686
+        ],
+        "pixel": [
+          266,
+          66
+        ]
+      },
+      {
+        "location": [
+          29.584612256,
+          45.400847868
+        ],
+        "pixel": [
+          418,
+          79
+        ]
+      },
+      {
+        "location": [
+          28.840288525,
+          45.34489392
+        ],
+        "pixel": [
+          74,
+          102
+        ]
+      },
+      {
+        "location": [
+          29.0964073,
+          44.87580927
+        ],
+        "pixel": [
+          190,
+          264
+        ]
+      },
+      {
+        "location": [
+          29.656023389,
+          45.151524683
+        ],
+        "pixel": [
+          452,
+          166
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1898"]
+}

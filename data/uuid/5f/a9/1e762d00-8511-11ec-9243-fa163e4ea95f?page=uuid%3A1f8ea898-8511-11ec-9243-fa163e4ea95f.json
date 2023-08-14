@@ -1,0 +1,111 @@
+{
+  "date": ["1943"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:1e762d00-8511-11ec-9243-fa163e4ea95f?page=uuid%3A1f8ea898-8511-11ec-9243-fa163e4ea95f",
+  "description": "Kursk-oblast (Rusko)",
+  "scale": 300000,
+  "external_id": "1181412",
+  "title": "Osteuropa 1:300 000",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    34.319824,
+    50.99273,
+    36.331528,
+    52.002262
+  ],
+  "reviewed": null,
+  "publisher": "OKH",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:1e762d00-8511-11ec-9243-fa163e4ea95f",
+  "id": "1daa1082-c412-5bc9-b4c8-459c4aaf624c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        41,
+        369
+      ],
+      [
+        465,
+        369
+      ],
+      [
+        462,
+        47
+      ],
+      [
+        46,
+        47
+      ],
+      [
+        41,
+        369
+      ]
+    ],
+    "created": "2015-01-17T13:39:05.258680+00:00",
+    "transformation_method": "affine",
+    "mapID": "1daa1082-c412-5bc9-b4c8-459c4aaf624c",
+    "affine_transformation": null,
+    "changed": "2015-01-17T13:39:05.258680+00:00",
+    "gcps": [
+      {
+        "location": [
+          36.228367833,
+          51.738182845
+        ],
+        "pixel": [
+          441,
+          133
+        ]
+      },
+      {
+        "location": [
+          34.698478927,
+          51.557820703
+        ],
+        "pixel": [
+          119,
+          189
+        ]
+      },
+      {
+        "location": [
+          36.280552892,
+          51.100603003
+        ],
+        "pixel": [
+          454,
+          337
+        ]
+      },
+      {
+        "location": [
+          36.136357335,
+          51.418791877
+        ],
+        "pixel": [
+          422,
+          235
+        ]
+      },
+      {
+        "location": [
+          36.13326743,
+          51.654764953
+        ],
+        "pixel": [
+          421,
+          159
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1943"]
+}

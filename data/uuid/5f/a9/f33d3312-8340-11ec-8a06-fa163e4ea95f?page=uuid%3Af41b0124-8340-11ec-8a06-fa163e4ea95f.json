@@ -1,0 +1,111 @@
+{
+  "date": ["1914"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:f33d3312-8340-11ec-8a06-fa163e4ea95f?page=uuid%3Af41b0124-8340-11ec-8a06-fa163e4ea95f",
+  "description": "Atlantský oceán (oblast)",
+  "scale": 13000000,
+  "external_id": "1176781",
+  "title": "Pilot chart of the South Atlantic Ocean",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Maury, Matthew Fontaine",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -84.65023,
+    -63.461246,
+    41.68666,
+    12.524449
+  ],
+  "reviewed": null,
+  "publisher": "Hydrographic Office",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:f33d3312-8340-11ec-8a06-fa163e4ea95f",
+  "id": "4a5aa50b-f806-5671-8645-462853d58976",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2014-08-19T15:37:23.788610+00:00",
+    "transformation_method": "affine",
+    "mapID": "4a5aa50b-f806-5671-8645-462853d58976",
+    "affine_transformation": null,
+    "changed": "2014-08-19T15:37:23.788610+00:00",
+    "gcps": [
+      {
+        "location": [
+          -56.19612790855989,
+          -34.90681922790167
+        ],
+        "pixel": [
+          135,
+          232
+        ]
+      },
+      {
+        "location": [
+          -43.16315348028308,
+          -22.881397055081763
+        ],
+        "pixel": [
+          197,
+          168
+        ]
+      },
+      {
+        "location": [
+          -44.38104580438894,
+          -2.4872147202232497
+        ],
+        "pixel": [
+          191,
+          69
+        ]
+      },
+      {
+        "location": [
+          -50.20379971063894,
+          0.37943261280516083
+        ],
+        "pixel": [
+          163,
+          57
+        ]
+      },
+      {
+        "location": [
+          -58.440109379888774,
+          -34.60725603750366
+        ],
+        "pixel": [
+          124,
+          231
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1914"]
+}

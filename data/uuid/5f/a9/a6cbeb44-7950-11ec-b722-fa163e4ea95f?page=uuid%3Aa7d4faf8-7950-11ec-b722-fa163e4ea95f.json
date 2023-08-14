@@ -1,0 +1,111 @@
+{
+  "date": ["1938"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:a6cbeb44-7950-11ec-b722-fa163e4ea95f?page=uuid%3Aa7d4faf8-7950-11ec-b722-fa163e4ea95f",
+  "description": "Klingenthal (Německo)",
+  "scale": 25000,
+  "external_id": "1125002",
+  "title": "[Kartenblatt]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.289255,
+    50.226215,
+    12.640528,
+    50.399624
+  ],
+  "reviewed": null,
+  "publisher": "Reichsamt für Landesaufnahme",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:a6cbeb44-7950-11ec-b722-fa163e4ea95f",
+  "id": "6169f75b-781f-5b7d-b6c1-6ceb28e277ec",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2014-08-19T14:02:07.986290+00:00",
+    "transformation_method": "affine",
+    "mapID": "6169f75b-781f-5b7d-b6c1-6ceb28e277ec",
+    "affine_transformation": null,
+    "changed": "2014-08-19T14:02:07.986290+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.467285468,
+          50.354368049
+        ],
+        "pixel": [
+          304,
+          116
+        ]
+      },
+      {
+        "location": [
+          12.39767678,
+          50.321786467
+        ],
+        "pixel": [
+          186,
+          199
+        ]
+      },
+      {
+        "location": [
+          12.581032588,
+          50.366441798
+        ],
+        "pixel": [
+          498,
+          84
+        ]
+      },
+      {
+        "location": [
+          12.573350742,
+          50.296502892
+        ],
+        "pixel": [
+          486,
+          264
+        ]
+      },
+      {
+        "location": [
+          12.408598735,
+          50.255280367
+        ],
+        "pixel": [
+          202,
+          369
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1938"]
+}

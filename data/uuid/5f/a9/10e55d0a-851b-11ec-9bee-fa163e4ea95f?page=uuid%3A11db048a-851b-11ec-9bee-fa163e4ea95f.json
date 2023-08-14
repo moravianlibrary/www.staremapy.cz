@@ -1,0 +1,131 @@
+{
+  "date": ["1876"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:10e55d0a-851b-11ec-9bee-fa163e4ea95f?page=uuid%3A11db048a-851b-11ec-9bee-fa163e4ea95f",
+  "description": "Antarktický oceán",
+  "scale": 500000,
+  "external_id": "1181706",
+  "title": "Kerguelen Insel",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    68.42865,
+    -49.848057,
+    70.74277,
+    -48.43253
+  ],
+  "reviewed": null,
+  "publisher": "D. Reimer",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:10e55d0a-851b-11ec-9bee-fa163e4ea95f",
+  "id": "5fb91c1e-107d-5e99-8831-c36714830627",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        36,
+        412
+      ],
+      [
+        552,
+        412
+      ],
+      [
+        552,
+        36
+      ],
+      [
+        36,
+        36
+      ],
+      [
+        36,
+        412
+      ]
+    ],
+    "created": "2017-07-16T13:09:08.718850+00:00",
+    "transformation_method": "affine",
+    "mapID": "5fb91c1e-107d-5e99-8831-c36714830627",
+    "affine_transformation": null,
+    "changed": "2017-07-16T13:09:08.718850+00:00",
+    "gcps": [
+      {
+        "location": [
+          70.550985583,
+          -49.193015064
+        ],
+        "pixel": [
+          509,
+          238
+        ]
+      },
+      {
+        "location": [
+          69.490118274,
+          -49.583875549
+        ],
+        "pixel": [
+          275,
+          345
+        ]
+      },
+      {
+        "location": [
+          69.400854358,
+          -49.273048832
+        ],
+        "pixel": [
+          249,
+          249
+        ]
+      },
+      {
+        "location": [
+          70.240110726,
+          -49.689209447
+        ],
+        "pixel": [
+          441,
+          371
+        ]
+      },
+      {
+        "location": [
+          68.791591609,
+          -48.590991357
+        ],
+        "pixel": [
+          114,
+          77
+        ]
+      },
+      {
+        "location": [
+          69.502064015,
+          -48.86594902
+        ],
+        "pixel": [
+          279,
+          150
+        ]
+      },
+      {
+        "location": [
+          68.637783016,
+          -48.638656475
+        ],
+        "pixel": [
+          85,
+          91
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1876"]
+}

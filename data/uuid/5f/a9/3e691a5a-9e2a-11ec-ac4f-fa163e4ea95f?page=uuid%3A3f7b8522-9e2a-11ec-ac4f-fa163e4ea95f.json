@@ -1,0 +1,121 @@
+{
+  "date": ["1903"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:3e691a5a-9e2a-11ec-ac4f-fa163e4ea95f?page=uuid%3A3f7b8522-9e2a-11ec-ac4f-fa163e4ea95f",
+  "description": null,
+  "scale": 200000,
+  "external_id": "1304143",
+  "title": "39°46° Temesvár",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    20.84749,
+    45.49159,
+    21.83049,
+    46.500362
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:3e691a5a-9e2a-11ec-ac4f-fa163e4ea95f",
+  "id": "e0911f65-7bbc-51d6-b1fb-4d9d20eb5b7b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        74,
+        404
+      ],
+      [
+        532,
+        404
+      ],
+      [
+        532,
+        43
+      ],
+      [
+        74,
+        43
+      ],
+      [
+        74,
+        404
+      ]
+    ],
+    "created": "2016-02-04T17:18:56.353720+00:00",
+    "transformation_method": "affine",
+    "mapID": "e0911f65-7bbc-51d6-b1fb-4d9d20eb5b7b",
+    "affine_transformation": null,
+    "changed": "2016-02-04T17:18:56.353720+00:00",
+    "gcps": [
+      {
+        "location": [
+          21.066459131,
+          46.166416844
+        ],
+        "pixel": [
+          175,
+          165
+        ]
+      },
+      {
+        "location": [
+          21.603415918,
+          45.648507575
+        ],
+        "pixel": [
+          426,
+          349
+        ]
+      },
+      {
+        "location": [
+          21.310561609,
+          46.340665909
+        ],
+        "pixel": [
+          289,
+          99
+        ]
+      },
+      {
+        "location": [
+          21.331504297,
+          46.171647616
+        ],
+        "pixel": [
+          300,
+          161
+        ]
+      },
+      {
+        "location": [
+          21.22713418,
+          45.752092739
+        ],
+        "pixel": [
+          252,
+          310
+        ]
+      },
+      {
+        "location": [
+          21.007407617,
+          45.653547403
+        ],
+        "pixel": [
+          148,
+          348
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1903"]
+}

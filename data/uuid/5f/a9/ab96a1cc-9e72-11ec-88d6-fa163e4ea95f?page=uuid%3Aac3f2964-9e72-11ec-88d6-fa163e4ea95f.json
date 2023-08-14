@@ -1,0 +1,111 @@
+{
+  "date": ["1926"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:ab96a1cc-9e72-11ec-88d6-fa163e4ea95f?page=uuid%3Aac3f2964-9e72-11ec-88d6-fa163e4ea95f",
+  "description": "Ukrajina",
+  "scale": 75000,
+  "external_id": "1306183",
+  "title": "Berezovo",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    23.331358,
+    48.249653,
+    23.832047,
+    48.500767
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:ab96a1cc-9e72-11ec-88d6-fa163e4ea95f",
+  "id": "ed808039-fa26-5a9a-8dc1-d5b04293451e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        39,
+        396
+      ],
+      [
+        558,
+        396
+      ],
+      [
+        558,
+        36
+      ],
+      [
+        39,
+        36
+      ],
+      [
+        39,
+        396
+      ]
+    ],
+    "created": "2017-03-07T22:26:50.790060+00:00",
+    "transformation_method": "affine",
+    "mapID": "ed808039-fa26-5a9a-8dc1-d5b04293451e",
+    "affine_transformation": null,
+    "changed": "2017-03-07T22:26:50.790060+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.482234793,
+          48.307051103
+        ],
+        "pixel": [
+          193,
+          318
+        ]
+      },
+      {
+        "location": [
+          23.565790968,
+          48.267672855
+        ],
+        "pixel": [
+          283,
+          369
+        ]
+      },
+      {
+        "location": [
+          23.484169422,
+          48.492047334
+        ],
+        "pixel": [
+          199,
+          46
+        ]
+      },
+      {
+        "location": [
+          23.697970229,
+          48.42625675
+        ],
+        "pixel": [
+          419,
+          142
+        ]
+      },
+      {
+        "location": [
+          23.656213599,
+          48.452421213
+        ],
+        "pixel": [
+          376,
+          103
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1926"]
+}

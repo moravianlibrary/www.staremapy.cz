@@ -1,0 +1,111 @@
+{
+  "date": ["1924"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:a71eac30-a49d-11ec-926f-fa163e4ea95f?page=uuid%3Aa7e93806-a49d-11ec-926f-fa163e4ea95f",
+  "description": null,
+  "scale": 75000,
+  "external_id": "1337208",
+  "title": "Pincehely",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    18.267372,
+    46.454605,
+    18.899448,
+    46.78184
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:a71eac30-a49d-11ec-926f-fa163e4ea95f",
+  "id": "3e6be7f8-2c1e-5188-a4ed-41ed102df90b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:24:33.928660+00:00",
+    "transformation_method": "affine",
+    "mapID": "3e6be7f8-2c1e-5188-a4ed-41ed102df90b",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:24:33.928660+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.70025069,
+          46.637977128
+        ],
+        "pixel": [
+          411,
+          195
+        ]
+      },
+      {
+        "location": [
+          18.587812488,
+          46.508408022
+        ],
+        "pixel": [
+          304,
+          370
+        ]
+      },
+      {
+        "location": [
+          18.810225259,
+          46.535050887
+        ],
+        "pixel": [
+          516,
+          335
+        ]
+      },
+      {
+        "location": [
+          18.42979819,
+          46.677623725
+        ],
+        "pixel": [
+          154,
+          142
+        ]
+      },
+      {
+        "location": [
+          18.764438279,
+          46.716841772
+        ],
+        "pixel": [
+          472,
+          88
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1924"]
+}

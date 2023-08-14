@@ -1,0 +1,111 @@
+{
+  "date": ["1919"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:d1cf7cd2-9f40-11ec-81b1-fa163e4ea95f?page=uuid%3Ad559c88a-9f40-11ec-81b1-fa163e4ea95f",
+  "description": "Maďarsko",
+  "scale": 75000,
+  "external_id": "1331526",
+  "title": "Szikszó a Tisza-Dob",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    20.835222,
+    47.99819,
+    21.333431,
+    48.251026
+  ],
+  "reviewed": null,
+  "publisher": "Kartografické oddělení Min. Nár. Obrany",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:d1cf7cd2-9f40-11ec-81b1-fa163e4ea95f",
+  "id": "07500339-4f46-546a-a70d-6ec3bb90c753",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        47,
+        388
+      ],
+      [
+        553,
+        390
+      ],
+      [
+        550,
+        42
+      ],
+      [
+        47,
+        43
+      ],
+      [
+        47,
+        388
+      ]
+    ],
+    "created": "2016-02-07T20:31:53.680700+00:00",
+    "transformation_method": "affine",
+    "mapID": "07500339-4f46-546a-a70d-6ec3bb90c753",
+    "affine_transformation": null,
+    "changed": "2016-02-07T20:31:53.680700+00:00",
+    "gcps": [
+      {
+        "location": [
+          20.908205032,
+          48.244465337
+        ],
+        "pixel": [
+          123,
+          50
+        ]
+      },
+      {
+        "location": [
+          20.860526085,
+          48.115093586
+        ],
+        "pixel": [
+          71,
+          234
+        ]
+      },
+      {
+        "location": [
+          21.327273369,
+          48.022751796
+        ],
+        "pixel": [
+          548,
+          357
+        ]
+      },
+      {
+        "location": [
+          21.278349876,
+          48.189048016
+        ],
+        "pixel": [
+          495,
+          126
+        ]
+      },
+      {
+        "location": [
+          21.067807198,
+          48.02384251
+        ],
+        "pixel": [
+          282,
+          355
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1919"]
+}

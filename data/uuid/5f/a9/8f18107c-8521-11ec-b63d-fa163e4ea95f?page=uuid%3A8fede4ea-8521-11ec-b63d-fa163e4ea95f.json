@@ -1,0 +1,111 @@
+{
+  "date": ["1932"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:8f18107c-8521-11ec-b63d-fa163e4ea95f?page=uuid%3A8fede4ea-8521-11ec-b63d-fa163e4ea95f",
+  "description": "Banská Štiavnica (Slovensko : oblast)",
+  "scale": 75000,
+  "external_id": "1181902",
+  "title": "Banská Štiavnica",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    18.828749,
+    48.24495,
+    19.337784,
+    48.496826
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:8f18107c-8521-11ec-b63d-fa163e4ea95f",
+  "id": "39c5fb4d-1a69-56c8-92e8-3a87b6493a71",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        72,
+        48
+      ],
+      [
+        531,
+        48
+      ],
+      [
+        531,
+        385
+      ],
+      [
+        70,
+        387
+      ],
+      [
+        72,
+        48
+      ]
+    ],
+    "created": "2014-12-07T08:05:51.553730+00:00",
+    "transformation_method": "affine",
+    "mapID": "39c5fb4d-1a69-56c8-92e8-3a87b6493a71",
+    "affine_transformation": null,
+    "changed": "2014-12-07T08:05:51.553730+00:00",
+    "gcps": [
+      {
+        "location": [
+          19.144172948,
+          48.423378311
+        ],
+        "pixel": [
+          357,
+          146
+        ]
+      },
+      {
+        "location": [
+          19.091129582,
+          48.434939683
+        ],
+        "pixel": [
+          309,
+          131
+        ]
+      },
+      {
+        "location": [
+          19.068856519,
+          48.352956682
+        ],
+        "pixel": [
+          288,
+          242
+        ]
+      },
+      {
+        "location": [
+          19.099026006,
+          48.419860968
+        ],
+        "pixel": [
+          317,
+          151
+        ]
+      },
+      {
+        "location": [
+          19.132499974,
+          48.435224412
+        ],
+        "pixel": [
+          346,
+          131
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1932"]
+}

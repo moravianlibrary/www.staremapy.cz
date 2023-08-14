@@ -1,0 +1,111 @@
+{
+  "date": ["1937"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:29d787e6-9e63-11ec-be8b-fa163e4ea95f?page=uuid%3A2a85b758-9e63-11ec-be8b-fa163e4ea95f",
+  "description": "Rakousko",
+  "scale": 75000,
+  "external_id": "1305745",
+  "title": "Linz und Eferding",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.835318,
+    48.251495,
+    14.331819,
+    48.499226
+  ],
+  "reviewed": null,
+  "publisher": "Kartographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:29d787e6-9e63-11ec-be8b-fa163e4ea95f",
+  "id": "8ad1279c-87a7-5ec5-b63b-d4cd8a57f34a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        55,
+        391
+      ],
+      [
+        546,
+        391
+      ],
+      [
+        546,
+        34
+      ],
+      [
+        55,
+        34
+      ],
+      [
+        55,
+        391
+      ]
+    ],
+    "created": "2017-09-20T20:32:25.002730+00:00",
+    "transformation_method": "affine",
+    "mapID": "8ad1279c-87a7-5ec5-b63b-d4cd8a57f34a",
+    "affine_transformation": null,
+    "changed": "2017-09-20T20:32:25.002730+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.869980389,
+          48.423669445
+        ],
+        "pixel": [
+          89,
+          143
+        ]
+      },
+      {
+        "location": [
+          13.925427014,
+          48.475134052
+        ],
+        "pixel": [
+          144,
+          69
+        ]
+      },
+      {
+        "location": [
+          14.281238133,
+          48.4951877
+        ],
+        "pixel": [
+          497,
+          39
+        ]
+      },
+      {
+        "location": [
+          13.978985364,
+          48.262963403
+        ],
+        "pixel": [
+          198,
+          375
+        ]
+      },
+      {
+        "location": [
+          14.260853345,
+          48.264506122
+        ],
+        "pixel": [
+          476,
+          372
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1937"]
+}

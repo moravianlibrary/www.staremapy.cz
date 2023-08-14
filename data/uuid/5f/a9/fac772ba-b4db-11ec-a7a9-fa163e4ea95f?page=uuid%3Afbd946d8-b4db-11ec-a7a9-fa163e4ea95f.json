@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:fac772ba-b4db-11ec-a7a9-fa163e4ea95f?page=uuid%3Afbd946d8-b4db-11ec-a7a9-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1389381",
+  "title": "Górzno",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    19.268154,
+    52.95517,
+    19.949335,
+    53.2874
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:fac772ba-b4db-11ec-a7a9-fa163e4ea95f",
+  "id": "8eb2610f-0b23-5355-9871-22dfbac1c8b8",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2016-01-08T13:40:47.080670+00:00",
+    "transformation_method": "affine",
+    "mapID": "8eb2610f-0b23-5355-9871-22dfbac1c8b8",
+    "affine_transformation": null,
+    "changed": "2016-01-08T13:40:47.080670+00:00",
+    "gcps": [
+      {
+        "location": [
+          19.399757234,
+          53.249311207
+        ],
+        "pixel": [
+          116,
+          50
+        ]
+      },
+      {
+        "location": [
+          19.530582046,
+          53.009359177
+        ],
+        "pixel": [
+          232,
+          372
+        ]
+      },
+      {
+        "location": [
+          19.409434644,
+          53.065721067
+        ],
+        "pixel": [
+          123,
+          295
+        ]
+      },
+      {
+        "location": [
+          19.761786088,
+          53.237768579
+        ],
+        "pixel": [
+          433,
+          66
+        ]
+      },
+      {
+        "location": [
+          19.794170705,
+          53.051019531
+        ],
+        "pixel": [
+          465,
+          316
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

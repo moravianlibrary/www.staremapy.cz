@@ -1,0 +1,111 @@
+{
+  "date": ["1890"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:d13b7ce8-944c-11ec-a230-fa163e4ea95f?page=uuid%3Ad27cf244-944c-11ec-a230-fa163e4ea95f",
+  "description": "Brest (Bělorusko : oblast)",
+  "scale": 200000,
+  "external_id": "1254386",
+  "title": "Brest Litowsk",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    22.587658,
+    51.357723,
+    24.111603,
+    52.626835
+  ],
+  "reviewed": null,
+  "publisher": "K.u.k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:d13b7ce8-944c-11ec-a230-fa163e4ea95f",
+  "id": "0c4b9874-6c88-508b-abfd-b0181ec807ff",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:12:49.089320+00:00",
+    "transformation_method": "affine",
+    "mapID": "0c4b9874-6c88-508b-abfd-b0181ec807ff",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:12:49.089320+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.036841716,
+          51.57548239
+        ],
+        "pixel": [
+          175,
+          368
+        ]
+      },
+      {
+        "location": [
+          22.87010894,
+          52.427829847
+        ],
+        "pixel": [
+          110,
+          70
+        ]
+      },
+      {
+        "location": [
+          23.715788596,
+          52.090146884
+        ],
+        "pixel": [
+          445,
+          189
+        ]
+      },
+      {
+        "location": [
+          23.749434226,
+          52.431354946
+        ],
+        "pixel": [
+          456,
+          69
+        ]
+      },
+      {
+        "location": [
+          23.554212325,
+          51.543732959
+        ],
+        "pixel": [
+          385,
+          379
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1890"]
+}

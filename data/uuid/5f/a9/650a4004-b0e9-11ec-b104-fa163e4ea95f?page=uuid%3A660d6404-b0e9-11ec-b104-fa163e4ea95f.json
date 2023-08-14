@@ -1,0 +1,111 @@
+{
+  "date": ["1906"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:650a4004-b0e9-11ec-b104-fa163e4ea95f?page=uuid%3A660d6404-b0e9-11ec-b104-fa163e4ea95f",
+  "description": "New Jersey",
+  "scale": 62500,
+  "external_id": "1374448",
+  "title": "New Jersey - New York",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Wilson, H. M.",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -74.284035,
+    40.72357,
+    -73.9642,
+    41.016197
+  ],
+  "reviewed": null,
+  "publisher": "U. S. Geological Survey",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:650a4004-b0e9-11ec-b104-fa163e4ea95f",
+  "id": "2f0927ac-c89e-59f1-a0c9-b0760c4a3a30",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2016-01-08T13:30:59.967990+00:00",
+    "transformation_method": "affine",
+    "mapID": "2f0927ac-c89e-59f1-a0c9-b0760c4a3a30",
+    "affine_transformation": null,
+    "changed": "2016-01-08T13:30:59.967990+00:00",
+    "gcps": [
+      {
+        "location": [
+          -74.17216371453497,
+          40.916727468743176
+        ],
+        "pixel": [
+          211,
+          151
+        ]
+      },
+      {
+        "location": [
+          -74.02696333719571,
+          40.76000647552533
+        ],
+        "pixel": [
+          483,
+          388
+        ]
+      },
+      {
+        "location": [
+          -74.22405321544062,
+          40.767155556469305
+        ],
+        "pixel": [
+          111,
+          378
+        ]
+      },
+      {
+        "location": [
+          -74.02193880045023,
+          40.84833856596339
+        ],
+        "pixel": [
+          492,
+          253
+        ]
+      },
+      {
+        "location": [
+          -74.03286860200559,
+          40.99132732165907
+        ],
+        "pixel": [
+          472,
+          37
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1906"]
+}

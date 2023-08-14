@@ -1,0 +1,111 @@
+{
+  "date": ["1873"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:2b759d28-942b-11ec-8e77-fa163e4ea95f?page=uuid%3A2c344688-942b-11ec-8e77-fa163e4ea95f",
+  "description": "Chiva (Uzbekistán)",
+  "scale": 2130000,
+  "external_id": "1253352",
+  "title": "General'naja karta Chivinskago chanstva",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    50.86423,
+    38.20444,
+    64.79889,
+    47.830288
+  ],
+  "reviewed": null,
+  "publisher": "izdanije A.F. Marksa",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:2b759d28-942b-11ec-8e77-fa163e4ea95f",
+  "id": "3c72e6d4-aa65-57d4-81e1-413502a95a3b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:11:00.559090+00:00",
+    "transformation_method": "affine",
+    "mapID": "3c72e6d4-aa65-57d4-81e1-413502a95a3b",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:11:00.559090+00:00",
+    "gcps": [
+      {
+        "location": [
+          62.09920306,
+          45.77065766
+        ],
+        "pixel": [
+          493,
+          98
+        ]
+      },
+      {
+        "location": [
+          60.346771399,
+          41.389932302
+        ],
+        "pixel": [
+          408,
+          305
+        ]
+      },
+      {
+        "location": [
+          61.309352083,
+          41.200447124
+        ],
+        "pixel": [
+          453,
+          311
+        ]
+      },
+      {
+        "location": [
+          53.745361487,
+          44.936843018
+        ],
+        "pixel": [
+          124,
+          141
+        ]
+      },
+      {
+        "location": [
+          52.904907385,
+          41.065102055
+        ],
+        "pixel": [
+          76,
+          321
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1873"]
+}

@@ -1,0 +1,121 @@
+{
+  "date": ["1919"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:3683c71a-9f1d-11ec-9b88-fa163e4ea95f?page=uuid%3A37b27618-9f1d-11ec-9b88-fa163e4ea95f",
+  "description": null,
+  "scale": 75000,
+  "external_id": "1330534",
+  "title": "Porohy",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    23.772785,
+    48.45708,
+    24.37815,
+    48.782257
+  ],
+  "reviewed": null,
+  "publisher": "Min. Nár. Obrany, Kartografické odd.",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:3683c71a-9f1d-11ec-9b88-fa163e4ea95f",
+  "id": "893469ff-35bc-5943-8ff6-dd54af6de5c2",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:05:46.363800+00:00",
+    "transformation_method": "affine",
+    "mapID": "893469ff-35bc-5943-8ff6-dd54af6de5c2",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:05:46.363800+00:00",
+    "gcps": [
+      {
+        "location": [
+          24.026638953,
+          48.588933015
+        ],
+        "pixel": [
+          251,
+          263
+        ]
+      },
+      {
+        "location": [
+          24.299281503,
+          48.506181768
+        ],
+        "pixel": [
+          524,
+          376
+        ]
+      },
+      {
+        "location": [
+          24.130923239,
+          48.701714774
+        ],
+        "pixel": [
+          354,
+          110
+        ]
+      },
+      {
+        "location": [
+          24.019257513,
+          48.647474908
+        ],
+        "pixel": [
+          244,
+          184
+        ]
+      },
+      {
+        "location": [
+          24.025866476,
+          48.529172218
+        ],
+        "pixel": [
+          252,
+          345
+        ]
+      },
+      {
+        "location": [
+          23.896944599,
+          48.50318456
+        ],
+        "pixel": [
+          123,
+          382
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1919"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": ["1937"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:067277d6-9f88-11ec-a1c4-fa163e4ea95f?page=uuid%3A0759341e-9f88-11ec-a1c4-fa163e4ea95f",
+  "description": "Prusko",
+  "scale": 25000,
+  "external_id": "1333488",
+  "title": "Dorfmark",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    9.648165,
+    52.874786,
+    9.865859,
+    53.013092
+  ],
+  "reviewed": null,
+  "publisher": "Reichsamt für Landesaufnahme",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:067277d6-9f88-11ec-a1c4-fa163e4ea95f",
+  "id": "2027a264-8f32-55d4-920b-a575545f6eef",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:12:17.311720+00:00",
+    "transformation_method": "affine",
+    "mapID": "2027a264-8f32-55d4-920b-a575545f6eef",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:12:17.311720+00:00",
+    "gcps": [
+      {
+        "location": [
+          9.744592666625968,
+          52.94334525639994
+        ],
+        "pixel": [
+          266,
+          224
+        ]
+      },
+      {
+        "location": [
+          9.77802339244687,
+          52.90571417204981
+        ],
+        "pixel": [
+          357,
+          344
+        ]
+      },
+      {
+        "location": [
+          9.689083234085798,
+          52.915800927764536
+        ],
+        "pixel": [
+          112,
+          312
+        ]
+      },
+      {
+        "location": [
+          9.791370391845694,
+          52.933982570017605
+        ],
+        "pixel": [
+          395,
+          253
+        ]
+      },
+      {
+        "location": [
+          9.808965682983386,
+          52.97045109122331
+        ],
+        "pixel": [
+          443,
+          136
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1937"]
+}

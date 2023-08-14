@@ -1,0 +1,133 @@
+{
+  "date": ["1927"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:9a3682c8-7e13-11ec-af6e-fa163e4ea95f?page=uuid%3A9b233014-7e13-11ec-af6e-fa163e4ea95f",
+  "description": null,
+  "scale": 25000,
+  "external_id": "1141707",
+  "title": "Gosau",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.4575,
+    47.561977,
+    13.58248,
+    47.62439
+  ],
+  "reviewed": null,
+  "publisher": "Kartographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:9a3682c8-7e13-11ec-af6e-fa163e4ea95f",
+  "id": "9c2ef4b4-9e77-5fa1-89a5-f8d3a1c414ef",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        303,
+        66
+      ],
+      [
+        537,
+        66
+      ],
+      [
+        537,
+        382
+      ],
+      [
+        307,
+        383
+      ],
+      [
+        75,
+        383
+      ],
+      [
+        67,
+        383
+      ],
+      [
+        68,
+        67
+      ],
+      [
+        303,
+        66
+      ]
+    ],
+    "created": "2014-08-19T14:34:19.883350+00:00",
+    "transformation_method": "affine",
+    "mapID": "9c2ef4b4-9e77-5fa1-89a5-f8d3a1c414ef",
+    "affine_transformation": null,
+    "changed": "2021-01-22T10:24:57.953766+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.467691265487664,
+          47.592909944272435
+        ],
+        "pixel": [
+          106,
+          226
+        ]
+      },
+      {
+        "location": [
+          13.547142110510555,
+          47.58781343187482
+        ],
+        "pixel": [
+          405,
+          252
+        ]
+      },
+      {
+        "location": [
+          13.561187507856332,
+          47.58786866773141
+        ],
+        "pixel": [
+          458,
+          252
+        ]
+      },
+      {
+        "location": [
+          13.533731065436088,
+          47.58352944704049
+        ],
+        "pixel": [
+          353,
+          272
+        ]
+      },
+      {
+        "location": [
+          13.575735809553118,
+          47.58949677775823
+        ],
+        "pixel": [
+          512,
+          244
+        ]
+      },
+      {
+        "location": [
+          13.521841072589817,
+          47.56794105314799
+        ],
+        "pixel": [
+          309,
+          353
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1927"]
+}

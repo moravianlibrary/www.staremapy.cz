@@ -1,0 +1,111 @@
+{
+  "date": ["1939"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:3bb330de-ab90-11ec-a3f1-fa163e4ea95f?page=uuid%3A3c75425a-ab90-11ec-a3f1-fa163e4ea95f",
+  "description": "Prostějov (Česko)",
+  "scale": 5000,
+  "external_id": "1366968",
+  "title": "Plán města Prostějova",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    17.090807,
+    49.458225,
+    17.13659,
+    49.483704
+  ],
+  "reviewed": null,
+  "publisher": "J. F. Buček",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:3bb330de-ab90-11ec-a3f1-fa163e4ea95f",
+  "id": "dfa6f5de-44c7-5bd7-805b-ed4545575185",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        108,
+        403
+      ],
+      [
+        492,
+        399
+      ],
+      [
+        492,
+        76
+      ],
+      [
+        108,
+        76
+      ],
+      [
+        108,
+        403
+      ]
+    ],
+    "created": "2016-11-22T10:53:01.385690+00:00",
+    "transformation_method": "affine",
+    "mapID": "dfa6f5de-44c7-5bd7-805b-ed4545575185",
+    "affine_transformation": null,
+    "changed": "2016-11-22T10:53:01.385690+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.108775378,
+          49.474043131
+        ],
+        "pixel": [
+          259,
+          200
+        ]
+      },
+      {
+        "location": [
+          17.117632031,
+          49.469333645
+        ],
+        "pixel": [
+          335,
+          259
+        ]
+      },
+      {
+        "location": [
+          17.119375468,
+          49.476089229
+        ],
+        "pixel": [
+          346,
+          167
+        ]
+      },
+      {
+        "location": [
+          17.128301859,
+          49.47219913
+        ],
+        "pixel": [
+          423,
+          220
+        ]
+      },
+      {
+        "location": [
+          17.111564875,
+          49.463776497
+        ],
+        "pixel": [
+          282,
+          331
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1939"]
+}

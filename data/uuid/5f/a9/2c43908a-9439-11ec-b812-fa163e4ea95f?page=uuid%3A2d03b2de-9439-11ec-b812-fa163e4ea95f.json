@@ -1,0 +1,111 @@
+{
+  "date": ["1929"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:2c43908a-9439-11ec-b812-fa163e4ea95f?page=uuid%3A2d03b2de-9439-11ec-b812-fa163e4ea95f",
+  "description": "Slezská Ostrava (Ostrava, Česko)",
+  "scale": 10000,
+  "external_id": "1253819",
+  "title": "[Mapový list]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    18.25706,
+    49.8043,
+    18.342968,
+    49.8486
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:2c43908a-9439-11ec-b812-fa163e4ea95f",
+  "id": "b99ce300-a303-58fb-b348-59a5abd8a28f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:11:45.165620+00:00",
+    "transformation_method": "affine",
+    "mapID": "b99ce300-a303-58fb-b348-59a5abd8a28f",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:11:45.165620+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.327009612,
+          49.822341588
+        ],
+        "pixel": [
+          489,
+          263
+        ]
+      },
+      {
+        "location": [
+          18.282640921,
+          49.841568679
+        ],
+        "pixel": [
+          178,
+          70
+        ]
+      },
+      {
+        "location": [
+          18.278593294,
+          49.831379709
+        ],
+        "pixel": [
+          151,
+          172
+        ]
+      },
+      {
+        "location": [
+          18.319328495,
+          49.840326077
+        ],
+        "pixel": [
+          435,
+          82
+        ]
+      },
+      {
+        "location": [
+          18.29817655,
+          49.814430757
+        ],
+        "pixel": [
+          287,
+          342
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1929"]
+}

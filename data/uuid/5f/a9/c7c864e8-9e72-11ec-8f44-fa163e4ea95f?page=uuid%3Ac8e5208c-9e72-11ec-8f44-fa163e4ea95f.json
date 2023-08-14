@@ -1,0 +1,111 @@
+{
+  "date": ["1934"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:c7c864e8-9e72-11ec-8f44-fa163e4ea95f?page=uuid%3Ac8e5208c-9e72-11ec-8f44-fa163e4ea95f",
+  "description": "Ukrajina",
+  "scale": 75000,
+  "external_id": "1306186",
+  "title": "Horinčovo",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    23.261965,
+    48.199913,
+    23.900518,
+    48.52885
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:c7c864e8-9e72-11ec-8f44-fa163e4ea95f",
+  "id": "de9c50ec-657a-5dea-aa20-ad88d135c223",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:01:34.897270+00:00",
+    "transformation_method": "affine",
+    "mapID": "de9c50ec-657a-5dea-aa20-ad88d135c223",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:01:34.897270+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.484015758,
+          48.492040251
+        ],
+        "pixel": [
+          208,
+          49
+        ]
+      },
+      {
+        "location": [
+          23.359094499,
+          48.331109953
+        ],
+        "pixel": [
+          92,
+          268
+        ]
+      },
+      {
+        "location": [
+          23.428590613,
+          48.265844556
+        ],
+        "pixel": [
+          157,
+          356
+        ]
+      },
+      {
+        "location": [
+          23.565833884,
+          48.267701422
+        ],
+        "pixel": [
+          285,
+          353
+        ]
+      },
+      {
+        "location": [
+          23.707797842,
+          48.426285228
+        ],
+        "pixel": [
+          420,
+          137
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1934"]
+}

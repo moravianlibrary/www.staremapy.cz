@@ -1,0 +1,111 @@
+{
+  "date": ["1932"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:8e1f211a-9f7f-11ec-8d84-fa163e4ea95f?page=uuid%3A8f0be8ce-9f7f-11ec-8d84-fa163e4ea95f",
+  "description": "Prusko",
+  "scale": 25000,
+  "external_id": "1333254",
+  "title": "Groß Trakehnen",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    22.329433,
+    54.497665,
+    22.498264,
+    54.599163
+  ],
+  "reviewed": null,
+  "publisher": "Reichsamt für Landesaufnahme",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:8e1f211a-9f7f-11ec-8d84-fa163e4ea95f",
+  "id": "5f15744c-510b-59bd-a2dc-d6cc032ad27d",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        46,
+        375
+      ],
+      [
+        490,
+        375
+      ],
+      [
+        487,
+        53
+      ],
+      [
+        46,
+        54
+      ],
+      [
+        46,
+        375
+      ]
+    ],
+    "created": "2016-03-20T22:37:28.555870+00:00",
+    "transformation_method": "affine",
+    "mapID": "5f15744c-510b-59bd-a2dc-d6cc032ad27d",
+    "affine_transformation": null,
+    "changed": "2016-03-20T22:37:28.555870+00:00",
+    "gcps": [
+      {
+        "location": [
+          22.374010265,
+          54.553106375
+        ],
+        "pixel": [
+          163,
+          199
+        ]
+      },
+      {
+        "location": [
+          22.447972178,
+          54.56760767
+        ],
+        "pixel": [
+          357,
+          153
+        ]
+      },
+      {
+        "location": [
+          22.350886941,
+          54.537453452
+        ],
+        "pixel": [
+          103,
+          250
+        ]
+      },
+      {
+        "location": [
+          22.447872937,
+          54.588944308
+        ],
+        "pixel": [
+          357,
+          86
+        ]
+      },
+      {
+        "location": [
+          22.468112886,
+          54.54734424
+        ],
+        "pixel": [
+          411,
+          218
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1932"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": ["1914"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:c0ec2ede-96a7-11ec-ae2e-fa163e4ea95f?page=uuid%3Ac1c04598-96a7-11ec-ae2e-fa163e4ea95f",
+  "description": "Rumunsko",
+  "scale": 200000,
+  "external_id": "1271784",
+  "title": "45°44° Silistra",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    26.745716,
+    43.39332,
+    27.921806,
+    44.582882
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:c0ec2ede-96a7-11ec-ae2e-fa163e4ea95f",
+  "id": "71890ccf-8ee6-597e-9e15-f7bcfdeadbbb",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:15:30.255270+00:00",
+    "transformation_method": "affine",
+    "mapID": "71890ccf-8ee6-597e-9e15-f7bcfdeadbbb",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:15:30.255270+00:00",
+    "gcps": [
+      {
+        "location": [
+          27.815368338,
+          43.572026036
+        ],
+        "pixel": [
+          547,
+          377
+        ]
+      },
+      {
+        "location": [
+          27.253751544,
+          44.113689076
+        ],
+        "pixel": [
+          258,
+          176
+        ]
+      },
+      {
+        "location": [
+          27.28568056,
+          43.946856478
+        ],
+        "pixel": [
+          273,
+          237
+        ]
+      },
+      {
+        "location": [
+          26.896759089,
+          44.2948604
+        ],
+        "pixel": [
+          78,
+          109
+        ]
+      },
+      {
+        "location": [
+          27.48764017,
+          44.100746828
+        ],
+        "pixel": [
+          381,
+          179
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1914"]
+}

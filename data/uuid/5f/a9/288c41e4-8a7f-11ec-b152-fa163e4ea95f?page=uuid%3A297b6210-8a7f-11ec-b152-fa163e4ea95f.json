@@ -1,0 +1,111 @@
+{
+  "date": ["1918"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:288c41e4-8a7f-11ec-b152-fa163e4ea95f?page=uuid%3A297b6210-8a7f-11ec-b152-fa163e4ea95f",
+  "description": "Brest (Bělorusko : oblast)",
+  "scale": 750000,
+  "external_id": "1282692",
+  "title": "Brest-Litowsk, Pinsk, Ostrog, Kołki",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Geng, K.",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    22.615122,
+    49.662113,
+    28.663969,
+    52.942028
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:288c41e4-8a7f-11ec-b152-fa163e4ea95f",
+  "id": "4a0db7eb-f183-5772-b441-999e172b55bf",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:20:02.457780+00:00",
+    "transformation_method": "affine",
+    "mapID": "4a0db7eb-f183-5772-b441-999e172b55bf",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:20:02.457780+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.698584833,
+          52.105939538
+        ],
+        "pixel": [
+          80,
+          123
+        ]
+      },
+      {
+        "location": [
+          26.245095529,
+          50.619751334
+        ],
+        "pixel": [
+          379,
+          323
+        ]
+      },
+      {
+        "location": [
+          27.648834966,
+          51.222747358
+        ],
+        "pixel": [
+          516,
+          216
+        ]
+      },
+      {
+        "location": [
+          23.887400478,
+          50.804902738
+        ],
+        "pixel": [
+          121,
+          318
+        ]
+      },
+      {
+        "location": [
+          26.100642481,
+          52.116218265
+        ],
+        "pixel": [
+          334,
+          99
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1918"]
+}

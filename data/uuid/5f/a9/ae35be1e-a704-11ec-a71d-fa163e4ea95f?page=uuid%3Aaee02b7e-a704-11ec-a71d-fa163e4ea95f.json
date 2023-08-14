@@ -1,0 +1,101 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:ae35be1e-a704-11ec-a71d-fa163e4ea95f?page=uuid%3Aaee02b7e-a704-11ec-a71d-fa163e4ea95f",
+  "description": "Evropa střední",
+  "scale": 20000000,
+  "external_id": "1343064",
+  "title": "Přehled počasí",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Machač, František",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.540955,
+    45.910973,
+    22.08696,
+    53.920437
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:ae35be1e-a704-11ec-a71d-fa163e4ea95f",
+  "id": "c4c35635-e2e4-5296-bdbf-ed82032dbb28",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:33:08.336230+00:00",
+    "transformation_method": "affine",
+    "mapID": "c4c35635-e2e4-5296-bdbf-ed82032dbb28",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:33:08.336230+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.491209535497044,
+          49.81042333449918
+        ],
+        "pixel": [
+          157,
+          301
+        ]
+      },
+      {
+        "location": [
+          19.358397035497045,
+          49.65419891202936
+        ],
+        "pixel": [
+          396,
+          278
+        ]
+      },
+      {
+        "location": [
+          15.666990785497042,
+          45.829654179743045
+        ],
+        "pixel": [
+          158,
+          91
+        ]
+      },
+      {
+        "location": [
+          16.084471254247042,
+          52.52365245574205
+        ],
+        "pixel": [
+          316,
+          109
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

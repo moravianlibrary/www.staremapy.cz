@@ -1,0 +1,121 @@
+{
+  "date": ["1876"],
+  "creator": "Haushofer, Karl",
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:9a205dba-7862-11ec-98eb-fa163e4ea95f?page=uuid%3A9ad3c210-7862-11ec-98eb-fa163e4ea95f",
+  "description": "Rofan (Rakousko)",
+  "scale": 52000,
+  "external_id": "1129403",
+  "title": "Karte der Rofangruppe",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    11.688815,
+    47.39559,
+    11.849123,
+    47.545452
+  ],
+  "reviewed": null,
+  "publisher": "Deutscher und Oesterreichischer Alpenverein",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:9a205dba-7862-11ec-98eb-fa163e4ea95f",
+  "id": "dc768d41-94b7-5c84-acee-226bef86d43b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2014-08-19T14:19:39.321090+00:00",
+    "transformation_method": "affine",
+    "mapID": "dc768d41-94b7-5c84-acee-226bef86d43b",
+    "affine_transformation": null,
+    "changed": "2014-08-19T14:19:39.321090+00:00",
+    "gcps": [
+      {
+        "location": [
+          11.698932349,
+          47.440248503
+        ],
+        "pixel": [
+          41,
+          305
+        ]
+      },
+      {
+        "location": [
+          11.833343207,
+          47.421668476
+        ],
+        "pixel": [
+          514,
+          369
+        ]
+      },
+      {
+        "location": [
+          11.798495947,
+          47.404592295
+        ],
+        "pixel": [
+          441,
+          416
+        ]
+      },
+      {
+        "location": [
+          11.712493597,
+          47.414583114
+        ],
+        "pixel": [
+          73,
+          388
+        ]
+      },
+      {
+        "location": [
+          11.705112158,
+          47.527718596
+        ],
+        "pixel": [
+          64,
+          50
+        ]
+      },
+      {
+        "location": [
+          11.7502591,
+          47.423759057
+        ],
+        "pixel": [
+          233,
+          367
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1876"]
+}

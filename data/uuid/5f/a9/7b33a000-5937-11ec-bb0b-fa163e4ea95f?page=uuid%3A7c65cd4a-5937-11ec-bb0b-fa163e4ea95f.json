@@ -1,0 +1,111 @@
+{
+  "date": ["1929"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:7b33a000-5937-11ec-bb0b-fa163e4ea95f?page=uuid%3A7c65cd4a-5937-11ec-bb0b-fa163e4ea95f",
+  "description": "Jelení Hora-oblast (Polsko)",
+  "scale": 100000,
+  "external_id": "1053602",
+  "title": "Liegnitz-Hirschberg (Riesengebirge)",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    11.948684,
+    50.09046,
+    20.38008,
+    52.30577
+  ],
+  "reviewed": null,
+  "publisher": "Reichsamt für Landesaufnahme",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:7b33a000-5937-11ec-bb0b-fa163e4ea95f",
+  "id": "c1f2be88-f547-514e-8793-8682f7315846",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2014-08-19T12:19:50.824460+00:00",
+    "transformation_method": "affine",
+    "mapID": "c1f2be88-f547-514e-8793-8682f7315846",
+    "affine_transformation": null,
+    "changed": "2014-08-19T12:19:50.824460+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.815560535033793,
+          51.120058447507915
+        ],
+        "pixel": [
+          243,
+          175
+        ]
+      },
+      {
+        "location": [
+          15.81665915108249,
+          51.11936885143055
+        ],
+        "pixel": [
+          241,
+          170
+        ]
+      },
+      {
+        "location": [
+          16.093002956491695,
+          51.19269165123126
+        ],
+        "pixel": [
+          296,
+          228
+        ]
+      },
+      {
+        "location": [
+          15.789742680703855,
+          51.112817070067905
+        ],
+        "pixel": [
+          238,
+          168
+        ]
+      },
+      {
+        "location": [
+          15.795432517936092,
+          51.11422730671569
+        ],
+        "pixel": [
+          254,
+          200
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1929"]
+}

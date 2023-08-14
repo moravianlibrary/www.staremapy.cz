@@ -1,0 +1,121 @@
+{
+  "date": ["1881"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:db341e86-90c7-11ec-8af4-fa163e4ea95f?page=uuid%3Adc232eb8-90c7-11ec-8af4-fa163e4ea95f",
+  "description": "Plovdiv (Bulharsko : oblast)",
+  "scale": 300000,
+  "external_id": "1238763",
+  "title": "Philippopel",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    24.206915,
+    41.633186,
+    26.18031,
+    42.8924
+  ],
+  "reviewed": null,
+  "publisher": "K. k. militär. geografisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:db341e86-90c7-11ec-8af4-fa163e4ea95f",
+  "id": "d69f898d-7c84-5640-95a1-b88cbf9edeb6",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        82,
+        42
+      ],
+      [
+        516,
+        45
+      ],
+      [
+        515,
+        392
+      ],
+      [
+        80,
+        391
+      ],
+      [
+        82,
+        42
+      ]
+    ],
+    "created": "2017-11-23T06:39:26.470660+00:00",
+    "transformation_method": "affine",
+    "mapID": "d69f898d-7c84-5640-95a1-b88cbf9edeb6",
+    "affine_transformation": null,
+    "changed": "2017-11-23T06:39:26.470660+00:00",
+    "gcps": [
+      {
+        "location": [
+          25.394564629,
+          42.619138822
+        ],
+        "pixel": [
+          341,
+          109
+        ]
+      },
+      {
+        "location": [
+          25.589915276,
+          42.056324321
+        ],
+        "pixel": [
+          412,
+          271
+        ]
+      },
+      {
+        "location": [
+          25.554553032,
+          41.934359237
+        ],
+        "pixel": [
+          417,
+          309
+        ]
+      },
+      {
+        "location": [
+          24.973221779,
+          42.612569803
+        ],
+        "pixel": [
+          199,
+          116
+        ]
+      },
+      {
+        "location": [
+          25.896330833,
+          41.940169358
+        ],
+        "pixel": [
+          495,
+          300
+        ]
+      },
+      {
+        "location": [
+          24.747229576,
+          42.144908294
+        ],
+        "pixel": [
+          202,
+          263
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1881"]
+}

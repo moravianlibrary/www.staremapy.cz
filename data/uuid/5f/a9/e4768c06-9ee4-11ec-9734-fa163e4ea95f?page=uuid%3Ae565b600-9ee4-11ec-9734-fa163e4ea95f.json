@@ -1,0 +1,111 @@
+{
+  "date": ["1943"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:e4768c06-9ee4-11ec-9734-fa163e4ea95f?page=uuid%3Ae565b600-9ee4-11ec-9734-fa163e4ea95f",
+  "description": "Česko",
+  "scale": 1000000,
+  "external_id": "1328896",
+  "title": "Böhmisch-mährisches Dreiecksnetz",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.0446205,
+    48.26624,
+    19.780687,
+    51.84369
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:e4768c06-9ee4-11ec-9734-fa163e4ea95f",
+  "id": "2e33aca9-8818-5c46-9797-eb45b0b2a1f4",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:03:05.474100+00:00",
+    "transformation_method": "affine",
+    "mapID": "2e33aca9-8818-5c46-9797-eb45b0b2a1f4",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:03:05.474100+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.44870574933615,
+          49.54599566374944
+        ],
+        "pixel": [
+          497,
+          286
+        ]
+      },
+      {
+        "location": [
+          14.611374687066263,
+          49.01620779360604
+        ],
+        "pixel": [
+          196,
+          352
+        ]
+      },
+      {
+        "location": [
+          16.847351966891512,
+          50.20735542636453
+        ],
+        "pixel": [
+          372,
+          209
+        ]
+      },
+      {
+        "location": [
+          17.808396108696044,
+          48.94463690723265
+        ],
+        "pixel": [
+          448,
+          365
+        ]
+      },
+      {
+        "location": [
+          14.986864245605467,
+          50.13513965840386
+        ],
+        "pixel": [
+          229,
+          215
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1943"]
+}

@@ -1,0 +1,101 @@
+{
+  "date": ["1894"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:3913d20a-9909-11ec-aa40-fa163e4ea95f?page=uuid%3A3a0f4586-9909-11ec-aa40-fa163e4ea95f",
+  "description": "Polsko",
+  "scale": 75000,
+  "external_id": "1292138",
+  "title": "Rzeszów und Łańcut",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    21.764725,
+    49.962543,
+    22.400684,
+    50.279137
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:3913d20a-9909-11ec-aa40-fa163e4ea95f",
+  "id": "a5d0d92b-2837-5fc3-a09c-221690373196",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:42:47.210510+00:00",
+    "transformation_method": "affine",
+    "mapID": "a5d0d92b-2837-5fc3-a09c-221690373196",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:42:47.210510+00:00",
+    "gcps": [
+      {
+        "location": [
+          21.868974015,
+          50.225329061
+        ],
+        "pixel": [
+          99,
+          73
+        ]
+      },
+      {
+        "location": [
+          22.231826541,
+          50.067386912
+        ],
+        "pixel": [
+          441,
+          298
+        ]
+      },
+      {
+        "location": [
+          22.118937728,
+          50.22989837
+        ],
+        "pixel": [
+          336,
+          68
+        ]
+      },
+      {
+        "location": [
+          22.016820667,
+          50.038812407
+        ],
+        "pixel": [
+          236,
+          337
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1894"]
+}

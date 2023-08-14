@@ -1,0 +1,111 @@
+{
+  "date": ["1939"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:d741c942-9f66-11ec-b78c-fa163e4ea95f?page=uuid%3Ad7f06cfe-9f66-11ec-b78c-fa163e4ea95f",
+  "description": "Kaliningrad (Rusko : oblast)",
+  "scale": 100000,
+  "external_id": "1332570",
+  "title": "Vost[očnaja] Prussija",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    19.413958,
+    53.888107,
+    20.08074,
+    54.40047
+  ],
+  "reviewed": null,
+  "publisher": "General'nyj štab RKKA",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:d741c942-9f66-11ec-b78c-fa163e4ea95f",
+  "id": "d96a3cbb-26aa-5332-9d93-d1a7b9cc9be2",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:10:21.645540+00:00",
+    "transformation_method": "affine",
+    "mapID": "d96a3cbb-26aa-5332-9d93-d1a7b9cc9be2",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:10:21.645540+00:00",
+    "gcps": [
+      {
+        "location": [
+          19.720431328,
+          54.186326365
+        ],
+        "pixel": [
+          277,
+          185
+        ]
+      },
+      {
+        "location": [
+          19.941059113,
+          54.118820588
+        ],
+        "pixel": [
+          473,
+          245
+        ]
+      },
+      {
+        "location": [
+          19.600371027,
+          54.289346987
+        ],
+        "pixel": [
+          167,
+          97
+        ]
+      },
+      {
+        "location": [
+          19.655929565,
+          54.062036677
+        ],
+        "pixel": [
+          218,
+          293
+        ]
+      },
+      {
+        "location": [
+          19.980249938,
+          54.289274976
+        ],
+        "pixel": [
+          510,
+          95
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1939"]
+}

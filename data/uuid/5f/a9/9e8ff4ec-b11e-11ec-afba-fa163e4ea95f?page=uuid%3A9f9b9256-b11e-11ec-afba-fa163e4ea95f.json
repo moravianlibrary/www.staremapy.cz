@@ -1,0 +1,111 @@
+{
+  "date": ["1937"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:9e8ff4ec-b11e-11ec-afba-fa163e4ea95f?page=uuid%3A9f9b9256-b11e-11ec-afba-fa163e4ea95f",
+  "description": "České Budějovice-oblast (Česko)",
+  "scale": 75000,
+  "external_id": "1376221",
+  "title": "České Budějovice a okolí",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.234032,
+    48.844585,
+    14.741256,
+    49.10569
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:9e8ff4ec-b11e-11ec-afba-fa163e4ea95f",
+  "id": "8af2707c-6fb2-5c8a-8760-da9046311ba4",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        533,
+        41
+      ],
+      [
+        534,
+        379
+      ],
+      [
+        79,
+        380
+      ],
+      [
+        78,
+        41
+      ],
+      [
+        533,
+        41
+      ]
+    ],
+    "created": "2016-01-08T13:33:43.980310+00:00",
+    "transformation_method": "affine",
+    "mapID": "8af2707c-6fb2-5c8a-8760-da9046311ba4",
+    "affine_transformation": null,
+    "changed": "2016-01-08T13:33:43.980310+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.477902070585413,
+          48.97581712087376
+        ],
+        "pixel": [
+          297,
+          210
+        ]
+      },
+      {
+        "location": [
+          14.485552790122213,
+          48.969491784606674
+        ],
+        "pixel": [
+          304,
+          218
+        ]
+      },
+      {
+        "location": [
+          14.486477522662483,
+          48.85594109195182
+        ],
+        "pixel": [
+          308,
+          371
+        ]
+      },
+      {
+        "location": [
+          14.474308016295053,
+          48.974573853609286
+        ],
+        "pixel": [
+          294,
+          211
+        ]
+      },
+      {
+        "location": [
+          14.487353335217769,
+          48.97716672519729
+        ],
+        "pixel": [
+          306,
+          207
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1937"]
+}

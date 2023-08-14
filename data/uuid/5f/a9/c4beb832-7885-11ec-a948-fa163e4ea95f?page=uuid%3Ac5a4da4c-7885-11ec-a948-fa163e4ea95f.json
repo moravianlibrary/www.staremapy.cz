@@ -1,0 +1,121 @@
+{
+  "date": ["1937"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:c4beb832-7885-11ec-a948-fa163e4ea95f?page=uuid%3Ac5a4da4c-7885-11ec-a948-fa163e4ea95f",
+  "description": "Aš (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1130629",
+  "title": "Aš",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    11.830438,
+    49.99649,
+    12.343686,
+    50.252354
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:c4beb832-7885-11ec-a948-fa163e4ea95f",
+  "id": "5dfdd9dd-9038-5b60-abe5-24ca31e761f5",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        77,
+        381
+      ],
+      [
+        526,
+        380
+      ],
+      [
+        528,
+        39
+      ],
+      [
+        79,
+        39
+      ],
+      [
+        77,
+        381
+      ]
+    ],
+    "created": "2015-01-17T19:33:52.038450+00:00",
+    "transformation_method": "affine",
+    "mapID": "5dfdd9dd-9038-5b60-abe5-24ca31e761f5",
+    "affine_transformation": null,
+    "changed": "2015-01-17T19:33:52.038450+00:00",
+    "gcps": [
+      {
+        "location": [
+          11.950526868,
+          50.151404455
+        ],
+        "pixel": [
+          181,
+          173
+        ]
+      },
+      {
+        "location": [
+          12.194629346,
+          50.223725699
+        ],
+        "pixel": [
+          397,
+          74
+        ]
+      },
+      {
+        "location": [
+          12.187076245,
+          50.05605482
+        ],
+        "pixel": [
+          394,
+          301
+        ]
+      },
+      {
+        "location": [
+          12.002368604,
+          50.037094422
+        ],
+        "pixel": [
+          227,
+          327
+        ]
+      },
+      {
+        "location": [
+          12.090945874,
+          50.198019142
+        ],
+        "pixel": [
+          298,
+          115
+        ]
+      },
+      {
+        "location": [
+          11.994815503,
+          50.12785996
+        ],
+        "pixel": [
+          222,
+          205
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1937"]
+}

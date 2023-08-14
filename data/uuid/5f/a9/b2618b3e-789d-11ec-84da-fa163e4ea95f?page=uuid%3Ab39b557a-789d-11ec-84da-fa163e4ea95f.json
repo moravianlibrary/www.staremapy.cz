@@ -1,0 +1,111 @@
+{
+  "date": ["1918"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:b2618b3e-789d-11ec-84da-fa163e4ea95f?page=uuid%3Ab39b557a-789d-11ec-84da-fa163e4ea95f",
+  "description": "Benátsko (Itálie)",
+  "scale": 10000,
+  "external_id": "1134464",
+  "title": "S. Pietro di Barbozza",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    11.92856,
+    45.864723,
+    12.080169,
+    45.94813
+  ],
+  "reviewed": null,
+  "publisher": "Istituto geografico militare",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:b2618b3e-789d-11ec-84da-fa163e4ea95f",
+  "id": "86b5f5b5-7f90-59ce-961b-0a937294378a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        22,
+        437
+      ],
+      [
+        579,
+        437
+      ],
+      [
+        579,
+        17
+      ],
+      [
+        22,
+        17
+      ],
+      [
+        22,
+        437
+      ]
+    ],
+    "created": "2015-11-06T18:21:33.962590+00:00",
+    "transformation_method": "affine",
+    "mapID": "86b5f5b5-7f90-59ce-961b-0a937294378a",
+    "affine_transformation": null,
+    "changed": "2015-11-06T18:21:33.962590+00:00",
+    "gcps": [
+      {
+        "location": [
+          11.9515596,
+          45.877069992
+        ],
+        "pixel": [
+          107,
+          375
+        ]
+      },
+      {
+        "location": [
+          11.995504913,
+          45.901310431
+        ],
+        "pixel": [
+          268,
+          253
+        ]
+      },
+      {
+        "location": [
+          11.936389025,
+          45.93868836
+        ],
+        "pixel": [
+          51,
+          60
+        ]
+      },
+      {
+        "location": [
+          12.044514172,
+          45.877893189
+        ],
+        "pixel": [
+          449,
+          374
+        ]
+      },
+      {
+        "location": [
+          12.071974188,
+          45.928945744
+        ],
+        "pixel": [
+          549,
+          115
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1918"]
+}

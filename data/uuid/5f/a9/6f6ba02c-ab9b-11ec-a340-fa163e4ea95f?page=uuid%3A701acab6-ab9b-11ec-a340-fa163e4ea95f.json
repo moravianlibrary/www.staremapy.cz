@@ -1,0 +1,91 @@
+{
+  "date": ["1900"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:6f6ba02c-ab9b-11ec-a340-fa163e4ea95f?page=uuid%3A701acab6-ab9b-11ec-a340-fa163e4ea95f",
+  "description": "Kalifornie",
+  "scale": 125000,
+  "external_id": "1367285",
+  "title": "Nevada - California",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Goode, R. U.",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -118.05465,
+    37.449917,
+    -117.43931,
+    38.038788
+  ],
+  "reviewed": null,
+  "publisher": "U. S. Geological Survey",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:6f6ba02c-ab9b-11ec-a340-fa163e4ea95f",
+  "id": "8781e2f9-9fe8-5965-a42e-1f6d2080a0cd",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:42:40.717170+00:00",
+    "transformation_method": "affine",
+    "mapID": "8781e2f9-9fe8-5965-a42e-1f6d2080a0cd",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:42:40.717170+00:00",
+    "gcps": [
+      {
+        "location": [
+          -117.905130096,
+          37.577540664
+        ],
+        "pixel": [
+          143,
+          348
+        ]
+      },
+      {
+        "location": [
+          -117.971048065,
+          37.952250578
+        ],
+        "pixel": [
+          81,
+          65
+        ]
+      },
+      {
+        "location": [
+          -117.610044189,
+          37.763724996
+        ],
+        "pixel": [
+          435,
+          207
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1900"]
+}

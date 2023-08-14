@@ -1,0 +1,111 @@
+{
+  "date": ["1902"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:262fece2-b109-11ec-a3f2-fa163e4ea95f?page=uuid%3A273228f8-b109-11ec-a3f2-fa163e4ea95f",
+  "description": "Arizona",
+  "scale": 250000,
+  "external_id": "1375245",
+  "title": "Nevada - Arizona",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Gannett, Henry",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -115.01582,
+    36.022194,
+    -114.00654,
+    36.945892
+  ],
+  "reviewed": null,
+  "publisher": "U.S. Geological Survey",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:262fece2-b109-11ec-a3f2-fa163e4ea95f",
+  "id": "6373e4ce-7990-54e5-a938-1ab46e02ff93",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        549,
+        29
+      ],
+      [
+        552,
+        406
+      ],
+      [
+        53,
+        407
+      ],
+      [
+        54,
+        28
+      ],
+      [
+        549,
+        29
+      ]
+    ],
+    "created": "2016-01-08T13:32:37.136980+00:00",
+    "transformation_method": "affine",
+    "mapID": "6373e4ce-7990-54e5-a938-1ab46e02ff93",
+    "affine_transformation": null,
+    "changed": "2016-01-08T13:32:37.136980+00:00",
+    "gcps": [
+      {
+        "location": [
+          -114.04705984032826,
+          36.195354058268634
+        ],
+        "pixel": [
+          529,
+          339
+        ]
+      },
+      {
+        "location": [
+          -114.7157737382581,
+          36.296923515009155
+        ],
+        "pixel": [
+          195,
+          295
+        ]
+      },
+      {
+        "location": [
+          -114.04997808373653,
+          36.799292703576384
+        ],
+        "pixel": [
+          526,
+          88
+        ]
+      },
+      {
+        "location": [
+          -114.37017089843727,
+          36.46414681878302
+        ],
+        "pixel": [
+          381,
+          231
+        ]
+      },
+      {
+        "location": [
+          -114.62887693880596,
+          36.141955241093
+        ],
+        "pixel": [
+          246,
+          358
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1902"]
+}

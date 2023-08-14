@@ -1,0 +1,111 @@
+{
+  "date": ["1912"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:d873a47a-8e40-11ec-a304-fa163e4ea95f?page=uuid%3Ad99b073a-8e40-11ec-a304-fa163e4ea95f",
+  "description": "Komárom (Maďarsko)",
+  "scale": 144000,
+  "external_id": "1207749",
+  "title": "Komárom vármegye",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    17.24734,
+    47.2073,
+    19.23101,
+    48.226147
+  ],
+  "reviewed": null,
+  "publisher": "M. kir. állami nyomda",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:d873a47a-8e40-11ec-a304-fa163e4ea95f",
+  "id": "d624a7a4-7c9c-56cd-bf4e-24b77c4f3fa4",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T15:53:45.618340+00:00",
+    "transformation_method": "affine",
+    "mapID": "d624a7a4-7c9c-56cd-bf4e-24b77c4f3fa4",
+    "affine_transformation": null,
+    "changed": "2015-11-05T15:53:45.618340+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.412620463,
+          48.01693764
+        ],
+        "pixel": [
+          352,
+          90
+        ]
+      },
+      {
+        "location": [
+          18.027101205,
+          47.501801261
+        ],
+        "pixel": [
+          235,
+          317
+        ]
+      },
+      {
+        "location": [
+          18.664109924,
+          47.591930566
+        ],
+        "pixel": [
+          429,
+          279
+        ]
+      },
+      {
+        "location": [
+          18.129325555,
+          47.762544291
+        ],
+        "pixel": [
+          266,
+          202
+        ]
+      },
+      {
+        "location": [
+          17.771754907,
+          47.856042704
+        ],
+        "pixel": [
+          159,
+          158
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1912"]
+}

@@ -1,0 +1,121 @@
+{
+  "date": ["1944"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:6ab69a78-9903-11ec-bade-fa163e4ea95f?page=uuid%3A6bb9b4c8-9903-11ec-bade-fa163e4ea95f",
+  "description": "Sudety (Česko)",
+  "scale": 75000,
+  "external_id": "1291973",
+  "title": "Hohenelbe",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.179734,
+    50.43715,
+    15.931023,
+    50.7796
+  ],
+  "reviewed": null,
+  "publisher": "Landesvermessungsamt Böhmen und Mähren",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:6ab69a78-9903-11ec-bade-fa163e4ea95f",
+  "id": "cad99b85-73d2-5e43-8637-ac16e0255483",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        524,
+        40
+      ],
+      [
+        524,
+        364
+      ],
+      [
+        120,
+        364
+      ],
+      [
+        122,
+        40
+      ],
+      [
+        524,
+        40
+      ]
+    ],
+    "created": "2015-11-05T16:42:26.682840+00:00",
+    "transformation_method": "affine",
+    "mapID": "cad99b85-73d2-5e43-8637-ac16e0255483",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:42:26.682840+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.374346700388362,
+          50.53060082254359
+        ],
+        "pixel": [
+          153,
+          323
+        ]
+      },
+      {
+        "location": [
+          15.402541182466434,
+          50.68509655132783
+        ],
+        "pixel": [
+          179,
+          122
+        ]
+      },
+      {
+        "location": [
+          15.606752066525962,
+          50.7253714423224
+        ],
+        "pixel": [
+          342,
+          70
+        ]
+      },
+      {
+        "location": [
+          15.567406801232275,
+          50.60989460147911
+        ],
+        "pixel": [
+          310,
+          219
+        ]
+      },
+      {
+        "location": [
+          15.768113325248896,
+          50.52213523728602
+        ],
+        "pixel": [
+          470,
+          334
+        ]
+      },
+      {
+        "location": [
+          15.816443594291437,
+          50.62583650477919
+        ],
+        "pixel": [
+          510,
+          200
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1944"]
+}

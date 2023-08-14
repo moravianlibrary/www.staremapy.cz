@@ -1,0 +1,111 @@
+{
+  "date": ["1929"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:bc22039a-943d-11ec-a972-fa163e4ea95f?page=uuid%3Abd278f12-943d-11ec-a972-fa163e4ea95f",
+  "description": "Kunčice (Ostrava, Česko)",
+  "scale": 10000,
+  "external_id": "1253951",
+  "title": "[Mapový list]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    18.193876,
+    49.74154,
+    18.280306,
+    49.786835
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:bc22039a-943d-11ec-a972-fa163e4ea95f",
+  "id": "3b1df7db-3634-57b9-a607-8fae4acc3322",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:11:58.477740+00:00",
+    "transformation_method": "affine",
+    "mapID": "3b1df7db-3634-57b9-a607-8fae4acc3322",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:11:58.477740+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.238402299,
+          49.779151861
+        ],
+        "pixel": [
+          309,
+          73
+        ]
+      },
+      {
+        "location": [
+          18.217632807,
+          49.779812002
+        ],
+        "pixel": [
+          162,
+          68
+        ]
+      },
+      {
+        "location": [
+          18.210885674,
+          49.76308624
+        ],
+        "pixel": [
+          118,
+          234
+        ]
+      },
+      {
+        "location": [
+          18.250806086,
+          49.755528692
+        ],
+        "pixel": [
+          396,
+          306
+        ]
+      },
+      {
+        "location": [
+          18.260977022,
+          49.774842568
+        ],
+        "pixel": [
+          466,
+          115
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1929"]
+}

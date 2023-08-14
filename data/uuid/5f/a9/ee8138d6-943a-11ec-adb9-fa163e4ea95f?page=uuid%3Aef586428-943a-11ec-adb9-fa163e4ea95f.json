@@ -1,0 +1,111 @@
+{
+  "date": ["1929"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:ee8138d6-943a-11ec-adb9-fa163e4ea95f?page=uuid%3Aef586428-943a-11ec-adb9-fa163e4ea95f",
+  "description": "Šenov (Česko : oblast)",
+  "scale": 10000,
+  "external_id": "1253870",
+  "title": "[Mapový list]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    18.331497,
+    49.78041,
+    18.394627,
+    49.81171
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:ee8138d6-943a-11ec-adb9-fa163e4ea95f",
+  "id": "66998752-7419-5bac-a1a1-d68bf7926d57",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        87,
+        367
+      ],
+      [
+        527,
+        367
+      ],
+      [
+        530,
+        53
+      ],
+      [
+        90,
+        54
+      ],
+      [
+        87,
+        367
+      ]
+    ],
+    "created": "2017-04-15T16:36:25.467420+00:00",
+    "transformation_method": "affine",
+    "mapID": "66998752-7419-5bac-a1a1-d68bf7926d57",
+    "affine_transformation": null,
+    "changed": "2017-04-15T16:36:25.467420+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.370635627,
+          49.793912846
+        ],
+        "pixel": [
+          362,
+          231
+        ]
+      },
+      {
+        "location": [
+          18.347922681,
+          49.802631745
+        ],
+        "pixel": [
+          202,
+          144
+        ]
+      },
+      {
+        "location": [
+          18.352149842,
+          49.782289825
+        ],
+        "pixel": [
+          233,
+          348
+        ]
+      },
+      {
+        "location": [
+          18.377789188,
+          49.807832721
+        ],
+        "pixel": [
+          412,
+          92
+        ]
+      },
+      {
+        "location": [
+          18.373595087,
+          49.783832324
+        ],
+        "pixel": [
+          381,
+          332
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1929"]
+}

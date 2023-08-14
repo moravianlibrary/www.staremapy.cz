@@ -1,0 +1,119 @@
+{
+  "date": ["1937"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:1a9ade4a-796a-11ec-924d-fa163e4ea95f?page=uuid%3A1ba14946-796a-11ec-924d-fa163e4ea95f",
+  "description": null,
+  "scale": 1000000,
+  "external_id": "1126219",
+  "title": "Carta aeronautica d'Italia al 1:1.000.000°",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    4.8512836,
+    34.26081,
+    12.96446,
+    40.724354
+  ],
+  "reviewed": null,
+  "publisher": "Ufficio di Stato maggiore della R. Aeronautica",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:1a9ade4a-796a-11ec-924d-fa163e4ea95f",
+  "id": "110c97e4-98ae-5887-85e2-2e13f5bb640a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        512,
+        51
+      ],
+      [
+        529,
+        324
+      ],
+      [
+        325,
+        327
+      ],
+      [
+        84,
+        326
+      ],
+      [
+        96,
+        52
+      ],
+      [
+        309,
+        54
+      ],
+      [
+        512,
+        51
+      ]
+    ],
+    "created": "2014-08-19T14:06:04.289950+00:00",
+    "transformation_method": "affine",
+    "mapID": "110c97e4-98ae-5887-85e2-2e13f5bb640a",
+    "affine_transformation": null,
+    "changed": "2014-08-19T14:06:04.289950+00:00",
+    "gcps": [
+      {
+        "location": [
+          6.239419189328777,
+          36.982936897037376
+        ],
+        "pixel": [
+          102,
+          260
+        ]
+      },
+      {
+        "location": [
+          10.508650226041143,
+          36.03204697603415
+        ],
+        "pixel": [
+          419,
+          328
+        ]
+      },
+      {
+        "location": [
+          11.11408238211747,
+          36.831419208464425
+        ],
+        "pixel": [
+          463,
+          271
+        ]
+      },
+      {
+        "location": [
+          8.39291116320573,
+          39.975795683372695
+        ],
+        "pixel": [
+          262,
+          53
+        ]
+      },
+      {
+        "location": [
+          10.281524703894805,
+          37.17728863945729
+        ],
+        "pixel": [
+          401,
+          248
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1937"]
+}

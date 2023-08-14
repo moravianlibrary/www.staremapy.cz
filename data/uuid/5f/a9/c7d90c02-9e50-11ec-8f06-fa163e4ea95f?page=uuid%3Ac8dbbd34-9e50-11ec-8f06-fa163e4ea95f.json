@@ -1,0 +1,111 @@
+{
+  "date": ["1894"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:c7d90c02-9e50-11ec-8f06-fa163e4ea95f?page=uuid%3Ac8dbbd34-9e50-11ec-8f06-fa163e4ea95f",
+  "description": "Slovensko východní",
+  "scale": 75000,
+  "external_id": "1305229",
+  "title": "Berezna",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    22.331558,
+    48.748386,
+    22.831076,
+    48.99858
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:c7d90c02-9e50-11ec-8f06-fa163e4ea95f",
+  "id": "3fd3866f-706a-5f8b-9dbc-f408e4aaaabf",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        56,
+        392
+      ],
+      [
+        546,
+        392
+      ],
+      [
+        546,
+        39
+      ],
+      [
+        56,
+        38
+      ],
+      [
+        56,
+        392
+      ]
+    ],
+    "created": "2017-05-21T19:43:14.037890+00:00",
+    "transformation_method": "affine",
+    "mapID": "3fd3866f-706a-5f8b-9dbc-f408e4aaaabf",
+    "affine_transformation": null,
+    "changed": "2017-05-21T19:43:14.037890+00:00",
+    "gcps": [
+      {
+        "location": [
+          22.455304986,
+          48.921227185
+        ],
+        "pixel": [
+          177,
+          146
+        ]
+      },
+      {
+        "location": [
+          22.434909574,
+          48.989203673
+        ],
+        "pixel": [
+          157,
+          51
+        ]
+      },
+      {
+        "location": [
+          22.772710588,
+          48.894795662
+        ],
+        "pixel": [
+          489,
+          185
+        ]
+      },
+      {
+        "location": [
+          22.644518739,
+          48.997955408
+        ],
+        "pixel": [
+          363,
+          40
+        ]
+      },
+      {
+        "location": [
+          22.491074925,
+          48.816101819
+        ],
+        "pixel": [
+          213,
+          297
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1894"]
+}

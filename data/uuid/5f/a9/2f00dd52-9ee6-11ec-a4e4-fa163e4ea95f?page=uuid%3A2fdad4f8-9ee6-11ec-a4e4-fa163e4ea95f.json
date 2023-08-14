@@ -1,0 +1,121 @@
+{
+  "date": ["1944"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:2f00dd52-9ee6-11ec-a4e4-fa163e4ea95f?page=uuid%3A2fdad4f8-9ee6-11ec-a4e4-fa163e4ea95f",
+  "description": "Libochovice (Česko : oblast)",
+  "scale": 50000,
+  "external_id": "1328932",
+  "title": "Libochowitz",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.904329,
+    50.249268,
+    14.083213,
+    50.35289
+  ],
+  "reviewed": null,
+  "publisher": "Oberkommando des Heeres",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:2f00dd52-9ee6-11ec-a4e4-fa163e4ea95f",
+  "id": "650851ca-c21a-5c7d-a2ef-77b332a01b4e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        193,
+        403
+      ],
+      [
+        492,
+        403
+      ],
+      [
+        492,
+        254
+      ],
+      [
+        193,
+        254
+      ],
+      [
+        193,
+        403
+      ]
+    ],
+    "created": "2017-02-02T13:22:48.157790+00:00",
+    "transformation_method": "affine",
+    "mapID": "650851ca-c21a-5c7d-a2ef-77b332a01b4e",
+    "affine_transformation": null,
+    "changed": "2017-02-02T13:22:48.157790+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.072260589,
+          50.259758648
+        ],
+        "pixel": [
+          474,
+          388
+        ]
+      },
+      {
+        "location": [
+          14.032048912,
+          50.257769488
+        ],
+        "pixel": [
+          407,
+          391
+        ]
+      },
+      {
+        "location": [
+          14.054965705,
+          50.335942631
+        ],
+        "pixel": [
+          445,
+          278
+        ]
+      },
+      {
+        "location": [
+          14.022950859,
+          50.329861168
+        ],
+        "pixel": [
+          391,
+          287
+        ]
+      },
+      {
+        "location": [
+          13.962526054,
+          50.316928625
+        ],
+        "pixel": [
+          289,
+          306
+        ]
+      },
+      {
+        "location": [
+          13.926670284,
+          50.270827838
+        ],
+        "pixel": [
+          230,
+          373
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1944"]
+}

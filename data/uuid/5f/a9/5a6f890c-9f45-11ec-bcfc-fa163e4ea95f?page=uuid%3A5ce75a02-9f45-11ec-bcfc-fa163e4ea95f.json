@@ -1,0 +1,111 @@
+{
+  "date": ["1938"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:5a6f890c-9f45-11ec-bcfc-fa163e4ea95f?page=uuid%3A5ce75a02-9f45-11ec-bcfc-fa163e4ea95f",
+  "description": "Ukrajina",
+  "scale": 75000,
+  "external_id": "1331652",
+  "title": "Bohdan",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    24.252651,
+    47.950718,
+    24.90622,
+    48.278744
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:5a6f890c-9f45-11ec-bcfc-fa163e4ea95f",
+  "id": "b1239274-ca59-5652-87c5-e9268d6e4374",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:08:31.314710+00:00",
+    "transformation_method": "affine",
+    "mapID": "b1239274-ca59-5652-87c5-e9268d6e4374",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:08:31.314710+00:00",
+    "gcps": [
+      {
+        "location": [
+          24.518755322,
+          48.028580945
+        ],
+        "pixel": [
+          242,
+          338
+        ]
+      },
+      {
+        "location": [
+          24.499926697,
+          48.160223435
+        ],
+        "pixel": [
+          228,
+          160
+        ]
+      },
+      {
+        "location": [
+          24.82047165,
+          48.151857775
+        ],
+        "pixel": [
+          524,
+          172
+        ]
+      },
+      {
+        "location": [
+          24.358552342,
+          48.039170178
+        ],
+        "pixel": [
+          96,
+          324
+        ]
+      },
+      {
+        "location": [
+          24.701385138,
+          48.239927593
+        ],
+        "pixel": [
+          413,
+          52
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1938"]
+}

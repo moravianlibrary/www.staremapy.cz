@@ -1,0 +1,101 @@
+{
+  "date": ["1941"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:826c74d0-abcd-11ec-a5f0-fa163e4ea95f?page=uuid%3A8384aa54-abcd-11ec-a5f0-fa163e4ea95f",
+  "description": "země světa",
+  "scale": 30000000,
+  "external_id": "1369063",
+  "title": "Das Erdbild der Gegenwart",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -176.21532,
+    -87.19336,
+    160.46272,
+    87.45538
+  ],
+  "reviewed": null,
+  "publisher": "Verlagsanstalt List & von Bressensdorf",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:826c74d0-abcd-11ec-a5f0-fa163e4ea95f",
+  "id": "50ac8d33-a8f1-5a1d-9323-ed3dbf6a899e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:45:26.093640+00:00",
+    "transformation_method": "tps",
+    "mapID": "50ac8d33-a8f1-5a1d-9323-ed3dbf6a899e",
+    "affine_transformation": null,
+    "changed": "2022-02-21T01:04:23.669683+00:00",
+    "gcps": [
+      {
+        "location": [
+          -168.0531315090399,
+          65.61184348814831
+        ],
+        "pixel": [
+          510,
+          51
+        ]
+      },
+      {
+        "location": [
+          68.65411155854024,
+          76.87984319264692
+        ],
+        "pixel": [
+          340,
+          45
+        ]
+      },
+      {
+        "location": [
+          156.73134088591706,
+          51.2330924747215
+        ],
+        "pixel": [
+          511,
+          90
+        ]
+      },
+      {
+        "location": [
+          -65.27063202638898,
+          -54.77534585936448
+        ],
+        "pixel": [
+          149,
+          354
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1941"]
+}

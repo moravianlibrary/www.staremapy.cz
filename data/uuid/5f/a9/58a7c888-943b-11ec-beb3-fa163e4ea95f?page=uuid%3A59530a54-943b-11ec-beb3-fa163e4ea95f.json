@@ -1,0 +1,121 @@
+{
+  "date": ["1930"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:58a7c888-943b-11ec-beb3-fa163e4ea95f?page=uuid%3A59530a54-943b-11ec-beb3-fa163e4ea95f",
+  "description": "Horní Suchá (Karviná, Česko)",
+  "scale": 10000,
+  "external_id": "1253882",
+  "title": "[Mapový list]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    18.44305,
+    49.77314,
+    18.527838,
+    49.81659
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:58a7c888-943b-11ec-beb3-fa163e4ea95f",
+  "id": "aaaeb02b-2855-587d-a7ed-f40fad555703",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:11:51.818520+00:00",
+    "transformation_method": "affine",
+    "mapID": "aaaeb02b-2855-587d-a7ed-f40fad555703",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:11:51.818520+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.479199503,
+          49.798964872
+        ],
+        "pixel": [
+          256,
+          180
+        ]
+      },
+      {
+        "location": [
+          18.463869806,
+          49.785313339
+        ],
+        "pixel": [
+          147,
+          319
+        ]
+      },
+      {
+        "location": [
+          18.484263513,
+          49.790404621
+        ],
+        "pixel": [
+          292,
+          267
+        ]
+      },
+      {
+        "location": [
+          18.499434087,
+          49.794629529
+        ],
+        "pixel": [
+          398,
+          224
+        ]
+      },
+      {
+        "location": [
+          18.493474047,
+          49.807565834
+        ],
+        "pixel": [
+          357,
+          92
+        ]
+      },
+      {
+        "location": [
+          18.514723071,
+          49.799231515
+        ],
+        "pixel": [
+          508,
+          177
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1930"]
+}

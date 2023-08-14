@@ -1,0 +1,111 @@
+{
+  "date": ["1940"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:014058f2-9e41-11ec-87c1-fa163e4ea95f?page=uuid%3A021097d8-9e41-11ec-87c1-fa163e4ea95f",
+  "description": "Kutná Hora (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1304785",
+  "title": "Kuttenberg",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.833135,
+    49.74834,
+    15.335239,
+    49.999218
+  ],
+  "reviewed": null,
+  "publisher": "Zeměpisný ústav ministerstva vnitra",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:014058f2-9e41-11ec-87c1-fa163e4ea95f",
+  "id": "23d847c9-8622-5d25-b3d9-b9951e36ed66",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        524,
+        41
+      ],
+      [
+        524,
+        382
+      ],
+      [
+        75,
+        381
+      ],
+      [
+        76,
+        42
+      ],
+      [
+        524,
+        41
+      ]
+    ],
+    "created": "2015-11-05T16:51:29.728640+00:00",
+    "transformation_method": "affine",
+    "mapID": "23d847c9-8622-5d25-b3d9-b9951e36ed66",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:51:29.728640+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.84011444666061,
+          49.75968965535708
+        ],
+        "pixel": [
+          80,
+          366
+        ]
+      },
+      {
+        "location": [
+          15.32833648913053,
+          49.787695655509594
+        ],
+        "pixel": [
+          519,
+          328
+        ]
+      },
+      {
+        "location": [
+          14.86103047735193,
+          49.994448109622766
+        ],
+        "pixel": [
+          101,
+          47
+        ]
+      },
+      {
+        "location": [
+          15.06111510437872,
+          49.8767110666648
+        ],
+        "pixel": [
+          279,
+          207
+        ]
+      },
+      {
+        "location": [
+          15.295077855806362,
+          49.98344152593006
+        ],
+        "pixel": [
+          488,
+          63
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1940"]
+}

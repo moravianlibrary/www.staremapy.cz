@@ -1,0 +1,111 @@
+{
+  "date": ["1919"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:498ea296-a493-11ec-94bf-fa163e4ea95f?page=uuid%3A4a6e6ce6-a493-11ec-94bf-fa163e4ea95f",
+  "description": "Užhorod (Ukrajina : oblast)",
+  "scale": 75000,
+  "external_id": "1336923",
+  "title": "Užhorod",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    21.753279,
+    48.447086,
+    22.40578,
+    48.784256
+  ],
+  "reviewed": null,
+  "publisher": "Kartografické odd. při Min. Nár. Obrany",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:498ea296-a493-11ec-94bf-fa163e4ea95f",
+  "id": "fa4167fe-ebfd-5f93-9571-54542649376b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:23:55.068140+00:00",
+    "transformation_method": "affine",
+    "mapID": "fa4167fe-ebfd-5f93-9571-54542649376b",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:23:55.068140+00:00",
+    "gcps": [
+      {
+        "location": [
+          22.246207895,
+          48.530470456
+        ],
+        "pixel": [
+          454,
+          334
+        ]
+      },
+      {
+        "location": [
+          21.987685861,
+          48.57018529
+        ],
+        "pixel": [
+          216,
+          282
+        ]
+      },
+      {
+        "location": [
+          21.853257447,
+          48.725641773
+        ],
+        "pixel": [
+          91,
+          77
+        ]
+      },
+      {
+        "location": [
+          21.884307165,
+          48.542667838
+        ],
+        "pixel": [
+          120,
+          318
+        ]
+      },
+      {
+        "location": [
+          22.180976572,
+          48.745205574
+        ],
+        "pixel": [
+          393,
+          51
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1919"]
+}

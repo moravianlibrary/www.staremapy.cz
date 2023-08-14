@@ -1,0 +1,101 @@
+{
+  "date": ["1875"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:4e0e1d30-8e4d-11ec-9519-fa163e4ea95f?page=uuid%3A4efda814-8e4d-11ec-9519-fa163e4ea95f",
+  "description": "Žytomyr (Ukrajina : oblast)",
+  "scale": 300000,
+  "external_id": "1208160",
+  "title": "Žitomir",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    27.249159,
+    49.385452,
+    29.611542,
+    50.783756
+  ],
+  "reviewed": null,
+  "publisher": "Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:4e0e1d30-8e4d-11ec-9519-fa163e4ea95f",
+  "id": "63368218-3126-5d65-a9ac-8df4751616a3",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        16,
+        433
+      ],
+      [
+        584,
+        433
+      ],
+      [
+        584,
+        6
+      ],
+      [
+        16,
+        6
+      ],
+      [
+        16,
+        433
+      ]
+    ],
+    "created": "2016-07-14T17:09:37.155790+00:00",
+    "transformation_method": "affine",
+    "mapID": "63368218-3126-5d65-a9ac-8df4751616a3",
+    "affine_transformation": null,
+    "changed": "2016-07-14T17:09:37.155790+00:00",
+    "gcps": [
+      {
+        "location": [
+          28.18253584,
+          50.440741701
+        ],
+        "pixel": [
+          215,
+          106
+        ]
+      },
+      {
+        "location": [
+          28.731508923,
+          50.28425549
+        ],
+        "pixel": [
+          366,
+          142
+        ]
+      },
+      {
+        "location": [
+          28.565684033,
+          49.857646662
+        ],
+        "pixel": [
+          351,
+          296
+        ]
+      },
+      {
+        "location": [
+          27.561939306678987,
+          49.796246350466106
+        ],
+        "pixel": [
+          86,
+          349
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1875"]
+}

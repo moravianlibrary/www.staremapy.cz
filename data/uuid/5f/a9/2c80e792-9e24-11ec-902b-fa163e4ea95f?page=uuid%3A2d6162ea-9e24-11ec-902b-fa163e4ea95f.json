@@ -1,0 +1,101 @@
+{
+  "date": ["1879"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:2c80e792-9e24-11ec-902b-fa163e4ea95f?page=uuid%3A2d6162ea-9e24-11ec-902b-fa163e4ea95f",
+  "description": "Bosna a Hercegovina",
+  "scale": 50000,
+  "external_id": "1303878",
+  "title": "Umgebung von Mostar",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    17.684494,
+    43.232258,
+    17.935389,
+    43.41722
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:2c80e792-9e24-11ec-902b-fa163e4ea95f",
+  "id": "99d1d671-d697-5e5f-97f2-c92364f0bff7",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:49:44.343720+00:00",
+    "transformation_method": "affine",
+    "mapID": "99d1d671-d697-5e5f-97f2-c92364f0bff7",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:49:44.343720+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.765720106823636,
+          43.297597446416006
+        ],
+        "pixel": [
+          172,
+          286
+        ]
+      },
+      {
+        "location": [
+          17.84434451447693,
+          43.36644247749783
+        ],
+        "pixel": [
+          403,
+          116
+        ]
+      },
+      {
+        "location": [
+          17.832002736130864,
+          43.30393085996894
+        ],
+        "pixel": [
+          349,
+          289
+        ]
+      },
+      {
+        "location": [
+          17.75203590260688,
+          43.283807778249695
+        ],
+        "pixel": [
+          143,
+          311
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1879"]
+}

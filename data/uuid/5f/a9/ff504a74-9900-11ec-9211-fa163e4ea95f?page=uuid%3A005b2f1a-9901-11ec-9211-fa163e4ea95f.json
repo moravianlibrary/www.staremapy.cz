@@ -1,0 +1,111 @@
+{
+  "date": ["1913"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:ff504a74-9900-11ec-9211-fa163e4ea95f?page=uuid%3A005b2f1a-9901-11ec-9211-fa163e4ea95f",
+  "description": "Litoměřice (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1291904",
+  "title": "Ústí n[ad] L[abem] a Litoměřice",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.811275,
+    50.458942,
+    14.352024,
+    50.775097
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:ff504a74-9900-11ec-9211-fa163e4ea95f",
+  "id": "1289c7f1-d849-5cd9-a1ea-2af2b0dd824a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:42:18.230490+00:00",
+    "transformation_method": "affine",
+    "mapID": "1289c7f1-d849-5cd9-a1ea-2af2b0dd824a",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:42:18.230490+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.288205804,
+          50.66846514
+        ],
+        "pixel": [
+          531,
+          151
+        ]
+      },
+      {
+        "location": [
+          14.196615878,
+          50.518844826
+        ],
+        "pixel": [
+          427,
+          358
+        ]
+      },
+      {
+        "location": [
+          13.964014713,
+          50.727778102
+        ],
+        "pixel": [
+          170,
+          65
+        ]
+      },
+      {
+        "location": [
+          14.284592334,
+          50.613271065
+        ],
+        "pixel": [
+          527,
+          227
+        ]
+      },
+      {
+        "location": [
+          14.081431094,
+          50.515624895
+        ],
+        "pixel": [
+          298,
+          365
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1913"]
+}

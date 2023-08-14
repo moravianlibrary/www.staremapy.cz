@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:1ee1877e-aa02-11ec-99ec-fa163e4ea95f?page=uuid%3A1f9b92a4-aa02-11ec-99ec-fa163e4ea95f",
+  "description": "Sýrie",
+  "scale": 50000,
+  "external_id": "1347656",
+  "title": "Ordu",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    35.996136,
+    35.74855,
+    36.25861,
+    35.987785
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:1ee1877e-aa02-11ec-99ec-fa163e4ea95f",
+  "id": "b78e7fe4-b8a4-57ce-b7e0-50ea8f8e2e57",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        63,
+        318
+      ],
+      [
+        528,
+        318
+      ],
+      [
+        528,
+        58
+      ],
+      [
+        63,
+        58
+      ],
+      [
+        63,
+        318
+      ]
+    ],
+    "created": "2017-03-05T11:08:59.085730+00:00",
+    "transformation_method": "affine",
+    "mapID": "b78e7fe4-b8a4-57ce-b7e0-50ea8f8e2e57",
+    "affine_transformation": null,
+    "changed": "2017-03-05T11:08:59.085730+00:00",
+    "gcps": [
+      {
+        "location": [
+          36.08111906,
+          35.765815158
+        ],
+        "pixel": [
+          216,
+          300
+        ]
+      },
+      {
+        "location": [
+          36.212929468,
+          35.889330808
+        ],
+        "pixel": [
+          449,
+          166
+        ]
+      },
+      {
+        "location": [
+          36.082728385,
+          35.806181082
+        ],
+        "pixel": [
+          218,
+          256
+        ]
+      },
+      {
+        "location": [
+          36.227767871,
+          35.842375517
+        ],
+        "pixel": [
+          483,
+          216
+        ]
+      },
+      {
+        "location": [
+          36.010437488,
+          35.832349659
+        ],
+        "pixel": [
+          85,
+          227
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

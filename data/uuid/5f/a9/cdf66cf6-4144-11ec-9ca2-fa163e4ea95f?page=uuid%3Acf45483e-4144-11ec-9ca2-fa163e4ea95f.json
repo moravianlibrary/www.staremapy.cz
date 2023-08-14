@@ -1,0 +1,111 @@
+{
+  "date": ["1861"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:cdf66cf6-4144-11ec-9ca2-fa163e4ea95f?page=uuid%3Acf45483e-4144-11ec-9ca2-fa163e4ea95f",
+  "description": "Příbram-oblast (Česko)",
+  "scale": 70000,
+  "external_id": "824624",
+  "title": "Karte des Příbramer Bezirkes im Prager Kreise",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Wagner, Jan Eduard",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.84351,
+    49.524693,
+    14.284081,
+    49.87603
+  ],
+  "reviewed": null,
+  "publisher": "Karl André",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:cdf66cf6-4144-11ec-9ca2-fa163e4ea95f",
+  "id": "f82f9042-766f-5134-a46e-b7cdf7c5610c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        32,
+        422
+      ],
+      [
+        565,
+        422
+      ],
+      [
+        565,
+        21
+      ],
+      [
+        32,
+        21
+      ],
+      [
+        32,
+        422
+      ]
+    ],
+    "created": "2014-12-23T20:55:00.704890+00:00",
+    "transformation_method": "affine",
+    "mapID": "f82f9042-766f-5134-a46e-b7cdf7c5610c",
+    "affine_transformation": null,
+    "changed": "2014-12-23T20:55:00.704890+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.06520799,
+          49.75131507
+        ],
+        "pixel": [
+          301,
+          163
+        ]
+      },
+      {
+        "location": [
+          14.08400491,
+          49.738336685
+        ],
+        "pixel": [
+          322,
+          179
+        ]
+      },
+      {
+        "location": [
+          13.896636517,
+          49.72904447
+        ],
+        "pixel": [
+          96,
+          190
+        ]
+      },
+      {
+        "location": [
+          13.927707227,
+          49.71783597
+        ],
+        "pixel": [
+          130,
+          201
+        ]
+      },
+      {
+        "location": [
+          13.946657247,
+          49.622839197
+        ],
+        "pixel": [
+          157,
+          311
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1861"]
+}

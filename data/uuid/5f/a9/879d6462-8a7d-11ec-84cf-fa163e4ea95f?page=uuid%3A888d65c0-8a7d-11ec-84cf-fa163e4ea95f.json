@@ -1,0 +1,121 @@
+{
+  "date": ["1917"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:879d6462-8a7d-11ec-84cf-fa163e4ea95f?page=uuid%3A888d65c0-8a7d-11ec-84cf-fa163e4ea95f",
+  "description": "Budapešť (Maďarsko : oblast)",
+  "scale": 750000,
+  "external_id": "1282603",
+  "title": "Wien, Graz, Budapest",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Karl, Ed.",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.674877,
+    45.619835,
+    19.74564,
+    48.642902
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:879d6462-8a7d-11ec-84cf-fa163e4ea95f",
+  "id": "02d2b380-f27f-50ae-9dd5-5035162a3735",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:19:53.457310+00:00",
+    "transformation_method": "affine",
+    "mapID": "02d2b380-f27f-50ae-9dd5-5035162a3735",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:19:53.457310+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.980637414762455,
+          46.524643287998
+        ],
+        "pixel": [
+          512,
+          314
+        ]
+      },
+      {
+        "location": [
+          18.599176940022424,
+          48.21601209432697
+        ],
+        "pixel": [
+          464,
+          64
+        ]
+      },
+      {
+        "location": [
+          16.3709014591365,
+          48.20972034177984
+        ],
+        "pixel": [
+          204,
+          65
+        ]
+      },
+      {
+        "location": [
+          15.644369413093939,
+          46.555780817459464
+        ],
+        "pixel": [
+          112,
+          309
+        ]
+      },
+      {
+        "location": [
+          17.910351953125,
+          47.0906643326079
+        ],
+        "pixel": [
+          383,
+          231
+        ]
+      },
+      {
+        "location": [
+          15.43475853683913,
+          47.06643343836143
+        ],
+        "pixel": [
+          89,
+          233
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1917"]
+}

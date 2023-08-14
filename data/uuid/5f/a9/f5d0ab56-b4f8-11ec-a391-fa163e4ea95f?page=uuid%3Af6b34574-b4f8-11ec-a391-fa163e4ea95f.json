@@ -1,0 +1,101 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:f5d0ab56-b4f8-11ec-a391-fa163e4ea95f?page=uuid%3Af6b34574-b4f8-11ec-a391-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1390104",
+  "title": "Žólkiew",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    23.831366,
+    49.9984,
+    24.33163,
+    50.248474
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:f5d0ab56-b4f8-11ec-a391-fa163e4ea95f",
+  "id": "5ce04ba7-dd52-5aa2-afda-346f0f865e3d",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        63,
+        360
+      ],
+      [
+        490,
+        359
+      ],
+      [
+        489,
+        41
+      ],
+      [
+        65,
+        41
+      ],
+      [
+        63,
+        360
+      ]
+    ],
+    "created": "2017-04-16T21:00:22.487780+00:00",
+    "transformation_method": "affine",
+    "mapID": "5ce04ba7-dd52-5aa2-afda-346f0f865e3d",
+    "affine_transformation": null,
+    "changed": "2017-04-16T21:00:22.487780+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.851485546,
+          50.236946798
+        ],
+        "pixel": [
+          82,
+          56
+        ]
+      },
+      {
+        "location": [
+          23.970401002,
+          50.054609185
+        ],
+        "pixel": [
+          182,
+          288
+        ]
+      },
+      {
+        "location": [
+          24.133157445,
+          50.231866897
+        ],
+        "pixel": [
+          321,
+          62
+        ]
+      },
+      {
+        "location": [
+          24.249736977,
+          50.106850856
+        ],
+        "pixel": [
+          421,
+          221
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

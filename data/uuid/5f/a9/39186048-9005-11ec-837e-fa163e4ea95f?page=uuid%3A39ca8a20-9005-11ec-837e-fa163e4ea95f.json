@@ -1,0 +1,111 @@
+{
+  "date": ["1873"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:39186048-9005-11ec-837e-fa163e4ea95f?page=uuid%3A39ca8a20-9005-11ec-837e-fa163e4ea95f",
+  "description": null,
+  "scale": 144000,
+  "external_id": "1215251",
+  "title": "Umgebungen von Sümeg und Zala Egerszeg",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.73418,
+    46.732944,
+    17.44752,
+    47.058876
+  ],
+  "reviewed": null,
+  "publisher": "Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:39186048-9005-11ec-837e-fa163e4ea95f",
+  "id": "dbace050-c3fd-5dc2-8c83-950ce26c53d3",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        93,
+        365
+      ],
+      [
+        507,
+        365
+      ],
+      [
+        509,
+        84
+      ],
+      [
+        94,
+        83
+      ],
+      [
+        93,
+        365
+      ]
+    ],
+    "created": "2017-09-02T12:08:57.683250+00:00",
+    "transformation_method": "affine",
+    "mapID": "dbace050-c3fd-5dc2-8c83-950ce26c53d3",
+    "affine_transformation": null,
+    "changed": "2017-09-02T12:08:57.683250+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.436341473,
+          46.881902667
+        ],
+        "pixel": [
+          502,
+          235
+        ]
+      },
+      {
+        "location": [
+          17.242535779,
+          46.768558476
+        ],
+        "pixel": [
+          389,
+          335
+        ]
+      },
+      {
+        "location": [
+          16.800336072,
+          47.048605345
+        ],
+        "pixel": [
+          132,
+          92
+        ]
+      },
+      {
+        "location": [
+          17.025899121,
+          46.977559586
+        ],
+        "pixel": [
+          263,
+          153
+        ]
+      },
+      {
+        "location": [
+          16.77390022,
+          46.847630988
+        ],
+        "pixel": [
+          116,
+          267
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1873"]
+}

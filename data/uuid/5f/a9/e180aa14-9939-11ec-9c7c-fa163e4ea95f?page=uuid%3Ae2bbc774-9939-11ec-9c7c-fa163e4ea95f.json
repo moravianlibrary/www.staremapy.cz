@@ -1,0 +1,111 @@
+{
+  "date": ["1932"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:e180aa14-9939-11ec-9c7c-fa163e4ea95f?page=uuid%3Ae2bbc774-9939-11ec-9c7c-fa163e4ea95f",
+  "description": "Gmünd (Rakousko : oblast)",
+  "scale": 75000,
+  "external_id": "1293518",
+  "title": "České Velenice a Gmünd",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.75559,
+    48.703053,
+    15.415764,
+    49.040268
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:e180aa14-9939-11ec-9c7c-fa163e4ea95f",
+  "id": "31229b24-ccfb-5883-a67a-b119da219db7",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:45:49.379860+00:00",
+    "transformation_method": "affine",
+    "mapID": "31229b24-ccfb-5883-a67a-b119da219db7",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:45:49.379860+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.922258049069573,
+          48.960046689922564
+        ],
+        "pixel": [
+          152,
+          108
+        ]
+      },
+      {
+        "location": [
+          14.879940916254244,
+          48.76976440597281
+        ],
+        "pixel": [
+          112,
+          359
+        ]
+      },
+      {
+        "location": [
+          15.315585359165713,
+          48.98661843637004
+        ],
+        "pixel": [
+          510,
+          63
+        ]
+      },
+      {
+        "location": [
+          15.321641154329907,
+          48.773083922571914
+        ],
+        "pixel": [
+          515,
+          353
+        ]
+      },
+      {
+        "location": [
+          15.124975827417327,
+          48.86271715210802
+        ],
+        "pixel": [
+          336,
+          232
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1932"]
+}

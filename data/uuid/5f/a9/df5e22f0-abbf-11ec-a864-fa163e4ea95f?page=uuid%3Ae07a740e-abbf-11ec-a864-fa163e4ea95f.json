@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:df5e22f0-abbf-11ec-a864-fa163e4ea95f?page=uuid%3Ae07a740e-abbf-11ec-a864-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1368658",
+  "title": "Boćki",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    22.764904,
+    52.470097,
+    23.451616,
+    52.771416
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:df5e22f0-abbf-11ec-a864-fa163e4ea95f",
+  "id": "a33e4efb-2948-560c-a99b-88a2c28dbe38",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:44:40.421450+00:00",
+    "transformation_method": "affine",
+    "mapID": "a33e4efb-2948-560c-a99b-88a2c28dbe38",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:44:40.421450+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.049468835,
+          52.653823411
+        ],
+        "pixel": [
+          249,
+          173
+        ]
+      },
+      {
+        "location": [
+          22.85733684,
+          52.725721372
+        ],
+        "pixel": [
+          81,
+          67
+        ]
+      },
+      {
+        "location": [
+          22.912826379,
+          52.565636568
+        ],
+        "pixel": [
+          129,
+          303
+        ]
+      },
+      {
+        "location": [
+          23.247780641,
+          52.554705094
+        ],
+        "pixel": [
+          422,
+          319
+        ]
+      },
+      {
+        "location": [
+          23.252329668,
+          52.735155038
+        ],
+        "pixel": [
+          425,
+          53
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

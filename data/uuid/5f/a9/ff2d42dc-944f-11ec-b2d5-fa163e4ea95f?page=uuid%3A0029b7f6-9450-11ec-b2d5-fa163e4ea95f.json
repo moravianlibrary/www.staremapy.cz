@@ -1,0 +1,111 @@
+{
+  "date": ["1892"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:ff2d42dc-944f-11ec-b2d5-fa163e4ea95f?page=uuid%3A0029b7f6-9450-11ec-b2d5-fa163e4ea95f",
+  "description": "Slonim (Bělorusko)",
+  "scale": 200000,
+  "external_id": "1254476",
+  "title": "Słonim",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    24.834597,
+    52.48138,
+    25.845497,
+    53.504757
+  ],
+  "reviewed": null,
+  "publisher": "K.u.k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:ff2d42dc-944f-11ec-b2d5-fa163e4ea95f",
+  "id": "1dcd829e-8772-535d-926a-9becb443b2f4",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        104,
+        398
+      ],
+      [
+        503,
+        398
+      ],
+      [
+        503,
+        43
+      ],
+      [
+        104,
+        43
+      ],
+      [
+        104,
+        398
+      ]
+    ],
+    "created": "2017-03-05T18:47:47.732740+00:00",
+    "transformation_method": "affine",
+    "mapID": "1dcd829e-8772-535d-926a-9becb443b2f4",
+    "affine_transformation": null,
+    "changed": "2017-03-05T18:47:47.732740+00:00",
+    "gcps": [
+      {
+        "location": [
+          25.32525238,
+          53.100653891
+        ],
+        "pixel": [
+          296,
+          184
+        ]
+      },
+      {
+        "location": [
+          24.889308781,
+          53.410280105
+        ],
+        "pixel": [
+          124,
+          75
+        ]
+      },
+      {
+        "location": [
+          25.689943128,
+          52.534038493
+        ],
+        "pixel": [
+          444,
+          381
+        ]
+      },
+      {
+        "location": [
+          25.484382477,
+          52.831635828
+        ],
+        "pixel": [
+          360,
+          277
+        ]
+      },
+      {
+        "location": [
+          24.874641266,
+          52.867297696
+        ],
+        "pixel": [
+          118,
+          264
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1892"]
+}

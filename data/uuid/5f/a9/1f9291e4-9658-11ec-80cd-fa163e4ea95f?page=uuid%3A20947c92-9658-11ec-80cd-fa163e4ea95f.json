@@ -1,0 +1,111 @@
+{
+  "date": ["1936"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:1f9291e4-9658-11ec-80cd-fa163e4ea95f?page=uuid%3A20947c92-9658-11ec-80cd-fa163e4ea95f",
+  "description": "Břeclav (Česko : oblast)",
+  "scale": 25000,
+  "external_id": "1268040",
+  "title": "[Mapový list]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.835089,
+    48.74985,
+    17.085306,
+    48.87385
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:1f9291e4-9658-11ec-80cd-fa163e4ea95f",
+  "id": "bbcbca9e-65bf-5f28-9cd0-b5513ae210cb",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        34,
+        403
+      ],
+      [
+        571,
+        403
+      ],
+      [
+        571,
+        32
+      ],
+      [
+        34,
+        32
+      ],
+      [
+        34,
+        403
+      ]
+    ],
+    "created": "2016-09-01T04:10:38.122040+00:00",
+    "transformation_method": "affine",
+    "mapID": "bbcbca9e-65bf-5f28-9cd0-b5513ae210cb",
+    "affine_transformation": null,
+    "changed": "2016-09-01T04:10:38.122040+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.838528639,
+          48.754058036
+        ],
+        "pixel": [
+          40,
+          390
+        ]
+      },
+      {
+        "location": [
+          17.072031027,
+          48.854005197
+        ],
+        "pixel": [
+          543,
+          92
+        ]
+      },
+      {
+        "location": [
+          16.885392195,
+          48.757849258
+        ],
+        "pixel": [
+          141,
+          380
+        ]
+      },
+      {
+        "location": [
+          16.971609122,
+          48.793653696
+        ],
+        "pixel": [
+          327,
+          273
+        ]
+      },
+      {
+        "location": [
+          16.836554533,
+          48.869251091
+        ],
+        "pixel": [
+          37,
+          45
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1936"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:134a886a-b0f2-11ec-94af-fa163e4ea95f?page=uuid%3A1415483e-b0f2-11ec-94af-fa163e4ea95f",
+  "description": "New York",
+  "scale": 62500,
+  "external_id": "1374670",
+  "title": "New York",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Bumstead, A. H.",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -74.79109,
+    43.477135,
+    -74.4566,
+    43.769203
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:134a886a-b0f2-11ec-94af-fa163e4ea95f",
+  "id": "925e5dce-095c-5949-ba5d-ae449e35597f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        523,
+        31
+      ],
+      [
+        525,
+        408
+      ],
+      [
+        75,
+        408
+      ],
+      [
+        77,
+        30
+      ],
+      [
+        523,
+        31
+      ]
+    ],
+    "created": "2016-01-08T13:31:28.007300+00:00",
+    "transformation_method": "affine",
+    "mapID": "925e5dce-095c-5949-ba5d-ae449e35597f",
+    "affine_transformation": null,
+    "changed": "2016-01-08T13:31:28.007300+00:00",
+    "gcps": [
+      {
+        "location": [
+          -74.56946754455569,
+          43.6705299826541
+        ],
+        "pixel": [
+          398,
+          150
+        ]
+      },
+      {
+        "location": [
+          -74.54213218874793,
+          43.712252185039574
+        ],
+        "pixel": [
+          448,
+          85
+        ]
+      },
+      {
+        "location": [
+          -74.7391332364788,
+          43.74129927754956
+        ],
+        "pixel": [
+          94,
+          42
+        ]
+      },
+      {
+        "location": [
+          -74.61828604177576,
+          43.50250430424819
+        ],
+        "pixel": [
+          308,
+          405
+        ]
+      },
+      {
+        "location": [
+          -74.51160275071366,
+          43.581457807921254
+        ],
+        "pixel": [
+          503,
+          285
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

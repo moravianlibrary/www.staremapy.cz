@@ -1,0 +1,101 @@
+{
+  "date": ["1922"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:9a1a47b4-7e47-11ec-8f0e-fa163e4ea95f?page=uuid%3A9b7337f6-7e47-11ec-8f0e-fa163e4ea95f",
+  "description": "Maďarsko",
+  "scale": 1000000,
+  "external_id": "1144294",
+  "title": "Hongrie",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.989499,
+    44.036217,
+    24.975357,
+    49.858204
+  ],
+  "reviewed": null,
+  "publisher": "Senát Národního shromáždění",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:9a1a47b4-7e47-11ec-8f0e-fa163e4ea95f",
+  "id": "87c299f7-14ee-5b59-adf4-008875b3bb18",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        544,
+        35
+      ],
+      [
+        568,
+        402
+      ],
+      [
+        34,
+        404
+      ],
+      [
+        52,
+        35
+      ],
+      [
+        544,
+        35
+      ]
+    ],
+    "created": "2015-11-05T15:42:52.736500+00:00",
+    "transformation_method": "affine",
+    "mapID": "87c299f7-14ee-5b59-adf4-008875b3bb18",
+    "affine_transformation": null,
+    "changed": "2015-11-05T15:42:52.736500+00:00",
+    "gcps": [
+      {
+        "location": [
+          20.148584329421155,
+          46.255519807275334
+        ],
+        "pixel": [
+          359,
+          280
+        ]
+      },
+      {
+        "location": [
+          19.039149609374995,
+          47.49481311083301
+        ],
+        "pixel": [
+          304,
+          185
+        ]
+      },
+      {
+        "location": [
+          21.61948069488899,
+          47.52671346016021
+        ],
+        "pixel": [
+          432,
+          181
+        ]
+      },
+      {
+        "location": [
+          17.635989514160148,
+          47.687881639784564
+        ],
+        "pixel": [
+          231,
+          171
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1922"]
+}

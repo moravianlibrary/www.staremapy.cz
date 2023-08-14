@@ -1,0 +1,111 @@
+{
+  "date": ["1911"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:464b103e-945c-11ec-8589-fa163e4ea95f?page=uuid%3A476af466-945c-11ec-8589-fa163e4ea95f",
+  "description": null,
+  "scale": 200000,
+  "external_id": "1254821",
+  "title": "47°48° Bałta",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    28.676056,
+    47.368153,
+    30.00362,
+    48.607018
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:464b103e-945c-11ec-8589-fa163e4ea95f",
+  "id": "fac97953-2318-52d1-b7d0-a1d295ed2585",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:14:50.816680+00:00",
+    "transformation_method": "affine",
+    "mapID": "fac97953-2318-52d1-b7d0-a1d295ed2585",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:14:50.816680+00:00",
+    "gcps": [
+      {
+        "location": [
+          29.753175319,
+          48.425788413
+        ],
+        "pixel": [
+          487,
+          64
+        ]
+      },
+      {
+        "location": [
+          28.87272192,
+          47.634781029
+        ],
+        "pixel": [
+          86,
+          348
+        ]
+      },
+      {
+        "location": [
+          29.375887524,
+          47.989495044
+        ],
+        "pixel": [
+          317,
+          223
+        ]
+      },
+      {
+        "location": [
+          29.614067685,
+          47.937453618
+        ],
+        "pixel": [
+          424,
+          241
+        ]
+      },
+      {
+        "location": [
+          29.49879707,
+          48.184834507
+        ],
+        "pixel": [
+          376,
+          153
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1911"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:abd3a99a-abb6-11ec-9bb8-fa163e4ea95f?page=uuid%3Aacae9f1e-abb6-11ec-9bb8-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1368421",
+  "title": "Orzechowno",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    27.993761,
+    55.210705,
+    28.624142,
+    55.533974
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:abd3a99a-abb6-11ec-9bb8-fa163e4ea95f",
+  "id": "cec85033-e20b-54f5-a201-5621cbee7f1b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:44:07.288660+00:00",
+    "transformation_method": "affine",
+    "mapID": "cec85033-e20b-54f5-a201-5621cbee7f1b",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:44:07.288660+00:00",
+    "gcps": [
+      {
+        "location": [
+          28.143152714,
+          55.309798798
+        ],
+        "pixel": [
+          141,
+          309
+        ]
+      },
+      {
+        "location": [
+          28.410470758,
+          55.28363629
+        ],
+        "pixel": [
+          401,
+          345
+        ]
+      },
+      {
+        "location": [
+          28.457185746,
+          55.397210216
+        ],
+        "pixel": [
+          438,
+          186
+        ]
+      },
+      {
+        "location": [
+          28.333783101,
+          55.471118706
+        ],
+        "pixel": [
+          325,
+          83
+        ]
+      },
+      {
+        "location": [
+          28.150233746,
+          55.45391112
+        ],
+        "pixel": [
+          148,
+          112
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

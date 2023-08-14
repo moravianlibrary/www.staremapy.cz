@@ -1,0 +1,121 @@
+{
+  "date": ["1914"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:ec9c771c-9447-11ec-b0a1-fa163e4ea95f?page=uuid%3Aeeadaf76-9447-11ec-b0a1-fa163e4ea95f",
+  "description": "Ostrih (Ukrajina)",
+  "scale": 200000,
+  "external_id": "1254245",
+  "title": "Ostrog",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    25.700857,
+    49.408813,
+    26.960026,
+    50.557068
+  ],
+  "reviewed": null,
+  "publisher": "K.u.k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:ec9c771c-9447-11ec-b0a1-fa163e4ea95f",
+  "id": "8b5495aa-a635-5890-9973-7f8b3fcffa08",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:12:31.000380+00:00",
+    "transformation_method": "affine",
+    "mapID": "8b5495aa-a635-5890-9973-7f8b3fcffa08",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:12:31.000380+00:00",
+    "gcps": [
+      {
+        "location": [
+          26.337790084369754,
+          49.53373395355575
+        ],
+        "pixel": [
+          305,
+          396
+        ]
+      },
+      {
+        "location": [
+          26.52892855600767,
+          50.31832329738293
+        ],
+        "pixel": [
+          393,
+          93
+        ]
+      },
+      {
+        "location": [
+          26.765847324694768,
+          49.76754289345507
+        ],
+        "pixel": [
+          510,
+          305
+        ]
+      },
+      {
+        "location": [
+          26.807278417043914,
+          50.126941439199015
+        ],
+        "pixel": [
+          528,
+          167
+        ]
+      },
+      {
+        "location": [
+          25.938775422820584,
+          50.04504386219264
+        ],
+        "pixel": [
+          111,
+          199
+        ]
+      },
+      {
+        "location": [
+          26.060278864404097,
+          50.48794143970272
+        ],
+        "pixel": [
+          171,
+          26
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1914"]
+}

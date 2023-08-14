@@ -1,0 +1,121 @@
+{
+  "date": ["1925"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:415ef140-9e5b-11ec-a929-fa163e4ea95f?page=uuid%3A4243ae66-9e5b-11ec-a929-fa163e4ea95f",
+  "description": "Medzilaborce (Slovensko : oblast)",
+  "scale": 75000,
+  "external_id": "1305523",
+  "title": "Medzi Laborce a Lisko",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    21.829397,
+    49.24794,
+    22.331942,
+    49.500206
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:415ef140-9e5b-11ec-a929-fa163e4ea95f",
+  "id": "c7184551-bfe0-58ee-b6fb-4e65b18d5079",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        51,
+        396
+      ],
+      [
+        551,
+        396
+      ],
+      [
+        551,
+        44
+      ],
+      [
+        51,
+        44
+      ],
+      [
+        51,
+        396
+      ]
+    ],
+    "created": "2015-12-21T14:39:00.144430+00:00",
+    "transformation_method": "affine",
+    "mapID": "c7184551-bfe0-58ee-b6fb-4e65b18d5079",
+    "affine_transformation": null,
+    "changed": "2015-12-21T14:39:00.144430+00:00",
+    "gcps": [
+      {
+        "location": [
+          22.146936417,
+          49.402674003
+        ],
+        "pixel": [
+          368,
+          183
+        ]
+      },
+      {
+        "location": [
+          22.320314407,
+          49.467978953
+        ],
+        "pixel": [
+          540,
+          87
+        ]
+      },
+      {
+        "location": [
+          21.900180226,
+          49.45093592
+        ],
+        "pixel": [
+          122,
+          112
+        ]
+      },
+      {
+        "location": [
+          21.978457814,
+          49.412391953
+        ],
+        "pixel": [
+          199,
+          167
+        ]
+      },
+      {
+        "location": [
+          22.286979795,
+          49.266065542
+        ],
+        "pixel": [
+          507,
+          372
+        ]
+      },
+      {
+        "location": [
+          21.902240163,
+          49.271775599
+        ],
+        "pixel": [
+          122,
+          361
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1925"]
+}

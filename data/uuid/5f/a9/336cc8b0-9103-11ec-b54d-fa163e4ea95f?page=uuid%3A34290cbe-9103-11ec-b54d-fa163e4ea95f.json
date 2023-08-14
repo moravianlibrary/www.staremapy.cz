@@ -1,0 +1,111 @@
+{
+  "date": ["1940"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:336cc8b0-9103-11ec-b54d-fa163e4ea95f?page=uuid%3A34290cbe-9103-11ec-b54d-fa163e4ea95f",
+  "description": "Skuteč (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1241698",
+  "title": "Skutečsko",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.981765,
+    49.821033,
+    16.073267,
+    49.86253
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:336cc8b0-9103-11ec-b54d-fa163e4ea95f",
+  "id": "f316a354-7133-5aae-a484-37eb7d5133a1",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        158,
+        276
+      ],
+      [
+        229,
+        283
+      ],
+      [
+        228,
+        229
+      ],
+      [
+        173,
+        238
+      ],
+      [
+        158,
+        276
+      ]
+    ],
+    "created": "2016-12-16T20:41:12.672870+00:00",
+    "transformation_method": "affine",
+    "mapID": "f316a354-7133-5aae-a484-37eb7d5133a1",
+    "affine_transformation": null,
+    "changed": "2016-12-16T20:41:12.672870+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.040060302,
+          49.831430162
+        ],
+        "pixel": [
+          203,
+          269
+        ]
+      },
+      {
+        "location": [
+          16.045945068,
+          49.830765789
+        ],
+        "pixel": [
+          208,
+          270
+        ]
+      },
+      {
+        "location": [
+          16.055214783,
+          49.82899408
+        ],
+        "pixel": [
+          215,
+          273
+        ]
+      },
+      {
+        "location": [
+          16.020244142,
+          49.853390884
+        ],
+        "pixel": [
+          189,
+          240
+        ]
+      },
+      {
+        "location": [
+          16.023398419,
+          49.836620269
+        ],
+        "pixel": [
+          190,
+          262
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1940"]
+}

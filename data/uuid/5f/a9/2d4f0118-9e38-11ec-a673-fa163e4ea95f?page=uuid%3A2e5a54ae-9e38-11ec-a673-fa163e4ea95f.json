@@ -1,0 +1,111 @@
+{
+  "date": ["1900"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:2d4f0118-9e38-11ec-a673-fa163e4ea95f?page=uuid%3A2e5a54ae-9e38-11ec-a673-fa163e4ea95f",
+  "description": "Benátky (Itálie : oblast)",
+  "scale": 200000,
+  "external_id": "1304536",
+  "title": "30°45° Venedig",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    11.836568,
+    44.49533,
+    12.815254,
+    45.501934
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:2d4f0118-9e38-11ec-a673-fa163e4ea95f",
+  "id": "be7f8371-73da-51fa-ae37-64f95e3ea68f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        75,
+        49
+      ],
+      [
+        538,
+        50
+      ],
+      [
+        540,
+        416
+      ],
+      [
+        69,
+        416
+      ],
+      [
+        75,
+        49
+      ]
+    ],
+    "created": "2016-12-26T19:11:47.096090+00:00",
+    "transformation_method": "affine",
+    "mapID": "be7f8371-73da-51fa-ae37-64f95e3ea68f",
+    "affine_transformation": null,
+    "changed": "2016-12-26T19:11:47.096090+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.319716339,
+          45.441988078
+        ],
+        "pixel": [
+          297,
+          71
+        ]
+      },
+      {
+        "location": [
+          12.280749207,
+          45.465349173
+        ],
+        "pixel": [
+          281,
+          63
+        ]
+      },
+      {
+        "location": [
+          12.061753273,
+          45.057830519
+        ],
+        "pixel": [
+          175,
+          212
+        ]
+      },
+      {
+        "location": [
+          12.182732105,
+          44.694207164
+        ],
+        "pixel": [
+          233,
+          344
+        ]
+      },
+      {
+        "location": [
+          12.155094624,
+          44.542204097
+        ],
+        "pixel": [
+          227,
+          401
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1900"]
+}

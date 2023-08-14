@@ -1,0 +1,111 @@
+{
+  "date": ["1939"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:65353304-993d-11ec-b55b-fa163e4ea95f?page=uuid%3A6694417c-993d-11ec-b55b-fa163e4ea95f",
+  "description": "Rakousko severní",
+  "scale": 75000,
+  "external_id": "1293617",
+  "title": "Znaim",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.77386,
+    48.71683,
+    16.391464,
+    49.0241
+  ],
+  "reviewed": null,
+  "publisher": "Hauptvermessungsabteilung XIV",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:65353304-993d-11ec-b55b-fa163e4ea95f",
+  "id": "b425ec48-7d50-5714-aaad-d447b0f5c366",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:46:42.530630+00:00",
+    "transformation_method": "affine",
+    "mapID": "b425ec48-7d50-5714-aaad-d447b0f5c366",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:46:42.530630+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.047422772,
+          48.85988384
+        ],
+        "pixel": [
+          265,
+          238
+        ]
+      },
+      {
+        "location": [
+          16.293413525,
+          48.900891206
+        ],
+        "pixel": [
+          506,
+          177
+        ]
+      },
+      {
+        "location": [
+          16.233332043,
+          48.757600244
+        ],
+        "pixel": [
+          447,
+          384
+        ]
+      },
+      {
+        "location": [
+          15.905282847,
+          48.779991592
+        ],
+        "pixel": [
+          125,
+          353
+        ]
+      },
+      {
+        "location": [
+          15.838719557,
+          48.996172156
+        ],
+        "pixel": [
+          64,
+          40
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1939"]
+}

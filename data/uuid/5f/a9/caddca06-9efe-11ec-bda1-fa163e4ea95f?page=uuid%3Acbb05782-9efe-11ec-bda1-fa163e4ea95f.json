@@ -1,0 +1,111 @@
+{
+  "date": ["1944"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:caddca06-9efe-11ec-bda1-fa163e4ea95f?page=uuid%3Acbb05782-9efe-11ec-bda1-fa163e4ea95f",
+  "description": "Mělník (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1329685",
+  "title": "Melnik",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.333948,
+    50.248947,
+    14.834161,
+    50.49877
+  ],
+  "reviewed": null,
+  "publisher": "Landesvermessungsamt Böhmen und Mähren",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:caddca06-9efe-11ec-bda1-fa163e4ea95f",
+  "id": "72dc3cbd-086f-5868-bd2a-bdba0ad64d01",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        520,
+        42
+      ],
+      [
+        521,
+        370
+      ],
+      [
+        93,
+        370
+      ],
+      [
+        94,
+        42
+      ],
+      [
+        520,
+        42
+      ]
+    ],
+    "created": "2015-11-05T17:04:12.414030+00:00",
+    "transformation_method": "affine",
+    "mapID": "72dc3cbd-086f-5868-bd2a-bdba0ad64d01",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:04:12.414030+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.342371289062497,
+          50.488484957870895
+        ],
+        "pixel": [
+          100,
+          55
+        ]
+      },
+      {
+        "location": [
+          14.400736157226573,
+          50.26406003690937
+        ],
+        "pixel": [
+          150,
+          350
+        ]
+      },
+      {
+        "location": [
+          14.582780872889096,
+          50.3657372113876
+        ],
+        "pixel": [
+          306,
+          217
+        ]
+      },
+      {
+        "location": [
+          14.778379615347127,
+          50.47423627361948
+        ],
+        "pixel": [
+          473,
+          74
+        ]
+      },
+      {
+        "location": [
+          14.785691843907989,
+          50.27119225111423
+        ],
+        "pixel": [
+          480,
+          341
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1944"]
+}

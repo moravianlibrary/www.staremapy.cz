@@ -1,0 +1,111 @@
+{
+  "date": ["1902"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:22ce2f8e-9ef1-11ec-ac1d-fa163e4ea95f?page=uuid%3A23aef064-9ef1-11ec-ac1d-fa163e4ea95f",
+  "description": null,
+  "scale": 200000,
+  "external_id": "1329301",
+  "title": "43°49° Kolomea",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    24.642546,
+    48.377445,
+    26.008083,
+    49.61772
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:22ce2f8e-9ef1-11ec-ac1d-fa163e4ea95f",
+  "id": "12289fb6-81de-59e8-bbc9-4c1b9e2427ff",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:03:31.735410+00:00",
+    "transformation_method": "affine",
+    "mapID": "12289fb6-81de-59e8-bbc9-4c1b9e2427ff",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:03:31.735410+00:00",
+    "gcps": [
+      {
+        "location": [
+          24.956455415,
+          49.453187909
+        ],
+        "pixel": [
+          139,
+          60
+        ]
+      },
+      {
+        "location": [
+          25.024604982,
+          48.525999613
+        ],
+        "pixel": [
+          165,
+          391
+        ]
+      },
+      {
+        "location": [
+          25.689638892,
+          49.299804147
+        ],
+        "pixel": [
+          460,
+          114
+        ]
+      },
+      {
+        "location": [
+          25.099209586,
+          48.952918699
+        ],
+        "pixel": [
+          200,
+          239
+        ]
+      },
+      {
+        "location": [
+          25.730322638,
+          48.652334998
+        ],
+        "pixel": [
+          480,
+          346
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1902"]
+}

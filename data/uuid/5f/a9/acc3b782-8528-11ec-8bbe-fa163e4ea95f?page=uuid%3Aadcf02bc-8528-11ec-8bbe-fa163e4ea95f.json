@@ -1,0 +1,129 @@
+{
+  "date": ["1910"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:acc3b782-8528-11ec-8bbe-fa163e4ea95f?page=uuid%3Aadcf02bc-8528-11ec-8bbe-fa163e4ea95f",
+  "description": "Jižní Austrálie",
+  "scale": 1000000,
+  "external_id": "1182156",
+  "title": "Map of the southern portion of South Australia",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    133.96637,
+    -38.13764,
+    141.44327,
+    -29.053612
+  ],
+  "reviewed": null,
+  "publisher": "Surveyor General's Office",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:acc3b782-8528-11ec-8bbe-fa163e4ea95f",
+  "id": "632422b2-cfc7-51f2-93ed-156462e61eb7",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        52,
+        350
+      ],
+      [
+        299,
+        349
+      ],
+      [
+        300,
+        423
+      ],
+      [
+        540,
+        422
+      ],
+      [
+        570,
+        20
+      ],
+      [
+        49,
+        21
+      ],
+      [
+        52,
+        350
+      ]
+    ],
+    "created": "2017-04-10T16:16:43.753810+00:00",
+    "transformation_method": "affine",
+    "mapID": "632422b2-cfc7-51f2-93ed-156462e61eb7",
+    "affine_transformation": null,
+    "changed": "2017-04-10T16:16:43.753810+00:00",
+    "gcps": [
+      {
+        "location": [
+          138.095241699,
+          -35.598141393
+        ],
+        "pixel": [
+          338,
+          307
+        ]
+      },
+      {
+        "location": [
+          134.075618896,
+          -32.883052924
+        ],
+        "pixel": [
+          53,
+          189
+        ]
+      },
+      {
+        "location": [
+          137.846676025,
+          -32.699494588
+        ],
+        "pixel": [
+          320,
+          177
+        ]
+      },
+      {
+        "location": [
+          137.250341899,
+          -29.249763523
+        ],
+        "pixel": [
+          278,
+          24
+        ]
+      },
+      {
+        "location": [
+          136.043906347,
+          -30.898635816
+        ],
+        "pixel": [
+          191,
+          98
+        ]
+      },
+      {
+        "location": [
+          140.663454798,
+          -38.059062624
+        ],
+        "pixel": [
+          506,
+          418
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1910"]
+}

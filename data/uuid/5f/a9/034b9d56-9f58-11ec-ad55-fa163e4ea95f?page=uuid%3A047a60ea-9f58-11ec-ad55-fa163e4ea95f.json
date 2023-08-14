@@ -1,0 +1,111 @@
+{
+  "date": ["1944"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:034b9d56-9f58-11ec-ad55-fa163e4ea95f?page=uuid%3A047a60ea-9f58-11ec-ad55-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1332168",
+  "title": "Stara Sagora",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    25.321781,
+    42.0007,
+    26.07637,
+    42.502197
+  ],
+  "reviewed": null,
+  "publisher": "vom OKH/Gen St d H",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:034b9d56-9f58-11ec-ad55-fa163e4ea95f",
+  "id": "d3e51d64-d01d-5f10-978b-e668d1fb1a51",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        94,
+        38
+      ],
+      [
+        494,
+        37
+      ],
+      [
+        497,
+        381
+      ],
+      [
+        94,
+        382
+      ],
+      [
+        94,
+        38
+      ]
+    ],
+    "created": "2017-06-13T08:08:41.221570+00:00",
+    "transformation_method": "affine",
+    "mapID": "d3e51d64-d01d-5f10-978b-e668d1fb1a51",
+    "affine_transformation": null,
+    "changed": "2017-06-13T08:08:41.221570+00:00",
+    "gcps": [
+      {
+        "location": [
+          25.330788701,
+          42.198402264
+        ],
+        "pixel": [
+          98,
+          246
+        ]
+      },
+      {
+        "location": [
+          25.83555898,
+          42.030505215
+        ],
+        "pixel": [
+          368,
+          362
+        ]
+      },
+      {
+        "location": [
+          25.568368047,
+          42.06345751
+        ],
+        "pixel": [
+          226,
+          339
+        ]
+      },
+      {
+        "location": [
+          26.006533711,
+          42.483128869
+        ],
+        "pixel": [
+          459,
+          50
+        ]
+      },
+      {
+        "location": [
+          25.636217206,
+          42.420511578
+        ],
+        "pixel": [
+          260,
+          94
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1944"]
+}

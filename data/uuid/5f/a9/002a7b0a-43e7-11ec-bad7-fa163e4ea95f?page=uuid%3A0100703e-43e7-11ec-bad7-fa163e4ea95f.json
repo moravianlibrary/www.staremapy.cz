@@ -1,0 +1,121 @@
+{
+  "date": ["1841"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:002a7b0a-43e7-11ec-bad7-fa163e4ea95f?page=uuid%3A0100703e-43e7-11ec-bad7-fa163e4ea95f",
+  "description": "Petrohrad (Rusko)",
+  "scale": 23700,
+  "external_id": "839507",
+  "title": "Plan stoličnago goroda Sanktpeterburga",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    30.152126,
+    59.880848,
+    30.471737,
+    60.004192
+  ],
+  "reviewed": null,
+  "publisher": "Magasin d'estampes de Velten",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:002a7b0a-43e7-11ec-bad7-fa163e4ea95f",
+  "id": "4e402e2a-5a9b-5367-9bbf-537013c1d11a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2012-08-23T12:42:27.855650+00:00",
+    "transformation_method": "affine",
+    "mapID": "4e402e2a-5a9b-5367-9bbf-537013c1d11a",
+    "affine_transformation": null,
+    "changed": "2012-08-23T12:42:27.855650+00:00",
+    "gcps": [
+      {
+        "location": [
+          30.272671391,
+          59.977268952
+        ],
+        "pixel": [
+          225,
+          91
+        ]
+      },
+      {
+        "location": [
+          30.252286603,
+          59.922296938
+        ],
+        "pixel": [
+          190,
+          296
+        ]
+      },
+      {
+        "location": [
+          30.261041333,
+          59.902934041
+        ],
+        "pixel": [
+          202,
+          364
+        ]
+      },
+      {
+        "location": [
+          30.387641599,
+          59.92079134
+        ],
+        "pixel": [
+          442,
+          308
+        ]
+      },
+      {
+        "location": [
+          30.335327794,
+          59.98426822
+        ],
+        "pixel": [
+          345,
+          66
+        ]
+      },
+      {
+        "location": [
+          30.341250111,
+          59.94891323
+        ],
+        "pixel": [
+          355,
+          199
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1841"]
+}

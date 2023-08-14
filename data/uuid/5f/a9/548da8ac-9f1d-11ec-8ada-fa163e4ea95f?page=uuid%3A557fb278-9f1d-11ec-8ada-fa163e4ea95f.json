@@ -1,0 +1,101 @@
+{
+  "date": ["1915"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:548da8ac-9f1d-11ec-8ada-fa163e4ea95f?page=uuid%3A557fb278-9f1d-11ec-8ada-fa163e4ea95f",
+  "description": null,
+  "scale": 75000,
+  "external_id": "1330537",
+  "title": "Porohy",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    23.831097,
+    48.501236,
+    24.33221,
+    48.747997
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:548da8ac-9f1d-11ec-8ada-fa163e4ea95f",
+  "id": "d4e684c5-e771-5934-873f-a84e1ca3c88f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        38,
+        404
+      ],
+      [
+        564,
+        404
+      ],
+      [
+        562,
+        31
+      ],
+      [
+        40,
+        31
+      ],
+      [
+        38,
+        404
+      ]
+    ],
+    "created": "2017-07-17T00:42:47.508560+00:00",
+    "transformation_method": "affine",
+    "mapID": "d4e684c5-e771-5934-873f-a84e1ca3c88f",
+    "affine_transformation": null,
+    "changed": "2023-01-08T19:06:37.270786+00:00",
+    "gcps": [
+      {
+        "location": [
+          24.01464043,
+          48.6476659
+        ],
+        "pixel": [
+          230,
+          181
+        ]
+      },
+      {
+        "location": [
+          24.102531055,
+          48.593651679
+        ],
+        "pixel": [
+          323,
+          266
+        ]
+      },
+      {
+        "location": [
+          24.15677605,
+          48.686665412
+        ],
+        "pixel": [
+          380,
+          124
+        ]
+      },
+      {
+        "location": [
+          23.911819838,
+          48.731402912
+        ],
+        "pixel": [
+          123,
+          56
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1915"]
+}

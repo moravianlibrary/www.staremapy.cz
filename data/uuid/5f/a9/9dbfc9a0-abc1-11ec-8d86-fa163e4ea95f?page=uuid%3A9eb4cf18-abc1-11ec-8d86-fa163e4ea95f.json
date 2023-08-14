@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:9dbfc9a0-abc1-11ec-8d86-fa163e4ea95f?page=uuid%3A9eb4cf18-abc1-11ec-8d86-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1368703",
+  "title": "Mizocz",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Konopka, M.",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    25.736921,
+    50.207443,
+    26.426937,
+    50.530403
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:9dbfc9a0-abc1-11ec-8d86-fa163e4ea95f",
+  "id": "5da4ef3d-e8fa-5921-9cad-d351af58a1e8",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:44:46.736990+00:00",
+    "transformation_method": "affine",
+    "mapID": "5da4ef3d-e8fa-5921-9cad-d351af58a1e8",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:44:46.736990+00:00",
+    "gcps": [
+      {
+        "location": [
+          26.292828549,
+          50.278742159
+        ],
+        "pixel": [
+          483,
+          346
+        ]
+      },
+      {
+        "location": [
+          25.866213724,
+          50.311116243
+        ],
+        "pixel": [
+          112,
+          301
+        ]
+      },
+      {
+        "location": [
+          26.019351092,
+          50.428857208
+        ],
+        "pixel": [
+          246,
+          140
+        ]
+      },
+      {
+        "location": [
+          26.315188017,
+          50.387297963
+        ],
+        "pixel": [
+          503,
+          196
+        ]
+      },
+      {
+        "location": [
+          26.239506808,
+          50.490929801
+        ],
+        "pixel": [
+          436,
+          54
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

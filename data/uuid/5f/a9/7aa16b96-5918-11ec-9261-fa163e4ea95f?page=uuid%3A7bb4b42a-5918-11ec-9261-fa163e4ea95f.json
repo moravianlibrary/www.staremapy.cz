@@ -1,0 +1,141 @@
+{
+  "date": ["1706"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:7aa16b96-5918-11ec-9261-fa163e4ea95f?page=uuid%3A7bb4b42a-5918-11ec-9261-fa163e4ea95f",
+  "description": "Londýn (Anglie)",
+  "scale": 7900,
+  "external_id": "1052289",
+  "title": "A new mapp of the city of London",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Overton, Henry",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -0.13681294,
+    51.490215,
+    -0.066435084,
+    51.53109
+  ],
+  "reviewed": null,
+  "publisher": "John Overton",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:7aa16b96-5918-11ec-9261-fa163e4ea95f",
+  "id": "698cb463-09cf-5b6b-8eda-280ac39bf2e7",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2013-03-05T14:46:02.555040+00:00",
+    "transformation_method": "affine",
+    "mapID": "698cb463-09cf-5b6b-8eda-280ac39bf2e7",
+    "affine_transformation": null,
+    "changed": "2013-03-05T14:46:02.555040+00:00",
+    "gcps": [
+      {
+        "location": [
+          -0.116592939,
+          51.516257298
+        ],
+        "pixel": [
+          198,
+          149
+        ]
+      },
+      {
+        "location": [
+          -0.115587488,
+          51.498462742
+        ],
+        "pixel": [
+          484,
+          337
+        ]
+      },
+      {
+        "location": [
+          -0.12487866,
+          51.494728982
+        ],
+        "pixel": [
+          90,
+          395
+        ]
+      },
+      {
+        "location": [
+          -0.087796743,
+          51.507917617
+        ],
+        "pixel": [
+          365,
+          266
+        ]
+      },
+      {
+        "location": [
+          -0.076113041,
+          51.508017783
+        ],
+        "pixel": [
+          439,
+          264
+        ]
+      },
+      {
+        "location": [
+          -0.067063645,
+          51.504246461
+        ],
+        "pixel": [
+          515,
+          372
+        ]
+      },
+      {
+        "location": [
+          -0.127346292,
+          51.499337694
+        ],
+        "pixel": [
+          82,
+          337
+        ]
+      },
+      {
+        "location": [
+          -0.09833246,
+          51.513760228
+        ],
+        "pixel": [
+          310,
+          187
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1706"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:8f456b50-b4f9-11ec-a05e-fa163e4ea95f?page=uuid%3A905fb310-b4f9-11ec-a05e-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1390119",
+  "title": "Cudnów",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    27.728254,
+    49.93517,
+    28.481377,
+    50.29079
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:8f456b50-b4f9-11ec-a05e-fa163e4ea95f",
+  "id": "03b8e460-634e-5fbb-85b1-54340c479001",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2016-01-08T13:42:27.569830+00:00",
+    "transformation_method": "affine",
+    "mapID": "03b8e460-634e-5fbb-85b1-54340c479001",
+    "affine_transformation": null,
+    "changed": "2016-01-08T13:42:27.569830+00:00",
+    "gcps": [
+      {
+        "location": [
+          28.10032218,
+          50.058847884
+        ],
+        "pixel": [
+          295,
+          289
+        ]
+      },
+      {
+        "location": [
+          27.933162689,
+          50.149180124
+        ],
+        "pixel": [
+          162,
+          177
+        ]
+      },
+      {
+        "location": [
+          28.136366844,
+          50.10158187
+        ],
+        "pixel": [
+          326,
+          236
+        ]
+      },
+      {
+        "location": [
+          27.927841187,
+          50.104444605
+        ],
+        "pixel": [
+          159,
+          233
+        ]
+      },
+      {
+        "location": [
+          28.197778702,
+          50.146897589
+        ],
+        "pixel": [
+          375,
+          179
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

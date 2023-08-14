@@ -1,0 +1,121 @@
+{
+  "date": ["1916"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:6756b334-9f31-11ec-b04e-fa163e4ea95f?page=uuid%3A6852d984-9f31-11ec-b04e-fa163e4ea95f",
+  "description": "Rumunsko",
+  "scale": 200000,
+  "external_id": "1331097",
+  "title": "47°45° Sulina",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    28.708439,
+    44.37076,
+    29.952396,
+    45.59425
+  ],
+  "reviewed": null,
+  "publisher": "K. u k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:6756b334-9f31-11ec-b04e-fa163e4ea95f",
+  "id": "d389400c-ad9e-5f76-84c3-9e96c5620dde",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:07:19.854570+00:00",
+    "transformation_method": "affine",
+    "mapID": "d389400c-ad9e-5f76-84c3-9e96c5620dde",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:07:19.854570+00:00",
+    "gcps": [
+      {
+        "location": [
+          28.880457288,
+          45.032760939
+        ],
+        "pixel": [
+          77,
+          205
+        ]
+      },
+      {
+        "location": [
+          29.060530072,
+          45.010677623
+        ],
+        "pixel": [
+          170,
+          215
+        ]
+      },
+      {
+        "location": [
+          29.619202043,
+          44.884105809
+        ],
+        "pixel": [
+          445,
+          257
+        ]
+      },
+      {
+        "location": [
+          29.285084693,
+          45.423257745
+        ],
+        "pixel": [
+          271,
+          61
+        ]
+      },
+      {
+        "location": [
+          28.896121388,
+          44.796959295
+        ],
+        "pixel": [
+          83,
+          292
+        ]
+      },
+      {
+        "location": [
+          29.592483716,
+          45.399174879
+        ],
+        "pixel": [
+          423,
+          68
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1916"]
+}

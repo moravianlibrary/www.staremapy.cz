@@ -1,0 +1,141 @@
+{
+  "date": ["1904"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:cfd497c2-9e33-11ec-8bbe-fa163e4ea95f?page=uuid%3Ad0c09f1e-9e33-11ec-8bbe-fa163e4ea95f",
+  "description": null,
+  "scale": 200000,
+  "external_id": "1304413",
+  "title": "40°42° Egri Palanka",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    21.817518,
+    41.50021,
+    22.829332,
+    42.499928
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:cfd497c2-9e33-11ec-8bbe-fa163e4ea95f",
+  "id": "e713baf6-8e6c-56a7-80d4-11deece46f57",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        52,
+        401
+      ],
+      [
+        546,
+        401
+      ],
+      [
+        542,
+        42
+      ],
+      [
+        56,
+        42
+      ],
+      [
+        52,
+        401
+      ]
+    ],
+    "created": "2017-08-09T18:57:46.590950+00:00",
+    "transformation_method": "affine",
+    "mapID": "e713baf6-8e6c-56a7-80d4-11deece46f57",
+    "affine_transformation": null,
+    "changed": "2017-08-09T18:57:46.590950+00:00",
+    "gcps": [
+      {
+        "location": [
+          21.980401532,
+          41.553847354
+        ],
+        "pixel": [
+          127,
+          382
+        ]
+      },
+      {
+        "location": [
+          21.861783521,
+          42.494065549
+        ],
+        "pixel": [
+          63,
+          44
+        ]
+      },
+      {
+        "location": [
+          21.993447797,
+          42.384831853
+        ],
+        "pixel": [
+          141,
+          84
+        ]
+      },
+      {
+        "location": [
+          22.337800519,
+          42.207640268
+        ],
+        "pixel": [
+          300,
+          148
+        ]
+      },
+      {
+        "location": [
+          22.756139294,
+          42.324004261
+        ],
+        "pixel": [
+          504,
+          105
+        ]
+      },
+      {
+        "location": [
+          22.787295834,
+          42.491882108
+        ],
+        "pixel": [
+          520,
+          45
+        ]
+      },
+      {
+        "location": [
+          22.333680646,
+          41.91157549
+        ],
+        "pixel": [
+          308,
+          254
+        ]
+      },
+      {
+        "location": [
+          22.73313667,
+          41.514719506
+        ],
+        "pixel": [
+          503,
+          396
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1904"]
+}

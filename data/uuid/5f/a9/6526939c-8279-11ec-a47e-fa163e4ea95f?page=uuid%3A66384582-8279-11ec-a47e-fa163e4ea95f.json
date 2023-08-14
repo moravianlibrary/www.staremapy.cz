@@ -1,0 +1,111 @@
+{
+  "date": ["1923"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:6526939c-8279-11ec-a47e-fa163e4ea95f?page=uuid%3A66384582-8279-11ec-a47e-fa163e4ea95f",
+  "description": "Alžírsko",
+  "scale": 3500000,
+  "external_id": "1175514",
+  "title": "Algérie",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -14.551442,
+    15.278565,
+    15.300421,
+    39.809963
+  ],
+  "reviewed": null,
+  "publisher": "Gouvernement général de l'Algérie, Service cartographique",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:6526939c-8279-11ec-a47e-fa163e4ea95f",
+  "id": "f10e32d8-4f7b-57a5-81de-7827e0b08578",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2014-08-19T15:35:10.188030+00:00",
+    "transformation_method": "affine",
+    "mapID": "f10e32d8-4f7b-57a5-81de-7827e0b08578",
+    "affine_transformation": null,
+    "changed": "2014-08-19T15:35:10.188030+00:00",
+    "gcps": [
+      {
+        "location": [
+          3.361768906,
+          18.978851128
+        ],
+        "pixel": [
+          365,
+          387
+        ]
+      },
+      {
+        "location": [
+          5.008344834,
+          32.1731312
+        ],
+        "pixel": [
+          402,
+          152
+        ]
+      },
+      {
+        "location": [
+          -6.844529922,
+          33.970544675
+        ],
+        "pixel": [
+          157,
+          112
+        ]
+      },
+      {
+        "location": [
+          -8.669633682,
+          27.31548998
+        ],
+        "pixel": [
+          108,
+          233
+        ]
+      },
+      {
+        "location": [
+          10.212416637,
+          36.805505814
+        ],
+        "pixel": [
+          490,
+          58
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1923"]
+}

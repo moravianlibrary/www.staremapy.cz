@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:948b0532-abb9-11ec-9655-fa163e4ea95f?page=uuid%3A959697d4-abb9-11ec-9655-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1368496",
+  "title": "Morocz-Siemieżewo",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Kozielski",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    26.83225,
+    52.748306,
+    27.336845,
+    53.000835
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:948b0532-abb9-11ec-9655-fa163e4ea95f",
+  "id": "523b5090-7ecf-55de-84f6-d0aab0d7a76e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        84,
+        384
+      ],
+      [
+        497,
+        384
+      ],
+      [
+        496,
+        42
+      ],
+      [
+        86,
+        43
+      ],
+      [
+        84,
+        384
+      ]
+    ],
+    "created": "2017-04-17T14:35:12.483480+00:00",
+    "transformation_method": "affine",
+    "mapID": "523b5090-7ecf-55de-84f6-d0aab0d7a76e",
+    "affine_transformation": null,
+    "changed": "2017-04-17T14:35:12.483480+00:00",
+    "gcps": [
+      {
+        "location": [
+          26.841813328,
+          52.763420491
+        ],
+        "pixel": [
+          92,
+          365
+        ]
+      },
+      {
+        "location": [
+          27.268523363,
+          52.992859852
+        ],
+        "pixel": [
+          443,
+          53
+        ]
+      },
+      {
+        "location": [
+          27.117761758,
+          52.922127381
+        ],
+        "pixel": [
+          320,
+          149
+        ]
+      },
+      {
+        "location": [
+          27.171363023,
+          52.853533802
+        ],
+        "pixel": [
+          363,
+          242
+        ]
+      },
+      {
+        "location": [
+          27.002233652,
+          52.960403463
+        ],
+        "pixel": [
+          225,
+          97
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

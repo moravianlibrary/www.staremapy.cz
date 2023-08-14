@@ -1,0 +1,121 @@
+{
+  "date": ["1937"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:296f50b2-788a-11ec-a8e1-fa163e4ea95f?page=uuid%3A2a6ff778-788a-11ec-a8e1-fa163e4ea95f",
+  "description": "Slovensko",
+  "scale": 75000,
+  "external_id": "1130767",
+  "title": "Turzovka",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    18.333372,
+    49.24834,
+    18.831553,
+    49.499203
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:296f50b2-788a-11ec-a8e1-fa163e4ea95f",
+  "id": "226826af-6416-51f5-8b03-745dac09c823",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        88,
+        35
+      ],
+      [
+        539,
+        35
+      ],
+      [
+        538,
+        372
+      ],
+      [
+        86,
+        372
+      ],
+      [
+        88,
+        35
+      ]
+    ],
+    "created": "2014-11-20T10:39:38.303240+00:00",
+    "transformation_method": "affine",
+    "mapID": "226826af-6416-51f5-8b03-745dac09c823",
+    "affine_transformation": null,
+    "changed": "2014-11-20T10:39:38.303240+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.410004038,
+          49.399122146
+        ],
+        "pixel": [
+          156,
+          170
+        ]
+      },
+      {
+        "location": [
+          18.592973609,
+          49.382421436
+        ],
+        "pixel": [
+          324,
+          191
+        ]
+      },
+      {
+        "location": [
+          18.620181937,
+          49.39661199
+        ],
+        "pixel": [
+          347,
+          173
+        ]
+      },
+      {
+        "location": [
+          18.444310282,
+          49.373910693
+        ],
+        "pixel": [
+          187,
+          205
+        ]
+      },
+      {
+        "location": [
+          18.72440185,
+          49.436982348
+        ],
+        "pixel": [
+          441,
+          117
+        ]
+      },
+      {
+        "location": [
+          18.480707068,
+          49.369438938
+        ],
+        "pixel": [
+          219,
+          209
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1937"]
+}

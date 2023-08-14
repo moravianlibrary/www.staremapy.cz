@@ -1,0 +1,111 @@
+{
+  "date": ["1905"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:27bc7ab0-9928-11ec-b08f-fa163e4ea95f?page=uuid%3A28c1ecb0-9928-11ec-b08f-fa163e4ea95f",
+  "description": "Ukrajina západní",
+  "scale": 75000,
+  "external_id": "1293017",
+  "title": "Pomorzany",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    24.830206,
+    49.498585,
+    25.331472,
+    49.748417
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:27bc7ab0-9928-11ec-b08f-fa163e4ea95f",
+  "id": "7b09f488-97c6-513c-b9db-401b7bb2f2c0",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        66,
+        399
+      ],
+      [
+        530,
+        400
+      ],
+      [
+        531,
+        48
+      ],
+      [
+        69,
+        47
+      ],
+      [
+        66,
+        399
+      ]
+    ],
+    "created": "2017-04-13T15:56:12.714440+00:00",
+    "transformation_method": "affine",
+    "mapID": "7b09f488-97c6-513c-b9db-401b7bb2f2c0",
+    "affine_transformation": null,
+    "changed": "2017-04-13T15:56:12.714440+00:00",
+    "gcps": [
+      {
+        "location": [
+          24.900899058,
+          49.557448322
+        ],
+        "pixel": [
+          132,
+          316
+        ]
+      },
+      {
+        "location": [
+          25.235467082,
+          49.530674218
+        ],
+        "pixel": [
+          441,
+          355
+        ]
+      },
+      {
+        "location": [
+          25.150838023,
+          49.658689434
+        ],
+        "pixel": [
+          364,
+          175
+        ]
+      },
+      {
+        "location": [
+          24.930693036,
+          49.661786894
+        ],
+        "pixel": [
+          160,
+          169
+        ]
+      },
+      {
+        "location": [
+          25.295425276,
+          49.728162865
+        ],
+        "pixel": [
+          499,
+          77
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1905"]
+}

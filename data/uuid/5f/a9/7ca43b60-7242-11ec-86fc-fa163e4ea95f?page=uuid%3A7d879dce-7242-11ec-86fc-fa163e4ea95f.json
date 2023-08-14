@@ -1,0 +1,111 @@
+{
+  "date": ["1757"],
+  "creator": "Mayer, Tobias",
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:7ca43b60-7242-11ec-86fc-fa163e4ea95f?page=uuid%3A7d879dce-7242-11ec-86fc-fa163e4ea95f",
+  "description": "Bělorusko",
+  "scale": 2900000,
+  "external_id": "1117343",
+  "title": "Mappa Geographica REGNI POLONIAE",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.049485,
+    44.52725,
+    39.945614,
+    59.106422
+  ],
+  "reviewed": null,
+  "publisher": "per Homannianos Heredes",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:7ca43b60-7242-11ec-86fc-fa163e4ea95f",
+  "id": "216e24f9-1ad6-584b-9854-be9e17350277",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2014-08-19T13:29:24.870280+00:00",
+    "transformation_method": "affine",
+    "mapID": "216e24f9-1ad6-584b-9854-be9e17350277",
+    "affine_transformation": null,
+    "changed": "2014-08-19T13:29:24.870280+00:00",
+    "gcps": [
+      {
+        "location": [
+          34.551170111,
+          49.589540964
+        ],
+        "pixel": [
+          484,
+          314
+        ]
+      },
+      {
+        "location": [
+          32.048151154,
+          54.793947748
+        ],
+        "pixel": [
+          423,
+          137
+        ]
+      },
+      {
+        "location": [
+          18.653585571,
+          54.347644204
+        ],
+        "pixel": [
+          128,
+          154
+        ]
+      },
+      {
+        "location": [
+          19.937495847,
+          50.061774091
+        ],
+        "pixel": [
+          147,
+          289
+        ]
+      },
+      {
+        "location": [
+          24.096624512,
+          56.946371067
+        ],
+        "pixel": [
+          249,
+          84
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1757"]
+}

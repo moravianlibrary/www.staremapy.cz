@@ -1,0 +1,121 @@
+{
+  "date": ["1932"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:51cf1836-9f80-11ec-a76e-fa163e4ea95f?page=uuid%3A52c6c8ce-9f80-11ec-a76e-fa163e4ea95f",
+  "description": "Prusko",
+  "scale": 25000,
+  "external_id": "1333275",
+  "title": "Pr[eußisch] Eylau",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    20.495628,
+    54.297504,
+    20.666208,
+    54.399113
+  ],
+  "reviewed": null,
+  "publisher": "Reichsamt für Landesaufnahme",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:51cf1836-9f80-11ec-a76e-fa163e4ea95f",
+  "id": "ca2fa29d-86e7-5b40-aa68-db0c20342186",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        57,
+        376
+      ],
+      [
+        510,
+        376
+      ],
+      [
+        510,
+        54
+      ],
+      [
+        57,
+        54
+      ],
+      [
+        57,
+        376
+      ]
+    ],
+    "created": "2017-02-26T00:17:45.615360+00:00",
+    "transformation_method": "affine",
+    "mapID": "ca2fa29d-86e7-5b40-aa68-db0c20342186",
+    "affine_transformation": null,
+    "changed": "2017-02-26T00:17:45.615360+00:00",
+    "gcps": [
+      {
+        "location": [
+          20.538546381,
+          54.31206904
+        ],
+        "pixel": [
+          172,
+          332
+        ]
+      },
+      {
+        "location": [
+          20.648366747,
+          54.388181664
+        ],
+        "pixel": [
+          463,
+          87
+        ]
+      },
+      {
+        "location": [
+          20.540606317,
+          54.392554541
+        ],
+        "pixel": [
+          177,
+          74
+        ]
+      },
+      {
+        "location": [
+          20.523004845535194,
+          54.30562854886273
+        ],
+        "pixel": [
+          129,
+          353
+        ]
+      },
+      {
+        "location": [
+          20.513378357351936,
+          54.30157089939539
+        ],
+        "pixel": [
+          104,
+          366
+        ]
+      },
+      {
+        "location": [
+          20.535215839464147,
+          54.31154202321636
+        ],
+        "pixel": [
+          162,
+          333
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1932"]
+}

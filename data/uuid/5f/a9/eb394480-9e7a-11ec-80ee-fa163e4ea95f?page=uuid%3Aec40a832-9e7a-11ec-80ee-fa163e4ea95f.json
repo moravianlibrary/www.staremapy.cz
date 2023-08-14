@@ -1,0 +1,111 @@
+{
+  "date": ["1936"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:eb394480-9e7a-11ec-80ee-fa163e4ea95f?page=uuid%3Aec40a832-9e7a-11ec-80ee-fa163e4ea95f",
+  "description": "Vyšší Brod (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1306414",
+  "title": "Vyšší Brod",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.75638,
+    48.449425,
+    14.412794,
+    48.778996
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:eb394480-9e7a-11ec-80ee-fa163e4ea95f",
+  "id": "b1774152-a661-5b24-bccd-ee66eb7e277e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        528,
+        40
+      ],
+      [
+        529,
+        376
+      ],
+      [
+        70,
+        378
+      ],
+      [
+        71,
+        39
+      ],
+      [
+        528,
+        40
+      ]
+    ],
+    "created": "2015-11-05T17:02:03.463640+00:00",
+    "transformation_method": "affine",
+    "mapID": "b1774152-a661-5b24-bccd-ee66eb7e277e",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:02:03.463640+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.296742218922176,
+          48.521479111620636
+        ],
+        "pixel": [
+          494,
+          346
+        ]
+      },
+      {
+        "location": [
+          14.326531324271553,
+          48.59339127720045
+        ],
+        "pixel": [
+          521,
+          249
+        ]
+      },
+      {
+        "location": [
+          13.972770813561201,
+          48.73303346136461
+        ],
+        "pixel": [
+          198,
+          62
+        ]
+      },
+      {
+        "location": [
+          13.931850782348157,
+          48.52304983774965
+        ],
+        "pixel": [
+          160,
+          346
+        ]
+      },
+      {
+        "location": [
+          13.869383113983714,
+          48.65962950646028
+        ],
+        "pixel": [
+          103,
+          160
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1936"]
+}

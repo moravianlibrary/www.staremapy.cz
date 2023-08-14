@@ -1,0 +1,115 @@
+{
+  "date": ["1940"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:dc920a16-7887-11ec-b609-fa163e4ea95f?page=uuid%3Add975bb4-7887-11ec-b609-fa163e4ea95f",
+  "description": "Slezsko",
+  "scale": 75000,
+  "external_id": "1130695",
+  "title": "Fryštát",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    18.329262,
+    49.748257,
+    18.83265,
+    49.999752
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:dc920a16-7887-11ec-b609-fa163e4ea95f",
+  "id": "ec32f846-9f6c-5e4c-a9e0-6ed8c049deb5",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        72,
+        42
+      ],
+      [
+        549,
+        42
+      ],
+      [
+        548,
+        387
+      ],
+      [
+        70,
+        388
+      ],
+      [
+        71,
+        47
+      ],
+      [
+        72,
+        42
+      ]
+    ],
+    "created": "2014-12-05T21:27:04.675270+00:00",
+    "transformation_method": "affine",
+    "mapID": "ec32f846-9f6c-5e4c-a9e0-6ed8c049deb5",
+    "affine_transformation": null,
+    "changed": "2014-12-05T21:27:04.675270+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.455535056,
+          49.992066074
+        ],
+        "pixel": [
+          191,
+          53
+        ]
+      },
+      {
+        "location": [
+          18.358232559,
+          49.865558548
+        ],
+        "pixel": [
+          98,
+          226
+        ]
+      },
+      {
+        "location": [
+          18.589717926,
+          49.790950535
+        ],
+        "pixel": [
+          317,
+          329
+        ]
+      },
+      {
+        "location": [
+          18.72610289,
+          49.961645377
+        ],
+        "pixel": [
+          448,
+          94
+        ]
+      },
+      {
+        "location": [
+          18.45058638,
+          49.806241399
+        ],
+        "pixel": [
+          186,
+          309
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1940"]
+}

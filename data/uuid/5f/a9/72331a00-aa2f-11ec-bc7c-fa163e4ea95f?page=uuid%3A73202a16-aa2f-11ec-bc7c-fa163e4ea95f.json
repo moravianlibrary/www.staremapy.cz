@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:72331a00-aa2f-11ec-bc7c-fa163e4ea95f?page=uuid%3A73202a16-aa2f-11ec-bc7c-fa163e4ea95f",
+  "description": "Evropa střední",
+  "scale": 20000000,
+  "external_id": "1349998",
+  "title": "Přehled počasí",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Machač, František",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -23.822475,
+    29.06712,
+    45.56456,
+    71.3784
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:72331a00-aa2f-11ec-bc7c-fa163e4ea95f",
+  "id": "dbd99dfa-d00b-5a32-bc68-741942140273",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        20,
+        345
+      ],
+      [
+        286,
+        345
+      ],
+      [
+        286,
+        38
+      ],
+      [
+        20,
+        38
+      ],
+      [
+        20,
+        345
+      ]
+    ],
+    "created": "2016-01-01T23:35:28.683380+00:00",
+    "transformation_method": "affine",
+    "mapID": "dbd99dfa-d00b-5a32-bc68-741942140273",
+    "affine_transformation": null,
+    "changed": "2016-01-01T23:35:28.683380+00:00",
+    "gcps": [
+      {
+        "location": [
+          28.990283594,
+          41.094349614
+        ],
+        "pixel": [
+          248,
+          291
+        ]
+      },
+      {
+        "location": [
+          1.436572656,
+          51.336180418
+        ],
+        "pixel": [
+          109,
+          215
+        ]
+      },
+      {
+        "location": [
+          -5.583691016,
+          35.994107983
+        ],
+        "pixel": [
+          47,
+          323
+        ]
+      },
+      {
+        "location": [
+          -24.029735937,
+          64.829371973
+        ],
+        "pixel": [
+          47,
+          79
+        ]
+      },
+      {
+        "location": [
+          31.088672266,
+          70.362394339
+        ],
+        "pixel": [
+          218,
+          59
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

@@ -1,0 +1,111 @@
+{
+  "date": ["1864"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:ed062dec-784a-11ec-b3a9-fa163e4ea95f?page=uuid%3Aee43ead2-784a-11ec-b3a9-fa163e4ea95f",
+  "description": null,
+  "scale": 62000,
+  "external_id": "1128568",
+  "title": "Detail-Karte über die Düppler Werke",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    9.574515,
+    54.862495,
+    9.90099,
+    54.991768
+  ],
+  "reviewed": null,
+  "publisher": "Brüder Böhm",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:ed062dec-784a-11ec-b3a9-fa163e4ea95f",
+  "id": "0211fe3a-2220-554e-97fd-224be34405c2",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        20,
+        421
+      ],
+      [
+        579,
+        421
+      ],
+      [
+        579,
+        18
+      ],
+      [
+        20,
+        18
+      ],
+      [
+        20,
+        421
+      ]
+    ],
+    "created": "2014-12-02T17:54:48.865100+00:00",
+    "transformation_method": "affine",
+    "mapID": "0211fe3a-2220-554e-97fd-224be34405c2",
+    "affine_transformation": null,
+    "changed": "2014-12-02T17:54:48.865100+00:00",
+    "gcps": [
+      {
+        "location": [
+          9.789669111,
+          54.908581041
+        ],
+        "pixel": [
+          390,
+          275
+        ]
+      },
+      {
+        "location": [
+          9.721347883,
+          54.914304373
+        ],
+        "pixel": [
+          263,
+          265
+        ]
+      },
+      {
+        "location": [
+          9.896099165,
+          54.910357335
+        ],
+        "pixel": [
+          569,
+          256
+        ]
+      },
+      {
+        "location": [
+          9.816448286,
+          54.930581816
+        ],
+        "pixel": [
+          453,
+          205
+        ]
+      },
+      {
+        "location": [
+          9.874212339,
+          54.949415967
+        ],
+        "pixel": [
+          533,
+          122
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1864"]
+}

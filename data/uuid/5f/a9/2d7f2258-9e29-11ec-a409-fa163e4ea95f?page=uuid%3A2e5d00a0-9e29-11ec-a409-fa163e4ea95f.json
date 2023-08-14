@@ -1,0 +1,111 @@
+{
+  "date": ["1893"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:2d7f2258-9e29-11ec-a409-fa163e4ea95f?page=uuid%3A2e5d00a0-9e29-11ec-a409-fa163e4ea95f",
+  "description": "Záhřeb (Chorvatsko : oblast)",
+  "scale": 200000,
+  "external_id": "1304113",
+  "title": "34°46° Agram",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.662074,
+    45.364452,
+    17.004454,
+    46.624744
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:2d7f2258-9e29-11ec-a409-fa163e4ea95f",
+  "id": "7122724d-7b55-5871-8be6-04c4170a2507",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:50:00.637090+00:00",
+    "transformation_method": "affine",
+    "mapID": "7122724d-7b55-5871-8be6-04c4170a2507",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:50:00.637090+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.864012061,
+          46.415536383
+        ],
+        "pixel": [
+          91,
+          74
+        ]
+      },
+      {
+        "location": [
+          16.732103643,
+          45.947432921
+        ],
+        "pixel": [
+          480,
+          239
+        ]
+      },
+      {
+        "location": [
+          16.779997168,
+          46.322495316
+        ],
+        "pixel": [
+          501,
+          108
+        ]
+      },
+      {
+        "location": [
+          16.237933455,
+          45.536638843
+        ],
+        "pixel": [
+          256,
+          383
+        ]
+      },
+      {
+        "location": [
+          16.341230688,
+          46.296556556
+        ],
+        "pixel": [
+          304,
+          116
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1893"]
+}

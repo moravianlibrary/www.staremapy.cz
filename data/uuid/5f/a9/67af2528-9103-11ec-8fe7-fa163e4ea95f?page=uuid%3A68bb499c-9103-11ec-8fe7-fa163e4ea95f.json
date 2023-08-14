@@ -1,0 +1,121 @@
+{
+  "date": ["1940"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:67af2528-9103-11ec-8fe7-fa163e4ea95f?page=uuid%3A68bb499c-9103-11ec-8fe7-fa163e4ea95f",
+  "description": "Brno (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1241704",
+  "title": "Brno",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.33365,
+    48.998672,
+    16.83547,
+    49.249725
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:67af2528-9103-11ec-8fe7-fa163e4ea95f",
+  "id": "9c846151-b2a2-503a-a328-9d7896ea4cbe",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        75,
+        43
+      ],
+      [
+        527,
+        44
+      ],
+      [
+        527,
+        382
+      ],
+      [
+        73,
+        382
+      ],
+      [
+        75,
+        43
+      ]
+    ],
+    "created": "2016-02-09T11:19:05.583370+00:00",
+    "transformation_method": "affine",
+    "mapID": "9c846151-b2a2-503a-a328-9d7896ea4cbe",
+    "affine_transformation": null,
+    "changed": "2016-02-09T11:19:05.583370+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.594491328,
+          49.091394483
+        ],
+        "pixel": [
+          310,
+          258
+        ]
+      },
+      {
+        "location": [
+          16.606570332,
+          49.204186542
+        ],
+        "pixel": [
+          322,
+          105
+        ]
+      },
+      {
+        "location": [
+          16.393468988,
+          49.181869738
+        ],
+        "pixel": [
+          129,
+          135
+        ]
+      },
+      {
+        "location": [
+          16.619472773,
+          49.037287537
+        ],
+        "pixel": [
+          333,
+          330
+        ]
+      },
+      {
+        "location": [
+          16.731607163,
+          49.165768876
+        ],
+        "pixel": [
+          435,
+          155
+        ]
+      },
+      {
+        "location": [
+          16.371694616,
+          49.103645176
+        ],
+        "pixel": [
+          108,
+          242
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1940"]
+}

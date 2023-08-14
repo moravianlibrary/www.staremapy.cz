@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:6cf171f6-b112-11ec-8726-fa163e4ea95f?page=uuid%3A6da91f7c-b112-11ec-8726-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1375851",
+  "title": "Nimmersatt-Krottingen",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    20.743587,
+    55.702168,
+    21.402987,
+    56.022476
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:6cf171f6-b112-11ec-8726-fa163e4ea95f",
+  "id": "5dd3d2b9-96ff-5cb5-9b09-93e441a57c29",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2016-01-08T13:33:06.531770+00:00",
+    "transformation_method": "affine",
+    "mapID": "5dd3d2b9-96ff-5cb5-9b09-93e441a57c29",
+    "affine_transformation": null,
+    "changed": "2016-01-08T13:33:06.531770+00:00",
+    "gcps": [
+      {
+        "location": [
+          21.066529274,
+          55.917989869
+        ],
+        "pixel": [
+          294,
+          145
+        ]
+      },
+      {
+        "location": [
+          21.095883369,
+          55.773041791
+        ],
+        "pixel": [
+          320,
+          345
+        ]
+      },
+      {
+        "location": [
+          21.111643574,
+          55.997301844
+        ],
+        "pixel": [
+          336,
+          35
+        ]
+      },
+      {
+        "location": [
+          21.282205896,
+          55.788497578
+        ],
+        "pixel": [
+          491,
+          324
+        ]
+      },
+      {
+        "location": [
+          21.247717857,
+          55.900815182
+        ],
+        "pixel": [
+          458,
+          168
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

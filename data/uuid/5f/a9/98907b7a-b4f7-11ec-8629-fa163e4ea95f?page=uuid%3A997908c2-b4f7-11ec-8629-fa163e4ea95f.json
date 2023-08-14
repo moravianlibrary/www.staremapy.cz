@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:98907b7a-b4f7-11ec-8629-fa163e4ea95f?page=uuid%3A997908c2-b4f7-11ec-8629-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1390071",
+  "title": "Sławuta",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    26.82905,
+    50.249416,
+    27.333279,
+    50.50102
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:98907b7a-b4f7-11ec-8629-fa163e4ea95f",
+  "id": "dbd518b3-0a33-536f-88f5-f5a3c9cde5d0",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        71,
+        360
+      ],
+      [
+        471,
+        360
+      ],
+      [
+        471,
+        50
+      ],
+      [
+        71,
+        50
+      ],
+      [
+        71,
+        360
+      ]
+    ],
+    "created": "2017-03-04T00:40:34.602270+00:00",
+    "transformation_method": "affine",
+    "mapID": "dbd518b3-0a33-536f-88f5-f5a3c9cde5d0",
+    "affine_transformation": null,
+    "changed": "2017-03-04T00:40:34.602270+00:00",
+    "gcps": [
+      {
+        "location": [
+          27.127071841,
+          50.458305714
+        ],
+        "pixel": [
+          308,
+          103
+        ]
+      },
+      {
+        "location": [
+          27.27687954863276,
+          50.30151860996315
+        ],
+        "pixel": [
+          427,
+          295
+        ]
+      },
+      {
+        "location": [
+          27.139259799,
+          50.310593688
+        ],
+        "pixel": [
+          317,
+          286
+        ]
+      },
+      {
+        "location": [
+          26.897646411,
+          50.452485854
+        ],
+        "pixel": [
+          125,
+          109
+        ]
+      },
+      {
+        "location": [
+          26.872669681,
+          50.308072193
+        ],
+        "pixel": [
+          106,
+          288
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

@@ -1,0 +1,127 @@
+{
+  "date": ["1936"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:e3c95c64-7e1b-11ec-8a71-fa163e4ea95f?page=uuid%3Ae4cb34a2-7e1b-11ec-8a71-fa163e4ea95f",
+  "description": null,
+  "scale": 25000,
+  "external_id": "1141956",
+  "title": "Egg",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.316753,
+    46.548935,
+    13.472411,
+    46.635868
+  ],
+  "reviewed": null,
+  "publisher": "Kartographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:e3c95c64-7e1b-11ec-8a71-fa163e4ea95f",
+  "id": "7ec8eaa0-4c88-5d5d-acf9-9cc23d0ace4d",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        543,
+        57
+      ],
+      [
+        543,
+        412
+      ],
+      [
+        350,
+        412
+      ],
+      [
+        273,
+        376
+      ],
+      [
+        78,
+        376
+      ],
+      [
+        76,
+        382
+      ],
+      [
+        62,
+        382
+      ],
+      [
+        62,
+        58
+      ],
+      [
+        543,
+        57
+      ]
+    ],
+    "created": "2014-08-19T14:35:33.137810+00:00",
+    "transformation_method": "affine",
+    "mapID": "7ec8eaa0-4c88-5d5d-acf9-9cc23d0ace4d",
+    "affine_transformation": null,
+    "changed": "2014-08-19T14:35:33.137810+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.409865901477161,
+          46.572096225171265
+        ],
+        "pixel": [
+          359,
+          326
+        ]
+      },
+      {
+        "location": [
+          13.454803298800838,
+          46.55895684372484
+        ],
+        "pixel": [
+          532,
+          392
+        ]
+      },
+      {
+        "location": [
+          13.346477205118251,
+          46.62009295625529
+        ],
+        "pixel": [
+          115,
+          80
+        ]
+      },
+      {
+        "location": [
+          13.440869788760958,
+          46.62062723268349
+        ],
+        "pixel": [
+          479,
+          77
+        ]
+      },
+      {
+        "location": [
+          13.344610086424312,
+          46.569779226246084
+        ],
+        "pixel": [
+          106,
+          338
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1936"]
+}

@@ -1,0 +1,121 @@
+{
+  "date": ["1928"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:eeb59748-9efd-11ec-abed-fa163e4ea95f?page=uuid%3Aeff98b82-9efd-11ec-abed-fa163e4ea95f",
+  "description": "Mělník (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1329661",
+  "title": "Mělník",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.326424,
+    50.24443,
+    14.837132,
+    50.502754
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:eeb59748-9efd-11ec-abed-fa163e4ea95f",
+  "id": "427d83db-ca9e-5c7b-a65f-469d071e57dc",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        72,
+        387
+      ],
+      [
+        525,
+        387
+      ],
+      [
+        525,
+        39
+      ],
+      [
+        72,
+        39
+      ],
+      [
+        72,
+        387
+      ]
+    ],
+    "created": "2016-09-01T18:19:51.980020+00:00",
+    "transformation_method": "affine",
+    "mapID": "427d83db-ca9e-5c7b-a65f-469d071e57dc",
+    "affine_transformation": null,
+    "changed": "2016-09-01T18:19:51.980020+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.635339111,
+          50.441876286
+        ],
+        "pixel": [
+          346,
+          120
+        ]
+      },
+      {
+        "location": [
+          14.632335037,
+          50.437885778
+        ],
+        "pixel": [
+          343,
+          127
+        ]
+      },
+      {
+        "location": [
+          14.476209015,
+          50.474552988
+        ],
+        "pixel": [
+          203,
+          77
+        ]
+      },
+      {
+        "location": [
+          14.475007385,
+          50.441876286
+        ],
+        "pixel": [
+          203,
+          122
+        ]
+      },
+      {
+        "location": [
+          14.441426128,
+          50.407016311
+        ],
+        "pixel": [
+          173,
+          168
+        ]
+      },
+      {
+        "location": [
+          14.46565184,
+          50.427552626
+        ],
+        "pixel": [
+          194,
+          141
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1928"]
+}

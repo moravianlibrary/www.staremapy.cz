@@ -1,0 +1,111 @@
+{
+  "date": ["1916"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:40f14208-7e3f-11ec-a739-fa163e4ea95f?page=uuid%3A4222eb54-7e3f-11ec-a739-fa163e4ea95f",
+  "description": "Novi Pazar (Srbsko)",
+  "scale": 200000,
+  "external_id": "1143692",
+  "title": "Novi Pazar",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    19.708282,
+    42.40748,
+    20.98591,
+    43.57583
+  ],
+  "reviewed": null,
+  "publisher": "Kartografska radionica",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:40f14208-7e3f-11ec-a739-fa163e4ea95f",
+  "id": "6f001357-0a5d-5075-ad0c-61e5bd58ad45",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        545,
+        33
+      ],
+      [
+        551,
+        408
+      ],
+      [
+        48,
+        404
+      ],
+      [
+        48,
+        31
+      ],
+      [
+        545,
+        33
+      ]
+    ],
+    "created": "2015-11-05T15:42:28.558850+00:00",
+    "transformation_method": "affine",
+    "mapID": "6f001357-0a5d-5075-ad0c-61e5bd58ad45",
+    "affine_transformation": null,
+    "changed": "2015-11-05T15:42:28.558850+00:00",
+    "gcps": [
+      {
+        "location": [
+          20.317600533614772,
+          42.68277566843605
+        ],
+        "pixel": [
+          275,
+          343
+        ]
+      },
+      {
+        "location": [
+          20.458400388277145,
+          42.71985037245068
+        ],
+        "pixel": [
+          354,
+          330
+        ]
+      },
+      {
+        "location": [
+          20.518254946245523,
+          43.140159576650746
+        ],
+        "pixel": [
+          380,
+          167
+        ]
+      },
+      {
+        "location": [
+          19.942872187805587,
+          42.598456789394476
+        ],
+        "pixel": [
+          101,
+          371
+        ]
+      },
+      {
+        "location": [
+          20.61994752807254,
+          43.28644758695822
+        ],
+        "pixel": [
+          440,
+          110
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1916"]
+}

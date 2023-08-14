@@ -1,0 +1,111 @@
+{
+  "date": ["1936"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:703bdfd2-9104-11ec-a3be-fa163e4ea95f?page=uuid%3A70fd40be-9104-11ec-a3be-fa163e4ea95f",
+  "description": "Strašice (Rokycany, Česko : oblast)",
+  "scale": 20000,
+  "external_id": "1241734",
+  "title": "Porostní mapa vojenské lesní správy Strašice",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.745163,
+    49.669937,
+    13.887116,
+    49.77964
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:703bdfd2-9104-11ec-a3be-fa163e4ea95f",
+  "id": "ee72be9a-630f-5402-a785-81461352950b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:07:50.617330+00:00",
+    "transformation_method": "affine",
+    "mapID": "ee72be9a-630f-5402-a785-81461352950b",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:07:50.617330+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.840385329,
+          49.696469198
+        ],
+        "pixel": [
+          403,
+          336
+        ]
+      },
+      {
+        "location": [
+          13.797255408,
+          49.742832723
+        ],
+        "pixel": [
+          220,
+          149
+        ]
+      },
+      {
+        "location": [
+          13.767815482,
+          49.718699249
+        ],
+        "pixel": [
+          95,
+          245
+        ]
+      },
+      {
+        "location": [
+          13.868776503,
+          49.740770933
+        ],
+        "pixel": [
+          522,
+          157
+        ]
+      },
+      {
+        "location": [
+          13.800862803,
+          49.731633317
+        ],
+        "pixel": [
+          235,
+          194
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1936"]
+}

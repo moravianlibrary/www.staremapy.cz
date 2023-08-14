@@ -1,0 +1,111 @@
+{
+  "date": ["1929"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:e1b072c0-9f7f-11ec-a403-fa163e4ea95f?page=uuid%3Ae289e492-9f7f-11ec-a403-fa163e4ea95f",
+  "description": "Prusko",
+  "scale": 25000,
+  "external_id": "1333263",
+  "title": "Zinten",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    20.163626,
+    54.398567,
+    20.33071,
+    54.498528
+  ],
+  "reviewed": null,
+  "publisher": "Reichsamt für Landesaufnahme",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:e1b072c0-9f7f-11ec-a403-fa163e4ea95f",
+  "id": "5459ad47-d029-51c0-8872-85064b7184f3",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        40,
+        383
+      ],
+      [
+        507,
+        383
+      ],
+      [
+        506,
+        53
+      ],
+      [
+        41,
+        53
+      ],
+      [
+        40,
+        383
+      ]
+    ],
+    "created": "2017-07-10T22:03:30.054810+00:00",
+    "transformation_method": "affine",
+    "mapID": "5459ad47-d029-51c0-8872-85064b7184f3",
+    "affine_transformation": null,
+    "changed": "2017-07-10T22:03:30.054810+00:00",
+    "gcps": [
+      {
+        "location": [
+          20.28271101,
+          54.399960701
+        ],
+        "pixel": [
+          373,
+          379
+        ]
+      },
+      {
+        "location": [
+          20.289997101,
+          54.446237721
+        ],
+        "pixel": [
+          393,
+          225
+        ]
+      },
+      {
+        "location": [
+          20.253218651,
+          54.487789719
+        ],
+        "pixel": [
+          290,
+          88
+        ]
+      },
+      {
+        "location": [
+          20.177859306,
+          54.432435923
+        ],
+        "pixel": [
+          80,
+          271
+        ]
+      },
+      {
+        "location": [
+          20.170737521,
+          54.497581493
+        ],
+        "pixel": [
+          60,
+          55
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1929"]
+}

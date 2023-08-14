@@ -1,0 +1,111 @@
+{
+  "date": ["1927"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:c99aa7b8-90d0-11ec-9653-fa163e4ea95f?page=uuid%3Acaa9a474-90d0-11ec-9653-fa163e4ea95f",
+  "description": null,
+  "scale": 20000,
+  "external_id": "1239270",
+  "title": "Topografikos chartes Attikes",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    23.61077,
+    37.901478,
+    23.731539,
+    38.00287
+  ],
+  "reviewed": null,
+  "publisher": "Geografike yperezia stratou",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:c99aa7b8-90d0-11ec-9653-fa163e4ea95f",
+  "id": "f3bdc652-8eb6-5f47-8300-670f6f017855",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        44,
+        53
+      ],
+      [
+        554,
+        52
+      ],
+      [
+        557,
+        395
+      ],
+      [
+        47,
+        394
+      ],
+      [
+        44,
+        53
+      ]
+    ],
+    "created": "2017-12-06T05:56:57.226070+00:00",
+    "transformation_method": "affine",
+    "mapID": "f3bdc652-8eb6-5f47-8300-670f6f017855",
+    "affine_transformation": null,
+    "changed": "2017-12-06T05:56:57.226070+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.648855365,
+          37.93900017
+        ],
+        "pixel": [
+          197,
+          266
+        ]
+      },
+      {
+        "location": [
+          23.721339381,
+          37.967306781
+        ],
+        "pixel": [
+          530,
+          174
+        ]
+      },
+      {
+        "location": [
+          23.69121281,
+          37.937747863
+        ],
+        "pixel": [
+          419,
+          274
+        ]
+      },
+      {
+        "location": [
+          23.622097648,
+          37.938610942
+        ],
+        "pixel": [
+          64,
+          268
+        ]
+      },
+      {
+        "location": [
+          23.64245025,
+          37.953273277
+        ],
+        "pixel": [
+          169,
+          217
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1927"]
+}

@@ -1,0 +1,121 @@
+{
+  "date": ["1870"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:d0ac7942-9007-11ec-8759-fa163e4ea95f?page=uuid%3Ad1b775c6-9007-11ec-8759-fa163e4ea95f",
+  "description": null,
+  "scale": 144000,
+  "external_id": "1215326",
+  "title": "Umgebungen von Trzstenna und Námeszto",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    19.0032,
+    49.305027,
+    19.774128,
+    49.651997
+  ],
+  "reviewed": null,
+  "publisher": "Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:d0ac7942-9007-11ec-8759-fa163e4ea95f",
+  "id": "e16f8dbe-ace1-5d47-850f-24d69521078f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        93,
+        81
+      ],
+      [
+        511,
+        79
+      ],
+      [
+        509,
+        368
+      ],
+      [
+        93,
+        369
+      ],
+      [
+        93,
+        81
+      ]
+    ],
+    "created": "2017-11-12T04:55:20.305720+00:00",
+    "transformation_method": "affine",
+    "mapID": "e16f8dbe-ace1-5d47-850f-24d69521078f",
+    "affine_transformation": null,
+    "changed": "2017-11-12T04:55:20.305720+00:00",
+    "gcps": [
+      {
+        "location": [
+          19.318544232,
+          49.531084102
+        ],
+        "pixel": [
+          260,
+          184
+        ]
+      },
+      {
+        "location": [
+          19.348584973,
+          49.32464478
+        ],
+        "pixel": [
+          285,
+          360
+        ]
+      },
+      {
+        "location": [
+          19.241983258,
+          49.560488632
+        ],
+        "pixel": [
+          219,
+          153
+        ]
+      },
+      {
+        "location": [
+          19.693967664,
+          49.47891439
+        ],
+        "pixel": [
+          472,
+          217
+        ]
+      },
+      {
+        "location": [
+          19.425660931,
+          49.540107828
+        ],
+        "pixel": [
+          321,
+          171
+        ]
+      },
+      {
+        "location": [
+          19.487115704,
+          49.478022117
+        ],
+        "pixel": [
+          357,
+          221
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1870"]
+}

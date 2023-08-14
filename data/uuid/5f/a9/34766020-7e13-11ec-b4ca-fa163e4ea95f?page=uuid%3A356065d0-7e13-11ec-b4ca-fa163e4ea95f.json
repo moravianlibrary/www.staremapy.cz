@@ -1,0 +1,101 @@
+{
+  "date": ["1930"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:34766020-7e13-11ec-b4ca-fa163e4ea95f?page=uuid%3A356065d0-7e13-11ec-b4ca-fa163e4ea95f",
+  "description": null,
+  "scale": 25000,
+  "external_id": "1141695",
+  "title": "Strobl",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.434684,
+    47.702026,
+    13.615911,
+    47.73902
+  ],
+  "reviewed": null,
+  "publisher": "Kartographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:34766020-7e13-11ec-b4ca-fa163e4ea95f",
+  "id": "2be49d9b-cf1b-5fcf-b8b7-cbc4ebb7a021",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        535,
+        62
+      ],
+      [
+        535,
+        380
+      ],
+      [
+        69,
+        382
+      ],
+      [
+        68,
+        64
+      ],
+      [
+        535,
+        62
+      ]
+    ],
+    "created": "2014-08-19T14:34:18.093800+00:00",
+    "transformation_method": "affine",
+    "mapID": "2be49d9b-cf1b-5fcf-b8b7-cbc4ebb7a021",
+    "affine_transformation": null,
+    "changed": "2014-08-19T14:34:18.093800+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.552657914079065,
+          47.724399529429206
+        ],
+        "pixel": [
+          424,
+          191
+        ]
+      },
+      {
+        "location": [
+          13.516962185722946,
+          47.73228822214949
+        ],
+        "pixel": [
+          522,
+          12
+        ]
+      },
+      {
+        "location": [
+          13.488621774192259,
+          47.735566069812535
+        ],
+        "pixel": [
+          184,
+          133
+        ]
+      },
+      {
+        "location": [
+          13.483326393890266,
+          47.71700032452611
+        ],
+        "pixel": [
+          163,
+          229
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1930"]
+}

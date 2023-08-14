@@ -1,0 +1,101 @@
+{
+  "date": ["1879"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:c08f3c42-8fef-11ec-b1e3-fa163e4ea95f?page=uuid%3Ac45527d8-8fef-11ec-b1e3-fa163e4ea95f",
+  "description": "Indický oceán",
+  "scale": 18000000,
+  "external_id": "1214549",
+  "title": "Carte pour la navigation par l'arc de grand cercle",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.514523,
+    50.680416,
+    14.533712,
+    50.68398
+  ],
+  "reviewed": null,
+  "publisher": "Dépôt des cartes et plans de la Marine",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:c08f3c42-8fef-11ec-b1e3-fa163e4ea95f",
+  "id": "ddffafdc-650b-5cc8-a820-bc27cb7e28b1",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T15:58:41.034940+00:00",
+    "transformation_method": "affine",
+    "mapID": "ddffafdc-650b-5cc8-a820-bc27cb7e28b1",
+    "affine_transformation": null,
+    "changed": "2021-04-05T04:40:40.666507+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.526117482870173,
+          50.68270862416881
+        ],
+        "pixel": [
+          183,
+          151
+        ]
+      },
+      {
+        "location": [
+          14.52424787169156,
+          50.682079243320004
+        ],
+        "pixel": [
+          412,
+          253
+        ]
+      },
+      {
+        "location": [
+          14.524982796961641,
+          50.682456532801694
+        ],
+        "pixel": [
+          297,
+          173
+        ]
+      },
+      {
+        "location": [
+          14.520809279734463,
+          50.681650965097134
+        ],
+        "pixel": [
+          145,
+          282
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1879"]
+}

@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:80d9ac7c-b4e3-11ec-a858-fa163e4ea95f?page=uuid%3A81aab650-b4e3-11ec-a858-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1389570",
+  "title": "Marjampol",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    23.32824,
+    54.49792,
+    23.830961,
+    54.75069
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:80d9ac7c-b4e3-11ec-a858-fa163e4ea95f",
+  "id": "4e2f69d5-4f9f-5829-a32f-a8502b01e178",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        90,
+        378
+      ],
+      [
+        502,
+        378
+      ],
+      [
+        500,
+        42
+      ],
+      [
+        92,
+        42
+      ],
+      [
+        90,
+        378
+      ]
+    ],
+    "created": "2016-09-08T15:28:59.480910+00:00",
+    "transformation_method": "affine",
+    "mapID": "4e2f69d5-4f9f-5829-a32f-a8502b01e178",
+    "affine_transformation": null,
+    "changed": "2016-09-08T15:28:59.480910+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.345051099,
+          54.559294018
+        ],
+        "pixel": [
+          100,
+          298
+        ]
+      },
+      {
+        "location": [
+          23.751070738,
+          54.741408047
+        ],
+        "pixel": [
+          433,
+          53
+        ]
+      },
+      {
+        "location": [
+          23.40332372137316,
+          54.706455377825904
+        ],
+        "pixel": [
+          150,
+          101
+        ]
+      },
+      {
+        "location": [
+          23.535674894596003,
+          54.563949754858044
+        ],
+        "pixel": [
+          265,
+          287
+        ]
+      },
+      {
+        "location": [
+          23.466887761,
+          54.668665453
+        ],
+        "pixel": [
+          201,
+          152
+        ]
+      },
+      {
+        "location": [
+          23.653397847,
+          54.545978425
+        ],
+        "pixel": [
+          354,
+          316
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

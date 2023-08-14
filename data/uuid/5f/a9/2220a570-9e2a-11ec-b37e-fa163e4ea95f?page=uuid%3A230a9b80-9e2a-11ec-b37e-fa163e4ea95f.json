@@ -1,0 +1,121 @@
+{
+  "date": ["1908"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:2220a570-9e2a-11ec-b37e-fa163e4ea95f?page=uuid%3A230a9b80-9e2a-11ec-b37e-fa163e4ea95f",
+  "description": null,
+  "scale": 200000,
+  "external_id": "1304140",
+  "title": "38°46° Szegedin",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    19.83402,
+    45.4998,
+    20.834236,
+    46.49391
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:2220a570-9e2a-11ec-b37e-fa163e4ea95f",
+  "id": "750254f6-50f8-5948-91a2-9b8f16dcb0f7",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        540,
+        37
+      ],
+      [
+        546,
+        408
+      ],
+      [
+        43,
+        408
+      ],
+      [
+        48,
+        36
+      ],
+      [
+        540,
+        37
+      ]
+    ],
+    "created": "2015-11-05T16:50:03.839430+00:00",
+    "transformation_method": "affine",
+    "mapID": "750254f6-50f8-5948-91a2-9b8f16dcb0f7",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:50:03.839430+00:00",
+    "gcps": [
+      {
+        "location": [
+          20.493008126896033,
+          45.8316502798416
+        ],
+        "pixel": [
+          375,
+          285
+        ]
+      },
+      {
+        "location": [
+          19.849564680391,
+          45.543791634405665
+        ],
+        "pixel": [
+          50,
+          392
+        ]
+      },
+      {
+        "location": [
+          20.820478827300164,
+          45.911788819895236
+        ],
+        "pixel": [
+          540,
+          255
+        ]
+      },
+      {
+        "location": [
+          20.215762921383146,
+          46.48512399658782
+        ],
+        "pixel": [
+          236,
+          39
+        ]
+      },
+      {
+        "location": [
+          20.141856968130316,
+          45.600961678106756
+        ],
+        "pixel": [
+          199,
+          371
+        ]
+      },
+      {
+        "location": [
+          20.152360792550617,
+          46.251165216318924
+        ],
+        "pixel": [
+          204,
+          127
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1908"]
+}

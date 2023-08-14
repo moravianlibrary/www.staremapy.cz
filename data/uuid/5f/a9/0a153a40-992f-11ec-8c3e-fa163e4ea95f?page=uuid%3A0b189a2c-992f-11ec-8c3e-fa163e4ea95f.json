@@ -1,0 +1,111 @@
+{
+  "date": ["1945"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:0a153a40-992f-11ec-8c3e-fa163e4ea95f?page=uuid%3A0b189a2c-992f-11ec-8c3e-fa163e4ea95f",
+  "description": "Polsko",
+  "scale": 75000,
+  "external_id": "1293212",
+  "title": "Ruské",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    22.332647,
+    48.9994,
+    22.831404,
+    49.24859
+  ],
+  "reviewed": null,
+  "publisher": "Zeměměřičský úřad",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:0a153a40-992f-11ec-8c3e-fa163e4ea95f",
+  "id": "05313fcf-633d-5a71-a563-6ebc0410f6d6",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        85,
+        379
+      ],
+      [
+        532,
+        379
+      ],
+      [
+        532,
+        50
+      ],
+      [
+        85,
+        50
+      ],
+      [
+        85,
+        379
+      ]
+    ],
+    "created": "2017-04-27T06:05:24.008390+00:00",
+    "transformation_method": "affine",
+    "mapID": "05313fcf-633d-5a71-a563-6ebc0410f6d6",
+    "affine_transformation": null,
+    "changed": "2017-04-27T06:05:24.008390+00:00",
+    "gcps": [
+      {
+        "location": [
+          22.353592009,
+          49.034453585
+        ],
+        "pixel": [
+          102,
+          333
+        ]
+      },
+      {
+        "location": [
+          22.400366803,
+          49.186883892
+        ],
+        "pixel": [
+          147,
+          130
+        ]
+      },
+      {
+        "location": [
+          22.634169598,
+          49.218765561
+        ],
+        "pixel": [
+          356,
+          90
+        ]
+      },
+      {
+        "location": [
+          22.639061948,
+          49.00752179
+        ],
+        "pixel": [
+          360,
+          368
+        ]
+      },
+      {
+        "location": [
+          22.747203704,
+          49.216706878
+        ],
+        "pixel": [
+          457,
+          91
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1945"]
+}

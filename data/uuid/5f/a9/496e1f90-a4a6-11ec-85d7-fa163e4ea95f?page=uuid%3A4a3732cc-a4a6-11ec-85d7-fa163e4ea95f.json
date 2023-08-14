@@ -1,0 +1,101 @@
+{
+  "date": ["1935"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:496e1f90-a4a6-11ec-85d7-fa163e4ea95f?page=uuid%3A4a3732cc-a4a6-11ec-85d7-fa163e4ea95f",
+  "description": "Ruská SFSR",
+  "scale": 100000,
+  "external_id": "1337445",
+  "title": "RSFSR",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    33.996544,
+    56.332226,
+    34.49867,
+    56.667137
+  ],
+  "reviewed": null,
+  "publisher": "Glavnoje geodezičeskoje upravlenije",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:496e1f90-a4a6-11ec-85d7-fa163e4ea95f",
+  "id": "6d85e1ef-eee8-5040-956e-c5f9bdc95ef0",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        57,
+        376
+      ],
+      [
+        533,
+        376
+      ],
+      [
+        532,
+        48
+      ],
+      [
+        61,
+        47
+      ],
+      [
+        57,
+        376
+      ]
+    ],
+    "created": "2017-05-07T21:52:25.124080+00:00",
+    "transformation_method": "affine",
+    "mapID": "6d85e1ef-eee8-5040-956e-c5f9bdc95ef0",
+    "affine_transformation": null,
+    "changed": "2017-05-07T21:52:25.124080+00:00",
+    "gcps": [
+      {
+        "location": [
+          34.495032365,
+          56.360038711
+        ],
+        "pixel": [
+          529,
+          351
+        ]
+      },
+      {
+        "location": [
+          34.36964798,
+          56.654227595
+        ],
+        "pixel": [
+          411,
+          60
+        ]
+      },
+      {
+        "location": [
+          34.352267265,
+          56.501195399
+        ],
+        "pixel": [
+          395,
+          211
+        ]
+      },
+      {
+        "location": [
+          34.010575294,
+          56.517961251
+        ],
+        "pixel": [
+          71,
+          194
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1935"]
+}

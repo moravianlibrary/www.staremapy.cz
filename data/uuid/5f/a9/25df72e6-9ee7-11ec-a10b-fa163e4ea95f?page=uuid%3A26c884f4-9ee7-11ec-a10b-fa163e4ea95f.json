@@ -1,0 +1,111 @@
+{
+  "date": ["1923"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:25df72e6-9ee7-11ec-a10b-fa163e4ea95f?page=uuid%3A26c884f4-9ee7-11ec-a10b-fa163e4ea95f",
+  "description": "Dunaj (řeka : povodí)",
+  "scale": 750000,
+  "external_id": "1328959",
+  "title": "Přehledná hydrografická mapa povodí Dunaje a Visly na Slovensku a v Podkarpatské Rusi",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.342098,
+    47.211685,
+    25.39213,
+    50.181885
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:25df72e6-9ee7-11ec-a10b-fa163e4ea95f",
+  "id": "a1974bb8-604b-57f5-b8eb-18f430a3641b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:03:12.325410+00:00",
+    "transformation_method": "affine",
+    "mapID": "a1974bb8-604b-57f5-b8eb-18f430a3641b",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:03:12.325410+00:00",
+    "gcps": [
+      {
+        "location": [
+          21.632286072,
+          49.444694503
+        ],
+        "pixel": [
+          349,
+          112
+        ]
+      },
+      {
+        "location": [
+          18.852486279,
+          47.816521089
+        ],
+        "pixel": [
+          165,
+          363
+        ]
+      },
+      {
+        "location": [
+          18.535256055,
+          49.488334669
+        ],
+        "pixel": [
+          148,
+          105
+        ]
+      },
+      {
+        "location": [
+          16.976570752,
+          48.171260791
+        ],
+        "pixel": [
+          41,
+          304
+        ]
+      },
+      {
+        "location": [
+          23.862251904,
+          47.931664958
+        ],
+        "pixel": [
+          500,
+          335
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1923"]
+}

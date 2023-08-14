@@ -1,0 +1,121 @@
+{
+  "date": ["1941"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:27d3a250-7eaa-11ec-bcbf-fa163e4ea95f?page=uuid%3A293de5ba-7eaa-11ec-bcbf-fa163e4ea95f",
+  "description": "Finsko",
+  "scale": 200000,
+  "external_id": "1167511",
+  "title": "Finnland Straßenkarte",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    20.534458,
+    59.76514,
+    24.93439,
+    60.716946
+  ],
+  "reviewed": null,
+  "publisher": "Gen St d H Abt f Kr Kart u Verm W IV Mil Geo",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:27d3a250-7eaa-11ec-bcbf-fa163e4ea95f",
+  "id": "2f0c03eb-e65e-54ee-817a-de3a38539681",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T15:43:39.010470+00:00",
+    "transformation_method": "affine",
+    "mapID": "2f0c03eb-e65e-54ee-817a-de3a38539681",
+    "affine_transformation": null,
+    "changed": "2015-11-05T15:43:39.010470+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.685887057,
+          60.069319431
+        ],
+        "pixel": [
+          430,
+          304
+        ]
+      },
+      {
+        "location": [
+          22.218611438,
+          60.434254011
+        ],
+        "pixel": [
+          230,
+          134
+        ]
+      },
+      {
+        "location": [
+          21.601488788,
+          59.831729865
+        ],
+        "pixel": [
+          142,
+          414
+        ]
+      },
+      {
+        "location": [
+          21.557543475,
+          60.164254866
+        ],
+        "pixel": [
+          138,
+          259
+        ]
+      },
+      {
+        "location": [
+          21.660883624,
+          60.46892077
+        ],
+        "pixel": [
+          154,
+          114
+        ]
+      },
+      {
+        "location": [
+          21.429312427,
+          60.411588464
+        ],
+        "pixel": [
+          122,
+          139
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1941"]
+}

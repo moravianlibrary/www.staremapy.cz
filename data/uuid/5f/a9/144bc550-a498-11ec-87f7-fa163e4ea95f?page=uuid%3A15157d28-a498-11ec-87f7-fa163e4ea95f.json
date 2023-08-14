@@ -1,0 +1,111 @@
+{
+  "date": ["1879"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:144bc550-a498-11ec-87f7-fa163e4ea95f?page=uuid%3A15157d28-a498-11ec-87f7-fa163e4ea95f",
+  "description": "Rumunsko",
+  "scale": 75000,
+  "external_id": "1337055",
+  "title": "Kirlibaba",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    24.744707,
+    47.453926,
+    25.418667,
+    47.792015
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:144bc550-a498-11ec-87f7-fa163e4ea95f",
+  "id": "1ca31a63-8809-5eff-8091-8581dbdc80e7",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        527,
+        49
+      ],
+      [
+        527,
+        390
+      ],
+      [
+        71,
+        392
+      ],
+      [
+        71,
+        47
+      ],
+      [
+        527,
+        49
+      ]
+    ],
+    "created": "2015-11-05T17:24:12.652350+00:00",
+    "transformation_method": "affine",
+    "mapID": "1ca31a63-8809-5eff-8091-8581dbdc80e7",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:24:12.652350+00:00",
+    "gcps": [
+      {
+        "location": [
+          25.075726270290783,
+          47.575396110375294
+        ],
+        "pixel": [
+          296,
+          286
+        ]
+      },
+      {
+        "location": [
+          25.12722468337672,
+          47.57076366145705
+        ],
+        "pixel": [
+          343,
+          290
+        ]
+      },
+      {
+        "location": [
+          25.05354018148694,
+          47.65830255996872
+        ],
+        "pixel": [
+          274,
+          175
+        ]
+      },
+      {
+        "location": [
+          24.942990254729175,
+          47.553757825420576
+        ],
+        "pixel": [
+          178,
+          315
+        ]
+      },
+      {
+        "location": [
+          24.95723814901629,
+          47.61223141070619
+        ],
+        "pixel": [
+          185,
+          237
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1879"]
+}

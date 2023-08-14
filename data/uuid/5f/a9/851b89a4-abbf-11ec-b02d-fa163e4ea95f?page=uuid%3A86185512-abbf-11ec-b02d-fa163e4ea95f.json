@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:851b89a4-abbf-11ec-b02d-fa163e4ea95f?page=uuid%3A86185512-abbf-11ec-b02d-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1368649",
+  "title": "Suchowola",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    22.83139,
+    53.49966,
+    23.330929,
+    53.749104
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:851b89a4-abbf-11ec-b02d-fa163e4ea95f",
+  "id": "b5c032a0-0a5e-55e7-b106-98a035ea20c3",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        54,
+        390
+      ],
+      [
+        500,
+        391
+      ],
+      [
+        499,
+        55
+      ],
+      [
+        56,
+        54
+      ],
+      [
+        54,
+        390
+      ]
+    ],
+    "created": "2016-03-01T19:33:00.788300+00:00",
+    "transformation_method": "affine",
+    "mapID": "b5c032a0-0a5e-55e7-b106-98a035ea20c3",
+    "affine_transformation": null,
+    "changed": "2023-01-02T03:22:01.430594+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.257259387,
+          53.506086819
+        ],
+        "pixel": [
+          434,
+          383
+        ]
+      },
+      {
+        "location": [
+          23.105939883,
+          53.577619397
+        ],
+        "pixel": [
+          298,
+          286
+        ]
+      },
+      {
+        "location": [
+          22.837332744,
+          53.678807595
+        ],
+        "pixel": [
+          60,
+          150
+        ]
+      },
+      {
+        "location": [
+          23.263396281,
+          53.71905243
+        ],
+        "pixel": [
+          444,
+          93
+        ]
+      },
+      {
+        "location": [
+          22.838856239,
+          53.511918506
+        ],
+        "pixel": [
+          60,
+          375
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

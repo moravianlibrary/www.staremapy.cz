@@ -1,0 +1,121 @@
+{
+  "date": ["1935"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:02a289ea-98f1-11ec-8f36-fa163e4ea95f?page=uuid%3A03af2442-98f1-11ec-8f36-fa163e4ea95f",
+  "description": "Aš (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1291454",
+  "title": "Rossbach a Plauen",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    11.834936,
+    50.250023,
+    12.341838,
+    50.499557
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:02a289ea-98f1-11ec-8f36-fa163e4ea95f",
+  "id": "c99e8eeb-3edf-5a41-8c90-0313fcd93fae",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        81,
+        48
+      ],
+      [
+        521,
+        48
+      ],
+      [
+        520,
+        384
+      ],
+      [
+        79,
+        383
+      ],
+      [
+        81,
+        48
+      ]
+    ],
+    "created": "2017-09-30T10:12:36.733250+00:00",
+    "transformation_method": "affine",
+    "mapID": "c99e8eeb-3edf-5a41-8c90-0313fcd93fae",
+    "affine_transformation": null,
+    "changed": "2017-09-30T10:12:36.733250+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.256430776,
+          50.43493951
+        ],
+        "pixel": [
+          447,
+          134
+        ]
+      },
+      {
+        "location": [
+          11.880427988,
+          50.489414325
+        ],
+        "pixel": [
+          122,
+          62
+        ]
+      },
+      {
+        "location": [
+          12.235520275,
+          50.44915846
+        ],
+        "pixel": [
+          429,
+          115
+        ]
+      },
+      {
+        "location": [
+          11.855708749,
+          50.451665636
+        ],
+        "pixel": [
+          99,
+          112
+        ]
+      },
+      {
+        "location": [
+          11.846256645,
+          50.269129173
+        ],
+        "pixel": [
+          87,
+          357
+        ]
+      },
+      {
+        "location": [
+          12.334225566,
+          50.267593028
+        ],
+        "pixel": [
+          515,
+          361
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1935"]
+}

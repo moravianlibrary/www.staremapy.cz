@@ -1,0 +1,141 @@
+{
+  "date": ["1938"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:f34eff72-726d-11ec-9def-fa163e4ea95f?page=uuid%3Af4d5def6-726d-11ec-9def-fa163e4ea95f",
+  "description": "Krkonoše (Česko a Polsko)",
+  "scale": 25000,
+  "external_id": "1119293",
+  "title": "[Gradkartenblatt]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.333648,
+    50.623768,
+    15.584677,
+    50.74862
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:f34eff72-726d-11ec-9def-fa163e4ea95f",
+  "id": "5222102e-a688-5cf9-b9db-a4cad3e82591",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        30,
+        409
+      ],
+      [
+        566,
+        409
+      ],
+      [
+        566,
+        28
+      ],
+      [
+        32,
+        28
+      ],
+      [
+        30,
+        409
+      ]
+    ],
+    "created": "2014-12-05T16:32:22.988150+00:00",
+    "transformation_method": "affine",
+    "mapID": "5222102e-a688-5cf9-b9db-a4cad3e82591",
+    "affine_transformation": null,
+    "changed": "2014-12-05T16:32:22.988150+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.447789243,
+          50.675751351
+        ],
+        "pixel": [
+          274,
+          250
+        ]
+      },
+      {
+        "location": [
+          15.54903861,
+          50.625642693
+        ],
+        "pixel": [
+          488,
+          403
+        ]
+      },
+      {
+        "location": [
+          15.464291534,
+          50.632019678
+        ],
+        "pixel": [
+          308,
+          384
+        ]
+      },
+      {
+        "location": [
+          15.580527744,
+          50.740852861
+        ],
+        "pixel": [
+          564,
+          51
+        ]
+      },
+      {
+        "location": [
+          15.419187508,
+          50.733444911
+        ],
+        "pixel": [
+          214,
+          75
+        ]
+      },
+      {
+        "location": [
+          15.357110462,
+          50.700471779
+        ],
+        "pixel": [
+          80,
+          174
+        ]
+      },
+      {
+        "location": [
+          15.34809824,
+          50.625363638
+        ],
+        "pixel": [
+          60,
+          405
+        ]
+      },
+      {
+        "location": [
+          15.579283199,
+          50.683310327
+        ],
+        "pixel": [
+          557,
+          228
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1938"]
+}

@@ -1,0 +1,121 @@
+{
+  "date": ["1939"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:ce3f55e2-7e11-11ec-9034-fa163e4ea95f?page=uuid%3Acf30896c-7e11-11ec-9034-fa163e4ea95f",
+  "description": null,
+  "scale": 25000,
+  "external_id": "1141650",
+  "title": "G. Hundstod",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.815915,
+    47.48602,
+    12.973717,
+    47.573093
+  ],
+  "reviewed": null,
+  "publisher": "Hauptvermessungsabteilung XIV",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:ce3f55e2-7e11-11ec-9034-fa163e4ea95f",
+  "id": "9a3931c3-8ceb-5493-8a4f-60de94cefb6f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2014-08-19T14:34:11.563850+00:00",
+    "transformation_method": "affine",
+    "mapID": "9a3931c3-8ceb-5493-8a4f-60de94cefb6f",
+    "affine_transformation": null,
+    "changed": "2014-08-19T14:34:11.563850+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.853176421710376,
+          47.529757432106834
+        ],
+        "pixel": [
+          143,
+          220
+        ]
+      },
+      {
+        "location": [
+          12.881051201966935,
+          47.50565369301836
+        ],
+        "pixel": [
+          248,
+          346
+        ]
+      },
+      {
+        "location": [
+          12.886137385733209,
+          47.51248079445227
+        ],
+        "pixel": [
+          264,
+          307
+        ]
+      },
+      {
+        "location": [
+          12.836315511546735,
+          47.54498064023727
+        ],
+        "pixel": [
+          76,
+          141
+        ]
+      },
+      {
+        "location": [
+          12.843820569479753,
+          47.49951840424356
+        ],
+        "pixel": [
+          103,
+          375
+        ]
+      },
+      {
+        "location": [
+          12.853198846435557,
+          47.51603848689385
+        ],
+        "pixel": [
+          142,
+          287
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1939"]
+}

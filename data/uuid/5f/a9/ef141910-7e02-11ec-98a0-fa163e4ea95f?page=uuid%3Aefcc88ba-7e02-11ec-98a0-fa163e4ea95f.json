@@ -1,0 +1,101 @@
+{
+  "date": ["1892"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:ef141910-7e02-11ec-98a0-fa163e4ea95f?page=uuid%3Aefcc88ba-7e02-11ec-98a0-fa163e4ea95f",
+  "description": "Belluno (Itálie : provincie)",
+  "scale": 750000,
+  "external_id": "1141142",
+  "title": "Laibach, Villach, Kufstein, Belluno",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    10.64471,
+    45.445717,
+    16.073336,
+    48.647213
+  ],
+  "reviewed": null,
+  "publisher": "K.u.k. militär-geografisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:ef141910-7e02-11ec-98a0-fa163e4ea95f",
+  "id": "0eb0c55c-9057-5588-af8e-1634427a1899",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        526,
+        53
+      ],
+      [
+        524,
+        381
+      ],
+      [
+        78,
+        381
+      ],
+      [
+        79,
+        53
+      ],
+      [
+        526,
+        53
+      ]
+    ],
+    "created": "2014-08-19T14:31:38.861620+00:00",
+    "transformation_method": "affine",
+    "mapID": "0eb0c55c-9057-5588-af8e-1634427a1899",
+    "affine_transformation": null,
+    "changed": "2022-08-10T10:09:22.732702+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.024404641909518,
+          48.156878990080685
+        ],
+        "pixel": [
+          386,
+          64
+        ]
+      },
+      {
+        "location": [
+          12.127314313431423,
+          47.85403923194096
+        ],
+        "pixel": [
+          165,
+          98
+        ]
+      },
+      {
+        "location": [
+          13.236207550482584,
+          46.06205061563895
+        ],
+        "pixel": [
+          276,
+          368
+        ]
+      },
+      {
+        "location": [
+          13.849764471129186,
+          46.6155809762661
+        ],
+        "pixel": [
+          353,
+          290
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1892"]
+}

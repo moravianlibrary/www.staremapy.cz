@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:6a7ed4ae-abb8-11ec-8b93-fa163e4ea95f?page=uuid%3A6b9bddc8-abb8-11ec-8b93-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1368466",
+  "title": "Juszewicze-Kopyl",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Lewiński",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    26.829338,
+    52.999035,
+    27.336134,
+    53.250023
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:6a7ed4ae-abb8-11ec-8b93-fa163e4ea95f",
+  "id": "c08fc972-e0d3-50f5-8d8f-443ed9a59686",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        102,
+        384
+      ],
+      [
+        521,
+        384
+      ],
+      [
+        519,
+        44
+      ],
+      [
+        104,
+        45
+      ],
+      [
+        102,
+        384
+      ]
+    ],
+    "created": "2017-04-15T16:25:36.945270+00:00",
+    "transformation_method": "affine",
+    "mapID": "c08fc972-e0d3-50f5-8d8f-443ed9a59686",
+    "affine_transformation": null,
+    "changed": "2017-04-15T16:25:36.945270+00:00",
+    "gcps": [
+      {
+        "location": [
+          26.930696487,
+          53.222488326
+        ],
+        "pixel": [
+          188,
+          80
+        ]
+      },
+      {
+        "location": [
+          27.280046428,
+          53.025258855
+        ],
+        "pixel": [
+          476,
+          349
+        ]
+      },
+      {
+        "location": [
+          27.330865705,
+          53.171303709
+        ],
+        "pixel": [
+          518,
+          152
+        ]
+      },
+      {
+        "location": [
+          26.986829758,
+          53.066732705
+        ],
+        "pixel": [
+          233,
+          293
+        ]
+      },
+      {
+        "location": [
+          27.087938309,
+          53.155606561
+        ],
+        "pixel": [
+          315,
+          171
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

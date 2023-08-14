@@ -1,0 +1,111 @@
+{
+  "date": ["1936"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:d88866f8-7284-11ec-8c29-fa163e4ea95f?page=uuid%3Ad9e48b30-7284-11ec-8c29-fa163e4ea95f",
+  "description": "Dolný Kubín-oblast (Slovensko)",
+  "scale": 25000,
+  "external_id": "1120151",
+  "title": "[Gradkartenblatt]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    19.32102,
+    49.11304,
+    19.596342,
+    49.25924
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:d88866f8-7284-11ec-8c29-fa163e4ea95f",
+  "id": "e7f824c7-14f2-5b0d-a5f6-e31f633a238e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        568,
+        30
+      ],
+      [
+        569,
+        410
+      ],
+      [
+        20,
+        410
+      ],
+      [
+        23,
+        29
+      ],
+      [
+        568,
+        30
+      ]
+    ],
+    "created": "2014-08-19T13:37:23.448360+00:00",
+    "transformation_method": "affine",
+    "mapID": "e7f824c7-14f2-5b0d-a5f6-e31f633a238e",
+    "affine_transformation": null,
+    "changed": "2014-08-19T13:37:23.448360+00:00",
+    "gcps": [
+      {
+        "location": [
+          19.548729098170885,
+          49.2437264802507
+        ],
+        "pixel": [
+          495,
+          46
+        ]
+      },
+      {
+        "location": [
+          19.346136718749992,
+          49.19008922952548
+        ],
+        "pixel": [
+          55,
+          208
+        ]
+      },
+      {
+        "location": [
+          19.43113182322893,
+          49.18679839778491
+        ],
+        "pixel": [
+          241,
+          223
+        ]
+      },
+      {
+        "location": [
+          19.403751833604865,
+          49.128814699127645
+        ],
+        "pixel": [
+          178,
+          395
+        ]
+      },
+      {
+        "location": [
+          19.512809818608265,
+          49.13769658809116
+        ],
+        "pixel": [
+          420,
+          368
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1936"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": ["1808"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:3581176c-7229-11ec-a7dd-fa163e4ea95f?page=uuid%3A36899df0-7229-11ec-a7dd-fa163e4ea95f",
+  "description": "Stockholm (Švédsko)",
+  "scale": 30000,
+  "external_id": "1115866",
+  "title": "PLAN von STOCKHOLM",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    17.974356,
+    59.2913,
+    18.149412,
+    59.370995
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:3581176c-7229-11ec-a7dd-fa163e4ea95f",
+  "id": "05e0ddeb-46ca-5651-94bd-f1de9e54e708",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        448,
+        85
+      ],
+      [
+        455,
+        388
+      ],
+      [
+        141,
+        388
+      ],
+      [
+        141,
+        82
+      ],
+      [
+        448,
+        85
+      ]
+    ],
+    "created": "2014-08-19T13:10:45.578860+00:00",
+    "transformation_method": "affine",
+    "mapID": "05e0ddeb-46ca-5651-94bd-f1de9e54e708",
+    "affine_transformation": null,
+    "changed": "2023-05-21T19:34:16.551244+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.100077883911105,
+          59.32094706579997
+        ],
+        "pixel": [
+          434,
+          272
+        ]
+      },
+      {
+        "location": [
+          18.073470370483392,
+          59.32935433289873
+        ],
+        "pixel": [
+          329,
+          230
+        ]
+      },
+      {
+        "location": [
+          18.038794772338868,
+          59.32134120290584
+        ],
+        "pixel": [
+          226,
+          289
+        ]
+      },
+      {
+        "location": [
+          18.0447811864824,
+          59.35241740423089
+        ],
+        "pixel": [
+          237,
+          95
+        ]
+      },
+      {
+        "location": [
+          18.094112651061987,
+          59.33130259533823
+        ],
+        "pixel": [
+          421,
+          213
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1808"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": ["1931"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:a0c11138-9f03-11ec-b82c-fa163e4ea95f?page=uuid%3Aa188900a-9f03-11ec-b82c-fa163e4ea95f",
+  "description": "Šumperk (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1329820",
+  "title": "Šumperk",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.747692,
+    49.70231,
+    17.417576,
+    50.031265
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:a0c11138-9f03-11ec-b82c-fa163e4ea95f",
+  "id": "6e6d2157-f00a-5902-842a-1753bef97392",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        522,
+        45
+      ],
+      [
+        523,
+        380
+      ],
+      [
+        77,
+        379
+      ],
+      [
+        78,
+        45
+      ],
+      [
+        522,
+        45
+      ]
+    ],
+    "created": "2015-11-05T17:04:26.173170+00:00",
+    "transformation_method": "affine",
+    "mapID": "6e6d2157-f00a-5902-842a-1753bef97392",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:04:26.173170+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.843911759747975,
+          49.793764337796574
+        ],
+        "pixel": [
+          86,
+          320
+        ]
+      },
+      {
+        "location": [
+          17.319449780858967,
+          49.98578016290142
+        ],
+        "pixel": [
+          512,
+          61
+        ]
+      },
+      {
+        "location": [
+          17.10167365777604,
+          49.77497723123034
+        ],
+        "pixel": [
+          317,
+          346
+        ]
+      },
+      {
+        "location": [
+          16.911120720959637,
+          49.97549776092015
+        ],
+        "pixel": [
+          145,
+          75
+        ]
+      },
+      {
+        "location": [
+          17.229998899157433,
+          49.75262115854727
+        ],
+        "pixel": [
+          433,
+          377
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1931"]
+}

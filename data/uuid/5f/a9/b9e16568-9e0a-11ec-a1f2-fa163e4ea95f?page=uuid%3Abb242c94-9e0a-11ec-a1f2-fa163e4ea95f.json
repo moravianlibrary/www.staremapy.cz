@@ -1,0 +1,111 @@
+{
+  "date": ["1871"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:b9e16568-9e0a-11ec-a1f2-fa163e4ea95f?page=uuid%3Abb242c94-9e0a-11ec-a1f2-fa163e4ea95f",
+  "description": null,
+  "scale": null,
+  "external_id": "1302233",
+  "title": "Special karte von Aussee und nächster Umgebung",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.714273,
+    47.57528,
+    13.9148245,
+    47.66075
+  ],
+  "reviewed": null,
+  "publisher": "Wilhelm Braumüller",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:b9e16568-9e0a-11ec-a1f2-fa163e4ea95f",
+  "id": "22c975dd-615a-53bd-92b7-61c42a177fb6",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:48:19.898530+00:00",
+    "transformation_method": "affine",
+    "mapID": "22c975dd-615a-53bd-92b7-61c42a177fb6",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:48:19.898530+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.828446287155133,
+          47.621770608027134
+        ],
+        "pixel": [
+          358,
+          198
+        ]
+      },
+      {
+        "location": [
+          13.902653701590284,
+          47.6352353684253
+        ],
+        "pixel": [
+          563,
+          138
+        ]
+      },
+      {
+        "location": [
+          13.778784783828987,
+          47.60017792695976
+        ],
+        "pixel": [
+          193,
+          318
+        ]
+      },
+      {
+        "location": [
+          13.768107313156134,
+          47.635429068000974
+        ],
+        "pixel": [
+          148,
+          126
+        ]
+      },
+      {
+        "location": [
+          13.784554592862964,
+          47.608698877638176
+        ],
+        "pixel": [
+          202,
+          267
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1871"]
+}

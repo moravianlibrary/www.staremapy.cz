@@ -1,0 +1,121 @@
+{
+  "date": ["1875"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:e1f3e234-90ee-11ec-bcfc-fa163e4ea95f?page=uuid%3Ae2ced20e-90ee-11ec-bcfc-fa163e4ea95f",
+  "description": null,
+  "scale": 300000,
+  "external_id": "1240477",
+  "title": "[Balta",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    28.6698,
+    46.89669,
+    31.012995,
+    48.3409
+  ],
+  "reviewed": null,
+  "publisher": "Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:e1f3e234-90ee-11ec-bcfc-fa163e4ea95f",
+  "id": "6c4ab86a-e50c-572f-9ad8-8c7d710691b5",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:04:37.163240+00:00",
+    "transformation_method": "affine",
+    "mapID": "6c4ab86a-e50c-572f-9ad8-8c7d710691b5",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:04:37.163240+00:00",
+    "gcps": [
+      {
+        "location": [
+          30.481366144,
+          46.983143653
+        ],
+        "pixel": [
+          529,
+          421
+        ]
+      },
+      {
+        "location": [
+          30.355697459,
+          47.932121717
+        ],
+        "pixel": [
+          426,
+          92
+        ]
+      },
+      {
+        "location": [
+          29.482178413,
+          48.182140973
+        ],
+        "pixel": [
+          158,
+          38
+        ]
+      },
+      {
+        "location": [
+          29.142781085,
+          47.273455304
+        ],
+        "pixel": [
+          124,
+          373
+        ]
+      },
+      {
+        "location": [
+          28.975411243,
+          47.748722564
+        ],
+        "pixel": [
+          44,
+          209
+        ]
+      },
+      {
+        "location": [
+          30.717816,
+          47.5001
+        ],
+        "pixel": [
+          558,
+          232
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1875"]
+}

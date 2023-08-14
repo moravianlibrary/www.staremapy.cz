@@ -1,0 +1,121 @@
+{
+  "date": ["1936"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:efddd84e-727d-11ec-a276-fa163e4ea95f?page=uuid%3Af0fb01a2-727d-11ec-a276-fa163e4ea95f",
+  "description": "Medzilaborce-oblast (Slovensko)",
+  "scale": 25000,
+  "external_id": "1119941",
+  "title": "[Gradkartenblatt]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    21.822966,
+    49.12164,
+    22.083385,
+    49.25519
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:efddd84e-727d-11ec-a276-fa163e4ea95f",
+  "id": "2b539234-961d-5296-8cb6-ecf0fb4633ad",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        21,
+        413
+      ],
+      [
+        589,
+        413
+      ],
+      [
+        589,
+        23
+      ],
+      [
+        21,
+        23
+      ],
+      [
+        21,
+        413
+      ]
+    ],
+    "created": "2015-01-23T14:36:54.648260+00:00",
+    "transformation_method": "affine",
+    "mapID": "2b539234-961d-5296-8cb6-ecf0fb4633ad",
+    "affine_transformation": null,
+    "changed": "2015-01-23T14:36:54.648260+00:00",
+    "gcps": [
+      {
+        "location": [
+          21.932052302,
+          49.129028084
+        ],
+        "pixel": [
+          254,
+          396
+        ]
+      },
+      {
+        "location": [
+          22.019610333,
+          49.165002094
+        ],
+        "pixel": [
+          457,
+          279
+        ]
+      },
+      {
+        "location": [
+          21.922267603,
+          49.151937692
+        ],
+        "pixel": [
+          227,
+          319
+        ]
+      },
+      {
+        "location": [
+          21.901324915,
+          49.180054859
+        ],
+        "pixel": [
+          192,
+          256
+        ]
+      },
+      {
+        "location": [
+          21.996521877,
+          49.140807079
+        ],
+        "pixel": [
+          393,
+          372
+        ]
+      },
+      {
+        "location": [
+          22.005577015,
+          49.191849772
+        ],
+        "pixel": [
+          418,
+          206
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1936"]
+}

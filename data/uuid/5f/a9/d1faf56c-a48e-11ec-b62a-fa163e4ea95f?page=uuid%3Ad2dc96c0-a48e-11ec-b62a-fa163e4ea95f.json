@@ -1,0 +1,121 @@
+{
+  "date": ["1935"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:d1faf56c-a48e-11ec-b62a-fa163e4ea95f?page=uuid%3Ad2dc96c0-a48e-11ec-b62a-fa163e4ea95f",
+  "description": "Přimda (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1336800",
+  "title": "Přimda",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.334507,
+    49.49838,
+    12.832832,
+    49.74989
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:d1faf56c-a48e-11ec-b62a-fa163e4ea95f",
+  "id": "515b8405-6781-5ce7-99e4-5e6569d393dc",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        91,
+        38
+      ],
+      [
+        538,
+        38
+      ],
+      [
+        540,
+        373
+      ],
+      [
+        89,
+        374
+      ],
+      [
+        91,
+        38
+      ]
+    ],
+    "created": "2017-08-14T15:31:58.592310+00:00",
+    "transformation_method": "affine",
+    "mapID": "515b8405-6781-5ce7-99e4-5e6569d393dc",
+    "affine_transformation": null,
+    "changed": "2017-08-14T15:31:58.592310+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.774530774,
+          49.546311631
+        ],
+        "pixel": [
+          487,
+          310
+        ]
+      },
+      {
+        "location": [
+          12.387777692,
+          49.594543015
+        ],
+        "pixel": [
+          137,
+          245
+        ]
+      },
+      {
+        "location": [
+          12.702089673,
+          49.590453685
+        ],
+        "pixel": [
+          421,
+          251
+        ]
+      },
+      {
+        "location": [
+          12.542873746,
+          49.50951467
+        ],
+        "pixel": [
+          277,
+          360
+        ]
+      },
+      {
+        "location": [
+          12.592913037,
+          49.696664846
+        ],
+        "pixel": [
+          322,
+          109
+        ]
+      },
+      {
+        "location": [
+          12.709385281,
+          49.683616312
+        ],
+        "pixel": [
+          427,
+          127
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1935"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": ["1936"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:c5d01448-9f7f-11ec-80dd-fa163e4ea95f?page=uuid%3Ac6bcccd4-9f7f-11ec-80dd-fa163e4ea95f",
+  "description": "Prusko",
+  "scale": 25000,
+  "external_id": "1333260",
+  "title": "Heiligenbeil",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    19.804539,
+    54.375633,
+    20.029673,
+    54.51301
+  ],
+  "reviewed": null,
+  "publisher": "Reichsamt für Landesaufnahme",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:c5d01448-9f7f-11ec-80dd-fa163e4ea95f",
+  "id": "44fedd99-339b-5d3c-946b-858c91787f28",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:11:48.781930+00:00",
+    "transformation_method": "affine",
+    "mapID": "44fedd99-339b-5d3c-946b-858c91787f28",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:11:48.781930+00:00",
+    "gcps": [
+      {
+        "location": [
+          19.853489342,
+          54.402532723
+        ],
+        "pixel": [
+          130,
+          356
+        ]
+      },
+      {
+        "location": [
+          19.968646893,
+          54.487662699
+        ],
+        "pixel": [
+          438,
+          82
+        ]
+      },
+      {
+        "location": [
+          19.979531708,
+          54.435818168
+        ],
+        "pixel": [
+          467,
+          249
+        ]
+      },
+      {
+        "location": [
+          19.848608898,
+          54.468079003
+        ],
+        "pixel": [
+          118,
+          145
+        ]
+      },
+      {
+        "location": [
+          19.944974127,
+          54.461307067
+        ],
+        "pixel": [
+          373,
+          168
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1936"]
+}

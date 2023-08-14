@@ -1,0 +1,111 @@
+{
+  "date": ["1914"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:5fe5836a-84ff-11ec-b80c-fa163e4ea95f?page=uuid%3A610074e4-84ff-11ec-b80c-fa163e4ea95f",
+  "description": "Zamość (Polsko)",
+  "scale": 75000,
+  "external_id": "1180061",
+  "title": "Zamosc",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Gregor, J.",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    22.801456,
+    50.479053,
+    23.367142,
+    50.76486
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:5fe5836a-84ff-11ec-b80c-fa163e4ea95f",
+  "id": "b479071c-72e0-5441-a9c1-fc309d2a1005",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        5,
+        442
+      ],
+      [
+        592,
+        442
+      ],
+      [
+        592,
+        3
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        5,
+        442
+      ]
+    ],
+    "created": "2017-01-16T22:26:51.528570+00:00",
+    "transformation_method": "affine",
+    "mapID": "b479071c-72e0-5441-a9c1-fc309d2a1005",
+    "affine_transformation": null,
+    "changed": "2017-01-16T22:26:51.528570+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.252119933,
+          50.723150991
+        ],
+        "pixel": [
+          473,
+          66
+        ]
+      },
+      {
+        "location": [
+          22.979307089,
+          50.694860217
+        ],
+        "pixel": [
+          187,
+          112
+        ]
+      },
+      {
+        "location": [
+          23.228773985,
+          50.539787545
+        ],
+        "pixel": [
+          451,
+          350
+        ]
+      },
+      {
+        "location": [
+          23.313117271,
+          50.648267191
+        ],
+        "pixel": [
+          536,
+          181
+        ]
+      },
+      {
+        "location": [
+          22.926322396,
+          50.559107287
+        ],
+        "pixel": [
+          134,
+          319
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1914"]
+}

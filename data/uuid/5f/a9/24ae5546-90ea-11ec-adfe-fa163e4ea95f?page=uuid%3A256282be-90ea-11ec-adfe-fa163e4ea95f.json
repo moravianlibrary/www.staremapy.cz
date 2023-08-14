@@ -1,0 +1,111 @@
+{
+  "date": ["1873"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:24ae5546-90ea-11ec-adfe-fa163e4ea95f?page=uuid%3A256282be-90ea-11ec-adfe-fa163e4ea95f",
+  "description": null,
+  "scale": 300000,
+  "external_id": "1240339",
+  "title": "[Guben",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.871006,
+    51.051796,
+    15.230351,
+    52.33999
+  ],
+  "reviewed": null,
+  "publisher": "Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:24ae5546-90ea-11ec-adfe-fa163e4ea95f",
+  "id": "aa8c8981-8b2d-5d72-80b0-9b4e9296d99f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:04:17.123160+00:00",
+    "transformation_method": "affine",
+    "mapID": "aa8c8981-8b2d-5d72-80b0-9b4e9296d99f",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:04:17.123160+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.335814288,
+          51.75672447
+        ],
+        "pixel": [
+          376,
+          203
+        ]
+      },
+      {
+        "location": [
+          14.722504544,
+          51.94895196
+        ],
+        "pixel": [
+          484,
+          138
+        ]
+      },
+      {
+        "location": [
+          13.162966728,
+          52.089869067
+        ],
+        "pixel": [
+          74,
+          75
+        ]
+      },
+      {
+        "location": [
+          14.659519128,
+          51.197188306
+        ],
+        "pixel": [
+          452,
+          406
+        ]
+      },
+      {
+        "location": [
+          13.30905056,
+          51.303922466
+        ],
+        "pixel": [
+          92,
+          356
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1873"]
+}

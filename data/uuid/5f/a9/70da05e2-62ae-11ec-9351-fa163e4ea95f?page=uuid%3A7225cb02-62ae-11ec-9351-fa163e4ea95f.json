@@ -1,0 +1,111 @@
+{
+  "date": ["1878"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:70da05e2-62ae-11ec-9351-fa163e4ea95f?page=uuid%3A7225cb02-62ae-11ec-9351-fa163e4ea95f",
+  "description": "Nové Strašecí-oblast (Česko)",
+  "scale": 25000,
+  "external_id": "1088923",
+  "title": "Gradkartenblatt",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Albrecht, Julius",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.826981,
+    50.119198,
+    14.107749,
+    50.26455
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:70da05e2-62ae-11ec-9351-fa163e4ea95f",
+  "id": "fb9c1b62-20a4-550f-bedc-0d81d7f769b1",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        550,
+        48
+      ],
+      [
+        550,
+        428
+      ],
+      [
+        14,
+        429
+      ],
+      [
+        15,
+        47
+      ],
+      [
+        550,
+        48
+      ]
+    ],
+    "created": "2014-08-19T13:07:40.943330+00:00",
+    "transformation_method": "affine",
+    "mapID": "fb9c1b62-20a4-550f-bedc-0d81d7f769b1",
+    "affine_transformation": null,
+    "changed": "2014-08-19T13:07:40.943330+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.017203983563032,
+          50.127297420463776
+        ],
+        "pixel": [
+          407,
+          419
+        ]
+      },
+      {
+        "location": [
+          14.074079046063364,
+          50.23484742387012
+        ],
+        "pixel": [
+          528,
+          89
+        ]
+      },
+      {
+        "location": [
+          13.98958541313054,
+          50.16649117024613
+        ],
+        "pixel": [
+          348,
+          299
+        ]
+      },
+      {
+        "location": [
+          13.898942280354785,
+          50.20622715260612
+        ],
+        "pixel": [
+          154,
+          178
+        ]
+      },
+      {
+        "location": [
+          13.899688450282474,
+          50.15522046213971
+        ],
+        "pixel": [
+          155,
+          334
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1878"]
+}

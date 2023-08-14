@@ -1,0 +1,115 @@
+{
+  "date": ["1943"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:70182032-9ee8-11ec-a323-fa163e4ea95f?page=uuid%3A7125f13e-9ee8-11ec-a323-fa163e4ea95f",
+  "description": "Mirovice (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1328995",
+  "title": "Pibrans",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.747257,
+    49.442677,
+    14.40672,
+    49.77119
+  ],
+  "reviewed": null,
+  "publisher": "Landesvermessungsamt Böhmen und Mähren",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:70182032-9ee8-11ec-a323-fa163e4ea95f",
+  "id": "bb2a17d5-91eb-55c9-9dbc-251bc5d55092",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        533,
+        29
+      ],
+      [
+        534,
+        367
+      ],
+      [
+        289,
+        368
+      ],
+      [
+        78,
+        367
+      ],
+      [
+        80,
+        30
+      ],
+      [
+        533,
+        29
+      ]
+    ],
+    "created": "2015-11-05T17:03:15.800950+00:00",
+    "transformation_method": "affine",
+    "mapID": "bb2a17d5-91eb-55c9-9dbc-251bc5d55092",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:03:15.800950+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.947102815632643,
+          49.71621894933622
+        ],
+        "pixel": [
+          182,
+          74
+        ]
+      },
+      {
+        "location": [
+          14.294525292882971,
+          49.73366915789475
+        ],
+        "pixel": [
+          498,
+          50
+        ]
+      },
+      {
+        "location": [
+          14.09533178964405,
+          49.646092292117316
+        ],
+        "pixel": [
+          317,
+          169
+        ]
+      },
+      {
+        "location": [
+          13.91820487404481,
+          49.531748192939745
+        ],
+        "pixel": [
+          155,
+          323
+        ]
+      },
+      {
+        "location": [
+          14.279544516052846,
+          49.518400192143474
+        ],
+        "pixel": [
+          485,
+          341
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1943"]
+}

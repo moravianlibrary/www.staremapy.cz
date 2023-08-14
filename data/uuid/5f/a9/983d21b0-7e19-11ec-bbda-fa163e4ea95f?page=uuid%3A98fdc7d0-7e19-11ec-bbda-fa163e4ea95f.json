@@ -1,0 +1,91 @@
+{
+  "date": ["1936"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:983d21b0-7e19-11ec-bbda-fa163e4ea95f?page=uuid%3A98fdc7d0-7e19-11ec-bbda-fa163e4ea95f",
+  "description": null,
+  "scale": 25000,
+  "external_id": "1141887",
+  "title": "Stall",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.944438,
+    46.859364,
+    13.09724,
+    47.009888
+  ],
+  "reviewed": null,
+  "publisher": "Kartographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:983d21b0-7e19-11ec-bbda-fa163e4ea95f",
+  "id": "c225d301-6700-5087-a20a-1277e882172b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2014-08-19T14:35:14.210930+00:00",
+    "transformation_method": "affine",
+    "mapID": "c225d301-6700-5087-a20a-1277e882172b",
+    "affine_transformation": null,
+    "changed": "2014-08-19T14:35:14.210930+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.057432569,
+          46.961743118
+        ],
+        "pixel": [
+          444,
+          141
+        ]
+      },
+      {
+        "location": [
+          13.071337141,
+          46.919799278
+        ],
+        "pixel": [
+          502,
+          265
+        ]
+      },
+      {
+        "location": [
+          13.035846151,
+          46.887810233
+        ],
+        "pixel": [
+          363,
+          360
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1936"]
+}

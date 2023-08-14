@@ -1,0 +1,111 @@
+{
+  "date": ["1943"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:cbfbf12c-9f91-11ec-b062-fa163e4ea95f?page=uuid%3Accd3746c-9f91-11ec-b062-fa163e4ea95f",
+  "description": "Trapani (Itálie : oblast)",
+  "scale": 100000,
+  "external_id": "1333758",
+  "title": "Trapani",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.396053,
+    37.84932,
+    13.144372,
+    38.39427
+  ],
+  "reviewed": null,
+  "publisher": "OKH/Gen St d H",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:cbfbf12c-9f91-11ec-b062-fa163e4ea95f",
+  "id": "bde1db36-79fb-593c-984b-32ababe48173",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:20:19.637650+00:00",
+    "transformation_method": "affine",
+    "mapID": "bde1db36-79fb-593c-984b-32ababe48173",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:20:19.637650+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.868820816,
+          38.05135975
+        ],
+        "pixel": [
+          379,
+          279
+        ]
+      },
+      {
+        "location": [
+          12.595750481,
+          38.068930549
+        ],
+        "pixel": [
+          159,
+          265
+        ]
+      },
+      {
+        "location": [
+          12.498461395,
+          38.017625514
+        ],
+        "pixel": [
+          81,
+          308
+        ]
+      },
+      {
+        "location": [
+          12.734324127,
+          38.189446891
+        ],
+        "pixel": [
+          271,
+          167
+        ]
+      },
+      {
+        "location": [
+          12.751936968,
+          38.025012802
+        ],
+        "pixel": [
+          285,
+          301
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1943"]
+}

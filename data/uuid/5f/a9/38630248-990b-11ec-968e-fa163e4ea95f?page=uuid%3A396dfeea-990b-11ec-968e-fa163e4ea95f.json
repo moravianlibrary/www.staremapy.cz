@@ -1,0 +1,111 @@
+{
+  "date": ["1895"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:38630248-990b-11ec-968e-fa163e4ea95f?page=uuid%3A396dfeea-990b-11ec-968e-fa163e4ea95f",
+  "description": null,
+  "scale": 75000,
+  "external_id": "1292195",
+  "title": "Żołkiew",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    23.830246,
+    49.997627,
+    24.331987,
+    50.249657
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:38630248-990b-11ec-968e-fa163e4ea95f",
+  "id": "c84f6f5d-2d79-5a82-95a5-d0c0e63d2de4",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        66,
+        42
+      ],
+      [
+        63,
+        390
+      ],
+      [
+        534,
+        391
+      ],
+      [
+        535,
+        42
+      ],
+      [
+        66,
+        42
+      ]
+    ],
+    "created": "2016-12-20T13:21:43.459460+00:00",
+    "transformation_method": "affine",
+    "mapID": "c84f6f5d-2d79-5a82-95a5-d0c0e63d2de4",
+    "affine_transformation": null,
+    "changed": "2016-12-20T13:21:43.459460+00:00",
+    "gcps": [
+      {
+        "location": [
+          24.011466074,
+          50.005680398
+        ],
+        "pixel": [
+          234,
+          382
+        ]
+      },
+      {
+        "location": [
+          24.280588197,
+          50.108919787
+        ],
+        "pixel": [
+          486,
+          236
+        ]
+      },
+      {
+        "location": [
+          24.133946466,
+          50.235961753
+        ],
+        "pixel": [
+          350,
+          60
+        ]
+      },
+      {
+        "location": [
+          23.969494867,
+          50.055027168
+        ],
+        "pixel": [
+          193,
+          312
+        ]
+      },
+      {
+        "location": [
+          24.053179788,
+          50.133216347
+        ],
+        "pixel": [
+          272,
+          203
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1895"]
+}

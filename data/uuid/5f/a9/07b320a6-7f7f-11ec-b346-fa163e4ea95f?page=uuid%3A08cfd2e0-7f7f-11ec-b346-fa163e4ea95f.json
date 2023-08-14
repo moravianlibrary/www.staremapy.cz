@@ -1,0 +1,111 @@
+{
+  "date": ["1935"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:07b320a6-7f7f-11ec-b346-fa163e4ea95f?page=uuid%3A08cfd2e0-7f7f-11ec-b346-fa163e4ea95f",
+  "description": "Bulharsko",
+  "scale": 100000,
+  "external_id": "1170398",
+  "title": "Preselenti",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    28.116419,
+    43.607613,
+    28.30398,
+    43.706173
+  ],
+  "reviewed": null,
+  "publisher": "Institutul Geografic Militar",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:07b320a6-7f7f-11ec-b346-fa163e4ea95f",
+  "id": "dfcb6948-a403-5db7-9bad-d4483b491a10",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        36,
+        124
+      ],
+      [
+        168,
+        124
+      ],
+      [
+        168,
+        39
+      ],
+      [
+        36,
+        39
+      ],
+      [
+        36,
+        124
+      ]
+    ],
+    "created": "2017-07-10T22:52:42.707680+00:00",
+    "transformation_method": "affine",
+    "mapID": "dfcb6948-a403-5db7-9bad-d4483b491a10",
+    "affine_transformation": null,
+    "changed": "2017-07-10T22:52:42.707680+00:00",
+    "gcps": [
+      {
+        "location": [
+          28.295895471,
+          43.668058704
+        ],
+        "pixel": [
+          162,
+          69
+        ]
+      },
+      {
+        "location": [
+          28.242959394,
+          43.639539021
+        ],
+        "pixel": [
+          126,
+          97
+        ]
+      },
+      {
+        "location": [
+          28.232037439,
+          43.625266334
+        ],
+        "pixel": [
+          118,
+          111
+        ]
+      },
+      {
+        "location": [
+          28.132988824,
+          43.643529797
+        ],
+        "pixel": [
+          47,
+          96
+        ]
+      },
+      {
+        "location": [
+          28.183028116,
+          43.611363126
+        ],
+        "pixel": [
+          82,
+          123
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1935"]
+}

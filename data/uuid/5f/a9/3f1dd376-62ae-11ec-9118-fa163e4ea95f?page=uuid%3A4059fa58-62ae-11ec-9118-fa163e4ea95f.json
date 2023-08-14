@@ -1,0 +1,121 @@
+{
+  "date": ["1878"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:3f1dd376-62ae-11ec-9118-fa163e4ea95f?page=uuid%3A4059fa58-62ae-11ec-9118-fa163e4ea95f",
+  "description": "Toužim-oblast (Česko)",
+  "scale": 25000,
+  "external_id": "1088917",
+  "title": "Gradkartenblatt",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Böhm Karl",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.871848,
+    49.90038,
+    13.081088,
+    50.1388
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:3f1dd376-62ae-11ec-9118-fa163e4ea95f",
+  "id": "04f5bbc8-c4ea-505e-9775-bec234eaa3fb",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        15,
+        427
+      ],
+      [
+        551,
+        427
+      ],
+      [
+        551,
+        50
+      ],
+      [
+        15,
+        50
+      ],
+      [
+        15,
+        427
+      ]
+    ],
+    "created": "2015-12-16T09:15:36.814970+00:00",
+    "transformation_method": "affine",
+    "mapID": "04f5bbc8-c4ea-505e-9775-bec234eaa3fb",
+    "affine_transformation": null,
+    "changed": "2015-12-16T09:15:36.814970+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.034795424,
+          50.117999124
+        ],
+        "pixel": [
+          444,
+          68
+        ]
+      },
+      {
+        "location": [
+          12.847598692,
+          50.105449414
+        ],
+        "pixel": [
+          47,
+          105
+        ]
+      },
+      {
+        "location": [
+          13.046275278,
+          50.003154194
+        ],
+        "pixel": [
+          469,
+          416
+        ]
+      },
+      {
+        "location": [
+          12.848328253,
+          50.000975037
+        ],
+        "pixel": [
+          48,
+          421
+        ]
+      },
+      {
+        "location": [
+          12.987449069960933,
+          50.0615762383745
+        ],
+        "pixel": [
+          343,
+          239
+        ]
+      },
+      {
+        "location": [
+          13.00285058641707,
+          49.75302894141322
+        ],
+        "pixel": [
+          112,
+          261
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1878"]
+}

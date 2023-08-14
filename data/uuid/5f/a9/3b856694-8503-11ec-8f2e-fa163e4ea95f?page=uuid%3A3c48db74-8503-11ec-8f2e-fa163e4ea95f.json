@@ -1,0 +1,111 @@
+{
+  "date": ["1880"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:3b856694-8503-11ec-8f2e-fa163e4ea95f?page=uuid%3A3c48db74-8503-11ec-8f2e-fa163e4ea95f",
+  "description": null,
+  "scale": 75000,
+  "external_id": "1180175",
+  "title": "Żołkiew",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Berger",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    23.829836,
+    49.99803,
+    24.33162,
+    50.248608
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:3b856694-8503-11ec-8f2e-fa163e4ea95f",
+  "id": "13a14e9f-c19c-510e-9cf1-daac3ae606c1",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        45,
+        417
+      ],
+      [
+        557,
+        418
+      ],
+      [
+        560,
+        28
+      ],
+      [
+        48,
+        27
+      ],
+      [
+        45,
+        417
+      ]
+    ],
+    "created": "2015-09-18T13:19:35.442920+00:00",
+    "transformation_method": "affine",
+    "mapID": "13a14e9f-c19c-510e-9cf1-daac3ae606c1",
+    "affine_transformation": null,
+    "changed": "2015-09-18T13:19:35.442920+00:00",
+    "gcps": [
+      {
+        "location": [
+          24.13815217,
+          50.235851954
+        ],
+        "pixel": [
+          362,
+          48
+        ]
+      },
+      {
+        "location": [
+          23.949753809,
+          50.040228461
+        ],
+        "pixel": [
+          167,
+          353
+        ]
+      },
+      {
+        "location": [
+          23.865983057,
+          50.121963868
+        ],
+        "pixel": [
+          84,
+          223
+        ]
+      },
+      {
+        "location": [
+          23.945805597,
+          50.126806335
+        ],
+        "pixel": [
+          165,
+          216
+        ]
+      },
+      {
+        "location": [
+          24.255139398,
+          50.006314784
+        ],
+        "pixel": [
+          480,
+          405
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1880"]
+}

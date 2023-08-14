@@ -1,0 +1,101 @@
+{
+  "date": ["1931"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:64b162ac-7892-11ec-bd28-fa163e4ea95f?page=uuid%3A65bc4a72-7892-11ec-bd28-fa163e4ea95f",
+  "description": "Maďarsko",
+  "scale": 75000,
+  "external_id": "1131019",
+  "title": "Čop a Mándok",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    21.832209,
+    48.248184,
+    22.330624,
+    48.499043
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:64b162ac-7892-11ec-bd28-fa163e4ea95f",
+  "id": "bb3c509a-7c9d-55d6-96c0-2db9d7eddf33",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        68,
+        386
+      ],
+      [
+        533,
+        386
+      ],
+      [
+        535,
+        46
+      ],
+      [
+        71,
+        46
+      ],
+      [
+        68,
+        386
+      ]
+    ],
+    "created": "2017-01-26T07:02:42.149810+00:00",
+    "transformation_method": "affine",
+    "mapID": "bb3c509a-7c9d-55d6-96c0-2db9d7eddf33",
+    "affine_transformation": null,
+    "changed": "2017-01-26T07:02:42.149810+00:00",
+    "gcps": [
+      {
+        "location": [
+          22.297380271,
+          48.258677719
+        ],
+        "pixel": [
+          502,
+          372
+        ]
+      },
+      {
+        "location": [
+          22.19392616,
+          48.432520998
+        ],
+        "pixel": [
+          407,
+          136
+        ]
+      },
+      {
+        "location": [
+          21.933172528,
+          48.268129411
+        ],
+        "pixel": [
+          162,
+          359
+        ]
+      },
+      {
+        "location": [
+          21.958921735,
+          48.476637154
+        ],
+        "pixel": [
+          189,
+          76
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1931"]
+}

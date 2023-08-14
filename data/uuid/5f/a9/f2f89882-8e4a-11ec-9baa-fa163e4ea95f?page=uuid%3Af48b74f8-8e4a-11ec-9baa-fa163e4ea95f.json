@@ -1,0 +1,111 @@
+{
+  "date": ["1875"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:f2f89882-8e4a-11ec-9baa-fa163e4ea95f?page=uuid%3Af48b74f8-8e4a-11ec-9baa-fa163e4ea95f",
+  "description": null,
+  "scale": 300000,
+  "external_id": "1208091",
+  "title": "Stanislau",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    23.109118,
+    48.616062,
+    25.281776,
+    49.87502
+  ],
+  "reviewed": null,
+  "publisher": "Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:f2f89882-8e4a-11ec-9baa-fa163e4ea95f",
+  "id": "0366aa73-4fe3-55e5-8329-1064d99e35c0",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        29,
+        423
+      ],
+      [
+        574,
+        421
+      ],
+      [
+        575,
+        20
+      ],
+      [
+        28,
+        21
+      ],
+      [
+        29,
+        423
+      ]
+    ],
+    "created": "2017-05-23T14:56:27.871830+00:00",
+    "transformation_method": "affine",
+    "mapID": "0366aa73-4fe3-55e5-8329-1064d99e35c0",
+    "affine_transformation": null,
+    "changed": "2017-05-23T14:56:27.871830+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.487282471,
+          49.653719702
+        ],
+        "pixel": [
+          93,
+          94
+        ]
+      },
+      {
+        "location": [
+          24.863751164,
+          48.734320152
+        ],
+        "pixel": [
+          503,
+          384
+        ]
+      },
+      {
+        "location": [
+          24.360695557,
+          49.028733303
+        ],
+        "pixel": [
+          357,
+          297
+        ]
+      },
+      {
+        "location": [
+          24.73011084,
+          49.122740332
+        ],
+        "pixel": [
+          452,
+          254
+        ]
+      },
+      {
+        "location": [
+          25.138664917,
+          49.664831887
+        ],
+        "pixel": [
+          540,
+          55
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1875"]
+}

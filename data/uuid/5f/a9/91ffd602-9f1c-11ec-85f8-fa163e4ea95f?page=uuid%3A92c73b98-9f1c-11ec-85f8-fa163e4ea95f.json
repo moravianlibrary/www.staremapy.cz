@@ -1,0 +1,111 @@
+{
+  "date": ["1935"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:91ffd602-9f1c-11ec-85f8-fa163e4ea95f?page=uuid%3A92c73b98-9f1c-11ec-85f8-fa163e4ea95f",
+  "description": null,
+  "scale": 75000,
+  "external_id": "1330516",
+  "title": "Volové",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    23.329815,
+    48.497963,
+    23.83146,
+    48.748974
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:91ffd602-9f1c-11ec-85f8-fa163e4ea95f",
+  "id": "1587231f-f3a7-55aa-a413-5bb7b51b9789",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        73,
+        377
+      ],
+      [
+        528,
+        378
+      ],
+      [
+        527,
+        44
+      ],
+      [
+        75,
+        43
+      ],
+      [
+        73,
+        377
+      ]
+    ],
+    "created": "2017-04-15T16:29:39.709150+00:00",
+    "transformation_method": "affine",
+    "mapID": "1587231f-f3a7-55aa-a413-5bb7b51b9789",
+    "affine_transformation": null,
+    "changed": "2017-04-15T16:29:39.709150+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.358727287,
+          48.71942337
+        ],
+        "pixel": [
+          101,
+          82
+        ]
+      },
+      {
+        "location": [
+          23.506106236,
+          48.516838185
+        ],
+        "pixel": [
+          233,
+          352
+        ]
+      },
+      {
+        "location": [
+          23.568548062,
+          48.663168092
+        ],
+        "pixel": [
+          290,
+          158
+        ]
+      },
+      {
+        "location": [
+          23.797957265,
+          48.546637339
+        ],
+        "pixel": [
+          498,
+          313
+        ]
+      },
+      {
+        "location": [
+          23.472846844,
+          48.60048689
+        ],
+        "pixel": [
+          202,
+          241
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1935"]
+}

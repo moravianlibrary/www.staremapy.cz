@@ -1,0 +1,91 @@
+{
+  "date": ["1937"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:d6f11d82-a6e4-11ec-a251-fa163e4ea95f?page=uuid%3Ad7d222e6-a6e4-11ec-a251-fa163e4ea95f",
+  "description": "Evropa střední",
+  "scale": null,
+  "external_id": "1342230",
+  "title": "Přehled počasí",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Machač, František",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -35.056328,
+    19.030352,
+    127.67147,
+    72.16813
+  ],
+  "reviewed": null,
+  "publisher": "Státní ústav meteorologický",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:d6f11d82-a6e4-11ec-a251-fa163e4ea95f",
+  "id": "083d81d0-bb92-5e6b-8e0f-8c1c23963df3",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:30:53.231370+00:00",
+    "transformation_method": "affine",
+    "mapID": "083d81d0-bb92-5e6b-8e0f-8c1c23963df3",
+    "affine_transformation": null,
+    "changed": "2023-07-12T12:00:08.751242+00:00",
+    "gcps": [
+      {
+        "location": [
+          -4.062812499999991,
+          40.83512680278358
+        ],
+        "pixel": [
+          67,
+          297
+        ]
+      },
+      {
+        "location": [
+          4.374687500000014,
+          47.029431214926745
+        ],
+        "pixel": [
+          114,
+          251
+        ]
+      },
+      {
+        "location": [
+          -2.129218749999993,
+          52.686800286389314
+        ],
+        "pixel": [
+          98,
+          195
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1937"]
+}

@@ -1,0 +1,121 @@
+{
+  "date": ["1905"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:6fbcb816-9400-11ec-a6b4-fa163e4ea95f?page=uuid%3A70847dd8-9400-11ec-a6b4-fa163e4ea95f",
+  "description": "Dolní Rakousko (Rakousko)",
+  "scale": 25000,
+  "external_id": "1251396",
+  "title": "Gramatneusiedl",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.456629,
+    47.998936,
+    16.582785,
+    48.06188
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:6fbcb816-9400-11ec-a6b4-fa163e4ea95f",
+  "id": "950b49d8-fb9e-5f83-beec-e907ac136296",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        81,
+        383
+      ],
+      [
+        519,
+        382
+      ],
+      [
+        521,
+        64
+      ],
+      [
+        84,
+        64
+      ],
+      [
+        81,
+        383
+      ]
+    ],
+    "created": "2017-01-19T16:12:26.904720+00:00",
+    "transformation_method": "affine",
+    "mapID": "950b49d8-fb9e-5f83-beec-e907ac136296",
+    "affine_transformation": null,
+    "changed": "2017-01-19T16:12:26.904720+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.520353418,
+          48.045598701
+        ],
+        "pixel": [
+          293,
+          150
+        ]
+      },
+      {
+        "location": [
+          16.525331598,
+          47.998984123
+        ],
+        "pixel": [
+          324,
+          384
+        ]
+      },
+      {
+        "location": [
+          16.486879449,
+          48.028840677
+        ],
+        "pixel": [
+          189,
+          232
+        ]
+      },
+      {
+        "location": [
+          16.460443597,
+          48.018737317
+        ],
+        "pixel": [
+          96,
+          279
+        ]
+      },
+      {
+        "location": [
+          16.576486688,
+          48.011043659
+        ],
+        "pixel": [
+          495,
+          327
+        ]
+      },
+      {
+        "location": [
+          16.550222498,
+          48.058221009
+        ],
+        "pixel": [
+          415,
+          77
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1905"]
+}

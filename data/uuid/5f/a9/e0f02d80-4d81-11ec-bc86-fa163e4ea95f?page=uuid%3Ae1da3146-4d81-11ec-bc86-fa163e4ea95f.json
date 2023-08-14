@@ -1,0 +1,111 @@
+{
+  "date": ["1760"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:e0f02d80-4d81-11ec-bc86-fa163e4ea95f?page=uuid%3Ae1da3146-4d81-11ec-bc86-fa163e4ea95f",
+  "description": "Plzeň-oblast (Česko)",
+  "scale": null,
+  "external_id": "1042714",
+  "title": "Provincia Pilsnensis",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Winkler, Johann Christoph",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.282291,
+    48.95128,
+    14.031752,
+    50.179016
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:e0f02d80-4d81-11ec-bc86-fa163e4ea95f",
+  "id": "773f74f6-79e7-5f48-9aee-16a025091223",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2014-08-19T12:10:11.863080+00:00",
+    "transformation_method": "affine",
+    "mapID": "773f74f6-79e7-5f48-9aee-16a025091223",
+    "affine_transformation": null,
+    "changed": "2014-08-19T12:10:11.863080+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.635522632,
+          49.798668615
+        ],
+        "pixel": [
+          115,
+          126
+        ]
+      },
+      {
+        "location": [
+          12.987085132,
+          50.060670684
+        ],
+        "pixel": [
+          265,
+          46
+        ]
+      },
+      {
+        "location": [
+          12.930866031,
+          49.440232058
+        ],
+        "pixel": [
+          204,
+          270
+        ]
+      },
+      {
+        "location": [
+          13.383107928,
+          49.319393032
+        ],
+        "pixel": [
+          371,
+          316
+        ]
+      },
+      {
+        "location": [
+          13.605752734,
+          49.856528681
+        ],
+        "pixel": [
+          493,
+          114
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1760"]
+}

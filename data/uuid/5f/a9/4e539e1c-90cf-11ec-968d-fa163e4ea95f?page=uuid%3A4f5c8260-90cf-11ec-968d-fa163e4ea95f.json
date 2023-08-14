@@ -1,0 +1,121 @@
+{
+  "date": ["1905"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:4e539e1c-90cf-11ec-968d-fa163e4ea95f?page=uuid%3A4f5c8260-90cf-11ec-968d-fa163e4ea95f",
+  "description": "Evropa střední",
+  "scale": 300000,
+  "external_id": "1239148",
+  "title": "Radom",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Liebenow, Wilhelm",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    19.84663,
+    51.325718,
+    21.606157,
+    52.218258
+  ],
+  "reviewed": null,
+  "publisher": "Ludwig Ravenstein",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:4e539e1c-90cf-11ec-968d-fa163e4ea95f",
+  "id": "13ed3be3-cc28-5848-9f17-c9acbf56d838",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        26,
+        409
+      ],
+      [
+        580,
+        409
+      ],
+      [
+        580,
+        27
+      ],
+      [
+        26,
+        27
+      ],
+      [
+        26,
+        409
+      ]
+    ],
+    "created": "2016-06-11T18:03:16.174700+00:00",
+    "transformation_method": "affine",
+    "mapID": "13ed3be3-cc28-5848-9f17-c9acbf56d838",
+    "affine_transformation": null,
+    "changed": "2016-06-11T18:03:16.174700+00:00",
+    "gcps": [
+      {
+        "location": [
+          20.870480371,
+          51.858829209
+        ],
+        "pixel": [
+          350,
+          170
+        ]
+      },
+      {
+        "location": [
+          20.26073916,
+          51.753536131
+        ],
+        "pixel": [
+          142,
+          250
+        ]
+      },
+      {
+        "location": [
+          21.191830469,
+          51.779032818
+        ],
+        "pixel": [
+          461,
+          195
+        ]
+      },
+      {
+        "location": [
+          21.035275293,
+          52.073742896
+        ],
+        "pixel": [
+          383,
+          55
+        ]
+      },
+      {
+        "location": [
+          21.213803125,
+          51.980796545
+        ],
+        "pixel": [
+          452,
+          90
+        ]
+      },
+      {
+        "location": [
+          20.139889551,
+          51.953721326
+        ],
+        "pixel": [
+          91,
+          155
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1905"]
+}

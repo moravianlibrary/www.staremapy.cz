@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:dcefd25c-b4e3-11ec-8737-fa163e4ea95f?page=uuid%3Addaf3976-b4e3-11ec-8737-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1389579",
+  "title": "Nowa Wilejka",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    25.253645,
+    54.453255,
+    25.99009,
+    54.781197
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:dcefd25c-b4e3-11ec-8737-fa163e4ea95f",
+  "id": "ddcaa1d7-53f5-52f9-b0fa-64bf8c5b53ae",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2016-01-08T13:41:15.756570+00:00",
+    "transformation_method": "affine",
+    "mapID": "ddcaa1d7-53f5-52f9-b0fa-64bf8c5b53ae",
+    "affine_transformation": null,
+    "changed": "2016-01-08T13:41:15.756570+00:00",
+    "gcps": [
+      {
+        "location": [
+          25.731541135,
+          54.518020094
+        ],
+        "pixel": [
+          389,
+          356
+        ]
+      },
+      {
+        "location": [
+          25.537235801,
+          54.608749727
+        ],
+        "pixel": [
+          232,
+          233
+        ]
+      },
+      {
+        "location": [
+          25.327064015,
+          54.726580486
+        ],
+        "pixel": [
+          59,
+          73
+        ]
+      },
+      {
+        "location": [
+          25.34822128,
+          54.591886305
+        ],
+        "pixel": [
+          77,
+          256
+        ]
+      },
+      {
+        "location": [
+          25.817514007,
+          54.701293686
+        ],
+        "pixel": [
+          459,
+          108
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

@@ -1,0 +1,121 @@
+{
+  "date": ["1889"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:608f4ee2-7882-11ec-9d34-fa163e4ea95f?page=uuid%3A61c9a5be-7882-11ec-9d34-fa163e4ea95f",
+  "description": "Maďarsko",
+  "scale": 75000,
+  "external_id": "1130527",
+  "title": "Gönc und Csobád",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Udalrik, A.",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    20.830542,
+    48.249653,
+    21.334435,
+    48.497097
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:608f4ee2-7882-11ec-9d34-fa163e4ea95f",
+  "id": "dc1aa7e7-603a-5cff-95ec-f5c2717104be",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        17,
+        407
+      ],
+      [
+        563,
+        406
+      ],
+      [
+        563,
+        33
+      ],
+      [
+        20,
+        33
+      ],
+      [
+        17,
+        407
+      ]
+    ],
+    "created": "2014-12-21T14:01:08.285460+00:00",
+    "transformation_method": "affine",
+    "mapID": "dc1aa7e7-603a-5cff-95ec-f5c2717104be",
+    "affine_transformation": null,
+    "changed": "2014-12-21T14:01:08.285460+00:00",
+    "gcps": [
+      {
+        "location": [
+          21.027796539,
+          48.282084776
+        ],
+        "pixel": [
+          229,
+          357
+        ]
+      },
+      {
+        "location": [
+          21.122896942,
+          48.330497211
+        ],
+        "pixel": [
+          340,
+          285
+        ]
+      },
+      {
+        "location": [
+          20.883641959,
+          48.458823018
+        ],
+        "pixel": [
+          78,
+          92
+        ]
+      },
+      {
+        "location": [
+          21.175082001,
+          48.418412545
+        ],
+        "pixel": [
+          390,
+          151
+        ]
+      },
+      {
+        "location": [
+          21.205294403,
+          48.480522954
+        ],
+        "pixel": [
+          426,
+          57
+        ]
+      },
+      {
+        "location": [
+          21.185896667,
+          48.278886111
+        ],
+        "pixel": [
+          401,
+          363
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1889"]
+}

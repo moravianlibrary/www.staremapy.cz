@@ -1,0 +1,111 @@
+{
+  "date": ["1933"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:e1728184-9446-11ec-90c7-fa163e4ea95f?page=uuid%3Ae26a954a-9446-11ec-90c7-fa163e4ea95f",
+  "description": "Przemyśl (Polsko : oblast)",
+  "scale": 200000,
+  "external_id": "1254215",
+  "title": "Przemyśl",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    21.830635,
+    49.49634,
+    22.832521,
+    50.496605
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:e1728184-9446-11ec-90c7-fa163e4ea95f",
+  "id": "4106b23d-d2bd-5467-980a-ded2b2aad44a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        60,
+        408
+      ],
+      [
+        546,
+        407
+      ],
+      [
+        536,
+        25
+      ],
+      [
+        61,
+        25
+      ],
+      [
+        60,
+        408
+      ]
+    ],
+    "created": "2017-08-16T18:34:24.983030+00:00",
+    "transformation_method": "affine",
+    "mapID": "4106b23d-d2bd-5467-980a-ded2b2aad44a",
+    "affine_transformation": null,
+    "changed": "2017-08-16T18:34:24.983030+00:00",
+    "gcps": [
+      {
+        "location": [
+          21.997658008,
+          50.040058824
+        ],
+        "pixel": [
+          138,
+          199
+        ]
+      },
+      {
+        "location": [
+          22.824379199,
+          49.945260783
+        ],
+        "pixel": [
+          540,
+          237
+        ]
+      },
+      {
+        "location": [
+          22.274237633,
+          49.509029391
+        ],
+        "pixel": [
+          276,
+          404
+        ]
+      },
+      {
+        "location": [
+          21.846629143,
+          49.670608305
+        ],
+        "pixel": [
+          66,
+          342
+        ]
+      },
+      {
+        "location": [
+          22.263389819,
+          50.485697673
+        ],
+        "pixel": [
+          265,
+          29
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1933"]
+}

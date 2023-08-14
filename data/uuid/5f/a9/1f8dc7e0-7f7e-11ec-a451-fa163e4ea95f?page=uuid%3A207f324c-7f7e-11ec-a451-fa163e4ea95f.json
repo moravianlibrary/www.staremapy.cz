@@ -1,0 +1,115 @@
+{
+  "date": ["1934"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:1f8dc7e0-7f7e-11ec-a451-fa163e4ea95f?page=uuid%3A207f324c-7f7e-11ec-a451-fa163e4ea95f",
+  "description": "Švýcarsko",
+  "scale": 25000,
+  "external_id": "1170339",
+  "title": "Landeskarte der Schweiz",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    7.2924857,
+    46.35978,
+    7.3299427,
+    46.39517
+  ],
+  "reviewed": null,
+  "publisher": "Eidgenössische Landestopographie",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:1f8dc7e0-7f7e-11ec-a451-fa163e4ea95f",
+  "id": "238f163f-a7cf-551e-880e-9fc6fba14809",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        399,
+        92
+      ],
+      [
+        529,
+        92
+      ],
+      [
+        528,
+        331
+      ],
+      [
+        398,
+        331
+      ],
+      [
+        398,
+        212
+      ],
+      [
+        399,
+        92
+      ]
+    ],
+    "created": "2017-08-30T08:42:05.977330+00:00",
+    "transformation_method": "affine",
+    "mapID": "238f163f-a7cf-551e-880e-9fc6fba14809",
+    "affine_transformation": null,
+    "changed": "2017-08-30T08:42:05.977330+00:00",
+    "gcps": [
+      {
+        "location": [
+          7.30755876,
+          46.363788384
+        ],
+        "pixel": [
+          446,
+          306
+        ]
+      },
+      {
+        "location": [
+          7.31248866,
+          46.37112128
+        ],
+        "pixel": [
+          466,
+          252
+        ]
+      },
+      {
+        "location": [
+          7.324333295,
+          46.38274603
+        ],
+        "pixel": [
+          512,
+          177
+        ]
+      },
+      {
+        "location": [
+          7.310257062,
+          46.375133412
+        ],
+        "pixel": [
+          460,
+          228
+        ]
+      },
+      {
+        "location": [
+          7.312231168,
+          46.365924316
+        ],
+        "pixel": [
+          466,
+          289
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1934"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:5d73ff2e-b4f4-11ec-bf8a-fa163e4ea95f?page=uuid%3A5e2bd400-b4f4-11ec-bf8a-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1389990",
+  "title": "Jeziory",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    26.83509,
+    51.49741,
+    27.338312,
+    51.753315
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:5d73ff2e-b4f4-11ec-bf8a-fa163e4ea95f",
+  "id": "90479a3d-a2fc-5f7d-9317-173b56ecb253",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        84,
+        378
+      ],
+      [
+        518,
+        378
+      ],
+      [
+        518,
+        37
+      ],
+      [
+        84,
+        37
+      ],
+      [
+        84,
+        378
+      ]
+    ],
+    "created": "2017-03-05T19:48:59.098860+00:00",
+    "transformation_method": "affine",
+    "mapID": "90479a3d-a2fc-5f7d-9317-173b56ecb253",
+    "affine_transformation": null,
+    "changed": "2017-03-05T19:48:59.098860+00:00",
+    "gcps": [
+      {
+        "location": [
+          27.008764618,
+          51.506706289
+        ],
+        "pixel": [
+          233,
+          368
+        ]
+      },
+      {
+        "location": [
+          27.318029594,
+          51.646429594
+        ],
+        "pixel": [
+          497,
+          183
+        ]
+      },
+      {
+        "location": [
+          26.905913544,
+          51.57145889
+        ],
+        "pixel": [
+          143,
+          279
+        ]
+      },
+      {
+        "location": [
+          27.256686562,
+          51.519873155
+        ],
+        "pixel": [
+          451,
+          352
+        ]
+      },
+      {
+        "location": [
+          26.987109375,
+          51.725636343
+        ],
+        "pixel": [
+          218,
+          71
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

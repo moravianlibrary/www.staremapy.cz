@@ -1,0 +1,121 @@
+{
+  "date": ["1940"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:b764a2c4-96a2-11ec-8661-fa163e4ea95f?page=uuid%3Ab8b7f2de-96a2-11ec-8661-fa163e4ea95f",
+  "description": "Plovdiv (Bulharsko : oblast)",
+  "scale": 200000,
+  "external_id": "1271640",
+  "title": "42°42° Plovdiv",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    23.7918,
+    41.49521,
+    24.850546,
+    42.503166
+  ],
+  "reviewed": null,
+  "publisher": "Hauptvermessungsabteilung XIV",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:b764a2c4-96a2-11ec-8661-fa163e4ea95f",
+  "id": "49d6f094-f6dc-5452-b356-ecb3f2301529",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        39,
+        401
+      ],
+      [
+        561,
+        401
+      ],
+      [
+        554,
+        32
+      ],
+      [
+        39,
+        32
+      ],
+      [
+        39,
+        401
+      ]
+    ],
+    "created": "2017-08-12T13:13:28.479930+00:00",
+    "transformation_method": "affine",
+    "mapID": "49d6f094-f6dc-5452-b356-ecb3f2301529",
+    "affine_transformation": null,
+    "changed": "2017-08-12T13:13:28.479930+00:00",
+    "gcps": [
+      {
+        "location": [
+          24.751339038,
+          42.152977764
+        ],
+        "pixel": [
+          509,
+          160
+        ]
+      },
+      {
+        "location": [
+          24.691343387,
+          41.868866771
+        ],
+        "pixel": [
+          485,
+          265
+        ]
+      },
+      {
+        "location": [
+          24.337034305,
+          42.190636143
+        ],
+        "pixel": [
+          295,
+          145
+        ]
+      },
+      {
+        "location": [
+          24.622678836,
+          42.455453293
+        ],
+        "pixel": [
+          445,
+          47
+        ]
+      },
+      {
+        "location": [
+          23.865480502,
+          41.533809331
+        ],
+        "pixel": [
+          78,
+          391
+        ]
+      },
+      {
+        "location": [
+          24.702501376,
+          41.576810278
+        ],
+        "pixel": [
+          492,
+          370
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1940"]
+}

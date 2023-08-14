@@ -1,0 +1,111 @@
+{
+  "date": ["1705"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:ae88ebfc-4ef8-11ec-90e7-fa163e4ea95f?page=uuid%3Aaf229a9a-4ef8-11ec-90e7-fa163e4ea95f",
+  "description": "Biskajský záliv (Francie a Španělsko)",
+  "scale": 16000,
+  "external_id": "1014526",
+  "title": "Plan du port du passage en Espagne",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Fer, Nicolas de",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -1.9301152,
+    43.297634,
+    -1.9071034,
+    43.346046
+  ],
+  "reviewed": null,
+  "publisher": "de Fer",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:ae88ebfc-4ef8-11ec-90e7-fa163e4ea95f",
+  "id": "7ece4e66-75e1-5ec7-94fa-627b4104d6c3",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        137,
+        328
+      ],
+      [
+        444,
+        328
+      ],
+      [
+        444,
+        128
+      ],
+      [
+        137,
+        128
+      ],
+      [
+        137,
+        328
+      ]
+    ],
+    "created": "2013-12-30T13:21:55.483620+00:00",
+    "transformation_method": "affine",
+    "mapID": "7ece4e66-75e1-5ec7-94fa-627b4104d6c3",
+    "affine_transformation": null,
+    "changed": "2013-12-30T13:21:55.483620+00:00",
+    "gcps": [
+      {
+        "location": [
+          -1.931438175,
+          43.335366834
+        ],
+        "pixel": [
+          275,
+          135
+        ]
+      },
+      {
+        "location": [
+          -1.921996799,
+          43.326126655
+        ],
+        "pixel": [
+          285,
+          198
+        ]
+      },
+      {
+        "location": [
+          -1.926459995,
+          43.335741406
+        ],
+        "pixel": [
+          322,
+          140
+        ]
+      },
+      {
+        "location": [
+          -1.918906894,
+          43.32537739
+        ],
+        "pixel": [
+          309,
+          197
+        ]
+      },
+      {
+        "location": [
+          -1.910152164,
+          43.32050694
+        ],
+        "pixel": [
+          434,
+          309
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1705"]
+}

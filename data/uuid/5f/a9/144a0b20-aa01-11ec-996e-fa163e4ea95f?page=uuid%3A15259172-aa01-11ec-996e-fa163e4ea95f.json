@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:144a0b20-aa01-11ec-996e-fa163e4ea95f?page=uuid%3A15259172-aa01-11ec-996e-fa163e4ea95f",
+  "description": "Sýrie",
+  "scale": 50000,
+  "external_id": "1347629",
+  "title": "Sanameine",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    35.95186,
+    32.883274,
+    36.298084,
+    33.29443
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:144a0b20-aa01-11ec-996e-fa163e4ea95f",
+  "id": "ce36e28a-f6d6-5696-9628-53a8fc1a5eca",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:33:49.145970+00:00",
+    "transformation_method": "affine",
+    "mapID": "ce36e28a-f6d6-5696-9628-53a8fc1a5eca",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:33:49.145970+00:00",
+    "gcps": [
+      {
+        "location": [
+          36.133104730709576,
+          33.020011626438134
+        ],
+        "pixel": [
+          314,
+          297
+        ]
+      },
+      {
+        "location": [
+          36.027041494253446,
+          33.02326583151542
+        ],
+        "pixel": [
+          129,
+          294
+        ]
+      },
+      {
+        "location": [
+          36.181819916,
+          33.064256221
+        ],
+        "pixel": [
+          399,
+          247
+        ]
+      },
+      {
+        "location": [
+          36.226795197,
+          33.192775175
+        ],
+        "pixel": [
+          477,
+          109
+        ]
+      },
+      {
+        "location": [
+          36.05891037,
+          33.162028259
+        ],
+        "pixel": [
+          186,
+          143
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

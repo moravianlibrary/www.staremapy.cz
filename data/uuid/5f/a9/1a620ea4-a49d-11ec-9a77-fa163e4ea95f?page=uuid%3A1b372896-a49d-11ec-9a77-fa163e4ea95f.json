@@ -1,0 +1,111 @@
+{
+  "date": ["1904"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:1a620ea4-a49d-11ec-9a77-fa163e4ea95f?page=uuid%3A1b372896-a49d-11ec-9a77-fa163e4ea95f",
+  "description": null,
+  "scale": 75000,
+  "external_id": "1337193",
+  "title": "Soltvadkert",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    19.272642,
+    46.45561,
+    19.892885,
+    46.786495
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:1a620ea4-a49d-11ec-9a77-fa163e4ea95f",
+  "id": "7bb182bd-2514-5e2e-9ce9-0b6012a062dd",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:24:30.720350+00:00",
+    "transformation_method": "affine",
+    "mapID": "7bb182bd-2514-5e2e-9ce9-0b6012a062dd",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:24:30.720350+00:00",
+    "gcps": [
+      {
+        "location": [
+          19.511514072,
+          46.549374118
+        ],
+        "pixel": [
+          231,
+          318
+        ]
+      },
+      {
+        "location": [
+          19.722494555,
+          46.742012113
+        ],
+        "pixel": [
+          436,
+          60
+        ]
+      },
+      {
+        "location": [
+          19.756900244,
+          46.56916694
+        ],
+        "pixel": [
+          469,
+          291
+        ]
+      },
+      {
+        "location": [
+          19.384051733,
+          46.716718607
+        ],
+        "pixel": [
+          108,
+          92
+        ]
+      },
+      {
+        "location": [
+          19.393836432,
+          46.580967005
+        ],
+        "pixel": [
+          116,
+          276
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1904"]
+}

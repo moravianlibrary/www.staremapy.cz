@@ -1,0 +1,111 @@
+{
+  "date": ["1926"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:4391ede2-9f0e-11ec-b028-fa163e4ea95f?page=uuid%3A4470def8-9f0e-11ec-b028-fa163e4ea95f",
+  "description": "Sudety (Česko)",
+  "scale": 75000,
+  "external_id": "1330117",
+  "title": "Třeboň",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.334657,
+    48.999317,
+    14.834064,
+    49.247833
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:4391ede2-9f0e-11ec-b028-fa163e4ea95f",
+  "id": "2a39dc9c-dc81-51b5-96b7-5aa0322eb584",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        50,
+        396
+      ],
+      [
+        552,
+        397
+      ],
+      [
+        551,
+        40
+      ],
+      [
+        51,
+        40
+      ],
+      [
+        50,
+        396
+      ]
+    ],
+    "created": "2017-08-01T19:34:53.866870+00:00",
+    "transformation_method": "affine",
+    "mapID": "2a39dc9c-dc81-51b5-96b7-5aa0322eb584",
+    "affine_transformation": null,
+    "changed": "2017-08-01T19:34:53.866870+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.757471721,
+          49.247448753
+        ],
+        "pixel": [
+          475,
+          40
+        ]
+      },
+      {
+        "location": [
+          14.601989429,
+          49.130263916
+        ],
+        "pixel": [
+          319,
+          209
+        ]
+      },
+      {
+        "location": [
+          14.346707504,
+          49.140217734
+        ],
+        "pixel": [
+          61,
+          194
+        ]
+      },
+      {
+        "location": [
+          14.654024284,
+          49.001470677
+        ],
+        "pixel": [
+          372,
+          394
+        ]
+      },
+      {
+        "location": [
+          14.828174751,
+          49.077400814
+        ],
+        "pixel": [
+          545,
+          284
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1926"]
+}

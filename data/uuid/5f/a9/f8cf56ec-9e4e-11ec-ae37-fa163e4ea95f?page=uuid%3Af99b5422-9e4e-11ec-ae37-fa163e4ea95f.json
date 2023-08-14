@@ -1,0 +1,141 @@
+{
+  "date": ["1896"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:f8cf56ec-9e4e-11ec-ae37-fa163e4ea95f?page=uuid%3Af99b5422-9e4e-11ec-ae37-fa163e4ea95f",
+  "description": "Gelnica (Slovensko : oblast)",
+  "scale": 75000,
+  "external_id": "1305178",
+  "title": "Eperies und Göllnitz",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    20.83183,
+    48.74874,
+    21.33215,
+    48.997105
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:f8cf56ec-9e4e-11ec-ae37-fa163e4ea95f",
+  "id": "4e82c069-6483-56dd-88d3-d706af83a1c3",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        57,
+        41
+      ],
+      [
+        542,
+        41
+      ],
+      [
+        545,
+        390
+      ],
+      [
+        56,
+        391
+      ],
+      [
+        57,
+        41
+      ]
+    ],
+    "created": "2017-10-16T11:24:56.722310+00:00",
+    "transformation_method": "affine",
+    "mapID": "4e82c069-6483-56dd-88d3-d706af83a1c3",
+    "affine_transformation": null,
+    "changed": "2017-10-16T11:24:56.722310+00:00",
+    "gcps": [
+      {
+        "location": [
+          21.301824933,
+          48.805334057
+        ],
+        "pixel": [
+          515,
+          311
+        ]
+      },
+      {
+        "location": [
+          21.271698361,
+          48.851836468
+        ],
+        "pixel": [
+          486,
+          247
+        ]
+      },
+      {
+        "location": [
+          21.253502255,
+          48.970242046
+        ],
+        "pixel": [
+          469,
+          80
+        ]
+      },
+      {
+        "location": [
+          20.859882718,
+          48.779351906
+        ],
+        "pixel": [
+          84,
+          348
+        ]
+      },
+      {
+        "location": [
+          20.874903088,
+          48.916376636
+        ],
+        "pixel": [
+          100,
+          155
+        ]
+      },
+      {
+        "location": [
+          21.259424573,
+          48.855789725
+        ],
+        "pixel": [
+          472,
+          237
+        ]
+      },
+      {
+        "location": [
+          21.006739026,
+          48.750215549
+        ],
+        "pixel": [
+          228,
+          389
+        ]
+      },
+      {
+        "location": [
+          20.852501279,
+          48.927966412
+        ],
+        "pixel": [
+          74,
+          137
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1896"]
+}

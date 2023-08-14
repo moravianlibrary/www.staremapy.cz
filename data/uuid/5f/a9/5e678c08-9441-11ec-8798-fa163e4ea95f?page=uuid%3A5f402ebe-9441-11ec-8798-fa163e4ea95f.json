@@ -1,0 +1,121 @@
+{
+  "date": ["1894"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:5e678c08-9441-11ec-8798-fa163e4ea95f?page=uuid%3A5f402ebe-9441-11ec-8798-fa163e4ea95f",
+  "description": "Plzeň (Česko : oblast)",
+  "scale": 200000,
+  "external_id": "1254056",
+  "title": "31°50° Pilsen",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.852899,
+    49.504017,
+    13.829442,
+    50.496395
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:5e678c08-9441-11ec-8798-fa163e4ea95f",
+  "id": "9ae7f99c-b43f-53e4-80af-d9432b381e0c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        102,
+        393
+      ],
+      [
+        506,
+        393
+      ],
+      [
+        506,
+        46
+      ],
+      [
+        102,
+        46
+      ],
+      [
+        102,
+        393
+      ]
+    ],
+    "created": "2015-12-09T00:12:25.029250+00:00",
+    "transformation_method": "affine",
+    "mapID": "9ae7f99c-b43f-53e4-80af-d9432b381e0c",
+    "affine_transformation": null,
+    "changed": "2015-12-09T00:12:25.029250+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.158963741,
+          49.642825493
+        ],
+        "pixel": [
+          229,
+          345
+        ]
+      },
+      {
+        "location": [
+          13.332556308,
+          49.574442283
+        ],
+        "pixel": [
+          302,
+          369
+        ]
+      },
+      {
+        "location": [
+          13.545410883,
+          50.327136141
+        ],
+        "pixel": [
+          387,
+          105
+        ]
+      },
+      {
+        "location": [
+          13.554337275,
+          50.384964015
+        ],
+        "pixel": [
+          392,
+          86
+        ]
+      },
+      {
+        "location": [
+          13.214710773,
+          49.716579404
+        ],
+        "pixel": [
+          251,
+          319
+        ]
+      },
+      {
+        "location": [
+          12.995456279,
+          49.753469869
+        ],
+        "pixel": [
+          161,
+          306
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1894"]
+}

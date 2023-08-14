@@ -1,0 +1,121 @@
+{
+  "date": ["1905"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:3fa6a912-ab9c-11ec-a786-fa163e4ea95f?page=uuid%3A40624622-ab9c-11ec-a786-fa163e4ea95f",
+  "description": "Idaho",
+  "scale": 125000,
+  "external_id": "1367310",
+  "title": "Washington - Idaho",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Douglas, E. M.",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -117.49377,
+    47.003548,
+    -117.00078,
+    47.499275
+  ],
+  "reviewed": null,
+  "publisher": "U. S. Geological Survey",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:3fa6a912-ab9c-11ec-a786-fa163e4ea95f",
+  "id": "536fe552-ea63-5adb-9c2b-c27be5395771",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        94,
+        402
+      ],
+      [
+        507,
+        405
+      ],
+      [
+        505,
+        28
+      ],
+      [
+        95,
+        28
+      ],
+      [
+        94,
+        402
+      ]
+    ],
+    "created": "2017-07-30T14:07:51.372980+00:00",
+    "transformation_method": "affine",
+    "mapID": "536fe552-ea63-5adb-9c2b-c27be5395771",
+    "affine_transformation": null,
+    "changed": "2017-07-30T14:07:51.372980+00:00",
+    "gcps": [
+      {
+        "location": [
+          -117.380009323,
+          47.429560216
+        ],
+        "pixel": [
+          192,
+          79
+        ]
+      },
+      {
+        "location": [
+          -117.141657501,
+          47.007057439
+        ],
+        "pixel": [
+          389,
+          402
+        ]
+      },
+      {
+        "location": [
+          -117.173586517,
+          47.384570337
+        ],
+        "pixel": [
+          363,
+          114
+        ]
+      },
+      {
+        "location": [
+          -117.072821289,
+          47.226147353
+        ],
+        "pixel": [
+          448,
+          237
+        ]
+      },
+      {
+        "location": [
+          -117.486096054,
+          47.22772111
+        ],
+        "pixel": [
+          99,
+          232
+        ]
+      },
+      {
+        "location": [
+          -117.039604813,
+          47.49231911
+        ],
+        "pixel": [
+          475,
+          33
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1905"]
+}

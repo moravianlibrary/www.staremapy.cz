@@ -1,0 +1,121 @@
+{
+  "date": ["1942"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:38e3e3de-7270-11ec-b9ed-fa163e4ea95f?page=uuid%3A39add36a-7270-11ec-b9ed-fa163e4ea95f",
+  "description": "Morava (Česko)",
+  "scale": 25000,
+  "external_id": "1119449",
+  "title": "[Gradkartenblatt]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.071964,
+    49.238594,
+    16.340515,
+    49.384007
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:38e3e3de-7270-11ec-b9ed-fa163e4ea95f",
+  "id": "ad974c7e-8588-5415-b565-0106b1ce48c5",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2014-08-19T13:34:39.308450+00:00",
+    "transformation_method": "affine",
+    "mapID": "ad974c7e-8588-5415-b565-0106b1ce48c5",
+    "affine_transformation": null,
+    "changed": "2014-08-19T13:34:39.308450+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.30853386465871,
+          49.31050250107373
+        ],
+        "pixel": [
+          529,
+          224
+        ]
+      },
+      {
+        "location": [
+          16.192799791559214,
+          49.347265825601255
+        ],
+        "pixel": [
+          270,
+          112
+        ]
+      },
+      {
+        "location": [
+          16.255826376585446,
+          49.25901510537395
+        ],
+        "pixel": [
+          411,
+          380
+        ]
+      },
+      {
+        "location": [
+          16.10633175602849,
+          49.28476130484711
+        ],
+        "pixel": [
+          76,
+          304
+        ]
+      },
+      {
+        "location": [
+          16.258095032730242,
+          49.27410835598505
+        ],
+        "pixel": [
+          418,
+          336
+        ]
+      },
+      {
+        "location": [
+          16.245919650468785,
+          49.34289640077995
+        ],
+        "pixel": [
+          388,
+          124
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1942"]
+}

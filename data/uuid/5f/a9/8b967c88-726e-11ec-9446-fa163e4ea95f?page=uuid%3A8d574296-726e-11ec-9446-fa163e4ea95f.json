@@ -1,0 +1,125 @@
+{
+  "date": ["1941"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:8b967c88-726e-11ec-9446-fa163e4ea95f?page=uuid%3A8d574296-726e-11ec-9446-fa163e4ea95f",
+  "description": "Světlá nad Sázavou-oblast (Česko)",
+  "scale": 25000,
+  "external_id": "1119338",
+  "title": "[Gradkartenblatt]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.333133,
+    49.623783,
+    15.584499,
+    49.74957
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:8b967c88-726e-11ec-9446-fa163e4ea95f",
+  "id": "9bfa69a7-4939-5716-a676-32b6cc6e70d2",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        22,
+        29
+      ],
+      [
+        575,
+        31
+      ],
+      [
+        572,
+        412
+      ],
+      [
+        22,
+        412
+      ],
+      [
+        20,
+        388
+      ],
+      [
+        22,
+        29
+      ]
+    ],
+    "created": "2015-08-04T16:40:02.503820+00:00",
+    "transformation_method": "affine",
+    "mapID": "9bfa69a7-4939-5716-a676-32b6cc6e70d2",
+    "affine_transformation": null,
+    "changed": "2015-08-04T16:40:02.503820+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.407585553,
+          49.667340929
+        ],
+        "pixel": [
+          185,
+          280
+        ]
+      },
+      {
+        "location": [
+          15.53648179,
+          49.683906407
+        ],
+        "pixel": [
+          467,
+          232
+        ]
+      },
+      {
+        "location": [
+          15.478331498,
+          49.630649081
+        ],
+        "pixel": [
+          340,
+          392
+        ]
+      },
+      {
+        "location": [
+          15.345873288,
+          49.66000755
+        ],
+        "pixel": [
+          49,
+          302
+        ]
+      },
+      {
+        "location": [
+          15.534700803,
+          49.73570477
+        ],
+        "pixel": [
+          466,
+          72
+        ]
+      },
+      {
+        "location": [
+          15.411405019,
+          49.734401122
+        ],
+        "pixel": [
+          193,
+          74
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1941"]
+}

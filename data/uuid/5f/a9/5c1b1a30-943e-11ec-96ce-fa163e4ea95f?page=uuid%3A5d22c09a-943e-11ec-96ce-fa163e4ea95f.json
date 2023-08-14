@@ -1,0 +1,101 @@
+{
+  "date": ["1929"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:5c1b1a30-943e-11ec-96ce-fa163e4ea95f?page=uuid%3A5d22c09a-943e-11ec-96ce-fa163e4ea95f",
+  "description": "Petrovice u Karviné (Česko)",
+  "scale": 10000,
+  "external_id": "1253969",
+  "title": "[Mapový list]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    18.505753,
+    49.866524,
+    18.591436,
+    49.911205
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:5c1b1a30-943e-11ec-96ce-fa163e4ea95f",
+  "id": "a92fc07d-2813-5a4d-b96d-0418388e6d76",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:12:02.162070+00:00",
+    "transformation_method": "affine",
+    "mapID": "a92fc07d-2813-5a4d-b96d-0418388e6d76",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:12:02.162070+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.521901381718386,
+          49.880361708624974
+        ],
+        "pixel": [
+          112,
+          307
+        ]
+      },
+      {
+        "location": [
+          18.521225465,
+          49.901569424
+        ],
+        "pixel": [
+          108,
+          96
+        ]
+      },
+      {
+        "location": [
+          18.547098054,
+          49.880553558
+        ],
+        "pixel": [
+          290,
+          304
+        ]
+      },
+      {
+        "location": [
+          18.570706857,
+          49.890034468
+        ],
+        "pixel": [
+          455,
+          210
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1929"]
+}

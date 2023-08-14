@@ -1,0 +1,111 @@
+{
+  "date": ["1940"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:f0fd00c0-7952-11ec-84dc-fa163e4ea95f?page=uuid%3Af2247aa0-7952-11ec-84dc-fa163e4ea95f",
+  "description": "Dobruška (Česko : oblast)",
+  "scale": 25000,
+  "external_id": "1125071",
+  "title": "[Kartenblatt]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.084137,
+    50.249245,
+    16.332422,
+    50.375168
+  ],
+  "reviewed": null,
+  "publisher": "Reichsamt für Landesaufnahme",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:f0fd00c0-7952-11ec-84dc-fa163e4ea95f",
+  "id": "b3b85023-d8d2-5307-9204-2af5aefde278",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        41,
+        369
+      ],
+      [
+        508,
+        368
+      ],
+      [
+        506,
+        47
+      ],
+      [
+        41,
+        48
+      ],
+      [
+        41,
+        369
+      ]
+    ],
+    "created": "2015-01-20T01:41:20.707390+00:00",
+    "transformation_method": "affine",
+    "mapID": "b3b85023-d8d2-5307-9204-2af5aefde278",
+    "affine_transformation": null,
+    "changed": "2015-01-20T01:41:20.707390+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.191637122,
+          50.29975845
+        ],
+        "pixel": [
+          245,
+          240
+        ]
+      },
+      {
+        "location": [
+          16.181165778,
+          50.310996485
+        ],
+        "pixel": [
+          223,
+          210
+        ]
+      },
+      {
+        "location": [
+          16.163098418,
+          50.293151439
+        ],
+        "pixel": [
+          186,
+          258
+        ]
+      },
+      {
+        "location": [
+          16.115902268,
+          50.267646902
+        ],
+        "pixel": [
+          102,
+          321
+        ]
+      },
+      {
+        "location": [
+          16.157036625,
+          50.340353593
+        ],
+        "pixel": [
+          178,
+          135
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1940"]
+}

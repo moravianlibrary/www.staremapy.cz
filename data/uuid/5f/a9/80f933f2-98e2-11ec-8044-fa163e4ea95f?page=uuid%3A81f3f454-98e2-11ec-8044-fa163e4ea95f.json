@@ -1,0 +1,111 @@
+{
+  "date": ["1853"],
+  "creator": "Kozler, Peter",
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:80f933f2-98e2-11ec-8044-fa163e4ea95f?page=uuid%3A81f3f454-98e2-11ec-8044-fa163e4ea95f",
+  "description": "Slovinsko",
+  "scale": 576000,
+  "external_id": "1289161",
+  "title": "Zemljovid Slovenske dežele in pokrajin",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Knorr, Anton",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.024301,
+    43.935387,
+    16.923445,
+    47.5403
+  ],
+  "reviewed": null,
+  "publisher": "Peter Kozler",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:80f933f2-98e2-11ec-8044-fa163e4ea95f",
+  "id": "88c87385-8b51-563d-9ef1-e5191086461b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:40:38.632730+00:00",
+    "transformation_method": "affine",
+    "mapID": "88c87385-8b51-563d-9ef1-e5191086461b",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:40:38.632730+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.997328438,
+          46.684564852
+        ],
+        "pixel": [
+          488,
+          108
+        ]
+      },
+      {
+        "location": [
+          14.510076758,
+          46.057964919
+        ],
+        "pixel": [
+          306,
+          185
+        ]
+      },
+      {
+        "location": [
+          13.784979102,
+          45.648587908
+        ],
+        "pixel": [
+          213,
+          236
+        ]
+      },
+      {
+        "location": [
+          13.8555301,
+          46.607873689
+        ],
+        "pixel": [
+          225,
+          117
+        ]
+      },
+      {
+        "location": [
+          14.444158789,
+          45.32509605
+        ],
+        "pixel": [
+          297,
+          276
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1853"]
+}

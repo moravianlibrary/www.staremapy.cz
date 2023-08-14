@@ -1,0 +1,111 @@
+{
+  "date": ["1925"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:9dae3b78-851e-11ec-8f60-fa163e4ea95f?page=uuid%3A9e789968-851e-11ec-8f60-fa163e4ea95f",
+  "description": "Polsko",
+  "scale": 75000,
+  "external_id": "1181815",
+  "title": "Ruská a Dydiowa",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    22.321447,
+    49.00238,
+    22.832136,
+    49.2483
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:9dae3b78-851e-11ec-8f60-fa163e4ea95f",
+  "id": "415fca48-fc60-594d-ae1c-74529061d062",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        51,
+        394
+      ],
+      [
+        554,
+        394
+      ],
+      [
+        555,
+        42
+      ],
+      [
+        53,
+        43
+      ],
+      [
+        51,
+        394
+      ]
+    ],
+    "created": "2015-01-17T13:06:25.663830+00:00",
+    "transformation_method": "affine",
+    "mapID": "415fca48-fc60-594d-ae1c-74529061d062",
+    "affine_transformation": null,
+    "changed": "2015-01-17T13:06:25.663830+00:00",
+    "gcps": [
+      {
+        "location": [
+          22.776352119,
+          49.213174258
+        ],
+        "pixel": [
+          499,
+          92
+        ]
+      },
+      {
+        "location": [
+          22.359125157,
+          49.224455553
+        ],
+        "pixel": [
+          81,
+          76
+        ]
+      },
+      {
+        "location": [
+          22.416073819,
+          49.186463151
+        ],
+        "pixel": [
+          139,
+          130
+        ]
+      },
+      {
+        "location": [
+          22.683693906,
+          49.064016407
+        ],
+        "pixel": [
+          420,
+          309
+        ]
+      },
+      {
+        "location": [
+          22.530743619,
+          49.093251348
+        ],
+        "pixel": [
+          251,
+          262
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1925"]
+}

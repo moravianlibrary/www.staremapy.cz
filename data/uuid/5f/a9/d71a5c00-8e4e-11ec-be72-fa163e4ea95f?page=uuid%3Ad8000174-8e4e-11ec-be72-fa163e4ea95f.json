@@ -1,0 +1,121 @@
+{
+  "date": ["1873"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:d71a5c00-8e4e-11ec-be72-fa163e4ea95f?page=uuid%3Ad8000174-8e4e-11ec-be72-fa163e4ea95f",
+  "description": "Oděsa (Ukrajina : oblast)",
+  "scale": 300000,
+  "external_id": "1208205",
+  "title": "Odessa",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    28.403301,
+    45.72792,
+    30.967287,
+    47.22122
+  ],
+  "reviewed": null,
+  "publisher": "Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:d71a5c00-8e4e-11ec-be72-fa163e4ea95f",
+  "id": "f7a42471-2514-51b8-b3f0-36081c4c216a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T15:54:37.841560+00:00",
+    "transformation_method": "affine",
+    "mapID": "f7a42471-2514-51b8-b3f0-36081c4c216a",
+    "affine_transformation": null,
+    "changed": "2015-11-05T15:54:37.841560+00:00",
+    "gcps": [
+      {
+        "location": [
+          28.654113073,
+          46.302382533
+        ],
+        "pixel": [
+          44,
+          326
+        ]
+      },
+      {
+        "location": [
+          29.615236877,
+          46.840665127
+        ],
+        "pixel": [
+          261,
+          99
+        ]
+      },
+      {
+        "location": [
+          30.350376724,
+          46.19999461
+        ],
+        "pixel": [
+          486,
+          293
+        ]
+      },
+      {
+        "location": [
+          30.726572632,
+          46.474006596
+        ],
+        "pixel": [
+          566,
+          180
+        ]
+      },
+      {
+        "location": [
+          28.840828954,
+          47.041589892
+        ],
+        "pixel": [
+          53,
+          56
+        ]
+      },
+      {
+        "location": [
+          30.087477325,
+          45.871028751
+        ],
+        "pixel": [
+          441,
+          417
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1873"]
+}

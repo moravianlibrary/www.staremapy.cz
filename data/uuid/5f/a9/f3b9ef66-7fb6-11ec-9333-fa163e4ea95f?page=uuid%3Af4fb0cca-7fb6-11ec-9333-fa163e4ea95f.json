@@ -1,0 +1,121 @@
+{
+  "date": ["1883"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:f3b9ef66-7fb6-11ec-9333-fa163e4ea95f?page=uuid%3Af4fb0cca-7fb6-11ec-9333-fa163e4ea95f",
+  "description": "Súdán",
+  "scale": 2253080,
+  "external_id": "1173236",
+  "title": "Map of the egyptian Sudan",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    24.223295,
+    1.4331791,
+    38.236687,
+    20.083462
+  ],
+  "reviewed": null,
+  "publisher": "Intelligence branch, War Office",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:f3b9ef66-7fb6-11ec-9333-fa163e4ea95f",
+  "id": "7fbda740-3903-5eb9-9f0f-61670ee96503",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        5,
+        439
+      ],
+      [
+        600,
+        439
+      ],
+      [
+        600,
+        5
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        5,
+        439
+      ]
+    ],
+    "created": "2017-02-07T21:46:53.414680+00:00",
+    "transformation_method": "affine",
+    "mapID": "7fbda740-3903-5eb9-9f0f-61670ee96503",
+    "affine_transformation": null,
+    "changed": "2017-02-07T21:46:53.414680+00:00",
+    "gcps": [
+      {
+        "location": [
+          31.554115215,
+          4.848712625
+        ],
+        "pixel": [
+          319,
+          362
+        ]
+      },
+      {
+        "location": [
+          25.350730273,
+          13.624453503
+        ],
+        "pixel": [
+          43,
+          158
+        ]
+      },
+      {
+        "location": [
+          33.442160938,
+          16.662328855
+        ],
+        "pixel": [
+          395,
+          86
+        ]
+      },
+      {
+        "location": [
+          37.329333465,
+          19.119433955
+        ],
+        "pixel": [
+          556,
+          29
+        ]
+      },
+      {
+        "location": [
+          37.465496134,
+          12.609810767
+        ],
+        "pixel": [
+          570,
+          182
+        ]
+      },
+      {
+        "location": [
+          32.563254688,
+          15.490560446
+        ],
+        "pixel": [
+          370,
+          114
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1883"]
+}

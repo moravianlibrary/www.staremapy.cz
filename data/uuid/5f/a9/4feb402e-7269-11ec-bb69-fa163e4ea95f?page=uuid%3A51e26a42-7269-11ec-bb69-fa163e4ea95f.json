@@ -1,0 +1,101 @@
+{
+  "date": ["1937"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:4feb402e-7269-11ec-bb69-fa163e4ea95f?page=uuid%3A51e26a42-7269-11ec-bb69-fa163e4ea95f",
+  "description": "Slovensko",
+  "scale": 75000,
+  "external_id": "1119050",
+  "title": "Ulič",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    22.258978,
+    48.706093,
+    22.890535,
+    49.026394
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:4feb402e-7269-11ec-bb69-fa163e4ea95f",
+  "id": "6879581d-0b5a-515f-90da-2545ec863cab",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        546,
+        39
+      ],
+      [
+        548,
+        383
+      ],
+      [
+        67,
+        383
+      ],
+      [
+        67,
+        40
+      ],
+      [
+        546,
+        39
+      ]
+    ],
+    "created": "2014-08-19T13:33:52.487130+00:00",
+    "transformation_method": "affine",
+    "mapID": "6879581d-0b5a-515f-90da-2545ec863cab",
+    "affine_transformation": null,
+    "changed": "2014-08-19T13:33:52.487130+00:00",
+    "gcps": [
+      {
+        "location": [
+          22.81399117325735,
+          48.78765161144278
+        ],
+        "pixel": [
+          530,
+          330
+        ]
+      },
+      {
+        "location": [
+          22.497774591811638,
+          48.770313585483336
+        ],
+        "pixel": [
+          227,
+          355
+        ]
+      },
+      {
+        "location": [
+          22.721293513671878,
+          48.916273009646005
+        ],
+        "pixel": [
+          439,
+          153
+        ]
+      },
+      {
+        "location": [
+          22.4583107790408,
+          48.90770848458595
+        ],
+        "pixel": [
+          189,
+          164
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1937"]
+}

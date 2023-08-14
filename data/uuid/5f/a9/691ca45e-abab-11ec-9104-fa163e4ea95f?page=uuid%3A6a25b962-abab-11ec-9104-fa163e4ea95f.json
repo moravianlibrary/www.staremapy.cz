@@ -1,0 +1,111 @@
+{
+  "date": ["1924"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:691ca45e-abab-11ec-9104-fa163e4ea95f?page=uuid%3A6a25b962-abab-11ec-9104-fa163e4ea95f",
+  "description": "Egypt",
+  "scale": 100000,
+  "external_id": "1367707",
+  "title": "Egypt 1:100,000",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    30.50092,
+    28.203775,
+    31.001394,
+    28.59844
+  ],
+  "reviewed": null,
+  "publisher": "War Office",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:691ca45e-abab-11ec-9104-fa163e4ea95f",
+  "id": "544637e1-7fc6-55bb-83e2-001006eec2a8",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        510,
+        54
+      ],
+      [
+        512,
+        342
+      ],
+      [
+        59,
+        342
+      ],
+      [
+        62,
+        53
+      ],
+      [
+        510,
+        54
+      ]
+    ],
+    "created": "2015-11-05T17:43:34.950910+00:00",
+    "transformation_method": "affine",
+    "mapID": "544637e1-7fc6-55bb-83e2-001006eec2a8",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:43:34.950910+00:00",
+    "gcps": [
+      {
+        "location": [
+          30.731398339889605,
+          28.34686180121571
+        ],
+        "pixel": [
+          268,
+          238
+        ]
+      },
+      {
+        "location": [
+          30.80144110251903,
+          28.493055615067036
+        ],
+        "pixel": [
+          331,
+          131
+        ]
+      },
+      {
+        "location": [
+          30.69137764,
+          28.571662704
+        ],
+        "pixel": [
+          230,
+          73
+        ]
+      },
+      {
+        "location": [
+          30.728971481,
+          28.269945656
+        ],
+        "pixel": [
+          265,
+          294
+        ]
+      },
+      {
+        "location": [
+          30.660980224278912,
+          28.5334180580615
+        ],
+        "pixel": [
+          204,
+          101
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1924"]
+}

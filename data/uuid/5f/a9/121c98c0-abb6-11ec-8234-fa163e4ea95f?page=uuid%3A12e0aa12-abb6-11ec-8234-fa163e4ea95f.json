@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:121c98c0-abb6-11ec-8234-fa163e4ea95f?page=uuid%3A12e0aa12-abb6-11ec-8234-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1368406",
+  "title": "Nowy Dwór",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Nowicki",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    24.206648,
+    53.7018,
+    24.945995,
+    54.02613
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:121c98c0-abb6-11ec-8234-fa163e4ea95f",
+  "id": "6c1658e7-4c1f-5c5b-9c0a-09c3a4d4c1cf",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:44:05.496200+00:00",
+    "transformation_method": "affine",
+    "mapID": "6c1658e7-4c1f-5c5b-9c0a-09c3a4d4c1cf",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:44:05.496200+00:00",
+    "gcps": [
+      {
+        "location": [
+          24.370713332,
+          53.951625089
+        ],
+        "pixel": [
+          133,
+          101
+        ]
+      },
+      {
+        "location": [
+          24.559936993,
+          53.814216039
+        ],
+        "pixel": [
+          287,
+          290
+        ]
+      },
+      {
+        "location": [
+          24.768617135,
+          53.787143386
+        ],
+        "pixel": [
+          456,
+          327
+        ]
+      },
+      {
+        "location": [
+          24.397888654,
+          53.860380766
+        ],
+        "pixel": [
+          155,
+          227
+        ]
+      },
+      {
+        "location": [
+          24.787388318,
+          53.921029025
+        ],
+        "pixel": [
+          471,
+          144
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

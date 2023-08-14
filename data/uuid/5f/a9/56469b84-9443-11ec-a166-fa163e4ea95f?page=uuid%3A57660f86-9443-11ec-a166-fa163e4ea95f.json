@@ -1,0 +1,111 @@
+{
+  "date": ["1938"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:56469b84-9443-11ec-a166-fa163e4ea95f?page=uuid%3A57660f86-9443-11ec-a166-fa163e4ea95f",
+  "description": "Olomouc (Česko : oblast)",
+  "scale": 200000,
+  "external_id": "1254113",
+  "title": "35°50° Olomouc",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.82744,
+    49.49581,
+    17.836458,
+    50.50039
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:56469b84-9443-11ec-a166-fa163e4ea95f",
+  "id": "a7fb9dfe-bae0-56ea-a366-066423eea590",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        65,
+        399
+      ],
+      [
+        531,
+        399
+      ],
+      [
+        520,
+        31
+      ],
+      [
+        64,
+        31
+      ],
+      [
+        65,
+        399
+      ]
+    ],
+    "created": "2017-11-22T06:32:23.756880+00:00",
+    "transformation_method": "affine",
+    "mapID": "a7fb9dfe-bae0-56ea-a366-066423eea590",
+    "affine_transformation": null,
+    "changed": "2017-11-22T06:32:23.756880+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.451352692,
+          49.795692936
+        ],
+        "pixel": [
+          352,
+          290
+        ]
+      },
+      {
+        "location": [
+          16.993789291,
+          50.405776221
+        ],
+        "pixel": [
+          137,
+          66
+        ]
+      },
+      {
+        "location": [
+          17.142313935,
+          49.59804656
+        ],
+        "pixel": [
+          209,
+          364
+        ]
+      },
+      {
+        "location": [
+          17.413841361,
+          49.582313726
+        ],
+        "pixel": [
+          336,
+          369
+        ]
+      },
+      {
+        "location": [
+          17.702836609,
+          50.281572808
+        ],
+        "pixel": [
+          464,
+          110
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1938"]
+}

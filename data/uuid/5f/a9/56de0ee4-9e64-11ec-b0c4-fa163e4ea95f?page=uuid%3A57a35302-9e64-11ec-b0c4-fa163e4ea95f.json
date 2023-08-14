@@ -1,0 +1,111 @@
+{
+  "date": ["1885"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:56de0ee4-9e64-11ec-b0c4-fa163e4ea95f?page=uuid%3A57a35302-9e64-11ec-b0c4-fa163e4ea95f",
+  "description": null,
+  "scale": 75000,
+  "external_id": "1305781",
+  "title": "Krems",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.276371,
+    48.258972,
+    15.928006,
+    48.49583
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:56de0ee4-9e64-11ec-b0c4-fa163e4ea95f",
+  "id": "ecb253db-1859-594b-9c2d-a9570d0f82df",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        39,
+        389
+      ],
+      [
+        564,
+        389
+      ],
+      [
+        561,
+        29
+      ],
+      [
+        39,
+        28
+      ],
+      [
+        39,
+        389
+      ]
+    ],
+    "created": "2016-11-24T12:20:39.420750+00:00",
+    "transformation_method": "affine",
+    "mapID": "ecb253db-1859-594b-9c2d-a9570d0f82df",
+    "affine_transformation": null,
+    "changed": "2016-11-24T12:20:39.420750+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.62492725,
+          48.407419088
+        ],
+        "pixel": [
+          291,
+          171
+        ]
+      },
+      {
+        "location": [
+          15.624412266,
+          48.444098996
+        ],
+        "pixel": [
+          321,
+          98
+        ]
+      },
+      {
+        "location": [
+          15.514892308,
+          48.399441692
+        ],
+        "pixel": [
+          229,
+          176
+        ]
+      },
+      {
+        "location": [
+          15.561069218,
+          48.379492728
+        ],
+        "pixel": [
+          276,
+          201
+        ]
+      },
+      {
+        "location": [
+          15.575928656,
+          48.396841645
+        ],
+        "pixel": [
+          292,
+          175
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1885"]
+}

@@ -1,0 +1,115 @@
+{
+  "date": ["1904"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:eb544b10-b106-11ec-a148-fa163e4ea95f?page=uuid%3Aec9f4196-b106-11ec-a148-fa163e4ea95f",
+  "description": "Nevada",
+  "scale": 12000,
+  "external_id": "1375184",
+  "title": "Nevada",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": true,
+  "contributor": "Goode, R. U.",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -117.260864,
+    38.03958,
+    -117.19461,
+    38.095478
+  ],
+  "reviewed": null,
+  "publisher": "U. S. Geological Survey",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:eb544b10-b106-11ec-a148-fa163e4ea95f",
+  "id": "65c0687c-87b0-577d-857a-5c0edd150201",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        88,
+        40
+      ],
+      [
+        514,
+        40
+      ],
+      [
+        514,
+        385
+      ],
+      [
+        88,
+        385
+      ],
+      [
+        88,
+        88
+      ],
+      [
+        88,
+        40
+      ]
+    ],
+    "created": "2016-04-10T08:32:27.058540+00:00",
+    "transformation_method": "affine",
+    "mapID": "65c0687c-87b0-577d-857a-5c0edd150201",
+    "affine_transformation": null,
+    "changed": "2016-04-10T08:32:27.058540+00:00",
+    "gcps": [
+      {
+        "location": [
+          -117.249037392,
+          38.054935905
+        ],
+        "pixel": [
+          225,
+          371
+        ]
+      },
+      {
+        "location": [
+          -117.239574558,
+          38.065157393
+        ],
+        "pixel": [
+          225,
+          271
+        ]
+      },
+      {
+        "location": [
+          -117.22232259,
+          38.072793012
+        ],
+        "pixel": [
+          309,
+          159
+        ]
+      },
+      {
+        "location": [
+          -117.229446537,
+          38.067049479
+        ],
+        "pixel": [
+          284,
+          224
+        ]
+      },
+      {
+        "location": [
+          -117.232622272,
+          38.050154124
+        ],
+        "pixel": [
+          397,
+          337
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1904"]
+}

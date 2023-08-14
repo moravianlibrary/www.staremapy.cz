@@ -1,0 +1,121 @@
+{
+  "date": ["1942"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:f0f1a1f0-8512-11ec-a95c-fa163e4ea95f?page=uuid%3Af1f3853c-8512-11ec-a95c-fa163e4ea95f",
+  "description": "Milevsko (Česko : oblast)",
+  "scale": 25000,
+  "external_id": "1181466",
+  "title": "Tabor",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.334062,
+    49.436275,
+    14.458055,
+    49.49934
+  ],
+  "reviewed": null,
+  "publisher": "vom Geographischen Institut des Ministeriums des Innern",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:f0f1a1f0-8512-11ec-a95c-fa163e4ea95f",
+  "id": "b46f801a-458d-5798-bfca-6b4f9f36c98b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        48,
+        401
+      ],
+      [
+        519,
+        400
+      ],
+      [
+        519,
+        57
+      ],
+      [
+        49,
+        58
+      ],
+      [
+        48,
+        401
+      ]
+    ],
+    "created": "2014-12-06T00:50:40.572860+00:00",
+    "transformation_method": "affine",
+    "mapID": "b46f801a-458d-5798-bfca-6b4f9f36c98b",
+    "affine_transformation": null,
+    "changed": "2014-12-06T00:50:40.572860+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.335039394,
+          49.490518599
+        ],
+        "pixel": [
+          53,
+          105
+        ]
+      },
+      {
+        "location": [
+          14.429812567,
+          49.490062117
+        ],
+        "pixel": [
+          413,
+          108
+        ]
+      },
+      {
+        "location": [
+          14.359308021,
+          49.449571542
+        ],
+        "pixel": [
+          144,
+          329
+        ]
+      },
+      {
+        "location": [
+          14.422994392,
+          49.448113746
+        ],
+        "pixel": [
+          386,
+          337
+        ]
+      },
+      {
+        "location": [
+          14.445787804,
+          49.450474796
+        ],
+        "pixel": [
+          473,
+          322
+        ]
+      },
+      {
+        "location": [
+          14.398940342,
+          49.490462846
+        ],
+        "pixel": [
+          295,
+          106
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1942"]
+}

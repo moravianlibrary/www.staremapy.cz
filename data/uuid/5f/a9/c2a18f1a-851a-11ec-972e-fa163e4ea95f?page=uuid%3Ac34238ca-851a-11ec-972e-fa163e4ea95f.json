@@ -1,0 +1,101 @@
+{
+  "date": ["1757"],
+  "creator": "Bellin, Jacques-Nicolas",
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:c2a18f1a-851a-11ec-972e-fa163e4ea95f?page=uuid%3Ac34238ca-851a-11ec-972e-fa163e4ea95f",
+  "description": "La Plata (Argentina a Uruguay : oblast)",
+  "scale": 1770000,
+  "external_id": "1181697",
+  "title": "CARTE DE LA RIVIERE DE LA PLATA",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -62.36985,
+    -37.920486,
+    -52.305573,
+    -32.766262
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:c2a18f1a-851a-11ec-972e-fa163e4ea95f",
+  "id": "f02716ab-8611-5bde-8da3-254f542a9489",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2014-08-19T15:49:04.097490+00:00",
+    "transformation_method": "affine",
+    "mapID": "f02716ab-8611-5bde-8da3-254f542a9489",
+    "affine_transformation": null,
+    "changed": "2014-08-19T15:49:04.097490+00:00",
+    "gcps": [
+      {
+        "location": [
+          -54.926,
+          -34.948822046
+        ],
+        "pixel": [
+          479,
+          194
+        ]
+      },
+      {
+        "location": [
+          -58.391381861,
+          -34.582492981
+        ],
+        "pixel": [
+          211,
+          170
+        ]
+      },
+      {
+        "location": [
+          -57.13354385,
+          -35.41731231
+        ],
+        "pixel": [
+          305,
+          211
+        ]
+      },
+      {
+        "location": [
+          -56.219640137,
+          -34.907725992
+        ],
+        "pixel": [
+          353,
+          160
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1757"]
+}

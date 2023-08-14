@@ -1,0 +1,121 @@
+{
+  "date": ["1810"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:0bd99842-4896-11ec-bc42-fa163e4ea95f?page=uuid%3A0c85304e-4896-11ec-bc42-fa163e4ea95f",
+  "description": "Káhira (Egypt)",
+  "scale": 19000,
+  "external_id": "853949",
+  "title": "Plan von Kahira",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Niebuhr, Carsten",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    31.204758,
+    29.929893,
+    31.240389,
+    30.108158
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:0bd99842-4896-11ec-bc42-fa163e4ea95f",
+  "id": "189415c7-35a0-570d-afac-1aedde1db11a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2012-08-23T12:42:37.420100+00:00",
+    "transformation_method": "affine",
+    "mapID": "189415c7-35a0-570d-afac-1aedde1db11a",
+    "affine_transformation": null,
+    "changed": "2012-08-23T12:42:37.420100+00:00",
+    "gcps": [
+      {
+        "location": [
+          31.233946899,
+          29.965911754
+        ],
+        "pixel": [
+          527,
+          206
+        ]
+      },
+      {
+        "location": [
+          31.220385651,
+          30.009475445
+        ],
+        "pixel": [
+          262,
+          360
+        ]
+      },
+      {
+        "location": [
+          31.224934677,
+          30.007097034
+        ],
+        "pixel": [
+          347,
+          263
+        ]
+      },
+      {
+        "location": [
+          31.23403273,
+          29.970967906
+        ],
+        "pixel": [
+          527,
+          239
+        ]
+      },
+      {
+        "location": [
+          31.22407637,
+          30.001522409
+        ],
+        "pixel": [
+          359,
+          260
+        ]
+      },
+      {
+        "location": [
+          31.219184021,
+          29.993791745
+        ],
+        "pixel": [
+          400,
+          283
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1810"]
+}

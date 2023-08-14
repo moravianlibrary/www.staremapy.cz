@@ -1,0 +1,111 @@
+{
+  "date": ["1945"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:1016fa28-b4ff-11ec-af6d-fa163e4ea95f?page=uuid%3A10c7f666-b4ff-11ec-af6d-fa163e4ea95f",
+  "description": "Slovensko",
+  "scale": 750000,
+  "external_id": "1390257",
+  "title": "Užhorod",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    18.583664,
+    47.79879,
+    23.865808,
+    50.73382
+  ],
+  "reviewed": null,
+  "publisher": "Zeměměřičský úřad",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:1016fa28-b4ff-11ec-af6d-fa163e4ea95f",
+  "id": "d89fb597-3a9d-55b6-bd55-1a668cef34de",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2016-01-08T13:42:44.332060+00:00",
+    "transformation_method": "affine",
+    "mapID": "d89fb597-3a9d-55b6-bd55-1a668cef34de",
+    "affine_transformation": null,
+    "changed": "2016-01-08T13:42:44.332060+00:00",
+    "gcps": [
+      {
+        "location": [
+          19.663557819,
+          48.330017485
+        ],
+        "pixel": [
+          121,
+          381
+        ]
+      },
+      {
+        "location": [
+          22.679991534,
+          50.015802589
+        ],
+        "pixel": [
+          463,
+          97
+        ]
+      },
+      {
+        "location": [
+          22.644800952,
+          48.204895055
+        ],
+        "pixel": [
+          481,
+          385
+        ]
+      },
+      {
+        "location": [
+          19.403834155,
+          50.139736113
+        ],
+        "pixel": [
+          80,
+          92
+        ]
+      },
+      {
+        "location": [
+          21.424393085,
+          50.289444233
+        ],
+        "pixel": [
+          313,
+          62
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1945"]
+}

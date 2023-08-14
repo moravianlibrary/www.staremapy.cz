@@ -1,0 +1,111 @@
+{
+  "date": ["1940"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:1c16e64c-9f76-11ec-8d9a-fa163e4ea95f?page=uuid%3A1cf0a3c8-9f76-11ec-8d9a-fa163e4ea95f",
+  "description": "Bělorusko",
+  "scale": 100000,
+  "external_id": "1332993",
+  "title": "Belorusskaja SSR",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    26.437712,
+    53.56314,
+    27.08256,
+    54.05695
+  ],
+  "reviewed": null,
+  "publisher": "General'nyj štab RKKA",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:1c16e64c-9f76-11ec-8d9a-fa163e4ea95f",
+  "id": "a75dec7c-1ecb-5560-b7ff-53ed199ab3f8",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:11:13.504110+00:00",
+    "transformation_method": "affine",
+    "mapID": "a75dec7c-1ecb-5560-b7ff-53ed199ab3f8",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:11:13.504110+00:00",
+    "gcps": [
+      {
+        "location": [
+          26.861408234,
+          53.688885646
+        ],
+        "pixel": [
+          395,
+          331
+        ]
+      },
+      {
+        "location": [
+          26.733413219,
+          53.889209246
+        ],
+        "pixel": [
+          276,
+          151
+        ]
+      },
+      {
+        "location": [
+          26.562938249,
+          53.698829873
+        ],
+        "pixel": [
+          116,
+          322
+        ]
+      },
+      {
+        "location": [
+          26.894288555,
+          53.961679024
+        ],
+        "pixel": [
+          424,
+          86
+        ]
+      },
+      {
+        "location": [
+          26.955864906,
+          53.868173579
+        ],
+        "pixel": [
+          482,
+          170
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1940"]
+}

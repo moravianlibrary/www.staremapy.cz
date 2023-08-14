@@ -1,0 +1,111 @@
+{
+  "date": ["1890"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:c418e64a-9456-11ec-990f-fa163e4ea95f?page=uuid%3Ac4dcfb70-9456-11ec-990f-fa163e4ea95f",
+  "description": "Chmel'nyc'kyj (Ukrajina)",
+  "scale": 200000,
+  "external_id": "1254662",
+  "title": "45°49° Proskurow",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    26.615746,
+    48.356506,
+    28.034811,
+    49.64066
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:c418e64a-9456-11ec-990f-fa163e4ea95f",
+  "id": "d6ddf577-c7cf-5b72-bc16-61768f4271b3",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        516,
+        47
+      ],
+      [
+        522,
+        395
+      ],
+      [
+        94,
+        395
+      ],
+      [
+        94,
+        47
+      ],
+      [
+        516,
+        47
+      ]
+    ],
+    "created": "2015-11-05T16:14:29.461780+00:00",
+    "transformation_method": "affine",
+    "mapID": "d6ddf577-c7cf-5b72-bc16-61768f4271b3",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:14:29.461780+00:00",
+    "gcps": [
+      {
+        "location": [
+          27.6515168732021,
+          49.4020757139794
+        ],
+        "pixel": [
+          437,
+          82
+        ]
+      },
+      {
+        "location": [
+          26.890547468348732,
+          49.00628279910558
+        ],
+        "pixel": [
+          116,
+          221
+        ]
+      },
+      {
+        "location": [
+          26.97439124557507,
+          49.41691703916217
+        ],
+        "pixel": [
+          150,
+          77
+        ]
+      },
+      {
+        "location": [
+          27.689702679664013,
+          48.73241348995484
+        ],
+        "pixel": [
+          457,
+          314
+        ]
+      },
+      {
+        "location": [
+          27.176531199970874,
+          48.5280343364781
+        ],
+        "pixel": [
+          236,
+          385
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1890"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": ["1898"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:c4bf0b6e-9e39-11ec-abf7-fa163e4ea95f?page=uuid%3Ac5798e3a-9e39-11ec-abf7-fa163e4ea95f",
+  "description": null,
+  "scale": 200000,
+  "external_id": "1304581",
+  "title": "34°45° Kostajnica",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.792713,
+    44.47245,
+    16.870613,
+    45.526047
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:c4bf0b6e-9e39-11ec-abf7-fa163e4ea95f",
+  "id": "ef1d6ebd-ca2f-5967-becd-7867e1f4227f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:51:01.628630+00:00",
+    "transformation_method": "affine",
+    "mapID": "ef1d6ebd-ca2f-5967-becd-7867e1f4227f",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:51:01.628630+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.549323492,
+          45.222510007
+        ],
+        "pixel": [
+          419,
+          127
+        ]
+      },
+      {
+        "location": [
+          16.774246775,
+          45.483395609
+        ],
+        "pixel": [
+          546,
+          18
+        ]
+      },
+      {
+        "location": [
+          16.665795737,
+          44.764910498
+        ],
+        "pixel": [
+          489,
+          322
+        ]
+      },
+      {
+        "location": [
+          15.991860307,
+          45.48532718
+        ],
+        "pixel": [
+          110,
+          18
+        ]
+      },
+      {
+        "location": [
+          16.147893362,
+          44.88051959
+        ],
+        "pixel": [
+          196,
+          272
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1898"]
+}

@@ -1,0 +1,121 @@
+{
+  "date": ["1892"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:b78e3790-4d70-11ec-a5aa-fa163e4ea95f?page=uuid%3Ab85a3458-4d70-11ec-a5aa-fa163e4ea95f",
+  "description": "Místo (Chomutov, Česko)",
+  "scale": 2880,
+  "external_id": "1041375",
+  "title": "Situation der Burgruine Hassenstein",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.251349,
+    50.43588,
+    13.270154,
+    50.452297
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:b78e3790-4d70-11ec-a5aa-fa163e4ea95f",
+  "id": "35939315-efaf-5069-9037-8b7570fb6b43",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2014-08-19T10:07:44.338240+00:00",
+    "transformation_method": "affine",
+    "mapID": "35939315-efaf-5069-9037-8b7570fb6b43",
+    "affine_transformation": null,
+    "changed": "2014-08-19T10:07:44.338240+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.262816817,
+          50.447880285
+        ],
+        "pixel": [
+          364,
+          119
+        ]
+      },
+      {
+        "location": [
+          13.261033715,
+          50.43947749
+        ],
+        "pixel": [
+          316,
+          349
+        ]
+      },
+      {
+        "location": [
+          13.257066161,
+          50.445161108
+        ],
+        "pixel": [
+          185,
+          189
+        ]
+      },
+      {
+        "location": [
+          13.267163285,
+          50.447013597
+        ],
+        "pixel": [
+          507,
+          144
+        ]
+      },
+      {
+        "location": [
+          13.261666716,
+          50.440618607
+        ],
+        "pixel": [
+          325,
+          317
+        ]
+      },
+      {
+        "location": [
+          13.257339747,
+          50.448136481
+        ],
+        "pixel": [
+          185,
+          109
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1892"]
+}

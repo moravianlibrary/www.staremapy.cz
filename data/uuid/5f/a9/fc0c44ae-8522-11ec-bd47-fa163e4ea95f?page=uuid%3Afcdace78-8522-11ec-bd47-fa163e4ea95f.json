@@ -1,0 +1,111 @@
+{
+  "date": ["1925"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:fc0c44ae-8522-11ec-bd47-fa163e4ea95f?page=uuid%3Afcdace78-8522-11ec-bd47-fa163e4ea95f",
+  "description": "Dunajská Streda (Slovensko : oblast)",
+  "scale": 75000,
+  "external_id": "1181944",
+  "title": "Dun. Streda a Hédervár",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    17.285753,
+    47.714794,
+    17.875269,
+    48.02906
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:fc0c44ae-8522-11ec-bd47-fa163e4ea95f",
+  "id": "16007434-dc88-52e7-a199-2649a0949ab2",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2014-08-19T15:49:52.500690+00:00",
+    "transformation_method": "affine",
+    "mapID": "16007434-dc88-52e7-a199-2649a0949ab2",
+    "affine_transformation": null,
+    "changed": "2014-08-19T15:49:52.500690+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.59744857913177,
+          47.944435115239116
+        ],
+        "pixel": [
+          317,
+          119
+        ]
+      },
+      {
+        "location": [
+          17.72311084675856,
+          47.934123559630876
+        ],
+        "pixel": [
+          447,
+          134
+        ]
+      },
+      {
+        "location": [
+          17.777895177706977,
+          47.77562758555948
+        ],
+        "pixel": [
+          501,
+          359
+        ]
+      },
+      {
+        "location": [
+          17.808592092689793,
+          47.78318647126943
+        ],
+        "pixel": [
+          532,
+          347
+        ]
+      },
+      {
+        "location": [
+          17.575651879329264,
+          47.891638925981994
+        ],
+        "pixel": [
+          296,
+          194
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1925"]
+}

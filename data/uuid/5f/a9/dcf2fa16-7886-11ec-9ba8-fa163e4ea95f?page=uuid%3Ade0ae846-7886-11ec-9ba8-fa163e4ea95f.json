@@ -1,0 +1,141 @@
+{
+  "date": ["1940"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:dcf2fa16-7886-11ec-9ba8-fa163e4ea95f?page=uuid%3Ade0ae846-7886-11ec-9ba8-fa163e4ea95f",
+  "description": "Teplá (Cheb, Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1130662",
+  "title": "Město Teplá",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.833581,
+    49.749195,
+    13.333446,
+    49.999752
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:dcf2fa16-7886-11ec-9ba8-fa163e4ea95f",
+  "id": "c9ec6798-deb3-5f3d-ad87-039b594005e8",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        77,
+        386
+      ],
+      [
+        526,
+        386
+      ],
+      [
+        528,
+        44
+      ],
+      [
+        80,
+        43
+      ],
+      [
+        77,
+        386
+      ]
+    ],
+    "created": "2015-02-24T15:21:06.743770+00:00",
+    "transformation_method": "affine",
+    "mapID": "c9ec6798-deb3-5f3d-ad87-039b594005e8",
+    "affine_transformation": null,
+    "changed": "2015-02-24T15:21:06.743770+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.0845544,
+          49.802259603
+        ],
+        "pixel": [
+          305,
+          314
+        ]
+      },
+      {
+        "location": [
+          12.949220862,
+          49.771933834
+        ],
+        "pixel": [
+          180,
+          356
+        ]
+      },
+      {
+        "location": [
+          12.88295957,
+          49.815982387
+        ],
+        "pixel": [
+          122,
+          294
+        ]
+      },
+      {
+        "location": [
+          12.95402738,
+          49.981842628
+        ],
+        "pixel": [
+          187,
+          67
+        ]
+      },
+      {
+        "location": [
+          12.870170798,
+          49.976599127
+        ],
+        "pixel": [
+          112,
+          75
+        ]
+      },
+      {
+        "location": [
+          12.869054999,
+          49.843167205
+        ],
+        "pixel": [
+          108,
+          258
+        ]
+      },
+      {
+        "location": [
+          13.00297233,
+          49.939340028
+        ],
+        "pixel": [
+          231,
+          127
+        ]
+      },
+      {
+        "location": [
+          13.235380377,
+          49.992548633
+        ],
+        "pixel": [
+          438,
+          53
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1940"]
+}

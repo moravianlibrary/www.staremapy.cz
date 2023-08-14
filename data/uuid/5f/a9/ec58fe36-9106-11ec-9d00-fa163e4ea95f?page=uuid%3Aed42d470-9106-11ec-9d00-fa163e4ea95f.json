@@ -1,0 +1,111 @@
+{
+  "date": ["1937"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:ec58fe36-9106-11ec-9d00-fa163e4ea95f?page=uuid%3Aed42d470-9106-11ec-9d00-fa163e4ea95f",
+  "description": "Turnov (Česko : oblast)",
+  "scale": 200000,
+  "external_id": "1241836",
+  "title": "33°51° Turnov",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.848638,
+    50.49896,
+    15.812663,
+    51.502655
+  ],
+  "reviewed": null,
+  "publisher": "Zeměpisný ústav Ministerstva vnitra",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:ec58fe36-9106-11ec-9d00-fa163e4ea95f",
+  "id": "49f5266d-8d62-5fb7-b925-a2d00f15abb7",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        76,
+        398
+      ],
+      [
+        527,
+        398
+      ],
+      [
+        527,
+        27
+      ],
+      [
+        76,
+        27
+      ],
+      [
+        76,
+        398
+      ]
+    ],
+    "created": "2016-12-17T19:37:31.661500+00:00",
+    "transformation_method": "affine",
+    "mapID": "49f5266d-8d62-5fb7-b925-a2d00f15abb7",
+    "affine_transformation": null,
+    "changed": "2016-12-17T19:37:31.661500+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.408563071,
+          50.663946296
+        ],
+        "pixel": [
+          338,
+          338
+        ]
+      },
+      {
+        "location": [
+          15.254411154,
+          50.642179133
+        ],
+        "pixel": [
+          267,
+          346
+        ]
+      },
+      {
+        "location": [
+          15.071763449,
+          50.547810895
+        ],
+        "pixel": [
+          181,
+          381
+        ]
+      },
+      {
+        "location": [
+          15.396546774,
+          50.763076728
+        ],
+        "pixel": [
+          333,
+          301
+        ]
+      },
+      {
+        "location": [
+          15.469674521,
+          50.59948623
+        ],
+        "pixel": [
+          368,
+          361
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1937"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": ["1929"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:25b04c2e-9f18-11ec-b198-fa163e4ea95f?page=uuid%3A26d8574a-9f18-11ec-b198-fa163e4ea95f",
+  "description": "Jihlava (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1330393",
+  "title": "Jihlava",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.317277,
+    49.218292,
+    15.954737,
+    49.571327
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:25b04c2e-9f18-11ec-b198-fa163e4ea95f",
+  "id": "c0d53f75-8c24-5bac-a8ad-1ab0efaa52f3",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        69,
+        390
+      ],
+      [
+        523,
+        390
+      ],
+      [
+        523,
+        46
+      ],
+      [
+        69,
+        46
+      ],
+      [
+        69,
+        390
+      ]
+    ],
+    "created": "2016-06-11T18:10:19.430370+00:00",
+    "transformation_method": "affine",
+    "mapID": "c0d53f75-8c24-5bac-a8ad-1ab0efaa52f3",
+    "affine_transformation": null,
+    "changed": "2016-06-11T18:10:19.430370+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.502215576,
+          49.294080011
+        ],
+        "pixel": [
+          198,
+          324
+        ]
+      },
+      {
+        "location": [
+          15.780057907,
+          49.366751947
+        ],
+        "pixel": [
+          477,
+          231
+        ]
+      },
+      {
+        "location": [
+          15.680837631,
+          49.309259124
+        ],
+        "pixel": [
+          373,
+          311
+        ]
+      },
+      {
+        "location": [
+          15.396223068,
+          49.314407132
+        ],
+        "pixel": [
+          134,
+          302
+        ]
+      },
+      {
+        "location": [
+          15.68490696,
+          49.434078075
+        ],
+        "pixel": [
+          304,
+          183
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1929"]
+}

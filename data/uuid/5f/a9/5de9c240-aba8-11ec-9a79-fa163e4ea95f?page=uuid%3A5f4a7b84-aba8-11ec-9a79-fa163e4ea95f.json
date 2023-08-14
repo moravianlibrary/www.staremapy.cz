@@ -1,0 +1,121 @@
+{
+  "date": ["1924"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:5de9c240-aba8-11ec-9a79-fa163e4ea95f?page=uuid%3A5f4a7b84-aba8-11ec-9a79-fa163e4ea95f",
+  "description": "Egypt",
+  "scale": 100000,
+  "external_id": "1367628",
+  "title": "Egypt 1:100 000",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    30.002893,
+    31.19722,
+    30.50298,
+    31.802944
+  ],
+  "reviewed": null,
+  "publisher": "Survey of Egypt",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:5de9c240-aba8-11ec-9a79-fa163e4ea95f",
+  "id": "bb142fcc-5040-5f54-81c9-912c68a0fb9b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        499,
+        34
+      ],
+      [
+        500,
+        376
+      ],
+      [
+        57,
+        375
+      ],
+      [
+        61,
+        34
+      ],
+      [
+        499,
+        34
+      ]
+    ],
+    "created": "2015-11-05T17:43:22.992360+00:00",
+    "transformation_method": "affine",
+    "mapID": "bb142fcc-5040-5f54-81c9-912c68a0fb9b",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:43:22.992360+00:00",
+    "gcps": [
+      {
+        "location": [
+          30.444380881198555,
+          31.378202541829793
+        ],
+        "pixel": [
+          450,
+          274
+        ]
+      },
+      {
+        "location": [
+          30.38934702106258,
+          31.441546990450775
+        ],
+        "pixel": [
+          400,
+          238
+        ]
+      },
+      {
+        "location": [
+          30.076038616953234,
+          31.331500765804094
+        ],
+        "pixel": [
+          121,
+          302
+        ]
+      },
+      {
+        "location": [
+          30.496909262546193,
+          31.239458615057913
+        ],
+        "pixel": [
+          494,
+          353
+        ]
+      },
+      {
+        "location": [
+          30.463504735906334,
+          31.33398607230997
+        ],
+        "pixel": [
+          467,
+          299
+        ]
+      },
+      {
+        "location": [
+          30.179035443125116,
+          31.26769575252021
+        ],
+        "pixel": [
+          215,
+          336
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1924"]
+}

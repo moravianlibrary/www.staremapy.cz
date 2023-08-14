@@ -1,0 +1,111 @@
+{
+  "date": ["1912"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:e02cd57a-9e2f-11ec-bd88-fa163e4ea95f?page=uuid%3Ae0eb0efa-9e2f-11ec-bd88-fa163e4ea95f",
+  "description": "Niš (Srbsko : oblast)",
+  "scale": 200000,
+  "external_id": "1304302",
+  "title": "40°43° Niš",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    21.70522,
+    42.224205,
+    22.957548,
+    43.718002
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:e02cd57a-9e2f-11ec-bd88-fa163e4ea95f",
+  "id": "6aae615d-a08e-5b3e-b645-81ffe9c4d153",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:50:25.042750+00:00",
+    "transformation_method": "affine",
+    "mapID": "6aae615d-a08e-5b3e-b645-81ffe9c4d153",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:50:25.042750+00:00",
+    "gcps": [
+      {
+        "location": [
+          22.583874235885105,
+          43.15813961007859
+        ],
+        "pixel": [
+          422,
+          163
+        ]
+      },
+      {
+        "location": [
+          21.944070230823492,
+          42.99633479840696
+        ],
+        "pixel": [
+          107,
+          219
+        ]
+      },
+      {
+        "location": [
+          22.672445879432264,
+          43.12231460281316
+        ],
+        "pixel": [
+          467,
+          173
+        ]
+      },
+      {
+        "location": [
+          21.970702695667267,
+          43.06918720475488
+        ],
+        "pixel": [
+          120,
+          197
+        ]
+      },
+      {
+        "location": [
+          21.90386515104114,
+          42.99828979278354
+        ],
+        "pixel": [
+          89,
+          219
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1912"]
+}

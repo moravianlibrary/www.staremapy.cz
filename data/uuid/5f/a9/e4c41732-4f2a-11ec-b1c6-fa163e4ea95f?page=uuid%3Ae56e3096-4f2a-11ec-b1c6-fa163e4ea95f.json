@@ -1,0 +1,121 @@
+{
+  "date": ["1901"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:e4c41732-4f2a-11ec-b1c6-fa163e4ea95f?page=uuid%3Ae56e3096-4f2a-11ec-b1c6-fa163e4ea95f",
+  "description": "Koryčany (Česko)",
+  "scale": 2880,
+  "external_id": "1016834",
+  "title": "Copie aus der Katastralmappe der Gemeinde Koritschan",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    17.214672,
+    49.10326,
+    17.217815,
+    49.10403
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:e4c41732-4f2a-11ec-b1c6-fa163e4ea95f",
+  "id": "ad66da56-5767-55ad-a8a0-4373b13c0b6d",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        194,
+        197
+      ],
+      [
+        195,
+        241
+      ],
+      [
+        373,
+        241
+      ],
+      [
+        372,
+        197
+      ],
+      [
+        194,
+        197
+      ]
+    ],
+    "created": "2014-02-28T22:27:51.268310+00:00",
+    "transformation_method": "affine",
+    "mapID": "ad66da56-5767-55ad-a8a0-4373b13c0b6d",
+    "affine_transformation": null,
+    "changed": "2014-02-28T22:27:51.268310+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.216068368,
+          49.103823884
+        ],
+        "pixel": [
+          273,
+          209
+        ]
+      },
+      {
+        "location": [
+          17.216162245,
+          49.103525361
+        ],
+        "pixel": [
+          280,
+          225
+        ]
+      },
+      {
+        "location": [
+          17.215714316,
+          49.103737839
+        ],
+        "pixel": [
+          257,
+          213
+        ]
+      },
+      {
+        "location": [
+          17.216577988,
+          49.103881833
+        ],
+        "pixel": [
+          306,
+          204
+        ]
+      },
+      {
+        "location": [
+          17.215995948,
+          49.10360965
+        ],
+        "pixel": [
+          268,
+          224
+        ]
+      },
+      {
+        "location": [
+          17.215649943,
+          49.103513068
+        ],
+        "pixel": [
+          244,
+          228
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1901"]
+}

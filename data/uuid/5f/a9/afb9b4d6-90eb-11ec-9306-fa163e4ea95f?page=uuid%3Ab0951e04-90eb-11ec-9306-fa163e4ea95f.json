@@ -1,0 +1,121 @@
+{
+  "date": ["1873"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:afb9b4d6-90eb-11ec-9306-fa163e4ea95f?page=uuid%3Ab0951e04-90eb-11ec-9306-fa163e4ea95f",
+  "description": "Krakov-oblast (Polsko)",
+  "scale": 300000,
+  "external_id": "1240384",
+  "title": "[Krakau",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    19.230959,
+    49.961437,
+    21.377884,
+    51.143353
+  ],
+  "reviewed": null,
+  "publisher": "Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:afb9b4d6-90eb-11ec-9306-fa163e4ea95f",
+  "id": "22b158f3-de46-5f8f-b44e-7293629e4491",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        22,
+        423
+      ],
+      [
+        577,
+        425
+      ],
+      [
+        580,
+        19
+      ],
+      [
+        24,
+        18
+      ],
+      [
+        22,
+        423
+      ]
+    ],
+    "created": "2017-08-06T20:31:43.510340+00:00",
+    "transformation_method": "affine",
+    "mapID": "22b158f3-de46-5f8f-b44e-7293629e4491",
+    "affine_transformation": null,
+    "changed": "2017-08-06T20:31:43.510340+00:00",
+    "gcps": [
+      {
+        "location": [
+          21.01260918,
+          51.073289878
+        ],
+        "pixel": [
+          484,
+          32
+        ]
+      },
+      {
+        "location": [
+          20.801637347,
+          50.296480471
+        ],
+        "pixel": [
+          445,
+          309
+        ]
+      },
+      {
+        "location": [
+          20.625341113,
+          50.862865306
+        ],
+        "pixel": [
+          382,
+          111
+        ]
+      },
+      {
+        "location": [
+          21.278512653,
+          50.730818059
+        ],
+        "pixel": [
+          556,
+          154
+        ]
+      },
+      {
+        "location": [
+          20.17610329,
+          50.016714872
+        ],
+        "pixel": [
+          278,
+          413
+        ]
+      },
+      {
+        "location": [
+          19.574859317,
+          50.13475968
+        ],
+        "pixel": [
+          111,
+          374
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1873"]
+}

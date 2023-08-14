@@ -1,0 +1,101 @@
+{
+  "date": ["1939"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:868b7e64-a4a5-11ec-af0c-fa163e4ea95f?page=uuid%3A875d47a0-a4a5-11ec-af0c-fa163e4ea95f",
+  "description": "Bělorusko",
+  "scale": 100000,
+  "external_id": "1337424",
+  "title": "RSFSR",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    28.997486,
+    56.001698,
+    29.503107,
+    56.3328
+  ],
+  "reviewed": null,
+  "publisher": "General'nyj štab RKKA",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:868b7e64-a4a5-11ec-af0c-fa163e4ea95f",
+  "id": "c7903a41-ea5f-5a9e-9b6a-c2f0676a9c2e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        61,
+        354
+      ],
+      [
+        538,
+        354
+      ],
+      [
+        538,
+        60
+      ],
+      [
+        61,
+        60
+      ],
+      [
+        61,
+        354
+      ]
+    ],
+    "created": "2017-03-19T20:54:11.878890+00:00",
+    "transformation_method": "affine",
+    "mapID": "c7903a41-ea5f-5a9e-9b6a-c2f0676a9c2e",
+    "affine_transformation": null,
+    "changed": "2017-03-19T20:54:11.878890+00:00",
+    "gcps": [
+      {
+        "location": [
+          29.457602978,
+          56.270631808
+        ],
+        "pixel": [
+          496,
+          115
+        ]
+      },
+      {
+        "location": [
+          29.126403809,
+          56.232950523
+        ],
+        "pixel": [
+          181,
+          149
+        ]
+      },
+      {
+        "location": [
+          29.381750107,
+          56.329243502
+        ],
+        "pixel": [
+          423,
+          63
+        ]
+      },
+      {
+        "location": [
+          29.197729111,
+          56.009178115
+        ],
+        "pixel": [
+          251,
+          347
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1939"]
+}

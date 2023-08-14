@@ -1,0 +1,111 @@
+{
+  "date": ["1593"],
+  "creator": "Plancius, Petrus",
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:a174a982-4f03-11ec-8e4f-fa163e4ea95f?page=uuid%3Aa25d04de-4f03-11ec-8e4f-fa163e4ea95f",
+  "description": "Francie",
+  "scale": 4250000,
+  "external_id": "1014870",
+  "title": "Gallia",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -5.461706,
+    40.64877,
+    13.011083,
+    54.585117
+  ],
+  "reviewed": null,
+  "publisher": "Petrus Plancius",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:a174a982-4f03-11ec-8e4f-fa163e4ea95f",
+  "id": "f903ee5e-7ad0-51a3-8b02-0b4d7dd68d13",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        54,
+        403
+      ],
+      [
+        547,
+        403
+      ],
+      [
+        547,
+        36
+      ],
+      [
+        54,
+        36
+      ],
+      [
+        54,
+        403
+      ]
+    ],
+    "created": "2013-12-06T10:47:02.945880+00:00",
+    "transformation_method": "affine",
+    "mapID": "f903ee5e-7ad0-51a3-8b02-0b4d7dd68d13",
+    "affine_transformation": null,
+    "changed": "2013-12-06T10:47:02.945880+00:00",
+    "gcps": [
+      {
+        "location": [
+          -1.983173477,
+          43.321007157
+        ],
+        "pixel": [
+          123,
+          337
+        ]
+      },
+      {
+        "location": [
+          5.405774348,
+          43.308173587
+        ],
+        "pixel": [
+          329,
+          362
+        ]
+      },
+      {
+        "location": [
+          8.932385676,
+          44.424935795
+        ],
+        "pixel": [
+          440,
+          343
+        ]
+      },
+      {
+        "location": [
+          -1.994159805,
+          48.658156248
+        ],
+        "pixel": [
+          144,
+          184
+        ]
+      },
+      {
+        "location": [
+          1.90598668,
+          50.961735778
+        ],
+        "pixel": [
+          251,
+          123
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1593"]
+}

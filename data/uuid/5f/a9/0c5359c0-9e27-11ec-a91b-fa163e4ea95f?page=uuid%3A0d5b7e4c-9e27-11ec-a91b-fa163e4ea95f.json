@@ -1,0 +1,121 @@
+{
+  "date": ["1904"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:0c5359c0-9e27-11ec-a91b-fa163e4ea95f?page=uuid%3A0d5b7e4c-9e27-11ec-a91b-fa163e4ea95f",
+  "description": "Černá Hora",
+  "scale": 200000,
+  "external_id": "1304049",
+  "title": "Trinkwasserverhältnisse",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    18.66025,
+    41.369198,
+    19.978327,
+    42.633076
+  ],
+  "reviewed": null,
+  "publisher": "Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:0c5359c0-9e27-11ec-a91b-fa163e4ea95f",
+  "id": "0558af83-c81f-5402-826f-3f446553cfca",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:49:53.197510+00:00",
+    "transformation_method": "affine",
+    "mapID": "0558af83-c81f-5402-826f-3f446553cfca",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:49:53.197510+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.925426569,
+          42.389423375
+        ],
+        "pixel": [
+          123,
+          87
+        ]
+      },
+      {
+        "location": [
+          18.837535944,
+          42.281817098
+        ],
+        "pixel": [
+          78,
+          124
+        ]
+      },
+      {
+        "location": [
+          19.452624067,
+          41.585029106
+        ],
+        "pixel": [
+          359,
+          370
+        ]
+      },
+      {
+        "location": [
+          19.487488832,
+          42.045691062
+        ],
+        "pixel": [
+          377,
+          207
+        ]
+      },
+      {
+        "location": [
+          19.265316095,
+          42.437583422
+        ],
+        "pixel": [
+          275,
+          69
+        ]
+      },
+      {
+        "location": [
+          19.381402101,
+          41.86981605
+        ],
+        "pixel": [
+          330,
+          267
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1904"]
+}

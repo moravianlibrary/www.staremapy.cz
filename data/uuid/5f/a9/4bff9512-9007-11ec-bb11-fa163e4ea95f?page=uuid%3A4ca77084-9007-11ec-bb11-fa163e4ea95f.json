@@ -1,0 +1,111 @@
+{
+  "date": ["1873"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:4bff9512-9007-11ec-bb11-fa163e4ea95f?page=uuid%3A4ca77084-9007-11ec-bb11-fa163e4ea95f",
+  "description": null,
+  "scale": 144000,
+  "external_id": "1215311",
+  "title": "Umgebungen von Stuhlweissenburg",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    17.877058,
+    46.89335,
+    19.161528,
+    47.487198
+  ],
+  "reviewed": null,
+  "publisher": "Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:4bff9512-9007-11ec-bb11-fa163e4ea95f",
+  "id": "056b4d85-d3ea-566e-80e5-1ef80391cdb0",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:00:03.147380+00:00",
+    "transformation_method": "affine",
+    "mapID": "056b4d85-d3ea-566e-80e5-1ef80391cdb0",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:00:03.147380+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.41163905029297,
+          47.31894435479953
+        ],
+        "pixel": [
+          234,
+          124
+        ]
+      },
+      {
+        "location": [
+          18.488543347167973,
+          47.27796549463039
+        ],
+        "pixel": [
+          282,
+          158
+        ]
+      },
+      {
+        "location": [
+          18.484080151367188,
+          47.22832928081988
+        ],
+        "pixel": [
+          277,
+          192
+        ]
+      },
+      {
+        "location": [
+          18.554992674576926,
+          47.31129698702287
+        ],
+        "pixel": [
+          304,
+          131
+        ]
+      },
+      {
+        "location": [
+          18.618318841453753,
+          47.31969893627462
+        ],
+        "pixel": [
+          340,
+          122
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1873"]
+}

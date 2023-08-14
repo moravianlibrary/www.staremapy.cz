@@ -1,0 +1,111 @@
+{
+  "date": ["1888"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:fc529774-9f53-11ec-85d5-fa163e4ea95f?page=uuid%3Afd97add6-9f53-11ec-85d5-fa163e4ea95f",
+  "description": "Kecskemét (Maďarsko : oblast)",
+  "scale": 75000,
+  "external_id": "1332057",
+  "title": "Kecskemét",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    19.331308,
+    46.74811,
+    19.836342,
+    47.002636
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:fc529774-9f53-11ec-85d5-fa163e4ea95f",
+  "id": "07540d00-47c1-53d0-b10c-0be97b3ae156",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        30,
+        37
+      ],
+      [
+        567,
+        37
+      ],
+      [
+        567,
+        390
+      ],
+      [
+        29,
+        390
+      ],
+      [
+        30,
+        37
+      ]
+    ],
+    "created": "2017-10-31T00:09:42.043770+00:00",
+    "transformation_method": "affine",
+    "mapID": "07540d00-47c1-53d0-b10c-0be97b3ae156",
+    "affine_transformation": null,
+    "changed": "2017-10-31T00:09:42.043770+00:00",
+    "gcps": [
+      {
+        "location": [
+          19.693616467,
+          46.907046197
+        ],
+        "pixel": [
+          416,
+          167
+        ]
+      },
+      {
+        "location": [
+          19.47846839,
+          46.94012423
+        ],
+        "pixel": [
+          184,
+          125
+        ]
+      },
+      {
+        "location": [
+          19.599318,
+          46.76167786
+        ],
+        "pixel": [
+          314,
+          375
+        ]
+      },
+      {
+        "location": [
+          19.359313965,
+          46.801095364
+        ],
+        "pixel": [
+          57,
+          319
+        ]
+      },
+      {
+        "location": [
+          19.473966354,
+          46.751959513
+        ],
+        "pixel": [
+          183,
+          387
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1888"]
+}

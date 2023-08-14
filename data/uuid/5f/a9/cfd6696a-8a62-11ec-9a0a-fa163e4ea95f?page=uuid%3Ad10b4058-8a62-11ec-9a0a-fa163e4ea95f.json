@@ -1,0 +1,111 @@
+{
+  "date": ["1872"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:cfd6696a-8a62-11ec-9a0a-fa163e4ea95f?page=uuid%3Ad10b4058-8a62-11ec-9a0a-fa163e4ea95f",
+  "description": "Dolní Rakousko (Rakousko)",
+  "scale": 288000,
+  "external_id": "1278626",
+  "title": "Hertzogthums Oesterreich",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Stein, Carl",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.681873,
+    47.206833,
+    17.307936,
+    49.19041
+  ],
+  "reviewed": null,
+  "publisher": "geografischen Institute",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:cfd6696a-8a62-11ec-9a0a-fa163e4ea95f",
+  "id": "ddcc1b5c-c014-5d07-be25-b56c784d5e3b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:17:59.452520+00:00",
+    "transformation_method": "affine",
+    "mapID": "ddcc1b5c-c014-5d07-be25-b56c784d5e3b",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:17:59.452520+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.050940625,
+          48.85302302231648
+        ],
+        "pixel": [
+          312,
+          77
+        ]
+      },
+      {
+        "location": [
+          16.054825782912644,
+          47.43840508239177
+        ],
+        "pixel": [
+          313,
+          392
+        ]
+      },
+      {
+        "location": [
+          15.043278955656222,
+          48.94431502248611
+        ],
+        "pixel": [
+          85,
+          56
+        ]
+      },
+      {
+        "location": [
+          16.941737323635586,
+          48.14498495385885
+        ],
+        "pixel": [
+          518,
+          235
+        ]
+      },
+      {
+        "location": [
+          15.075904003906272,
+          48.18262446613127
+        ],
+        "pixel": [
+          87,
+          227
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1872"]
+}

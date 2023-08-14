@@ -1,0 +1,101 @@
+{
+  "date": ["1851"],
+  "creator": "Raffelsperger, Franz",
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:4c1eb4a2-627f-11ec-92f6-fa163e4ea95f?page=uuid%3A4cf3c0e8-627f-11ec-92f6-fa163e4ea95f",
+  "description": "Česko",
+  "scale": 950000,
+  "external_id": "1085060",
+  "title": "Kreis-, Gerichts-, Völker-, Telegrafen-, Eisenbahn- und Post- Karte des Königreiches Böhmen",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    11.219383,
+    48.006527,
+    18.077719,
+    51.59672
+  ],
+  "reviewed": null,
+  "publisher": "Graben",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:4c1eb4a2-627f-11ec-92f6-fa163e4ea95f",
+  "id": "6594549b-4c8b-57f2-befb-e7cb3dd360ef",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2014-08-19T13:03:24.288170+00:00",
+    "transformation_method": "affine",
+    "mapID": "6594549b-4c8b-57f2-befb-e7cb3dd360ef",
+    "affine_transformation": null,
+    "changed": "2023-03-22T11:53:20.597912+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.794122167968752,
+          50.034139567400075
+        ],
+        "pixel": [
+          406,
+          198
+        ]
+      },
+      {
+        "location": [
+          15.796868750000002,
+          49.95291709272817
+        ],
+        "pixel": [
+          407,
+          210
+        ]
+      },
+      {
+        "location": [
+          14.425714641499928,
+          50.086868921653064
+        ],
+        "pixel": [
+          281,
+          188
+        ]
+      },
+      {
+        "location": [
+          14.13732352821868,
+          50.535890601251765
+        ],
+        "pixel": [
+          259,
+          130
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1851"]
+}

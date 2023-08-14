@@ -1,0 +1,111 @@
+{
+  "date": ["1916"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:d48dd3de-93fa-11ec-93d1-fa163e4ea95f?page=uuid%3Ad586af9a-93fa-11ec-93d1-fa163e4ea95f",
+  "description": null,
+  "scale": 25000,
+  "external_id": "1251217",
+  "title": "Valandovo",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    22.46479,
+    41.22979,
+    22.67104,
+    41.392006
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:d48dd3de-93fa-11ec-93d1-fa163e4ea95f",
+  "id": "aa9b8efb-648d-5030-bafe-faf454b078c7",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:08:42.056150+00:00",
+    "transformation_method": "affine",
+    "mapID": "aa9b8efb-648d-5030-bafe-faf454b078c7",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:08:42.056150+00:00",
+    "gcps": [
+      {
+        "location": [
+          22.498271404,
+          41.342379362
+        ],
+        "pixel": [
+          97,
+          134
+        ]
+      },
+      {
+        "location": [
+          22.59875276,
+          41.282784523
+        ],
+        "pixel": [
+          392,
+          299
+        ]
+      },
+      {
+        "location": [
+          22.608752035,
+          41.354906389
+        ],
+        "pixel": [
+          422,
+          102
+        ]
+      },
+      {
+        "location": [
+          22.631668829,
+          41.303731091
+        ],
+        "pixel": [
+          488,
+          241
+        ]
+      },
+      {
+        "location": [
+          22.49838829,
+          41.255542777
+        ],
+        "pixel": [
+          89,
+          373
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1916"]
+}

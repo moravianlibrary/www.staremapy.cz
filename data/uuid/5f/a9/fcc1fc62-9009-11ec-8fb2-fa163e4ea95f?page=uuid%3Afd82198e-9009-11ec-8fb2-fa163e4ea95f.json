@@ -1,0 +1,111 @@
+{
+  "date": ["1872"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:fcc1fc62-9009-11ec-8fb2-fa163e4ea95f?page=uuid%3Afd82198e-9009-11ec-8fb2-fa163e4ea95f",
+  "description": null,
+  "scale": 144000,
+  "external_id": "1215389",
+  "title": "Umgebungen von Miskólcz",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    20.254114,
+    47.861122,
+    21.29594,
+    48.383358
+  ],
+  "reviewed": null,
+  "publisher": "Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:fcc1fc62-9009-11ec-8fb2-fa163e4ea95f",
+  "id": "686cf31e-3cb8-5310-927b-f52e67eb1a94",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        17,
+        431
+      ],
+      [
+        583,
+        431
+      ],
+      [
+        583,
+        14
+      ],
+      [
+        17,
+        14
+      ],
+      [
+        17,
+        431
+      ]
+    ],
+    "created": "2016-12-16T14:03:53.151180+00:00",
+    "transformation_method": "affine",
+    "mapID": "686cf31e-3cb8-5310-927b-f52e67eb1a94",
+    "affine_transformation": null,
+    "changed": "2016-12-16T14:03:53.151180+00:00",
+    "gcps": [
+      {
+        "location": [
+          21.076534885,
+          48.257612582
+        ],
+        "pixel": [
+          463,
+          98
+        ]
+      },
+      {
+        "location": [
+          20.91777016,
+          48.002798695
+        ],
+        "pixel": [
+          386,
+          320
+        ]
+      },
+      {
+        "location": [
+          20.433405537,
+          48.294514649
+        ],
+        "pixel": [
+          101,
+          86
+        ]
+      },
+      {
+        "location": [
+          20.742890132,
+          47.964134616
+        ],
+        "pixel": [
+          288,
+          361
+        ]
+      },
+      {
+        "location": [
+          20.762416614,
+          48.193110115
+        ],
+        "pixel": [
+          290,
+          162
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1872"]
+}

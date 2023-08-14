@@ -1,0 +1,121 @@
+{
+  "date": ["1895"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:14863352-9912-11ec-9141-fa163e4ea95f?page=uuid%3A15674fc2-9912-11ec-9141-fa163e4ea95f",
+  "description": "Belz (Ukrajina : oblast)",
+  "scale": 75000,
+  "external_id": "1292390",
+  "title": "Belz und Sokal",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    23.747656,
+    50.20035,
+    24.413048,
+    50.533955
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär. geografisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:14863352-9912-11ec-9141-fa163e4ea95f",
+  "id": "3a1da305-350c-5a85-992d-a7da2bbc6fbc",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:43:18.390780+00:00",
+    "transformation_method": "affine",
+    "mapID": "3a1da305-350c-5a85-992d-a7da2bbc6fbc",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:43:18.390780+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.852961291,
+          50.470136264
+        ],
+        "pixel": [
+          95,
+          85
+        ]
+      },
+      {
+        "location": [
+          24.014331216,
+          50.382751099
+        ],
+        "pixel": [
+          240,
+          201
+        ]
+      },
+      {
+        "location": [
+          23.928751134,
+          50.31054663
+        ],
+        "pixel": [
+          161,
+          297
+        ]
+      },
+      {
+        "location": [
+          24.135609979,
+          50.250996553
+        ],
+        "pixel": [
+          349,
+          376
+        ]
+      },
+      {
+        "location": [
+          24.277230615,
+          50.479088128
+        ],
+        "pixel": [
+          480,
+          72
+        ]
+      },
+      {
+        "location": [
+          24.29851251031205,
+          50.38521390534882
+        ],
+        "pixel": [
+          498,
+          199
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1895"]
+}

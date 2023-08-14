@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:a100a9c6-b0f9-11ec-a2f5-fa163e4ea95f?page=uuid%3Aa2123e24-b0f9-11ec-a2f5-fa163e4ea95f",
+  "description": "Florida",
+  "scale": 62500,
+  "external_id": "1374856",
+  "title": "Florida",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Baldwin, H. L.",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -82.50238,
+    29.24967,
+    -82.248535,
+    29.50024
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:a100a9c6-b0f9-11ec-a2f5-fa163e4ea95f",
+  "id": "b70278f7-df53-509d-995f-63be4547df25",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        29,
+        28
+      ],
+      [
+        569,
+        26
+      ],
+      [
+        571,
+        402
+      ],
+      [
+        31,
+        403
+      ],
+      [
+        29,
+        28
+      ]
+    ],
+    "created": "2017-04-19T05:12:36.004220+00:00",
+    "transformation_method": "affine",
+    "mapID": "b70278f7-df53-509d-995f-63be4547df25",
+    "affine_transformation": null,
+    "changed": "2017-04-19T05:12:36.004220+00:00",
+    "gcps": [
+      {
+        "location": [
+          -82.406739891,
+          29.484954644
+        ],
+        "pixel": [
+          236,
+          51
+        ]
+      },
+      {
+        "location": [
+          -82.282741368,
+          29.257938677
+        ],
+        "pixel": [
+          498,
+          392
+        ]
+      },
+      {
+        "location": [
+          -82.268466651,
+          29.493621135
+        ],
+        "pixel": [
+          528,
+          35
+        ]
+      },
+      {
+        "location": [
+          -82.449183167,
+          29.374017974
+        ],
+        "pixel": [
+          143,
+          217
+        ]
+      },
+      {
+        "location": [
+          -82.438003719,
+          29.278758189
+        ],
+        "pixel": [
+          165,
+          357
+        ]
+      },
+      {
+        "location": [
+          -82.496196925,
+          29.485496321
+        ],
+        "pixel": [
+          41,
+          51
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

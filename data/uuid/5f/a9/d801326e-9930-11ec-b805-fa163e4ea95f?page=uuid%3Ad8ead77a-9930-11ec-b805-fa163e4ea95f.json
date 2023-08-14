@@ -1,0 +1,111 @@
+{
+  "date": ["1896"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:d801326e-9930-11ec-b805-fa163e4ea95f?page=uuid%3Ad8ead77a-9930-11ec-b805-fa163e4ea95f",
+  "description": null,
+  "scale": 75000,
+  "external_id": "1293263",
+  "title": "Kałusz und Halicz",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    24.255621,
+    48.950108,
+    24.903252,
+    49.282364
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:d801326e-9930-11ec-b805-fa163e4ea95f",
+  "id": "59a720c3-e9a8-5a6e-af32-fcfb8b4f6f21",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:45:13.830100+00:00",
+    "transformation_method": "affine",
+    "mapID": "59a720c3-e9a8-5a6e-af32-fcfb8b4f6f21",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:45:13.830100+00:00",
+    "gcps": [
+      {
+        "location": [
+          24.739051282,
+          49.181432994
+        ],
+        "pixel": [
+          450,
+          134
+        ]
+      },
+      {
+        "location": [
+          24.790287193,
+          49.041846875
+        ],
+        "pixel": [
+          496,
+          321
+        ]
+      },
+      {
+        "location": [
+          24.507544457,
+          49.077052744
+        ],
+        "pixel": [
+          232,
+          274
+        ]
+      },
+      {
+        "location": [
+          24.598675191,
+          49.234381403
+        ],
+        "pixel": [
+          318,
+          63
+        ]
+      },
+      {
+        "location": [
+          24.349484243,
+          49.227100046
+        ],
+        "pixel": [
+          88,
+          74
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1896"]
+}

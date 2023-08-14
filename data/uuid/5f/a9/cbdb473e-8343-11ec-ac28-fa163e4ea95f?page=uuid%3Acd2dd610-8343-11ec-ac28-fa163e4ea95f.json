@@ -1,0 +1,111 @@
+{
+  "date": ["1899"],
+  "creator": "Albert",
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:cbdb473e-8343-11ec-ac28-fa163e4ea95f?page=uuid%3Acd2dd610-8343-11ec-ac28-fa163e4ea95f",
+  "description": "Špicberky (Norsko)",
+  "scale": 30000,
+  "external_id": "1176876",
+  "title": "Baie Red",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    11.50519,
+    79.54219,
+    12.726747,
+    79.86966
+  ],
+  "reviewed": null,
+  "publisher": "Imprimerie Vieillemard",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:cbdb473e-8343-11ec-ac28-fa163e4ea95f",
+  "id": "ae55a484-e8f1-5e05-ac62-12d977f3bcc9",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2014-08-19T15:38:03.271130+00:00",
+    "transformation_method": "affine",
+    "mapID": "ae55a484-e8f1-5e05-ac62-12d977f3bcc9",
+    "affine_transformation": null,
+    "changed": "2014-08-19T15:38:03.271130+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.242255567,
+          79.676280478
+        ],
+        "pixel": [
+          364,
+          263
+        ]
+      },
+      {
+        "location": [
+          12.155609487,
+          79.759355195
+        ],
+        "pixel": [
+          320,
+          150
+        ]
+      },
+      {
+        "location": [
+          12.262554525,
+          79.732112209
+        ],
+        "pixel": [
+          372,
+          189
+        ]
+      },
+      {
+        "location": [
+          11.814818739,
+          79.842116651
+        ],
+        "pixel": [
+          154,
+          38
+        ]
+      },
+      {
+        "location": [
+          12.120032667,
+          79.707489287
+        ],
+        "pixel": [
+          300,
+          221
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1899"]
+}

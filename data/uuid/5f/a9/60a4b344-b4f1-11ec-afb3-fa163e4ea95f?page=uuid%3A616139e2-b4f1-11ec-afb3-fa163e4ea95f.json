@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:60a4b344-b4f1-11ec-afb3-fa163e4ea95f?page=uuid%3A616139e2-b4f1-11ec-afb3-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1389915",
+  "title": "Lubieszów",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    25.235302,
+    51.69998,
+    25.927505,
+    52.03203
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:60a4b344-b4f1-11ec-afb3-fa163e4ea95f",
+  "id": "6c2031bf-8f46-5f95-a614-e7ea7cdde83e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2016-01-08T13:42:04.197070+00:00",
+    "transformation_method": "affine",
+    "mapID": "6c2031bf-8f46-5f95-a614-e7ea7cdde83e",
+    "affine_transformation": null,
+    "changed": "2016-01-08T13:42:04.197070+00:00",
+    "gcps": [
+      {
+        "location": [
+          25.459227933,
+          51.968631054
+        ],
+        "pixel": [
+          195,
+          85
+        ]
+      },
+      {
+        "location": [
+          25.690931967,
+          51.993232248
+        ],
+        "pixel": [
+          394,
+          52
+        ]
+      },
+      {
+        "location": [
+          25.520575603,
+          51.768747275
+        ],
+        "pixel": [
+          247,
+          352
+        ]
+      },
+      {
+        "location": [
+          25.767682155,
+          51.864385919
+        ],
+        "pixel": [
+          462,
+          224
+        ]
+      },
+      {
+        "location": [
+          25.471909602,
+          51.843816214
+        ],
+        "pixel": [
+          205,
+          251
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

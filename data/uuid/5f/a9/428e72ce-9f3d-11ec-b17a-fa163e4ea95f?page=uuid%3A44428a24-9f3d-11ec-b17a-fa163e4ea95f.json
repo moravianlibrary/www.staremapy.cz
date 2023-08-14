@@ -1,0 +1,125 @@
+{
+  "date": ["1939"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:428e72ce-9f3d-11ec-b17a-fa163e4ea95f?page=uuid%3A44428a24-9f3d-11ec-b17a-fa163e4ea95f",
+  "description": "Neunkirchen (Rakousko)",
+  "scale": 75000,
+  "external_id": "1331427",
+  "title": "Neunkirchen und Aspang",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.779944,
+    47.526966,
+    16.331352,
+    47.7495
+  ],
+  "reviewed": null,
+  "publisher": "Hauptvermessungsabteilung XIV",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:428e72ce-9f3d-11ec-b17a-fa163e4ea95f",
+  "id": "35ce4cfe-4cd0-5416-a0e8-858eee3f8efc",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        63,
+        39
+      ],
+      [
+        484,
+        40
+      ],
+      [
+        486,
+        377
+      ],
+      [
+        62,
+        376
+      ],
+      [
+        62,
+        376
+      ],
+      [
+        63,
+        39
+      ]
+    ],
+    "created": "2016-12-25T17:17:55.862890+00:00",
+    "transformation_method": "affine",
+    "mapID": "35ce4cfe-4cd0-5416-a0e8-858eee3f8efc",
+    "affine_transformation": null,
+    "changed": "2016-12-25T17:17:55.862890+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.033775693,
+          47.733617416
+        ],
+        "pixel": [
+          233,
+          60
+        ]
+      },
+      {
+        "location": [
+          16.12947691,
+          47.555888484
+        ],
+        "pixel": [
+          366,
+          344
+        ]
+      },
+      {
+        "location": [
+          16.179537659,
+          47.71717681
+        ],
+        "pixel": [
+          355,
+          83
+        ]
+      },
+      {
+        "location": [
+          15.938997155,
+          47.700297782
+        ],
+        "pixel": [
+          151,
+          106
+        ]
+      },
+      {
+        "location": [
+          15.931057816,
+          47.673632512
+        ],
+        "pixel": [
+          146,
+          142
+        ]
+      },
+      {
+        "location": [
+          16.250069028,
+          47.738004549
+        ],
+        "pixel": [
+          414,
+          55
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1939"]
+}

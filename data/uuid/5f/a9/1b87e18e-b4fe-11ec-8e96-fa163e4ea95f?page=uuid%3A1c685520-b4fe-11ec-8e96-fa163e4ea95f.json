@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:1b87e18e-b4fe-11ec-8e96-fa163e4ea95f?page=uuid%3A1c685520-b4fe-11ec-8e96-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1390233",
+  "title": "Vel'ky Berezný",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    22.331646,
+    48.747795,
+    22.83391,
+    48.999622
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:1b87e18e-b4fe-11ec-8e96-fa163e4ea95f",
+  "id": "487c6f50-199f-55b4-a58e-82213aa59805",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        51,
+        373
+      ],
+      [
+        495,
+        373
+      ],
+      [
+        493,
+        50
+      ],
+      [
+        53,
+        49
+      ],
+      [
+        51,
+        373
+      ]
+    ],
+    "created": "2017-03-26T13:56:16.168340+00:00",
+    "transformation_method": "affine",
+    "mapID": "487c6f50-199f-55b4-a58e-82213aa59805",
+    "affine_transformation": null,
+    "changed": "2017-03-26T13:56:16.168340+00:00",
+    "gcps": [
+      {
+        "location": [
+          22.444479123,
+          48.86397917
+        ],
+        "pixel": [
+          152,
+          223
+        ]
+      },
+      {
+        "location": [
+          22.712302154,
+          48.798770247
+        ],
+        "pixel": [
+          388,
+          309
+        ]
+      },
+      {
+        "location": [
+          22.624058381,
+          48.942514819
+        ],
+        "pixel": [
+          310,
+          123
+        ]
+      },
+      {
+        "location": [
+          22.490999356,
+          48.816244665
+        ],
+        "pixel": [
+          192,
+          286
+        ]
+      },
+      {
+        "location": [
+          22.426039771,
+          48.96231034
+        ],
+        "pixel": [
+          136,
+          96
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

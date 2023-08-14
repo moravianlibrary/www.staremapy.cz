@@ -1,0 +1,111 @@
+{
+  "date": ["1928"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:8abf45e8-98ba-11ec-b741-fa163e4ea95f?page=uuid%3A8c466888-98ba-11ec-b741-fa163e4ea95f",
+  "description": "Stuttgart (Německo : oblast)",
+  "scale": 300000,
+  "external_id": "1286469",
+  "title": "Stuttgart",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    7.436708,
+    47.483444,
+    10.0601,
+    49.015755
+  ],
+  "reviewed": null,
+  "publisher": "Kartogr. Anstalt G. Freytag & Berndt",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:8abf45e8-98ba-11ec-b741-fa163e4ea95f",
+  "id": "419e290a-d7b1-5b8c-abf6-73b0dd523601",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        42,
+        444
+      ],
+      [
+        578,
+        444
+      ],
+      [
+        578,
+        20
+      ],
+      [
+        42,
+        20
+      ],
+      [
+        42,
+        444
+      ]
+    ],
+    "created": "2015-12-20T10:28:41.148240+00:00",
+    "transformation_method": "affine",
+    "mapID": "419e290a-d7b1-5b8c-abf6-73b0dd523601",
+    "affine_transformation": null,
+    "changed": "2015-12-20T10:28:41.148240+00:00",
+    "gcps": [
+      {
+        "location": [
+          7.69072147,
+          47.600978782
+        ],
+        "pixel": [
+          93,
+          412
+        ]
+      },
+      {
+        "location": [
+          9.210182148,
+          48.805813064
+        ],
+        "pixel": [
+          405,
+          79
+        ]
+      },
+      {
+        "location": [
+          8.653398472,
+          47.800611673
+        ],
+        "pixel": [
+          291,
+          357
+        ]
+      },
+      {
+        "location": [
+          9.037662464,
+          47.81663689
+        ],
+        "pixel": [
+          369,
+          352
+        ]
+      },
+      {
+        "location": [
+          7.922464329,
+          48.534477292
+        ],
+        "pixel": [
+          141,
+          154
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1928"]
+}

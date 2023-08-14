@@ -1,0 +1,121 @@
+{
+  "date": ["1934"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:fd3a254a-851c-11ec-9cce-fa163e4ea95f?page=uuid%3Afe1fa8b8-851c-11ec-9cce-fa163e4ea95f",
+  "description": "Oravská Polhora (Slovensko : oblast)",
+  "scale": 75000,
+  "external_id": "1181767",
+  "title": "Polhora a Maków",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    19.334787,
+    49.496796,
+    19.827051,
+    49.74865
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:fd3a254a-851c-11ec-9cce-fa163e4ea95f",
+  "id": "d16e6495-ca6a-5798-9fbc-a902b39dd486",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        53,
+        43
+      ],
+      [
+        547,
+        43
+      ],
+      [
+        547,
+        395
+      ],
+      [
+        50,
+        396
+      ],
+      [
+        53,
+        43
+      ]
+    ],
+    "created": "2014-12-13T08:05:32.439190+00:00",
+    "transformation_method": "affine",
+    "mapID": "d16e6495-ca6a-5798-9fbc-a902b39dd486",
+    "affine_transformation": null,
+    "changed": "2014-12-13T08:05:32.439190+00:00",
+    "gcps": [
+      {
+        "location": [
+          19.448454948,
+          49.61381169
+        ],
+        "pixel": [
+          166,
+          233
+        ]
+      },
+      {
+        "location": [
+          19.757531257,
+          49.676113794
+        ],
+        "pixel": [
+          479,
+          143
+        ]
+      },
+      {
+        "location": [
+          19.424679847,
+          49.540598112
+        ],
+        "pixel": [
+          141,
+          335
+        ]
+      },
+      {
+        "location": [
+          19.368632407,
+          49.544914385
+        ],
+        "pixel": [
+          85,
+          329
+        ]
+      },
+      {
+        "location": [
+          19.467852683,
+          49.61381169
+        ],
+        "pixel": [
+          185,
+          233
+        ]
+      },
+      {
+        "location": [
+          19.461029143,
+          49.507210697
+        ],
+        "pixel": [
+          177,
+          382
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1934"]
+}

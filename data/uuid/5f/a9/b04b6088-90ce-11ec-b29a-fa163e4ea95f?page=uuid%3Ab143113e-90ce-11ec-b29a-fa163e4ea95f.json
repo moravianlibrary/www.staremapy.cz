@@ -1,0 +1,111 @@
+{
+  "date": ["1908"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:b04b6088-90ce-11ec-b29a-fa163e4ea95f?page=uuid%3Ab143113e-90ce-11ec-b29a-fa163e4ea95f",
+  "description": "Białystok (Polsko : oblast)",
+  "scale": 300000,
+  "external_id": "1239130",
+  "title": "Bialystok",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Liebenow, Wilhelm",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    21.673174,
+    52.50338,
+    23.649548,
+    53.519333
+  ],
+  "reviewed": null,
+  "publisher": "Ludwig Ravenstein",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:b04b6088-90ce-11ec-b29a-fa163e4ea95f",
+  "id": "a505f813-8392-5b5a-b245-62d43f9b3fc8",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        574,
+        38
+      ],
+      [
+        571,
+        399
+      ],
+      [
+        27,
+        397
+      ],
+      [
+        31,
+        37
+      ],
+      [
+        574,
+        38
+      ]
+    ],
+    "created": "2015-11-05T16:02:24.540790+00:00",
+    "transformation_method": "affine",
+    "mapID": "a505f813-8392-5b5a-b245-62d43f9b3fc8",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:02:24.540790+00:00",
+    "gcps": [
+      {
+        "location": [
+          22.155005842461847,
+          53.379683958554665
+        ],
+        "pixel": [
+          90,
+          61
+        ]
+      },
+      {
+        "location": [
+          23.190467268243104,
+          52.769997000227505
+        ],
+        "pixel": [
+          504,
+          319
+        ]
+      },
+      {
+        "location": [
+          21.896827131524343,
+          52.801558355722136
+        ],
+        "pixel": [
+          62,
+          365
+        ]
+      },
+      {
+        "location": [
+          23.161545873595568,
+          53.138556467379146
+        ],
+        "pixel": [
+          457,
+          136
+        ]
+      },
+      {
+        "location": [
+          22.072608381524343,
+          53.176865164430666
+        ],
+        "pixel": [
+          85,
+          166
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1908"]
+}

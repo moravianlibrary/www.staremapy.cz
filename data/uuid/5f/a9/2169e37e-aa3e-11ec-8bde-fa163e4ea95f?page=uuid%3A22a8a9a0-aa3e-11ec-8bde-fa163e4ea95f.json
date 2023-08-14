@@ -1,0 +1,101 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:2169e37e-aa3e-11ec-8bde-fa163e4ea95f?page=uuid%3A22a8a9a0-aa3e-11ec-8bde-fa163e4ea95f",
+  "description": "Evropa střední",
+  "scale": 20000000,
+  "external_id": "1350391",
+  "title": "Přehled počasí",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Machač, František",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -20.870144,
+    14.653431,
+    100.92518,
+    72.47133
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:2169e37e-aa3e-11ec-8bde-fa163e4ea95f",
+  "id": "8278d89e-a815-51cf-b678-a7fa436287b7",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:39:44.927520+00:00",
+    "transformation_method": "affine",
+    "mapID": "8278d89e-a815-51cf-b678-a7fa436287b7",
+    "affine_transformation": null,
+    "changed": "2021-02-26T15:47:41.745790+00:00",
+    "gcps": [
+      {
+        "location": [
+          -9.132275,
+          43.2116722732639
+        ],
+        "pixel": [
+          46,
+          267
+        ]
+      },
+      {
+        "location": [
+          12.313037499999998,
+          37.87321684673314
+        ],
+        "pixel": [
+          156,
+          329
+        ]
+      },
+      {
+        "location": [
+          10.467334374999991,
+          57.57366737850754
+        ],
+        "pixel": [
+          153,
+          176
+        ]
+      },
+      {
+        "location": [
+          32.52788125,
+          45.412421059713694
+        ],
+        "pixel": [
+          258,
+          259
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

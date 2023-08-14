@@ -1,0 +1,101 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:959b5e58-abe2-11ec-8530-fa163e4ea95f?page=uuid%3A96992178-abe2-11ec-8530-fa163e4ea95f",
+  "description": "Čechy (Česko)",
+  "scale": 750000,
+  "external_id": "1369607",
+  "title": "Bouřkové stanice v Čechách 1905-1915",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    11.631588,
+    48.33622,
+    17.278763,
+    51.27776
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:959b5e58-abe2-11ec-8530-fa163e4ea95f",
+  "id": "e334ca05-30fa-5e7b-b4ea-3995045f7072",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:49:05.561720+00:00",
+    "transformation_method": "affine",
+    "mapID": "e334ca05-30fa-5e7b-b4ea-3995045f7072",
+    "affine_transformation": null,
+    "changed": "2022-08-10T10:02:07.027617+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.188876258954398,
+          50.221099820044344
+        ],
+        "pixel": [
+          59,
+          158
+        ]
+      },
+      {
+        "location": [
+          14.931312745823952,
+          50.437923052002304
+        ],
+        "pixel": [
+          351,
+          130
+        ]
+      },
+      {
+        "location": [
+          13.887880836511728,
+          48.90859450166289
+        ],
+        "pixel": [
+          239,
+          361
+        ]
+      },
+      {
+        "location": [
+          16.160408204808324,
+          49.95360215064841
+        ],
+        "pixel": [
+          482,
+          203
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

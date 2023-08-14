@@ -1,0 +1,111 @@
+{
+  "date": ["1888"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:ee4de188-9e4f-11ec-876b-fa163e4ea95f?page=uuid%3Aef44a13a-9e4f-11ec-876b-fa163e4ea95f",
+  "description": "Humenné (Slovensko : oblast)",
+  "scale": 75000,
+  "external_id": "1305205",
+  "title": "Homonna",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    21.823566,
+    48.74439,
+    22.33831,
+    49.00543
+  ],
+  "reviewed": null,
+  "publisher": "R. Lechner's k. u. k. Hof-und Universitäts-Buchhandlung",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:ee4de188-9e4f-11ec-876b-fa163e4ea95f",
+  "id": "23468185-b43f-59ab-a778-14fd245ace20",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        59,
+        387
+      ],
+      [
+        563,
+        387
+      ],
+      [
+        563,
+        41
+      ],
+      [
+        59,
+        41
+      ],
+      [
+        59,
+        387
+      ]
+    ],
+    "created": "2015-11-22T09:01:31.825210+00:00",
+    "transformation_method": "affine",
+    "mapID": "23468185-b43f-59ab-a778-14fd245ace20",
+    "affine_transformation": null,
+    "changed": "2015-11-22T09:01:31.825210+00:00",
+    "gcps": [
+      {
+        "location": [
+          21.841154098,
+          48.873624057
+        ],
+        "pixel": [
+          73,
+          216
+        ]
+      },
+      {
+        "location": [
+          21.978225708,
+          48.757139644
+        ],
+        "pixel": [
+          210,
+          371
+        ]
+      },
+      {
+        "location": [
+          21.905183793,
+          48.937262224
+        ],
+        "pixel": [
+          140,
+          132
+        ]
+      },
+      {
+        "location": [
+          22.247133255,
+          48.781804237
+        ],
+        "pixel": [
+          476,
+          338
+        ]
+      },
+      {
+        "location": [
+          22.158555984,
+          48.987584972
+        ],
+        "pixel": [
+          384,
+          65
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1888"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": ["1935"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:65bce3e0-9f86-11ec-b4b4-fa163e4ea95f?page=uuid%3A66ca458e-9f86-11ec-b4b4-fa163e4ea95f",
+  "description": "Prusko",
+  "scale": 25000,
+  "external_id": "1333443",
+  "title": "Barkenbrügge",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.643953,
+    53.477276,
+    16.86604,
+    53.615967
+  ],
+  "reviewed": null,
+  "publisher": "Topographische Abteilung des Reichsamt für Landesaufnahme",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:65bce3e0-9f86-11ec-b4b4-fa163e4ea95f",
+  "id": "d9111abd-f581-5ec4-9a01-82afca130d6f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:12:12.555110+00:00",
+    "transformation_method": "affine",
+    "mapID": "d9111abd-f581-5ec4-9a01-82afca130d6f",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:12:12.555110+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.818106651,
+          53.562164318
+        ],
+        "pixel": [
+          470,
+          172
+        ]
+      },
+      {
+        "location": [
+          16.78769667,
+          53.592292982
+        ],
+        "pixel": [
+          388,
+          76
+        ]
+      },
+      {
+        "location": [
+          16.673074245,
+          53.574881706
+        ],
+        "pixel": [
+          78,
+          130
+        ]
+      },
+      {
+        "location": [
+          16.715841192,
+          53.533685627
+        ],
+        "pixel": [
+          194,
+          263
+        ]
+      },
+      {
+        "location": [
+          16.810982704,
+          53.503089247
+        ],
+        "pixel": [
+          452,
+          362
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1935"]
+}

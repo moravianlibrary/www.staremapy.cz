@@ -1,0 +1,121 @@
+{
+  "date": ["1938"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:c6b60478-98fc-11ec-a98b-fa163e4ea95f?page=uuid%3Ac7cc3cec-98fc-11ec-a98b-fa163e4ea95f",
+  "description": "Praha (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1291784",
+  "title": "Praha",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.334759,
+    49.983665,
+    14.831997,
+    50.279995
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:c6b60478-98fc-11ec-a98b-fa163e4ea95f",
+  "id": "37cd0e8d-267b-58f5-b0d2-a80025ea3d0e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        88,
+        384
+      ],
+      [
+        527,
+        384
+      ],
+      [
+        527,
+        42
+      ],
+      [
+        88,
+        42
+      ],
+      [
+        88,
+        384
+      ]
+    ],
+    "created": "2016-06-11T19:09:37.207960+00:00",
+    "transformation_method": "affine",
+    "mapID": "37cd0e8d-267b-58f5-b0d2-a80025ea3d0e",
+    "affine_transformation": null,
+    "changed": "2016-06-11T19:09:37.207960+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.763338672,
+          50.222398008
+        ],
+        "pixel": [
+          466,
+          82
+        ]
+      },
+      {
+        "location": [
+          14.373399125,
+          50.240386232
+        ],
+        "pixel": [
+          123,
+          55
+        ]
+      },
+      {
+        "location": [
+          14.749743091469176,
+          50.23458764090461
+        ],
+        "pixel": [
+          455,
+          65
+        ]
+      },
+      {
+        "location": [
+          14.816256976721766,
+          50.288540704426026
+        ],
+        "pixel": [
+          523,
+          116
+        ]
+      },
+      {
+        "location": [
+          14.602170095,
+          50.009333291
+        ],
+        "pixel": [
+          322,
+          371
+        ]
+      },
+      {
+        "location": [
+          14.785311330869344,
+          50.242273193151306
+        ],
+        "pixel": [
+          486,
+          54
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1938"]
+}

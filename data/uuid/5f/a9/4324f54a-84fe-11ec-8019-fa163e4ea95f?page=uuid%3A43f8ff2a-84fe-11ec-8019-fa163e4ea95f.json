@@ -1,0 +1,111 @@
+{
+  "date": ["1916"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:4324f54a-84fe-11ec-8019-fa163e4ea95f?page=uuid%3A43f8ff2a-84fe-11ec-8019-fa163e4ea95f",
+  "description": null,
+  "scale": 75000,
+  "external_id": "1180028",
+  "title": "Derazno",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    25.8299,
+    50.748634,
+    26.333208,
+    51.00016
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:4324f54a-84fe-11ec-8019-fa163e4ea95f",
+  "id": "58e96ce0-1cab-564b-b14c-d42e89bcdb50",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        40,
+        405
+      ],
+      [
+        551,
+        406
+      ],
+      [
+        550,
+        25
+      ],
+      [
+        44,
+        25
+      ],
+      [
+        40,
+        405
+      ]
+    ],
+    "created": "2017-05-23T14:48:03.067340+00:00",
+    "transformation_method": "affine",
+    "mapID": "58e96ce0-1cab-564b-b14c-d42e89bcdb50",
+    "affine_transformation": null,
+    "changed": "2017-05-23T14:48:03.067340+00:00",
+    "gcps": [
+      {
+        "location": [
+          26.304551891,
+          50.860263332
+        ],
+        "pixel": [
+          523,
+          238
+        ]
+      },
+      {
+        "location": [
+          26.267548572,
+          50.98676588
+        ],
+        "pixel": [
+          485,
+          45
+        ]
+      },
+      {
+        "location": [
+          26.126192442,
+          50.778210781
+        ],
+        "pixel": [
+          341,
+          362
+        ]
+      },
+      {
+        "location": [
+          25.883166125,
+          50.830808551
+        ],
+        "pixel": [
+          95,
+          280
+        ]
+      },
+      {
+        "location": [
+          25.893294147,
+          50.967006066
+        ],
+        "pixel": [
+          106,
+          75
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1916"]
+}

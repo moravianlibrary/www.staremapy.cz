@@ -1,0 +1,111 @@
+{
+  "date": ["1873"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:8df33c6a-90ea-11ec-99d7-fa163e4ea95f?page=uuid%3A8ebffb06-90ea-11ec-99d7-fa163e4ea95f",
+  "description": "Lublin-oblast (Polsko)",
+  "scale": 300000,
+  "external_id": "1240351",
+  "title": "[Lublin",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    21.338572,
+    50.978653,
+    23.585749,
+    52.27543
+  ],
+  "reviewed": null,
+  "publisher": "Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:8df33c6a-90ea-11ec-99d7-fa163e4ea95f",
+  "id": "cb690291-3630-518e-8c69-ae617730e224",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        13,
+        438
+      ],
+      [
+        592,
+        438
+      ],
+      [
+        592,
+        5
+      ],
+      [
+        13,
+        5
+      ],
+      [
+        13,
+        438
+      ]
+    ],
+    "created": "2017-02-07T21:11:24.471840+00:00",
+    "transformation_method": "affine",
+    "mapID": "cb690291-3630-518e-8c69-ae617730e224",
+    "affine_transformation": null,
+    "changed": "2017-02-07T21:11:24.471840+00:00",
+    "gcps": [
+      {
+        "location": [
+          21.647850054,
+          51.157527448
+        ],
+        "pixel": [
+          92,
+          402
+        ]
+      },
+      {
+        "location": [
+          23.113077643,
+          52.032570104
+        ],
+        "pixel": [
+          466,
+          67
+        ]
+      },
+      {
+        "location": [
+          22.5701022,
+          51.250559
+        ],
+        "pixel": [
+          341,
+          358
+        ]
+      },
+      {
+        "location": [
+          21.571547168,
+          52.178842104
+        ],
+        "pixel": [
+          50,
+          39
+        ]
+      },
+      {
+        "location": [
+          22.88181591,
+          51.300804702
+        ],
+        "pixel": [
+          425,
+          332
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1873"]
+}

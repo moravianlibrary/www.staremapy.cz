@@ -1,0 +1,131 @@
+{
+  "date": ["1940"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:0d65536a-98ee-11ec-9aa0-fa163e4ea95f?page=uuid%3A0ed0dd3c-98ee-11ec-9aa0-fa163e4ea95f",
+  "description": "Berlín (Německo : oblast)",
+  "scale": 50000,
+  "external_id": "1291352",
+  "title": "Karte von Berlin und Umgebung in 12 Blättern",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.832345,
+    52.196354,
+    13.166797,
+    52.395317
+  ],
+  "reviewed": null,
+  "publisher": "Preußische Landesaufnahme",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:0d65536a-98ee-11ec-9aa0-fa163e4ea95f",
+  "id": "030a7f1c-db02-5a04-89b4-231f9d18eace",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        56,
+        383
+      ],
+      [
+        485,
+        383
+      ],
+      [
+        485,
+        53
+      ],
+      [
+        60,
+        53
+      ],
+      [
+        56,
+        383
+      ]
+    ],
+    "created": "2017-08-10T20:26:00.176020+00:00",
+    "transformation_method": "affine",
+    "mapID": "030a7f1c-db02-5a04-89b4-231f9d18eace",
+    "affine_transformation": null,
+    "changed": "2017-08-10T20:26:00.176020+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.855036004,
+          52.230290261
+        ],
+        "pixel": [
+          86,
+          331
+        ]
+      },
+      {
+        "location": [
+          13.122484429,
+          52.394897371
+        ],
+        "pixel": [
+          431,
+          58
+        ]
+      },
+      {
+        "location": [
+          12.917332666,
+          52.290054773
+        ],
+        "pixel": [
+          166,
+          231
+        ]
+      },
+      {
+        "location": [
+          12.987370508,
+          52.234160002
+        ],
+        "pixel": [
+          245,
+          323
+        ]
+      },
+      {
+        "location": [
+          13.038868921,
+          52.328572702
+        ],
+        "pixel": [
+          332,
+          141
+        ]
+      },
+      {
+        "location": [
+          12.835278528,
+          52.39335824
+        ],
+        "pixel": [
+          63,
+          61
+        ]
+      },
+      {
+        "location": [
+          13.147015588,
+          52.213023524
+        ],
+        "pixel": [
+          462,
+          360
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1940"]
+}

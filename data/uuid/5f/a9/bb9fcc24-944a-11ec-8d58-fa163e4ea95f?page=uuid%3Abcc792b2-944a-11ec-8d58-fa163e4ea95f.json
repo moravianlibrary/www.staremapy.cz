@@ -1,0 +1,111 @@
+{
+  "date": ["1914"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:bb9fcc24-944a-11ec-8d58-fa163e4ea95f?page=uuid%3Abcc792b2-944a-11ec-8d58-fa163e4ea95f",
+  "description": null,
+  "scale": 200000,
+  "external_id": "1254326",
+  "title": "Rokitno",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    26.684074,
+    50.405624,
+    27.987337,
+    51.5584
+  ],
+  "reviewed": null,
+  "publisher": "K.u.k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:bb9fcc24-944a-11ec-8d58-fa163e4ea95f",
+  "id": "11af9819-4125-593a-ae84-6cd6ade35f19",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:12:40.891180+00:00",
+    "transformation_method": "affine",
+    "mapID": "11af9819-4125-593a-ae84-6cd6ade35f19",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:12:40.891180+00:00",
+    "gcps": [
+      {
+        "location": [
+          27.64413378,
+          51.222053903
+        ],
+        "pixel": [
+          441,
+          130
+        ]
+      },
+      {
+        "location": [
+          27.223563406,
+          51.275349055
+        ],
+        "pixel": [
+          244,
+          109
+        ]
+      },
+      {
+        "location": [
+          27.147860739,
+          50.620562376
+        ],
+        "pixel": [
+          214,
+          361
+        ]
+      },
+      {
+        "location": [
+          27.604848404,
+          50.587882177
+        ],
+        "pixel": [
+          433,
+          374
+        ]
+      },
+      {
+        "location": [
+          26.921446909,
+          51.331546842
+        ],
+        "pixel": [
+          102,
+          89
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1914"]
+}

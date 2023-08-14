@@ -1,0 +1,121 @@
+{
+  "date": ["1905"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:fa0b8ec2-b0ff-11ec-a6f2-fa163e4ea95f?page=uuid%3Afad92ff8-b0ff-11ec-a6f2-fa163e4ea95f",
+  "description": "Kalifornie",
+  "scale": 62500,
+  "external_id": "1375020",
+  "title": "California",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Gannett, Henry",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -122.75418,
+    37.75134,
+    -122.49722,
+    38.002502
+  ],
+  "reviewed": null,
+  "publisher": "U. S. Geological Survey",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:fa0b8ec2-b0ff-11ec-a6f2-fa163e4ea95f",
+  "id": "60667789-892d-59d0-b008-53402ce05c7b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        56,
+        405
+      ],
+      [
+        548,
+        406
+      ],
+      [
+        552,
+        26
+      ],
+      [
+        53,
+        26
+      ],
+      [
+        56,
+        405
+      ]
+    ],
+    "created": "2016-12-17T15:48:39.546790+00:00",
+    "transformation_method": "affine",
+    "mapID": "60667789-892d-59d0-b008-53402ce05c7b",
+    "affine_transformation": null,
+    "changed": "2016-12-17T15:48:39.546790+00:00",
+    "gcps": [
+      {
+        "location": [
+          -122.581457036,
+          37.85734904
+        ],
+        "pixel": [
+          390,
+          245
+        ]
+      },
+      {
+        "location": [
+          -122.529564338,
+          37.815494306
+        ],
+        "pixel": [
+          494,
+          310
+        ]
+      },
+      {
+        "location": [
+          -122.69715256030305,
+          37.990707931076344
+        ],
+        "pixel": [
+          159,
+          43
+        ]
+      },
+      {
+        "location": [
+          -122.70107953465624,
+          37.89431664543254
+        ],
+        "pixel": [
+          156,
+          190
+        ]
+      },
+      {
+        "location": [
+          -122.561180608,
+          37.979279165
+        ],
+        "pixel": [
+          428,
+          59
+        ]
+      },
+      {
+        "location": [
+          -122.69986253889263,
+          37.93543280455849
+        ],
+        "pixel": [
+          158,
+          128
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1905"]
+}

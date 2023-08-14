@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:bb72a1a8-b10b-11ec-b181-fa163e4ea95f?page=uuid%3Abc48715c-b10b-11ec-b181-fa163e4ea95f",
+  "description": "Arizona",
+  "scale": 250000,
+  "external_id": "1375311",
+  "title": "Ariz.-N.M",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Davis, A. P.",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -110.00588,
+    35.00775,
+    -108.99356,
+    35.991886
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:bb72a1a8-b10b-11ec-b181-fa163e4ea95f",
+  "id": "3f26ebe4-3902-5fcc-9929-dd6821d30f94",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        44,
+        409
+      ],
+      [
+        556,
+        409
+      ],
+      [
+        555,
+        27
+      ],
+      [
+        47,
+        26
+      ],
+      [
+        44,
+        409
+      ]
+    ],
+    "created": "2017-02-20T19:02:05.759000+00:00",
+    "transformation_method": "affine",
+    "mapID": "3f26ebe4-3902-5fcc-9929-dd6821d30f94",
+    "affine_transformation": null,
+    "changed": "2017-02-20T19:02:05.759000+00:00",
+    "gcps": [
+      {
+        "location": [
+          -109.046668322,
+          35.361832886
+        ],
+        "pixel": [
+          529,
+          275
+        ]
+      },
+      {
+        "location": [
+          -109.081468105,
+          35.754347894
+        ],
+        "pixel": [
+          516,
+          121
+        ]
+      },
+      {
+        "location": [
+          -109.998821139,
+          35.661980855
+        ],
+        "pixel": [
+          49,
+          152
+        ]
+      },
+      {
+        "location": [
+          -109.336449623,
+          35.212946607
+        ],
+        "pixel": [
+          386,
+          330
+        ]
+      },
+      {
+        "location": [
+          -109.794950835,
+          35.094523265
+        ],
+        "pixel": [
+          149,
+          377
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

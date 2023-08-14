@@ -1,0 +1,91 @@
+{
+  "date": ["1936"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:d4d9c5f8-851f-11ec-a604-fa163e4ea95f?page=uuid%3Ad5b039ee-851f-11ec-a604-fa163e4ea95f",
+  "description": "Ukrajina",
+  "scale": 75000,
+  "external_id": "1181851",
+  "title": "Vel'ký Berezný",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    22.330675,
+    48.749577,
+    22.831465,
+    48.99851
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:d4d9c5f8-851f-11ec-a604-fa163e4ea95f",
+  "id": "5c888b95-1014-5dc1-85e6-ca2e6d70f057",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        74,
+        375
+      ],
+      [
+        527,
+        375
+      ],
+      [
+        527,
+        41
+      ],
+      [
+        74,
+        41
+      ],
+      [
+        74,
+        375
+      ]
+    ],
+    "created": "2017-03-05T18:30:53.785670+00:00",
+    "transformation_method": "affine",
+    "mapID": "5c888b95-1014-5dc1-85e6-ca2e6d70f057",
+    "affine_transformation": null,
+    "changed": "2017-03-05T18:30:53.785670+00:00",
+    "gcps": [
+      {
+        "location": [
+          22.45446393,
+          48.923320794
+        ],
+        "pixel": [
+          185,
+          142
+        ]
+      },
+      {
+        "location": [
+          22.624194116,
+          48.942576533
+        ],
+        "pixel": [
+          340,
+          115
+        ]
+      },
+      {
+        "location": [
+          22.508322687,
+          48.768922589
+        ],
+        "pixel": [
+          236,
+          350
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1936"]
+}

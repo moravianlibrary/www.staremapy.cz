@@ -1,0 +1,111 @@
+{
+  "date": ["1932"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:be973480-9f21-11ec-b341-fa163e4ea95f?page=uuid%3Abf8f0e8a-9f21-11ec-b341-fa163e4ea95f",
+  "description": "Štúrovo (Slovensko)",
+  "scale": 75000,
+  "external_id": "1330660",
+  "title": "Parkan",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    18.258276,
+    47.705116,
+    18.909657,
+    48.034927
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:be973480-9f21-11ec-b341-fa163e4ea95f",
+  "id": "a9f12453-9248-5605-b7df-e178ea1aae91",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:05:59.537830+00:00",
+    "transformation_method": "affine",
+    "mapID": "a9f12453-9248-5605-b7df-e178ea1aae91",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:05:59.537830+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.714878445,
+          47.799216907
+        ],
+        "pixel": [
+          421,
+          317
+        ]
+      },
+      {
+        "location": [
+          18.783178216,
+          47.97627576
+        ],
+        "pixel": [
+          484,
+          80
+        ]
+      },
+      {
+        "location": [
+          18.641963888,
+          47.920354026
+        ],
+        "pixel": [
+          354,
+          154
+        ]
+      },
+      {
+        "location": [
+          18.442318156,
+          47.801346741
+        ],
+        "pixel": [
+          169,
+          315
+        ]
+      },
+      {
+        "location": [
+          18.411960488,
+          47.955586612
+        ],
+        "pixel": [
+          142,
+          106
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1932"]
+}

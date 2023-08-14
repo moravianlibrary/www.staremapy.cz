@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:5e1beb14-abb5-11ec-bb62-fa163e4ea95f?page=uuid%3A5f1fd67e-abb5-11ec-bb62-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1368388",
+  "title": "Wołożyn",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Gąsiewicz",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    26.202065,
+    53.952007,
+    26.928684,
+    54.280067
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:5e1beb14-abb5-11ec-bb62-fa163e4ea95f",
+  "id": "e5f0b09b-f492-5ac1-8abc-31ce3a35e97b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:44:03.305420+00:00",
+    "transformation_method": "affine",
+    "mapID": "e5f0b09b-f492-5ac1-8abc-31ce3a35e97b",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:44:03.305420+00:00",
+    "gcps": [
+      {
+        "location": [
+          26.7631013,
+          54.024396183
+        ],
+        "pixel": [
+          465,
+          346
+        ]
+      },
+      {
+        "location": [
+          26.536524127,
+          54.086573256
+        ],
+        "pixel": [
+          276,
+          262
+        ]
+      },
+      {
+        "location": [
+          26.686255763,
+          54.11792636
+        ],
+        "pixel": [
+          400,
+          218
+        ]
+      },
+      {
+        "location": [
+          26.798658944,
+          54.225956764
+        ],
+        "pixel": [
+          493,
+          72
+        ]
+      },
+      {
+        "location": [
+          26.443719695,
+          54.189828049
+        ],
+        "pixel": [
+          198,
+          122
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

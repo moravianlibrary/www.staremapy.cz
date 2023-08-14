@@ -1,0 +1,125 @@
+{
+  "date": ["1927"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:678cefc4-7e13-11ec-bce9-fa163e4ea95f?page=uuid%3A685dec50-7e13-11ec-bce9-fa163e4ea95f",
+  "description": null,
+  "scale": 25000,
+  "external_id": "1141701",
+  "title": "Abtenau",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.332732,
+    47.56142,
+    13.481901,
+    47.620163
+  ],
+  "reviewed": null,
+  "publisher": "Kartographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:678cefc4-7e13-11ec-bce9-fa163e4ea95f",
+  "id": "11fd3b25-6057-574c-a024-2aba84915e76",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        70,
+        380
+      ],
+      [
+        66,
+        65
+      ],
+      [
+        545,
+        65
+      ],
+      [
+        541,
+        381
+      ],
+      [
+        541,
+        381
+      ],
+      [
+        70,
+        380
+      ]
+    ],
+    "created": "2015-07-12T14:56:14.454790+00:00",
+    "transformation_method": "affine",
+    "mapID": "11fd3b25-6057-574c-a024-2aba84915e76",
+    "affine_transformation": null,
+    "changed": "2015-07-12T14:56:14.454790+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.344928263,
+          47.564025805
+        ],
+        "pixel": [
+          116,
+          368
+        ]
+      },
+      {
+        "location": [
+          13.396040438,
+          47.570939027
+        ],
+        "pixel": [
+          305,
+          335
+        ]
+      },
+      {
+        "location": [
+          13.395103198,
+          47.567808283
+        ],
+        "pixel": [
+          300,
+          353
+        ]
+      },
+      {
+        "location": [
+          13.455585478,
+          47.586955371
+        ],
+        "pixel": [
+          522,
+          259
+        ]
+      },
+      {
+        "location": [
+          13.384732245,
+          47.567182112
+        ],
+        "pixel": [
+          288,
+          363
+        ]
+      },
+      {
+        "location": [
+          13.386841994,
+          47.572426517
+        ],
+        "pixel": [
+          271,
+          329
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1927"]
+}

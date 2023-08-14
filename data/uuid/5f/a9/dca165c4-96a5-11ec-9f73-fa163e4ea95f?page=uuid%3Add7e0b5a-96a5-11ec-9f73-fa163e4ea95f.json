@@ -1,0 +1,111 @@
+{
+  "date": ["1900"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:dca165c4-96a5-11ec-9f73-fa163e4ea95f?page=uuid%3Add7e0b5a-96a5-11ec-9f73-fa163e4ea95f",
+  "description": null,
+  "scale": 200000,
+  "external_id": "1271730",
+  "title": "40°44° Zaječar",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    21.831785,
+    43.490894,
+    22.838808,
+    44.50067
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:dca165c4-96a5-11ec-9f73-fa163e4ea95f",
+  "id": "5d1b2caa-af46-5e1a-bfd4-7e45c440a4f6",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        63,
+        401
+      ],
+      [
+        543,
+        401
+      ],
+      [
+        538,
+        44
+      ],
+      [
+        66,
+        44
+      ],
+      [
+        63,
+        401
+      ]
+    ],
+    "created": "2017-07-14T20:03:06.899540+00:00",
+    "transformation_method": "affine",
+    "mapID": "5d1b2caa-af46-5e1a-bfd4-7e45c440a4f6",
+    "affine_transformation": null,
+    "changed": "2017-07-14T20:03:06.899540+00:00",
+    "gcps": [
+      {
+        "location": [
+          22.489539967,
+          44.493841365
+        ],
+        "pixel": [
+          375,
+          45
+        ]
+      },
+      {
+        "location": [
+          22.530845985,
+          44.228779308
+        ],
+        "pixel": [
+          399,
+          142
+        ]
+      },
+      {
+        "location": [
+          22.718622074,
+          44.365372064
+        ],
+        "pixel": [
+          484,
+          92
+        ]
+      },
+      {
+        "location": [
+          22.24874113,
+          43.561471513
+        ],
+        "pixel": [
+          261,
+          377
+        ]
+      },
+      {
+        "location": [
+          22.82626659,
+          43.593939252
+        ],
+        "pixel": [
+          537,
+          367
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1900"]
+}

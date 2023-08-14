@@ -1,0 +1,111 @@
+{
+  "date": ["1906"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:3719b704-aba0-11ec-8b8a-fa163e4ea95f?page=uuid%3A37c55f82-aba0-11ec-8b8a-fa163e4ea95f",
+  "description": "Nevada",
+  "scale": 24000,
+  "external_id": "1367412",
+  "title": "Nevada",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Douglas, E. M.",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -117.25051,
+    37.68291,
+    -117.14999,
+    37.766148
+  ],
+  "reviewed": null,
+  "publisher": "U. S. Geological Survey",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:3719b704-aba0-11ec-8b8a-fa163e4ea95f",
+  "id": "a12f903a-db0c-5f2c-a2a6-6237eaa9056b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        43,
+        380
+      ],
+      [
+        554,
+        380
+      ],
+      [
+        554,
+        53
+      ],
+      [
+        44,
+        53
+      ],
+      [
+        43,
+        380
+      ]
+    ],
+    "created": "2017-08-06T19:56:01.305040+00:00",
+    "transformation_method": "affine",
+    "mapID": "a12f903a-db0c-5f2c-a2a6-6237eaa9056b",
+    "affine_transformation": null,
+    "changed": "2017-08-06T19:56:01.305040+00:00",
+    "gcps": [
+      {
+        "location": [
+          -117.234654003,
+          37.711171192
+        ],
+        "pixel": [
+          121,
+          267
+        ]
+      },
+      {
+        "location": [
+          -117.226020512,
+          37.687040389
+        ],
+        "pixel": [
+          166,
+          366
+        ]
+      },
+      {
+        "location": [
+          -117.160861069,
+          37.698778219
+        ],
+        "pixel": [
+          499,
+          320
+        ]
+      },
+      {
+        "location": [
+          -117.176847034,
+          37.750933543
+        ],
+        "pixel": [
+          420,
+          112
+        ]
+      },
+      {
+        "location": [
+          -117.223775652,
+          37.749083719
+        ],
+        "pixel": [
+          180,
+          119
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1906"]
+}

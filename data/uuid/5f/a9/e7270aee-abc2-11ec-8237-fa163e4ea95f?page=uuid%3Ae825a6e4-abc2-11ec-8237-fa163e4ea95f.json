@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:e7270aee-abc2-11ec-8237-fa163e4ea95f?page=uuid%3Ae825a6e4-abc2-11ec-8237-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1368736",
+  "title": "Busk-Krasne",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Kopylowski",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    24.330383,
+    49.74816,
+    24.832357,
+    49.998695
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:e7270aee-abc2-11ec-8237-fa163e4ea95f",
+  "id": "abe8d593-3b20-5678-bb27-6e8a249cc0c1",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        75,
+        396
+      ],
+      [
+        570,
+        394
+      ],
+      [
+        570,
+        43
+      ],
+      [
+        76,
+        43
+      ],
+      [
+        75,
+        396
+      ]
+    ],
+    "created": "2017-11-01T21:03:42.548670+00:00",
+    "transformation_method": "affine",
+    "mapID": "abe8d593-3b20-5678-bb27-6e8a249cc0c1",
+    "affine_transformation": null,
+    "changed": "2017-11-01T21:03:42.548670+00:00",
+    "gcps": [
+      {
+        "location": [
+          24.437124252,
+          49.979219573
+        ],
+        "pixel": [
+          182,
+          71
+        ]
+      },
+      {
+        "location": [
+          24.637882233,
+          49.97320297
+        ],
+        "pixel": [
+          379,
+          79
+        ]
+      },
+      {
+        "location": [
+          24.415323257,
+          49.775507696
+        ],
+        "pixel": [
+          159,
+          357
+        ]
+      },
+      {
+        "location": [
+          24.608528137,
+          49.911503221
+        ],
+        "pixel": [
+          351,
+          166
+        ]
+      },
+      {
+        "location": [
+          24.775125504,
+          49.805208049
+        ],
+        "pixel": [
+          514,
+          315
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

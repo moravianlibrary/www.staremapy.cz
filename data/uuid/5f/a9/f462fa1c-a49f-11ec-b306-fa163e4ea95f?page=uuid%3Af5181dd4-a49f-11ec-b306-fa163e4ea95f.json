@@ -1,0 +1,111 @@
+{
+  "date": ["1885"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:f462fa1c-a49f-11ec-b306-fa163e4ea95f?page=uuid%3Af5181dd4-a49f-11ec-b306-fa163e4ea95f",
+  "description": "Maribor (Slovinsko : oblast)",
+  "scale": 75000,
+  "external_id": "1337271",
+  "title": "Marburg",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.284971,
+    46.45365,
+    15.87684,
+    46.78453
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:f462fa1c-a49f-11ec-b306-fa163e4ea95f",
+  "id": "52559986-6fb4-56c5-9014-558bd288e294",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        556,
+        44
+      ],
+      [
+        557,
+        383
+      ],
+      [
+        51,
+        384
+      ],
+      [
+        51,
+        44
+      ],
+      [
+        556,
+        44
+      ]
+    ],
+    "created": "2015-11-05T17:24:41.339800+00:00",
+    "transformation_method": "affine",
+    "mapID": "52559986-6fb4-56c5-9014-558bd288e294",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:24:41.339800+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.61149274032738,
+          46.57318174284862
+        ],
+        "pixel": [
+          331,
+          284
+        ]
+      },
+      {
+        "location": [
+          15.655308605162885,
+          46.555504579300475
+        ],
+        "pixel": [
+          376,
+          308
+        ]
+      },
+      {
+        "location": [
+          15.493265845715852,
+          46.55123228394797
+        ],
+        "pixel": [
+          211,
+          313
+        ]
+      },
+      {
+        "location": [
+          15.35960601109219,
+          46.733910320573386
+        ],
+        "pixel": [
+          75,
+          63
+        ]
+      },
+      {
+        "location": [
+          15.795925380261737,
+          46.73973525025278
+        ],
+        "pixel": [
+          518,
+          55
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1885"]
+}

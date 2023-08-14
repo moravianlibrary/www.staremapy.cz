@@ -1,0 +1,121 @@
+{
+  "date": ["1939"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:5a1a3228-9913-11ec-b11b-fa163e4ea95f?page=uuid%3A5b2ded6c-9913-11ec-b11b-fa163e4ea95f",
+  "description": "Sudety (Česko)",
+  "scale": 75000,
+  "external_id": "1292426",
+  "title": "Tischenrueth",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.332972,
+    49.748535,
+    12.836112,
+    49.999096
+  ],
+  "reviewed": null,
+  "publisher": "Reichsamt für Landesaufnahme",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:5a1a3228-9913-11ec-b11b-fa163e4ea95f",
+  "id": "dbdd7df1-b743-5ab7-a715-54c125824a2c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        91,
+        375
+      ],
+      [
+        483,
+        375
+      ],
+      [
+        483,
+        41
+      ],
+      [
+        91,
+        41
+      ],
+      [
+        91,
+        375
+      ]
+    ],
+    "created": "2017-03-05T18:24:27.252400+00:00",
+    "transformation_method": "affine",
+    "mapID": "dbdd7df1-b743-5ab7-a715-54c125824a2c",
+    "affine_transformation": null,
+    "changed": "2017-03-05T18:24:27.252400+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.815004718,
+          49.868711091
+        ],
+        "pixel": [
+          467,
+          214
+        ]
+      },
+      {
+        "location": [
+          12.589584834,
+          49.993034999
+        ],
+        "pixel": [
+          292,
+          50
+        ]
+      },
+      {
+        "location": [
+          12.340032107,
+          49.880766913
+        ],
+        "pixel": [
+          95,
+          198
+        ]
+      },
+      {
+        "location": [
+          12.442570854,
+          49.979500933
+        ],
+        "pixel": [
+          177,
+          67
+        ]
+      },
+      {
+        "location": [
+          12.778784167,
+          49.877572078
+        ],
+        "pixel": [
+          439,
+          203
+        ]
+      },
+      {
+        "location": [
+          12.635632998,
+          49.802000026
+        ],
+        "pixel": [
+          327,
+          305
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1939"]
+}

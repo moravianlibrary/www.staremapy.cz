@@ -1,0 +1,111 @@
+{
+  "date": ["1911"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:fa4a895a-98f5-11ec-a2b4-fa163e4ea95f?page=uuid%3Afc1f40c2-98f5-11ec-a2b4-fa163e4ea95f",
+  "description": null,
+  "scale": 75000,
+  "external_id": "1291592",
+  "title": "Brest Litowsk",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    23.337793,
+    51.997707,
+    23.838106,
+    52.25164
+  ],
+  "reviewed": null,
+  "publisher": "Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:fa4a895a-98f5-11ec-a2b4-fa163e4ea95f",
+  "id": "56ef0de4-247d-5b39-bf4a-b9eeab3a2e9a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        44,
+        402
+      ],
+      [
+        548,
+        401
+      ],
+      [
+        548,
+        25
+      ],
+      [
+        46,
+        26
+      ],
+      [
+        44,
+        402
+      ]
+    ],
+    "created": "2017-02-06T04:47:28.809810+00:00",
+    "transformation_method": "affine",
+    "mapID": "56ef0de4-247d-5b39-bf4a-b9eeab3a2e9a",
+    "affine_transformation": null,
+    "changed": "2022-03-05T04:13:26.736764+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.355921898,
+          52.071831545
+        ],
+        "pixel": [
+          62,
+          291
+        ]
+      },
+      {
+        "location": [
+          23.503722343,
+          52.189813238
+        ],
+        "pixel": [
+          213,
+          117
+        ]
+      },
+      {
+        "location": [
+          23.7351749,
+          52.204270254
+        ],
+        "pixel": [
+          445,
+          95
+        ]
+      },
+      {
+        "location": [
+          23.792721654,
+          52.028954486
+        ],
+        "pixel": [
+          503,
+          356
+        ]
+      },
+      {
+        "location": [
+          23.665942345,
+          52.079071968
+        ],
+        "pixel": [
+          376,
+          282
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1911"]
+}

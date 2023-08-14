@@ -1,0 +1,121 @@
+{
+  "date": ["1877"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:faed0d26-62b1-11ec-bd68-fa163e4ea95f?page=uuid%3Afc6be406-62b1-11ec-bd68-fa163e4ea95f",
+  "description": "Morava (Česko)",
+  "scale": 25000,
+  "external_id": "1089064",
+  "title": "Gradkartenblatt",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Bernhauer, Clemens",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.826027,
+    49.623314,
+    16.09248,
+    49.750652
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:faed0d26-62b1-11ec-bd68-fa163e4ea95f",
+  "id": "0a31cf24-0fae-568a-b0ca-ca752feb33ca",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        16,
+        425
+      ],
+      [
+        549,
+        426
+      ],
+      [
+        549,
+        51
+      ],
+      [
+        21,
+        50
+      ],
+      [
+        16,
+        425
+      ]
+    ],
+    "created": "2015-06-16T15:52:58.853420+00:00",
+    "transformation_method": "affine",
+    "mapID": "0a31cf24-0fae-568a-b0ca-ca752feb33ca",
+    "affine_transformation": null,
+    "changed": "2015-06-16T15:52:58.853420+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.035334769,
+          49.711702461
+        ],
+        "pixel": [
+          447,
+          165
+        ]
+      },
+      {
+        "location": [
+          15.991723989008547,
+          49.6568440864304
+        ],
+        "pixel": [
+          354,
+          328
+        ]
+      },
+      {
+        "location": [
+          16.04579324247215,
+          49.70068125026398
+        ],
+        "pixel": [
+          471,
+          197
+        ]
+      },
+      {
+        "location": [
+          15.972587590477564,
+          49.72669101979662
+        ],
+        "pixel": [
+          312,
+          118
+        ]
+      },
+      {
+        "location": [
+          16.02193208497964,
+          49.64287113704114
+        ],
+        "pixel": [
+          393,
+          365
+        ]
+      },
+      {
+        "location": [
+          15.949279479089157,
+          49.651853978903404
+        ],
+        "pixel": [
+          264,
+          344
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1877"]
+}

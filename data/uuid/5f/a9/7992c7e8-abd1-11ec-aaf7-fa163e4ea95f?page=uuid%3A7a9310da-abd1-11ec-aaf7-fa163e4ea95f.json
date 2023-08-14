@@ -1,0 +1,111 @@
+{
+  "date": ["1890"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:7992c7e8-abd1-11ec-aaf7-fa163e4ea95f?page=uuid%3A7a9310da-abd1-11ec-aaf7-fa163e4ea95f",
+  "description": null,
+  "scale": 75000,
+  "external_id": "1369165",
+  "title": "Nádas und Soborsin",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    21.79357,
+    45.961094,
+    22.383015,
+    46.275826
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:7992c7e8-abd1-11ec-aaf7-fa163e4ea95f",
+  "id": "1fa1e4fb-00ca-5cd0-bcc1-fbbbc3ca536a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:45:41.346370+00:00",
+    "transformation_method": "affine",
+    "mapID": "1fa1e4fb-00ca-5cd0-bcc1-fbbbc3ca536a",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:45:41.346370+00:00",
+    "gcps": [
+      {
+        "location": [
+          21.883033923,
+          46.081253174
+        ],
+        "pixel": [
+          91,
+          274
+        ]
+      },
+      {
+        "location": [
+          22.007059268,
+          46.075656563
+        ],
+        "pixel": [
+          218,
+          281
+        ]
+      },
+      {
+        "location": [
+          22.236132835,
+          46.0142936
+        ],
+        "pixel": [
+          452,
+          368
+        ]
+      },
+      {
+        "location": [
+          22.301427831,
+          46.228182539
+        ],
+        "pixel": [
+          517,
+          67
+        ]
+      },
+      {
+        "location": [
+          22.037400417,
+          46.016857882
+        ],
+        "pixel": [
+          247,
+          366
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1890"]
+}

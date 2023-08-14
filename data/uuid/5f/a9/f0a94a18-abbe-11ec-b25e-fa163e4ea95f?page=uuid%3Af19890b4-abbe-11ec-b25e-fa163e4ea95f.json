@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:f0a94a18-abbe-11ec-b25e-fa163e4ea95f?page=uuid%3Af19890b4-abbe-11ec-b25e-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1368634",
+  "title": "Rossienie",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    22.766623,
+    55.222664,
+    23.417223,
+    55.52036
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:f0a94a18-abbe-11ec-b25e-fa163e4ea95f",
+  "id": "177e6ca7-46f8-546e-8b90-8768d3cbedaa",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:44:37.028050+00:00",
+    "transformation_method": "affine",
+    "mapID": "177e6ca7-46f8-546e-8b90-8768d3cbedaa",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:44:37.028050+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.016894687,
+          55.464325927
+        ],
+        "pixel": [
+          230,
+          84
+        ]
+      },
+      {
+        "location": [
+          23.115170825,
+          55.380007082
+        ],
+        "pixel": [
+          322,
+          209
+        ]
+      },
+      {
+        "location": [
+          23.000471583,
+          55.256414485
+        ],
+        "pixel": [
+          216,
+          394
+        ]
+      },
+      {
+        "location": [
+          23.284879554,
+          55.287395331
+        ],
+        "pixel": [
+          478,
+          347
+        ]
+      },
+      {
+        "location": [
+          22.983420718,
+          55.376057076
+        ],
+        "pixel": [
+          200,
+          215
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

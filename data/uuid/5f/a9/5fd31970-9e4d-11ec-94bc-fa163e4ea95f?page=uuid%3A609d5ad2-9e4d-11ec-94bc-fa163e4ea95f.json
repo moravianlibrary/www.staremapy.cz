@@ -1,0 +1,111 @@
+{
+  "date": ["1889"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:5fd31970-9e4d-11ec-94bc-fa163e4ea95f?page=uuid%3A609d5ad2-9e4d-11ec-94bc-fa163e4ea95f",
+  "description": "Slovensko",
+  "scale": 75000,
+  "external_id": "1305133",
+  "title": "Viszoka-Makó und Kisuca-Ujhely",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    18.264832,
+    49.199505,
+    18.889269,
+    49.539135
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:5fd31970-9e4d-11ec-94bc-fa163e4ea95f",
+  "id": "a8cc5806-4278-5633-a848-e5bf48265a81",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:52:17.742780+00:00",
+    "transformation_method": "affine",
+    "mapID": "a8cc5806-4278-5633-a848-e5bf48265a81",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:52:17.742780+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.73420066488154,
+          49.44237382199552
+        ],
+        "pixel": [
+          451,
+          122
+        ]
+      },
+      {
+        "location": [
+          18.793293651157494,
+          49.48042194379474
+        ],
+        "pixel": [
+          508,
+          70
+        ]
+      },
+      {
+        "location": [
+          18.78704544067381,
+          49.30198300596396
+        ],
+        "pixel": [
+          503,
+          306
+        ]
+      },
+      {
+        "location": [
+          18.79062129664195,
+          49.348127206663065
+        ],
+        "pixel": [
+          505,
+          249
+        ]
+      },
+      {
+        "location": [
+          18.782265806920336,
+          49.36203878303837
+        ],
+        "pixel": [
+          497,
+          230
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1889"]
+}

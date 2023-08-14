@@ -1,0 +1,111 @@
+{
+  "date": ["1914"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:d80d3efa-9f8a-11ec-9826-fa163e4ea95f?page=uuid%3Ad9025a98-9f8a-11ec-9826-fa163e4ea95f",
+  "description": "Prusko",
+  "scale": 25000,
+  "external_id": "1333566",
+  "title": "Hildesheim",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    9.8144,
+    52.081867,
+    10.017814,
+    52.21341
+  ],
+  "reviewed": null,
+  "publisher": "Königl. Preuss. Landes-Aufnahme",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:d80d3efa-9f8a-11ec-9826-fa163e4ea95f",
+  "id": "4761afb8-e48f-52dd-b769-0d782ba6f0f4",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        544,
+        49
+      ],
+      [
+        545,
+        387
+      ],
+      [
+        52,
+        388
+      ],
+      [
+        51,
+        49
+      ],
+      [
+        544,
+        49
+      ]
+    ],
+    "created": "2015-11-05T17:12:27.408190+00:00",
+    "transformation_method": "affine",
+    "mapID": "4761afb8-e48f-52dd-b769-0d782ba6f0f4",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:12:27.408190+00:00",
+    "gcps": [
+      {
+        "location": [
+          9.873225868757999,
+          52.167243174232624
+        ],
+        "pixel": [
+          173,
+          156
+        ]
+      },
+      {
+        "location": [
+          9.97996513275146,
+          52.19566553593668
+        ],
+        "pixel": [
+          488,
+          60
+        ]
+      },
+      {
+        "location": [
+          9.993299944187243,
+          52.101313531842834
+        ],
+        "pixel": [
+          529,
+          378
+        ]
+      },
+      {
+        "location": [
+          9.93012303658752,
+          52.110082550516324
+        ],
+        "pixel": [
+          342,
+          348
+        ]
+      },
+      {
+        "location": [
+          9.846112738877807,
+          52.19733490428467
+        ],
+        "pixel": [
+          92,
+          54
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1914"]
+}

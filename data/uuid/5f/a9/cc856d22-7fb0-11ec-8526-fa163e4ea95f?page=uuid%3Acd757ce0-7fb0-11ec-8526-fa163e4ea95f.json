@@ -1,0 +1,121 @@
+{
+  "date": ["1916"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:cc856d22-7fb0-11ec-8526-fa163e4ea95f?page=uuid%3Acd757ce0-7fb0-11ec-8526-fa163e4ea95f",
+  "description": "Gran Canaria (Kanárské ostrovy : ostrov)",
+  "scale": 1000000,
+  "external_id": "1172989",
+  "title": "Mapa militar isla de Gran Canaria",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -15.843384,
+    27.714085,
+    -15.2970085,
+    28.207436
+  ],
+  "reviewed": null,
+  "publisher": "Depósito de la Guerra",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:cc856d22-7fb0-11ec-8526-fa163e4ea95f",
+  "id": "474c7dd8-d8de-550e-9264-82d7ca925799",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        64,
+        390
+      ],
+      [
+        539,
+        390
+      ],
+      [
+        539,
+        50
+      ],
+      [
+        64,
+        51
+      ],
+      [
+        64,
+        390
+      ]
+    ],
+    "created": "2015-02-27T00:45:05.742610+00:00",
+    "transformation_method": "affine",
+    "mapID": "474c7dd8-d8de-550e-9264-82d7ca925799",
+    "affine_transformation": null,
+    "changed": "2015-02-27T00:45:05.742610+00:00",
+    "gcps": [
+      {
+        "location": [
+          -15.653985059,
+          28.144157322
+        ],
+        "pixel": [
+          228,
+          92
+        ]
+      },
+      {
+        "location": [
+          -15.522835767,
+          28.118119421
+        ],
+        "pixel": [
+          346,
+          111
+        ]
+      },
+      {
+        "location": [
+          -15.701363599,
+          28.100555405
+        ],
+        "pixel": [
+          189,
+          125
+        ]
+      },
+      {
+        "location": [
+          -15.761101758,
+          27.820355456
+        ],
+        "pixel": [
+          131,
+          317
+        ]
+      },
+      {
+        "location": [
+          -15.545495068,
+          28.059965477
+        ],
+        "pixel": [
+          323,
+          152
+        ]
+      },
+      {
+        "location": [
+          -15.563347852,
+          28.107217956
+        ],
+        "pixel": [
+          311,
+          121
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1916"]
+}

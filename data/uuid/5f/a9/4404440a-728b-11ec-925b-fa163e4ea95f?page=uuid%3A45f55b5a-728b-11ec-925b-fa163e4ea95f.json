@@ -1,0 +1,111 @@
+{
+  "date": ["1936"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:4404440a-728b-11ec-925b-fa163e4ea95f?page=uuid%3A45f55b5a-728b-11ec-925b-fa163e4ea95f",
+  "description": "Slovensko",
+  "scale": 25000,
+  "external_id": "1120349",
+  "title": "[Gradkartenblatt]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    18.333548,
+    48.747692,
+    18.581947,
+    48.87377
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:4404440a-728b-11ec-925b-fa163e4ea95f",
+  "id": "374d6531-5832-5012-8918-6f03e9b2f64b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        26,
+        405
+      ],
+      [
+        568,
+        407
+      ],
+      [
+        567,
+        34
+      ],
+      [
+        29,
+        33
+      ],
+      [
+        26,
+        405
+      ]
+    ],
+    "created": "2014-12-28T20:51:47.268930+00:00",
+    "transformation_method": "affine",
+    "mapID": "374d6531-5832-5012-8918-6f03e9b2f64b",
+    "affine_transformation": null,
+    "changed": "2014-12-28T20:51:47.268930+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.477735151,
+          48.829891418
+        ],
+        "pixel": [
+          342,
+          164
+        ]
+      },
+      {
+        "location": [
+          18.571376432,
+          48.764051552
+        ],
+        "pixel": [
+          544,
+          357
+        ]
+      },
+      {
+        "location": [
+          18.343646158,
+          48.766710567
+        ],
+        "pixel": [
+          48,
+          352
+        ]
+      },
+      {
+        "location": [
+          18.367228139,
+          48.864388175
+        ],
+        "pixel": [
+          99,
+          60
+        ]
+      },
+      {
+        "location": [
+          18.347615827,
+          48.802720684
+        ],
+        "pixel": [
+          58,
+          246
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1936"]
+}

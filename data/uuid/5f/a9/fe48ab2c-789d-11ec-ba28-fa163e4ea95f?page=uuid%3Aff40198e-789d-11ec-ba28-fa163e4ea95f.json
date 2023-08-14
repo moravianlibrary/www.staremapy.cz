@@ -1,0 +1,101 @@
+{
+  "date": ["1918"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:fe48ab2c-789d-11ec-ba28-fa163e4ea95f?page=uuid%3Aff40198e-789d-11ec-ba28-fa163e4ea95f",
+  "description": "Benátsko (Itálie)",
+  "scale": 10000,
+  "external_id": "1134473",
+  "title": "M. Spinuccia",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    11.805084,
+    45.874523,
+    11.906931,
+    45.929253
+  ],
+  "reviewed": null,
+  "publisher": "Kriegsvermessung No. 13.",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:fe48ab2c-789d-11ec-ba28-fa163e4ea95f",
+  "id": "7edcb2af-143c-5efb-80ef-6ab4d1ff517b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        566,
+        33
+      ],
+      [
+        566,
+        412
+      ],
+      [
+        37,
+        412
+      ],
+      [
+        37,
+        31
+      ],
+      [
+        566,
+        33
+      ]
+    ],
+    "created": "2014-08-19T14:29:09.690390+00:00",
+    "transformation_method": "affine",
+    "mapID": "7edcb2af-143c-5efb-80ef-6ab4d1ff517b",
+    "affine_transformation": null,
+    "changed": "2021-01-16T04:45:43.294024+00:00",
+    "gcps": [
+      {
+        "location": [
+          11.859254071860079,
+          45.88362514051187
+        ],
+        "pixel": [
+          342,
+          359
+        ]
+      },
+      {
+        "location": [
+          11.883488089410712,
+          45.91475684043246
+        ],
+        "pixel": [
+          447,
+          128
+        ]
+      },
+      {
+        "location": [
+          11.895026217211592,
+          45.88762813155793
+        ],
+        "pixel": [
+          526,
+          315
+        ]
+      },
+      {
+        "location": [
+          11.849535980660294,
+          45.88965305083909
+        ],
+        "pixel": [
+          268,
+          304
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1918"]
+}

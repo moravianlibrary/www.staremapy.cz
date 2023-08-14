@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:1a71a9de-abc0-11ec-91b7-fa163e4ea95f?page=uuid%3A1b16f574-abc0-11ec-91b7-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1368664",
+  "title": "Tykocin",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    22.27364,
+    52.959904,
+    22.941353,
+    53.28107
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:1a71a9de-abc0-11ec-91b7-fa163e4ea95f",
+  "id": "a1e8c8ba-10d4-59c1-ab69-9bd001e9e33f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:44:41.219860+00:00",
+    "transformation_method": "affine",
+    "mapID": "a1e8c8ba-10d4-59c1-ab69-9bd001e9e33f",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:44:41.219860+00:00",
+    "gcps": [
+      {
+        "location": [
+          22.766263431,
+          53.204140216
+        ],
+        "pixel": [
+          443,
+          105
+        ]
+      },
+      {
+        "location": [
+          22.739072698,
+          53.130587586
+        ],
+        "pixel": [
+          418,
+          209
+        ]
+      },
+      {
+        "location": [
+          22.402512973,
+          53.202083781
+        ],
+        "pixel": [
+          117,
+          109
+        ]
+      },
+      {
+        "location": [
+          22.648332065,
+          53.00818309
+        ],
+        "pixel": [
+          339,
+          376
+        ]
+      },
+      {
+        "location": [
+          22.455669314,
+          53.028185874
+        ],
+        "pixel": [
+          161,
+          349
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

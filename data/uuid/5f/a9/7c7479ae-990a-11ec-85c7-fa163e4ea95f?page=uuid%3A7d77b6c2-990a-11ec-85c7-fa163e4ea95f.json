@@ -1,0 +1,111 @@
+{
+  "date": ["1893"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:7c7479ae-990a-11ec-85c7-fa163e4ea95f?page=uuid%3A7d77b6c2-990a-11ec-85c7-fa163e4ea95f",
+  "description": "Polsko",
+  "scale": 75000,
+  "external_id": "1292174",
+  "title": "Lubaczów",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    22.75009,
+    49.94782,
+    23.412527,
+    50.280636
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:7c7479ae-990a-11ec-85c7-fa163e4ea95f",
+  "id": "3f64afef-7fda-585e-9ff1-52b6c15c04a8",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:42:51.357460+00:00",
+    "transformation_method": "affine",
+    "mapID": "3f64afef-7fda-585e-9ff1-52b6c15c04a8",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:42:51.357460+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.043065417,
+          50.164856882
+        ],
+        "pixel": [
+          266,
+          155
+        ]
+      },
+      {
+        "location": [
+          22.93616137,
+          50.239921788
+        ],
+        "pixel": [
+          169,
+          54
+        ]
+      },
+      {
+        "location": [
+          23.295851738,
+          50.209246409
+        ],
+        "pixel": [
+          497,
+          94
+        ]
+      },
+      {
+        "location": [
+          22.888312686,
+          50.019374976
+        ],
+        "pixel": [
+          122,
+          349
+        ]
+      },
+      {
+        "location": [
+          23.298712123,
+          50.092308801
+        ],
+        "pixel": [
+          498,
+          250
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1893"]
+}

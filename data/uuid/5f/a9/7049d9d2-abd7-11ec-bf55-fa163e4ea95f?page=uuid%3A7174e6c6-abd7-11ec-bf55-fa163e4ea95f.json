@@ -1,0 +1,111 @@
+{
+  "date": ["1884"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:7049d9d2-abd7-11ec-bf55-fa163e4ea95f?page=uuid%3A7174e6c6-abd7-11ec-bf55-fa163e4ea95f",
+  "description": "Storo (Itálie)",
+  "scale": 75000,
+  "external_id": "1369318",
+  "title": "Storo",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    10.269465,
+    45.715843,
+    10.8995285,
+    46.031677
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:7049d9d2-abd7-11ec-bf55-fa163e4ea95f",
+  "id": "c89ca40e-0fcc-5edd-bef9-a2d12a244208",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:48:37.764580+00:00",
+    "transformation_method": "affine",
+    "mapID": "c89ca40e-0fcc-5edd-bef9-a2d12a244208",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:48:37.764580+00:00",
+    "gcps": [
+      {
+        "location": [
+          10.334584776629269,
+          45.97630202531042
+        ],
+        "pixel": [
+          62,
+          77
+        ]
+      },
+      {
+        "location": [
+          10.492289367850587,
+          45.76594567329053
+        ],
+        "pixel": [
+          211,
+          373
+        ]
+      },
+      {
+        "location": [
+          10.793265406,
+          45.816314977
+        ],
+        "pixel": [
+          500,
+          302
+        ]
+      },
+      {
+        "location": [
+          10.638062064,
+          45.937305091
+        ],
+        "pixel": [
+          351,
+          133
+        ]
+      },
+      {
+        "location": [
+          10.536181036,
+          45.829578623
+        ],
+        "pixel": [
+          253,
+          284
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1884"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:f66374b6-b4e6-11ec-9637-fa163e4ea95f?page=uuid%3Af705f70e-b4e6-11ec-9637-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1389654",
+  "title": "Iwie",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    25.333725,
+    53.746666,
+    25.837814,
+    53.999386
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:f66374b6-b4e6-11ec-9637-fa163e4ea95f",
+  "id": "079fa2bd-bcc1-5c46-8e6c-48c94c31f062",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        53,
+        380
+      ],
+      [
+        469,
+        380
+      ],
+      [
+        469,
+        42
+      ],
+      [
+        53,
+        42
+      ],
+      [
+        53,
+        380
+      ]
+    ],
+    "created": "2017-02-25T23:43:48.556130+00:00",
+    "transformation_method": "affine",
+    "mapID": "079fa2bd-bcc1-5c46-8e6c-48c94c31f062",
+    "affine_transformation": null,
+    "changed": "2017-02-25T23:43:48.556130+00:00",
+    "gcps": [
+      {
+        "location": [
+          25.650678021,
+          53.979237677
+        ],
+        "pixel": [
+          314,
+          67
+        ]
+      },
+      {
+        "location": [
+          25.416200001,
+          53.978963596
+        ],
+        "pixel": [
+          120,
+          69
+        ]
+      },
+      {
+        "location": [
+          25.391309928,
+          53.759716601
+        ],
+        "pixel": [
+          100,
+          365
+        ]
+      },
+      {
+        "location": [
+          25.783114774,
+          53.93237038
+        ],
+        "pixel": [
+          423,
+          131
+        ]
+      },
+      {
+        "location": [
+          25.691447598,
+          53.849491634
+        ],
+        "pixel": [
+          350,
+          242
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

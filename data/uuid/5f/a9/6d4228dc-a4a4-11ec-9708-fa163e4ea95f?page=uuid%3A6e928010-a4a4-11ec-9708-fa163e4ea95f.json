@@ -1,0 +1,91 @@
+{
+  "date": ["1939"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:6d4228dc-a4a4-11ec-9708-fa163e4ea95f?page=uuid%3A6e928010-a4a4-11ec-9708-fa163e4ea95f",
+  "description": "Lotyšsko",
+  "scale": 100000,
+  "external_id": "1337394",
+  "title": "Latvija",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    26.896278,
+    56.228836,
+    27.597305,
+    56.75284
+  ],
+  "reviewed": null,
+  "publisher": "General'nyj štab RKKA",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:6d4228dc-a4a4-11ec-9708-fa163e4ea95f",
+  "id": "88909beb-09d1-500c-8085-018d4340c149",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:25:00.732160+00:00",
+    "transformation_method": "affine",
+    "mapID": "88909beb-09d1-500c-8085-018d4340c149",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:25:00.732160+00:00",
+    "gcps": [
+      {
+        "location": [
+          27.14651847310018,
+          56.35610137300722
+        ],
+        "pixel": [
+          198,
+          337
+        ]
+      },
+      {
+        "location": [
+          27.114166876343543,
+          56.34116494699475
+        ],
+        "pixel": [
+          168,
+          349
+        ]
+      },
+      {
+        "location": [
+          27.1817266726583,
+          56.340160130004904
+        ],
+        "pixel": [
+          229,
+          350
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1939"]
+}

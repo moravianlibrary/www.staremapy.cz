@@ -1,0 +1,101 @@
+{
+  "date": ["1938"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:7f409fa4-9933-11ec-97d2-fa163e4ea95f?page=uuid%3A800f106e-9933-11ec-97d2-fa163e4ea95f",
+  "description": "Sudety (Česko)",
+  "scale": 75000,
+  "external_id": "1293338",
+  "title": "Zwiesel",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.62693,
+    49.023098,
+    13.636542,
+    49.26832
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:7f409fa4-9933-11ec-97d2-fa163e4ea95f",
+  "id": "4e0a98e2-8c6c-5f26-a2f3-a42f9d57d72e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:45:23.767870+00:00",
+    "transformation_method": "affine",
+    "mapID": "4e0a98e2-8c6c-5f26-a2f3-a42f9d57d72e",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:45:23.767870+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.992279005647958,
+          49.20835147494711
+        ],
+        "pixel": [
+          230,
+          95
+        ]
+      },
+      {
+        "location": [
+          13.031160307527841,
+          49.21311754108521
+        ],
+        "pixel": [
+          253,
+          88
+        ]
+      },
+      {
+        "location": [
+          13.031074476839366,
+          49.20678137608155
+        ],
+        "pixel": [
+          255,
+          100
+        ]
+      },
+      {
+        "location": [
+          13.0082435137046,
+          49.20554769199481
+        ],
+        "pixel": [
+          235,
+          102
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1938"]
+}

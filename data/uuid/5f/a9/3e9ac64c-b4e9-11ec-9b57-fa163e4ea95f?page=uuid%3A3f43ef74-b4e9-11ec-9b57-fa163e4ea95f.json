@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:3e9ac64c-b4e9-11ec-9b57-fa163e4ea95f?page=uuid%3A3f43ef74-b4e9-11ec-9b57-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1389711",
+  "title": "Sokółka",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    23.209452,
+    53.202293,
+    23.935163,
+    53.528667
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:3e9ac64c-b4e9-11ec-9b57-fa163e4ea95f",
+  "id": "784ff890-e87e-581e-9cf8-e943e4fb5fda",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2016-01-08T13:41:33.537460+00:00",
+    "transformation_method": "affine",
+    "mapID": "784ff890-e87e-581e-9cf8-e943e4fb5fda",
+    "affine_transformation": null,
+    "changed": "2016-01-08T13:41:33.537460+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.772620811,
+          53.264681311
+        ],
+        "pixel": [
+          466,
+          358
+        ]
+      },
+      {
+        "location": [
+          23.509506836,
+          53.407415929
+        ],
+        "pixel": [
+          248,
+          165
+        ]
+      },
+      {
+        "location": [
+          23.443597399,
+          53.324102639
+        ],
+        "pixel": [
+          193,
+          278
+        ]
+      },
+      {
+        "location": [
+          23.45646347,
+          53.462945349
+        ],
+        "pixel": [
+          205,
+          89
+        ]
+      },
+      {
+        "location": [
+          23.763093605,
+          53.409948544
+        ],
+        "pixel": [
+          458,
+          162
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

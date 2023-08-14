@@ -1,0 +1,111 @@
+{
+  "date": ["1960"],
+  "creator": "Wieland, Johann Wolfgang",
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:9a23debc-a487-11ec-88fb-fa163e4ea95f?page=uuid%3A9b76f984-a487-11ec-88fb-fa163e4ea95f",
+  "description": "Bruntál-oblast (Česko)",
+  "scale": 126000,
+  "external_id": "1336479",
+  "title": "Map of the Principality of Krnov",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Kuchař, Karel",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    17.399836,
+    49.86926,
+    18.252834,
+    50.317513
+  ],
+  "reviewed": null,
+  "publisher": "Mapová sbírka",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:9a23debc-a487-11ec-88fb-fa163e4ea95f",
+  "id": "36062bea-bb6b-5083-a079-1ef831fedb00",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        50,
+        372
+      ],
+      [
+        462,
+        372
+      ],
+      [
+        462,
+        56
+      ],
+      [
+        50,
+        56
+      ],
+      [
+        50,
+        372
+      ]
+    ],
+    "created": "2015-11-10T13:14:06.194370+00:00",
+    "transformation_method": "affine",
+    "mapID": "36062bea-bb6b-5083-a079-1ef831fedb00",
+    "affine_transformation": null,
+    "changed": "2015-11-10T13:14:06.194370+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.71411019,
+          50.274908604
+        ],
+        "pixel": [
+          202,
+          87
+        ]
+      },
+      {
+        "location": [
+          17.699776465,
+          50.089688911
+        ],
+        "pixel": [
+          195,
+          217
+        ]
+      },
+      {
+        "location": [
+          17.902680212,
+          49.938289021
+        ],
+        "pixel": [
+          292,
+          328
+        ]
+      },
+      {
+        "location": [
+          17.463913733,
+          49.98858792
+        ],
+        "pixel": [
+          77,
+          285
+        ]
+      },
+      {
+        "location": [
+          18.219539947,
+          50.090763604
+        ],
+        "pixel": [
+          447,
+          215
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1960"]
+}
