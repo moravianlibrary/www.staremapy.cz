@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:471e4580-ab9f-11ec-bd26-fa163e4ea95f?page=uuid%3A481572b0-ab9f-11ec-bd26-fa163e4ea95f",
+  "description": "Arizona",
+  "scale": 125000,
+  "external_id": "1367388",
+  "title": "Arizona",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Bannon, T. M.",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -111.00414,
+    31.334883,
+    -110.48932,
+    31.499975
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:471e4580-ab9f-11ec-bd26-fa163e4ea95f",
+  "id": "7b8c413a-ab43-546e-9537-a8dfb08d31cc",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        39,
+        30
+      ],
+      [
+        564,
+        30
+      ],
+      [
+        564,
+        156
+      ],
+      [
+        38,
+        156
+      ],
+      [
+        39,
+        30
+      ]
+    ],
+    "created": "2016-05-17T14:37:15.853710+00:00",
+    "transformation_method": "affine",
+    "mapID": "7b8c413a-ab43-546e-9537-a8dfb08d31cc",
+    "affine_transformation": null,
+    "changed": "2016-05-17T14:37:15.853710+00:00",
+    "gcps": [
+      {
+        "location": [
+          -110.922895193,
+          31.396225281
+        ],
+        "pixel": [
+          118,
+          109
+        ]
+      },
+      {
+        "location": [
+          -110.623411912,
+          31.334772361
+        ],
+        "pixel": [
+          435,
+          156
+        ]
+      },
+      {
+        "location": [
+          -110.923066854,
+          31.470778189
+        ],
+        "pixel": [
+          113,
+          52
+        ]
+      },
+      {
+        "location": [
+          -110.875827789,
+          31.398876477
+        ],
+        "pixel": [
+          168,
+          108
+        ]
+      },
+      {
+        "location": [
+          -110.85314703,
+          31.370061882
+        ],
+        "pixel": [
+          194,
+          129
+        ]
+      },
+      {
+        "location": [
+          -110.717974424,
+          31.388458997
+        ],
+        "pixel": [
+          334,
+          115
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:16fab674-b0fc-11ec-aa35-fa163e4ea95f?page=uuid%3A17b476c2-b0fc-11ec-aa35-fa163e4ea95f",
+  "description": "Louisiana",
+  "scale": 62500,
+  "external_id": "1374919",
+  "title": "Louisiana",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Baldwin, H. L.",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -89.25935,
+    28.98843,
+    -88.99055,
+    29.249352
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:16fab674-b0fc-11ec-aa35-fa163e4ea95f",
+  "id": "62930ee0-6dfb-53c9-bcfe-6c876d73972a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        34,
+        33
+      ],
+      [
+        571,
+        33
+      ],
+      [
+        571,
+        408
+      ],
+      [
+        318,
+        408
+      ],
+      [
+        281,
+        430
+      ],
+      [
+        172,
+        420
+      ],
+      [
+        135,
+        420
+      ],
+      [
+        83,
+        408
+      ],
+      [
+        33,
+        408
+      ],
+      [
+        34,
+        33
+      ]
+    ],
+    "created": "2017-10-22T20:51:07.345900+00:00",
+    "transformation_method": "affine",
+    "mapID": "62930ee0-6dfb-53c9-bcfe-6c876d73972a",
+    "affine_transformation": null,
+    "changed": "2017-10-22T20:51:07.345900+00:00",
+    "gcps": [
+      {
+        "location": [
+          -89.044319153,
+          29.193058698
+        ],
+        "pixel": [
+          468,
+          118
+        ]
+      },
+      {
+        "location": [
+          -89.161735535,
+          29.158585762
+        ],
+        "pixel": [
+          217,
+          168
+        ]
+      },
+      {
+        "location": [
+          -89.245723128,
+          29.143968495
+        ],
+        "pixel": [
+          51,
+          195
+        ]
+      },
+      {
+        "location": [
+          -89.226067901,
+          29.207631024
+        ],
+        "pixel": [
+          77,
+          97
+        ]
+      },
+      {
+        "location": [
+          -89.068695068,
+          29.118702628
+        ],
+        "pixel": [
+          419,
+          231
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

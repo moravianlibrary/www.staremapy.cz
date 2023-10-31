@@ -1,0 +1,101 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/orlik_0861/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "17151",
+  "title": "Kučeř, okr. Písek, list 5 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.243432,
+    49.412327,
+    14.266795,
+    49.422955
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/17151",
+  "id": "96b56cc0-5e8a-52c0-a089-ca42fd2ebe64",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        -16,
+        9280
+      ],
+      [
+        13552,
+        9280
+      ],
+      [
+        13552,
+        0
+      ],
+      [
+        -16,
+        0
+      ],
+      [
+        -16,
+        9280
+      ]
+    ],
+    "created": "2015-07-04T15:54:51.641130+00:00",
+    "transformation_method": "affine",
+    "mapID": "96b56cc0-5e8a-52c0-a089-ca42fd2ebe64",
+    "affine_transformation": null,
+    "changed": "2015-07-04T15:54:51.641130+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.256447676,
+          49.421643079
+        ],
+        "pixel": [
+          7500,
+          1000
+        ]
+      },
+      {
+        "location": [
+          14.257947425,
+          49.414095197
+        ],
+        "pixel": [
+          8478,
+          7814
+        ]
+      },
+      {
+        "location": [
+          14.263043622,
+          49.416541642
+        ],
+        "pixel": [
+          11408,
+          5502
+        ]
+      },
+      {
+        "location": [
+          14.26531277,
+          49.419480007
+        ],
+        "pixel": [
+          12732,
+          2844
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1840"]
+}

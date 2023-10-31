@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": "Nečas, Method",
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.mzk.cz/search/iiif/uuid:65330a00-0c9d-11e4-a8ab-001018b5eb5c/info.json",
+  "description": "mapa z monografie: My před dvěma tisíci lety, strana: [146]",
+  "scale": null,
+  "external_id": "uuid:65330a00-0c9d-11e4-a8ab-001018b5eb5c",
+  "title": "My před dvěma tisíci lety, mapa ze strany: [146]",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:7fc8bc00-010a-11e4-89c6-005056827e51?page=uuid:65330a00-0c9d-11e4-a8ab-001018b5eb5c",
+  "georeference_is_finished": true,
+  "bounds": [
+    2.7455425,
+    45.005333,
+    16.28237,
+    56.70982
+  ],
+  "reviewed": null,
+  "publisher": "Karel Jelínek",
+  "link_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:7fc8bc00-010a-11e4-89c6-005056827e51?page=uuid:65330a00-0c9d-11e4-a8ab-001018b5eb5c",
+  "id": "5be3507c-e82d-49cf-813e-351c4c115ab7",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1700,
+        0
+      ],
+      [
+        1700,
+        2414
+      ],
+      [
+        0,
+        2414
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        1700,
+        0
+      ]
+    ],
+    "created": "2020-07-07T07:20:16.344127+00:00",
+    "transformation_method": "affine",
+    "mapID": "5be3507c-e82d-49cf-813e-351c4c115ab7",
+    "affine_transformation": null,
+    "changed": "2020-07-07T07:20:16.344127+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.474717584654762,
+          48.57366866118764
+        ],
+        "pixel": [
+          1376,
+          1756
+        ]
+      },
+      {
+        "location": [
+          14.588870542475782,
+          53.594025421083614
+        ],
+        "pixel": [
+          1494,
+          726
+        ]
+      },
+      {
+        "location": [
+          12.127933042475796,
+          50.29097614783174
+        ],
+        "pixel": [
+          1192,
+          1412
+        ]
+      },
+      {
+        "location": [
+          4.781364327704073,
+          52.930010496193404
+        ],
+        "pixel": [
+          262,
+          813
+        ]
+      },
+      {
+        "location": [
+          7.613337133155744,
+          47.55898276050996
+        ],
+        "pixel": [
+          561,
+          1957
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1946"]
+}

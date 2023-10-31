@@ -1,0 +1,111 @@
+{
+  "date": ["1929"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.mzk.cz/search/iiif/uuid:214539c1-f706-464e-80ae-9ca1d3900123/info.json",
+  "description": null,
+  "scale": 75000,
+  "external_id": "214539c1-f706-464e-80ae-9ca1d3900123",
+  "title": "Litoměřice a okolí",
+  "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.883609,
+    50.40828,
+    14.385734,
+    50.65904
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav,",
+  "link_url": "https://www.digitalniknihovna.cz/mzk/view/uuid:7940f633-53f0-4e81-97e6-d5a7d1f6eafa?page=uuid:214539c1-f706-464e-80ae-9ca1d3900123",
+  "id": "3dfa6315-2f03-5e72-9a40-7b13e6e02955",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        12092,
+        930
+      ],
+      [
+        12148,
+        9668
+      ],
+      [
+        998,
+        9631
+      ],
+      [
+        978,
+        889
+      ],
+      [
+        12092,
+        930
+      ]
+    ],
+    "created": "2018-12-19T14:27:52.977214+00:00",
+    "transformation_method": "affine",
+    "mapID": "3dfa6315-2f03-5e72-9a40-7b13e6e02955",
+    "affine_transformation": null,
+    "changed": "2021-02-04T08:32:57.076827+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.132747559894787,
+          50.53364286514878
+        ],
+        "pixel": [
+          6514,
+          5285
+        ]
+      },
+      {
+        "location": [
+          14.34051426425667,
+          50.41667270608778
+        ],
+        "pixel": [
+          11157,
+          9396
+        ]
+      },
+      {
+        "location": [
+          14.00087536533151,
+          50.6424199013523
+        ],
+        "pixel": [
+          3610,
+          1465
+        ]
+      },
+      {
+        "location": [
+          14.351919770502311,
+          50.62784260944238
+        ],
+        "pixel": [
+          11391,
+          2019
+        ]
+      },
+      {
+        "location": [
+          13.918949995061327,
+          50.45259334595485
+        ],
+        "pixel": [
+          1741,
+          8091
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

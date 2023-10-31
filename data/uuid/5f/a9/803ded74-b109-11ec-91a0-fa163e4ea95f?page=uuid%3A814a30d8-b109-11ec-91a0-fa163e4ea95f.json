@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:803ded74-b109-11ec-91a0-fa163e4ea95f?page=uuid%3A814a30d8-b109-11ec-91a0-fa163e4ea95f",
+  "description": "Nevada",
+  "scale": 250000,
+  "external_id": "1375254",
+  "title": "Nevada",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Gilbert, G. K.",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -118.005646,
+    40.998413,
+    -116.98469,
+    41.999348
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:803ded74-b109-11ec-91a0-fa163e4ea95f",
+  "id": "6538a72b-c1ec-5577-b4e5-a2b626e59a1e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        535,
+        32
+      ],
+      [
+        535,
+        410
+      ],
+      [
+        65,
+        409
+      ],
+      [
+        67,
+        32
+      ],
+      [
+        535,
+        32
+      ]
+    ],
+    "created": "2016-01-08T13:32:38.289820+00:00",
+    "transformation_method": "affine",
+    "mapID": "6538a72b-c1ec-5577-b4e5-a2b626e59a1e",
+    "affine_transformation": null,
+    "changed": "2016-01-08T13:32:38.289820+00:00",
+    "gcps": [
+      {
+        "location": [
+          -117.53368748777791,
+          41.493203652158
+        ],
+        "pixel": [
+          283,
+          223
+        ]
+      },
+      {
+        "location": [
+          -117.56690171239588,
+          41.882643578578126
+        ],
+        "pixel": [
+          268,
+          76
+        ]
+      },
+      {
+        "location": [
+          -117.6740646362304,
+          41.022688395359495
+        ],
+        "pixel": [
+          216,
+          401
+        ]
+      },
+      {
+        "location": [
+          -117.67247913775115,
+          41.56773838873795
+        ],
+        "pixel": [
+          221,
+          195
+        ]
+      },
+      {
+        "location": [
+          -117.30975296972008,
+          41.83789642856655
+        ],
+        "pixel": [
+          388,
+          93
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

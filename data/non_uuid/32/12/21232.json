@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Manetin_M_27b/ImageProperties.xml",
+  "description": null,
+  "scale": 3244,
+  "external_id": "21232",
+  "title": "Porostní mapa polesí Kalec",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.273777,
+    50.021008,
+    13.310795,
+    50.046886
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/21232",
+  "id": "7d54b9f1-3ec2-5729-be19-7aaf3cb19de9",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        64,
+        13712
+      ],
+      [
+        18432,
+        13712
+      ],
+      [
+        18432,
+        144
+      ],
+      [
+        64,
+        144
+      ],
+      [
+        64,
+        13712
+      ]
+    ],
+    "created": "2016-12-16T11:06:20.091930+00:00",
+    "transformation_method": "affine",
+    "mapID": "7d54b9f1-3ec2-5729-be19-7aaf3cb19de9",
+    "affine_transformation": null,
+    "changed": "2016-12-16T11:06:20.091930+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.288091421,
+          50.034622091
+        ],
+        "pixel": [
+          11140,
+          5210
+        ]
+      },
+      {
+        "location": [
+          13.299651742,
+          50.035583431
+        ],
+        "pixel": [
+          7956,
+          11282
+        ]
+      },
+      {
+        "location": [
+          13.298426909,
+          50.026556918
+        ],
+        "pixel": [
+          1922,
+          6086
+        ]
+      },
+      {
+        "location": [
+          13.284314871,
+          50.037316551
+        ],
+        "pixel": [
+          14388,
+          4874
+        ]
+      },
+      {
+        "location": [
+          13.297225279,
+          50.030251184
+        ],
+        "pixel": [
+          4810,
+          7422
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1887"]
+}

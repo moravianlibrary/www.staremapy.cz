@@ -1,0 +1,111 @@
+{
+  "date": ["1914"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:d2d8e898-84fb-11ec-ac37-fa163e4ea95f?page=uuid%3Ad39e90e8-84fb-11ec-ac37-fa163e4ea95f",
+  "description": null,
+  "scale": 75000,
+  "external_id": "1179956",
+  "title": "Opole",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    21.780563,
+    50.97692,
+    22.379063,
+    51.269375
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:d2d8e898-84fb-11ec-ac37-fa163e4ea95f",
+  "id": "8ba25860-6bf8-519a-b5d2-40716269698c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        555,
+        30
+      ],
+      [
+        555,
+        410
+      ],
+      [
+        47,
+        410
+      ],
+      [
+        49,
+        30
+      ],
+      [
+        555,
+        30
+      ]
+    ],
+    "created": "2014-08-19T15:41:27.082920+00:00",
+    "transformation_method": "affine",
+    "mapID": "8ba25860-6bf8-519a-b5d2-40716269698c",
+    "affine_transformation": null,
+    "changed": "2014-08-19T15:41:27.082920+00:00",
+    "gcps": [
+      {
+        "location": [
+          22.10046031890535,
+          51.049866324784006
+        ],
+        "pixel": [
+          320,
+          333
+        ]
+      },
+      {
+        "location": [
+          22.07411029754305,
+          51.05894368826304
+        ],
+        "pixel": [
+          293,
+          320
+        ]
+      },
+      {
+        "location": [
+          21.941608141857174,
+          51.229781965096606
+        ],
+        "pixel": [
+          162,
+          60
+        ]
+      },
+      {
+        "location": [
+          22.116338996273498,
+          51.10111051893719
+        ],
+        "pixel": [
+          336,
+          255
+        ]
+      },
+      {
+        "location": [
+          22.170268382095767,
+          51.133353613557915
+        ],
+        "pixel": [
+          391,
+          206
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1914"]
+}

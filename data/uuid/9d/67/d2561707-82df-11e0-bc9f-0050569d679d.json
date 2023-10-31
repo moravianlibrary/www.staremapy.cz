@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": "Reilly Franz Johann Josef von",
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.mzk.cz/search/iiif/uuid:d2561707-82df-11e0-bc9f-0050569d679d/info.json",
+  "description": "mapa z monografie: Grosser deutscher Atlas, strana: [7]",
+  "scale": null,
+  "external_id": "uuid:d2561707-82df-11e0-bc9f-0050569d679d",
+  "title": "Grosser deutscher Atlas, mapa ze strany: [7]",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:ccdabd30-82df-11e0-bc9f-0050569d679d?page=uuid:d2561707-82df-11e0-bc9f-0050569d679d",
+  "georeference_is_finished": true,
+  "bounds": [
+    -172.57397,
+    -18.29348,
+    176.56483,
+    67.578514
+  ],
+  "reviewed": null,
+  "publisher": "zu finden im von Reillyschen Landkarten und Kunstwerke Verschleiss Komptoir",
+  "link_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:ccdabd30-82df-11e0-bc9f-0050569d679d?page=uuid:d2561707-82df-11e0-bc9f-0050569d679d",
+  "id": "4a0600f7-d35c-437b-ad4f-06d9f3fca72c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        9682,
+        1242
+      ],
+      [
+        11305,
+        1242
+      ],
+      [
+        11293,
+        2617
+      ],
+      [
+        9673,
+        2594
+      ],
+      [
+        9682,
+        1242
+      ]
+    ],
+    "created": "2021-07-19T12:51:09.295506+00:00",
+    "transformation_method": "affine",
+    "mapID": "4a0600f7-d35c-437b-ad4f-06d9f3fca72c",
+    "affine_transformation": null,
+    "changed": "2021-07-19T12:56:35.782676+00:00",
+    "gcps": [
+      {
+        "location": [
+          -168.1735065713213,
+          65.66899491465938
+        ],
+        "pixel": [
+          10852,
+          1289
+        ]
+      },
+      {
+        "location": [
+          -169.6676471963213,
+          66.0464374301259
+        ],
+        "pixel": [
+          10841,
+          1348
+        ]
+      },
+      {
+        "location": [
+          -172.10356248792263,
+          65.4234102495663
+        ],
+        "pixel": [
+          10909,
+          2098
+        ]
+      },
+      {
+        "location": [
+          -174.2568828004226,
+          66.51487078996641
+        ],
+        "pixel": [
+          9909,
+          1988
+        ]
+      },
+      {
+        "location": [
+          -173.65240658173863,
+          65.89646726406667
+        ],
+        "pixel": [
+          10341,
+          2122
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1794-1796"]
+}

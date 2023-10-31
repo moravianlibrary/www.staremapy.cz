@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/0030/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "17829",
+  "title": "Das Schloss Chlumnitz in Böhmen...",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.433882,
+    50.15374,
+    15.476909,
+    50.16485
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/17829",
+  "id": "36bf8cb3-f435-5b84-bd64-99c2ca4d6866",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1482,
+        1586
+      ],
+      [
+        1482,
+        5770
+      ],
+      [
+        7634,
+        5794
+      ],
+      [
+        7634,
+        1610
+      ],
+      [
+        1482,
+        1586
+      ]
+    ],
+    "created": "2015-04-19T10:32:14.222490+00:00",
+    "transformation_method": "affine",
+    "mapID": "36bf8cb3-f435-5b84-bd64-99c2ca4d6866",
+    "affine_transformation": null,
+    "changed": "2022-06-29T10:29:08.985201+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.45977961412895,
+          50.16335488896442
+        ],
+        "pixel": [
+          7389,
+          3826
+        ]
+      },
+      {
+        "location": [
+          15.475158597407125,
+          50.16254501175595
+        ],
+        "pixel": [
+          7251,
+          5474
+        ]
+      },
+      {
+        "location": [
+          15.452465008168415,
+          50.15951674665811
+        ],
+        "pixel": [
+          4523,
+          3584
+        ]
+      },
+      {
+        "location": [
+          15.468669752563809,
+          50.16153117997882
+        ],
+        "pixel": [
+          6322,
+          5294
+        ]
+      },
+      {
+        "location": [
+          15.464059865003945,
+          50.15560389086639
+        ],
+        "pixel": [
+          2489,
+          4549
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

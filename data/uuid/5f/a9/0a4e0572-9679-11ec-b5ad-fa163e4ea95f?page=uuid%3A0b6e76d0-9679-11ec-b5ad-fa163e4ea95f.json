@@ -1,0 +1,121 @@
+{
+  "date": ["1867"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:0a4e0572-9679-11ec-b5ad-fa163e4ea95f?page=uuid%3A0b6e76d0-9679-11ec-b5ad-fa163e4ea95f",
+  "description": "Vídeň (Rakousko)",
+  "scale": 8100,
+  "external_id": "1269387",
+  "title": "Plan von Wien",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Biller, Dominik",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.318878,
+    48.17779,
+    16.42324,
+    48.23674
+  ],
+  "reviewed": null,
+  "publisher": "Artaria",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:0a4e0572-9679-11ec-b5ad-fa163e4ea95f",
+  "id": "dd384a23-7996-5f84-b14c-9fe98dd6b6cd",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:19:45.439790+00:00",
+    "transformation_method": "affine",
+    "mapID": "dd384a23-7996-5f84-b14c-9fe98dd6b6cd",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:19:45.439790+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.380918077594746,
+          48.19151482874176
+        ],
+        "pixel": [
+          359,
+          341
+        ]
+      },
+      {
+        "location": [
+          16.384403769461162,
+          48.21126132343838
+        ],
+        "pixel": [
+          376,
+          190
+        ]
+      },
+      {
+        "location": [
+          16.36450944392016,
+          48.21174003038911
+        ],
+        "pixel": [
+          262,
+          188
+        ]
+      },
+      {
+        "location": [
+          16.391761182855774,
+          48.212027288964435
+        ],
+        "pixel": [
+          420,
+          185
+        ]
+      },
+      {
+        "location": [
+          16.382379567569703,
+          48.22235581972055
+        ],
+        "pixel": [
+          365,
+          109
+        ]
+      },
+      {
+        "location": [
+          16.372563397904084,
+          48.208715323992124
+        ],
+        "pixel": [
+          308,
+          210
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1867"]
+}

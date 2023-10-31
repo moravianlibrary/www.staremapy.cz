@@ -1,0 +1,147 @@
+{
+  "date": ["1839"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:8325f6f8-48ae-11ec-9e93-fa163e4ea95f?page=uuid%3A83f3d834-48ae-11ec-9e93-fa163e4ea95f",
+  "description": "Asie",
+  "scale": 38000000,
+  "external_id": "856576",
+  "title": "Asie",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Merklas, Václav",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -179.60004,
+    -34.06402,
+    179.6005,
+    73.25715
+  ],
+  "reviewed": null,
+  "publisher": "W. Merklas",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:8325f6f8-48ae-11ec-9e93-fa163e4ea95f",
+  "id": "ec3a3a95-017e-544b-b8c4-c9b6a169544f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        104,
+        69
+      ],
+      [
+        102,
+        301
+      ],
+      [
+        151,
+        304
+      ],
+      [
+        186,
+        322
+      ],
+      [
+        199,
+        381
+      ],
+      [
+        483,
+        378
+      ],
+      [
+        482,
+        68
+      ],
+      [
+        478,
+        69
+      ],
+      [
+        104,
+        69
+      ]
+    ],
+    "created": "2014-12-06T18:59:27.925780+00:00",
+    "transformation_method": "affine",
+    "mapID": "ec3a3a95-017e-544b-b8c4-c9b6a169544f",
+    "affine_transformation": null,
+    "changed": "2014-12-06T18:59:27.925780+00:00",
+    "gcps": [
+      {
+        "location": [
+          55.3711475,
+          25.79961974
+        ],
+        "pixel": [
+          159,
+          223
+        ]
+      },
+      {
+        "location": [
+          95.09771,
+          5.965453809
+        ],
+        "pixel": [
+          270,
+          323
+        ]
+      },
+      {
+        "location": [
+          126.738335,
+          34.885683627
+        ],
+        "pixel": [
+          360,
+          221
+        ]
+      },
+      {
+        "location": [
+          156.6211475,
+          52.052305075
+        ],
+        "pixel": [
+          400,
+          144
+        ]
+      },
+      {
+        "location": [
+          104.238335,
+          77.636477076
+        ],
+        "pixel": [
+          296,
+          91
+        ]
+      },
+      {
+        "location": [
+          43.06646,
+          12.897195295
+        ],
+        "pixel": [
+          115,
+          247
+        ]
+      },
+      {
+        "location": [
+          -171.386665,
+          66.513140286
+        ],
+        "pixel": [
+          398,
+          83
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

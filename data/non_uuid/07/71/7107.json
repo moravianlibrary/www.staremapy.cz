@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1231/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "7107",
+  "title": "Dobšice o. České Budějovice 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.475041,
+    49.20902,
+    14.5071745,
+    49.225803
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/7107",
+  "id": "d1e5711c-7349-5c29-bfaa-a96482ae3298",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        18819,
+        0
+      ],
+      [
+        18819,
+        15164
+      ],
+      [
+        0,
+        15164
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        18819,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:11:58.542010+00:00",
+    "transformation_method": "affine",
+    "mapID": "d1e5711c-7349-5c29-bfaa-a96482ae3298",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:11:58.542010+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.492298587,
+          49.218292892
+        ],
+        "pixel": [
+          10102,
+          6768
+        ]
+      },
+      {
+        "location": [
+          14.482226911,
+          49.222012096
+        ],
+        "pixel": [
+          4213,
+          3396
+        ]
+      },
+      {
+        "location": [
+          14.499123812,
+          49.21201633
+        ],
+        "pixel": [
+          14094,
+          12540
+        ]
+      },
+      {
+        "location": [
+          14.481244206,
+          49.216133792
+        ],
+        "pixel": [
+          3556,
+          8688
+        ]
+      },
+      {
+        "location": [
+          14.498651743,
+          49.222234015
+        ],
+        "pixel": [
+          13947,
+          3210
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1887"]
+}

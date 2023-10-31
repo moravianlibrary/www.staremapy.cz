@@ -1,0 +1,121 @@
+{
+  "date": ["1905"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:14cb5682-9ef6-11ec-b6cb-fa163e4ea95f?page=uuid%3A15c10fe6-9ef6-11ec-b6cb-fa163e4ea95f",
+  "description": "Salcburk (Rakousko : oblast)",
+  "scale": 200000,
+  "external_id": "1329439",
+  "title": "31°48° Salzburg",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.6530905,
+    47.367523,
+    14.013787,
+    48.62368
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:14cb5682-9ef6-11ec-b6cb-fa163e4ea95f",
+  "id": "1db55af3-ba3c-531f-b70d-db1ff348508a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:03:46.998830+00:00",
+    "transformation_method": "affine",
+    "mapID": "1db55af3-ba3c-531f-b70d-db1ff348508a",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:03:46.998830+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.594934873783776,
+          47.94945371192742
+        ],
+        "pixel": [
+          416,
+          239
+        ]
+      },
+      {
+        "location": [
+          13.535368375981054,
+          47.91414390929663
+        ],
+        "pixel": [
+          389,
+          251
+        ]
+      },
+      {
+        "location": [
+          13.573305540287693,
+          47.90327007789364
+        ],
+        "pixel": [
+          407,
+          255
+        ]
+      },
+      {
+        "location": [
+          13.567855291569442,
+          47.875974756605956
+        ],
+        "pixel": [
+          404,
+          265
+        ]
+      },
+      {
+        "location": [
+          13.053647140502926,
+          47.798201860094764
+        ],
+        "pixel": [
+          177,
+          293
+        ]
+      },
+      {
+        "location": [
+          13.349848846435547,
+          47.85525018151898
+        ],
+        "pixel": [
+          307,
+          272
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1905"]
+}

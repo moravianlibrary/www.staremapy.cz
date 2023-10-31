@@ -1,0 +1,129 @@
+{
+  "date": ["1925"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:7c8b7e76-8ff3-11ec-9657-fa163e4ea95f?page=uuid%3A7db519b0-8ff3-11ec-9657-fa163e4ea95f",
+  "description": "Tripolis (Libye)",
+  "scale": 15000,
+  "external_id": "1214654",
+  "title": "Tripoli Harbour",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.967299,
+    32.821068,
+    13.789096,
+    33.112747
+  ],
+  "reviewed": null,
+  "publisher": "Admiralty",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:7c8b7e76-8ff3-11ec-9657-fa163e4ea95f",
+  "id": "a1c498d3-9a4e-565d-bab2-6e73acc3502e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        426
+      ],
+      [
+        281,
+        443
+      ],
+      [
+        260,
+        428
+      ],
+      [
+        17,
+        422
+      ],
+      [
+        13,
+        33
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T15:58:54.193480+00:00",
+    "transformation_method": "affine",
+    "mapID": "a1c498d3-9a4e-565d-bab2-6e73acc3502e",
+    "affine_transformation": null,
+    "changed": "2023-03-16T20:29:47.870652+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.172528520965585,
+          32.895553342783415
+        ],
+        "pixel": [
+          158,
+          319
+        ]
+      },
+      {
+        "location": [
+          13.176938079404133,
+          32.894071612351624
+        ],
+        "pixel": [
+          173,
+          326
+        ]
+      },
+      {
+        "location": [
+          13.17817188873288,
+          32.898165797135064
+        ],
+        "pixel": [
+          177,
+          307
+        ]
+      },
+      {
+        "location": [
+          13.203592155664943,
+          32.88479024636277
+        ],
+        "pixel": [
+          189,
+          343
+        ]
+      },
+      {
+        "location": [
+          13.225471906697313,
+          32.900551270084435
+        ],
+        "pixel": [
+          213,
+          340
+        ]
+      },
+      {
+        "location": [
+          13.187519724352969,
+          32.88171341159392
+        ],
+        "pixel": [
+          212,
+          382
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1925"]
+}

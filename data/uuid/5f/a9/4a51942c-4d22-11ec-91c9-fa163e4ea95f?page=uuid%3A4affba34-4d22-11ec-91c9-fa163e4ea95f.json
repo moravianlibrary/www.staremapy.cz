@@ -1,0 +1,121 @@
+{
+  "date": ["1882"],
+  "creator": "Kohut, Josef",
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:4a51942c-4d22-11ec-91c9-fa163e4ea95f?page=uuid%3A4affba34-4d22-11ec-91c9-fa163e4ea95f",
+  "description": "Šumava-oblast",
+  "scale": 288000,
+  "external_id": "1038494",
+  "title": "Šumava",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Líčka, Josef",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.654562,
+    48.47537,
+    14.68116,
+    49.614296
+  ],
+  "reviewed": null,
+  "publisher": "nákladem Františka Řivnáče",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:4a51942c-4d22-11ec-91c9-fa163e4ea95f",
+  "id": "64447ca7-be92-5050-b6db-ff3df4cefc48",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        34,
+        408
+      ],
+      [
+        572,
+        408
+      ],
+      [
+        572,
+        45
+      ],
+      [
+        34,
+        45
+      ],
+      [
+        34,
+        408
+      ]
+    ],
+    "created": "2016-11-28T08:26:42.546270+00:00",
+    "transformation_method": "affine",
+    "mapID": "64447ca7-be92-5050-b6db-ff3df4cefc48",
+    "affine_transformation": null,
+    "changed": "2016-11-28T08:26:42.546270+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.350991726,
+          48.780330424
+        ],
+        "pixel": [
+          511,
+          178
+        ]
+      },
+      {
+        "location": [
+          13.776525974,
+          49.053101758
+        ],
+        "pixel": [
+          324,
+          189
+        ]
+      },
+      {
+        "location": [
+          13.471998692,
+          49.389903358
+        ],
+        "pixel": [
+          178,
+          59
+        ]
+      },
+      {
+        "location": [
+          13.289350986,
+          49.396160162
+        ],
+        "pixel": [
+          139,
+          113
+        ]
+      },
+      {
+        "location": [
+          14.31210947,
+          48.616273395
+        ],
+        "pixel": [
+          543,
+          305
+        ]
+      },
+      {
+        "location": [
+          14.318376064,
+          48.815384096
+        ],
+        "pixel": [
+          497,
+          170
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1882"]
+}

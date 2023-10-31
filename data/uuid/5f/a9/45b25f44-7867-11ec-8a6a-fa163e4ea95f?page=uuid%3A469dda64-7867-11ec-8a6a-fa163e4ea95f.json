@@ -1,0 +1,101 @@
+{
+  "date": ["1932"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:45b25f44-7867-11ec-8a6a-fa163e4ea95f?page=uuid%3A469dda64-7867-11ec-8a6a-fa163e4ea95f",
+  "description": "Skopje (Makedonie)",
+  "scale": 7500,
+  "external_id": "1129561",
+  "title": "Plan grada Skoplja",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    21.406166,
+    41.98123,
+    21.460432,
+    42.019997
+  ],
+  "reviewed": null,
+  "publisher": "Zadužbinska štamparija Vardarske Banovine Nemanja",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:45b25f44-7867-11ec-8a6a-fa163e4ea95f",
+  "id": "833d5ef5-8ea5-5e88-9ad8-f72eb5c506d7",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2014-08-19T14:20:09.300210+00:00",
+    "transformation_method": "affine",
+    "mapID": "833d5ef5-8ea5-5e88-9ad8-f72eb5c506d7",
+    "affine_transformation": null,
+    "changed": "2023-02-07T17:33:43.748146+00:00",
+    "gcps": [
+      {
+        "location": [
+          21.416339976,
+          41.997030546
+        ],
+        "pixel": [
+          89,
+          267
+        ]
+      },
+      {
+        "location": [
+          21.429214579,
+          41.991225609
+        ],
+        "pixel": [
+          266,
+          326
+        ]
+      },
+      {
+        "location": [
+          21.445544718,
+          42.011724148
+        ],
+        "pixel": [
+          465,
+          90
+        ]
+      },
+      {
+        "location": [
+          21.437789527856427,
+          41.994157850862024
+        ],
+        "pixel": [
+          318,
+          301
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1932"]
+}

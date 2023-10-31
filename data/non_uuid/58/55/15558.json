@@ -1,0 +1,129 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Us_Schonborn_M_12/ImageProperties.xml",
+  "description": null,
+  "scale": 25000,
+  "external_id": "15558",
+  "title": "Přehledná mapa naftových polí v okolí Bohorodčan",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    24.37224,
+    48.65763,
+    24.700222,
+    48.924267
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/15558",
+  "id": "8f5aeddd-8109-50bd-8a4f-8b467b711ffd",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        10029,
+        27600
+      ],
+      [
+        10221,
+        32112
+      ],
+      [
+        23149,
+        32144
+      ],
+      [
+        23149,
+        4112
+      ],
+      [
+        621,
+        4112
+      ],
+      [
+        557,
+        27664
+      ],
+      [
+        10029,
+        27600
+      ]
+    ],
+    "created": "2014-11-30T15:00:14.069580+00:00",
+    "transformation_method": "affine",
+    "mapID": "8f5aeddd-8109-50bd-8a4f-8b467b711ffd",
+    "affine_transformation": null,
+    "changed": "2014-11-30T15:00:14.069580+00:00",
+    "gcps": [
+      {
+        "location": [
+          24.609632492,
+          48.655083751
+        ],
+        "pixel": [
+          16962,
+          32400
+        ]
+      },
+      {
+        "location": [
+          24.603624344,
+          48.674357702
+        ],
+        "pixel": [
+          16546,
+          30392
+        ]
+      },
+      {
+        "location": [
+          24.52152729,
+          48.78554887
+        ],
+        "pixel": [
+          10845,
+          18712
+        ]
+      },
+      {
+        "location": [
+          24.424710274,
+          48.76880667
+        ],
+        "pixel": [
+          4161,
+          20440
+        ]
+      },
+      {
+        "location": [
+          24.597101212,
+          48.800589463
+        ],
+        "pixel": [
+          16076,
+          17080
+        ]
+      },
+      {
+        "location": [
+          24.610791206,
+          48.870079444
+        ],
+        "pixel": [
+          16977,
+          9832
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1920"]
+}

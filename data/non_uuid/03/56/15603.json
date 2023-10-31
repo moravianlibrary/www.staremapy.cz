@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Tynec_M_13/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "15603",
+  "title": "Katastrální mapa obce Křištín WC-VIII-26 di",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.325125,
+    49.336212,
+    13.3300085,
+    49.34391
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/15603",
+  "id": "9d24f5b9-1f99-5892-850e-c065bb365c44",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        5664,
+        9632
+      ],
+      [
+        8800,
+        9632
+      ],
+      [
+        8800,
+        2752
+      ],
+      [
+        5664,
+        2752
+      ],
+      [
+        5664,
+        9632
+      ]
+    ],
+    "created": "2015-03-11T07:22:24.521900+00:00",
+    "transformation_method": "affine",
+    "mapID": "9d24f5b9-1f99-5892-850e-c065bb365c44",
+    "affine_transformation": null,
+    "changed": "2015-03-11T07:22:24.521900+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.326592692,
+          49.341346094
+        ],
+        "pixel": [
+          6592,
+          4896
+        ]
+      },
+      {
+        "location": [
+          13.327665576,
+          49.337599105
+        ],
+        "pixel": [
+          7296,
+          8544
+        ]
+      },
+      {
+        "location": [
+          13.329510935,
+          49.342828033
+        ],
+        "pixel": [
+          8544,
+          3680
+        ]
+      },
+      {
+        "location": [
+          13.327665576,
+          49.343219482
+        ],
+        "pixel": [
+          7424,
+          3392
+        ]
+      },
+      {
+        "location": [
+          13.327751406,
+          49.340255582
+        ],
+        "pixel": [
+          7328,
+          5888
+        ]
+      },
+      {
+        "location": [
+          13.327965983,
+          49.342296777
+        ],
+        "pixel": [
+          7456,
+          4224
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1888"]
+}

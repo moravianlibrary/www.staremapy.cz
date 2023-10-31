@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1119/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "6995",
+  "title": "Mláka o. Jindřichův Hradec 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.827985,
+    49.057983,
+    14.876233,
+    49.07657
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/6995",
+  "id": "c9703f8e-aa1f-5000-9820-16da5523ed10",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        256,
+        10512
+      ],
+      [
+        14384,
+        10416
+      ],
+      [
+        14480,
+        2160
+      ],
+      [
+        80,
+        4304
+      ],
+      [
+        256,
+        10512
+      ]
+    ],
+    "created": "2015-05-16T21:55:06.118530+00:00",
+    "transformation_method": "affine",
+    "mapID": "c9703f8e-aa1f-5000-9820-16da5523ed10",
+    "affine_transformation": null,
+    "changed": "2015-05-16T21:55:06.118530+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.82951093,
+          49.067392857
+        ],
+        "pixel": [
+          551,
+          6330
+        ]
+      },
+      {
+        "location": [
+          14.843031945,
+          49.060776163
+        ],
+        "pixel": [
+          4632,
+          9264
+        ]
+      },
+      {
+        "location": [
+          14.849849908,
+          49.065159017
+        ],
+        "pixel": [
+          6632,
+          7255
+        ]
+      },
+      {
+        "location": [
+          14.847363713,
+          49.069255566
+        ],
+        "pixel": [
+          5879,
+          5412
+        ]
+      },
+      {
+        "location": [
+          14.857180478,
+          49.059587018
+        ],
+        "pixel": [
+          8837,
+          9768
+        ]
+      },
+      {
+        "location": [
+          14.871934625,
+          49.065714877
+        ],
+        "pixel": [
+          13243,
+          7072
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1827"]
+}

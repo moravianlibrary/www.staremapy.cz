@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plana_M_18-1/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "14991",
+  "title": "Katastrální mapa obce Planá",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.706686,
+    49.872063,
+    12.7153,
+    49.886795
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/14991",
+  "id": "f2288602-6954-5fcc-9316-22ab0ce0aa53",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        6264,
+        42
+      ],
+      [
+        6291,
+        13266
+      ],
+      [
+        1462,
+        13076
+      ],
+      [
+        1489,
+        79
+      ],
+      [
+        6264,
+        42
+      ]
+    ],
+    "created": "2014-11-25T16:55:14.346750+00:00",
+    "transformation_method": "affine",
+    "mapID": "f2288602-6954-5fcc-9316-22ab0ce0aa53",
+    "affine_transformation": null,
+    "changed": "2014-11-25T16:55:14.346750+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.707993746,
+          49.878662032
+        ],
+        "pixel": [
+          2082,
+          7287
+        ]
+      },
+      {
+        "location": [
+          12.712317467,
+          49.883905828
+        ],
+        "pixel": [
+          4784,
+          2626
+        ]
+      },
+      {
+        "location": [
+          12.710069615586779,
+          49.87676978000326
+        ],
+        "pixel": [
+          3276,
+          9046
+        ]
+      },
+      {
+        "location": [
+          12.708658993736302,
+          49.88033368581691
+        ],
+        "pixel": [
+          2540,
+          5796
+        ]
+      },
+      {
+        "location": [
+          12.71459198,
+          49.872615577
+        ],
+        "pixel": [
+          5920,
+          12742
+        ]
+      },
+      {
+        "location": [
+          12.712344128831411,
+          49.87488912895685
+        ],
+        "pixel": [
+          4532,
+          10738
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1842"]
+}

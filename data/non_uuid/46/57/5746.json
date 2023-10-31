@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_0620/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "5746",
+  "title": "Geometrický plán rybníka Švancenberk s přilehlými pozemky 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.690668,
+    49.131203,
+    14.7179575,
+    49.155426
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/5746",
+  "id": "0f5eb60b-557d-5526-af09-d222e907e057",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        29363,
+        0
+      ],
+      [
+        29363,
+        20933
+      ],
+      [
+        0,
+        20933
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        29363,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:08:36.113530+00:00",
+    "transformation_method": "affine",
+    "mapID": "0f5eb60b-557d-5526-af09-d222e907e057",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:08:36.113530+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.698662089457187,
+          49.13980648593858
+        ],
+        "pixel": [
+          7287,
+          5819
+        ]
+      },
+      {
+        "location": [
+          14.702266978373201,
+          49.1403399248712
+        ],
+        "pixel": [
+          10978,
+          10947
+        ]
+      },
+      {
+        "location": [
+          14.70880271093493,
+          49.1484106366089
+        ],
+        "pixel": [
+          22030,
+          11854
+        ]
+      },
+      {
+        "location": [
+          14.708062421246819,
+          49.14996855316707
+        ],
+        "pixel": [
+          25055,
+          9546
+        ]
+      },
+      {
+        "location": [
+          14.702573685901626,
+          49.1493371516992
+        ],
+        "pixel": [
+          21971,
+          5100
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1829"]
+}

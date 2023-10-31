@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/2878_02/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "36255",
+  "title": "Generální mapa ČSR",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    11.823092,
+    49.499947,
+    12.83781,
+    50.504925
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/36255",
+  "id": "513f8d1c-c948-53e6-910f-e90fd7395ca6",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1081,
+        14054
+      ],
+      [
+        9593,
+        14054
+      ],
+      [
+        9593,
+        902
+      ],
+      [
+        1081,
+        902
+      ],
+      [
+        1081,
+        14054
+      ]
+    ],
+    "created": "2015-02-20T14:18:18.997800+00:00",
+    "transformation_method": "affine",
+    "mapID": "513f8d1c-c948-53e6-910f-e90fd7395ca6",
+    "affine_transformation": null,
+    "changed": "2015-02-20T14:18:18.997800+00:00",
+    "gcps": [
+      {
+        "location": [
+          11.913685799,
+          50.324067528
+        ],
+        "pixel": [
+          1814,
+          3292
+        ]
+      },
+      {
+        "location": [
+          12.510938644,
+          50.325190876
+        ],
+        "pixel": [
+          6820,
+          3267
+        ]
+      },
+      {
+        "location": [
+          12.370347977,
+          50.080746569
+        ],
+        "pixel": [
+          5658,
+          6489
+        ]
+      },
+      {
+        "location": [
+          12.007244216,
+          50.035741722
+        ],
+        "pixel": [
+          2597,
+          7052
+        ]
+      },
+      {
+        "location": [
+          12.410087585,
+          49.645875581
+        ],
+        "pixel": [
+          6021,
+          12175
+        ]
+      },
+      {
+        "location": [
+          12.687063217,
+          49.959697468
+        ],
+        "pixel": [
+          8380,
+          8078
+        ]
+      },
+      {
+        "location": [
+          12.65247345,
+          49.805201222
+        ],
+        "pixel": [
+          8077,
+          10096
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

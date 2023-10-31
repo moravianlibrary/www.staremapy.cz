@@ -1,0 +1,121 @@
+{
+  "date": ["1929"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:b29e5cf2-943c-11ec-965a-fa163e4ea95f?page=uuid%3Ab3a02464-943c-11ec-965a-fa163e4ea95f",
+  "description": "Bohutín (Příbram, Česko)",
+  "scale": 10000,
+  "external_id": "1253921",
+  "title": "[Mapový list]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.895061,
+    49.655724,
+    13.957075,
+    49.686596
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:b29e5cf2-943c-11ec-965a-fa163e4ea95f",
+  "id": "a1eaea57-83fd-5aae-9e0d-ae310c802a4e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        533,
+        57
+      ],
+      [
+        532,
+        367
+      ],
+      [
+        95,
+        367
+      ],
+      [
+        95,
+        57
+      ],
+      [
+        533,
+        57
+      ]
+    ],
+    "created": "2015-11-05T16:11:55.689990+00:00",
+    "transformation_method": "affine",
+    "mapID": "a1eaea57-83fd-5aae-9e0d-ae310c802a4e",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:11:55.689990+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.952014847,
+          49.674745839
+        ],
+        "pixel": [
+          498,
+          175
+        ]
+      },
+      {
+        "location": [
+          13.917467359582059,
+          49.68442520320093
+        ],
+        "pixel": [
+          253,
+          79
+        ]
+      },
+      {
+        "location": [
+          13.899535853462975,
+          49.661293892006
+        ],
+        "pixel": [
+          125,
+          311
+        ]
+      },
+      {
+        "location": [
+          13.899600226479333,
+          49.65972433564622
+        ],
+        "pixel": [
+          129,
+          331
+        ]
+      },
+      {
+        "location": [
+          13.945695562,
+          49.656114451
+        ],
+        "pixel": [
+          452,
+          363
+        ]
+      },
+      {
+        "location": [
+          13.910262002341458,
+          49.68163503346105
+        ],
+        "pixel": [
+          203,
+          106
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1929"]
+}

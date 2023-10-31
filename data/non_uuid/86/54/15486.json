@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plana_M_112/ImageProperties.xml",
+  "description": null,
+  "scale": 8640,
+  "external_id": "15486",
+  "title": "Hospodářská mapa revíru Plánská Huť",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.534583,
+    49.91829,
+    12.576266,
+    49.932777
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/15486",
+  "id": "d1527f57-6a1d-5988-a8f3-2f4b5336652d",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        3772,
+        8284
+      ],
+      [
+        11852,
+        8284
+      ],
+      [
+        11852,
+        5068
+      ],
+      [
+        3772,
+        5068
+      ],
+      [
+        3772,
+        8284
+      ]
+    ],
+    "created": "2014-12-25T20:08:20.340430+00:00",
+    "transformation_method": "affine",
+    "mapID": "d1527f57-6a1d-5988-a8f3-2f4b5336652d",
+    "affine_transformation": null,
+    "changed": "2014-12-25T20:08:20.340430+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.571824574,
+          49.924729336
+        ],
+        "pixel": [
+          10979,
+          7333
+        ]
+      },
+      {
+        "location": [
+          12.559316446,
+          49.923927079
+        ],
+        "pixel": [
+          8623,
+          7226
+        ]
+      },
+      {
+        "location": [
+          12.548179914,
+          49.925792006
+        ],
+        "pixel": [
+          6471,
+          6394
+        ]
+      },
+      {
+        "location": [
+          12.547064115,
+          49.921564735
+        ],
+        "pixel": [
+          6171,
+          7594
+        ]
+      },
+      {
+        "location": [
+          12.536614229,
+          49.92488718
+        ],
+        "pixel": [
+          3979,
+          6486
+        ]
+      },
+      {
+        "location": [
+          12.552686025,
+          49.924355328
+        ],
+        "pixel": [
+          7287,
+          6890
+        ]
+      },
+      {
+        "location": [
+          12.57259705,
+          49.923043961
+        ],
+        "pixel": [
+          11089,
+          7825
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1903"]
+}

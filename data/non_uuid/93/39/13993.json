@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Kout_na_Sumave_M_92-2/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "13993",
+  "title": "Katastrální mapa obce Fleky spolu s obcemi Červené Dřevo, Lindlův Dvůr, Radošín a Webrův Dvůr",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.041904,
+    49.28764,
+    13.070964,
+    49.30486
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/13993",
+  "id": "e452ce1e-0205-5f0d-b218-101af97aea8c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        16892,
+        0
+      ],
+      [
+        16892,
+        15183
+      ],
+      [
+        0,
+        15183
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        16892,
+        0
+      ]
+    ],
+    "created": "2014-11-25T16:33:32.852030+00:00",
+    "transformation_method": "affine",
+    "mapID": "e452ce1e-0205-5f0d-b218-101af97aea8c",
+    "affine_transformation": null,
+    "changed": "2014-11-25T16:33:32.852030+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.045332617,
+          49.290138128
+        ],
+        "pixel": [
+          1916,
+          12950
+        ]
+      },
+      {
+        "location": [
+          13.058125575,
+          49.291670629
+        ],
+        "pixel": [
+          9378,
+          11774
+        ]
+      },
+      {
+        "location": [
+          13.050538659,
+          49.30174654
+        ],
+        "pixel": [
+          5028,
+          2569
+        ]
+      },
+      {
+        "location": [
+          13.06689477,
+          49.296499254
+        ],
+        "pixel": [
+          14588,
+          7463
+        ]
+      },
+      {
+        "location": [
+          13.054374218,
+          49.303684396
+        ],
+        "pixel": [
+          7296,
+          878
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1837"]
+}

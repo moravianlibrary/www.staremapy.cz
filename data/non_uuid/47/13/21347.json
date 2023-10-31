@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/Vs_Litomysl_007_II/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "21347",
+  "title": "Indikační skica mapy stabilního katastru pro obec Dětrichov II",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.538029,
+    49.81211,
+    16.565058,
+    49.819614
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/21347",
+  "id": "c05a477f-9282-5548-b09a-a6e80783a932",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        2750,
+        8374
+      ],
+      [
+        18270,
+        8374
+      ],
+      [
+        18270,
+        1558
+      ],
+      [
+        2750,
+        1558
+      ],
+      [
+        2750,
+        8374
+      ]
+    ],
+    "created": "2015-02-23T08:01:38.454360+00:00",
+    "transformation_method": "affine",
+    "mapID": "c05a477f-9282-5548-b09a-a6e80783a932",
+    "affine_transformation": null,
+    "changed": "2015-02-23T08:01:38.454360+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.559423447,
+          49.818626869
+        ],
+        "pixel": [
+          15123,
+          2467
+        ]
+      },
+      {
+        "location": [
+          16.553458214,
+          49.814307133
+        ],
+        "pixel": [
+          11523,
+          6355
+        ]
+      },
+      {
+        "location": [
+          16.549080849,
+          49.816300905
+        ],
+        "pixel": [
+          9155,
+          4579
+        ]
+      },
+      {
+        "location": [
+          16.543931008,
+          49.818793005
+        ],
+        "pixel": [
+          6115,
+          2275
+        ]
+      },
+      {
+        "location": [
+          16.54539013,
+          49.812479436
+        ],
+        "pixel": [
+          6931,
+          8063
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

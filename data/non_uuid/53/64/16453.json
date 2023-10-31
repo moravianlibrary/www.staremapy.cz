@@ -1,0 +1,91 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/orlik_0164/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "16453",
+  "title": "Dvě pozdější kopie předcházející Planskerovy mapy z r. 1755, list 2 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.875417,
+    49.254696,
+    15.25032,
+    49.78666
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/16453",
+  "id": "438b006d-1c94-54d8-aef7-fb4fa38450a5",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        7479,
+        0
+      ],
+      [
+        7479,
+        6505
+      ],
+      [
+        0,
+        6505
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        7479,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:31:52.142280+00:00",
+    "transformation_method": "affine",
+    "mapID": "438b006d-1c94-54d8-aef7-fb4fa38450a5",
+    "affine_transformation": null,
+    "changed": "2023-02-24T19:51:05.275318+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.238008443777238,
+          49.4727049013147
+        ],
+        "pixel": [
+          7033,
+          3806
+        ]
+      },
+      {
+        "location": [
+          14.21393293565956,
+          49.4999845636826
+        ],
+        "pixel": [
+          606,
+          1479
+        ]
+      },
+      {
+        "location": [
+          14.241117834872895,
+          49.48963836926643
+        ],
+        "pixel": [
+          1927,
+          1870
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1767"]
+}

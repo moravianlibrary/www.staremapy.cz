@@ -1,0 +1,132 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Tachov_M_29_12/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "21851",
+  "title": "Katastrální mapa obce Pavlův Studenec WC-XVI-19 cg",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.481832,
+    49.759853,
+    12.497156,
+    49.773994
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/21851",
+  "id": "4cb36dce-0a10-5a20-bab0-614ea535bd7a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        752,
+        12960
+      ],
+      [
+        8432,
+        13056
+      ],
+      [
+        7080,
+        9032
+      ],
+      [
+        6400,
+        4080
+      ],
+      [
+        10480,
+        640
+      ],
+      [
+        752,
+        672
+      ],
+      [
+        752,
+        12960
+      ]
+    ],
+    "created": "2016-08-29T19:34:10.309970+00:00",
+    "transformation_method": "affine",
+    "mapID": "4cb36dce-0a10-5a20-bab0-614ea535bd7a",
+    "affine_transformation": null,
+    "changed": "2016-08-29T19:34:10.309970+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.48550272,
+          49.772178748
+        ],
+        "pixel": [
+          3088,
+          2240
+        ]
+      },
+      {
+        "location": [
+          12.490523815,
+          49.770016855
+        ],
+        "pixel": [
+          6128,
+          4064
+        ]
+      },
+      {
+        "location": [
+          12.491167545,
+          49.760619818
+        ],
+        "pixel": [
+          6224,
+          12320
+        ]
+      },
+      {
+        "location": [
+          12.487519741,
+          49.771319546
+        ],
+        "pixel": [
+          4240,
+          2848
+        ]
+      },
+      {
+        "location": [
+          12.490437984,
+          49.765082945
+        ],
+        "pixel": [
+          5936,
+          8320
+        ]
+      },
+      {
+        "location": [
+          12.493270397,
+          49.761728708
+        ],
+        "pixel": [
+          7696,
+          11520
+        ]
+      }
+    ]
+  },
+  "pubdate": [
+    "1838",
+    "1845"
+  ]
+}

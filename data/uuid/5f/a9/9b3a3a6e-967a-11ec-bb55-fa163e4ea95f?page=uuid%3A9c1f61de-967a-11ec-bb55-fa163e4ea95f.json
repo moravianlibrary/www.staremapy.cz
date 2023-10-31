@@ -1,0 +1,101 @@
+{
+  "date": ["1873"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:9b3a3a6e-967a-11ec-bb55-fa163e4ea95f?page=uuid%3A9c1f61de-967a-11ec-bb55-fa163e4ea95f",
+  "description": "Vídeň (Rakousko)",
+  "scale": 3800,
+  "external_id": "1269440",
+  "title": "Wetlausstellung Wien im Jahre 1873",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.388489,
+    48.201504,
+    16.432325,
+    48.22917
+  ],
+  "reviewed": null,
+  "publisher": "E. Förster",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:9b3a3a6e-967a-11ec-bb55-fa163e4ea95f",
+  "id": "ea66e046-09d9-50ef-90a5-8e50fbbd1458",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:19:51.051900+00:00",
+    "transformation_method": "affine",
+    "mapID": "ea66e046-09d9-50ef-90a5-8e50fbbd1458",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:19:51.051900+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.39057651469999,
+          48.21806978847181
+        ],
+        "pixel": [
+          15,
+          400
+        ]
+      },
+      {
+        "location": [
+          16.405042988188946,
+          48.21543471288942
+        ],
+        "pixel": [
+          232,
+          285
+        ]
+      },
+      {
+        "location": [
+          16.409022019060306,
+          48.21135517281189
+        ],
+        "pixel": [
+          340,
+          331
+        ]
+      },
+      {
+        "location": [
+          16.406807810945427,
+          48.209492399948545
+        ],
+        "pixel": [
+          340,
+          401
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1873"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_4121/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "12386",
+  "title": "Plán skladu železa a rybářského náčiní v třeboňském klášteře 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.768583,
+    49.00508,
+    14.769077,
+    49.005417
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/12386",
+  "id": "142f01d8-d379-59c8-b861-b3031527cb5b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        6512,
+        0
+      ],
+      [
+        6512,
+        8131
+      ],
+      [
+        0,
+        8131
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        6512,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:27:47.522080+00:00",
+    "transformation_method": "affine",
+    "mapID": "142f01d8-d379-59c8-b861-b3031527cb5b",
+    "affine_transformation": null,
+    "changed": "2023-01-13T19:22:39.228173+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.768717786046288,
+          49.005167805958564
+        ],
+        "pixel": [
+          868,
+          5991
+        ]
+      },
+      {
+        "location": [
+          14.768885424109719,
+          49.00514493239021
+        ],
+        "pixel": [
+          3623,
+          6626
+        ]
+      },
+      {
+        "location": [
+          14.768759360286019,
+          49.005267217883556
+        ],
+        "pixel": [
+          2194,
+          3546
+        ]
+      },
+      {
+        "location": [
+          14.768975278111714,
+          49.00524346460978
+        ],
+        "pixel": [
+          5630,
+          4401
+        ]
+      },
+      {
+        "location": [
+          14.768808981152793,
+          49.00530768639794
+        ],
+        "pixel": [
+          3271,
+          2470
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1913"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": ["1884"],
+  "creator": "Feigel, Karl Roman",
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.mzk.cz/search/iiif/uuid:705e97ec-3203-4f90-a6dd-a27c07dbc3c3/info.json",
+  "description": null,
+  "scale": 75000,
+  "external_id": "705e97ec-3203-4f90-a6dd-a27c07dbc3c3",
+  "title": "Bajmok und Topolya",
+  "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    19.33133,
+    45.749763,
+    19.831701,
+    45.998962
+  ],
+  "reviewed": null,
+  "publisher": "K.u.k. Militärgeographisches Institut",
+  "link_url": "https://www.digitalniknihovna.cz/mzk/view/uuid:34fdb9bc-9f20-44eb-ae75-5db4ee473b05?page=uuid:705e97ec-3203-4f90-a6dd-a27c07dbc3c3",
+  "id": "e79af461-8b38-5c28-ba8f-5a43d2506476",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        13532,
+        1179
+      ],
+      [
+        13583,
+        9827
+      ],
+      [
+        1572,
+        9759
+      ],
+      [
+        1578,
+        1124
+      ],
+      [
+        13532,
+        1179
+      ]
+    ],
+    "created": "2018-12-19T14:27:52.977214+00:00",
+    "transformation_method": "affine",
+    "mapID": "e79af461-8b38-5c28-ba8f-5a43d2506476",
+    "affine_transformation": null,
+    "changed": "2021-04-26T10:38:24.972498+00:00",
+    "gcps": [
+      {
+        "location": [
+          19.395486517418348,
+          45.817470511993804
+        ],
+        "pixel": [
+          3075,
+          7417
+        ]
+      },
+      {
+        "location": [
+          19.42532715193184,
+          45.965367682543786
+        ],
+        "pixel": [
+          3777,
+          2308
+        ]
+      },
+      {
+        "location": [
+          19.66862897325131,
+          45.942264563639526
+        ],
+        "pixel": [
+          9632,
+          3138
+        ]
+      },
+      {
+        "location": [
+          19.80935089755273,
+          45.926883414579464
+        ],
+        "pixel": [
+          13003,
+          3670
+        ]
+      },
+      {
+        "location": [
+          19.626869089948578,
+          45.77091781302141
+        ],
+        "pixel": [
+          8691,
+          9083
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

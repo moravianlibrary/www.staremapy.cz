@@ -1,0 +1,111 @@
+{
+  "date": ["1929"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:f30e751e-9e4c-11ec-adde-fa163e4ea95f?page=uuid%3Af3fac900-9e4c-11ec-adde-fa163e4ea95f",
+  "description": "Morava (Česko)",
+  "scale": 75000,
+  "external_id": "1305121",
+  "title": "Vsetín",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    17.777122,
+    49.25528,
+    18.444464,
+    49.51024
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:f30e751e-9e4c-11ec-adde-fa163e4ea95f",
+  "id": "97bd3b27-338d-5fea-8f2d-fff76d882859",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        550,
+        39
+      ],
+      [
+        552,
+        399
+      ],
+      [
+        50,
+        399
+      ],
+      [
+        50,
+        42
+      ],
+      [
+        550,
+        39
+      ]
+    ],
+    "created": "2015-11-05T16:52:15.838050+00:00",
+    "transformation_method": "affine",
+    "mapID": "97bd3b27-338d-5fea-8f2d-fff76d882859",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:52:15.838050+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.323265515136722,
+          49.36988456959142
+        ],
+        "pixel": [
+          448,
+          254
+        ]
+      },
+      {
+        "location": [
+          17.97273298339844,
+          49.47350818452111
+        ],
+        "pixel": [
+          184,
+          81
+        ]
+      },
+      {
+        "location": [
+          17.999855480957038,
+          49.33477271380218
+        ],
+        "pixel": [
+          221,
+          282
+        ]
+      },
+      {
+        "location": [
+          18.177498711936295,
+          49.46868226609715
+        ],
+        "pixel": [
+          396,
+          87
+        ]
+      },
+      {
+        "location": [
+          17.8999332319664,
+          49.3663977503675
+        ],
+        "pixel": [
+          127,
+          235
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1929"]
+}

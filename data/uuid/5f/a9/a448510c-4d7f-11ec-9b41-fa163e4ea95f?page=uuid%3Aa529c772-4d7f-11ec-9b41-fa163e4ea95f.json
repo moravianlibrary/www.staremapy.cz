@@ -1,0 +1,121 @@
+{
+  "date": ["1834"],
+  "creator": "Rouvre, F. Richard de",
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:a448510c-4d7f-11ec-9b41-fa163e4ea95f?page=uuid%3Aa529c772-4d7f-11ec-9b41-fa163e4ea95f",
+  "description": null,
+  "scale": 160000,
+  "external_id": "1042619",
+  "title": "Carta del dipartimento del Bacchiglione",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Lanzani, K.",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    11.03002,
+    45.253563,
+    12.277725,
+    46.035805
+  ],
+  "reviewed": null,
+  "publisher": "Giuseppe Giuliani",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:a448510c-4d7f-11ec-9b41-fa163e4ea95f",
+  "id": "33de6e8b-b1e6-5c22-82f1-2e595a14c268",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        49,
+        423
+      ],
+      [
+        551,
+        423
+      ],
+      [
+        551,
+        24
+      ],
+      [
+        49,
+        24
+      ],
+      [
+        49,
+        423
+      ]
+    ],
+    "created": "2015-11-07T18:43:18.840140+00:00",
+    "transformation_method": "affine",
+    "mapID": "33de6e8b-b1e6-5c22-82f1-2e595a14c268",
+    "affine_transformation": null,
+    "changed": "2015-11-07T18:43:18.840140+00:00",
+    "gcps": [
+      {
+        "location": [
+          11.906618367,
+          46.016752208
+        ],
+        "pixel": [
+          406,
+          33
+        ]
+      },
+      {
+        "location": [
+          12.245477925,
+          45.666603848
+        ],
+        "pixel": [
+          543,
+          215
+        ]
+      },
+      {
+        "location": [
+          11.729892979,
+          45.76464718
+        ],
+        "pixel": [
+          331,
+          161
+        ]
+      },
+      {
+        "location": [
+          11.873616467,
+          45.407728662
+        ],
+        "pixel": [
+          387,
+          344
+        ]
+      },
+      {
+        "location": [
+          11.096376668,
+          45.421104361
+        ],
+        "pixel": [
+          71,
+          338
+        ]
+      },
+      {
+        "location": [
+          11.548189412,
+          45.548436263
+        ],
+        "pixel": [
+          256,
+          273
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1834"]
+}

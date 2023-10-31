@@ -1,0 +1,111 @@
+{
+  "date": ["1876"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:8e0badfa-62b3-11ec-bf31-fa163e4ea95f?page=uuid%3A8f5989ca-62b3-11ec-bf31-fa163e4ea95f",
+  "description": "Frýdlant nad Ostravicí-oblast (Česko)",
+  "scale": 25000,
+  "external_id": "1089115",
+  "title": "Gradkartenblatt",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Oražem, Johann",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    18.331266,
+    49.49707,
+    18.582968,
+    49.624203
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:8e0badfa-62b3-11ec-bf31-fa163e4ea95f",
+  "id": "5b1788ab-affe-5bb5-be96-7b908c7967fa",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        19,
+        49
+      ],
+      [
+        17,
+        429
+      ],
+      [
+        547,
+        428
+      ],
+      [
+        549,
+        52
+      ],
+      [
+        19,
+        49
+      ]
+    ],
+    "created": "2014-10-29T15:22:28.025350+00:00",
+    "transformation_method": "affine",
+    "mapID": "5b1788ab-affe-5bb5-be96-7b908c7967fa",
+    "affine_transformation": null,
+    "changed": "2014-10-29T15:22:28.025350+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.357642126,
+          49.612749501
+        ],
+        "pixel": [
+          73,
+          82
+        ]
+      },
+      {
+        "location": [
+          18.343093825,
+          49.605574763
+        ],
+        "pixel": [
+          45,
+          105
+        ]
+      },
+      {
+        "location": [
+          18.550653887,
+          49.561724752
+        ],
+        "pixel": [
+          482,
+          239
+        ]
+      },
+      {
+        "location": [
+          18.448622656,
+          49.545799898
+        ],
+        "pixel": [
+          264,
+          284
+        ]
+      },
+      {
+        "location": [
+          18.352835608,
+          49.599678452
+        ],
+        "pixel": [
+          64,
+          123
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1876"]
+}

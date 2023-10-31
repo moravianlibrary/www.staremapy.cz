@@ -1,0 +1,111 @@
+{
+  "date": ["1919"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:49677ab6-9e6e-11ec-93d9-fa163e4ea95f?page=uuid%3A4a6a39e4-9e6e-11ec-93d9-fa163e4ea95f",
+  "description": "Maďarsko",
+  "scale": 75000,
+  "external_id": "1306060",
+  "title": "Göncz a Csobád",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    20.83243,
+    48.24622,
+    21.333466,
+    48.49601
+  ],
+  "reviewed": null,
+  "publisher": "Zeměpisný ústav M. N. O.",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:49677ab6-9e6e-11ec-93d9-fa163e4ea95f",
+  "id": "067ec6d8-1538-5392-8709-f35509e0a991",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        539,
+        43
+      ],
+      [
+        538,
+        378
+      ],
+      [
+        43,
+        377
+      ],
+      [
+        43,
+        44
+      ],
+      [
+        539,
+        43
+      ]
+    ],
+    "created": "2015-11-05T17:01:20.872740+00:00",
+    "transformation_method": "affine",
+    "mapID": "067ec6d8-1538-5392-8709-f35509e0a991",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:01:20.872740+00:00",
+    "gcps": [
+      {
+        "location": [
+          20.861273528597035,
+          48.33169724866849
+        ],
+        "pixel": [
+          70,
+          266
+        ]
+      },
+      {
+        "location": [
+          21.077252778397394,
+          48.25936010832933
+        ],
+        "pixel": [
+          287,
+          364
+        ]
+      },
+      {
+        "location": [
+          21.27851786445848,
+          48.47027002001937
+        ],
+        "pixel": [
+          484,
+          74
+        ]
+      },
+      {
+        "location": [
+          20.91542406696965,
+          48.2801234604992
+        ],
+        "pixel": [
+          124,
+          335
+        ]
+      },
+      {
+        "location": [
+          20.885310168313868,
+          48.45878396133435
+        ],
+        "pixel": [
+          95,
+          95
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1919"]
+}

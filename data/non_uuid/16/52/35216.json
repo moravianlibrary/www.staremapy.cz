@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/2550_20/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "35216",
+  "title": "Karte des Gemeindegrenzen",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.787874,
+    48.705063,
+    17.437426,
+    49.02968
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/35216",
+  "id": "74e56970-603c-51fc-946c-505d7d0ffaa8",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        14939,
+        0
+      ],
+      [
+        14939,
+        11316
+      ],
+      [
+        0,
+        11316
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        14939,
+        0
+      ]
+    ],
+    "created": "2014-11-25T15:47:32.474390+00:00",
+    "transformation_method": "affine",
+    "mapID": "74e56970-603c-51fc-946c-505d7d0ffaa8",
+    "affine_transformation": null,
+    "changed": "2014-11-25T15:47:32.474390+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.307359695,
+          48.981340036
+        ],
+        "pixel": [
+          11988,
+          1682
+        ]
+      },
+      {
+        "location": [
+          17.041627884,
+          48.838802159
+        ],
+        "pixel": [
+          5827,
+          6676
+        ]
+      },
+      {
+        "location": [
+          16.936491143,
+          48.772853463
+        ],
+        "pixel": [
+          3386,
+          8950
+        ]
+      },
+      {
+        "location": [
+          17.056654107,
+          48.97979762
+        ],
+        "pixel": [
+          6182,
+          1752
+        ]
+      },
+      {
+        "location": [
+          16.886112213,
+          48.969836907
+        ],
+        "pixel": [
+          2266,
+          2084
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

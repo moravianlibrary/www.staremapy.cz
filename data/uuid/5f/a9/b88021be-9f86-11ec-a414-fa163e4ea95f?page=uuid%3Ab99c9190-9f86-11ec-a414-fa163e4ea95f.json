@@ -1,0 +1,111 @@
+{
+  "date": ["1933"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:b88021be-9f86-11ec-a414-fa163e4ea95f?page=uuid%3Ab99c9190-9f86-11ec-a414-fa163e4ea95f",
+  "description": "Prusko",
+  "scale": 25000,
+  "external_id": "1333452",
+  "title": "Bischofswerder",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    19.313087,
+    53.476643,
+    19.534678,
+    53.614666
+  ],
+  "reviewed": null,
+  "publisher": "Reichsamt für Landesaufnahme",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:b88021be-9f86-11ec-a414-fa163e4ea95f",
+  "id": "22d43d68-a087-51d0-a827-359d8fa86b34",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        497,
+        53
+      ],
+      [
+        497,
+        372
+      ],
+      [
+        46,
+        371
+      ],
+      [
+        47,
+        52
+      ],
+      [
+        497,
+        53
+      ]
+    ],
+    "created": "2015-11-05T17:12:13.477700+00:00",
+    "transformation_method": "affine",
+    "mapID": "22d43d68-a087-51d0-a827-359d8fa86b34",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:12:13.477700+00:00",
+    "gcps": [
+      {
+        "location": [
+          19.49621736264287,
+          53.59209713254364
+        ],
+        "pixel": [
+          496,
+          72
+        ]
+      },
+      {
+        "location": [
+          19.33742870302322,
+          53.49935593921461
+        ],
+        "pixel": [
+          66,
+          370
+        ]
+      },
+      {
+        "location": [
+          19.48403503131002,
+          53.50170930651825
+        ],
+        "pixel": [
+          463,
+          363
+        ]
+      },
+      {
+        "location": [
+          19.41278804750563,
+          53.546393860981595
+        ],
+        "pixel": [
+          270,
+          219
+        ]
+      },
+      {
+        "location": [
+          19.36317748107914,
+          53.59234652226246
+        ],
+        "pixel": [
+          135,
+          72
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1933"]
+}

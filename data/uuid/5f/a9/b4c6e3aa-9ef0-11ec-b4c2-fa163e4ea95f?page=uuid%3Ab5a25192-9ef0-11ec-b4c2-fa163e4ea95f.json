@@ -1,0 +1,131 @@
+{
+  "date": ["1915"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:b4c6e3aa-9ef0-11ec-b4c2-fa163e4ea95f?page=uuid%3Ab5a25192-9ef0-11ec-b4c2-fa163e4ea95f",
+  "description": null,
+  "scale": 200000,
+  "external_id": "1329289",
+  "title": "43°49° Kolomea",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    24.698338,
+    48.40744,
+    25.944818,
+    49.562504
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:b4c6e3aa-9ef0-11ec-b4c2-fa163e4ea95f",
+  "id": "e4ead178-9373-57dc-9390-f5aa662ec1b2",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        543,
+        25
+      ],
+      [
+        550,
+        409
+      ],
+      [
+        60,
+        410
+      ],
+      [
+        63,
+        25
+      ],
+      [
+        543,
+        25
+      ]
+    ],
+    "created": "2015-11-05T17:03:30.581020+00:00",
+    "transformation_method": "affine",
+    "mapID": "e4ead178-9373-57dc-9390-f5aa662ec1b2",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:03:30.581020+00:00",
+    "gcps": [
+      {
+        "location": [
+          24.956766170475692,
+          49.452785182332576
+        ],
+        "pixel": [
+          123,
+          43
+        ]
+      },
+      {
+        "location": [
+          24.970267681922262,
+          48.56044508480747
+        ],
+        "pixel": [
+          129,
+          386
+        ]
+      },
+      {
+        "location": [
+          25.430253395428302,
+          49.19607992469912
+        ],
+        "pixel": [
+          352,
+          141
+        ]
+      },
+      {
+        "location": [
+          25.736423730700643,
+          48.63314348247093
+        ],
+        "pixel": [
+          503,
+          357
+        ]
+      },
+      {
+        "location": [
+          25.505446234130858,
+          48.671043192506545
+        ],
+        "pixel": [
+          390,
+          343
+        ]
+      },
+      {
+        "location": [
+          25.829589712290286,
+          49.4902397439636
+        ],
+        "pixel": [
+          542,
+          28
+        ]
+      },
+      {
+        "location": [
+          25.70869943814745,
+          48.820713658599715
+        ],
+        "pixel": [
+          489,
+          285
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1915"]
+}

@@ -1,0 +1,101 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:5c809864-abaa-11ec-9c77-fa163e4ea95f?page=uuid%3A5d8c30ec-abaa-11ec-9c77-fa163e4ea95f",
+  "description": "Egypt",
+  "scale": 100000,
+  "external_id": "1367679",
+  "title": "Map of Lower Egypt 1:100,000",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    30.48849,
+    30.00005,
+    31.00009,
+    30.606556
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:5c809864-abaa-11ec-9c77-fa163e4ea95f",
+  "id": "635f9b53-6e6c-5b48-acb1-3d6b1b1225b1",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        503,
+        30
+      ],
+      [
+        502,
+        373
+      ],
+      [
+        50,
+        374
+      ],
+      [
+        52,
+        31
+      ],
+      [
+        503,
+        30
+      ]
+    ],
+    "created": "2015-11-05T17:43:31.532140+00:00",
+    "transformation_method": "affine",
+    "mapID": "635f9b53-6e6c-5b48-acb1-3d6b1b1225b1",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:43:31.532140+00:00",
+    "gcps": [
+      {
+        "location": [
+          30.938952792425702,
+          30.46269666161281
+        ],
+        "pixel": [
+          449,
+          108
+        ]
+      },
+      {
+        "location": [
+          30.97610003036874,
+          30.48008756721289
+        ],
+        "pixel": [
+          482,
+          98
+        ]
+      },
+      {
+        "location": [
+          30.979771539287633,
+          30.298638447384207
+        ],
+        "pixel": [
+          486,
+          202
+        ]
+      },
+      {
+        "location": [
+          30.846564054987255,
+          30.462956581297846
+        ],
+        "pixel": [
+          367,
+          109
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

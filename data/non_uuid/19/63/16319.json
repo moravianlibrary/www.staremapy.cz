@@ -1,0 +1,91 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/orlik_0030/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "16319",
+  "title": "Nárys části hranic mezi městem Pískem a panstvím Orlíkem v prostoru prvních 4 mezníků 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.611074,
+    49.305416,
+    14.501263,
+    49.35112
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/16319",
+  "id": "e3346373-c90b-5af1-bd21-20546455d90e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        7793,
+        0
+      ],
+      [
+        7793,
+        5046
+      ],
+      [
+        0,
+        5046
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        7793,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:31:22.611400+00:00",
+    "transformation_method": "affine",
+    "mapID": "e3346373-c90b-5af1-bd21-20546455d90e",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:31:22.611400+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.197071075,
+          49.321801103
+        ],
+        "pixel": [
+          4132,
+          1713
+        ]
+      },
+      {
+        "location": [
+          14.193466187,
+          49.321745158
+        ],
+        "pixel": [
+          3700,
+          1737
+        ]
+      },
+      {
+        "location": [
+          14.191234589,
+          49.321633267
+        ],
+        "pixel": [
+          3284,
+          1753
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1709"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/0299/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "18021",
+  "title": "Charte vom Chrudimer Kreise",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.2218075,
+    49.47307,
+    16.84837,
+    50.290287
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/18021",
+  "id": "aa8da73b-b4c2-5c02-854b-2d8d7f3bfbdd",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1010,
+        9817
+      ],
+      [
+        12626,
+        9817
+      ],
+      [
+        12626,
+        761
+      ],
+      [
+        1010,
+        761
+      ],
+      [
+        1010,
+        9817
+      ]
+    ],
+    "created": "2015-08-24T20:33:16.010090+00:00",
+    "transformation_method": "affine",
+    "mapID": "aa8da73b-b4c2-5c02-854b-2d8d7f3bfbdd",
+    "affine_transformation": null,
+    "changed": "2015-08-24T20:33:16.010090+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.738578375,
+          49.576829398
+        ],
+        "pixel": [
+          4571,
+          8824
+        ]
+      },
+      {
+        "location": [
+          15.391330719,
+          49.910833134
+        ],
+        "pixel": [
+          2322,
+          4771
+        ]
+      },
+      {
+        "location": [
+          16.573930359,
+          49.546714725
+        ],
+        "pixel": [
+          10725,
+          9063
+        ]
+      },
+      {
+        "location": [
+          16.7603582,
+          50.0842625
+        ],
+        "pixel": [
+          12009,
+          3074
+        ]
+      },
+      {
+        "location": [
+          15.833358765,
+          50.209428861
+        ],
+        "pixel": [
+          5334,
+          1684
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

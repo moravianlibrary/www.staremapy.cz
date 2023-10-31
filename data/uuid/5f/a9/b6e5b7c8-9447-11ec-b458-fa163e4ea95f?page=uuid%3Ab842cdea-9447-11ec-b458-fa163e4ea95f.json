@@ -1,0 +1,101 @@
+{
+  "date": ["1896"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:b6e5b7c8-9447-11ec-b458-fa163e4ea95f?page=uuid%3Ab842cdea-9447-11ec-b458-fa163e4ea95f",
+  "description": "Brody (Ukrajina)",
+  "scale": 200000,
+  "external_id": "1254239",
+  "title": "Brody",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    24.821226,
+    49.49453,
+    25.837845,
+    50.504433
+  ],
+  "reviewed": null,
+  "publisher": "K.u.k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:b6e5b7c8-9447-11ec-b458-fa163e4ea95f",
+  "id": "0a23953f-f345-5ddc-ada6-fd8c7badf467",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        87,
+        399
+      ],
+      [
+        515,
+        399
+      ],
+      [
+        511,
+        41
+      ],
+      [
+        90,
+        40
+      ],
+      [
+        87,
+        399
+      ]
+    ],
+    "created": "2017-04-23T16:43:02.771100+00:00",
+    "transformation_method": "affine",
+    "mapID": "0a23953f-f345-5ddc-ada6-fd8c7badf467",
+    "affine_transformation": null,
+    "changed": "2017-04-23T16:43:02.771100+00:00",
+    "gcps": [
+      {
+        "location": [
+          25.612958298,
+          49.552186668
+        ],
+        "pixel": [
+          421,
+          380
+        ]
+      },
+      {
+        "location": [
+          25.762647018,
+          50.407224596
+        ],
+        "pixel": [
+          480,
+          76
+        ]
+      },
+      {
+        "location": [
+          25.034720268,
+          50.336348006
+        ],
+        "pixel": [
+          176,
+          99
+        ]
+      },
+      {
+        "location": [
+          24.904168472,
+          49.807546885
+        ],
+        "pixel": [
+          119,
+          289
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1896"]
+}

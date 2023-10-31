@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/3091_1/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "37568",
+  "title": "Bratislava",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    17.115408,
+    48.143032,
+    17.124432,
+    48.148075
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/37568",
+  "id": "df7fd570-ea5e-5ba4-81e4-b0bf7da85a9c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1849,
+        13425
+      ],
+      [
+        1849,
+        1553
+      ],
+      [
+        16601,
+        1617
+      ],
+      [
+        16569,
+        13425
+      ],
+      [
+        1849,
+        13425
+      ]
+    ],
+    "created": "2016-12-08T16:51:40.751590+00:00",
+    "transformation_method": "affine",
+    "mapID": "df7fd570-ea5e-5ba4-81e4-b0bf7da85a9c",
+    "affine_transformation": null,
+    "changed": "2016-12-08T16:51:40.751590+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.122877002,
+          48.144909745
+        ],
+        "pixel": [
+          14224,
+          9732
+        ]
+      },
+      {
+        "location": [
+          17.120994091,
+          48.144000569
+        ],
+        "pixel": [
+          10648,
+          11732
+        ]
+      },
+      {
+        "location": [
+          17.116552353,
+          48.145002809
+        ],
+        "pixel": [
+          3168,
+          8356
+        ]
+      },
+      {
+        "location": [
+          17.12215817,
+          48.146606354
+        ],
+        "pixel": [
+          13400,
+          5172
+        ]
+      },
+      {
+        "location": [
+          17.116965413,
+          48.143345522
+        ],
+        "pixel": [
+          3440,
+          12780
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

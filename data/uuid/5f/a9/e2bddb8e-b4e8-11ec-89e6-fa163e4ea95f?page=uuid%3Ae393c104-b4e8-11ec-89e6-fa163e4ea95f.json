@@ -1,0 +1,101 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:e2bddb8e-b4e8-11ec-89e6-fa163e4ea95f?page=uuid%3Ae393c104-b4e8-11ec-89e6-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1389702",
+  "title": "Bielica",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    24.703865,
+    53.453575,
+    25.436663,
+    53.7885
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:e2bddb8e-b4e8-11ec-89e6-fa163e4ea95f",
+  "id": "ea32e4b2-a841-5aa4-b59e-04c129f10f0f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2016-01-08T13:41:32.601770+00:00",
+    "transformation_method": "affine",
+    "mapID": "ea32e4b2-a841-5aa4-b59e-04c129f10f0f",
+    "affine_transformation": null,
+    "changed": "2016-01-08T13:41:32.601770+00:00",
+    "gcps": [
+      {
+        "location": [
+          24.987663437,
+          53.517946397
+        ],
+        "pixel": [
+          233,
+          359
+        ]
+      },
+      {
+        "location": [
+          25.253137756,
+          53.611742062
+        ],
+        "pixel": [
+          449,
+          234
+        ]
+      },
+      {
+        "location": [
+          24.998993088,
+          53.69974075
+        ],
+        "pixel": [
+          241,
+          116
+        ]
+      },
+      {
+        "location": [
+          25.319699455142576,
+          53.72417480858269
+        ],
+        "pixel": [
+          505,
+          86
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

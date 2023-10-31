@@ -1,0 +1,145 @@
+{
+  "date": ["1942"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:32efee26-7e16-11ec-9f67-fa163e4ea95f?page=uuid%3A33e38d06-7e16-11ec-9f67-fa163e4ea95f",
+  "description": null,
+  "scale": 25000,
+  "external_id": "1141785",
+  "title": "Matrei",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.455408,
+    46.998333,
+    12.586419,
+    47.125202
+  ],
+  "reviewed": null,
+  "publisher": "Hauptvermessungsabteilung XIV",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:32efee26-7e16-11ec-9f67-fa163e4ea95f",
+  "id": "0389c70b-dd7b-5528-9ae5-a0c73076d553",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        49,
+        400
+      ],
+      [
+        45,
+        27
+      ],
+      [
+        542,
+        27
+      ],
+      [
+        550,
+        400
+      ],
+      [
+        550,
+        400
+      ],
+      [
+        49,
+        400
+      ]
+    ],
+    "created": "2015-02-24T04:45:24.617030+00:00",
+    "transformation_method": "affine",
+    "mapID": "0389c70b-dd7b-5528-9ae5-a0c73076d553",
+    "affine_transformation": null,
+    "changed": "2015-02-24T04:45:24.617030+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.495872883,
+          47.047087989
+        ],
+        "pixel": [
+          201,
+          258
+        ]
+      },
+      {
+        "location": [
+          12.515871434,
+          47.051474167
+        ],
+        "pixel": [
+          279,
+          247
+        ]
+      },
+      {
+        "location": [
+          12.526943593,
+          47.016082049
+        ],
+        "pixel": [
+          322,
+          352
+        ]
+      },
+      {
+        "location": [
+          12.513897328,
+          47.045216443
+        ],
+        "pixel": [
+          272,
+          263
+        ]
+      },
+      {
+        "location": [
+          12.509691624,
+          47.045040983
+        ],
+        "pixel": [
+          259,
+          264
+        ]
+      },
+      {
+        "location": [
+          12.53157845,
+          47.000455253
+        ],
+        "pixel": [
+          343,
+          397
+        ]
+      },
+      {
+        "location": [
+          12.487547307,
+          47.054339609
+        ],
+        "pixel": [
+          168,
+          238
+        ]
+      },
+      {
+        "location": [
+          12.545654683,
+          47.006015873
+        ],
+        "pixel": [
+          390,
+          377
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1942"]
+}

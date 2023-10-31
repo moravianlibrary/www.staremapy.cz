@@ -1,0 +1,111 @@
+{
+  "date": ["1938"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:9a3eb3a6-9657-11ec-b859-fa163e4ea95f?page=uuid%3A9b3906bc-9657-11ec-b859-fa163e4ea95f",
+  "description": "Hrušovany nad Jevišovkou (Česko : oblast)",
+  "scale": 25000,
+  "external_id": "1268025",
+  "title": "[Mapový list]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.334553,
+    48.723717,
+    16.5817,
+    48.874393
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:9a3eb3a6-9657-11ec-b859-fa163e4ea95f",
+  "id": "b447209e-bc33-5871-a546-fb39a9f70e7d",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        64,
+        440
+      ],
+      [
+        543,
+        440
+      ],
+      [
+        543,
+        25
+      ],
+      [
+        64,
+        25
+      ],
+      [
+        64,
+        440
+      ]
+    ],
+    "created": "2016-05-12T22:18:41.683300+00:00",
+    "transformation_method": "affine",
+    "mapID": "b447209e-bc33-5871-a546-fb39a9f70e7d",
+    "affine_transformation": null,
+    "changed": "2016-05-12T22:18:41.683300+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.36146388,
+          48.844544647
+        ],
+        "pixel": [
+          116,
+          107
+        ]
+      },
+      {
+        "location": [
+          16.374574518,
+          48.823315706
+        ],
+        "pixel": [
+          141,
+          167
+        ]
+      },
+      {
+        "location": [
+          16.39952979,
+          48.823216814
+        ],
+        "pixel": [
+          190,
+          167
+        ]
+      },
+      {
+        "location": [
+          16.374145364,
+          48.83213041
+        ],
+        "pixel": [
+          140,
+          142
+        ]
+      },
+      {
+        "location": [
+          16.348181581,
+          48.870718854
+        ],
+        "pixel": [
+          91,
+          36
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1938"]
+}

@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Kout_na_Sumave_M_38/ImageProperties.xml",
+  "description": null,
+  "scale": 2728,
+  "external_id": "13907",
+  "title": "Mapa pastvin obce Liščí",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.04592,
+    49.304092,
+    13.075879,
+    49.321877
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/13907",
+  "id": "e40bcfef-158a-538f-8a76-7a0be9b8742f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        396,
+        12490
+      ],
+      [
+        17324,
+        12490
+      ],
+      [
+        17324,
+        394
+      ],
+      [
+        396,
+        394
+      ],
+      [
+        396,
+        12490
+      ]
+    ],
+    "created": "2015-02-21T16:52:52.473620+00:00",
+    "transformation_method": "affine",
+    "mapID": "e40bcfef-158a-538f-8a76-7a0be9b8742f",
+    "affine_transformation": null,
+    "changed": "2015-02-21T16:52:52.473620+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.057826334,
+          49.308357763
+        ],
+        "pixel": [
+          12229,
+          2946
+        ]
+      },
+      {
+        "location": [
+          13.051735037,
+          49.311703042
+        ],
+        "pixel": [
+          14957,
+          7130
+        ]
+      },
+      {
+        "location": [
+          13.057750113,
+          49.314293334
+        ],
+        "pixel": [
+          10342,
+          8365
+        ]
+      },
+      {
+        "location": [
+          13.060865277,
+          49.308618329
+        ],
+        "pixel": [
+          10173,
+          2538
+        ]
+      },
+      {
+        "location": [
+          13.051485592,
+          49.314714123
+        ],
+        "pixel": [
+          14349,
+          10026
+        ]
+      },
+      {
+        "location": [
+          13.065863574,
+          49.315526314
+        ],
+        "pixel": [
+          5017,
+          7622
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1820"]
+}

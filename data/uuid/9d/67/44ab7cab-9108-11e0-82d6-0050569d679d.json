@@ -1,0 +1,115 @@
+{
+  "date": [null],
+  "creator": "Mercator Gerhard",
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.mzk.cz/search/iiif/uuid:44ab7cab-9108-11e0-82d6-0050569d679d/info.json",
+  "description": "mapa z monografie: Atlas minor, strana: 575",
+  "scale": null,
+  "external_id": "uuid:44ab7cab-9108-11e0-82d6-0050569d679d",
+  "title": "Atlas minor, mapa ze strany: 575",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:187692de-9106-11e0-82d6-0050569d679d?page=uuid:44ab7cab-9108-11e0-82d6-0050569d679d",
+  "georeference_is_finished": true,
+  "bounds": [
+    23.283398,
+    34.74196,
+    26.581377,
+    35.815746
+  ],
+  "reviewed": null,
+  "publisher": "Iudocus Hondius, veneunt etiam apud Cornelium Nicolai item apud Ioannem Ianssonium Arnhemi (excud. Dordrechti Adrianus Bottius",
+  "link_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:187692de-9106-11e0-82d6-0050569d679d?page=uuid:44ab7cab-9108-11e0-82d6-0050569d679d",
+  "id": "621a1c5e-faeb-44a2-832f-dbd00335c379",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        2771,
+        552
+      ],
+      [
+        3418,
+        572
+      ],
+      [
+        3406,
+        1210
+      ],
+      [
+        2758,
+        1189
+      ],
+      [
+        2761,
+        1047
+      ],
+      [
+        2771,
+        552
+      ]
+    ],
+    "created": "2022-08-17T12:45:04.077699+00:00",
+    "transformation_method": "affine",
+    "mapID": "621a1c5e-faeb-44a2-832f-dbd00335c379",
+    "affine_transformation": null,
+    "changed": "2022-08-17T12:55:27.753008+00:00",
+    "gcps": [
+      {
+        "location": [
+          27.21227606612603,
+          35.50746301512591
+        ],
+        "pixel": [
+          3061,
+          869
+        ]
+      },
+      {
+        "location": [
+          27.17822799230338,
+          35.5969948804611
+        ],
+        "pixel": [
+          3371,
+          752
+        ]
+      },
+      {
+        "location": [
+          27.136647152115074,
+          35.39781445023438
+        ],
+        "pixel": [
+          2897,
+          908
+        ]
+      },
+      {
+        "location": [
+          27.081944400310935,
+          35.44612239799763
+        ],
+        "pixel": [
+          2904,
+          764
+        ]
+      },
+      {
+        "location": [
+          27.01402369628795,
+          35.433208904514515
+        ],
+        "pixel": [
+          2788,
+          938
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1610"]
+}

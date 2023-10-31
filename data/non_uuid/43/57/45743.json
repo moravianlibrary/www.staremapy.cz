@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/4698/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "45743",
+  "title": "Bez titulu: Čechy \u2013 část",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.661636,
+    50.139725,
+    15.793125,
+    50.24447
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/45743",
+  "id": "f7fa0fd6-e684-5a6e-9721-d77765037cea",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        -80,
+        9472
+      ],
+      [
+        7472,
+        9472
+      ],
+      [
+        7472,
+        -32
+      ],
+      [
+        -80,
+        -32
+      ],
+      [
+        -80,
+        9472
+      ]
+    ],
+    "created": "2015-07-20T01:00:33.514880+00:00",
+    "transformation_method": "affine",
+    "mapID": "f7fa0fd6-e684-5a6e-9721-d77765037cea",
+    "affine_transformation": null,
+    "changed": "2015-07-20T01:00:33.514880+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.688994492,
+          50.144700496
+        ],
+        "pixel": [
+          1525,
+          9080
+        ]
+      },
+      {
+        "location": [
+          15.676591958,
+          50.198039013
+        ],
+        "pixel": [
+          715,
+          4240
+        ]
+      },
+      {
+        "location": [
+          15.755342646,
+          50.231253555
+        ],
+        "pixel": [
+          5308,
+          1085
+        ]
+      },
+      {
+        "location": [
+          15.712389556,
+          50.240196024
+        ],
+        "pixel": [
+          2721,
+          325
+        ]
+      },
+      {
+        "location": [
+          15.787528123,
+          50.162573675
+        ],
+        "pixel": [
+          7247,
+          7396
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

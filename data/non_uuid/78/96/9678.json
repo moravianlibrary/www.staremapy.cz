@@ -1,0 +1,94 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_2333/ImageProperties.xml",
+  "description": null,
+  "scale": 10000,
+  "external_id": "9678",
+  "title": "Porostní mapa polesí Val 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.704068,
+    49.179466,
+    14.749061,
+    49.21043
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/9678",
+  "id": "0d685fe3-b53b-5b12-98ae-583c9422b39f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        96,
+        6368
+      ],
+      [
+        5568,
+        6368
+      ],
+      [
+        5568,
+        128
+      ],
+      [
+        96,
+        128
+      ],
+      [
+        96,
+        6368
+      ]
+    ],
+    "created": "2015-07-13T08:31:36.252540+00:00",
+    "transformation_method": "affine",
+    "mapID": "0d685fe3-b53b-5b12-98ae-583c9422b39f",
+    "affine_transformation": null,
+    "changed": "2015-07-13T08:31:36.252540+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.735087347,
+          49.186123599
+        ],
+        "pixel": [
+          3155,
+          5913
+        ]
+      },
+      {
+        "location": [
+          14.737147283,
+          49.202656097
+        ],
+        "pixel": [
+          5318,
+          2224
+        ]
+      },
+      {
+        "location": [
+          14.724723291,
+          49.204366524
+        ],
+        "pixel": [
+          3601,
+          929
+        ]
+      }
+    ]
+  },
+  "pubdate": [
+    "1896",
+    "1897"
+  ]
+}

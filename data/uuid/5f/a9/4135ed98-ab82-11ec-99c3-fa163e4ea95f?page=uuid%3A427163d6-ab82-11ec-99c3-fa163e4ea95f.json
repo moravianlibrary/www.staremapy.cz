@@ -1,0 +1,121 @@
+{
+  "date": ["1935"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:4135ed98-ab82-11ec-99c3-fa163e4ea95f?page=uuid%3A427163d6-ab82-11ec-99c3-fa163e4ea95f",
+  "description": "Helsinky (Finsko)",
+  "scale": 20000,
+  "external_id": "1366542",
+  "title": "Pitäjänkartta",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    24.895378,
+    60.137516,
+    25.08166,
+    60.228516
+  ],
+  "reviewed": null,
+  "publisher": "Maanmittaushallituksessa",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:4135ed98-ab82-11ec-99c3-fa163e4ea95f",
+  "id": "b4aef1af-bbbc-5d11-a3cb-951540929ae0",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        76,
+        403
+      ],
+      [
+        547,
+        403
+      ],
+      [
+        547,
+        41
+      ],
+      [
+        75,
+        41
+      ],
+      [
+        76,
+        403
+      ]
+    ],
+    "created": "2017-07-14T22:19:26.087730+00:00",
+    "transformation_method": "affine",
+    "mapID": "b4aef1af-bbbc-5d11-a3cb-951540929ae0",
+    "affine_transformation": null,
+    "changed": "2017-07-14T22:19:26.087730+00:00",
+    "gcps": [
+      {
+        "location": [
+          25.039415774,
+          60.145885534
+        ],
+        "pixel": [
+          449,
+          369
+        ]
+      },
+      {
+        "location": [
+          24.979275657,
+          60.148091536
+        ],
+        "pixel": [
+          292,
+          363
+        ]
+      },
+      {
+        "location": [
+          24.93191673,
+          60.192804454
+        ],
+        "pixel": [
+          163,
+          184
+        ]
+      },
+      {
+        "location": [
+          24.950284497,
+          60.156017319
+        ],
+        "pixel": [
+          214,
+          331
+        ]
+      },
+      {
+        "location": [
+          24.948071177,
+          60.220839204
+        ],
+        "pixel": [
+          203,
+          70
+        ]
+      },
+      {
+        "location": [
+          25.055169598,
+          60.20798967
+        ],
+        "pixel": [
+          479,
+          121
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1935"]
+}

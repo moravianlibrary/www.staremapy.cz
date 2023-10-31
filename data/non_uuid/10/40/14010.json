@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Kout_na_Sumave_M_95-5/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "14010",
+  "title": "Katastrální mapa obce Chodov",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.819622,
+    49.35999,
+    12.862461,
+    49.46438
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/14010",
+  "id": "2a2a24a0-53f0-5641-8df0-c9051f11107c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        17047,
+        0
+      ],
+      [
+        17047,
+        13807
+      ],
+      [
+        0,
+        13807
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        17047,
+        0
+      ]
+    ],
+    "created": "2014-11-25T16:33:36.534100+00:00",
+    "transformation_method": "affine",
+    "mapID": "2a2a24a0-53f0-5641-8df0-c9051f11107c",
+    "affine_transformation": null,
+    "changed": "2022-02-16T18:54:09.990935+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.831762278366117,
+          49.39945685937724
+        ],
+        "pixel": [
+          4252,
+          10387
+        ]
+      },
+      {
+        "location": [
+          12.835013996577352,
+          49.41284214594566
+        ],
+        "pixel": [
+          1946,
+          6014
+        ]
+      },
+      {
+        "location": [
+          12.836352813492134,
+          49.42089071492785
+        ],
+        "pixel": [
+          1580,
+          3201
+        ]
+      },
+      {
+        "location": [
+          12.836481559524845,
+          49.42304022426117
+        ],
+        "pixel": [
+          1413,
+          2502
+        ]
+      },
+      {
+        "location": [
+          12.831717159389648,
+          49.416900069094396
+        ],
+        "pixel": [
+          1524,
+          4782
+        ]
+      },
+      {
+        "location": [
+          12.830526258587032,
+          49.41716529495605
+        ],
+        "pixel": [
+          425,
+          4246
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1900"]
+}

@@ -1,0 +1,119 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plasy_M_99_8/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "19829",
+  "title": "Katastrální mapa obce Babina",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.420883,
+    49.911743,
+    13.427311,
+    49.918636
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/19829",
+  "id": "e8f0ef85-2a19-5d24-939f-a9c2be93c35b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1949,
+        991
+      ],
+      [
+        5653,
+        967
+      ],
+      [
+        5649,
+        3519
+      ],
+      [
+        5645,
+        7637
+      ],
+      [
+        3960,
+        7665
+      ],
+      [
+        1937,
+        7666
+      ],
+      [
+        1949,
+        991
+      ]
+    ],
+    "created": "2015-02-22T12:53:42.972360+00:00",
+    "transformation_method": "affine",
+    "mapID": "e8f0ef85-2a19-5d24-939f-a9c2be93c35b",
+    "affine_transformation": null,
+    "changed": "2015-02-22T12:53:42.972360+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.424206181,
+          49.913289625
+        ],
+        "pixel": [
+          3875,
+          6170
+        ]
+      },
+      {
+        "location": [
+          13.423433705,
+          49.913244718
+        ],
+        "pixel": [
+          3467,
+          6194
+        ]
+      },
+      {
+        "location": [
+          13.425611659,
+          49.91669554
+        ],
+        "pixel": [
+          4681,
+          2855
+        ]
+      },
+      {
+        "location": [
+          13.425085363646591,
+          49.912222408335
+        ],
+        "pixel": [
+          4529,
+          7216
+        ]
+      },
+      {
+        "location": [
+          13.426050958891956,
+          49.91223622622499
+        ],
+        "pixel": [
+          5057,
+          7169
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1873"]
+}

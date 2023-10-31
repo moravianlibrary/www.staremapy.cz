@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/1714_18/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "29681",
+  "title": "Special - Karte des Koenigreiches Boehmen",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.036563,
+    49.51429,
+    13.127954,
+    50.054382
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/29681",
+  "id": "0116cb62-51fb-537a-a0a5-644238d5f938",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        12434,
+        0
+      ],
+      [
+        12434,
+        9043
+      ],
+      [
+        0,
+        9043
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        12434,
+        0
+      ]
+    ],
+    "created": "2014-11-25T15:33:41.386540+00:00",
+    "transformation_method": "affine",
+    "mapID": "0116cb62-51fb-537a-a0a5-644238d5f938",
+    "affine_transformation": null,
+    "changed": "2014-11-25T15:33:41.386540+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.635478973,
+          49.794786006
+        ],
+        "pixel": [
+          6864,
+          4376
+        ]
+      },
+      {
+        "location": [
+          12.334730279,
+          49.8780685
+        ],
+        "pixel": [
+          3386,
+          2698
+        ]
+      },
+      {
+        "location": [
+          12.495276598,
+          49.642064273
+        ],
+        "pixel": [
+          5077,
+          7030
+        ]
+      },
+      {
+        "location": [
+          12.732982635,
+          49.866428362
+        ],
+        "pixel": [
+          8042,
+          3161
+        ]
+      },
+      {
+        "location": [
+          12.773065567,
+          49.712493626
+        ],
+        "pixel": [
+          8398,
+          5939
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

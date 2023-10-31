@@ -1,0 +1,111 @@
+{
+  "date": ["1854"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:1cc244ba-784d-11ec-bbbc-fa163e4ea95f?page=uuid%3A1debf912-784d-11ec-bbbc-fa163e4ea95f",
+  "description": "Sevastopol (Ukrajina)",
+  "scale": 47000,
+  "external_id": "1128642",
+  "title": "Stanford's New Map of Sebastopol",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Wetherall, D. A.",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    33.330837,
+    44.469624,
+    33.738766,
+    44.692642
+  ],
+  "reviewed": null,
+  "publisher": "Edward Stanford",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:1cc244ba-784d-11ec-bbbc-fa163e4ea95f",
+  "id": "c2d40027-7546-5655-88e9-4e8d4ad2e9f0",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2014-08-19T14:11:35.868550+00:00",
+    "transformation_method": "affine",
+    "mapID": "c2d40027-7546-5655-88e9-4e8d4ad2e9f0",
+    "affine_transformation": null,
+    "changed": "2014-08-19T14:11:35.868550+00:00",
+    "gcps": [
+      {
+        "location": [
+          33.527112518,
+          44.618551223
+        ],
+        "pixel": [
+          290,
+          146
+        ]
+      },
+      {
+        "location": [
+          33.378882919,
+          44.583655972
+        ],
+        "pixel": [
+          67,
+          214
+        ]
+      },
+      {
+        "location": [
+          33.434072052,
+          44.603672886
+        ],
+        "pixel": [
+          151,
+          176
+        ]
+      },
+      {
+        "location": [
+          33.510659216,
+          44.63131781
+        ],
+        "pixel": [
+          266,
+          120
+        ]
+      },
+      {
+        "location": [
+          33.564077352,
+          44.620702628
+        ],
+        "pixel": [
+          345,
+          143
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1854"]
+}

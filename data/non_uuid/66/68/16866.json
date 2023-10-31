@@ -1,0 +1,133 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/orlik_0577/ImageProperties.xml",
+  "description": null,
+  "scale": 1440,
+  "external_id": "16866",
+  "title": "Mapa dvora Oslova 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.200357,
+    49.391644,
+    14.228955,
+    49.414486
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/16866",
+  "id": "80c7efb8-1137-50e5-b700-eaf9ffbc9b38",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        336,
+        10576
+      ],
+      [
+        8592,
+        10576
+      ],
+      [
+        8576,
+        4976
+      ],
+      [
+        5066,
+        2668
+      ],
+      [
+        2852,
+        2104
+      ],
+      [
+        1640,
+        608
+      ],
+      [
+        336,
+        624
+      ],
+      [
+        336,
+        10576
+      ]
+    ],
+    "created": "2015-11-26T08:19:27.301480+00:00",
+    "transformation_method": "affine",
+    "mapID": "80c7efb8-1137-50e5-b700-eaf9ffbc9b38",
+    "affine_transformation": null,
+    "changed": "2015-11-26T08:19:27.301480+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.210590363,
+          49.409564461
+        ],
+        "pixel": [
+          3129,
+          2685
+        ]
+      },
+      {
+        "location": [
+          14.219253898,
+          49.400980953
+        ],
+        "pixel": [
+          5785,
+          6523
+        ]
+      },
+      {
+        "location": [
+          14.212345743968665,
+          49.39752926424063
+        ],
+        "pixel": [
+          3797,
+          8169
+        ]
+      },
+      {
+        "location": [
+          14.206461028211915,
+          49.401701104809746
+        ],
+        "pixel": [
+          2007,
+          6349
+        ]
+      },
+      {
+        "location": [
+          14.210858583,
+          49.400083769
+        ],
+        "pixel": [
+          3351,
+          7039
+        ]
+      },
+      {
+        "location": [
+          14.218418265178377,
+          49.39477812113137
+        ],
+        "pixel": [
+          5570,
+          9254
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1906"]
+}

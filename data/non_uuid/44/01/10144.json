@@ -1,0 +1,101 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_2799/ImageProperties.xml",
+  "description": null,
+  "scale": 100,
+  "external_id": "10144",
+  "title": "Plán přestavby dvora Obora 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.772279,
+    48.98426,
+    14.790147,
+    48.986015
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/10144",
+  "id": "a20bb28a-aab7-52a7-96b9-d5b071bca552",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        22870,
+        0
+      ],
+      [
+        22870,
+        9537
+      ],
+      [
+        0,
+        9537
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        22870,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:20:32.443730+00:00",
+    "transformation_method": "affine",
+    "mapID": "a20bb28a-aab7-52a7-96b9-d5b071bca552",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:20:32.443730+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.779916920826325,
+          48.985045533046446
+        ],
+        "pixel": [
+          11831,
+          5507
+        ]
+      },
+      {
+        "location": [
+          14.779396572277438,
+          48.98533596779566
+        ],
+        "pixel": [
+          3098,
+          5574
+        ]
+      },
+      {
+        "location": [
+          14.780099311039338,
+          48.98474277502103
+        ],
+        "pixel": [
+          20452,
+          5641
+        ]
+      },
+      {
+        "location": [
+          14.779721119568238,
+          48.98520219200023
+        ],
+        "pixel": [
+          7377,
+          5518
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1888"]
+}

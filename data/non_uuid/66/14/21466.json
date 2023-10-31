@@ -1,0 +1,127 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/mkp/GC_6675_lic_2/ImageProperties.xml",
+  "description": null,
+  "scale": 10000,
+  "external_id": "21466",
+  "title": "Praha, hlavní město ČSR : Fastrův obrázkový plán a průvodce",
+  "collection_id": "820f1194-2d3f-5aeb-a260-b93d62e2851a",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.406308,
+    50.04768,
+    14.490995,
+    50.099537
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/21466",
+  "id": "396f4b41-de34-5cfd-8590-9fea605a1d1a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        5504,
+        190
+      ],
+      [
+        5508,
+        4696
+      ],
+      [
+        3014,
+        4727
+      ],
+      [
+        2707,
+        4762
+      ],
+      [
+        222,
+        4779
+      ],
+      [
+        189,
+        269
+      ],
+      [
+        2662,
+        243
+      ],
+      [
+        2956,
+        216
+      ],
+      [
+        5504,
+        190
+      ]
+    ],
+    "created": "2019-01-28T06:44:08.237754+00:00",
+    "transformation_method": "affine",
+    "mapID": "396f4b41-de34-5cfd-8590-9fea605a1d1a",
+    "affine_transformation": null,
+    "changed": "2019-01-28T06:44:08.237754+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.462493695547247,
+          50.095804871524024
+        ],
+        "pixel": [
+          3405,
+          4165
+        ]
+      },
+      {
+        "location": [
+          14.441496416861527,
+          50.09430618322628
+        ],
+        "pixel": [
+          264,
+          2303
+        ]
+      },
+      {
+        "location": [
+          14.440569136239942,
+          50.09813040037895
+        ],
+        "pixel": [
+          838,
+          1365
+        ]
+      },
+      {
+        "location": [
+          14.463303429937204,
+          50.104384294837985
+        ],
+        "pixel": [
+          4923,
+          2661
+        ]
+      },
+      {
+        "location": [
+          14.457803017716856,
+          50.10572569098764
+        ],
+        "pixel": [
+          4461,
+          1695
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1935"]
+}

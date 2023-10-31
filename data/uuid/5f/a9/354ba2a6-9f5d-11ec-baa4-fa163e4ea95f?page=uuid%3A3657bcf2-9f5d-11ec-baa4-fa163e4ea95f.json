@@ -1,0 +1,111 @@
+{
+  "date": ["1936"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:354ba2a6-9f5d-11ec-baa4-fa163e4ea95f?page=uuid%3A3657bcf2-9f5d-11ec-baa4-fa163e4ea95f",
+  "description": "Polsko",
+  "scale": 100000,
+  "external_id": "1332303",
+  "title": "Pol'ša",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    25.501932,
+    51.670376,
+    25.997787,
+    52.00086
+  ],
+  "reviewed": null,
+  "publisher": "Upravlenije vojennych topografov RKKA",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:354ba2a6-9f5d-11ec-baa4-fa163e4ea95f",
+  "id": "cfe3e465-e4ce-5297-a3e8-0924b1f6bcc6",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        108,
+        348
+      ],
+      [
+        542,
+        348
+      ],
+      [
+        542,
+        54
+      ],
+      [
+        108,
+        54
+      ],
+      [
+        108,
+        348
+      ]
+    ],
+    "created": "2017-03-05T17:30:30.631770+00:00",
+    "transformation_method": "affine",
+    "mapID": "cfe3e465-e4ce-5297-a3e8-0924b1f6bcc6",
+    "affine_transformation": null,
+    "changed": "2017-03-05T17:30:30.631770+00:00",
+    "gcps": [
+      {
+        "location": [
+          25.55025053,
+          51.936449309
+        ],
+        "pixel": [
+          151,
+          111
+        ]
+      },
+      {
+        "location": [
+          25.841001987,
+          51.721580831
+        ],
+        "pixel": [
+          404,
+          303
+        ]
+      },
+      {
+        "location": [
+          25.751866817,
+          51.940484097
+        ],
+        "pixel": [
+          326,
+          108
+        ]
+      },
+      {
+        "location": [
+          25.949515529,
+          51.699562878
+        ],
+        "pixel": [
+          500,
+          322
+        ]
+      },
+      {
+        "location": [
+          25.533184221,
+          51.716205872
+        ],
+        "pixel": [
+          134,
+          307
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1936"]
+}

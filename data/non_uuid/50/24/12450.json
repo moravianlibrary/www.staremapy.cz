@@ -1,0 +1,91 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_4185/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "12450",
+  "title": "Plán kůru hamerského kostela 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -67.56297,
+    -29.672733,
+    106.84009,
+    76.392555
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/12450",
+  "id": "81d7794d-f8cd-5d93-b768-091d08daecb3",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        6770,
+        0
+      ],
+      [
+        6770,
+        11197
+      ],
+      [
+        0,
+        11197
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        6770,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:28:08.636360+00:00",
+    "transformation_method": "affine",
+    "mapID": "81d7794d-f8cd-5d93-b768-091d08daecb3",
+    "affine_transformation": null,
+    "changed": "2022-09-21T16:45:21.231771+00:00",
+    "gcps": [
+      {
+        "location": [
+          42.09257125854492,
+          49.40805352308524
+        ],
+        "pixel": [
+          3683,
+          3372
+        ]
+      },
+      {
+        "location": [
+          8.703526854515076,
+          45.23085883478933
+        ],
+        "pixel": [
+          2701,
+          5945
+        ]
+      },
+      {
+        "location": [
+          29.158079624176015,
+          14.133129324480109
+        ],
+        "pixel": [
+          5255,
+          7040
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1893"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": ["1937"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:ee443870-9f7d-11ec-b190-fa163e4ea95f?page=uuid%3Aef08c5d2-9f7d-11ec-b190-fa163e4ea95f",
+  "description": null,
+  "scale": 25000,
+  "external_id": "1333209",
+  "title": "Spucken",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    21.330366,
+    55.098152,
+    21.497171,
+    55.198666
+  ],
+  "reviewed": null,
+  "publisher": "Reichsamt für Landesaufnahme",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:ee443870-9f7d-11ec-b190-fa163e4ea95f",
+  "id": "0988acbe-6d4a-5024-bc37-698f12f2d6df",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        42,
+        381
+      ],
+      [
+        502,
+        380
+      ],
+      [
+        501,
+        48
+      ],
+      [
+        42,
+        49
+      ],
+      [
+        42,
+        381
+      ]
+    ],
+    "created": "2017-04-17T15:40:55.795260+00:00",
+    "transformation_method": "affine",
+    "mapID": "0988acbe-6d4a-5024-bc37-698f12f2d6df",
+    "affine_transformation": null,
+    "changed": "2017-04-17T15:40:55.795260+00:00",
+    "gcps": [
+      {
+        "location": [
+          21.417288593,
+          55.120022109
+        ],
+        "pixel": [
+          281,
+          309
+        ]
+      },
+      {
+        "location": [
+          21.448144725,
+          55.188948807
+        ],
+        "pixel": [
+          366,
+          80
+        ]
+      },
+      {
+        "location": [
+          21.343986663816885,
+          55.1164234616771
+        ],
+        "pixel": [
+          79,
+          321
+        ]
+      },
+      {
+        "location": [
+          21.344976237,
+          55.162113187
+        ],
+        "pixel": [
+          82,
+          170
+        ]
+      },
+      {
+        "location": [
+          21.491442438877407,
+          55.13372943819505
+        ],
+        "pixel": [
+          487,
+          262
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1937"]
+}

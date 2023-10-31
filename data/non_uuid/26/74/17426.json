@@ -1,0 +1,76 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Tynec_M_87/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "17426",
+  "title": "Porostní mapa revíru Týnec",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": false,
+  "bounds": null,
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/17426",
+  "id": "01595383-99c3-5712-98a4-796d8cc76a54",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        13607,
+        0
+      ],
+      [
+        13607,
+        9972
+      ],
+      [
+        0,
+        9972
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        13607,
+        0
+      ]
+    ],
+    "created": "2014-11-25T16:56:55.326510+00:00",
+    "transformation_method": "affine",
+    "mapID": "01595383-99c3-5712-98a4-796d8cc76a54",
+    "affine_transformation": null,
+    "changed": "2023-02-22T14:10:36.485556+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.336093585530142,
+          49.82128069818606
+        ],
+        "pixel": [
+          2715,
+          9972
+        ]
+      },
+      {
+        "location": [
+          21.266441345214833,
+          52.11114403064542
+        ],
+        "pixel": [
+          5448,
+          5717
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1920"]
+}

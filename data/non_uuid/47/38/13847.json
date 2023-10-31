@@ -1,0 +1,91 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_pardubice_313/ImageProperties.xml",
+  "description": null,
+  "scale": 3110,
+  "external_id": "13847",
+  "title": "Mapa kostelních pozemků v Horních Ředicích, Komárově a Platěnicích",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    9.50543,
+    49.217926,
+    24.540102,
+    51.12719
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/13847",
+  "id": "23b84660-7c0e-5d74-a07b-a9ef80b15f2a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        17582,
+        0
+      ],
+      [
+        17582,
+        12536
+      ],
+      [
+        0,
+        12536
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        17582,
+        0
+      ]
+    ],
+    "created": "2014-11-25T18:41:17.262050+00:00",
+    "transformation_method": "affine",
+    "mapID": "23b84660-7c0e-5d74-a07b-a9ef80b15f2a",
+    "affine_transformation": null,
+    "changed": "2022-12-16T16:19:55.343394+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.433468040900417,
+          49.571322243343474
+        ],
+        "pixel": [
+          2256,
+          2804
+        ]
+      },
+      {
+        "location": [
+          17.252188790255143,
+          49.76454581008662
+        ],
+        "pixel": [
+          6834,
+          2508
+        ]
+      },
+      {
+        "location": [
+          15.953753195620115,
+          50.011097032926216
+        ],
+        "pixel": [
+          6525,
+          5530
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1807"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/0478/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "18173",
+  "title": "Plan of London from actual survey 1833",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -0.20897014,
+    51.468296,
+    -0.0056659053,
+    51.554356
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/18173",
+  "id": "6b3a08e6-04f4-5fa8-903f-004952b64a97",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        19528,
+        0
+      ],
+      [
+        19528,
+        13656
+      ],
+      [
+        0,
+        13656
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        19528,
+        0
+      ]
+    ],
+    "created": "2014-11-25T14:42:56.754030+00:00",
+    "transformation_method": "affine",
+    "mapID": "6b3a08e6-04f4-5fa8-903f-004952b64a97",
+    "affine_transformation": null,
+    "changed": "2014-11-25T14:42:56.754030+00:00",
+    "gcps": [
+      {
+        "location": [
+          -0.071539879,
+          51.523995778
+        ],
+        "pixel": [
+          13264,
+          4826
+        ]
+      },
+      {
+        "location": [
+          -0.144538879,
+          51.505881978
+        ],
+        "pixel": [
+          6131,
+          7681
+        ]
+      },
+      {
+        "location": [
+          -0.10379076,
+          51.490463218
+        ],
+        "pixel": [
+          10056,
+          10156
+        ]
+      },
+      {
+        "location": [
+          -0.178195511,
+          51.525686645
+        ],
+        "pixel": [
+          2914,
+          4534
+        ]
+      },
+      {
+        "location": [
+          -0.086604629,
+          51.53741133
+        ],
+        "pixel": [
+          11854,
+          2678
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

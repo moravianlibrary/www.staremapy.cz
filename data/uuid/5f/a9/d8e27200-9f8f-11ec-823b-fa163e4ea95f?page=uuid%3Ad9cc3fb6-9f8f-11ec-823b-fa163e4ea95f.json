@@ -1,0 +1,121 @@
+{
+  "date": ["1943"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:d8e27200-9f8f-11ec-823b-fa163e4ea95f?page=uuid%3Ad9cc3fb6-9f8f-11ec-823b-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1333704",
+  "title": "Maruggio",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    17.44802,
+    40.00232,
+    17.949646,
+    40.3338
+  ],
+  "reviewed": null,
+  "publisher": "OKH/Gen St d H",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:d8e27200-9f8f-11ec-823b-fa163e4ea95f",
+  "id": "2d7da9e4-5a73-53ee-8d8e-ed7d9f543cba",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        75,
+        64
+      ],
+      [
+        458,
+        65
+      ],
+      [
+        458,
+        332
+      ],
+      [
+        74,
+        330
+      ],
+      [
+        75,
+        64
+      ]
+    ],
+    "created": "2017-12-06T03:29:58.008100+00:00",
+    "transformation_method": "affine",
+    "mapID": "2d7da9e4-5a73-53ee-8d8e-ed7d9f543cba",
+    "affine_transformation": null,
+    "changed": "2017-12-06T03:29:58.008100+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.762891556,
+          40.2915874
+        ],
+        "pixel": [
+          314,
+          98
+        ]
+      },
+      {
+        "location": [
+          17.504283691,
+          40.296562823
+        ],
+        "pixel": [
+          115,
+          94
+        ]
+      },
+      {
+        "location": [
+          17.735683228,
+          40.304418007
+        ],
+        "pixel": [
+          293,
+          87
+        ]
+      },
+      {
+        "location": [
+          17.920991684,
+          40.219009379
+        ],
+        "pixel": [
+          436,
+          156
+        ]
+      },
+      {
+        "location": [
+          17.911378647,
+          40.239192308
+        ],
+        "pixel": [
+          428,
+          140
+        ]
+      },
+      {
+        "location": [
+          17.868978287,
+          40.271289118
+        ],
+        "pixel": [
+          396,
+          115
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1943"]
+}

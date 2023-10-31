@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/5858/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "47374",
+  "title": "Mapa Wojewodztwa Szczecinskiego",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.484214,
+    52.502514,
+    16.488718,
+    54.355213
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/47374",
+  "id": "db93ece8-7cf3-5457-8e42-28d48b13b0c5",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        486,
+        486
+      ],
+      [
+        9886,
+        470
+      ],
+      [
+        9914,
+        10152
+      ],
+      [
+        502,
+        10156
+      ],
+      [
+        486,
+        486
+      ]
+    ],
+    "created": "2014-12-08T22:26:44.513760+00:00",
+    "transformation_method": "affine",
+    "mapID": "db93ece8-7cf3-5457-8e42-28d48b13b0c5",
+    "affine_transformation": null,
+    "changed": "2014-12-08T22:26:44.513760+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.122436523,
+          53.193282542
+        ],
+        "pixel": [
+          8768,
+          6556
+        ]
+      },
+      {
+        "location": [
+          15.347557068,
+          54.146551883
+        ],
+        "pixel": [
+          6300,
+          1598
+        ]
+      },
+      {
+        "location": [
+          14.650268555,
+          53.434083879
+        ],
+        "pixel": [
+          4142,
+          5350
+        ]
+      },
+      {
+        "location": [
+          13.67609024,
+          52.62566611
+        ],
+        "pixel": [
+          1030,
+          9542
+        ]
+      },
+      {
+        "location": [
+          16.337356567,
+          52.581566518
+        ],
+        "pixel": [
+          9506,
+          9776
+        ]
+      },
+      {
+        "location": [
+          16.195220947,
+          54.305107582
+        ],
+        "pixel": [
+          8898,
+          712
+        ]
+      },
+      {
+        "location": [
+          13.771362305,
+          54.207035425
+        ],
+        "pixel": [
+          1452,
+          1280
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

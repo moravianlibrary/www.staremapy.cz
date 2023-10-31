@@ -1,0 +1,121 @@
+{
+  "date": ["1924"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:2a352eec-7964-11ec-8db2-fa163e4ea95f?page=uuid%3A2b14c3a4-7964-11ec-8db2-fa163e4ea95f",
+  "description": "Bánovce nad Bebravou (Slovensko)",
+  "scale": 75000,
+  "external_id": "1125590",
+  "title": "Topolčany a Bánovce",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    17.81932,
+    48.48897,
+    18.345743,
+    48.762856
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:2a352eec-7964-11ec-8db2-fa163e4ea95f",
+  "id": "85c39e7e-176d-5f4b-b48b-e20cb8330121",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        32,
+        410
+      ],
+      [
+        569,
+        410
+      ],
+      [
+        569,
+        24
+      ],
+      [
+        32,
+        24
+      ],
+      [
+        32,
+        410
+      ]
+    ],
+    "created": "2015-08-07T09:45:31.901440+00:00",
+    "transformation_method": "affine",
+    "mapID": "85c39e7e-176d-5f4b-b48b-e20cb8330121",
+    "affine_transformation": null,
+    "changed": "2015-08-07T09:45:31.901440+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.175484106,
+          48.55920266
+        ],
+        "pixel": [
+          396,
+          310
+        ]
+      },
+      {
+        "location": [
+          17.889230648,
+          48.729207408
+        ],
+        "pixel": [
+          103,
+          70
+        ]
+      },
+      {
+        "location": [
+          18.259941504,
+          48.721635429
+        ],
+        "pixel": [
+          480,
+          82
+        ]
+      },
+      {
+        "location": [
+          18.1351319,
+          48.702826599
+        ],
+        "pixel": [
+          358,
+          112
+        ]
+      },
+      {
+        "location": [
+          18.098656742,
+          48.533472167
+        ],
+        "pixel": [
+          317,
+          347
+        ]
+      },
+      {
+        "location": [
+          17.843147681,
+          48.536929539
+        ],
+        "pixel": [
+          56,
+          344
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1924"]
+}

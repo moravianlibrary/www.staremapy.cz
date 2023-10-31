@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:0f9ea520-ab9d-11ec-b939-fa163e4ea95f?page=uuid%3A10973118-ab9d-11ec-b939-fa163e4ea95f",
+  "description": "Washington",
+  "scale": 125000,
+  "external_id": "1367331",
+  "title": "Washington",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Douglas, E. M.",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -120.11584,
+    47.948544,
+    -119.382225,
+    48.53599
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:0f9ea520-ab9d-11ec-b939-fa163e4ea95f",
+  "id": "c35117a3-7aff-5e50-b26c-005022fffa89",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:42:46.058630+00:00",
+    "transformation_method": "affine",
+    "mapID": "c35117a3-7aff-5e50-b26c-005022fffa89",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:42:46.058630+00:00",
+    "gcps": [
+      {
+        "location": [
+          -119.762849063,
+          48.490308772
+        ],
+        "pixel": [
+          288,
+          35
+        ]
+      },
+      {
+        "location": [
+          -119.903636932,
+          48.05133387
+        ],
+        "pixel": [
+          174,
+          365
+        ]
+      },
+      {
+        "location": [
+          -119.736953735,
+          48.231976019
+        ],
+        "pixel": [
+          309,
+          229
+        ]
+      },
+      {
+        "location": [
+          -119.780727386,
+          48.096181396
+        ],
+        "pixel": [
+          274,
+          333
+        ]
+      },
+      {
+        "location": [
+          -119.514251246,
+          48.076589077
+        ],
+        "pixel": [
+          494,
+          347
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

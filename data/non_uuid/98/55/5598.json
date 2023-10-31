@@ -1,0 +1,101 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_0472/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "5598",
+  "title": "Geometrický plán stříbřeckých obecních pastvin směněných třeboňským panstvím za pozemky u Nové řeky 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.838623,
+    49.01591,
+    14.863596,
+    49.0398
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/5598",
+  "id": "8e24be03-b312-5c96-a339-0153066f267c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1376,
+        18592
+      ],
+      [
+        29344,
+        18592
+      ],
+      [
+        29344,
+        1376
+      ],
+      [
+        1376,
+        1376
+      ],
+      [
+        1376,
+        18592
+      ]
+    ],
+    "created": "2017-03-10T23:52:56.960480+00:00",
+    "transformation_method": "affine",
+    "mapID": "8e24be03-b312-5c96-a339-0153066f267c",
+    "affine_transformation": null,
+    "changed": "2017-03-10T23:52:56.960480+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.851451516,
+          49.03598132
+        ],
+        "pixel": [
+          5149,
+          7704
+        ]
+      },
+      {
+        "location": [
+          14.852070093,
+          49.018057509
+        ],
+        "pixel": [
+          27908,
+          11539
+        ]
+      },
+      {
+        "location": [
+          14.850898981,
+          49.035640186
+        ],
+        "pixel": [
+          5485,
+          8264
+        ]
+      },
+      {
+        "location": [
+          14.857765436,
+          49.034243975
+        ],
+        "pixel": [
+          8420,
+          2614
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1843"]
+}

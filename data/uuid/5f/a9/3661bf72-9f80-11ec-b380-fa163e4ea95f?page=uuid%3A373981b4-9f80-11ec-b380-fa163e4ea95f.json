@@ -1,0 +1,121 @@
+{
+  "date": ["1935"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:3661bf72-9f80-11ec-b380-fa163e4ea95f?page=uuid%3A373981b4-9f80-11ec-b380-fa163e4ea95f",
+  "description": "Prusko",
+  "scale": 25000,
+  "external_id": "1333272",
+  "title": "Canditten",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    20.302637,
+    54.277966,
+    20.527987,
+    54.416378
+  ],
+  "reviewed": null,
+  "publisher": "Reichsamt für Landesaufnahme",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:3661bf72-9f80-11ec-b380-fa163e4ea95f",
+  "id": "7b597f12-569b-50b3-b44a-b44054aebcfd",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:11:50.016820+00:00",
+    "transformation_method": "affine",
+    "mapID": "7b597f12-569b-50b3-b44a-b44054aebcfd",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:11:50.016820+00:00",
+    "gcps": [
+      {
+        "location": [
+          20.468250281,
+          54.377334128
+        ],
+        "pixel": [
+          441,
+          125
+        ]
+      },
+      {
+        "location": [
+          20.350474539,
+          54.351049661
+        ],
+        "pixel": [
+          127,
+          209
+        ]
+      },
+      {
+        "location": [
+          20.45463008,
+          54.304175832
+        ],
+        "pixel": [
+          405,
+          359
+        ]
+      },
+      {
+        "location": [
+          20.481034557,
+          54.329474236
+        ],
+        "pixel": [
+          476,
+          279
+        ]
+      },
+      {
+        "location": [
+          20.36890668,
+          54.316750418
+        ],
+        "pixel": [
+          177,
+          319
+        ]
+      },
+      {
+        "location": [
+          20.367533389,
+          54.371904217
+        ],
+        "pixel": [
+          172,
+          142
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1935"]
+}

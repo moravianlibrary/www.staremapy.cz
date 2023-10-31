@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_pardubice_330_I/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "13935",
+  "title": "Indikační skica mapy stabilního katastru pro obec Bukovka a osadu Habřinka I.",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.621885,
+    50.1145,
+    15.636418,
+    50.119278
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/13935",
+  "id": "274cf449-569c-5eb0-994d-7e0ce2fcefcc",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1063,
+        8907
+      ],
+      [
+        9415,
+        8907
+      ],
+      [
+        9415,
+        4635
+      ],
+      [
+        1063,
+        4635
+      ],
+      [
+        1063,
+        8907
+      ]
+    ],
+    "created": "2015-02-08T08:28:57.498520+00:00",
+    "transformation_method": "affine",
+    "mapID": "274cf449-569c-5eb0-994d-7e0ce2fcefcc",
+    "affine_transformation": null,
+    "changed": "2015-02-08T08:28:57.498520+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.626082413390462,
+          50.11782854643408
+        ],
+        "pixel": [
+          3444,
+          5931
+        ]
+      },
+      {
+        "location": [
+          15.633392230471836,
+          50.11759889058706
+        ],
+        "pixel": [
+          7689,
+          6100
+        ]
+      },
+      {
+        "location": [
+          15.62561527287758,
+          50.11833298972434
+        ],
+        "pixel": [
+          3173,
+          5480
+        ]
+      },
+      {
+        "location": [
+          15.628324303982621,
+          50.117837672236135
+        ],
+        "pixel": [
+          4737,
+          5904
+        ]
+      },
+      {
+        "location": [
+          15.628023896572952,
+          50.1190415599998
+        ],
+        "pixel": [
+          4549,
+          4812
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

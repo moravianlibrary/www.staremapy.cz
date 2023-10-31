@@ -1,0 +1,111 @@
+{
+  "date": ["1939"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:f2cb87a2-9e44-11ec-8c97-fa163e4ea95f?page=uuid%3Af3dffaa6-9e44-11ec-8c97-fa163e4ea95f",
+  "description": "Domažlice (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1304896",
+  "title": "Furth",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.714902,
+    49.194942,
+    13.485087,
+    49.52564
+  ],
+  "reviewed": null,
+  "publisher": "Herausgegeben vom Reichsamt für Landesafnahme",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:f2cb87a2-9e44-11ec-8c97-fa163e4ea95f",
+  "id": "a29b0b56-b23d-5b30-82b9-47941b13c2aa",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:51:45.430290+00:00",
+    "transformation_method": "affine",
+    "mapID": "a29b0b56-b23d-5b30-82b9-47941b13c2aa",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:51:45.430290+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.974618495,
+          49.490296474
+        ],
+        "pixel": [
+          202,
+          47
+        ]
+      },
+      {
+        "location": [
+          13.283293165,
+          49.48249547
+        ],
+        "pixel": [
+          443,
+          56
+        ]
+      },
+      {
+        "location": [
+          13.297406848,
+          49.394627931
+        ],
+        "pixel": [
+          455,
+          175
+        ]
+      },
+      {
+        "location": [
+          13.047266654,
+          49.263580487
+        ],
+        "pixel": [
+          258,
+          353
+        ]
+      },
+      {
+        "location": [
+          12.837440189,
+          49.309083918
+        ],
+        "pixel": [
+          96,
+          292
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1939"]
+}

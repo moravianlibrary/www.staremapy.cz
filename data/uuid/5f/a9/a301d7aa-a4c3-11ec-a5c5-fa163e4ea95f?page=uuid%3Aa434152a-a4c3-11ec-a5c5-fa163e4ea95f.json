@@ -1,0 +1,101 @@
+{
+  "date": ["1936"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:a301d7aa-a4c3-11ec-a5c5-fa163e4ea95f?page=uuid%3Aa434152a-a4c3-11ec-a5c5-fa163e4ea95f",
+  "description": "Evropa střední",
+  "scale": null,
+  "external_id": "1338417",
+  "title": "Přehled počasí",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Machač, František",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -42.69428,
+    3.8376098,
+    132.42157,
+    77.57845
+  ],
+  "reviewed": null,
+  "publisher": "Státní ústav meteorologický",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:a301d7aa-a4c3-11ec-a5c5-fa163e4ea95f",
+  "id": "a71e4aa2-1c13-5631-9634-122675cca47f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:27:12.058230+00:00",
+    "transformation_method": "affine",
+    "mapID": "a71e4aa2-1c13-5631-9634-122675cca47f",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:27:12.058230+00:00",
+    "gcps": [
+      {
+        "location": [
+          -22.51984374999999,
+          65.7692707446528
+        ],
+        "pixel": [
+          59,
+          76
+        ]
+      },
+      {
+        "location": [
+          -9.006660156249968,
+          53.26234918612454
+        ],
+        "pixel": [
+          70,
+          188
+        ]
+      },
+      {
+        "location": [
+          -2.4148632812499664,
+          51.751276147300246
+        ],
+        "pixel": [
+          95,
+          208
+        ]
+      },
+      {
+        "location": [
+          9.011873301630468,
+          53.901517390382935
+        ],
+        "pixel": [
+          148,
+          199
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1936"]
+}

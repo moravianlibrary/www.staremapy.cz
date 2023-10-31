@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_0510/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "5636",
+  "title": "Geometrický plán emfyteutických pozemků u borovanského mlýna 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.617442,
+    48.87508,
+    14.63759,
+    48.886482
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/5636",
+  "id": "bb495150-fa0c-593c-b6ff-afda80832371",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        18126,
+        778
+      ],
+      [
+        18211,
+        14999
+      ],
+      [
+        182,
+        14981
+      ],
+      [
+        150,
+        718
+      ],
+      [
+        18126,
+        778
+      ]
+    ],
+    "created": "2014-11-25T17:07:58.361460+00:00",
+    "transformation_method": "affine",
+    "mapID": "bb495150-fa0c-593c-b6ff-afda80832371",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:07:58.361460+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.626340389,
+          48.88193581
+        ],
+        "pixel": [
+          10187,
+          9305
+        ]
+      },
+      {
+        "location": [
+          14.625319528247264,
+          48.88270208796757
+        ],
+        "pixel": [
+          11155,
+          10294
+        ]
+      },
+      {
+        "location": [
+          14.619227171,
+          48.883928926
+        ],
+        "pixel": [
+          16669,
+          11865
+        ]
+      },
+      {
+        "location": [
+          14.624366283,
+          48.883914816
+        ],
+        "pixel": [
+          11983,
+          11788
+        ]
+      },
+      {
+        "location": [
+          14.627097639,
+          48.882676501
+        ],
+        "pixel": [
+          9628,
+          10296
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1810"]
+}

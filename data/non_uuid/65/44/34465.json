@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/3865_1/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "34465",
+  "title": "Pianta ed alzato della citta di Ferrara",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    11.608648,
+    44.828358,
+    11.652662,
+    44.857822
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/34465",
+  "id": "ad40643d-112b-53a0-80e4-53bf20c7a2fd",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        268,
+        16386
+      ],
+      [
+        33868,
+        16386
+      ],
+      [
+        33868,
+        130
+      ],
+      [
+        268,
+        130
+      ],
+      [
+        268,
+        16386
+      ]
+    ],
+    "created": "2016-07-31T14:06:39.268170+00:00",
+    "transformation_method": "affine",
+    "mapID": "ad40643d-112b-53a0-80e4-53bf20c7a2fd",
+    "affine_transformation": null,
+    "changed": "2016-07-31T14:06:39.268170+00:00",
+    "gcps": [
+      {
+        "location": [
+          11.621497009,
+          44.842359898
+        ],
+        "pixel": [
+          12528,
+          13944
+        ]
+      },
+      {
+        "location": [
+          11.632304584,
+          44.848861089
+        ],
+        "pixel": [
+          13632,
+          1120
+        ]
+      },
+      {
+        "location": [
+          11.634628534,
+          44.840786006
+        ],
+        "pixel": [
+          20925,
+          8776
+        ]
+      },
+      {
+        "location": [
+          11.624479055,
+          44.84934379
+        ],
+        "pixel": [
+          8645,
+          6832
+        ]
+      },
+      {
+        "location": [
+          11.636334419,
+          44.834197547
+        ],
+        "pixel": [
+          27261,
+          12996
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plana_M_125-2/ImageProperties.xml",
+  "description": null,
+  "scale": 4350,
+  "external_id": "15505",
+  "title": "Hospodářská mapa revíru Vysoké Sedliště",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.285725,
+    49.79347,
+    12.948647,
+    49.865013
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/15505",
+  "id": "a5f30ac3-5a25-5b15-8739-0f9f621f708e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        17952,
+        0
+      ],
+      [
+        17952,
+        26359
+      ],
+      [
+        0,
+        26359
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        17952,
+        0
+      ]
+    ],
+    "created": "2014-11-25T16:55:54.818980+00:00",
+    "transformation_method": "affine",
+    "mapID": "a5f30ac3-5a25-5b15-8739-0f9f621f708e",
+    "affine_transformation": null,
+    "changed": "2022-06-25T08:30:35.518420+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.631732172913784,
+          49.79736133749378
+        ],
+        "pixel": [
+          12334,
+          23542
+        ]
+      },
+      {
+        "location": [
+          12.771550070132035,
+          49.834151682343844
+        ],
+        "pixel": [
+          12579,
+          11548
+        ]
+      },
+      {
+        "location": [
+          12.497474203967558,
+          49.857264745988175
+        ],
+        "pixel": [
+          2857,
+          3328
+        ]
+      },
+      {
+        "location": [
+          12.706577728861905,
+          49.82305872851691
+        ],
+        "pixel": [
+          12173,
+          16304
+        ]
+      },
+      {
+        "location": [
+          12.769790541018269,
+          49.832075600585256
+        ],
+        "pixel": [
+          15063,
+          13215
+        ]
+      },
+      {
+        "location": [
+          12.747938905429747,
+          49.854231617442395
+        ],
+        "pixel": [
+          11784,
+          1666
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1830"]
+}

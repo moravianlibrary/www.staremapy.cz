@@ -1,0 +1,111 @@
+{
+  "date": ["1880"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:ede0be6a-9912-11ec-b7bf-fa163e4ea95f?page=uuid%3Aeed8c6e6-9912-11ec-b7bf-fa163e4ea95f",
+  "description": null,
+  "scale": 75000,
+  "external_id": "1292414",
+  "title": "Szczurowice und Bieriesteczko",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    24.756966,
+    50.205925,
+    25.398561,
+    50.530582
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär. geografisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:ede0be6a-9912-11ec-b7bf-fa163e4ea95f",
+  "id": "5728ab32-9635-5fce-bd24-df00241c6558",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:43:21.571680+00:00",
+    "transformation_method": "affine",
+    "mapID": "5728ab32-9635-5fce-bd24-df00241c6558",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:43:21.571680+00:00",
+    "gcps": [
+      {
+        "location": [
+          25.268147189,
+          50.490166616
+        ],
+        "pixel": [
+          478,
+          55
+        ]
+      },
+      {
+        "location": [
+          24.976884206,
+          50.342534548
+        ],
+        "pixel": [
+          205,
+          256
+        ]
+      },
+      {
+        "location": [
+          25.121337254,
+          50.358307659
+        ],
+        "pixel": [
+          342,
+          233
+        ]
+      },
+      {
+        "location": [
+          24.8353494,
+          50.481300154
+        ],
+        "pixel": [
+          73,
+          67
+        ]
+      },
+      {
+        "location": [
+          25.273525937,
+          50.271978377
+        ],
+        "pixel": [
+          483,
+          356
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1880"]
+}

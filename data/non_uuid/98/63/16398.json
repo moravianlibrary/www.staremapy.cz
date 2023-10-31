@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/orlik_0109/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "16398",
+  "title": "Geometrický nárys sporného lesa Na valích 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.312629,
+    49.385567,
+    14.330974,
+    49.393314
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/16398",
+  "id": "07b4e364-36c4-546e-89f0-75ae1014ca43",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        9365,
+        0
+      ],
+      [
+        9365,
+        7274
+      ],
+      [
+        0,
+        7274
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        9365,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:31:40.035540+00:00",
+    "transformation_method": "affine",
+    "mapID": "07b4e364-36c4-546e-89f0-75ae1014ca43",
+    "affine_transformation": null,
+    "changed": "2022-11-13T12:07:27.153869+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.323686916808967,
+          49.38963821535458
+        ],
+        "pixel": [
+          5789,
+          3544
+        ]
+      },
+      {
+        "location": [
+          14.319964010696296,
+          49.38977090211185
+        ],
+        "pixel": [
+          3219,
+          3135
+        ]
+      },
+      {
+        "location": [
+          14.318976957778823,
+          49.39069271600593
+        ],
+        "pixel": [
+          2641,
+          2399
+        ]
+      },
+      {
+        "location": [
+          14.323611814956555,
+          49.39199160622496
+        ],
+        "pixel": [
+          5195,
+          1729
+        ]
+      },
+      {
+        "location": [
+          14.31788261650074,
+          49.38986867107215
+        ],
+        "pixel": [
+          2509,
+          3021
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1731"]
+}

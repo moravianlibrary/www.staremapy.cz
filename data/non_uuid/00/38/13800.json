@@ -1,0 +1,127 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_pardubice_288/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "13800",
+  "title": "Mapa starých sádek u Bohdanče a rybník Rozhrna",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.621056,
+    50.08081,
+    15.643593,
+    50.08849
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/13800",
+  "id": "44a144db-3b77-5931-a0d0-dccdf104b5e0",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        8777,
+        6806
+      ],
+      [
+        7385,
+        6790
+      ],
+      [
+        1001,
+        4678
+      ],
+      [
+        1145,
+        278
+      ],
+      [
+        2955,
+        24
+      ],
+      [
+        12745,
+        45
+      ],
+      [
+        12785,
+        151
+      ],
+      [
+        12791,
+        5384
+      ],
+      [
+        8777,
+        6806
+      ]
+    ],
+    "created": "2014-12-04T17:02:37.649780+00:00",
+    "transformation_method": "affine",
+    "mapID": "44a144db-3b77-5931-a0d0-dccdf104b5e0",
+    "affine_transformation": null,
+    "changed": "2014-12-04T17:02:37.649780+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.635273962500493,
+          50.08138002094503
+        ],
+        "pixel": [
+          8377,
+          6276
+        ]
+      },
+      {
+        "location": [
+          15.636775999548833,
+          50.08738308810274
+        ],
+        "pixel": [
+          9234,
+          974
+        ]
+      },
+      {
+        "location": [
+          15.640981703284186,
+          50.08490484874579
+        ],
+        "pixel": [
+          11576,
+          3202
+        ]
+      },
+      {
+        "location": [
+          15.637162237646976,
+          50.0829221650005
+        ],
+        "pixel": [
+          9422,
+          4991
+        ]
+      },
+      {
+        "location": [
+          15.631979129352766,
+          50.088201044957174
+        ],
+        "pixel": [
+          6967,
+          185
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1916"]
+}

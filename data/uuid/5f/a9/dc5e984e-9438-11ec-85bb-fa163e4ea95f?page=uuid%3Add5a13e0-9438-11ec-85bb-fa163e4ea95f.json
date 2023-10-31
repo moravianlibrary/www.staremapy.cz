@@ -1,0 +1,111 @@
+{
+  "date": ["1929"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:dc5e984e-9438-11ec-85bb-fa163e4ea95f?page=uuid%3Add5a13e0-9438-11ec-85bb-fa163e4ea95f",
+  "description": "Hošťálkovice (Ostrava, Česko)",
+  "scale": 10000,
+  "external_id": "1253810",
+  "title": "[Mapový list]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    18.19387,
+    49.835255,
+    18.279533,
+    49.8797
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:dc5e984e-9438-11ec-85bb-fa163e4ea95f",
+  "id": "9cf6ace9-6cbd-5f99-8bee-10b534e899d3",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:11:44.275850+00:00",
+    "transformation_method": "affine",
+    "mapID": "9cf6ace9-6cbd-5f99-8bee-10b534e899d3",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:11:44.275850+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.213962225,
+          49.849725492
+        ],
+        "pixel": [
+          140,
+          301
+        ]
+      },
+      {
+        "location": [
+          18.254238275,
+          49.868344879
+        ],
+        "pixel": [
+          422,
+          111
+        ]
+      },
+      {
+        "location": [
+          18.267956646,
+          49.846729661
+        ],
+        "pixel": [
+          520,
+          328
+        ]
+      },
+      {
+        "location": [
+          18.227941917,
+          49.858165944
+        ],
+        "pixel": [
+          239,
+          214
+        ]
+      },
+      {
+        "location": [
+          18.21593633,
+          49.869147039
+        ],
+        "pixel": [
+          154,
+          105
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1929"]
+}

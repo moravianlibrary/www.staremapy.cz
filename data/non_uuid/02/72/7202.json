@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1326/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "7202",
+  "title": "Kojákovice o. České Budějovice 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.732959,
+    48.922478,
+    14.757688,
+    48.9365
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/7202",
+  "id": "89a96401-09b5-595a-8b22-fd51471e1b2a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1056,
+        13472
+      ],
+      [
+        15520,
+        13472
+      ],
+      [
+        15520,
+        896
+      ],
+      [
+        1056,
+        896
+      ],
+      [
+        1056,
+        13472
+      ]
+    ],
+    "created": "2015-06-13T21:39:06.286600+00:00",
+    "transformation_method": "affine",
+    "mapID": "89a96401-09b5-595a-8b22-fd51471e1b2a",
+    "affine_transformation": null,
+    "changed": "2015-06-13T21:39:06.286600+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.738646197,
+          48.928594095
+        ],
+        "pixel": [
+          4367,
+          8100
+        ]
+      },
+      {
+        "location": [
+          14.755820478081928,
+          48.931088146110284
+        ],
+        "pixel": [
+          14511,
+          5452
+        ]
+      },
+      {
+        "location": [
+          14.746617723,
+          48.931173902
+        ],
+        "pixel": [
+          8983,
+          5718
+        ]
+      },
+      {
+        "location": [
+          14.735218335,
+          48.925481937
+        ],
+        "pixel": [
+          2378,
+          10960
+        ]
+      },
+      {
+        "location": [
+          14.746918322,
+          48.923826506
+        ],
+        "pixel": [
+          9279,
+          12412
+        ]
+      },
+      {
+        "location": [
+          14.755820478081912,
+          48.92849423682759
+        ],
+        "pixel": [
+          14504,
+          7982
+        ]
+      },
+      {
+        "location": [
+          14.749190057397097,
+          48.92317912135164
+        ],
+        "pixel": [
+          10648,
+          12940
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1838"]
+}

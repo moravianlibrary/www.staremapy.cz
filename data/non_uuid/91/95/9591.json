@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_2246/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "9591",
+  "title": "Porostní mapa polesí Jílovice 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.696853,
+    48.86029,
+    14.772862,
+    48.899624
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/9591",
+  "id": "6926ea11-bf8c-5261-8678-e5ef967ddd5e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        594,
+        11800
+      ],
+      [
+        10962,
+        11800
+      ],
+      [
+        10962,
+        5400
+      ],
+      [
+        594,
+        5400
+      ],
+      [
+        594,
+        11800
+      ]
+    ],
+    "created": "2015-03-16T00:03:22.080210+00:00",
+    "transformation_method": "affine",
+    "mapID": "6926ea11-bf8c-5261-8678-e5ef967ddd5e",
+    "affine_transformation": null,
+    "changed": "2015-03-16T00:03:22.080210+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.714034513,
+          48.872832404
+        ],
+        "pixel": [
+          2249,
+          9304
+        ]
+      },
+      {
+        "location": [
+          14.742683538,
+          48.887968748
+        ],
+        "pixel": [
+          7460,
+          7176
+        ]
+      },
+      {
+        "location": [
+          14.754453657,
+          48.888939382
+        ],
+        "pixel": [
+          9203,
+          7432
+        ]
+      },
+      {
+        "location": [
+          14.725485799,
+          48.87189297
+        ],
+        "pixel": [
+          3915,
+          9984
+        ]
+      },
+      {
+        "location": [
+          14.716892002,
+          48.875414208
+        ],
+        "pixel": [
+          2817,
+          8860
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1860"]
+}

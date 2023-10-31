@@ -1,0 +1,121 @@
+{
+  "date": ["1930"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:5092e97a-9f85-11ec-8c48-fa163e4ea95f?page=uuid%3A5149e80a-9f85-11ec-8c48-fa163e4ea95f",
+  "description": "Prusko",
+  "scale": 25000,
+  "external_id": "1333413",
+  "title": "Spiekeroog",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    7.66625,
+    53.698627,
+    7.831963,
+    53.798103
+  ],
+  "reviewed": null,
+  "publisher": "Reichsamt für Landesaufnahme",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:5092e97a-9f85-11ec-8c48-fa163e4ea95f",
+  "id": "914b1603-78f8-5a8c-80af-a3aa4b18af1e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        54,
+        61
+      ],
+      [
+        501,
+        61
+      ],
+      [
+        501,
+        380
+      ],
+      [
+        55,
+        381
+      ],
+      [
+        54,
+        61
+      ]
+    ],
+    "created": "2017-04-17T10:51:46.905140+00:00",
+    "transformation_method": "affine",
+    "mapID": "914b1603-78f8-5a8c-80af-a3aa4b18af1e",
+    "affine_transformation": null,
+    "changed": "2017-04-17T10:51:46.905140+00:00",
+    "gcps": [
+      {
+        "location": [
+          7.702664375,
+          53.769247858
+        ],
+        "pixel": [
+          151,
+          153
+        ]
+      },
+      {
+        "location": [
+          7.69386673,
+          53.766850832
+        ],
+        "pixel": [
+          129,
+          161
+        ]
+      },
+      {
+        "location": [
+          7.693630695,
+          53.69869401
+        ],
+        "pixel": [
+          128,
+          381
+        ]
+      },
+      {
+        "location": [
+          7.723092079,
+          53.771327706
+        ],
+        "pixel": [
+          209,
+          148
+        ]
+      },
+      {
+        "location": [
+          7.70298624,
+          53.699583254
+        ],
+        "pixel": [
+          153,
+          378
+        ]
+      },
+      {
+        "location": [
+          7.815252781,
+          53.702974912
+        ],
+        "pixel": [
+          455,
+          367
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1930"]
+}

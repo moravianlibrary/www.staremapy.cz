@@ -1,0 +1,113 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/domousice_0440/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "16136",
+  "title": "Kopie katastrální mapy obce Kroučová z roku 1841, list I 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.756256,
+    50.206215,
+    13.769556,
+    50.218147
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/16136",
+  "id": "23cfd0ad-f136-5ffc-976a-709644b573ed",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        5882,
+        11846
+      ],
+      [
+        6924,
+        12885
+      ],
+      [
+        13600,
+        11216
+      ],
+      [
+        13192,
+        2253
+      ],
+      [
+        10340,
+        2092
+      ],
+      [
+        8368,
+        4241
+      ],
+      [
+        7218,
+        6616
+      ],
+      [
+        5882,
+        11846
+      ]
+    ],
+    "created": "2015-06-27T09:22:13.435580+00:00",
+    "transformation_method": "affine",
+    "mapID": "23cfd0ad-f136-5ffc-976a-709644b573ed",
+    "affine_transformation": null,
+    "changed": "2015-06-27T09:22:13.435580+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.768511326,
+          50.208848848
+        ],
+        "pixel": [
+          12994,
+          10493
+        ]
+      },
+      {
+        "location": [
+          13.761001141,
+          50.213641326
+        ],
+        "pixel": [
+          8638,
+          6169
+        ]
+      },
+      {
+        "location": [
+          13.760418511064062,
+          50.213155776496166
+        ],
+        "pixel": [
+          8300,
+          6609
+        ]
+      },
+      {
+        "location": [
+          13.765582354,
+          50.217352076
+        ],
+        "pixel": [
+          11298,
+          2809
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1841"]
+}

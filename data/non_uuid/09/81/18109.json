@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/0400/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "18109",
+  "title": "Carte des fortifications de Paris",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    2.1579142,
+    48.781605,
+    2.5320878,
+    48.95937
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/18109",
+  "id": "189a0a5e-f42d-52d2-ac50-1c93caa34b3a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1177,
+        11368
+      ],
+      [
+        14692,
+        11380
+      ],
+      [
+        14719,
+        1405
+      ],
+      [
+        1192,
+        1329
+      ],
+      [
+        1177,
+        11368
+      ]
+    ],
+    "created": "2015-07-16T06:38:10.536380+00:00",
+    "transformation_method": "affine",
+    "mapID": "189a0a5e-f42d-52d2-ac50-1c93caa34b3a",
+    "affine_transformation": null,
+    "changed": "2015-07-16T06:38:10.536380+00:00",
+    "gcps": [
+      {
+        "location": [
+          2.163992987,
+          48.888077675
+        ],
+        "pixel": [
+          1390,
+          5384
+        ]
+      },
+      {
+        "location": [
+          2.483991252,
+          48.819976081
+        ],
+        "pixel": [
+          13029,
+          9296
+        ]
+      },
+      {
+        "location": [
+          2.2388995630263167,
+          48.821691228327154
+        ],
+        "pixel": [
+          4076,
+          9084
+        ]
+      },
+      {
+        "location": [
+          2.35633956,
+          48.938513436
+        ],
+        "pixel": [
+          8320,
+          2521
+        ]
+      },
+      {
+        "location": [
+          2.342299976,
+          48.858266303
+        ],
+        "pixel": [
+          7865,
+          7095
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

@@ -1,0 +1,101 @@
+{
+  "date": ["1926"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:944b6ba0-abac-11ec-abd0-fa163e4ea95f?page=uuid%3A954a5b38-abac-11ec-abd0-fa163e4ea95f",
+  "description": null,
+  "scale": 22500,
+  "external_id": "1367740",
+  "title": "Přehledná mapa st. lesní správy v Dubově",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    11.848176,
+    46.936195,
+    23.328947,
+    50.659584
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:944b6ba0-abac-11ec-abd0-fa163e4ea95f",
+  "id": "e59155ad-a988-5ed5-aaae-03ae4ee01ca3",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:43:37.215030+00:00",
+    "transformation_method": "affine",
+    "mapID": "e59155ad-a988-5ed5-aaae-03ae4ee01ca3",
+    "affine_transformation": null,
+    "changed": "2021-11-18T12:53:05.563520+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.580941460530335,
+          49.39796339941981
+        ],
+        "pixel": [
+          394,
+          278
+        ]
+      },
+      {
+        "location": [
+          18.23380542867111,
+          48.78202070960893
+        ],
+        "pixel": [
+          254,
+          278
+        ]
+      },
+      {
+        "location": [
+          17.29360366351494,
+          48.598963103681626
+        ],
+        "pixel": [
+          313,
+          97
+        ]
+      },
+      {
+        "location": [
+          17.654085844212936,
+          48.979251262829365
+        ],
+        "pixel": [
+          322,
+          258
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1926"]
+}

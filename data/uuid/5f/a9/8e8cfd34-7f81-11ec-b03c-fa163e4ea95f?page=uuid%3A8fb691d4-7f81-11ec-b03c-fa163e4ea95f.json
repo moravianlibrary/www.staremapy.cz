@@ -1,0 +1,161 @@
+{
+  "date": ["1930"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:8e8cfd34-7f81-11ec-b03c-fa163e4ea95f?page=uuid%3A8fb691d4-7f81-11ec-b03c-fa163e4ea95f",
+  "description": "Portugalsko",
+  "scale": 1000000,
+  "external_id": "1170820",
+  "title": "Carta de Portugal na escala de 1:100.000",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -9.60907,
+    38.216797,
+    -8.860344,
+    38.583878
+  ],
+  "reviewed": null,
+  "publisher": "Instituto Geográfico e Cadastral",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:8e8cfd34-7f81-11ec-b03c-fa163e4ea95f",
+  "id": "d2d74b9a-9ad3-5fd3-b0ff-4fcdf41808dd",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        48,
+        51
+      ],
+      [
+        556,
+        50
+      ],
+      [
+        553,
+        378
+      ],
+      [
+        47,
+        377
+      ],
+      [
+        48,
+        51
+      ]
+    ],
+    "created": "2017-11-11T06:11:41.087660+00:00",
+    "transformation_method": "affine",
+    "mapID": "d2d74b9a-9ad3-5fd3-b0ff-4fcdf41808dd",
+    "affine_transformation": null,
+    "changed": "2017-11-11T06:11:41.087660+00:00",
+    "gcps": [
+      {
+        "location": [
+          -9.129331244,
+          38.450515378
+        ],
+        "pixel": [
+          373,
+          170
+        ]
+      },
+      {
+        "location": [
+          -9.033887518,
+          38.505747349
+        ],
+        "pixel": [
+          441,
+          119
+        ]
+      },
+      {
+        "location": [
+          -9.013459814,
+          38.51864215
+        ],
+        "pixel": [
+          456,
+          107
+        ]
+      },
+      {
+        "location": [
+          -8.873555792,
+          38.576505971
+        ],
+        "pixel": [
+          552,
+          59
+        ]
+      },
+      {
+        "location": [
+          -9.217736853,
+          38.426043907
+        ],
+        "pixel": [
+          312,
+          190
+        ]
+      },
+      {
+        "location": [
+          -9.16126026,
+          38.476994377
+        ],
+        "pixel": [
+          353,
+          145
+        ]
+      },
+      {
+        "location": [
+          -9.223058356,
+          38.414343077
+        ],
+        "pixel": [
+          309,
+          202
+        ]
+      },
+      {
+        "location": [
+          -8.886602057,
+          38.522537001
+        ],
+        "pixel": [
+          543,
+          105
+        ]
+      },
+      {
+        "location": [
+          -8.889348639,
+          38.574895544
+        ],
+        "pixel": [
+          541,
+          59
+        ]
+      },
+      {
+        "location": [
+          -9.100835455,
+          38.5507348
+        ],
+        "pixel": [
+          396,
+          79
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1930"]
+}

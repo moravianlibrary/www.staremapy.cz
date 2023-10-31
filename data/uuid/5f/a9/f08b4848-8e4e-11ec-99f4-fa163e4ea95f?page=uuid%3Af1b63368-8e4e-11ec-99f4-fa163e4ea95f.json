@@ -1,0 +1,111 @@
+{
+  "date": ["1873"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:f08b4848-8e4e-11ec-99f4-fa163e4ea95f?page=uuid%3Af1b63368-8e4e-11ec-99f4-fa163e4ea95f",
+  "description": null,
+  "scale": 300000,
+  "external_id": "1208208",
+  "title": "Ismail",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    28.205263,
+    44.64807,
+    30.41471,
+    46.065624
+  ],
+  "reviewed": null,
+  "publisher": "Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:f08b4848-8e4e-11ec-99f4-fa163e4ea95f",
+  "id": "7ad3c0a8-1a0e-5701-9be5-feda8d06dd3f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T15:54:38.196120+00:00",
+    "transformation_method": "affine",
+    "mapID": "7ad3c0a8-1a0e-5701-9be5-feda8d06dd3f",
+    "affine_transformation": null,
+    "changed": "2015-11-05T15:54:38.196120+00:00",
+    "gcps": [
+      {
+        "location": [
+          28.628925755,
+          45.674779865
+        ],
+        "pixel": [
+          76,
+          138
+        ]
+      },
+      {
+        "location": [
+          29.580517187,
+          45.402144581
+        ],
+        "pixel": [
+          379,
+          195
+        ]
+      },
+      {
+        "location": [
+          29.267406836,
+          45.444554502
+        ],
+        "pixel": [
+          282,
+          193
+        ]
+      },
+      {
+        "location": [
+          29.620342627,
+          44.881983492
+        ],
+        "pixel": [
+          422,
+          383
+        ]
+      },
+      {
+        "location": [
+          28.835434392,
+          45.34174193
+        ],
+        "pixel": [
+          161,
+          246
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1873"]
+}

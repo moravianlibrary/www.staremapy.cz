@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/2959_2/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "36381",
+  "title": "Podrobná mapa Moravského Krasu",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.627497,
+    49.215027,
+    16.793564,
+    49.326572
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/36381",
+  "id": "519c3b67-328b-5772-97ba-7d4c543a1400",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        272,
+        12448
+      ],
+      [
+        11568,
+        12448
+      ],
+      [
+        11568,
+        768
+      ],
+      [
+        272,
+        768
+      ],
+      [
+        272,
+        12448
+      ]
+    ],
+    "created": "2015-08-07T16:30:57.730460+00:00",
+    "transformation_method": "affine",
+    "mapID": "519c3b67-328b-5772-97ba-7d4c543a1400",
+    "affine_transformation": null,
+    "changed": "2015-08-07T16:30:57.730460+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.648837078,
+          49.228297151
+        ],
+        "pixel": [
+          1731,
+          11107
+        ]
+      },
+      {
+        "location": [
+          16.714183148,
+          49.263868949
+        ],
+        "pixel": [
+          6140,
+          7330
+        ]
+      },
+      {
+        "location": [
+          16.643810644,
+          49.313907915
+        ],
+        "pixel": [
+          1346,
+          2102
+        ]
+      },
+      {
+        "location": [
+          16.751254547,
+          49.224534554
+        ],
+        "pixel": [
+          8733,
+          11472
+        ]
+      },
+      {
+        "location": [
+          16.743486869,
+          49.297164344
+        ],
+        "pixel": [
+          8172,
+          3820
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

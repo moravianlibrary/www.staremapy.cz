@@ -1,0 +1,111 @@
+{
+  "date": ["1940"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:9c0fa832-9f78-11ec-b715-fa163e4ea95f?page=uuid%3A9d0448b0-9f78-11ec-b715-fa163e4ea95f",
+  "description": "Baranowicze (Bělorusko : oblast)",
+  "scale": 100000,
+  "external_id": "1333062",
+  "title": "BSSR",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    25.38145,
+    52.898914,
+    26.051268,
+    53.39384
+  ],
+  "reviewed": null,
+  "publisher": "General'nyj štab Krasnoj Armii",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:9c0fa832-9f78-11ec-b715-fa163e4ea95f",
+  "id": "f8004f2d-c37a-5f41-b0d0-b7be60102f46",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:11:22.825280+00:00",
+    "transformation_method": "affine",
+    "mapID": "f8004f2d-c37a-5f41-b0d0-b7be60102f46",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:11:22.825280+00:00",
+    "gcps": [
+      {
+        "location": [
+          25.713521957,
+          53.146747306
+        ],
+        "pixel": [
+          298,
+          222
+        ]
+      },
+      {
+        "location": [
+          25.932862282,
+          53.192320152
+        ],
+        "pixel": [
+          494,
+          181
+        ]
+      },
+      {
+        "location": [
+          25.5388848,
+          53.230901037
+        ],
+        "pixel": [
+          141,
+          146
+        ]
+      },
+      {
+        "location": [
+          25.689510822,
+          53.299725396
+        ],
+        "pixel": [
+          276,
+          85
+        ]
+      },
+      {
+        "location": [
+          25.728345786,
+          53.022790655
+        ],
+        "pixel": [
+          310,
+          333
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1940"]
+}

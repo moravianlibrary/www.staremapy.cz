@@ -1,0 +1,111 @@
+{
+  "date": ["1874"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:95285b68-7845-11ec-8be6-fa163e4ea95f?page=uuid%3A95f950f6-7845-11ec-8be6-fa163e4ea95f",
+  "description": "Hradec Králové (Česko : oblast)",
+  "scale": 144000,
+  "external_id": "1128348",
+  "title": "Übungs-Rayon",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.272246,
+    50.052887,
+    15.064398,
+    50.4091
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:95285b68-7845-11ec-8be6-fa163e4ea95f",
+  "id": "dd5c73de-b445-52d6-a97a-9a6dcb5a31c9",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        547,
+        214
+      ],
+      [
+        547,
+        408
+      ],
+      [
+        54,
+        408
+      ],
+      [
+        54,
+        214
+      ],
+      [
+        547,
+        214
+      ]
+    ],
+    "created": "2014-08-19T14:10:27.891850+00:00",
+    "transformation_method": "affine",
+    "mapID": "dd5c73de-b445-52d6-a97a-9a6dcb5a31c9",
+    "affine_transformation": null,
+    "changed": "2014-08-19T14:10:27.891850+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.43856107788086,
+          50.386569072847294
+        ],
+        "pixel": [
+          158,
+          222
+        ]
+      },
+      {
+        "location": [
+          15.040105066628245,
+          50.18637730545882
+        ],
+        "pixel": [
+          534,
+          339
+        ]
+      },
+      {
+        "location": [
+          14.411308516760924,
+          50.086466024094705
+        ],
+        "pixel": [
+          136,
+          390
+        ]
+      },
+      {
+        "location": [
+          14.962455515863438,
+          50.36954058845532
+        ],
+        "pixel": [
+          489,
+          236
+        ]
+      },
+      {
+        "location": [
+          14.985173426003243,
+          50.135350224475815
+        ],
+        "pixel": [
+          498,
+          367
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1874"]
+}

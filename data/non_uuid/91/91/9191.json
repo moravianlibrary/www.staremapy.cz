@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1846/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "9191",
+  "title": "Mezimostí o. Tábor 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.7110815,
+    49.181877,
+    14.737308,
+    49.195915
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/9191",
+  "id": "e5026aa6-2baf-5c45-9d2b-94aace33a98d",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1148,
+        13230
+      ],
+      [
+        16143,
+        13153
+      ],
+      [
+        16224,
+        1011
+      ],
+      [
+        1064,
+        1010
+      ],
+      [
+        1148,
+        13230
+      ]
+    ],
+    "created": "2015-06-28T18:56:41.070660+00:00",
+    "transformation_method": "affine",
+    "mapID": "e5026aa6-2baf-5c45-9d2b-94aace33a98d",
+    "affine_transformation": null,
+    "changed": "2015-06-28T18:56:41.070660+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.715797518,
+          49.194772839
+        ],
+        "pixel": [
+          3733,
+          1977
+        ]
+      },
+      {
+        "location": [
+          14.712911461,
+          49.188287069
+        ],
+        "pixel": [
+          2097,
+          7869
+        ]
+      },
+      {
+        "location": [
+          14.711362655219164,
+          49.187648739229274
+        ],
+        "pixel": [
+          1209,
+          8340
+        ]
+      },
+      {
+        "location": [
+          14.711189481,
+          49.185127785
+        ],
+        "pixel": [
+          1154,
+          10602
+        ]
+      },
+      {
+        "location": [
+          14.734873388,
+          49.186092233
+        ],
+        "pixel": [
+          14930,
+          9490
+        ]
+      },
+      {
+        "location": [
+          14.724573706,
+          49.193579171
+        ],
+        "pixel": [
+          8807,
+          2913
+        ]
+      },
+      {
+        "location": [
+          14.719275171813093,
+          49.187203928808714
+        ],
+        "pixel": [
+          5931,
+          8473
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

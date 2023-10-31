@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_2338/ImageProperties.xml",
+  "description": null,
+  "scale": 15000,
+  "external_id": "9683",
+  "title": "Porostní mapa polesí Val 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.704969,
+    49.11191,
+    14.811852,
+    49.206852
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/9683",
+  "id": "dba5ed6e-2bd7-5f00-8c0b-052d19654627",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        11976,
+        0
+      ],
+      [
+        11976,
+        16351
+      ],
+      [
+        0,
+        16351
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        11976,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:18:02.299420+00:00",
+    "transformation_method": "affine",
+    "mapID": "dba5ed6e-2bd7-5f00-8c0b-052d19654627",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:18:02.299420+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.773995486531405,
+          49.12202060224132
+        ],
+        "pixel": [
+          7746,
+          14659
+        ]
+      },
+      {
+        "location": [
+          14.789825944357357,
+          49.12974134521909
+        ],
+        "pixel": [
+          9525,
+          13294
+        ]
+      },
+      {
+        "location": [
+          14.742190345316686,
+          49.12392898689214
+        ],
+        "pixel": [
+          4152,
+          14461
+        ]
+      },
+      {
+        "location": [
+          14.741836601954168,
+          49.119496058223774
+        ],
+        "pixel": [
+          4152,
+          15181
+        ]
+      },
+      {
+        "location": [
+          14.759817053067268,
+          49.1299546433776
+        ],
+        "pixel": [
+          6154,
+          13301
+        ]
+      },
+      {
+        "location": [
+          14.752997872131209,
+          49.12251412446017
+        ],
+        "pixel": [
+          5384,
+          14549
+        ]
+      },
+      {
+        "location": [
+          14.796384127146405,
+          49.12347732666319
+        ],
+        "pixel": [
+          10242,
+          14382
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1906"]
+}

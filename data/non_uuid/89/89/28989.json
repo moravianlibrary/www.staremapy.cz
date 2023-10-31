@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/1293/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "28989",
+  "title": "Suisse",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    5.7813606,
+    45.5286,
+    10.542581,
+    47.93626
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/28989",
+  "id": "45fbf0ad-51d1-5d90-badb-6718d8a017c9",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        362,
+        9943
+      ],
+      [
+        13610,
+        9943
+      ],
+      [
+        13610,
+        343
+      ],
+      [
+        362,
+        343
+      ],
+      [
+        362,
+        9943
+      ]
+    ],
+    "created": "2016-04-30T20:31:56.540660+00:00",
+    "transformation_method": "affine",
+    "mapID": "45fbf0ad-51d1-5d90-badb-6718d8a017c9",
+    "affine_transformation": null,
+    "changed": "2016-04-30T20:31:56.540660+00:00",
+    "gcps": [
+      {
+        "location": [
+          9.147807598,
+          47.6610428
+        ],
+        "pixel": [
+          9665,
+          1433
+        ]
+      },
+      {
+        "location": [
+          6.154033184,
+          46.206735755
+        ],
+        "pixel": [
+          1312,
+          7264
+        ]
+      },
+      {
+        "location": [
+          8.292247295,
+          47.050758988
+        ],
+        "pixel": [
+          7329,
+          3917
+        ]
+      },
+      {
+        "location": [
+          6.626445293,
+          46.521361645
+        ],
+        "pixel": [
+          2675,
+          6023
+        ]
+      },
+      {
+        "location": [
+          8.540812969,
+          47.372596089
+        ],
+        "pixel": [
+          7985,
+          2641
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

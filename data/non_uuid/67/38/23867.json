@@ -1,0 +1,133 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_pardubice_325_III/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "23867",
+  "title": "Indikační skica mapy stabilního katastru pro obec Bohumileč III.",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.84813,
+    50.086372,
+    15.870335,
+    50.0979
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/23867",
+  "id": "dbb17852-4718-5871-946c-8642a412c1cf",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        732,
+        515
+      ],
+      [
+        13053,
+        468
+      ],
+      [
+        12989,
+        3748
+      ],
+      [
+        9021,
+        5524
+      ],
+      [
+        3085,
+        10660
+      ],
+      [
+        925,
+        10404
+      ],
+      [
+        317,
+        2356
+      ],
+      [
+        732,
+        515
+      ]
+    ],
+    "created": "2015-03-08T20:57:29.732930+00:00",
+    "transformation_method": "affine",
+    "mapID": "dbb17852-4718-5871-946c-8642a412c1cf",
+    "affine_transformation": null,
+    "changed": "2015-03-08T20:57:29.732930+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.869276867,
+          50.094067294
+        ],
+        "pixel": [
+          12626,
+          3394
+        ]
+      },
+      {
+        "location": [
+          15.848570214,
+          50.095313075
+        ],
+        "pixel": [
+          603,
+          2787
+        ]
+      },
+      {
+        "location": [
+          15.851000295,
+          50.096459028
+        ],
+        "pixel": [
+          1947,
+          1747
+        ]
+      },
+      {
+        "location": [
+          15.849149571,
+          50.087555666
+        ],
+        "pixel": [
+          1335,
+          9693
+        ]
+      },
+      {
+        "location": [
+          15.854862676,
+          50.095584941
+        ],
+        "pixel": [
+          4178,
+          2513
+        ]
+      },
+      {
+        "location": [
+          15.849079833,
+          50.094266896
+        ],
+        "pixel": [
+          971,
+          3695
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

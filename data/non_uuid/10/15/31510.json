@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/Vs_Litomysl_022_VI/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "31510",
+  "title": "Indikační skica mapy stabilního katastru pro obec Koclířov a osadu Hřebeč VI",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.50973,
+    49.757713,
+    16.53531,
+    49.772038
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/31510",
+  "id": "a0593911-7c57-5900-be4a-c14c4d90245e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        2018,
+        13598
+      ],
+      [
+        17442,
+        13598
+      ],
+      [
+        17498,
+        1222
+      ],
+      [
+        2018,
+        1182
+      ],
+      [
+        2018,
+        13598
+      ]
+    ],
+    "created": "2014-12-12T22:19:06.789460+00:00",
+    "transformation_method": "affine",
+    "mapID": "a0593911-7c57-5900-be4a-c14c4d90245e",
+    "affine_transformation": null,
+    "changed": "2014-12-12T22:19:06.789460+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.510505615,
+          49.759565322
+        ],
+        "pixel": [
+          2003,
+          12333
+        ]
+      },
+      {
+        "location": [
+          16.526353694,
+          49.768965509
+        ],
+        "pixel": [
+          12818,
+          3840
+        ]
+      },
+      {
+        "location": [
+          16.517598964,
+          49.769630732
+        ],
+        "pixel": [
+          6842,
+          3136
+        ]
+      },
+      {
+        "location": [
+          16.523637711,
+          49.758567278
+        ],
+        "pixel": [
+          10355,
+          12941
+        ]
+      },
+      {
+        "location": [
+          16.530645228,
+          49.768522023
+        ],
+        "pixel": [
+          14266,
+          3976
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

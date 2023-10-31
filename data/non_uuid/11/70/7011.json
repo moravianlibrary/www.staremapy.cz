@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1135/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "7011",
+  "title": "Třeboň o. Jindřichův Hradec 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.760349,
+    48.97316,
+    14.8382225,
+    49.004128
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/7011",
+  "id": "968c71a2-1ba5-5462-929d-fa2dd14eba8c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        195,
+        13900
+      ],
+      [
+        23363,
+        13900
+      ],
+      [
+        23363,
+        140
+      ],
+      [
+        195,
+        140
+      ],
+      [
+        195,
+        13900
+      ]
+    ],
+    "created": "2015-02-16T19:46:16.529880+00:00",
+    "transformation_method": "affine",
+    "mapID": "968c71a2-1ba5-5462-929d-fa2dd14eba8c",
+    "affine_transformation": null,
+    "changed": "2015-02-16T19:46:16.529880+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.836562645,
+          48.974697173
+        ],
+        "pixel": [
+          575,
+          813
+        ]
+      },
+      {
+        "location": [
+          14.790367822,
+          49.001592027
+        ],
+        "pixel": [
+          14526,
+          12840
+        ]
+      },
+      {
+        "location": [
+          14.82453562,
+          48.977426
+        ],
+        "pixel": [
+          4131,
+          2047
+        ]
+      },
+      {
+        "location": [
+          14.769362579,
+          49.002198665
+        ],
+        "pixel": [
+          20778,
+          13050
+        ]
+      },
+      {
+        "location": [
+          14.780276489,
+          48.988763992
+        ],
+        "pixel": [
+          17492,
+          7016
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1827"]
+}

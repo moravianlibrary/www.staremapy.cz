@@ -1,0 +1,111 @@
+{
+  "date": ["1937"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:a664f574-9f0c-11ec-8f5a-fa163e4ea95f?page=uuid%3Aa73c5b36-9f0c-11ec-8f5a-fa163e4ea95f",
+  "description": "Sudety (Česko)",
+  "scale": 75000,
+  "external_id": "1330072",
+  "title": "Železná Ruda",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.832133,
+    48.99833,
+    13.334043,
+    49.249756
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:a664f574-9f0c-11ec-8f5a-fa163e4ea95f",
+  "id": "32d08658-45c2-5f1c-8b23-90e0bbb31ed0",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        74,
+        379
+      ],
+      [
+        527,
+        377
+      ],
+      [
+        525,
+        41
+      ],
+      [
+        74,
+        44
+      ],
+      [
+        74,
+        379
+      ]
+    ],
+    "created": "2017-07-03T09:06:42.212890+00:00",
+    "transformation_method": "affine",
+    "mapID": "32d08658-45c2-5f1c-8b23-90e0bbb31ed0",
+    "affine_transformation": null,
+    "changed": "2017-07-03T09:06:42.212890+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.20911362,
+          49.172664638
+        ],
+        "pixel": [
+          413,
+          145
+        ]
+      },
+      {
+        "location": [
+          13.211431049,
+          49.235304894
+        ],
+        "pixel": [
+          414,
+          61
+        ]
+      },
+      {
+        "location": [
+          13.246621631,
+          49.202172083
+        ],
+        "pixel": [
+          447,
+          105
+        ]
+      },
+      {
+        "location": [
+          13.324212573,
+          49.199704454
+        ],
+        "pixel": [
+          517,
+          108
+        ]
+      },
+      {
+        "location": [
+          13.184651874,
+          49.168568108
+        ],
+        "pixel": [
+          391,
+          150
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1937"]
+}

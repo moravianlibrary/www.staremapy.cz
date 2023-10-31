@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/hluboka_0093/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "17563",
+  "title": "Záměrná mapa Světlík a rybníků Úsilno a Světlický 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.477393,
+    48.98477,
+    14.521086,
+    49.013653
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/17563",
+  "id": "ef4b5489-45b1-5bc2-8569-d9ef128b5bce",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        17936,
+        0
+      ],
+      [
+        17936,
+        22336
+      ],
+      [
+        0,
+        22336
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        17936,
+        0
+      ]
+    ],
+    "created": "2014-11-25T18:14:29.245870+00:00",
+    "transformation_method": "affine",
+    "mapID": "ef4b5489-45b1-5bc2-8569-d9ef128b5bce",
+    "affine_transformation": null,
+    "changed": "2014-11-25T18:14:29.245870+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.486374499,
+          49.002943699
+        ],
+        "pixel": [
+          5434,
+          2794
+        ]
+      },
+      {
+        "location": [
+          14.493208766,
+          49.007307275
+        ],
+        "pixel": [
+          11638,
+          2714
+        ]
+      },
+      {
+        "location": [
+          14.500484232,
+          48.997257553
+        ],
+        "pixel": [
+          8212,
+          13100
+        ]
+      },
+      {
+        "location": [
+          14.500703254,
+          49.010336926
+        ],
+        "pixel": [
+          17288,
+          3876
+        ]
+      },
+      {
+        "location": [
+          14.517123343,
+          48.996749581
+        ],
+        "pixel": [
+          15762,
+          20894
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1663"]
+}

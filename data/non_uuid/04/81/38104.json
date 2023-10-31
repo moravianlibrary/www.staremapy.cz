@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/3340_12/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "38104",
+  "title": "Podrobná místopisná mapa Království Českého",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.793723,
+    49.626568,
+    15.373517,
+    49.939182
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/38104",
+  "id": "f2e115c1-61f2-5053-af06-22e6994ee8a4",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        796,
+        5820
+      ],
+      [
+        7364,
+        5864
+      ],
+      [
+        7364,
+        428
+      ],
+      [
+        816,
+        420
+      ],
+      [
+        796,
+        5820
+      ]
+    ],
+    "created": "2015-06-03T07:41:06.501880+00:00",
+    "transformation_method": "affine",
+    "mapID": "f2e115c1-61f2-5053-af06-22e6994ee8a4",
+    "affine_transformation": null,
+    "changed": "2015-06-03T07:41:06.501880+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.973963753,
+          49.686734006
+        ],
+        "pixel": [
+          2829,
+          4793
+        ]
+      },
+      {
+        "location": [
+          14.867190377,
+          49.74123346
+        ],
+        "pixel": [
+          1649,
+          3835
+        ]
+      },
+      {
+        "location": [
+          14.896887794,
+          49.871627815
+        ],
+        "pixel": [
+          1980,
+          1575
+        ]
+      },
+      {
+        "location": [
+          14.884184853,
+          49.667405876
+        ],
+        "pixel": [
+          1809,
+          5129
+        ]
+      },
+      {
+        "location": [
+          15.270079628,
+          49.682541343
+        ],
+        "pixel": [
+          6198,
+          4890
+        ]
+      },
+      {
+        "location": [
+          15.321749703,
+          49.686539652
+        ],
+        "pixel": [
+          6794,
+          4814
+        ]
+      },
+      {
+        "location": [
+          15.269135491,
+          49.770649935
+        ],
+        "pixel": [
+          6180,
+          3360
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

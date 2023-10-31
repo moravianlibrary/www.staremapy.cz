@@ -1,0 +1,135 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Tachov_M_60/ImageProperties.xml",
+  "description": null,
+  "scale": 5760,
+  "external_id": "22013",
+  "title": "Záměrná mapa pozemků a rybníků dvora Vilémov",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.649639,
+    49.79131,
+    12.699918,
+    49.81629
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/22013",
+  "id": "50023f59-adc9-5133-bde7-0d37f155a17d",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        25091,
+        0
+      ],
+      [
+        25091,
+        15835
+      ],
+      [
+        13133,
+        15609
+      ],
+      [
+        808,
+        15621
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        25091,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:01:40.406710+00:00",
+    "transformation_method": "affine",
+    "mapID": "50023f59-adc9-5133-bde7-0d37f155a17d",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:01:40.406710+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.673334003,
+          49.807377692
+        ],
+        "pixel": [
+          13712,
+          4112
+        ]
+      },
+      {
+        "location": [
+          12.667481422,
+          49.804199492
+        ],
+        "pixel": [
+          9071,
+          5263
+        ]
+      },
+      {
+        "location": [
+          12.668886009798824,
+          49.80567343325481
+        ],
+        "pixel": [
+          10605,
+          4266
+        ]
+      },
+      {
+        "location": [
+          12.667569935132878,
+          49.8045734089292
+        ],
+        "pixel": [
+          9281,
+          4920
+        ]
+      },
+      {
+        "location": [
+          12.673827529,
+          49.804756905
+        ],
+        "pixel": [
+          12743,
+          6647
+        ]
+      },
+      {
+        "location": [
+          12.668698098134143,
+          49.80470386355958
+        ],
+        "pixel": [
+          10034,
+          5056
+        ]
+      },
+      {
+        "location": [
+          12.66269791086566,
+          49.80578395137408
+        ],
+        "pixel": [
+          7498,
+          2578
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1798"]
+}

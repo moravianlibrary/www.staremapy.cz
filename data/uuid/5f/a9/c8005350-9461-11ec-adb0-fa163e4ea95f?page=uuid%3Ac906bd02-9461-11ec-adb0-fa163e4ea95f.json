@@ -1,0 +1,131 @@
+{
+  "date": ["1926"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:c8005350-9461-11ec-adb0-fa163e4ea95f?page=uuid%3Ac906bd02-9461-11ec-adb0-fa163e4ea95f",
+  "description": "Bratislava (Slovensko : oblast)",
+  "scale": 200000,
+  "external_id": "1254980",
+  "title": "35°48° Bratislava",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.702225,
+    47.39872,
+    17.963255,
+    48.556194
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:c8005350-9461-11ec-adb0-fa163e4ea95f",
+  "id": "e06adb71-b9ef-510d-98cf-8d02eeaed7b1",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:15:16.547280+00:00",
+    "transformation_method": "affine",
+    "mapID": "e06adb71-b9ef-510d-98cf-8d02eeaed7b1",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:15:16.547280+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.619636002026883,
+          47.676623527907765
+        ],
+        "pixel": [
+          438,
+          338
+        ]
+      },
+      {
+        "location": [
+          16.854091997223403,
+          47.600812313822956
+        ],
+        "pixel": [
+          71,
+          366
+        ]
+      },
+      {
+        "location": [
+          16.89070766198862,
+          48.49278502969716
+        ],
+        "pixel": [
+          89,
+          25
+        ]
+      },
+      {
+        "location": [
+          17.756783115689224,
+          48.430925310748364
+        ],
+        "pixel": [
+          500,
+          48
+        ]
+      },
+      {
+        "location": [
+          17.575608375932777,
+          48.16732506457126
+        ],
+        "pixel": [
+          416,
+          150
+        ]
+      },
+      {
+        "location": [
+          17.106004635599135,
+          48.155186504516166
+        ],
+        "pixel": [
+          192,
+          154
+        ]
+      },
+      {
+        "location": [
+          17.410384644089177,
+          48.21304744569102
+        ],
+        "pixel": [
+          337,
+          132
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1926"]
+}

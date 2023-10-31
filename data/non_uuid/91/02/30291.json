@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_rychmburk_0201m/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "30291",
+  "title": "Indikační skica mapy stabilního katastru pro obec Mravín s osadou Popovec",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.04081,
+    49.931232,
+    16.07068,
+    49.94569
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/30291",
+  "id": "d18da8f0-e6a6-55dd-be2f-6a7341f59a74",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        22,
+        10599
+      ],
+      [
+        18518,
+        10599
+      ],
+      [
+        18518,
+        359
+      ],
+      [
+        22,
+        359
+      ],
+      [
+        22,
+        10599
+      ]
+    ],
+    "created": "2015-01-20T19:26:35.717920+00:00",
+    "transformation_method": "affine",
+    "mapID": "d18da8f0-e6a6-55dd-be2f-6a7341f59a74",
+    "affine_transformation": null,
+    "changed": "2015-01-20T19:26:35.717920+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.056901475,
+          49.94057797
+        ],
+        "pixel": [
+          9936,
+          3771
+        ]
+      },
+      {
+        "location": [
+          16.056756636,
+          49.942117734
+        ],
+        "pixel": [
+          9678,
+          2574
+        ]
+      },
+      {
+        "location": [
+          16.056075355,
+          49.942293803
+        ],
+        "pixel": [
+          9284,
+          2418
+        ]
+      },
+      {
+        "location": [
+          16.055029294,
+          49.941910594
+        ],
+        "pixel": [
+          8650,
+          2812
+        ]
+      },
+      {
+        "location": [
+          16.055817863,
+          49.940522731
+        ],
+        "pixel": [
+          9160,
+          3839
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

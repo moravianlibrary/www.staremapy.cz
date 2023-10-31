@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_pardubice_394_I/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "24355",
+  "title": "Indikační skica mapy stabilního katastru pro obec Podulšany I.",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.731901,
+    50.140175,
+    15.75931,
+    50.146847
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/24355",
+  "id": "ade486b2-c27a-5bc0-b949-9fb98a345e24",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        2038,
+        9482
+      ],
+      [
+        17014,
+        9530
+      ],
+      [
+        16982,
+        3802
+      ],
+      [
+        1990,
+        3690
+      ],
+      [
+        2038,
+        9482
+      ]
+    ],
+    "created": "2015-07-13T05:00:27.245340+00:00",
+    "transformation_method": "affine",
+    "mapID": "ade486b2-c27a-5bc0-b949-9fb98a345e24",
+    "affine_transformation": null,
+    "changed": "2021-10-16T16:47:56.406888+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.738886125981395,
+          50.143400135090104
+        ],
+        "pixel": [
+          5715,
+          6799
+        ]
+      },
+      {
+        "location": [
+          15.740490470146323,
+          50.14364155116476
+        ],
+        "pixel": [
+          6667,
+          6563
+        ]
+      },
+      {
+        "location": [
+          15.754377587553149,
+          50.1412942042941
+        ],
+        "pixel": [
+          14628,
+          8548
+        ]
+      },
+      {
+        "location": [
+          15.73891551023629,
+          50.14163370096318
+        ],
+        "pixel": [
+          5746,
+          8443
+        ]
+      },
+      {
+        "location": [
+          15.73326996347824,
+          50.14155128155525
+        ],
+        "pixel": [
+          2846,
+          8600
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1840"]
+}

@@ -1,0 +1,131 @@
+{
+  "date": ["1940"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:6c9c23de-7956-11ec-894f-fa163e4ea95f?page=uuid%3A6d7ae902-7956-11ec-894f-fa163e4ea95f",
+  "description": "Heřmanovice (Česko)",
+  "scale": 25000,
+  "external_id": "1125176",
+  "title": "[Kartenblatt]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    17.329433,
+    50.123184,
+    17.582088,
+    50.251217
+  ],
+  "reviewed": null,
+  "publisher": "Reichsamt für Landesaufnahme",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:6c9c23de-7956-11ec-894f-fa163e4ea95f",
+  "id": "0b1a5885-901a-59ef-b78e-da9f6308f2c0",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        45,
+        379
+      ],
+      [
+        511,
+        379
+      ],
+      [
+        511,
+        45
+      ],
+      [
+        45,
+        45
+      ],
+      [
+        45,
+        379
+      ]
+    ],
+    "created": "2015-02-25T19:09:32.765390+00:00",
+    "transformation_method": "affine",
+    "mapID": "0b1a5885-901a-59ef-b78e-da9f6308f2c0",
+    "affine_transformation": null,
+    "changed": "2015-02-25T19:09:32.765390+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.444598846,
+          50.15713446
+        ],
+        "pixel": [
+          256,
+          291
+        ]
+      },
+      {
+        "location": [
+          17.529485397,
+          50.179757644
+        ],
+        "pixel": [
+          415,
+          231
+        ]
+      },
+      {
+        "location": [
+          17.381384544,
+          50.136398593
+        ],
+        "pixel": [
+          140,
+          345
+        ]
+      },
+      {
+        "location": [
+          17.419192963,
+          50.169313276
+        ],
+        "pixel": [
+          211,
+          258
+        ]
+      },
+      {
+        "location": [
+          17.574031525,
+          50.166110795
+        ],
+        "pixel": [
+          496,
+          268
+        ]
+      },
+      {
+        "location": [
+          17.499616318,
+          50.142202241
+        ],
+        "pixel": [
+          360,
+          330
+        ]
+      },
+      {
+        "location": [
+          17.572658234,
+          50.202164101
+        ],
+        "pixel": [
+          493,
+          174
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1940"]
+}

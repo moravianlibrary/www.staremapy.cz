@@ -1,0 +1,143 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Kladruby_M_10_400dpi/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "21384",
+  "title": "Katastrální mapa obce Ostrov",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.966469,
+    49.68393,
+    13.063052,
+    49.72221
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/21384",
+  "id": "8a5c496c-fcbe-557b-9341-bb545776ce9f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        0,
+        14784
+      ],
+      [
+        16704,
+        14512
+      ],
+      [
+        16640,
+        20576
+      ],
+      [
+        25984,
+        20544
+      ],
+      [
+        25984,
+        22784
+      ],
+      [
+        36224,
+        22656
+      ],
+      [
+        36416,
+        2496
+      ],
+      [
+        26336,
+        2416
+      ],
+      [
+        26176,
+        -32
+      ],
+      [
+        20736,
+        -64
+      ],
+      [
+        20672,
+        6000
+      ],
+      [
+        -128,
+        6240
+      ],
+      [
+        0,
+        14784
+      ]
+    ],
+    "created": "2015-08-13T11:42:41.755710+00:00",
+    "transformation_method": "affine",
+    "mapID": "8a5c496c-fcbe-557b-9341-bb545776ce9f",
+    "affine_transformation": null,
+    "changed": "2015-08-13T11:42:41.755710+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.042857236,
+          49.699989029
+        ],
+        "pixel": [
+          28840,
+          13236
+        ]
+      },
+      {
+        "location": [
+          13.026751548,
+          49.717011903
+        ],
+        "pixel": [
+          22694,
+          3052
+        ]
+      },
+      {
+        "location": [
+          13.015790795,
+          49.71006731
+        ],
+        "pixel": [
+          18449,
+          7146
+        ]
+      },
+      {
+        "location": [
+          12.977542494,
+          49.704603435
+        ],
+        "pixel": [
+          4105,
+          10350
+        ]
+      },
+      {
+        "location": [
+          13.023499464,
+          49.690425717
+        ],
+        "pixel": [
+          21399,
+          18883
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1841"]
+}

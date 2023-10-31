@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/2355_05/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "34832",
+  "title": "Orientační plán hlavního města Prahy s okolím",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.40444,
+    50.116913,
+    14.446018,
+    50.13935
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/34832",
+  "id": "aa966cbf-fc81-5cb1-a68f-8d053ff4f3c9",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        710,
+        12342
+      ],
+      [
+        14470,
+        12342
+      ],
+      [
+        14470,
+        630
+      ],
+      [
+        710,
+        630
+      ],
+      [
+        710,
+        12342
+      ]
+    ],
+    "created": "2015-02-12T18:36:22.241460+00:00",
+    "transformation_method": "affine",
+    "mapID": "aa966cbf-fc81-5cb1-a68f-8d053ff4f3c9",
+    "affine_transformation": null,
+    "changed": "2015-02-12T18:36:22.241460+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.434168586,
+          50.136932269
+        ],
+        "pixel": [
+          10541,
+          1834
+        ]
+      },
+      {
+        "location": [
+          14.433900365,
+          50.132304026
+        ],
+        "pixel": [
+          10463,
+          4264
+        ]
+      },
+      {
+        "location": [
+          14.417002448,
+          50.132847335
+        ],
+        "pixel": [
+          4762,
+          4028
+        ]
+      },
+      {
+        "location": [
+          14.412818202,
+          50.132407186
+        ],
+        "pixel": [
+          3370,
+          4268
+        ]
+      },
+      {
+        "location": [
+          14.429297694,
+          50.135955768
+        ],
+        "pixel": [
+          8821,
+          2342
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/orlik_0561/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "16850",
+  "title": "Mapa dvora Orlíka 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.124304,
+    49.5042,
+    14.182157,
+    49.535427
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/16850",
+  "id": "33a9f853-aa30-5cd3-a329-8c4fadaebdb6",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        18228,
+        0
+      ],
+      [
+        18228,
+        15237
+      ],
+      [
+        0,
+        15237
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        18228,
+        0
+      ]
+    ],
+    "created": "2014-11-25T18:11:25.831540+00:00",
+    "transformation_method": "affine",
+    "mapID": "33a9f853-aa30-5cd3-a329-8c4fadaebdb6",
+    "affine_transformation": null,
+    "changed": "2014-11-25T18:11:25.831540+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.170589667762679,
+          49.50590466865151
+        ],
+        "pixel": [
+          14916,
+          14476
+        ]
+      },
+      {
+        "location": [
+          14.158432655310408,
+          49.50577538534114
+        ],
+        "pixel": [
+          10938,
+          14565
+        ]
+      },
+      {
+        "location": [
+          14.155759811,
+          49.51230671
+        ],
+        "pixel": [
+          10016,
+          11329
+        ]
+      },
+      {
+        "location": [
+          14.136292338,
+          49.524353042
+        ],
+        "pixel": [
+          3613,
+          5463
+        ]
+      },
+      {
+        "location": [
+          14.169215148,
+          49.511841221
+        ],
+        "pixel": [
+          14337,
+          11479
+        ]
+      },
+      {
+        "location": [
+          14.143185616,
+          49.511871328
+        ],
+        "pixel": [
+          5995,
+          11614
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1829"]
+}

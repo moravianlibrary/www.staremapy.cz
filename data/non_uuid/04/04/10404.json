@@ -1,0 +1,115 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_3059/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "10404",
+  "title": null,
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.772804,
+    49.002773,
+    14.773719,
+    49.00351
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/10404",
+  "id": "5c3cd278-a32a-52fa-8ba6-58a13788a22d",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1837,
+        683
+      ],
+      [
+        17261,
+        587
+      ],
+      [
+        17197,
+        11851
+      ],
+      [
+        1965,
+        11851
+      ],
+      [
+        1933,
+        6923
+      ],
+      [
+        1837,
+        683
+      ]
+    ],
+    "created": "2017-08-18T10:12:50.783330+00:00",
+    "transformation_method": "affine",
+    "mapID": "5c3cd278-a32a-52fa-8ba6-58a13788a22d",
+    "affine_transformation": null,
+    "changed": "2017-08-18T10:12:50.783330+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.773070222,
+          49.003192145
+        ],
+        "pixel": [
+          7593,
+          8919
+        ]
+      },
+      {
+        "location": [
+          14.773026035,
+          49.003108742
+        ],
+        "pixel": [
+          9385,
+          10439
+        ]
+      },
+      {
+        "location": [
+          14.77317564,
+          49.003213686
+        ],
+        "pixel": [
+          7614,
+          7118
+        ]
+      },
+      {
+        "location": [
+          14.772993177,
+          49.003178245
+        ],
+        "pixel": [
+          7601,
+          10439
+        ]
+      },
+      {
+        "location": [
+          14.773159546,
+          49.003127467
+        ],
+        "pixel": [
+          9374,
+          7990
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1879"]
+}

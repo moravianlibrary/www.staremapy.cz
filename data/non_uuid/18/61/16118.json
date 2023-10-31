@@ -1,0 +1,115 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/domousice_0422/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "16118",
+  "title": "Kopie katastrální mapy obce Kozojedy, list III 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.821435,
+    50.247726,
+    13.837002,
+    50.26135
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/16118",
+  "id": "d72267fc-ef0b-5500-8ec0-103479ffee54",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        596,
+        13483
+      ],
+      [
+        9492,
+        13483
+      ],
+      [
+        9492,
+        1099
+      ],
+      [
+        596,
+        1099
+      ],
+      [
+        564,
+        7275
+      ],
+      [
+        596,
+        13483
+      ]
+    ],
+    "created": "2015-04-27T15:39:20.308960+00:00",
+    "transformation_method": "affine",
+    "mapID": "d72267fc-ef0b-5500-8ec0-103479ffee54",
+    "affine_transformation": null,
+    "changed": "2015-04-27T15:39:20.308960+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.832235553,
+          50.25234397
+        ],
+        "pixel": [
+          6766,
+          9289
+        ]
+      },
+      {
+        "location": [
+          13.82402263,
+          50.254834121
+        ],
+        "pixel": [
+          2055,
+          7051
+        ]
+      },
+      {
+        "location": [
+          13.826763847,
+          50.260643966
+        ],
+        "pixel": [
+          3611,
+          1719
+        ]
+      },
+      {
+        "location": [
+          13.826529581,
+          50.248747698
+        ],
+        "pixel": [
+          3499,
+          12572
+        ]
+      },
+      {
+        "location": [
+          13.83201738,
+          50.249003255
+        ],
+        "pixel": [
+          6672,
+          12337
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1841"]
+}

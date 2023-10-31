@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_0318/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "3972",
+  "title": "Geometrický plán lesa Burka, rybníků Velký a Malý Hojek, Filiš, Proseta a přilehlých pozemků",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.844493,
+    48.89435,
+    14.895873,
+    48.916492
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/3972",
+  "id": "aa66f01a-2042-5940-b56d-8b487c6cdf63",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        41398,
+        0
+      ],
+      [
+        41398,
+        28016
+      ],
+      [
+        0,
+        28016
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        41398,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:04:29.470690+00:00",
+    "transformation_method": "affine",
+    "mapID": "aa66f01a-2042-5940-b56d-8b487c6cdf63",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:04:29.470690+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.881459920683131,
+          48.90470824841958
+        ],
+        "pixel": [
+          10897,
+          13640
+        ]
+      },
+      {
+        "location": [
+          14.857684008309437,
+          48.90811480973795
+        ],
+        "pixel": [
+          31967,
+          17211
+        ]
+      },
+      {
+        "location": [
+          14.855725995728568,
+          48.90559904311931
+        ],
+        "pixel": [
+          33200,
+          13572
+        ]
+      },
+      {
+        "location": [
+          14.853486351201123,
+          48.907704045003584
+        ],
+        "pixel": [
+          35363,
+          16327
+        ]
+      },
+      {
+        "location": [
+          14.867869979270383,
+          48.90705019720613
+        ],
+        "pixel": [
+          22871,
+          15930
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1802"]
+}

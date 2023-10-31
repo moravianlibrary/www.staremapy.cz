@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_pardubice_421_I_adII/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "24480",
+  "title": "Indikační skica mapy stabilního katastru pro obec Veliny I., ad II.",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.074831,
+    50.079773,
+    16.084282,
+    50.09056
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/24480",
+  "id": "d47f6cf0-a0d6-5e34-a8ea-4eb86f7557b1",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        9102,
+        9213
+      ],
+      [
+        14494,
+        9129
+      ],
+      [
+        14499,
+        118
+      ],
+      [
+        9059,
+        47
+      ],
+      [
+        9102,
+        9213
+      ]
+    ],
+    "created": "2015-01-31T20:27:12.161320+00:00",
+    "transformation_method": "affine",
+    "mapID": "d47f6cf0-a0d6-5e34-a8ea-4eb86f7557b1",
+    "affine_transformation": null,
+    "changed": "2021-05-19T07:19:06.406262+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.078536744291565,
+          50.08546441391306
+        ],
+        "pixel": [
+          11098,
+          4329
+        ]
+      },
+      {
+        "location": [
+          16.0772814704726,
+          50.08637138495578
+        ],
+        "pixel": [
+          10302,
+          3613
+        ]
+      },
+      {
+        "location": [
+          16.07562012712266,
+          50.08336119278766
+        ],
+        "pixel": [
+          9435,
+          6302
+        ]
+      },
+      {
+        "location": [
+          16.078429455930973,
+          50.086070210516596
+        ],
+        "pixel": [
+          11066,
+          3887
+        ]
+      },
+      {
+        "location": [
+          16.07641406099107,
+          50.08495834648821
+        ],
+        "pixel": [
+          9775,
+          4879
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

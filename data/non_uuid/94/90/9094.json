@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1749/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "9094",
+  "title": "Suchdol nad Lužnicí o. Jindřichův Hradec 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.836426,
+    48.881298,
+    14.863061,
+    48.895195
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/9094",
+  "id": "658a9fa6-f9c5-50a8-9d56-2be91d1310bb",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        844,
+        779
+      ],
+      [
+        16140,
+        907
+      ],
+      [
+        16076,
+        13355
+      ],
+      [
+        812,
+        13131
+      ],
+      [
+        844,
+        779
+      ]
+    ],
+    "created": "2014-12-26T15:22:53.064680+00:00",
+    "transformation_method": "affine",
+    "mapID": "658a9fa6-f9c5-50a8-9d56-2be91d1310bb",
+    "affine_transformation": null,
+    "changed": "2014-12-26T15:22:53.064680+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.841952184,
+          48.884609943
+        ],
+        "pixel": [
+          3924,
+          10236
+        ]
+      },
+      {
+        "location": [
+          14.84244571,
+          48.886190247
+        ],
+        "pixel": [
+          4308,
+          8732
+        ]
+      },
+      {
+        "location": [
+          14.840493062,
+          48.886952162
+        ],
+        "pixel": [
+          3124,
+          7980
+        ]
+      },
+      {
+        "location": [
+          14.841115335,
+          48.883283577
+        ],
+        "pixel": [
+          3508,
+          11340
+        ]
+      },
+      {
+        "location": [
+          14.84051452,
+          48.882309946
+        ],
+        "pixel": [
+          3204,
+          12332
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1838"]
+}

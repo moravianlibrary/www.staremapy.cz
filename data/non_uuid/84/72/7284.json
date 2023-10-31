@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1408/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "7284",
+  "title": "Petrovice o. České Budějovice 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.674775,
+    48.91138,
+    14.699355,
+    48.92374
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/7284",
+  "id": "ddc1c6b9-aef5-597d-92ba-306111756e31",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        14862,
+        0
+      ],
+      [
+        14862,
+        11229
+      ],
+      [
+        0,
+        11229
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        14862,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:13:00.040130+00:00",
+    "transformation_method": "affine",
+    "mapID": "ddc1c6b9-aef5-597d-92ba-306111756e31",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:13:00.040130+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.684468783609148,
+          48.91681718430911
+        ],
+        "pixel": [
+          5792,
+          6325
+        ]
+      },
+      {
+        "location": [
+          14.685307143478639,
+          48.912868254285314
+        ],
+        "pixel": [
+          6484,
+          9824
+        ]
+      },
+      {
+        "location": [
+          14.68047724462168,
+          48.922198224293595
+        ],
+        "pixel": [
+          3220,
+          1382
+        ]
+      },
+      {
+        "location": [
+          14.689033691667383,
+          48.91521859399248
+        ],
+        "pixel": [
+          8727,
+          7724
+        ]
+      },
+      {
+        "location": [
+          14.691648829205212,
+          48.922516063469345
+        ],
+        "pixel": [
+          10119,
+          1107
+        ]
+      },
+      {
+        "location": [
+          14.685914014854022,
+          48.91495619040808
+        ],
+        "pixel": [
+          6833,
+          8039
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1838"]
+}

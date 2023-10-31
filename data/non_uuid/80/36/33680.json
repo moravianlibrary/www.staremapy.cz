@@ -1,0 +1,115 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/2060_20/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "33680",
+  "title": "Katastrální mapy, regulační plány aj. města Olomouce",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    17.25841,
+    49.582573,
+    17.262379,
+    49.58764
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/33680",
+  "id": "decd6c4e-a631-5818-93e6-830da6fea848",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        300,
+        25528
+      ],
+      [
+        11564,
+        25528
+      ],
+      [
+        11564,
+        -72
+      ],
+      [
+        10220,
+        -232
+      ],
+      [
+        44,
+        7800
+      ],
+      [
+        300,
+        25528
+      ]
+    ],
+    "created": "2014-12-08T15:21:23.231040+00:00",
+    "transformation_method": "affine",
+    "mapID": "decd6c4e-a631-5818-93e6-830da6fea848",
+    "affine_transformation": null,
+    "changed": "2014-12-08T15:21:23.231040+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.260982143,
+          49.585996064
+        ],
+        "pixel": [
+          7719,
+          8254
+        ]
+      },
+      {
+        "location": [
+          17.261365698,
+          49.582895521
+        ],
+        "pixel": [
+          8596,
+          24144
+        ]
+      },
+      {
+        "location": [
+          17.261411296,
+          49.586274286
+        ],
+        "pixel": [
+          9070,
+          7044
+        ]
+      },
+      {
+        "location": [
+          17.259844886,
+          49.586016931
+        ],
+        "pixel": [
+          4295,
+          8238
+        ]
+      },
+      {
+        "location": [
+          17.261872636,
+          49.584848382
+        ],
+        "pixel": [
+          10193,
+          13698
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plana_M_5-3/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "15567",
+  "title": "Katastrální mapa obce Damnov  ZS-XIII-20 cf",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.795807,
+    49.776863,
+    12.823936,
+    49.79216
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/15567",
+  "id": "1724d28a-2c65-5c16-9752-39cae058411b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1223,
+        14288
+      ],
+      [
+        17575,
+        14288
+      ],
+      [
+        17575,
+        752
+      ],
+      [
+        1223,
+        752
+      ],
+      [
+        1223,
+        14288
+      ]
+    ],
+    "created": "2015-09-03T14:22:29.614480+00:00",
+    "transformation_method": "affine",
+    "mapID": "1724d28a-2c65-5c16-9752-39cae058411b",
+    "affine_transformation": null,
+    "changed": "2015-09-03T14:22:29.614480+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.798469709,
+          49.784480518
+        ],
+        "pixel": [
+          2680,
+          7433
+        ]
+      },
+      {
+        "location": [
+          12.815780686,
+          49.782468115
+        ],
+        "pixel": [
+          12825,
+          9416
+        ]
+      },
+      {
+        "location": [
+          12.801087545,
+          49.780427919
+        ],
+        "pixel": [
+          4188,
+          11129
+        ]
+      },
+      {
+        "location": [
+          12.822604226,
+          49.781702619
+        ],
+        "pixel": [
+          16860,
+          10182
+        ]
+      },
+      {
+        "location": [
+          12.797211753,
+          49.788286015
+        ],
+        "pixel": [
+          1997,
+          3982
+        ]
+      },
+      {
+        "location": [
+          12.821037816,
+          49.789675661
+        ],
+        "pixel": [
+          16054,
+          2977
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1936"]
+}

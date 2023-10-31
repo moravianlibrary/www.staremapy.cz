@@ -1,0 +1,133 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Zichovice_M_2_III/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "26403",
+  "title": "Katastrální mapa obce Šimanov",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.592721,
+    49.180897,
+    13.606352,
+    49.183273
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/26403",
+  "id": "1d96aede-99b3-5b7b-8b1b-3190a73a9e89",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1529,
+        425
+      ],
+      [
+        4525,
+        357
+      ],
+      [
+        9553,
+        305
+      ],
+      [
+        9561,
+        945
+      ],
+      [
+        6665,
+        2449
+      ],
+      [
+        4649,
+        2401
+      ],
+      [
+        1569,
+        809
+      ],
+      [
+        1529,
+        425
+      ]
+    ],
+    "created": "2015-10-19T10:26:51.205380+00:00",
+    "transformation_method": "affine",
+    "mapID": "1d96aede-99b3-5b7b-8b1b-3190a73a9e89",
+    "affine_transformation": null,
+    "changed": "2015-10-19T10:26:51.205380+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.602275848,
+          49.182153218
+        ],
+        "pixel": [
+          7157,
+          1329
+        ]
+      },
+      {
+        "location": [
+          13.593053627,
+          49.183069244
+        ],
+        "pixel": [
+          1751,
+          611
+        ]
+      },
+      {
+        "location": [
+          13.599894047,
+          49.181297628
+        ],
+        "pixel": [
+          5741,
+          2097
+        ]
+      },
+      {
+        "location": [
+          13.599572182,
+          49.182938665
+        ],
+        "pixel": [
+          5549,
+          625
+        ]
+      },
+      {
+        "location": [
+          13.605988026,
+          49.18314905
+        ],
+        "pixel": [
+          9365,
+          401
+        ]
+      },
+      {
+        "location": [
+          13.596053123,
+          49.183120999
+        ],
+        "pixel": [
+          3469,
+          481
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1837"]
+}

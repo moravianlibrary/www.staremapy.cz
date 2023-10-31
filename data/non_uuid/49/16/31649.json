@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/Vs_Litomysl_823_II/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "31649",
+  "title": "Mapa lesů mendryckého a jeho polesí Janov, Mendryka, Mikuleč, Opatov, Opatovec a Semanín II",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.411219,
+    49.846886,
+    16.44347,
+    49.86971
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/31649",
+  "id": "dbc73303-7517-56b4-bdc3-3c94d5370a9f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        12400,
+        0
+      ],
+      [
+        12400,
+        15416
+      ],
+      [
+        0,
+        15416
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        12400,
+        0
+      ]
+    ],
+    "created": "2014-11-25T19:15:52.020530+00:00",
+    "transformation_method": "affine",
+    "mapID": "dbc73303-7517-56b4-bdc3-3c94d5370a9f",
+    "affine_transformation": null,
+    "changed": "2014-11-25T19:15:52.020530+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.417654212,
+          49.855163386
+        ],
+        "pixel": [
+          136,
+          7160
+        ]
+      },
+      {
+        "location": [
+          16.43666571,
+          49.852092089
+        ],
+        "pixel": [
+          7864,
+          14968
+        ]
+      },
+      {
+        "location": [
+          16.434262451,
+          49.856519123
+        ],
+        "pixel": [
+          9144,
+          11304
+        ]
+      },
+      {
+        "location": [
+          16.428594578,
+          49.862385297
+        ],
+        "pixel": [
+          8464,
+          5016
+        ]
+      },
+      {
+        "location": [
+          16.432843197,
+          49.8630769
+        ],
+        "pixel": [
+          10920,
+          5736
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1828"]
+}

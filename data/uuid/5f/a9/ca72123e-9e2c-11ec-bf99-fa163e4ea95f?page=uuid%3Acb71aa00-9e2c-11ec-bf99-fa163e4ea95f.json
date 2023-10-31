@@ -1,0 +1,111 @@
+{
+  "date": ["1913"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:ca72123e-9e2c-11ec-bf99-fa163e4ea95f?page=uuid%3Acb71aa00-9e2c-11ec-bf99-fa163e4ea95f",
+  "description": null,
+  "scale": 200000,
+  "external_id": "1304215",
+  "title": "30°47° Bruneck",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    11.676823,
+    46.376633,
+    12.984393,
+    47.602226
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:ca72123e-9e2c-11ec-bf99-fa163e4ea95f",
+  "id": "c5d5d607-61c8-5075-9574-480d9ca5e5ce",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        531,
+        40
+      ],
+      [
+        532,
+        399
+      ],
+      [
+        69,
+        399
+      ],
+      [
+        73,
+        38
+      ],
+      [
+        531,
+        40
+      ]
+    ],
+    "created": "2015-11-05T16:50:13.730480+00:00",
+    "transformation_method": "affine",
+    "mapID": "c5d5d607-61c8-5075-9574-480d9ca5e5ce",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:50:13.730480+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.757353601074215,
+          46.828173529208954
+        ],
+        "pixel": [
+          497,
+          281
+        ]
+      },
+      {
+        "location": [
+          12.398151036248846,
+          47.44394262371449
+        ],
+        "pixel": [
+          331,
+          58
+        ]
+      },
+      {
+        "location": [
+          11.93829570062534,
+          46.79867979657325
+        ],
+        "pixel": [
+          118,
+          292
+        ]
+      },
+      {
+        "location": [
+          12.457667704081198,
+          46.50556480229204
+        ],
+        "pixel": [
+          358,
+          397
+        ]
+      },
+      {
+        "location": [
+          11.852813067914775,
+          47.38015260572945
+        ],
+        "pixel": [
+          82,
+          81
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1913"]
+}

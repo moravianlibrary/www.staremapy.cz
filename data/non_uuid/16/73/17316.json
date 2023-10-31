@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/orlik_1026/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "17316",
+  "title": "Rakovice, okr. Písek, list 1 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.0344715,
+    49.484135,
+    14.06116,
+    49.49809
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/17316",
+  "id": "b5105615-ffbf-5300-abe4-3885fae04605",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        15498,
+        0
+      ],
+      [
+        15498,
+        12444
+      ],
+      [
+        0,
+        12444
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        15498,
+        0
+      ]
+    ],
+    "created": "2014-11-25T18:13:36.033560+00:00",
+    "transformation_method": "affine",
+    "mapID": "b5105615-ffbf-5300-abe4-3885fae04605",
+    "affine_transformation": null,
+    "changed": "2014-11-25T18:13:36.033560+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.039016247,
+          49.488748217
+        ],
+        "pixel": [
+          2632,
+          8361
+        ]
+      },
+      {
+        "location": [
+          14.047722697,
+          49.486357646
+        ],
+        "pixel": [
+          7652,
+          10447
+        ]
+      },
+      {
+        "location": [
+          14.056498885,
+          49.485263381
+        ],
+        "pixel": [
+          12840,
+          11472
+        ]
+      },
+      {
+        "location": [
+          14.044359207,
+          49.493483711
+        ],
+        "pixel": [
+          5735,
+          4092
+        ]
+      },
+      {
+        "location": [
+          14.036849022,
+          49.487336888
+        ],
+        "pixel": [
+          1401,
+          9570
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1840"]
+}

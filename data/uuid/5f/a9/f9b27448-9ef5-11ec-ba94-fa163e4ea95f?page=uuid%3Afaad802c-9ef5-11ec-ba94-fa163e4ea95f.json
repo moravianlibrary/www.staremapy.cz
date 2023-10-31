@@ -1,0 +1,111 @@
+{
+  "date": ["1909"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:f9b27448-9ef5-11ec-ba94-fa163e4ea95f?page=uuid%3Afaad802c-9ef5-11ec-ba94-fa163e4ea95f",
+  "description": "Kufstein (Rakousko : oblast)",
+  "scale": 200000,
+  "external_id": "1329436",
+  "title": "30°48° Kufstein",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    11.830433,
+    47.492558,
+    12.833619,
+    48.49817
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:f9b27448-9ef5-11ec-ba94-fa163e4ea95f",
+  "id": "9c26dacb-671c-5615-96f9-383a4555f270",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        78,
+        38
+      ],
+      [
+        520,
+        37
+      ],
+      [
+        529,
+        396
+      ],
+      [
+        78,
+        398
+      ],
+      [
+        78,
+        38
+      ]
+    ],
+    "created": "2017-06-12T11:17:43.829220+00:00",
+    "transformation_method": "affine",
+    "mapID": "9c26dacb-671c-5615-96f9-383a4555f270",
+    "affine_transformation": null,
+    "changed": "2017-06-12T11:17:43.829220+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.168556929,
+          47.583155004
+        ],
+        "pixel": [
+          229,
+          366
+        ]
+      },
+      {
+        "location": [
+          12.253185987,
+          48.366371555
+        ],
+        "pixel": [
+          262,
+          85
+        ]
+      },
+      {
+        "location": [
+          12.393261671,
+          47.871539391
+        ],
+        "pixel": [
+          329,
+          262
+        ]
+      },
+      {
+        "location": [
+          12.505785704,
+          48.363064119
+        ],
+        "pixel": [
+          376,
+          85
+        ]
+      },
+      {
+        "location": [
+          12.147099257,
+          47.851729873
+        ],
+        "pixel": [
+          219,
+          270
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1909"]
+}

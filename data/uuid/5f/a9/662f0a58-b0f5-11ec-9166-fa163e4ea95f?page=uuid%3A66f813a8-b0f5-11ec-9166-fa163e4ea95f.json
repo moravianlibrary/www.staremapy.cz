@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:662f0a58-b0f5-11ec-9166-fa163e4ea95f?page=uuid%3A66f813a8-b0f5-11ec-9166-fa163e4ea95f",
+  "description": "New York",
+  "scale": 62500,
+  "external_id": "1374748",
+  "title": "New York",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Gannett, Henry",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -74.08371,
+    42.73563,
+    -73.67885,
+    43.016853
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:662f0a58-b0f5-11ec-9166-fa163e4ea95f",
+  "id": "43151e97-be72-56de-b775-f1656b367a8b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2016-01-08T13:31:36.658590+00:00",
+    "transformation_method": "affine",
+    "mapID": "43151e97-be72-56de-b775-f1656b367a8b",
+    "affine_transformation": null,
+    "changed": "2016-01-08T13:31:36.658590+00:00",
+    "gcps": [
+      {
+        "location": [
+          -73.83500523925096,
+          42.79151564188692
+        ],
+        "pixel": [
+          388,
+          363
+        ]
+      },
+      {
+        "location": [
+          -73.96907043457028,
+          42.933470208399456
+        ],
+        "pixel": [
+          157,
+          128
+        ]
+      },
+      {
+        "location": [
+          -73.86470031738278,
+          42.95583737011796
+        ],
+        "pixel": [
+          318,
+          95
+        ]
+      },
+      {
+        "location": [
+          -73.9525909423828,
+          42.82201614720563
+        ],
+        "pixel": [
+          199,
+          310
+        ]
+      },
+      {
+        "location": [
+          -73.88959238708152,
+          42.8522780776008
+        ],
+        "pixel": [
+          276,
+          251
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

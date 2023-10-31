@@ -1,0 +1,119 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Tynec_M_4-2_VII/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "26377",
+  "title": "Katastrální mapa obce Číhaň",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.433997,
+    49.3279,
+    13.446556,
+    49.3327
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/26377",
+  "id": "91e7ba02-06c9-546c-a26f-afc748c0dfa6",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        0,
+        336
+      ],
+      [
+        5626,
+        380
+      ],
+      [
+        6692,
+        4839
+      ],
+      [
+        2362,
+        3590
+      ],
+      [
+        1407,
+        4129
+      ],
+      [
+        8,
+        4340
+      ],
+      [
+        0,
+        336
+      ]
+    ],
+    "created": "2015-02-22T08:46:56.084370+00:00",
+    "transformation_method": "affine",
+    "mapID": "91e7ba02-06c9-546c-a26f-afc748c0dfa6",
+    "affine_transformation": null,
+    "changed": "2015-02-22T08:46:56.084370+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.440772363,
+          49.330788328
+        ],
+        "pixel": [
+          3650,
+          2062
+        ]
+      },
+      {
+        "location": [
+          13.438294002,
+          49.329043821
+        ],
+        "pixel": [
+          2144,
+          3576
+        ]
+      },
+      {
+        "location": [
+          13.442944952112661,
+          49.33239818282263
+        ],
+        "pixel": [
+          5005,
+          612
+        ]
+      },
+      {
+        "location": [
+          13.437671729,
+          49.329466844
+        ],
+        "pixel": [
+          1836,
+          3193
+        ]
+      },
+      {
+        "location": [
+          13.442344137293324,
+          49.33173397098375
+        ],
+        "pixel": [
+          4648,
+          1238
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1843"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/Vs_Litomysl_026_2_IV/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "31531",
+  "title": "Indikační skica mapy stabilního katastru pro obec Lány (předměstí města Litomyšle) IV",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.291937,
+    49.873405,
+    16.320751,
+    49.886078
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/31531",
+  "id": "fe13da0c-cc5e-5a8e-9b3f-7873298e7b85",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1562,
+        11578
+      ],
+      [
+        17882,
+        11578
+      ],
+      [
+        17882,
+        954
+      ],
+      [
+        1562,
+        954
+      ],
+      [
+        1562,
+        11578
+      ]
+    ],
+    "created": "2014-11-29T20:24:34.820310+00:00",
+    "transformation_method": "affine",
+    "mapID": "fe13da0c-cc5e-5a8e-9b3f-7873298e7b85",
+    "affine_transformation": null,
+    "changed": "2014-11-29T20:24:34.820310+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.309756551,
+          49.875470598
+        ],
+        "pixel": [
+          11869,
+          9999
+        ]
+      },
+      {
+        "location": [
+          16.300892931,
+          49.878201968
+        ],
+        "pixel": [
+          6562,
+          7726
+        ]
+      },
+      {
+        "location": [
+          16.305999857,
+          49.881264693
+        ],
+        "pixel": [
+          9440,
+          4904
+        ]
+      },
+      {
+        "location": [
+          16.306151661,
+          49.877188748
+        ],
+        "pixel": [
+          9713,
+          8543
+        ]
+      },
+      {
+        "location": [
+          16.295664225,
+          49.883469676
+        ],
+        "pixel": [
+          3451,
+          3223
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

@@ -1,0 +1,101 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plasy_M_197/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "21162",
+  "title": "Situační plán katastrálního území Hromnice",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.40386,
+    49.8519,
+    13.431989,
+    49.87188
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/21162",
+  "id": "ee3e9681-350b-5a47-8ac1-41d2d84c418c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        15140,
+        0
+      ],
+      [
+        15140,
+        17236
+      ],
+      [
+        0,
+        17236
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        15140,
+        0
+      ]
+    ],
+    "created": "2014-11-25T16:59:12.562140+00:00",
+    "transformation_method": "affine",
+    "mapID": "ee3e9681-350b-5a47-8ac1-41d2d84c418c",
+    "affine_transformation": null,
+    "changed": "2023-08-16T19:43:17.104072+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.423529625,
+          49.858753182
+        ],
+        "pixel": [
+          10582,
+          11656
+        ]
+      },
+      {
+        "location": [
+          13.419523273,
+          49.865889453
+        ],
+        "pixel": [
+          8758,
+          5058
+        ]
+      },
+      {
+        "location": [
+          13.416148186,
+          49.85514258
+        ],
+        "pixel": [
+          6158,
+          14680
+        ]
+      },
+      {
+        "location": [
+          13.406417131,
+          49.863151941
+        ],
+        "pixel": [
+          992,
+          7046
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1940"]
+}

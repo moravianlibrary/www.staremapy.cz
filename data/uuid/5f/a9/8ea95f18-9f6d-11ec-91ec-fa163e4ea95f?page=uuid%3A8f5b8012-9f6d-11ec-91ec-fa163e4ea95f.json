@@ -1,0 +1,111 @@
+{
+  "date": ["1938"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:8ea95f18-9f6d-11ec-91ec-fa163e4ea95f?page=uuid%3A8f5b8012-9f6d-11ec-91ec-fa163e4ea95f",
+  "description": "Litva",
+  "scale": 100000,
+  "external_id": "1332756",
+  "title": "Litva",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    23.999254,
+    55.666306,
+    24.503918,
+    56.001015
+  ],
+  "reviewed": null,
+  "publisher": "General'nyj štab RKKA",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:8ea95f18-9f6d-11ec-91ec-fa163e4ea95f",
+  "id": "0cb0abfa-4e22-5b90-99cd-db96b198daf6",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        61,
+        351
+      ],
+      [
+        539,
+        350
+      ],
+      [
+        538,
+        56
+      ],
+      [
+        58,
+        56
+      ],
+      [
+        61,
+        351
+      ]
+    ],
+    "created": "2017-04-14T14:46:18.146080+00:00",
+    "transformation_method": "affine",
+    "mapID": "0cb0abfa-4e22-5b90-99cd-db96b198daf6",
+    "affine_transformation": null,
+    "changed": "2017-04-14T14:46:18.146080+00:00",
+    "gcps": [
+      {
+        "location": [
+          24.301841736,
+          55.701940565
+        ],
+        "pixel": [
+          349,
+          320
+        ]
+      },
+      {
+        "location": [
+          24.240901947,
+          55.936530807
+        ],
+        "pixel": [
+          288,
+          113
+        ]
+      },
+      {
+        "location": [
+          24.036551844,
+          55.989311138
+        ],
+        "pixel": [
+          94,
+          66
+        ]
+      },
+      {
+        "location": [
+          24.150608063,
+          55.689605435
+        ],
+        "pixel": [
+          204,
+          331
+        ]
+      },
+      {
+        "location": [
+          24.496068345,
+          55.972984468
+        ],
+        "pixel": [
+          531,
+          80
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1938"]
+}

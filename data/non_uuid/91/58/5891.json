@@ -1,0 +1,151 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/huav/III_vojenske_mapovani/25/3654_1_02/ImageProperties.xml",
+  "description": null,
+  "scale": 25000,
+  "external_id": "5891",
+  "title": "III. vojenské mapování 3654/1",
+  "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.96304,
+    50.874546,
+    15.088397,
+    51.00016
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/5891",
+  "id": "c9bdc0b5-f79d-5bb3-a734-2249e26644a3",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        6027,
+        128
+      ],
+      [
+        7247,
+        9020
+      ],
+      [
+        11391,
+        8876
+      ],
+      [
+        11295,
+        188
+      ],
+      [
+        6027,
+        128
+      ]
+    ],
+    "created": "2014-12-14T18:43:41.577140+00:00",
+    "transformation_method": "affine",
+    "mapID": "c9bdc0b5-f79d-5bb3-a734-2249e26644a3",
+    "affine_transformation": null,
+    "changed": "2023-01-09T17:33:59.375939+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.064413589,
+          50.921713281
+        ],
+        "pixel": [
+          10489,
+          5586
+        ]
+      },
+      {
+        "location": [
+          15.026315664,
+          50.921410625
+        ],
+        "pixel": [
+          8707,
+          5869
+        ]
+      },
+      {
+        "location": [
+          15.006930245,
+          50.897140432
+        ],
+        "pixel": [
+          7963,
+          7333
+        ]
+      },
+      {
+        "location": [
+          14.989037593,
+          50.977865383
+        ],
+        "pixel": [
+          7105,
+          1662
+        ]
+      },
+      {
+        "location": [
+          15.079691623,
+          50.921654104
+        ],
+        "pixel": [
+          10649,
+          5492
+        ]
+      },
+      {
+        "location": [
+          15.027100456,
+          50.964259584
+        ],
+        "pixel": [
+          8823,
+          2624
+        ]
+      },
+      {
+        "location": [
+          14.98155496,
+          50.990790923
+        ],
+        "pixel": [
+          6749,
+          726
+        ]
+      },
+      {
+        "location": [
+          15.052248848,
+          50.896125396
+        ],
+        "pixel": [
+          9960,
+          7386
+        ]
+      },
+      {
+        "location": [
+          15.047869895,
+          50.976833305
+        ],
+        "pixel": [
+          9782,
+          1741
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

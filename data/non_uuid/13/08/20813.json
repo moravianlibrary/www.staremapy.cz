@@ -1,0 +1,101 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/orlik_1377/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "20813",
+  "title": "Geometrický nárys kostelního lesa Kostelec 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.227782,
+    49.50628,
+    14.245096,
+    49.514362
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/20813",
+  "id": "2baaff87-0e7e-50ca-bce5-cefaad33ca8b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        10255,
+        0
+      ],
+      [
+        10255,
+        6461
+      ],
+      [
+        0,
+        6461
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        10255,
+        0
+      ]
+    ],
+    "created": "2014-11-25T18:25:01.132680+00:00",
+    "transformation_method": "affine",
+    "mapID": "2baaff87-0e7e-50ca-bce5-cefaad33ca8b",
+    "affine_transformation": null,
+    "changed": "2021-06-20T10:37:46.491381+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.239554172564088,
+          49.511919147755066
+        ],
+        "pixel": [
+          6874,
+          1351
+        ]
+      },
+      {
+        "location": [
+          14.234404331255497,
+          49.512775973543995
+        ],
+        "pixel": [
+          3534,
+          1006
+        ]
+      },
+      {
+        "location": [
+          14.232741361666262,
+          49.51258092509039
+        ],
+        "pixel": [
+          2502,
+          1396
+        ]
+      },
+      {
+        "location": [
+          14.24041013037248,
+          49.5086955178505
+        ],
+        "pixel": [
+          7837,
+          4422
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1823"]
+}

@@ -1,0 +1,101 @@
+{
+  "date": ["1915"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:19267fae-9695-11ec-a5fc-fa163e4ea95f?page=uuid%3A1a1e9fae-9695-11ec-a5fc-fa163e4ea95f",
+  "description": "Záhřeb (Chorvatsko : oblast)",
+  "scale": 200000,
+  "external_id": "1271250",
+  "title": "34°46° Zagreb",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.717273,
+    45.37766,
+    16.961655,
+    46.56983
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:19267fae-9695-11ec-a5fc-fa163e4ea95f",
+  "id": "1cb9d2c7-9932-513c-af40-c5fa9da90438",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:21:48.369410+00:00",
+    "transformation_method": "affine",
+    "mapID": "1cb9d2c7-9932-513c-af40-c5fa9da90438",
+    "affine_transformation": null,
+    "changed": "2023-07-12T11:48:20.038249+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.778600149784996,
+          46.29385913788613
+        ],
+        "pixel": [
+          512,
+          104
+        ]
+      },
+      {
+        "location": [
+          15.874906364635438,
+          46.420477556094426
+        ],
+        "pixel": [
+          75,
+          54
+        ]
+      },
+      {
+        "location": [
+          16.336860626186812,
+          46.30781355323069
+        ],
+        "pixel": [
+          299,
+          98
+        ]
+      },
+      {
+        "location": [
+          15.977613262930946,
+          45.809236268251254
+        ],
+        "pixel": [
+          125,
+          283
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1915"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": ["1943"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:3b71052e-9f92-11ec-84eb-fa163e4ea95f?page=uuid%3A3c7986ee-9f92-11ec-84eb-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1333770",
+  "title": "Naso",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.407021,
+    38.01561,
+    15.005307,
+    38.320168
+  ],
+  "reviewed": null,
+  "publisher": "OKH/Gen St d H",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:3b71052e-9f92-11ec-84eb-fa163e4ea95f",
+  "id": "9209810b-a2b2-54dc-b05a-7e99127ace08",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        54,
+        50
+      ],
+      [
+        452,
+        50
+      ],
+      [
+        451,
+        318
+      ],
+      [
+        52,
+        318
+      ],
+      [
+        54,
+        50
+      ]
+    ],
+    "created": "2017-12-04T03:50:42.711210+00:00",
+    "transformation_method": "affine",
+    "mapID": "9209810b-a2b2-54dc-b05a-7e99127ace08",
+    "affine_transformation": null,
+    "changed": "2017-12-04T03:50:42.711210+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.856919165,
+          38.168991635
+        ],
+        "pixel": [
+          375,
+          182
+        ]
+      },
+      {
+        "location": [
+          14.642342444,
+          38.065269677
+        ],
+        "pixel": [
+          182,
+          275
+        ]
+      },
+      {
+        "location": [
+          14.748772498,
+          38.166022483
+        ],
+        "pixel": [
+          289,
+          186
+        ]
+      },
+      {
+        "location": [
+          14.915198203,
+          38.192605583
+        ],
+        "pixel": [
+          424,
+          163
+        ]
+      },
+      {
+        "location": [
+          14.613202925,
+          38.055369231
+        ],
+        "pixel": [
+          138,
+          283
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1943"]
+}

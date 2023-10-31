@@ -1,0 +1,91 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1565/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "8908",
+  "title": "Cep o. Jindřichův Hradec 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.838317,
+    48.92253,
+    14.861584,
+    48.937336
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/8908",
+  "id": "16c56ba0-48f4-54cc-bd9f-4ad5ae819b72",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1260,
+        13522
+      ],
+      [
+        16284,
+        13461
+      ],
+      [
+        16315,
+        1393
+      ],
+      [
+        1229,
+        1423
+      ],
+      [
+        1260,
+        13522
+      ]
+    ],
+    "created": "2015-05-08T17:15:54.521370+00:00",
+    "transformation_method": "affine",
+    "mapID": "16c56ba0-48f4-54cc-bd9f-4ad5ae819b72",
+    "affine_transformation": null,
+    "changed": "2015-05-08T17:15:54.521370+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.859707423,
+          48.92325394
+        ],
+        "pixel": [
+          15063,
+          12879
+        ]
+      },
+      {
+        "location": [
+          14.838618825,
+          48.92305768
+        ],
+        "pixel": [
+          1224,
+          13205
+        ]
+      },
+      {
+        "location": [
+          14.844136454,
+          48.932107723
+        ],
+        "pixel": [
+          4973,
+          5693
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1838"]
+}

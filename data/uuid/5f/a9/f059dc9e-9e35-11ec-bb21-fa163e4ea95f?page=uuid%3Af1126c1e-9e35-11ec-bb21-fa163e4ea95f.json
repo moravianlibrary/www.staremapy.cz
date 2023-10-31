@@ -1,0 +1,111 @@
+{
+  "date": ["1900"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:f059dc9e-9e35-11ec-bb21-fa163e4ea95f?page=uuid%3Af1126c1e-9e35-11ec-bb21-fa163e4ea95f",
+  "description": "Zvornik (Bosna a Hercegovina : oblast)",
+  "scale": 200000,
+  "external_id": "1304473",
+  "title": "37°44° Zvornik",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    18.830166,
+    43.49297,
+    19.83798,
+    44.495853
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:f059dc9e-9e35-11ec-bb21-fa163e4ea95f",
+  "id": "e838d0a8-f4df-567e-a419-3fc74a8e113b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        67,
+        46
+      ],
+      [
+        534,
+        45
+      ],
+      [
+        539,
+        402
+      ],
+      [
+        64,
+        401
+      ],
+      [
+        67,
+        46
+      ]
+    ],
+    "created": "2017-12-11T05:55:10.570980+00:00",
+    "transformation_method": "affine",
+    "mapID": "e838d0a8-f4df-567e-a419-3fc74a8e113b",
+    "affine_transformation": null,
+    "changed": "2017-12-11T05:55:10.570980+00:00",
+    "gcps": [
+      {
+        "location": [
+          19.004903564,
+          43.796512417
+        ],
+        "pixel": [
+          146,
+          296
+        ]
+      },
+      {
+        "location": [
+          19.566407928,
+          43.996902296
+        ],
+        "pixel": [
+          411,
+          224
+        ]
+      },
+      {
+        "location": [
+          19.104638824,
+          44.384741091
+        ],
+        "pixel": [
+          193,
+          86
+        ]
+      },
+      {
+        "location": [
+          19.146695862,
+          44.280862363
+        ],
+        "pixel": [
+          214,
+          122
+        ]
+      },
+      {
+        "location": [
+          19.33226181,
+          44.185540114
+        ],
+        "pixel": [
+          301,
+          157
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1900"]
+}

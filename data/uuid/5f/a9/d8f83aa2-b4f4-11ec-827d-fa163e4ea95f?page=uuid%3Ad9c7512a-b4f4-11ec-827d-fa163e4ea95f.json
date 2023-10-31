@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:d8f83aa2-b4f4-11ec-827d-fa163e4ea95f?page=uuid%3Ad9c7512a-b4f4-11ec-827d-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1390002",
+  "title": "Derć",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    27.224586,
+    50.945072,
+    27.922947,
+    51.279125
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:d8f83aa2-b4f4-11ec-827d-fa163e4ea95f",
+  "id": "f663d77f-936b-52dd-8485-c2d1d4162d3b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2016-01-08T13:42:14.103570+00:00",
+    "transformation_method": "affine",
+    "mapID": "f663d77f-936b-52dd-8485-c2d1d4162d3b",
+    "affine_transformation": null,
+    "changed": "2016-01-08T13:42:14.103570+00:00",
+    "gcps": [
+      {
+        "location": [
+          27.465122557,
+          51.246564557
+        ],
+        "pixel": [
+          206,
+          43
+        ]
+      },
+      {
+        "location": [
+          27.707484491,
+          51.235697665
+        ],
+        "pixel": [
+          414,
+          58
+        ]
+      },
+      {
+        "location": [
+          27.672099768,
+          51.126330268
+        ],
+        "pixel": [
+          384,
+          204
+        ]
+      },
+      {
+        "location": [
+          27.516832053,
+          51.082784576
+        ],
+        "pixel": [
+          250,
+          261
+        ]
+      },
+      {
+        "location": [
+          27.680768667,
+          51.031695507
+        ],
+        "pixel": [
+          393,
+          328
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

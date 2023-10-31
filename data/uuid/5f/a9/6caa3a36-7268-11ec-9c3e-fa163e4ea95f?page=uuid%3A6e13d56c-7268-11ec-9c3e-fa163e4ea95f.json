@@ -1,0 +1,111 @@
+{
+  "date": ["1940"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:6caa3a36-7268-11ec-9c3e-fa163e4ea95f?page=uuid%3A6e13d56c-7268-11ec-9c3e-fa163e4ea95f",
+  "description": "Morava (Česko)",
+  "scale": 75000,
+  "external_id": "1119008",
+  "title": "Znojmo",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.833514,
+    48.749416,
+    16.335312,
+    48.998676
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:6caa3a36-7268-11ec-9c3e-fa163e4ea95f",
+  "id": "a26629e7-f17d-519f-8531-63decee35950",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        67,
+        383
+      ],
+      [
+        552,
+        381
+      ],
+      [
+        550,
+        37
+      ],
+      [
+        67,
+        39
+      ],
+      [
+        67,
+        383
+      ]
+    ],
+    "created": "2015-07-21T09:11:31.535660+00:00",
+    "transformation_method": "affine",
+    "mapID": "a26629e7-f17d-519f-8531-63decee35950",
+    "affine_transformation": null,
+    "changed": "2015-07-21T09:11:31.535660+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.220076996,
+          48.873199273
+        ],
+        "pixel": [
+          440,
+          211
+        ]
+      },
+      {
+        "location": [
+          16.05327747,
+          48.796250918
+        ],
+        "pixel": [
+          280,
+          318
+        ]
+      },
+      {
+        "location": [
+          16.003097015,
+          48.886520459
+        ],
+        "pixel": [
+          231,
+          193
+        ]
+      },
+      {
+        "location": [
+          16.062491852,
+          48.842705248
+        ],
+        "pixel": [
+          287,
+          254
+        ]
+      },
+      {
+        "location": [
+          15.905878732,
+          48.971297445
+        ],
+        "pixel": [
+          137,
+          76
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1940"]
+}

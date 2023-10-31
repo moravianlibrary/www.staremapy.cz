@@ -1,0 +1,111 @@
+{
+  "date": ["1891"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:c05197f6-9f1d-11ec-ad60-fa163e4ea95f?page=uuid%3Ac18858b2-9f1d-11ec-ad60-fa163e4ea95f",
+  "description": null,
+  "scale": 75000,
+  "external_id": "1330549",
+  "title": "Zaleszczyki",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    25.264585,
+    48.45506,
+    25.896357,
+    48.78477
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:c05197f6-9f1d-11ec-ad60-fa163e4ea95f",
+  "id": "8ddd9f42-8908-5c27-9c13-2b0daa1ce5cf",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:05:47.770070+00:00",
+    "transformation_method": "affine",
+    "mapID": "8ddd9f42-8908-5c27-9c13-2b0daa1ce5cf",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:05:47.770070+00:00",
+    "gcps": [
+      {
+        "location": [
+          25.565924174,
+          48.533626065
+        ],
+        "pixel": [
+          287,
+          338
+        ]
+      },
+      {
+        "location": [
+          25.808910532,
+          48.736103802
+        ],
+        "pixel": [
+          517,
+          66
+        ]
+      },
+      {
+        "location": [
+          25.41535578,
+          48.535116722
+        ],
+        "pixel": [
+          142,
+          336
+        ]
+      },
+      {
+        "location": [
+          25.790714748,
+          48.654030463
+        ],
+        "pixel": [
+          500,
+          176
+        ]
+      },
+      {
+        "location": [
+          25.36031676,
+          48.704185094
+        ],
+        "pixel": [
+          91,
+          108
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1891"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": ["1912"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:f7708620-9f4f-11ec-859a-fa163e4ea95f?page=uuid%3Af871e564-9f4f-11ec-859a-fa163e4ea95f",
+  "description": "Gurk (Rakousko)",
+  "scale": 75000,
+  "external_id": "1331946",
+  "title": "Gurk-Thal",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.838801,
+    46.749783,
+    14.332019,
+    46.99846
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:f7708620-9f4f-11ec-859a-fa163e4ea95f",
+  "id": "b42cf15b-c6c7-5ff0-8304-5f3fc28a299e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        540,
+        46
+      ],
+      [
+        542,
+        389
+      ],
+      [
+        58,
+        389
+      ],
+      [
+        58,
+        45
+      ],
+      [
+        540,
+        46
+      ]
+    ],
+    "created": "2015-11-05T17:09:03.803930+00:00",
+    "transformation_method": "affine",
+    "mapID": "b42cf15b-c6c7-5ff0-8304-5f3fc28a299e",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:09:03.803930+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.255004617600111,
+          46.97910377080342
+        ],
+        "pixel": [
+          465,
+          73
+        ]
+      },
+      {
+        "location": [
+          14.217042314259729,
+          46.98061590914779
+        ],
+        "pixel": [
+          428,
+          71
+        ]
+      },
+      {
+        "location": [
+          14.108368816243564,
+          46.92889088189264
+        ],
+        "pixel": [
+          322,
+          142
+        ]
+      },
+      {
+        "location": [
+          14.163761160765949,
+          46.8544451177566
+        ],
+        "pixel": [
+          376,
+          245
+        ]
+      },
+      {
+        "location": [
+          14.25009081068483,
+          46.97799113293448
+        ],
+        "pixel": [
+          460,
+          75
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1912"]
+}

@@ -1,0 +1,91 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/0223_05/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "22365",
+  "title": "Mappa geographica regni Bohemiae in duodecim circuloc divisae \u2026 Sectio. V.",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.600493,
+    50.653133,
+    17.10175,
+    51.54303
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/22365",
+  "id": "91590796-5bd8-560c-a3d9-d971141f500d",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        17712,
+        0
+      ],
+      [
+        17712,
+        12787
+      ],
+      [
+        0,
+        12787
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        17712,
+        0
+      ]
+    ],
+    "created": "2014-11-25T14:47:51.337860+00:00",
+    "transformation_method": "affine",
+    "mapID": "91590796-5bd8-560c-a3d9-d971141f500d",
+    "affine_transformation": null,
+    "changed": "2023-10-19T18:19:56.557391+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.315369465853223,
+          50.86148150978849
+        ],
+        "pixel": [
+          5920,
+          10427
+        ]
+      },
+      {
+        "location": [
+          16.615948536898134,
+          50.87079886888546
+        ],
+        "pixel": [
+          9716,
+          11519
+        ]
+      },
+      {
+        "location": [
+          16.486329752018946,
+          50.84262346484394
+        ],
+        "pixel": [
+          7241,
+          11271
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

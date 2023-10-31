@@ -1,0 +1,111 @@
+{
+  "date": ["1914"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:623c7d50-abd6-11ec-8373-fa163e4ea95f?page=uuid%3A6394793c-abd6-11ec-8373-fa163e4ea95f",
+  "description": "Belluno (Itálie : provincie)",
+  "scale": 75000,
+  "external_id": "1369291",
+  "title": "Belluno und Feltre",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    11.794438,
+    45.96843,
+    12.379503,
+    46.27317
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:623c7d50-abd6-11ec-8373-fa163e4ea95f",
+  "id": "54635e87-6527-5ca7-ae32-7e2cb6850f80",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:48:33.947430+00:00",
+    "transformation_method": "affine",
+    "mapID": "54635e87-6527-5ca7-ae32-7e2cb6850f80",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:48:33.947430+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.009968409179729,
+          46.139880994223034
+        ],
+        "pixel": [
+          221,
+          194
+        ]
+      },
+      {
+        "location": [
+          12.110561352597518,
+          46.20196156390247
+        ],
+        "pixel": [
+          326,
+          102
+        ]
+      },
+      {
+        "location": [
+          12.221212034247845,
+          46.13382504954251
+        ],
+        "pixel": [
+          437,
+          197
+        ]
+      },
+      {
+        "location": [
+          12.19021642687175,
+          46.13046440413365
+        ],
+        "pixel": [
+          407,
+          209
+        ]
+      },
+      {
+        "location": [
+          12.223379259131878,
+          46.131691212174616
+        ],
+        "pixel": [
+          443,
+          205
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1914"]
+}

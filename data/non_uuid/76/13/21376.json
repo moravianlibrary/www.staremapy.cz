@@ -1,0 +1,139 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Kladruby_M_7_4/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "21376",
+  "title": "Katastrální mapa obce Krtín",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.000658,
+    49.63257,
+    13.023631,
+    49.64342
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/21376",
+  "id": "ebd9c0a5-81fa-55a0-b79a-e00fefbeb7c6",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        460,
+        9528
+      ],
+      [
+        7724,
+        9528
+      ],
+      [
+        9228,
+        4152
+      ],
+      [
+        13772,
+        2552
+      ],
+      [
+        13708,
+        56
+      ],
+      [
+        460,
+        56
+      ],
+      [
+        460,
+        9528
+      ]
+    ],
+    "created": "2015-04-21T22:02:14.930870+00:00",
+    "transformation_method": "affine",
+    "mapID": "ebd9c0a5-81fa-55a0-b79a-e00fefbeb7c6",
+    "affine_transformation": null,
+    "changed": "2015-04-21T22:02:14.930870+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.020217864,
+          49.641647115
+        ],
+        "pixel": [
+          11876,
+          1623
+        ]
+      },
+      {
+        "location": [
+          13.013087513,
+          49.643222996
+        ],
+        "pixel": [
+          7668,
+          79
+        ]
+      },
+      {
+        "location": [
+          13.010518996,
+          49.633587195
+        ],
+        "pixel": [
+          5908,
+          8647
+        ]
+      },
+      {
+        "location": [
+          13.006612341950389,
+          49.63538126859166
+        ],
+        "pixel": [
+          3656,
+          7084
+        ]
+      },
+      {
+        "location": [
+          13.002011029,
+          49.639986603
+        ],
+        "pixel": [
+          1204,
+          2855
+        ]
+      },
+      {
+        "location": [
+          13.008474149,
+          49.637865548
+        ],
+        "pixel": [
+          4764,
+          4983
+        ]
+      },
+      {
+        "location": [
+          13.023131433105466,
+          49.64338842982531
+        ],
+        "pixel": [
+          13560,
+          79
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1841"]
+}

@@ -1,0 +1,121 @@
+{
+  "date": ["1923"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:59cda79a-a490-11ec-afb7-fa163e4ea95f?page=uuid%3A5ac3e72c-a490-11ec-afb7-fa163e4ea95f",
+  "description": "Blovice (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1336842",
+  "title": "Plzeň a Blovice",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.286496,
+    49.466446,
+    13.888075,
+    49.782986
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:59cda79a-a490-11ec-afb7-fa163e4ea95f",
+  "id": "fdc71250-6b1d-5d12-98ff-66e0f223aa90",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:23:41.513120+00:00",
+    "transformation_method": "affine",
+    "mapID": "fdc71250-6b1d-5d12-98ff-66e0f223aa90",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:23:41.513120+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.47327874258067,
+          49.69785549325269
+        ],
+        "pixel": [
+          186,
+          119
+        ]
+      },
+      {
+        "location": [
+          13.543071159555367,
+          49.50788894635457
+        ],
+        "pixel": [
+          255,
+          385
+        ]
+      },
+      {
+        "location": [
+          13.338481646328223,
+          49.55849424063621
+        ],
+        "pixel": [
+          52,
+          315
+        ]
+      },
+      {
+        "location": [
+          13.754924942706639,
+          49.73881267571173
+        ],
+        "pixel": [
+          467,
+          61
+        ]
+      },
+      {
+        "location": [
+          13.80613792495727,
+          49.528321975808495
+        ],
+        "pixel": [
+          518,
+          357
+        ]
+      },
+      {
+        "location": [
+          13.76160987827581,
+          49.66113883288159
+        ],
+        "pixel": [
+          475,
+          171
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1923"]
+}

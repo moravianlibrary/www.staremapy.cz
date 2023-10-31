@@ -1,0 +1,105 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_4025/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "12290",
+  "title": "Situační plány vrchnostenských objektů na velkostatku Třeboň 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.71896,
+    48.99534,
+    14.735737,
+    49.01842
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/12290",
+  "id": "ce4a410c-c127-5d5d-b25a-fc8939e6c277",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        0,
+        8203
+      ],
+      [
+        5141,
+        8203
+      ],
+      [
+        5141,
+        228
+      ],
+      [
+        4238,
+        100
+      ],
+      [
+        219,
+        165
+      ],
+      [
+        0,
+        8203
+      ]
+    ],
+    "created": "2016-06-09T13:48:15.230350+00:00",
+    "transformation_method": "affine",
+    "mapID": "ce4a410c-c127-5d5d-b25a-fc8939e6c277",
+    "affine_transformation": null,
+    "changed": "2016-06-09T13:48:15.230350+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.729472867,
+          48.999403432
+        ],
+        "pixel": [
+          3362,
+          7663
+        ]
+      },
+      {
+        "location": [
+          14.728228322,
+          49.002500423
+        ],
+        "pixel": [
+          2922,
+          6199
+        ]
+      },
+      {
+        "location": [
+          14.728314152,
+          49.000980106
+        ],
+        "pixel": [
+          3002,
+          6887
+        ]
+      },
+      {
+        "location": [
+          14.727992288,
+          49.001683963
+        ],
+        "pixel": [
+          2834,
+          6503
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1915"]
+}

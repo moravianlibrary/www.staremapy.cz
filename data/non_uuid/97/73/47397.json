@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/5890/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "47397",
+  "title": "Máchovo jezero",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.495706,
+    50.527958,
+    14.742168,
+    50.63961
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/47397",
+  "id": "1e31b412-35f3-5195-998a-1f0cadf2c4bb",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        -33,
+        5331
+      ],
+      [
+        7455,
+        5331
+      ],
+      [
+        7455,
+        35
+      ],
+      [
+        -33,
+        35
+      ],
+      [
+        -33,
+        5331
+      ]
+    ],
+    "created": "2016-06-19T14:11:29.565050+00:00",
+    "transformation_method": "affine",
+    "mapID": "1e31b412-35f3-5195-998a-1f0cadf2c4bb",
+    "affine_transformation": null,
+    "changed": "2016-06-19T14:11:29.565050+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.535305977,
+          50.62839322
+        ],
+        "pixel": [
+          1158,
+          556
+        ]
+      },
+      {
+        "location": [
+          14.726965904,
+          50.586396239
+        ],
+        "pixel": [
+          7014,
+          2540
+        ]
+      },
+      {
+        "location": [
+          14.628689766,
+          50.585197332
+        ],
+        "pixel": [
+          3990,
+          2628
+        ]
+      },
+      {
+        "location": [
+          14.543176799,
+          50.537808884
+        ],
+        "pixel": [
+          1419,
+          4903
+        ]
+      },
+      {
+        "location": [
+          14.719997265,
+          50.534145627
+        ],
+        "pixel": [
+          6793,
+          5030
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

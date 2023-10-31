@@ -1,0 +1,121 @@
+{
+  "date": ["1935"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:e0bdb728-7893-11ec-aedc-fa163e4ea95f?page=uuid%3Ae1a47244-7893-11ec-aedc-fa163e4ea95f",
+  "description": "Slovensko",
+  "scale": 75000,
+  "external_id": "1131064",
+  "title": "Komárno a Nové Zámky",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    17.833254,
+    47.74931,
+    18.332888,
+    47.998856
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:e0bdb728-7893-11ec-aedc-fa163e4ea95f",
+  "id": "16813be6-7c53-5705-a588-92301ebf2cbb",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        73,
+        377
+      ],
+      [
+        540,
+        377
+      ],
+      [
+        541,
+        39
+      ],
+      [
+        75,
+        40
+      ],
+      [
+        73,
+        377
+      ]
+    ],
+    "created": "2016-08-12T07:26:54.430980+00:00",
+    "transformation_method": "affine",
+    "mapID": "16813be6-7c53-5705-a588-92301ebf2cbb",
+    "affine_transformation": null,
+    "changed": "2016-08-12T07:26:54.430980+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.273825887185716,
+          47.988469769798144
+        ],
+        "pixel": [
+          486,
+          53
+        ]
+      },
+      {
+        "location": [
+          17.88028028640825,
+          47.986338029909916
+        ],
+        "pixel": [
+          118,
+          57
+        ]
+      },
+      {
+        "location": [
+          17.902671969352053,
+          47.79908302687639
+        ],
+        "pixel": [
+          138,
+          310
+        ]
+      },
+      {
+        "location": [
+          18.186373958534375,
+          47.86462449303764
+        ],
+        "pixel": [
+          404,
+          221
+        ]
+      },
+      {
+        "location": [
+          18.227964526283245,
+          47.75419845216149
+        ],
+        "pixel": [
+          442,
+          370
+        ]
+      },
+      {
+        "location": [
+          17.991066226905975,
+          47.913776612286114
+        ],
+        "pixel": [
+          221,
+          155
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1935"]
+}

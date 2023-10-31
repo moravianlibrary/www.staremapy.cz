@@ -1,0 +1,114 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/domousice_0125/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "15821",
+  "title": "Hospodářská mapa polesí Selmice, list 2 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.768561,
+    50.266815,
+    13.792697,
+    50.274956
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/15821",
+  "id": "81a56a28-e457-524f-96a0-76f96c8208ec",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        336,
+        14288
+      ],
+      [
+        13488,
+        14288
+      ],
+      [
+        13488,
+        9104
+      ],
+      [
+        336,
+        9104
+      ],
+      [
+        336,
+        14288
+      ]
+    ],
+    "created": "2016-09-23T17:45:48.937390+00:00",
+    "transformation_method": "affine",
+    "mapID": "81a56a28-e457-524f-96a0-76f96c8208ec",
+    "affine_transformation": null,
+    "changed": "2016-09-23T17:45:48.937390+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.788274162,
+          50.27346531
+        ],
+        "pixel": [
+          11792,
+          10213
+        ]
+      },
+      {
+        "location": [
+          13.784392595,
+          50.273685126
+        ],
+        "pixel": [
+          9552,
+          9514
+        ]
+      },
+      {
+        "location": [
+          13.773996115,
+          50.270876568
+        ],
+        "pixel": [
+          3144,
+          11118
+        ]
+      },
+      {
+        "location": [
+          13.790030599,
+          50.270297635
+        ],
+        "pixel": [
+          12144,
+          13165
+        ]
+      },
+      {
+        "location": [
+          13.772714257,
+          50.268590084
+        ],
+        "pixel": [
+          1966,
+          12890
+        ]
+      }
+    ]
+  },
+  "pubdate": [
+    "1905",
+    "1937"
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/1062_26/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "23285",
+  "title": "Pilsen und dessen Umgebung 24.",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.559483,
+    49.742493,
+    13.640621,
+    49.78009
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/23285",
+  "id": "897fd49f-8b9f-54c4-b70e-dff71a4578df",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        408,
+        491
+      ],
+      [
+        9280,
+        491
+      ],
+      [
+        9232,
+        6379
+      ],
+      [
+        392,
+        6523
+      ],
+      [
+        408,
+        491
+      ]
+    ],
+    "created": "2017-08-13T18:38:24.470140+00:00",
+    "transformation_method": "affine",
+    "mapID": "897fd49f-8b9f-54c4-b70e-dff71a4578df",
+    "affine_transformation": null,
+    "changed": "2017-08-13T18:38:24.470140+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.566381677,
+          49.765552398
+        ],
+        "pixel": [
+          947,
+          2463
+        ]
+      },
+      {
+        "location": [
+          13.564896822,
+          49.758738869
+        ],
+        "pixel": [
+          889,
+          3656
+        ]
+      },
+      {
+        "location": [
+          13.571934938,
+          49.745707009
+        ],
+        "pixel": [
+          1772,
+          5911
+        ]
+      },
+      {
+        "location": [
+          13.590776003,
+          49.77156819
+        ],
+        "pixel": [
+          3694,
+          1386
+        ]
+      },
+      {
+        "location": [
+          13.599086344,
+          49.754025506
+        ],
+        "pixel": [
+          4790,
+          4962
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

@@ -1,0 +1,111 @@
+{
+  "date": ["1928"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:2171372c-8519-11ec-8707-fa163e4ea95f?page=uuid%3A221f3f02-8519-11ec-8707-fa163e4ea95f",
+  "description": "Velvary (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1181649",
+  "title": "Velvary a okolí",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.931335,
+    50.10772,
+    14.547226,
+    50.433987
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:2171372c-8519-11ec-8707-fa163e4ea95f",
+  "id": "1fb579f4-d7b2-54d3-96f6-ee4f08d0ed79",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        555,
+        37
+      ],
+      [
+        555,
+        386
+      ],
+      [
+        47,
+        388
+      ],
+      [
+        52,
+        36
+      ],
+      [
+        555,
+        37
+      ]
+    ],
+    "created": "2014-08-19T15:48:49.797250+00:00",
+    "transformation_method": "affine",
+    "mapID": "1fb579f4-d7b2-54d3-96f6-ee4f08d0ed79",
+    "affine_transformation": null,
+    "changed": "2014-08-19T15:48:49.797250+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.038589845514943,
+          50.40456346382035
+        ],
+        "pixel": [
+          105,
+          40
+        ]
+      },
+      {
+        "location": [
+          14.23617992507433,
+          50.28157282159182
+        ],
+        "pixel": [
+          297,
+          207
+        ]
+      },
+      {
+        "location": [
+          14.45308542312036,
+          50.16545268642537
+        ],
+        "pixel": [
+          508,
+          365
+        ]
+      },
+      {
+        "location": [
+          14.040785971289312,
+          50.18871045352407
+        ],
+        "pixel": [
+          106,
+          333
+        ]
+      },
+      {
+        "location": [
+          14.447023940509307,
+          50.37155339445019
+        ],
+        "pixel": [
+          503,
+          85
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1928"]
+}

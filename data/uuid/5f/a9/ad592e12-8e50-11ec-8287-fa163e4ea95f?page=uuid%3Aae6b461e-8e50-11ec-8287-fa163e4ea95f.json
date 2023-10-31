@@ -1,0 +1,111 @@
+{
+  "date": ["1925"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:ad592e12-8e50-11ec-8287-fa163e4ea95f?page=uuid%3Aae6b461e-8e50-11ec-8287-fa163e4ea95f",
+  "description": "Hongkong (Čína)",
+  "scale": 30300,
+  "external_id": "1208259",
+  "title": "Hongkong",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Belcher, E.",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    114.01449,
+    22.159307,
+    114.3231,
+    22.360523
+  ],
+  "reviewed": null,
+  "publisher": "Admiralty",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:ad592e12-8e50-11ec-8287-fa163e4ea95f",
+  "id": "b7dea453-52b7-5559-a861-24de6a015326",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T15:54:44.189060+00:00",
+    "transformation_method": "affine",
+    "mapID": "b7dea453-52b7-5559-a861-24de6a015326",
+    "affine_transformation": null,
+    "changed": "2015-11-05T15:54:44.189060+00:00",
+    "gcps": [
+      {
+        "location": [
+          114.129101315,
+          22.282780676
+        ],
+        "pixel": [
+          222,
+          171
+        ]
+      },
+      {
+        "location": [
+          114.169677773,
+          22.29442532
+        ],
+        "pixel": [
+          300,
+          145
+        ]
+      },
+      {
+        "location": [
+          114.288896598,
+          22.241177654
+        ],
+        "pixel": [
+          536,
+          262
+        ]
+      },
+      {
+        "location": [
+          114.055350409,
+          22.338961444
+        ],
+        "pixel": [
+          76,
+          48
+        ]
+      },
+      {
+        "location": [
+          114.137128491,
+          22.177736232
+        ],
+        "pixel": [
+          240,
+          403
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1925"]
+}

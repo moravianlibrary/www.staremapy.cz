@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_pardubice_387/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "14447",
+  "title": "Indikační skica mapy stabilního katastru pro obec Ostřetín I.-IX.",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.988925,
+    50.022747,
+    16.089428,
+    50.075428
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/14447",
+  "id": "9f57b159-269f-5e70-90dd-029fc781aab9",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        8477,
+        9545
+      ],
+      [
+        10717,
+        9545
+      ],
+      [
+        10717,
+        7569
+      ],
+      [
+        8477,
+        7569
+      ],
+      [
+        8477,
+        9545
+      ]
+    ],
+    "created": "2015-02-12T19:25:08.740470+00:00",
+    "transformation_method": "affine",
+    "mapID": "9f57b159-269f-5e70-90dd-029fc781aab9",
+    "affine_transformation": null,
+    "changed": "2015-02-12T19:25:08.740470+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.073637535,
+          50.06112761
+        ],
+        "pixel": [
+          10409,
+          8104
+        ]
+      },
+      {
+        "location": [
+          16.067629387,
+          50.063662177
+        ],
+        "pixel": [
+          10201,
+          8032
+        ]
+      },
+      {
+        "location": [
+          16.074495842,
+          50.032025605
+        ],
+        "pixel": [
+          10433,
+          9216
+        ]
+      },
+      {
+        "location": [
+          16.020250847,
+          50.029379094
+        ],
+        "pixel": [
+          9192,
+          9366
+        ]
+      },
+      {
+        "location": [
+          16.036902,
+          50.073909275
+        ],
+        "pixel": [
+          9465,
+          7664
+        ]
+      },
+      {
+        "location": [
+          16.001024773,
+          50.054184417
+        ],
+        "pixel": [
+          8673,
+          8320
+        ]
+      },
+      {
+        "location": [
+          16.018019249,
+          50.057601034
+        ],
+        "pixel": [
+          9169,
+          8112
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

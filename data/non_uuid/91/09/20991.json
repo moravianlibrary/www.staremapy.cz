@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plasy_M_160_1/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "20991",
+  "title": "Katastrální mapa obce Plasy",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.352488,
+    49.945755,
+    13.374198,
+    49.954185
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/20991",
+  "id": "af5b8cc5-b283-5d0f-add6-adbc3547d56c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        744,
+        8200
+      ],
+      [
+        13108,
+        8148
+      ],
+      [
+        13148,
+        740
+      ],
+      [
+        716,
+        764
+      ],
+      [
+        744,
+        8200
+      ]
+    ],
+    "created": "2015-01-27T20:08:55.494220+00:00",
+    "transformation_method": "affine",
+    "mapID": "af5b8cc5-b283-5d0f-add6-adbc3547d56c",
+    "affine_transformation": null,
+    "changed": "2015-01-27T20:08:55.494220+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.373401913,
+          49.948394998
+        ],
+        "pixel": [
+          12792,
+          6044
+        ]
+      },
+      {
+        "location": [
+          13.363488468,
+          49.946220264
+        ],
+        "pixel": [
+          7102,
+          7874
+        ]
+      },
+      {
+        "location": [
+          13.365913185,
+          49.946520591
+        ],
+        "pixel": [
+          8463,
+          7692
+        ]
+      },
+      {
+        "location": [
+          13.360425386,
+          49.949230346
+        ],
+        "pixel": [
+          5270,
+          5112
+        ]
+      },
+      {
+        "location": [
+          13.365188989,
+          49.946706999
+        ],
+        "pixel": [
+          8096,
+          7536
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1875"]
+}

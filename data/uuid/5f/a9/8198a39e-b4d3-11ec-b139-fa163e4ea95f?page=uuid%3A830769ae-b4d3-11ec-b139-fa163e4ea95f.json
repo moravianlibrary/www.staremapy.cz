@@ -1,0 +1,101 @@
+{
+  "date": ["1850"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:8198a39e-b4d3-11ec-b139-fa163e4ea95f?page=uuid%3A830769ae-b4d3-11ec-b139-fa163e4ea95f",
+  "description": "Suezský průplav (Egypt)",
+  "scale": 260500,
+  "external_id": "1389168",
+  "title": "Panorama del Basso-Egitto canale artificiale di Suez",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    30.72491,
+    29.488754,
+    33.10492,
+    31.7743
+  ],
+  "reviewed": null,
+  "publisher": "Cesare Vimercati",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:8198a39e-b4d3-11ec-b139-fa163e4ea95f",
+  "id": "170557c7-76ae-5d3f-8270-49125bb11d74",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2016-01-08T13:40:22.692360+00:00",
+    "transformation_method": "affine",
+    "mapID": "170557c7-76ae-5d3f-8270-49125bb11d74",
+    "affine_transformation": null,
+    "changed": "2023-03-23T22:16:49.675664+00:00",
+    "gcps": [
+      {
+        "location": [
+          32.5698179062307,
+          29.947518626528776
+        ],
+        "pixel": [
+          75,
+          337
+        ]
+      },
+      {
+        "location": [
+          32.327460680612816,
+          31.21332122138014
+        ],
+        "pixel": [
+          452,
+          332
+        ]
+      },
+      {
+        "location": [
+          32.35965977879187,
+          30.415049896647005
+        ],
+        "pixel": [
+          218,
+          308
+        ]
+      },
+      {
+        "location": [
+          32.56871920636298,
+          30.179521920844877
+        ],
+        "pixel": [
+          141,
+          343
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1850"]
+}

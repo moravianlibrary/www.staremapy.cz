@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Kladruby_M_37/ImageProperties.xml",
+  "description": null,
+  "scale": 5865,
+  "external_id": "21419",
+  "title": "Hospodářská mapa revíru Jivjany",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.923794,
+    49.642773,
+    12.992371,
+    49.6761
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/21419",
+  "id": "8ef8d911-bcd6-5400-90bf-e62ae4aedb1f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        499,
+        15034
+      ],
+      [
+        19476,
+        15153
+      ],
+      [
+        19555,
+        1632
+      ],
+      [
+        539,
+        999
+      ],
+      [
+        499,
+        15034
+      ]
+    ],
+    "created": "2016-10-28T19:55:35.333320+00:00",
+    "transformation_method": "affine",
+    "mapID": "8ef8d911-bcd6-5400-90bf-e62ae4aedb1f",
+    "affine_transformation": null,
+    "changed": "2016-10-28T19:55:35.333320+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.938339241,
+          49.672717461
+        ],
+        "pixel": [
+          4713,
+          1973
+        ]
+      },
+      {
+        "location": [
+          12.953386433585933,
+          49.6584154356907
+        ],
+        "pixel": [
+          8636,
+          8684
+        ]
+      },
+      {
+        "location": [
+          12.92950490724146,
+          49.64956326797693
+        ],
+        "pixel": [
+          1384,
+          12066
+        ]
+      },
+      {
+        "location": [
+          12.95024177,
+          49.671476754
+        ],
+        "pixel": [
+          8057,
+          2786
+        ]
+      },
+      {
+        "location": [
+          12.929225094779786,
+          49.67293617078954
+        ],
+        "pixel": [
+          2092,
+          1663
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1867"]
+}

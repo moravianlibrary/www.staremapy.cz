@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/orlik_0176/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "16465",
+  "title": "Dvě pozdější kopie předcházející Planskerovy mapy z r. 1755, list 2 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.152366,
+    49.488293,
+    14.164562,
+    49.499004
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/16465",
+  "id": "63b0f52e-fabf-56e5-a85e-0bb36d1b7c88",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        5784,
+        0
+      ],
+      [
+        5784,
+        6317
+      ],
+      [
+        0,
+        6317
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        5784,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:31:54.741160+00:00",
+    "transformation_method": "affine",
+    "mapID": "63b0f52e-fabf-56e5-a85e-0bb36d1b7c88",
+    "affine_transformation": null,
+    "changed": "2023-01-18T21:10:05.538731+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.159048737593144,
+          49.49318594532912
+        ],
+        "pixel": [
+          3135,
+          3617
+        ]
+      },
+      {
+        "location": [
+          14.162773098769458,
+          49.49315678814648
+        ],
+        "pixel": [
+          4919,
+          4094
+        ]
+      },
+      {
+        "location": [
+          14.160455670180589,
+          49.493770038351556
+        ],
+        "pixel": [
+          3919,
+          3465
+        ]
+      },
+      {
+        "location": [
+          14.157859291854177,
+          49.49192329571497
+        ],
+        "pixel": [
+          2617,
+          4477
+        ]
+      },
+      {
+        "location": [
+          14.156170776994015,
+          49.49208713231812
+        ],
+        "pixel": [
+          1724,
+          3874
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1767"]
+}

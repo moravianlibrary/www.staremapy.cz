@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:b0b7ffd4-b4f2-11ec-a318-fa163e4ea95f?page=uuid%3Ab1afbb48-b4f2-11ec-a318-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1389948",
+  "title": "Kuchecka Wola",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    25.23764,
+    51.449543,
+    25.922976,
+    51.777473
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:b0b7ffd4-b4f2-11ec-a318-fa163e4ea95f",
+  "id": "b55fe5c3-0f7d-59cc-b2cb-e51f061d36ca",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2016-01-08T13:42:07.414880+00:00",
+    "transformation_method": "affine",
+    "mapID": "b55fe5c3-0f7d-59cc-b2cb-e51f061d36ca",
+    "affine_transformation": null,
+    "changed": "2016-01-08T13:42:07.414880+00:00",
+    "gcps": [
+      {
+        "location": [
+          25.437237766,
+          51.729328939
+        ],
+        "pixel": [
+          175,
+          65
+        ]
+      },
+      {
+        "location": [
+          25.691167857,
+          51.668870425
+        ],
+        "pixel": [
+          397,
+          147
+        ]
+      },
+      {
+        "location": [
+          25.651556995,
+          51.536087094
+        ],
+        "pixel": [
+          363,
+          327
+        ]
+      },
+      {
+        "location": [
+          25.354944729,
+          51.573352083
+        ],
+        "pixel": [
+          102,
+          276
+        ]
+      },
+      {
+        "location": [
+          25.777704665,
+          51.710080861
+        ],
+        "pixel": [
+          473,
+          92
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

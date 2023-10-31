@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:96a67ff4-b4fb-11ec-9666-fa163e4ea95f?page=uuid%3A97538c76-b4fb-11ec-9666-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1390170",
+  "title": "Bazalja",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    26.269585,
+    49.43305,
+    26.965467,
+    49.792393
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:96a67ff4-b4fb-11ec-9666-fa163e4ea95f",
+  "id": "a7bab940-3e97-5565-baa0-7519d41a202f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2016-01-08T13:42:33.151260+00:00",
+    "transformation_method": "affine",
+    "mapID": "a7bab940-3e97-5565-baa0-7519d41a202f",
+    "affine_transformation": null,
+    "changed": "2016-01-08T13:42:33.151260+00:00",
+    "gcps": [
+      {
+        "location": [
+          26.7618039,
+          49.510564498
+        ],
+        "pixel": [
+          425,
+          348
+        ]
+      },
+      {
+        "location": [
+          26.74347634,
+          49.687601985
+        ],
+        "pixel": [
+          408,
+          128
+        ]
+      },
+      {
+        "location": [
+          26.458260962,
+          49.712028418
+        ],
+        "pixel": [
+          163,
+          99
+        ]
+      },
+      {
+        "location": [
+          26.346125876,
+          49.540761124
+        ],
+        "pixel": [
+          65,
+          312
+        ]
+      },
+      {
+        "location": [
+          26.512076804,
+          49.613581645
+        ],
+        "pixel": [
+          209,
+          222
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

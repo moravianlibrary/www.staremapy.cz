@@ -1,0 +1,111 @@
+{
+  "date": ["1919"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:dd0652b2-8521-11ec-a224-fa163e4ea95f?page=uuid%3Addbff8ac-8521-11ec-a224-fa163e4ea95f",
+  "description": "Maďarsko",
+  "scale": 75000,
+  "external_id": "1181911",
+  "title": "Szendrö a Putnok",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    20.329733,
+    48.24799,
+    20.833448,
+    48.498188
+  ],
+  "reviewed": null,
+  "publisher": "Kartografické odd. při Min. nár. obrany",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:dd0652b2-8521-11ec-a224-fa163e4ea95f",
+  "id": "4d483833-5495-5c88-9f80-3460d4ba8a42",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        53,
+        398
+      ],
+      [
+        553,
+        398
+      ],
+      [
+        553,
+        45
+      ],
+      [
+        57,
+        45
+      ],
+      [
+        53,
+        398
+      ]
+    ],
+    "created": "2015-01-11T09:33:46.077300+00:00",
+    "transformation_method": "affine",
+    "mapID": "4d483833-5495-5c88-9f80-3460d4ba8a42",
+    "affine_transformation": null,
+    "changed": "2015-01-11T09:33:46.077300+00:00",
+    "gcps": [
+      {
+        "location": [
+          20.752888107,
+          48.312773042
+        ],
+        "pixel": [
+          474,
+          309
+        ]
+      },
+      {
+        "location": [
+          20.461830878,
+          48.273284954
+        ],
+        "pixel": [
+          183,
+          363
+        ]
+      },
+      {
+        "location": [
+          20.734563255,
+          48.407912725
+        ],
+        "pixel": [
+          456,
+          173
+        ]
+      },
+      {
+        "location": [
+          20.505582377007364,
+          48.374169268498434
+        ],
+        "pixel": [
+          230,
+          219
+        ]
+      },
+      {
+        "location": [
+          20.451464564325427,
+          48.41056147705291
+        ],
+        "pixel": [
+          175,
+          168
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1919"]
+}

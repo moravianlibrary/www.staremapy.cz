@@ -1,0 +1,133 @@
+{
+  "date": ["1929"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.mzk.cz/search/iiif/uuid:f3991c24-7012-4f7a-b849-fc42e6475317/info.json",
+  "description": null,
+  "scale": 25000,
+  "external_id": "f3991c24-7012-4f7a-b849-fc42e6475317",
+  "title": "[Praha]",
+  "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.333865,
+    49.99875,
+    14.583806,
+    50.123795
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav,",
+  "link_url": "https://www.digitalniknihovna.cz/mzk/view/uuid:85971835-9a31-4634-8b76-6bc1bb41e1b6?page=uuid:f3991c24-7012-4f7a-b849-fc42e6475317",
+  "id": "82e53789-6db0-5e9c-8e63-cb9fe617026a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        18650,
+        1010
+      ],
+      [
+        18655,
+        3992
+      ],
+      [
+        18636,
+        14156
+      ],
+      [
+        1772,
+        14241
+      ],
+      [
+        1788,
+        7383
+      ],
+      [
+        1809,
+        1100
+      ],
+      [
+        10370,
+        1058
+      ],
+      [
+        18650,
+        1010
+      ]
+    ],
+    "created": "2018-12-19T14:27:52.977214+00:00",
+    "transformation_method": "affine",
+    "mapID": "82e53789-6db0-5e9c-8e63-cb9fe617026a",
+    "affine_transformation": null,
+    "changed": "2021-10-14T05:57:10.480321+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.417539617844659,
+          50.07232203033368
+        ],
+        "pixel": [
+          7426,
+          6461
+        ]
+      },
+      {
+        "location": [
+          14.534633215177855,
+          50.10689941204433
+        ],
+        "pixel": [
+          15349,
+          2813
+        ]
+      },
+      {
+        "location": [
+          14.447836581352254,
+          50.09674969011337
+        ],
+        "pixel": [
+          9502,
+          3890
+        ]
+      },
+      {
+        "location": [
+          14.524095026387622,
+          50.04916868093733
+        ],
+        "pixel": [
+          14631,
+          8883
+        ]
+      },
+      {
+        "location": [
+          14.411778072305491,
+          50.000641807200196
+        ],
+        "pixel": [
+          7024,
+          14030
+        ]
+      },
+      {
+        "location": [
+          14.350183080848861,
+          50.093544223099684
+        ],
+        "pixel": [
+          2905,
+          4263
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

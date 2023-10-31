@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plana_M_20-6/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "15027",
+  "title": "Katastrální mapa obce Štokov",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.58297,
+    49.833527,
+    12.610822,
+    49.843742
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/15027",
+  "id": "cea32a5f-d83d-5606-a0ba-a76a91d08d82",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        16205,
+        545
+      ],
+      [
+        16093,
+        9326
+      ],
+      [
+        101,
+        9157
+      ],
+      [
+        254,
+        434
+      ],
+      [
+        16205,
+        545
+      ]
+    ],
+    "created": "2014-11-25T16:55:19.880430+00:00",
+    "transformation_method": "affine",
+    "mapID": "cea32a5f-d83d-5606-a0ba-a76a91d08d82",
+    "affine_transformation": null,
+    "changed": "2014-11-25T16:55:19.880430+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.608587089617828,
+          49.83693529042452
+        ],
+        "pixel": [
+          14855,
+          6549
+        ]
+      },
+      {
+        "location": [
+          12.60661631789749,
+          49.83622483714598
+        ],
+        "pixel": [
+          13744,
+          7142
+        ]
+      },
+      {
+        "location": [
+          12.584233203408749,
+          49.84182752201022
+        ],
+        "pixel": [
+          940,
+          1761
+        ]
+      },
+      {
+        "location": [
+          12.591811344412422,
+          49.84187428264636
+        ],
+        "pixel": [
+          5305,
+          1874
+        ]
+      },
+      {
+        "location": [
+          12.599574178567613,
+          49.83539877557237
+        ],
+        "pixel": [
+          9622,
+          7795
+        ]
+      },
+      {
+        "location": [
+          12.599300071981997,
+          49.83939721044061
+        ],
+        "pixel": [
+          9635,
+          4274
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1842"]
+}

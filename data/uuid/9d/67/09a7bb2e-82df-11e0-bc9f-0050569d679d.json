@@ -1,0 +1,129 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.mzk.cz/search/iiif/uuid:09a7bb2e-82df-11e0-bc9f-0050569d679d/info.json",
+  "description": "mapa z monografie: Atlas Ameriquain Septentrional Contenant, strana: [12]",
+  "scale": null,
+  "external_id": "uuid:09a7bb2e-82df-11e0-bc9f-0050569d679d",
+  "title": "Atlas Ameriquain Septentrional Contenant, mapa ze strany: [12]",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:00748972-82df-11e0-bc9f-0050569d679d?page=uuid:09a7bb2e-82df-11e0-bc9f-0050569d679d",
+  "georeference_is_finished": true,
+  "bounds": [
+    -81.95407,
+    44.565304,
+    -60.20045,
+    53.386917
+  ],
+  "reviewed": null,
+  "publisher": "Chez le Rouge, Ingenieur Géographe du Roi, Rue des grands Augustins",
+  "link_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:00748972-82df-11e0-bc9f-0050569d679d?page=uuid:09a7bb2e-82df-11e0-bc9f-0050569d679d",
+  "id": "00a8399a-2d98-4f99-92c3-6659f3398867",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1899,
+        3640
+      ],
+      [
+        3073,
+        3649
+      ],
+      [
+        2590,
+        4795
+      ],
+      [
+        2294,
+        4876
+      ],
+      [
+        1676,
+        4880
+      ],
+      [
+        1906,
+        4553
+      ],
+      [
+        1899,
+        3640
+      ]
+    ],
+    "created": "2022-06-20T21:52:32.620791+00:00",
+    "transformation_method": "affine",
+    "mapID": "00a8399a-2d98-4f99-92c3-6659f3398867",
+    "affine_transformation": null,
+    "changed": "2022-10-09T10:51:12.348100+00:00",
+    "gcps": [
+      {
+        "location": [
+          -73.55326259039386,
+          45.49317607942464
+        ],
+        "pixel": [
+          2658,
+          4179
+        ]
+      },
+      {
+        "location": [
+          -73.56044262593426,
+          45.49041408226074
+        ],
+        "pixel": [
+          2493,
+          4337
+        ]
+      },
+      {
+        "location": [
+          -73.57233017628828,
+          45.48724003766716
+        ],
+        "pixel": [
+          2200,
+          4466
+        ]
+      },
+      {
+        "location": [
+          -73.56876820271651,
+          45.48564542644064
+        ],
+        "pixel": [
+          2332,
+          4585
+        ]
+      },
+      {
+        "location": [
+          -73.57094371222006,
+          45.488663387482404
+        ],
+        "pixel": [
+          2251,
+          4410
+        ]
+      },
+      {
+        "location": [
+          -73.56969916723715,
+          45.490032275575345
+        ],
+        "pixel": [
+          2307,
+          4338
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1778"]
+}

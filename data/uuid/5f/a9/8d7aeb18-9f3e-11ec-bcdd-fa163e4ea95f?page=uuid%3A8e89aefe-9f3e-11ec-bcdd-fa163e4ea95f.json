@@ -1,0 +1,111 @@
+{
+  "date": ["1883"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:8d7aeb18-9f3e-11ec-bcdd-fa163e4ea95f?page=uuid%3A8e89aefe-9f3e-11ec-bcdd-fa163e4ea95f",
+  "description": "Györ (Maďarsko : oblast)",
+  "scale": 75000,
+  "external_id": "1331463",
+  "title": "Raab",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    17.320702,
+    47.46041,
+    17.857582,
+    47.76555
+  ],
+  "reviewed": null,
+  "publisher": "R. Lechner's k. k. Hof-und Universitäts-Buchhandlung",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:8d7aeb18-9f3e-11ec-bcdd-fa163e4ea95f",
+  "id": "7ed2e15c-900f-5c75-9aed-3e3d5d69bb09",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        31,
+        440
+      ],
+      [
+        580,
+        440
+      ],
+      [
+        580,
+        16
+      ],
+      [
+        31,
+        16
+      ],
+      [
+        31,
+        440
+      ]
+    ],
+    "created": "2016-04-30T19:29:19.214350+00:00",
+    "transformation_method": "affine",
+    "mapID": "7ed2e15c-900f-5c75-9aed-3e3d5d69bb09",
+    "affine_transformation": null,
+    "changed": "2016-04-30T19:29:19.214350+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.80888462,
+          47.542961023
+        ],
+        "pixel": [
+          532,
+          327
+        ]
+      },
+      {
+        "location": [
+          17.424019814,
+          47.510679117
+        ],
+        "pixel": [
+          136,
+          370
+        ]
+      },
+      {
+        "location": [
+          17.390588761,
+          47.736033283
+        ],
+        "pixel": [
+          104,
+          56
+        ]
+      },
+      {
+        "location": [
+          17.663144112,
+          47.68448806
+        ],
+        "pixel": [
+          381,
+          129
+        ]
+      },
+      {
+        "location": [
+          17.772149086,
+          47.735773519
+        ],
+        "pixel": [
+          491,
+          57
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1883"]
+}

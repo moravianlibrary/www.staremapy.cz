@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plana_M_23-4/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "15281",
+  "title": "Katastrální mapa obce Vysoké Sedliště",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.766712,
+    49.812695,
+    12.793916,
+    49.83384
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/15281",
+  "id": "205725b5-60c6-525c-b016-9ae10aad0072",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        15182,
+        0
+      ],
+      [
+        15182,
+        18267
+      ],
+      [
+        0,
+        18267
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        15182,
+        0
+      ]
+    ],
+    "created": "2014-11-25T16:55:23.473470+00:00",
+    "transformation_method": "affine",
+    "mapID": "205725b5-60c6-525c-b016-9ae10aad0072",
+    "affine_transformation": null,
+    "changed": "2014-11-25T16:55:23.473470+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.771683693,
+          49.818023146
+        ],
+        "pixel": [
+          2390,
+          13619
+        ]
+      },
+      {
+        "location": [
+          12.786907911,
+          49.825090433
+        ],
+        "pixel": [
+          11494,
+          7659
+        ]
+      },
+      {
+        "location": [
+          12.776050329,
+          49.817026306
+        ],
+        "pixel": [
+          4896,
+          14592
+        ]
+      },
+      {
+        "location": [
+          12.771340217,
+          49.824895243
+        ],
+        "pixel": [
+          2429,
+          7460
+        ]
+      },
+      {
+        "location": [
+          12.773576692,
+          49.828901405
+        ],
+        "pixel": [
+          3847,
+          3978
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1842"]
+}

@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1582/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "8925",
+  "title": "Domanín o. Jindřichův Hradec 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.7333355,
+    48.948902,
+    14.7603035,
+    48.963867
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/8925",
+  "id": "5315df18-81f1-56ed-a96e-bcbe49187bbb",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        576,
+        14256
+      ],
+      [
+        16512,
+        14256
+      ],
+      [
+        16512,
+        720
+      ],
+      [
+        576,
+        720
+      ],
+      [
+        576,
+        14256
+      ]
+    ],
+    "created": "2015-04-29T14:41:14.300790+00:00",
+    "transformation_method": "affine",
+    "mapID": "5315df18-81f1-56ed-a96e-bcbe49187bbb",
+    "affine_transformation": null,
+    "changed": "2015-04-29T14:41:14.300790+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.754231666,
+          48.959910114
+        ],
+        "pixel": [
+          12924,
+          4276
+        ]
+      },
+      {
+        "location": [
+          14.752193523,
+          48.958488445
+        ],
+        "pixel": [
+          11696,
+          5646
+        ]
+      },
+      {
+        "location": [
+          14.748126836,
+          48.956505654
+        ],
+        "pixel": [
+          9444,
+          7360
+        ]
+      },
+      {
+        "location": [
+          14.755642843,
+          48.962383964
+        ],
+        "pixel": [
+          13724,
+          2066
+        ]
+      },
+      {
+        "location": [
+          14.746053571,
+          48.961621269
+        ],
+        "pixel": [
+          7952,
+          2736
+        ]
+      },
+      {
+        "location": [
+          14.754253459,
+          48.963142956
+        ],
+        "pixel": [
+          12918,
+          1346
+        ]
+      },
+      {
+        "location": [
+          14.746879456,
+          48.950179006
+        ],
+        "pixel": [
+          8648,
+          13120
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1838"]
+}

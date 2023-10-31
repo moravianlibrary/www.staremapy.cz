@@ -1,0 +1,101 @@
+{
+  "date": ["1938"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:2962aff8-9f70-11ec-8d42-fa163e4ea95f?page=uuid%3A2a965406-9f70-11ec-8d42-fa163e4ea95f",
+  "description": "Litva",
+  "scale": 100000,
+  "external_id": "1332828",
+  "title": "Litva",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    23.99978,
+    54.998253,
+    24.501104,
+    55.33501
+  ],
+  "reviewed": null,
+  "publisher": "General'nyj štab RKKA",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:2962aff8-9f70-11ec-8d42-fa163e4ea95f",
+  "id": "b76858ed-ee0f-5883-b92f-526cf7f291ef",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        65,
+        363
+      ],
+      [
+        537,
+        363
+      ],
+      [
+        535,
+        71
+      ],
+      [
+        67,
+        70
+      ],
+      [
+        65,
+        363
+      ]
+    ],
+    "created": "2017-03-26T08:20:10.624280+00:00",
+    "transformation_method": "affine",
+    "mapID": "b76858ed-ee0f-5883-b92f-526cf7f291ef",
+    "affine_transformation": null,
+    "changed": "2023-02-14T19:08:14.459343+00:00",
+    "gcps": [
+      {
+        "location": [
+          24.197557449,
+          55.141447901
+        ],
+        "pixel": [
+          252,
+          239
+        ]
+      },
+      {
+        "location": [
+          24.28364563,
+          55.066369637
+        ],
+        "pixel": [
+          333,
+          305
+        ]
+      },
+      {
+        "location": [
+          24.258711815,
+          55.298829446
+        ],
+        "pixel": [
+          310,
+          101
+        ]
+      },
+      {
+        "location": [
+          24.417289825,
+          55.328437381
+        ],
+        "pixel": [
+          460,
+          75
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1938"]
+}

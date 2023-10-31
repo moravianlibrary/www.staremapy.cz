@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1180/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "7056",
+  "title": "Bečice o. České Budějovice 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.502339,
+    49.21013,
+    14.529986,
+    49.224445
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/7056",
+  "id": "aa3928ff-295f-5f61-84d2-029eb68af939",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        530,
+        13833
+      ],
+      [
+        16850,
+        13833
+      ],
+      [
+        16850,
+        809
+      ],
+      [
+        530,
+        809
+      ],
+      [
+        530,
+        13833
+      ]
+    ],
+    "created": "2015-07-13T15:21:12.452620+00:00",
+    "transformation_method": "affine",
+    "mapID": "aa3928ff-295f-5f61-84d2-029eb68af939",
+    "affine_transformation": null,
+    "changed": "2015-07-13T15:21:12.452620+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.505736983012232,
+          49.21632879044898
+        ],
+        "pixel": [
+          2485,
+          8164
+        ]
+      },
+      {
+        "location": [
+          14.51302224,
+          49.223600591
+        ],
+        "pixel": [
+          6835,
+          1610
+        ]
+      },
+      {
+        "location": [
+          14.515747365,
+          49.214189164
+        ],
+        "pixel": [
+          8439,
+          10138
+        ]
+      },
+      {
+        "location": [
+          14.525489148,
+          49.223257242
+        ],
+        "pixel": [
+          14197,
+          1846
+        ]
+      },
+      {
+        "location": [
+          14.503140552,
+          49.213345339
+        ],
+        "pixel": [
+          1035,
+          10930
+        ]
+      },
+      {
+        "location": [
+          14.518139517497096,
+          49.21105839749987
+        ],
+        "pixel": [
+          9872,
+          13016
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1887"]
+}

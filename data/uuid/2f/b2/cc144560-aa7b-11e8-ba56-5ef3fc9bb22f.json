@@ -1,0 +1,121 @@
+{
+  "date": ["1947"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.mzk.cz/search/iiif/uuid:cc144560-aa7b-11e8-ba56-5ef3fc9bb22f/info.json",
+  "description": null,
+  "scale": 75000,
+  "external_id": "cc144560-aa7b-11e8-ba56-5ef3fc9bb22f",
+  "title": "Horažďovice",
+  "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.333335,
+    49.248478,
+    13.834499,
+    49.49892
+  ],
+  "reviewed": null,
+  "publisher": "pro ZNV zhotovil zeměměřický úřad",
+  "link_url": "https://www.digitalniknihovna.cz/mzk/view/uuid:d7894e20-a604-11e8-a2d0-005056827e52?page=uuid:cc144560-aa7b-11e8-ba56-5ef3fc9bb22f",
+  "id": "1c2d7491-8103-5903-a5db-348139e162aa",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        12437,
+        1350
+      ],
+      [
+        12400,
+        10055
+      ],
+      [
+        975,
+        10055
+      ],
+      [
+        1093,
+        1347
+      ],
+      [
+        12437,
+        1350
+      ]
+    ],
+    "created": "2018-12-19T14:27:52.977214+00:00",
+    "transformation_method": "affine",
+    "mapID": "1c2d7491-8103-5903-a5db-348139e162aa",
+    "affine_transformation": null,
+    "changed": "2021-09-06T07:47:49.791225+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.777660918500827,
+          49.30552436189714
+        ],
+        "pixel": [
+          11133,
+          8084
+        ]
+      },
+      {
+        "location": [
+          13.423943405180678,
+          49.29330950688501
+        ],
+        "pixel": [
+          3050,
+          8500
+        ]
+      },
+      {
+        "location": [
+          13.42646319306948,
+          49.452774337531395
+        ],
+        "pixel": [
+          3175,
+          2964
+        ]
+      },
+      {
+        "location": [
+          13.738880564878448,
+          49.37102684036137
+        ],
+        "pixel": [
+          10256,
+          5801
+        ]
+      },
+      {
+        "location": [
+          13.577845097548213,
+          49.38366305432882
+        ],
+        "pixel": [
+          6588,
+          5345
+        ]
+      },
+      {
+        "location": [
+          13.786322578247074,
+          49.460532312269976
+        ],
+        "pixel": [
+          11367,
+          2687
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

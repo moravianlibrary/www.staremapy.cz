@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/1080_2/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "23320",
+  "title": "Mapa politického okresu Pardubického",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.613889,
+    50.061195,
+    15.849871,
+    50.19662
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/23320",
+  "id": "b8d32ed6-a4f8-5110-8a4b-b98cc3d60207",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1204,
+        1242
+      ],
+      [
+        17028,
+        1162
+      ],
+      [
+        17060,
+        15338
+      ],
+      [
+        1188,
+        15338
+      ],
+      [
+        1204,
+        1242
+      ]
+    ],
+    "created": "2017-06-13T11:22:47.317340+00:00",
+    "transformation_method": "affine",
+    "mapID": "b8d32ed6-a4f8-5110-8a4b-b98cc3d60207",
+    "affine_transformation": null,
+    "changed": "2017-06-13T11:22:47.317340+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.827586651,
+          50.070604226
+        ],
+        "pixel": [
+          15554,
+          14378
+        ]
+      },
+      {
+        "location": [
+          15.643646121,
+          50.150462662
+        ],
+        "pixel": [
+          3160,
+          5985
+        ]
+      },
+      {
+        "location": [
+          15.679802299,
+          50.075985512
+        ],
+        "pixel": [
+          5629,
+          13789
+        ]
+      },
+      {
+        "location": [
+          15.809412003,
+          50.105043659
+        ],
+        "pixel": [
+          14326,
+          10811
+        ]
+      },
+      {
+        "location": [
+          15.776410103,
+          50.193001904
+        ],
+        "pixel": [
+          12104,
+          1513
+        ]
+      },
+      {
+        "location": [
+          15.721607208,
+          50.124183564
+        ],
+        "pixel": [
+          8432,
+          8744
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

@@ -1,0 +1,125 @@
+{
+  "date": ["1919"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.mzk.cz/search/iiif/uuid:de72e08a-d3ed-44eb-9c82-5a032a3358d5/info.json",
+  "description": null,
+  "scale": 75000,
+  "external_id": "de72e08a-d3ed-44eb-9c82-5a032a3358d5",
+  "title": "Trenčín",
+  "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    17.832,
+    48.74883,
+    18.33215,
+    48.99859
+  ],
+  "reviewed": null,
+  "publisher": "Ministerstvo národní obrany",
+  "link_url": "https://www.digitalniknihovna.cz/mzk/view/uuid:98a6bbe9-aa7c-49f1-8a22-605f62e1cb00?page=uuid:de72e08a-d3ed-44eb-9c82-5a032a3358d5",
+  "id": "5ec0e64f-95e2-58d8-a334-79f6d14647a1",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        12460,
+        1005
+      ],
+      [
+        12608,
+        9720
+      ],
+      [
+        6732,
+        9797
+      ],
+      [
+        1297,
+        9844
+      ],
+      [
+        1202,
+        1103
+      ],
+      [
+        12460,
+        1005
+      ]
+    ],
+    "created": "2018-12-19T14:27:52.977214+00:00",
+    "transformation_method": "affine",
+    "mapID": "5ec0e64f-95e2-58d8-a334-79f6d14647a1",
+    "affine_transformation": null,
+    "changed": "2021-02-12T11:28:35.734959+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.863764943189093,
+          48.96528702459426
+        ],
+        "pixel": [
+          1947,
+          2252
+        ]
+      },
+      {
+        "location": [
+          18.221685624521406,
+          48.98790710794779
+        ],
+        "pixel": [
+          9975,
+          1401
+        ]
+      },
+      {
+        "location": [
+          17.976192371884355,
+          48.85727681918539
+        ],
+        "pixel": [
+          4498,
+          6028
+        ]
+      },
+      {
+        "location": [
+          18.26282756238857,
+          48.83935713528251
+        ],
+        "pixel": [
+          11015,
+          6585
+        ]
+      },
+      {
+        "location": [
+          18.21301903593719,
+          48.764115455885985
+        ],
+        "pixel": [
+          9921,
+          9222
+        ]
+      },
+      {
+        "location": [
+          17.895549331719188,
+          48.79026698489696
+        ],
+        "pixel": [
+          2692,
+          8400
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

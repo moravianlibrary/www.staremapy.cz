@@ -1,0 +1,121 @@
+{
+  "date": ["1936"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:47ad8f2a-7282-11ec-a969-fa163e4ea95f?page=uuid%3A48b67be8-7282-11ec-a969-fa163e4ea95f",
+  "description": "Jaroměřice nad Rokytnou-oblast (Česko)",
+  "scale": 25000,
+  "external_id": "1120073",
+  "title": "[Gradkartenblatt]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.834619,
+    48.999645,
+    16.083767,
+    49.123753
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:47ad8f2a-7282-11ec-a969-fa163e4ea95f",
+  "id": "870b94bd-a350-5280-913b-406cb587a345",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        20,
+        410
+      ],
+      [
+        569,
+        410
+      ],
+      [
+        568,
+        34
+      ],
+      [
+        21,
+        33
+      ],
+      [
+        20,
+        410
+      ]
+    ],
+    "created": "2015-01-12T23:21:36.347050+00:00",
+    "transformation_method": "affine",
+    "mapID": "870b94bd-a350-5280-913b-406cb587a345",
+    "affine_transformation": null,
+    "changed": "2015-01-12T23:21:36.347050+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.940958738,
+          49.06623391
+        ],
+        "pixel": [
+          254,
+          208
+        ]
+      },
+      {
+        "location": [
+          16.081088066,
+          49.076790925
+        ],
+        "pixel": [
+          564,
+          177
+        ]
+      },
+      {
+        "location": [
+          16.057860136,
+          49.000099679
+        ],
+        "pixel": [
+          512,
+          409
+        ]
+      },
+      {
+        "location": [
+          15.837597131,
+          49.038333483
+        ],
+        "pixel": [
+          26,
+          293
+        ]
+      },
+      {
+        "location": [
+          15.863148902,
+          49.120977348
+        ],
+        "pixel": [
+          83,
+          41
+        ]
+      },
+      {
+        "location": [
+          15.891112566,
+          49.090929029
+        ],
+        "pixel": [
+          145,
+          133
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1936"]
+}

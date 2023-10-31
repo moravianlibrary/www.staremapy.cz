@@ -1,0 +1,121 @@
+{
+  "date": ["1876"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:ff5a2246-93f2-11ec-9d4d-fa163e4ea95f?page=uuid%3A0036ac2a-93f3-11ec-9d4d-fa163e4ea95f",
+  "description": "Silistra-oblast (Bulharsko)",
+  "scale": 300000,
+  "external_id": "1250969",
+  "title": "Silistria",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    26.304386,
+    43.69762,
+    28.227991,
+    45.1092
+  ],
+  "reviewed": null,
+  "publisher": "Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:ff5a2246-93f2-11ec-9d4d-fa163e4ea95f",
+  "id": "3796cdaa-ab83-5f5a-8efa-246f02e3f1d3",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        23,
+        420
+      ],
+      [
+        574,
+        422
+      ],
+      [
+        577,
+        20
+      ],
+      [
+        26,
+        16
+      ],
+      [
+        23,
+        420
+      ]
+    ],
+    "created": "2016-11-24T12:28:13.238340+00:00",
+    "transformation_method": "affine",
+    "mapID": "3796cdaa-ab83-5f5a-8efa-246f02e3f1d3",
+    "affine_transformation": null,
+    "changed": "2016-11-24T12:28:13.238340+00:00",
+    "gcps": [
+      {
+        "location": [
+          26.609823328,
+          44.049225934
+        ],
+        "pixel": [
+          113,
+          367
+        ]
+      },
+      {
+        "location": [
+          27.266771417,
+          44.103981482
+        ],
+        "pixel": [
+          288,
+          322
+        ]
+      },
+      {
+        "location": [
+          26.450736147,
+          44.226934696
+        ],
+        "pixel": [
+          65,
+          307
+        ]
+      },
+      {
+        "location": [
+          28.042037111,
+          44.543810849
+        ],
+        "pixel": [
+          518,
+          146
+        ]
+      },
+      {
+        "location": [
+          28.019334894,
+          44.322496952
+        ],
+        "pixel": [
+          524,
+          216
+        ]
+      },
+      {
+        "location": [
+          26.929628473,
+          44.238066011
+        ],
+        "pixel": [
+          207,
+          293
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1876"]
+}

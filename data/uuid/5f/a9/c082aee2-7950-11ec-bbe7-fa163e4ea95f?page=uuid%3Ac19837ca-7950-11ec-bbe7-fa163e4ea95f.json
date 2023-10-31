@@ -1,0 +1,121 @@
+{
+  "date": ["1938"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:c082aee2-7950-11ec-bbe7-fa163e4ea95f?page=uuid%3Ac19837ca-7950-11ec-bbe7-fa163e4ea95f",
+  "description": "Abertamy (Česko)",
+  "scale": 25000,
+  "external_id": "1125005",
+  "title": "[Kartenblatt]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.579291,
+    50.247818,
+    12.836483,
+    50.375046
+  ],
+  "reviewed": null,
+  "publisher": "Reichsamt für Landesaufnahme",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:c082aee2-7950-11ec-bbe7-fa163e4ea95f",
+  "id": "77ec86de-4e93-5675-a92c-e0b1d80198d6",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        63,
+        396
+      ],
+      [
+        510,
+        391
+      ],
+      [
+        510,
+        67
+      ],
+      [
+        63,
+        67
+      ],
+      [
+        63,
+        396
+      ]
+    ],
+    "created": "2015-01-25T17:22:19.553860+00:00",
+    "transformation_method": "affine",
+    "mapID": "77ec86de-4e93-5675-a92c-e0b1d80198d6",
+    "affine_transformation": null,
+    "changed": "2015-01-25T17:22:19.553860+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.602241608,
+          50.282635757
+        ],
+        "pixel": [
+          104,
+          306
+        ]
+      },
+      {
+        "location": [
+          12.62004182,
+          50.36581647
+        ],
+        "pixel": [
+          128,
+          91
+        ]
+      },
+      {
+        "location": [
+          12.783678027,
+          50.365734345
+        ],
+        "pixel": [
+          419,
+          91
+        ]
+      },
+      {
+        "location": [
+          12.786939593,
+          50.254104791
+        ],
+        "pixel": [
+          426,
+          379
+        ]
+      },
+      {
+        "location": [
+          12.818267795,
+          50.368772877
+        ],
+        "pixel": [
+          480,
+          83
+        ]
+      },
+      {
+        "location": [
+          12.729304286,
+          50.322708668
+        ],
+        "pixel": [
+          323,
+          201
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1938"]
+}

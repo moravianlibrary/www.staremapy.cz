@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1525/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "7401",
+  "title": "Zborov o. České Budějovice 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.577969,
+    48.906635,
+    14.581046,
+    48.909927
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/7401",
+  "id": "d0c405de-8015-5d84-8d33-a65a745c7e58",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        40,
+        3520
+      ],
+      [
+        1856,
+        3331
+      ],
+      [
+        1368,
+        432
+      ],
+      [
+        72,
+        448
+      ],
+      [
+        40,
+        3520
+      ]
+    ],
+    "created": "2016-08-21T19:56:13.465760+00:00",
+    "transformation_method": "affine",
+    "mapID": "d0c405de-8015-5d84-8d33-a65a745c7e58",
+    "affine_transformation": null,
+    "changed": "2016-08-21T19:56:13.465760+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.57803297,
+          48.906705302
+        ],
+        "pixel": [
+          76,
+          3428
+        ]
+      },
+      {
+        "location": [
+          14.579020023,
+          48.906959171
+        ],
+        "pixel": [
+          656,
+          3248
+        ]
+      },
+      {
+        "location": [
+          14.580758095,
+          48.90684634
+        ],
+        "pixel": [
+          1676,
+          3240
+        ]
+      },
+      {
+        "location": [
+          14.580350399,
+          48.908059253
+        ],
+        "pixel": [
+          1436,
+          2244
+        ]
+      },
+      {
+        "location": [
+          14.579964161,
+          48.909836259
+        ],
+        "pixel": [
+          1156,
+          488
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1838"]
+}

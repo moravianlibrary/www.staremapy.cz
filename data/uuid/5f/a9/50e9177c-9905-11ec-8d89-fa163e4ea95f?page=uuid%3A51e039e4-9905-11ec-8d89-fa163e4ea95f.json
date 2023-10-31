@@ -1,0 +1,111 @@
+{
+  "date": ["1919"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:50e9177c-9905-11ec-8d89-fa163e4ea95f?page=uuid%3A51e039e4-9905-11ec-8d89-fa163e4ea95f",
+  "description": "Krnov (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1292027",
+  "title": "Krnov",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    17.617739,
+    50.05469,
+    17.772087,
+    50.104168
+  ],
+  "reviewed": null,
+  "publisher": "Ministerstvo národní obrany",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:50e9177c-9905-11ec-8d89-fa163e4ea95f",
+  "id": "c397e06a-436b-50a7-972b-19abd057a55e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        334,
+        311
+      ],
+      [
+        488,
+        311
+      ],
+      [
+        488,
+        243
+      ],
+      [
+        334,
+        243
+      ],
+      [
+        334,
+        311
+      ]
+    ],
+    "created": "2016-12-29T22:37:27.680570+00:00",
+    "transformation_method": "affine",
+    "mapID": "c397e06a-436b-50a7-972b-19abd057a55e",
+    "affine_transformation": null,
+    "changed": "2016-12-29T22:37:27.680570+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.706153829,
+          50.085295838
+        ],
+        "pixel": [
+          422,
+          269
+        ]
+      },
+      {
+        "location": [
+          17.697153243,
+          50.08985837
+        ],
+        "pixel": [
+          414,
+          262
+        ]
+      },
+      {
+        "location": [
+          17.628488692,
+          50.064115011
+        ],
+        "pixel": [
+          345,
+          298
+        ]
+      },
+      {
+        "location": [
+          17.690793572,
+          50.081237891
+        ],
+        "pixel": [
+          407,
+          275
+        ]
+      },
+      {
+        "location": [
+          17.699026075,
+          50.096036568
+        ],
+        "pixel": [
+          415,
+          254
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1919"]
+}

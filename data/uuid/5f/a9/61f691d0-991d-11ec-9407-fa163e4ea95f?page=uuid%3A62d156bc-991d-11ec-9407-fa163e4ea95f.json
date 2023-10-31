@@ -1,0 +1,111 @@
+{
+  "date": ["1905"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:61f691d0-991d-11ec-9407-fa163e4ea95f?page=uuid%3A62d156bc-991d-11ec-9407-fa163e4ea95f",
+  "description": "Polsko jihovýchodní",
+  "scale": 75000,
+  "external_id": "1292711",
+  "title": "Mościska",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    22.822144,
+    49.741753,
+    23.33077,
+    50.007378
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:61f691d0-991d-11ec-9407-fa163e4ea95f",
+  "id": "fea3146c-01bf-5f3c-b2b8-c304b913e21b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        67,
+        389
+      ],
+      [
+        530,
+        389
+      ],
+      [
+        530,
+        47
+      ],
+      [
+        67,
+        47
+      ],
+      [
+        67,
+        389
+      ]
+    ],
+    "created": "2016-06-11T21:31:00.573750+00:00",
+    "transformation_method": "affine",
+    "mapID": "fea3146c-01bf-5f3c-b2b8-c304b913e21b",
+    "affine_transformation": null,
+    "changed": "2016-06-11T21:31:00.573750+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.169645673,
+          49.851619927
+        ],
+        "pixel": [
+          382,
+          249
+        ]
+      },
+      {
+        "location": [
+          23.160890942,
+          49.961595448
+        ],
+        "pixel": [
+          382,
+          106
+        ]
+      },
+      {
+        "location": [
+          22.923998242,
+          49.942211096
+        ],
+        "pixel": [
+          156,
+          127
+        ]
+      },
+      {
+        "location": [
+          22.889665967,
+          49.784943436
+        ],
+        "pixel": [
+          128,
+          334
+        ]
+      },
+      {
+        "location": [
+          23.148960477,
+          49.801261082
+        ],
+        "pixel": [
+          362,
+          315
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1905"]
+}

@@ -1,0 +1,91 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1239/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "7115",
+  "title": "Dobšice o. České Budějovice 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.391232,
+    49.154953,
+    14.584789,
+    49.249523
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/7115",
+  "id": "dcabda0b-6377-5d85-86c7-7043fa95d278",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        9347,
+        0
+      ],
+      [
+        9347,
+        18075
+      ],
+      [
+        0,
+        18075
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        9347,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:12:01.564850+00:00",
+    "transformation_method": "affine",
+    "mapID": "dcabda0b-6377-5d85-86c7-7043fa95d278",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:12:01.564850+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.484834443500903,
+          49.21440094697644
+        ],
+        "pixel": [
+          2738,
+          2982
+        ]
+      },
+      {
+        "location": [
+          14.488381858993527,
+          49.20943075818391
+        ],
+        "pixel": [
+          3454,
+          4593
+        ]
+      },
+      {
+        "location": [
+          14.515383500365935,
+          49.1786186656968
+        ],
+        "pixel": [
+          7722,
+          12637
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1887"]
+}

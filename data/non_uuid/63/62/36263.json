@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/2878_10/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "36263",
+  "title": "Generální mapa ČSR",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.806698,
+    49.48556,
+    15.855961,
+    50.50336
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/36263",
+  "id": "1ed6f083-d146-5ab5-89f3-1ac8d888032c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        974,
+        14199
+      ],
+      [
+        9806,
+        14135
+      ],
+      [
+        9646,
+        887
+      ],
+      [
+        1038,
+        951
+      ],
+      [
+        974,
+        14199
+      ]
+    ],
+    "created": "2015-03-01T12:10:51.354130+00:00",
+    "transformation_method": "affine",
+    "mapID": "1ed6f083-d146-5ab5-89f3-1ac8d888032c",
+    "affine_transformation": null,
+    "changed": "2015-03-01T12:10:51.354130+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.57617006,
+          49.606163412
+        ],
+        "pixel": [
+          7494,
+          12666
+        ]
+      },
+      {
+        "location": [
+          15.199888322,
+          50.019115156
+        ],
+        "pixel": [
+          4266,
+          7142
+        ]
+      },
+      {
+        "location": [
+          14.938963029,
+          50.423298409
+        ],
+        "pixel": [
+          1778,
+          2070
+        ]
+      },
+      {
+        "location": [
+          15.823362443,
+          50.432046984
+        ],
+        "pixel": [
+          9406,
+          1770
+        ]
+      },
+      {
+        "location": [
+          15.801389787,
+          49.946705222
+        ],
+        "pixel": [
+          9314,
+          8150
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

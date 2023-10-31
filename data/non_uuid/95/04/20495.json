@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plasy_M_123_1/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "20495",
+  "title": "Katastrální mapa obce Hromnice",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.439356,
+    49.850758,
+    13.448538,
+    49.85305
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/20495",
+  "id": "85ed1f37-c37e-5cc0-a986-fd5235e46a9a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        502,
+        5896
+      ],
+      [
+        14358,
+        5896
+      ],
+      [
+        14358,
+        312
+      ],
+      [
+        502,
+        312
+      ],
+      [
+        502,
+        5896
+      ]
+    ],
+    "created": "2015-02-07T09:32:37.835360+00:00",
+    "transformation_method": "affine",
+    "mapID": "85ed1f37-c37e-5cc0-a986-fd5235e46a9a",
+    "affine_transformation": null,
+    "changed": "2015-02-07T09:32:37.835360+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.443474576,
+          49.852164458
+        ],
+        "pixel": [
+          5815,
+          3163
+        ]
+      },
+      {
+        "location": [
+          13.440341755,
+          49.851334345
+        ],
+        "pixel": [
+          2455,
+          4555
+        ]
+      },
+      {
+        "location": [
+          13.446811244,
+          49.851797826
+        ],
+        "pixel": [
+          11879,
+          3259
+        ]
+      },
+      {
+        "location": [
+          13.446392819,
+          49.851804744
+        ],
+        "pixel": [
+          10967,
+          3083
+        ]
+      },
+      {
+        "location": [
+          13.445749089,
+          49.852330478
+        ],
+        "pixel": [
+          10647,
+          1435
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1871"]
+}

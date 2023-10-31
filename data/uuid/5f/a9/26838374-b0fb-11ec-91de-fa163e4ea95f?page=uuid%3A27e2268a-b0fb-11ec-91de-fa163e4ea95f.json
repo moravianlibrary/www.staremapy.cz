@@ -1,0 +1,101 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:26838374-b0fb-11ec-91de-fa163e4ea95f?page=uuid%3A27e2268a-b0fb-11ec-91de-fa163e4ea95f",
+  "description": "Louisiana",
+  "scale": 62500,
+  "external_id": "1374895",
+  "title": "Louisiana",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Baldwin, H. L.",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -90.28119,
+    29.456446,
+    -89.96902,
+    29.777111
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:26838374-b0fb-11ec-91de-fa163e4ea95f",
+  "id": "d7539d5b-729a-57c9-8980-8eb7f2b3c444",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2016-01-08T13:31:55.072450+00:00",
+    "transformation_method": "affine",
+    "mapID": "d7539d5b-729a-57c9-8980-8eb7f2b3c444",
+    "affine_transformation": null,
+    "changed": "2016-01-08T13:31:55.072450+00:00",
+    "gcps": [
+      {
+        "location": [
+          -90.132724762,
+          29.552529769
+        ],
+        "pixel": [
+          286,
+          311
+        ]
+      },
+      {
+        "location": [
+          -90.001911784,
+          29.726772073
+        ],
+        "pixel": [
+          537,
+          68
+        ]
+      },
+      {
+        "location": [
+          -90.096504211,
+          29.64253495
+        ],
+        "pixel": [
+          355,
+          185
+        ]
+      },
+      {
+        "location": [
+          -90.13495636,
+          29.742446419
+        ],
+        "pixel": [
+          280,
+          47
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

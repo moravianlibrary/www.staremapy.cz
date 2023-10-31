@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_pardubice_405/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "14702",
+  "title": "Indikační skica mapy stabilního katastru pro obec Roudnice I.-IX.",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.594729,
+    50.125805,
+    15.706298,
+    50.23168
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/14702",
+  "id": "3a7e744f-2096-50c8-8784-ef08c4045379",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        7982,
+        6609
+      ],
+      [
+        11470,
+        6801
+      ],
+      [
+        11374,
+        9665
+      ],
+      [
+        7822,
+        9505
+      ],
+      [
+        7982,
+        6609
+      ]
+    ],
+    "created": "2014-12-12T15:16:01.286340+00:00",
+    "transformation_method": "affine",
+    "mapID": "3a7e744f-2096-50c8-8784-ef08c4045379",
+    "affine_transformation": null,
+    "changed": "2014-12-12T15:16:01.286340+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.639087874,
+          50.194369272
+        ],
+        "pixel": [
+          9249,
+          7693
+        ]
+      },
+      {
+        "location": [
+          15.634109694,
+          50.165568081
+        ],
+        "pixel": [
+          9097,
+          8685
+        ]
+      },
+      {
+        "location": [
+          15.63359471,
+          50.171395677
+        ],
+        "pixel": [
+          9113,
+          8517
+        ]
+      },
+      {
+        "location": [
+          15.621921736,
+          50.174034354
+        ],
+        "pixel": [
+          8705,
+          8485
+        ]
+      },
+      {
+        "location": [
+          15.637714583,
+          50.198435216
+        ],
+        "pixel": [
+          9225,
+          7517
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1840"]
+}

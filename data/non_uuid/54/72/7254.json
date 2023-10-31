@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1378/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "7254",
+  "title": "Mazelov o. České Budějovice 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.631642,
+    49.082634,
+    14.656355,
+    49.087196
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/7254",
+  "id": "6b3d4ba7-34f4-5cb7-bce2-8e80f86ff8be",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        454,
+        4220
+      ],
+      [
+        14854,
+        4220
+      ],
+      [
+        14854,
+        412
+      ],
+      [
+        454,
+        412
+      ],
+      [
+        454,
+        4220
+      ]
+    ],
+    "created": "2017-05-12T18:09:34.189050+00:00",
+    "transformation_method": "affine",
+    "mapID": "6b3d4ba7-34f4-5cb7-bce2-8e80f86ff8be",
+    "affine_transformation": null,
+    "changed": "2017-05-12T18:09:34.189050+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.632011175,
+          49.085536256
+        ],
+        "pixel": [
+          657,
+          1870
+        ]
+      },
+      {
+        "location": [
+          14.654016018,
+          49.086389987
+        ],
+        "pixel": [
+          13526,
+          929
+        ]
+      },
+      {
+        "location": [
+          14.649799585,
+          49.084563055
+        ],
+        "pixel": [
+          11029,
+          2586
+        ]
+      },
+      {
+        "location": [
+          14.639076114,
+          49.08364605
+        ],
+        "pixel": [
+          4786,
+          3462
+        ]
+      },
+      {
+        "location": [
+          14.64685452,
+          49.085318429
+        ],
+        "pixel": [
+          9308,
+          1952
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

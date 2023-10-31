@@ -1,0 +1,111 @@
+{
+  "date": ["1935"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:65b0e7b4-a4a6-11ec-8099-fa163e4ea95f?page=uuid%3A667cfc82-a4a6-11ec-8099-fa163e4ea95f",
+  "description": "Ruská SFSR",
+  "scale": 100000,
+  "external_id": "1337448",
+  "title": "RSFSR",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    34.421158,
+    56.28108,
+    35.06917,
+    56.700375
+  ],
+  "reviewed": null,
+  "publisher": "Glavnoje geodezičeskoje upravlenije",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:65b0e7b4-a4a6-11ec-8099-fa163e4ea95f",
+  "id": "0b57dea2-5c07-52d0-82b2-e69a6fed694d",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:25:07.276150+00:00",
+    "transformation_method": "affine",
+    "mapID": "0b57dea2-5c07-52d0-82b2-e69a6fed694d",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:25:07.276150+00:00",
+    "gcps": [
+      {
+        "location": [
+          34.554428424,
+          56.34686404
+        ],
+        "pixel": [
+          124,
+          374
+        ]
+      },
+      {
+        "location": [
+          34.691892624,
+          56.600521795
+        ],
+        "pixel": [
+          249,
+          106
+        ]
+      },
+      {
+        "location": [
+          34.943462372,
+          56.516280265
+        ],
+        "pixel": [
+          485,
+          195
+        ]
+      },
+      {
+        "location": [
+          34.715281487,
+          56.535453293
+        ],
+        "pixel": [
+          271,
+          174
+        ]
+      },
+      {
+        "location": [
+          34.969059558,
+          56.364502966
+        ],
+        "pixel": [
+          511,
+          356
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1935"]
+}

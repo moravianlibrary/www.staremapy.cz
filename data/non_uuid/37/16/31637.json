@@ -1,0 +1,94 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/Vs_Litomysl_803_2/ImageProperties.xml",
+  "description": null,
+  "scale": 4000,
+  "external_id": "31637",
+  "title": "Mapa lesů ležících v Dětřichovském revíru",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.510424,
+    49.81464,
+    16.54372,
+    49.828106
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/31637",
+  "id": "1a792511-d748-567b-8e9d-2baaa54d1efc",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        4623,
+        0
+      ],
+      [
+        4623,
+        3510
+      ],
+      [
+        0,
+        3510
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        4623,
+        0
+      ]
+    ],
+    "created": "2014-11-25T19:15:48.685160+00:00",
+    "transformation_method": "affine",
+    "mapID": "1a792511-d748-567b-8e9d-2baaa54d1efc",
+    "affine_transformation": null,
+    "changed": "2023-08-14T18:01:26.710897+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.521563702,
+          49.824390359
+        ],
+        "pixel": [
+          1300,
+          966
+        ]
+      },
+      {
+        "location": [
+          16.526718908,
+          49.820150742
+        ],
+        "pixel": [
+          2321,
+          2117
+        ]
+      },
+      {
+        "location": [
+          16.530999713,
+          49.821178666
+        ],
+        "pixel": [
+          2930,
+          1747
+        ]
+      }
+    ]
+  },
+  "pubdate": [
+    "1830",
+    "1850"
+  ]
+}

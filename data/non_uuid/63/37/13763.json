@@ -1,0 +1,101 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Zichovice_M_27/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "13763",
+  "title": "Hospodářská mapa budětických farních lesů",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.629612,
+    49.265022,
+    13.63261,
+    49.267517
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/13763",
+  "id": "0bb46480-87b2-5110-b5e9-68aab3bb3970",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        7290,
+        0
+      ],
+      [
+        7290,
+        4093
+      ],
+      [
+        0,
+        4093
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        7290,
+        0
+      ]
+    ],
+    "created": "2014-11-25T16:32:53.204980+00:00",
+    "transformation_method": "affine",
+    "mapID": "0bb46480-87b2-5110-b5e9-68aab3bb3970",
+    "affine_transformation": null,
+    "changed": "2023-08-31T08:19:37.469891+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.630659600223854,
+          49.26599739146613
+        ],
+        "pixel": [
+          2871,
+          3121
+        ]
+      },
+      {
+        "location": [
+          13.630659600223854,
+          49.26610940866317
+        ],
+        "pixel": [
+          2800,
+          2786
+        ]
+      },
+      {
+        "location": [
+          13.630793710674597,
+          49.26639295105653
+        ],
+        "pixel": [
+          2533,
+          2142
+        ]
+      },
+      {
+        "location": [
+          13.630852968084662,
+          49.266197721823886
+        ],
+        "pixel": [
+          3068,
+          2471
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1926"]
+}

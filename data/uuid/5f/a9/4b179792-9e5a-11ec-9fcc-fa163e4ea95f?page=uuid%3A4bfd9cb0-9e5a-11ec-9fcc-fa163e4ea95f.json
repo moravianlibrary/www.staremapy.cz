@@ -1,0 +1,121 @@
+{
+  "date": ["1914"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:4b179792-9e5a-11ec-9fcc-fa163e4ea95f?page=uuid%3A4bfd9cb0-9e5a-11ec-9fcc-fa163e4ea95f",
+  "description": "Dukelský průsmyk (Polsko a Slovensko)",
+  "scale": 75000,
+  "external_id": "1305496",
+  "title": "Dukla-Pasz",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    21.29077,
+    49.21899,
+    21.864689,
+    49.52385
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:4b179792-9e5a-11ec-9fcc-fa163e4ea95f",
+  "id": "874e686b-c839-5911-849f-8bacd72b2957",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:53:05.368810+00:00",
+    "transformation_method": "affine",
+    "mapID": "874e686b-c839-5911-849f-8bacd72b2957",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:53:05.368810+00:00",
+    "gcps": [
+      {
+        "location": [
+          21.698288227337876,
+          49.375043216982334
+        ],
+        "pixel": [
+          426,
+          217
+        ]
+      },
+      {
+        "location": [
+          21.402901200470623,
+          49.40533227283686
+        ],
+        "pixel": [
+          117,
+          171
+        ]
+      },
+      {
+        "location": [
+          21.626677849567088,
+          49.32824783864933
+        ],
+        "pixel": [
+          352,
+          286
+        ]
+      },
+      {
+        "location": [
+          21.50178959976112,
+          49.344865601679146
+        ],
+        "pixel": [
+          220,
+          261
+        ]
+      },
+      {
+        "location": [
+          21.783650731422124,
+          49.25892503969479
+        ],
+        "pixel": [
+          516,
+          386
+        ]
+      },
+      {
+        "location": [
+          21.362817324230644,
+          49.481394677640054
+        ],
+        "pixel": [
+          75,
+          60
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1914"]
+}

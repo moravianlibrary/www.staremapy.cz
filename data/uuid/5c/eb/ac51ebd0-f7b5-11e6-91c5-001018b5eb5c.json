@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": "Strimpl, Václav",
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.mzk.cz/search/iiif/uuid:ac51ebd0-f7b5-11e6-91c5-001018b5eb5c/info.json",
+  "description": "mapa z monografie: Epidemiologie, strana: [373]",
+  "scale": null,
+  "external_id": "uuid:ac51ebd0-f7b5-11e6-91c5-001018b5eb5c",
+  "title": "Epidemiologie, mapa ze strany: [373]",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:af1360a0-e7ad-11e6-8a71-005056827e52?page=uuid:ac51ebd0-f7b5-11e6-91c5-001018b5eb5c",
+  "georeference_is_finished": true,
+  "bounds": [
+    11.655053,
+    47.410057,
+    24.78659,
+    51.139812
+  ],
+  "reviewed": null,
+  "publisher": "Melantrich",
+  "link_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:af1360a0-e7ad-11e6-8a71-005056827e52?page=uuid:ac51ebd0-f7b5-11e6-91c5-001018b5eb5c",
+  "id": "650cd422-d851-453e-97b9-856bac917195",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        42,
+        106
+      ],
+      [
+        32,
+        1286
+      ],
+      [
+        2641,
+        1255
+      ],
+      [
+        2656,
+        98
+      ],
+      [
+        42,
+        106
+      ]
+    ],
+    "created": "2022-08-15T08:46:56.692391+00:00",
+    "transformation_method": "affine",
+    "mapID": "650cd422-d851-453e-97b9-856bac917195",
+    "affine_transformation": null,
+    "changed": "2022-08-15T08:55:59.589429+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.85491973644147,
+          47.82142189902399
+        ],
+        "pixel": [
+          1401,
+          1172
+        ]
+      },
+      {
+        "location": [
+          14.69565083444393,
+          48.58293530052089
+        ],
+        "pixel": [
+          548,
+          927
+        ]
+      },
+      {
+        "location": [
+          22.165958606944713,
+          48.41423119238391
+        ],
+        "pixel": [
+          2100,
+          970
+        ]
+      },
+      {
+        "location": [
+          17.732362100276553,
+          50.30582604379802
+        ],
+        "pixel": [
+          1179,
+          415
+        ]
+      },
+      {
+        "location": [
+          12.132874026560721,
+          50.31731652993068
+        ],
+        "pixel": [
+          63,
+          362
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1936"]
+}

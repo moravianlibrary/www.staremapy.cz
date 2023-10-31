@@ -1,0 +1,129 @@
+{
+  "date": ["1680"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:38037678-414c-11ec-86cb-fa163e4ea95f?page=uuid%3A3902b840-414c-11ec-86cb-fa163e4ea95f",
+  "description": "Štrasburk (Francie)",
+  "scale": 27000,
+  "external_id": "824840",
+  "title": "Plan de Strasbourg",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": true,
+  "contributor": "Crepy",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    7.70938,
+    48.5516,
+    7.825017,
+    48.605816
+  ],
+  "reviewed": null,
+  "publisher": "Crepy",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:38037678-414c-11ec-86cb-fa163e4ea95f",
+  "id": "84247a75-84df-5d87-a067-8c8e52e637aa",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        543,
+        53
+      ],
+      [
+        543,
+        391
+      ],
+      [
+        59,
+        389
+      ],
+      [
+        60,
+        144
+      ],
+      [
+        197,
+        144
+      ],
+      [
+        197,
+        52
+      ],
+      [
+        543,
+        53
+      ]
+    ],
+    "created": "2013-03-19T19:54:26.909280+00:00",
+    "transformation_method": "affine",
+    "mapID": "84247a75-84df-5d87-a067-8c8e52e637aa",
+    "affine_transformation": null,
+    "changed": "2013-03-19T19:54:26.909280+00:00",
+    "gcps": [
+      {
+        "location": [
+          7.744904235,
+          48.584314752
+        ],
+        "pixel": [
+          215,
+          188
+        ]
+      },
+      {
+        "location": [
+          7.737041815,
+          48.574415794
+        ],
+        "pixel": [
+          161,
+          259
+        ]
+      },
+      {
+        "location": [
+          7.756525381,
+          48.583075465
+        ],
+        "pixel": [
+          269,
+          195
+        ]
+      },
+      {
+        "location": [
+          7.742298944,
+          48.581286868
+        ],
+        "pixel": [
+          204,
+          205
+        ]
+      },
+      {
+        "location": [
+          7.744754031,
+          48.590489034
+        ],
+        "pixel": [
+          222,
+          155
+        ]
+      },
+      {
+        "location": [
+          7.764078481,
+          48.578958757
+        ],
+        "pixel": [
+          297,
+          224
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1680"]
+}

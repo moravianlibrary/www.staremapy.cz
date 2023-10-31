@@ -1,0 +1,111 @@
+{
+  "date": ["1915"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:7da4933a-9e60-11ec-82b4-fa163e4ea95f?page=uuid%3A7e72f6a8-9e60-11ec-82b4-fa163e4ea95f",
+  "description": "Ukrajina",
+  "scale": 75000,
+  "external_id": "1305670",
+  "title": "Kuźmin",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    26.332666,
+    49.247734,
+    26.829725,
+    49.50018
+  ],
+  "reviewed": null,
+  "publisher": "K. u k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:7da4933a-9e60-11ec-82b4-fa163e4ea95f",
+  "id": "d7e36b79-f130-516f-871f-d3c9ee6dddfb",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        39,
+        408
+      ],
+      [
+        565,
+        408
+      ],
+      [
+        565,
+        24
+      ],
+      [
+        39,
+        24
+      ],
+      [
+        39,
+        408
+      ]
+    ],
+    "created": "2017-03-05T15:16:21.819030+00:00",
+    "transformation_method": "affine",
+    "mapID": "d7e36b79-f130-516f-871f-d3c9ee6dddfb",
+    "affine_transformation": null,
+    "changed": "2017-03-05T15:16:21.819030+00:00",
+    "gcps": [
+      {
+        "location": [
+          26.420991626,
+          49.482291216
+        ],
+        "pixel": [
+          133,
+          50
+        ]
+      },
+      {
+        "location": [
+          26.733871725,
+          49.469384331
+        ],
+        "pixel": [
+          463,
+          70
+        ]
+      },
+      {
+        "location": [
+          26.346922284,
+          49.389239861
+        ],
+        "pixel": [
+          54,
+          193
+        ]
+      },
+      {
+        "location": [
+          26.52227438,
+          49.262534386
+        ],
+        "pixel": [
+          237,
+          385
+        ]
+      },
+      {
+        "location": [
+          26.775217419,
+          49.256624704
+        ],
+        "pixel": [
+          509,
+          398
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1915"]
+}

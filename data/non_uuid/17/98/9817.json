@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_2472/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "9817",
+  "title": "Kopie geometrického plánu ing. E. Bártíka z 27. 2. 1932 (parcelace pozemků) 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.693258,
+    48.99108,
+    14.739117,
+    49.008938
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/9817",
+  "id": "df7f3811-b7ee-5315-8acd-4061805670fc",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        617,
+        15790
+      ],
+      [
+        27561,
+        15790
+      ],
+      [
+        27561,
+        238
+      ],
+      [
+        617,
+        238
+      ],
+      [
+        617,
+        15790
+      ]
+    ],
+    "created": "2016-05-15T09:49:11.922690+00:00",
+    "transformation_method": "affine",
+    "mapID": "df7f3811-b7ee-5315-8acd-4061805670fc",
+    "affine_transformation": null,
+    "changed": "2016-05-15T09:49:11.922690+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.728538036,
+          49.000874612
+        ],
+        "pixel": [
+          21389,
+          7045
+        ]
+      },
+      {
+        "location": [
+          14.72988987,
+          49.001113925
+        ],
+        "pixel": [
+          22173,
+          6829
+        ]
+      },
+      {
+        "location": [
+          14.727229118,
+          49.005224293
+        ],
+        "pixel": [
+          20561,
+          3142
+        ]
+      },
+      {
+        "location": [
+          14.714132375,
+          49.000813381
+        ],
+        "pixel": [
+          12857,
+          7317
+        ]
+      },
+      {
+        "location": [
+          14.729868412,
+          48.999255701
+        ],
+        "pixel": [
+          22225,
+          8518
+        ]
+      },
+      {
+        "location": [
+          14.728216171,
+          49.001677009
+        ],
+        "pixel": [
+          21213,
+          6333
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1935"]
+}

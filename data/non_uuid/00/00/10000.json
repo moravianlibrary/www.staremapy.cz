@@ -1,0 +1,91 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_2655/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "10000",
+  "title": "Záměrná mapa dvora Žimutice 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.48453,
+    49.18136,
+    14.547151,
+    49.218052
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/10000",
+  "id": "ece3b296-e1b2-5d21-bc83-55b702f950a3",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        5344,
+        9824
+      ],
+      [
+        13568,
+        9824
+      ],
+      [
+        13568,
+        3040
+      ],
+      [
+        5344,
+        3040
+      ],
+      [
+        5344,
+        9824
+      ]
+    ],
+    "created": "2015-07-12T19:15:05.040190+00:00",
+    "transformation_method": "affine",
+    "mapID": "ece3b296-e1b2-5d21-bc83-55b702f950a3",
+    "affine_transformation": null,
+    "changed": "2015-07-12T19:15:05.040190+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.510204335,
+          49.204941205
+        ],
+        "pixel": [
+          8102,
+          5536
+        ]
+      },
+      {
+        "location": [
+          14.529776414,
+          49.200218165
+        ],
+        "pixel": [
+          11515,
+          5484
+        ]
+      },
+      {
+        "location": [
+          14.514034529,
+          49.195116076
+        ],
+        "pixel": [
+          9623,
+          7620
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

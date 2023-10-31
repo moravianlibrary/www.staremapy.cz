@@ -1,0 +1,121 @@
+{
+  "date": ["1878"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:8f91e9e0-9f4a-11ec-934b-fa163e4ea95f?page=uuid%3A90a5c78e-9f4a-11ec-934b-fa163e4ea95f",
+  "description": "Vídeň (Rakousko : oblast)",
+  "scale": 75000,
+  "external_id": "1331799",
+  "title": "Wien",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.332142,
+    47.997272,
+    16.83594,
+    48.25298
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:8f91e9e0-9f4a-11ec-934b-fa163e4ea95f",
+  "id": "8906cd92-bd19-5fad-bce7-67bd7e81e288",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        43,
+        402
+      ],
+      [
+        555,
+        403
+      ],
+      [
+        555,
+        31
+      ],
+      [
+        45,
+        31
+      ],
+      [
+        43,
+        402
+      ]
+    ],
+    "created": "2017-08-10T08:28:03.392440+00:00",
+    "transformation_method": "affine",
+    "mapID": "8906cd92-bd19-5fad-bce7-67bd7e81e288",
+    "affine_transformation": null,
+    "changed": "2017-08-10T08:28:03.392440+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.815425876,
+          48.220263914
+        ],
+        "pixel": [
+          536,
+          75
+        ]
+      },
+      {
+        "location": [
+          16.37957764,
+          48.254678496
+        ],
+        "pixel": [
+          96,
+          33
+        ]
+      },
+      {
+        "location": [
+          16.345030788,
+          48.095589255
+        ],
+        "pixel": [
+          54,
+          258
+        ]
+      },
+      {
+        "location": [
+          16.567546848,
+          48.246219915
+        ],
+        "pixel": [
+          284,
+          36
+        ]
+      },
+      {
+        "location": [
+          16.787874225,
+          48.019892685
+        ],
+        "pixel": [
+          508,
+          373
+        ]
+      },
+      {
+        "location": [
+          16.39082146,
+          48.00082911
+        ],
+        "pixel": [
+          101,
+          401
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1878"]
+}

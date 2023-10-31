@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plana_M_107/ImageProperties.xml",
+  "description": null,
+  "scale": 8640,
+  "external_id": "15457",
+  "title": "Hospodářská mapa revíru Planá",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.721891,
+    49.8285,
+    12.786376,
+    49.879917
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/15457",
+  "id": "ecf81b1a-89da-55cb-a2f8-9728052349f4",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        44,
+        15430
+      ],
+      [
+        11116,
+        15430
+      ],
+      [
+        11116,
+        70
+      ],
+      [
+        44,
+        70
+      ],
+      [
+        44,
+        15430
+      ]
+    ],
+    "created": "2016-06-12T13:20:06.558320+00:00",
+    "transformation_method": "affine",
+    "mapID": "ecf81b1a-89da-55cb-a2f8-9728052349f4",
+    "affine_transformation": null,
+    "changed": "2016-06-12T13:20:06.558320+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.733378172,
+          49.869514271
+        ],
+        "pixel": [
+          2057,
+          2493
+        ]
+      },
+      {
+        "location": [
+          12.736049652,
+          49.871059762
+        ],
+        "pixel": [
+          2657,
+          2085
+        ]
+      },
+      {
+        "location": [
+          12.734118462,
+          49.86743625
+        ],
+        "pixel": [
+          2089,
+          3133
+        ]
+      },
+      {
+        "location": [
+          12.744380593,
+          49.85050794
+        ],
+        "pixel": [
+          3535,
+          8745
+        ]
+      },
+      {
+        "location": [
+          12.765995102,
+          49.845781124
+        ],
+        "pixel": [
+          7602,
+          10649
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1922"]
+}

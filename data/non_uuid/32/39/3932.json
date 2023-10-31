@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_0278/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "3932",
+  "title": "Situační plán Mokrých luk propůjčených vrchností třeboňským měšťanům",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.756341,
+    48.99589,
+    14.797509,
+    49.030556
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/3932",
+  "id": "fd681a16-0368-5ca8-8bc7-3109269924a3",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        20716,
+        0
+      ],
+      [
+        20716,
+        15787
+      ],
+      [
+        0,
+        15787
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        20716,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:04:41.162940+00:00",
+    "transformation_method": "affine",
+    "mapID": "fd681a16-0368-5ca8-8bc7-3109269924a3",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:04:41.162940+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.76704669,
+          49.007395501
+        ],
+        "pixel": [
+          13919,
+          11716
+        ]
+      },
+      {
+        "location": [
+          14.786147407,
+          49.000364784
+        ],
+        "pixel": [
+          18050,
+          4076
+        ]
+      },
+      {
+        "location": [
+          14.777913783,
+          49.028688088
+        ],
+        "pixel": [
+          949,
+          7712
+        ]
+      },
+      {
+        "location": [
+          14.762690783,
+          49.026829847
+        ],
+        "pixel": [
+          2258,
+          13689
+        ]
+      },
+      {
+        "location": [
+          14.784513235,
+          49.010382917
+        ],
+        "pixel": [
+          12101,
+          4867
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1827"]
+}

@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/5321_03/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "46688",
+  "title": "Speciální mapa západního Ruska",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    30.325163,
+    51.24965,
+    31.386747,
+    51.719147
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/46688",
+  "id": "7f3e42ef-9319-5ba3-a571-ba67e16cc9ff",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        963,
+        11027
+      ],
+      [
+        14619,
+        11027
+      ],
+      [
+        14595,
+        1243
+      ],
+      [
+        943,
+        1211
+      ],
+      [
+        963,
+        11027
+      ]
+    ],
+    "created": "2015-01-29T10:01:02.346570+00:00",
+    "transformation_method": "affine",
+    "mapID": "7f3e42ef-9319-5ba3-a571-ba67e16cc9ff",
+    "affine_transformation": null,
+    "changed": "2015-01-29T10:01:02.346570+00:00",
+    "gcps": [
+      {
+        "location": [
+          31.012543957,
+          51.402987509
+        ],
+        "pixel": [
+          9851,
+          7791
+        ]
+      },
+      {
+        "location": [
+          31.292695324,
+          51.588623062
+        ],
+        "pixel": [
+          13399,
+          3847
+        ]
+      },
+      {
+        "location": [
+          31.293725292,
+          51.493495119
+        ],
+        "pixel": [
+          13535,
+          6071
+        ]
+      },
+      {
+        "location": [
+          30.788354199,
+          51.401166959
+        ],
+        "pixel": [
+          6955,
+          7789
+        ]
+      },
+      {
+        "location": [
+          30.85083894,
+          51.461955509
+        ],
+        "pixel": [
+          7661,
+          6665
+        ]
+      },
+      {
+        "location": [
+          30.5665677,
+          51.442486293
+        ],
+        "pixel": [
+          4039,
+          7028
+        ]
+      },
+      {
+        "location": [
+          30.658234875,
+          51.699620429
+        ],
+        "pixel": [
+          5114,
+          1639
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

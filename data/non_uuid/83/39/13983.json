@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Kout_na_Sumave_M_89-5/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "13983",
+  "title": "Katastrální mapa obce Blížejov ZS-XII-24 dh",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.9874525,
+    49.489014,
+    13.001443,
+    49.492805
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/13983",
+  "id": "c823cde2-40f3-543b-bbb8-103ee3d8800a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1596,
+        4370
+      ],
+      [
+        3508,
+        5015
+      ],
+      [
+        10147,
+        4967
+      ],
+      [
+        9370,
+        4359
+      ],
+      [
+        8266,
+        3333
+      ],
+      [
+        8355,
+        2314
+      ],
+      [
+        7129,
+        1660
+      ],
+      [
+        6665,
+        1260
+      ],
+      [
+        1645,
+        1276
+      ],
+      [
+        1596,
+        4370
+      ]
+    ],
+    "created": "2015-05-10T22:55:16.767960+00:00",
+    "transformation_method": "affine",
+    "mapID": "c823cde2-40f3-543b-bbb8-103ee3d8800a",
+    "affine_transformation": null,
+    "changed": "2015-05-10T22:55:16.767960+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.0004105,
+          49.489417985
+        ],
+        "pixel": [
+          9507,
+          4660
+        ]
+      },
+      {
+        "location": [
+          12.994744931966666,
+          49.492688535571176
+        ],
+        "pixel": [
+          5933,
+          1344
+        ]
+      },
+      {
+        "location": [
+          12.989000247302,
+          49.48976124843526
+        ],
+        "pixel": [
+          2535,
+          4212
+        ]
+      },
+      {
+        "location": [
+          12.990538742308045,
+          49.490984362102324
+        ],
+        "pixel": [
+          3445,
+          3108
+        ]
+      },
+      {
+        "location": [
+          12.990849878553773,
+          49.49075089651876
+        ],
+        "pixel": [
+          3615,
+          3302
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1935"]
+}

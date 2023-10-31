@@ -1,0 +1,119 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_2506/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "9851",
+  "title": "Mapa pronajatých pozemků dvora Mysletín 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.566675,
+    48.913338,
+    14.607382,
+    48.942722
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/9851",
+  "id": "70504ef3-f731-571c-ae07-2cc44af1d1f9",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        7280,
+        13440
+      ],
+      [
+        14704,
+        13440
+      ],
+      [
+        14704,
+        256
+      ],
+      [
+        7280,
+        256
+      ],
+      [
+        6928,
+        3712
+      ],
+      [
+        2784,
+        9952
+      ],
+      [
+        7280,
+        13440
+      ]
+    ],
+    "created": "2015-06-14T10:09:13.046060+00:00",
+    "transformation_method": "affine",
+    "mapID": "70504ef3-f731-571c-ae07-2cc44af1d1f9",
+    "affine_transformation": null,
+    "changed": "2015-06-14T10:09:13.046060+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.586398297,
+          48.936664026
+        ],
+        "pixel": [
+          8536,
+          3025
+        ]
+      },
+      {
+        "location": [
+          14.595576815,
+          48.92405763
+        ],
+        "pixel": [
+          11352,
+          8662
+        ]
+      },
+      {
+        "location": [
+          14.573335771,
+          48.920269887
+        ],
+        "pixel": [
+          4772,
+          10446
+        ]
+      },
+      {
+        "location": [
+          14.597717051,
+          48.920671736
+        ],
+        "pixel": [
+          12044,
+          10157
+        ]
+      },
+      {
+        "location": [
+          14.592712215,
+          48.937449838
+        ],
+        "pixel": [
+          10364,
+          2547
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1865"]
+}

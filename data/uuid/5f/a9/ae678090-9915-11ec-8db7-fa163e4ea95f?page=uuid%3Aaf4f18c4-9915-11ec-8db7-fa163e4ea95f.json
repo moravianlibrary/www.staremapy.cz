@@ -1,0 +1,121 @@
+{
+  "date": ["1922"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:ae678090-9915-11ec-8db7-fa163e4ea95f?page=uuid%3Aaf4f18c4-9915-11ec-8db7-fa163e4ea95f",
+  "description": "Kralovice (Plzeň-sever, Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1292492",
+  "title": "Kralovice",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.328761,
+    49.74209,
+    13.837846,
+    50.00028
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:ae678090-9915-11ec-8db7-fa163e4ea95f",
+  "id": "2f3cc4e1-fb7e-5ffe-9ecd-780cfb2d8661",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        555,
+        42
+      ],
+      [
+        552,
+        400
+      ],
+      [
+        46,
+        402
+      ],
+      [
+        48,
+        37
+      ],
+      [
+        555,
+        42
+      ]
+    ],
+    "created": "2015-11-05T16:43:31.591510+00:00",
+    "transformation_method": "affine",
+    "mapID": "2f3cc4e1-fb7e-5ffe-9ecd-780cfb2d8661",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:43:31.591510+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.377080943317326,
+          49.74843696574979
+        ],
+        "pixel": [
+          94,
+          393
+        ]
+      },
+      {
+        "location": [
+          13.517897015380832,
+          49.915524144362905
+        ],
+        "pixel": [
+          233,
+          161
+        ]
+      },
+      {
+        "location": [
+          13.757231923856775,
+          49.82003714797645
+        ],
+        "pixel": [
+          477,
+          298
+        ]
+      },
+      {
+        "location": [
+          13.669995193377956,
+          49.959648940627034
+        ],
+        "pixel": [
+          387,
+          96
+        ]
+      },
+      {
+        "location": [
+          13.556235409558106,
+          49.927797660400216
+        ],
+        "pixel": [
+          274,
+          139
+        ]
+      },
+      {
+        "location": [
+          13.489201810441697,
+          49.98097844901167
+        ],
+        "pixel": [
+          204,
+          68
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1922"]
+}

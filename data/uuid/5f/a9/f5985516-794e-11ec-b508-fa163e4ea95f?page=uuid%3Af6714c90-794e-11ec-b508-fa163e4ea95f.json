@@ -1,0 +1,125 @@
+{
+  "date": ["1940"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:f5985516-794e-11ec-b508-fa163e4ea95f?page=uuid%3Af6714c90-794e-11ec-b508-fa163e4ea95f",
+  "description": "Jablonec nad Nisou (Česko : oblast)",
+  "scale": 25000,
+  "external_id": "1124951",
+  "title": "[Kartenblatt]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.085002,
+    50.624187,
+    15.333312,
+    50.74901
+  ],
+  "reviewed": null,
+  "publisher": "Reichsamt für Landesaufnahme",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:f5985516-794e-11ec-b508-fa163e4ea95f",
+  "id": "7fde078e-20fd-52d3-83e1-ace956cbe567",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        42,
+        40
+      ],
+      [
+        498,
+        41
+      ],
+      [
+        498,
+        382
+      ],
+      [
+        40,
+        380
+      ],
+      [
+        42,
+        160
+      ],
+      [
+        42,
+        40
+      ]
+    ],
+    "created": "2015-11-09T16:57:20.337570+00:00",
+    "transformation_method": "affine",
+    "mapID": "7fde078e-20fd-52d3-83e1-ace956cbe567",
+    "affine_transformation": null,
+    "changed": "2015-11-09T16:57:20.337570+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.111903581,
+          50.633525792
+        ],
+        "pixel": [
+          90,
+          356
+        ]
+      },
+      {
+        "location": [
+          15.188464555,
+          50.734295892
+        ],
+        "pixel": [
+          231,
+          80
+        ]
+      },
+      {
+        "location": [
+          15.169281396,
+          50.675208749
+        ],
+        "pixel": [
+          195,
+          239
+        ]
+      },
+      {
+        "location": [
+          15.286847982,
+          50.736428051
+        ],
+        "pixel": [
+          413,
+          75
+        ]
+      },
+      {
+        "location": [
+          15.299915704,
+          50.633553012
+        ],
+        "pixel": [
+          436,
+          357
+        ]
+      },
+      {
+        "location": [
+          15.18464509,
+          50.681680981
+        ],
+        "pixel": [
+          225,
+          223
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1940"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/0579_08/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "22798",
+  "title": "Plan der Haupstadt Prag 9",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.418733,
+    50.083824,
+    14.43173,
+    50.090717
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/22798",
+  "id": "fec7f06d-2a12-5b02-9f1d-095ecda5488a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        716,
+        13170
+      ],
+      [
+        16204,
+        13170
+      ],
+      [
+        16204,
+        706
+      ],
+      [
+        716,
+        706
+      ],
+      [
+        716,
+        13170
+      ]
+    ],
+    "created": "2015-07-27T08:26:32.615080+00:00",
+    "transformation_method": "affine",
+    "mapID": "fec7f06d-2a12-5b02-9f1d-095ecda5488a",
+    "affine_transformation": null,
+    "changed": "2015-07-27T08:26:32.615080+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.428932667,
+          50.087169633
+        ],
+        "pixel": [
+          12932,
+          7184
+        ]
+      },
+      {
+        "location": [
+          14.421711716,
+          50.088147021
+        ],
+        "pixel": [
+          4272,
+          5336
+        ]
+      },
+      {
+        "location": [
+          14.424173984,
+          50.090208647
+        ],
+        "pixel": [
+          7152,
+          1544
+        ]
+      },
+      {
+        "location": [
+          14.425764303,
+          50.085494428
+        ],
+        "pixel": [
+          9124,
+          10166
+        ]
+      },
+      {
+        "location": [
+          14.429310183,
+          50.084485898
+        ],
+        "pixel": [
+          13276,
+          12030
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

@@ -1,0 +1,111 @@
+{
+  "date": ["1876"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:1ef25f66-5eaf-11ec-b97b-fa163e4ea95f?page=uuid%3A1fc1ced6-5eaf-11ec-b97b-fa163e4ea95f",
+  "description": "Čechy (Česko)",
+  "scale": 25000,
+  "external_id": "1065696",
+  "title": "Gradkartenblatt",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Fromm, Hermann",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.331593,
+    49.872616,
+    16.585703,
+    50.000305
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:1ef25f66-5eaf-11ec-b97b-fa163e4ea95f",
+  "id": "f41b28f5-b00e-53c2-a4dc-f6b44eafcefa",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        17,
+        44
+      ],
+      [
+        553,
+        44
+      ],
+      [
+        554,
+        434
+      ],
+      [
+        13,
+        435
+      ],
+      [
+        17,
+        44
+      ]
+    ],
+    "created": "2014-12-13T19:23:36.408240+00:00",
+    "transformation_method": "affine",
+    "mapID": "f41b28f5-b00e-53c2-a4dc-f6b44eafcefa",
+    "affine_transformation": null,
+    "changed": "2014-12-13T19:23:36.408240+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.383452222,
+          49.971415856
+        ],
+        "pixel": [
+          121,
+          131
+        ]
+      },
+      {
+        "location": [
+          16.447310254,
+          49.992885304
+        ],
+        "pixel": [
+          258,
+          66
+        ]
+      },
+      {
+        "location": [
+          16.450056836,
+          49.899984533
+        ],
+        "pixel": [
+          265,
+          352
+        ]
+      },
+      {
+        "location": [
+          16.396155164,
+          49.989574446
+        ],
+        "pixel": [
+          151,
+          75
+        ]
+      },
+      {
+        "location": [
+          16.417097852,
+          49.986925595
+        ],
+        "pixel": [
+          194,
+          84
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1876"]
+}

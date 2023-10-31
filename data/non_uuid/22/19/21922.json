@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Tachov_M_41_3/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "21922",
+  "title": "Katastrální mapa obce Žebráky",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.507613,
+    49.701824,
+    12.536029,
+    49.706417
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/21922",
+  "id": "b2fb979f-9332-5848-bb50-5688179764e9",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        632,
+        528
+      ],
+      [
+        600,
+        4576
+      ],
+      [
+        17128,
+        4464
+      ],
+      [
+        17080,
+        432
+      ],
+      [
+        632,
+        528
+      ]
+    ],
+    "created": "2015-04-22T10:28:59.013140+00:00",
+    "transformation_method": "affine",
+    "mapID": "b2fb979f-9332-5848-bb50-5688179764e9",
+    "affine_transformation": null,
+    "changed": "2015-04-22T10:28:59.013140+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.529948692,
+          49.704055171
+        ],
+        "pixel": [
+          4118,
+          2322
+        ]
+      },
+      {
+        "location": [
+          12.515375018,
+          49.704660538
+        ],
+        "pixel": [
+          12725,
+          3097
+        ]
+      },
+      {
+        "location": [
+          12.512488961,
+          49.703127075
+        ],
+        "pixel": [
+          14302,
+          1710
+        ]
+      },
+      {
+        "location": [
+          12.511464357,
+          49.703536465
+        ],
+        "pixel": [
+          14950,
+          2078
+        ]
+      },
+      {
+        "location": [
+          12.508634627,
+          49.702478287
+        ],
+        "pixel": [
+          16886,
+          1022
+        ]
+      },
+      {
+        "location": [
+          12.514377236,
+          49.703585037
+        ],
+        "pixel": [
+          13262,
+          2102
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1908"]
+}

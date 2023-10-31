@@ -1,0 +1,121 @@
+{
+  "date": ["1788"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:c4ff8766-3be2-11ec-9c85-fa163e4ea95f?page=uuid%3Ac6243b14-3be2-11ec-9c85-fa163e4ea95f",
+  "description": "Litva",
+  "scale": 1250000,
+  "external_id": "809690",
+  "title": "Generalkarte von Polen, Litauen und den angraenzenden Laendern",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Follin, Bartolomeo",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.337754,
+    47.239902,
+    33.695427,
+    56.816708
+  ],
+  "reviewed": null,
+  "publisher": "F.A. Schraembl",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:c4ff8766-3be2-11ec-9c85-fa163e4ea95f",
+  "id": "a7bff20a-3362-51b2-8d79-24210c87db68",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2014-08-18T18:51:01.595150+00:00",
+    "transformation_method": "affine",
+    "mapID": "a7bff20a-3362-51b2-8d79-24210c87db68",
+    "affine_transformation": null,
+    "changed": "2014-08-18T18:51:01.595150+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.650554053,
+          54.346828878
+        ],
+        "pixel": [
+          113,
+          122
+        ]
+      },
+      {
+        "location": [
+          30.202334753,
+          55.186784127
+        ],
+        "pixel": [
+          477,
+          78
+        ]
+      },
+      {
+        "location": [
+          17.329448096,
+          50.480096223
+        ],
+        "pixel": [
+          53,
+          300
+        ]
+      },
+      {
+        "location": [
+          21.147197119,
+          55.702236171
+        ],
+        "pixel": [
+          199,
+          63
+        ]
+      },
+      {
+        "location": [
+          23.894809119,
+          47.928624539
+        ],
+        "pixel": [
+          276,
+          417
+        ]
+      },
+      {
+        "location": [
+          30.544284217,
+          50.473760106
+        ],
+        "pixel": [
+          507,
+          305
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1788"]
+}

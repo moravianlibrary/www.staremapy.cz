@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/1348/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "29072",
+  "title": "Karte des Wienerwaldes",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.806255,
+    47.88522,
+    16.478018,
+    48.419365
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/29072",
+  "id": "88de5f78-88e0-5764-9c84-dac967689285",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        433,
+        18935
+      ],
+      [
+        15793,
+        18935
+      ],
+      [
+        15793,
+        375
+      ],
+      [
+        433,
+        375
+      ],
+      [
+        433,
+        18935
+      ]
+    ],
+    "created": "2016-04-24T12:39:07.333500+00:00",
+    "transformation_method": "affine",
+    "mapID": "88de5f78-88e0-5764-9c84-dac967689285",
+    "affine_transformation": null,
+    "changed": "2016-04-24T12:39:07.333500+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.379925907,
+          48.196573817
+        ],
+        "pixel": [
+          13619,
+          8055
+        ]
+      },
+      {
+        "location": [
+          16.373024583,
+          48.208562065
+        ],
+        "pixel": [
+          13445,
+          7627
+        ]
+      },
+      {
+        "location": [
+          16.386933612,
+          47.909220314
+        ],
+        "pixel": [
+          13920,
+          18127
+        ]
+      },
+      {
+        "location": [
+          16.425986575,
+          48.363207801
+        ],
+        "pixel": [
+          14612,
+          2206
+        ]
+      },
+      {
+        "location": [
+          15.838578344,
+          48.343282017
+        ],
+        "pixel": [
+          968,
+          3051
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

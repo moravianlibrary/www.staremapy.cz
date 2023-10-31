@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plasy_M_102_6/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "19957",
+  "title": "Katastrální mapa obce Bílov",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.410058,
+    50.008015,
+    13.426002,
+    50.014572
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/19957",
+  "id": "ac91fd3c-1dda-5677-afa8-76348adef050",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1199,
+        6381
+      ],
+      [
+        10479,
+        6381
+      ],
+      [
+        10479,
+        541
+      ],
+      [
+        1199,
+        541
+      ],
+      [
+        1199,
+        6381
+      ]
+    ],
+    "created": "2015-04-26T19:23:04.170310+00:00",
+    "transformation_method": "affine",
+    "mapID": "ac91fd3c-1dda-5677-afa8-76348adef050",
+    "affine_transformation": null,
+    "changed": "2015-04-26T19:23:04.170310+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.424839177,
+          50.012904656
+        ],
+        "pixel": [
+          9840,
+          2064
+        ]
+      },
+      {
+        "location": [
+          13.411186733,
+          50.011405076
+        ],
+        "pixel": [
+          1836,
+          3316
+        ]
+      },
+      {
+        "location": [
+          13.416266837,
+          50.010081271
+        ],
+        "pixel": [
+          4800,
+          4544
+        ]
+      },
+      {
+        "location": [
+          13.419083156,
+          50.012053176
+        ],
+        "pixel": [
+          6454,
+          2754
+        ]
+      },
+      {
+        "location": [
+          13.416293659,
+          50.008936701
+        ],
+        "pixel": [
+          4796,
+          5596
+        ]
+      },
+      {
+        "location": [
+          13.413589992,
+          50.008888435
+        ],
+        "pixel": [
+          3232,
+          5616
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1930"]
+}

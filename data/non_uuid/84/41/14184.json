@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Kout_na_Sumave_M_161/ImageProperties.xml",
+  "description": null,
+  "scale": 5747,
+  "external_id": "14184",
+  "title": "Porostní mapa revíru Capartice",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.761684,
+    49.39885,
+    12.811238,
+    49.44619
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/14184",
+  "id": "eaec4a9c-b428-5e15-b77c-1143e5a7a5f4",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        14253,
+        0
+      ],
+      [
+        14253,
+        20429
+      ],
+      [
+        0,
+        20429
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        14253,
+        0
+      ]
+    ],
+    "created": "2014-11-25T16:34:19.775590+00:00",
+    "transformation_method": "affine",
+    "mapID": "eaec4a9c-b428-5e15-b77c-1143e5a7a5f4",
+    "affine_transformation": null,
+    "changed": "2014-11-25T16:34:19.775590+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.768470168,
+          49.43057448
+        ],
+        "pixel": [
+          1860,
+          6510
+        ]
+      },
+      {
+        "location": [
+          12.773877501,
+          49.413518012
+        ],
+        "pixel": [
+          3385,
+          14113
+        ]
+      },
+      {
+        "location": [
+          12.804733634,
+          49.411647302
+        ],
+        "pixel": [
+          12395,
+          15113
+        ]
+      },
+      {
+        "location": [
+          12.786836062,
+          49.431817788
+        ],
+        "pixel": [
+          7301,
+          6081
+        ]
+      },
+      {
+        "location": [
+          12.798566894,
+          49.419449663
+        ],
+        "pixel": [
+          10688,
+          11670
+        ]
+      },
+      {
+        "location": [
+          12.791380657,
+          49.439294466
+        ],
+        "pixel": [
+          8711,
+          2939
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1920"]
+}

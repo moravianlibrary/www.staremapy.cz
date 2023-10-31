@@ -1,0 +1,121 @@
+{
+  "date": ["1917"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:e695ae58-9e27-11ec-8a0f-fa163e4ea95f?page=uuid%3Ae750096a-9e27-11ec-8a0f-fa163e4ea95f",
+  "description": null,
+  "scale": 200000,
+  "external_id": "1304075",
+  "title": "29°46° Trient",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    10.8288555,
+    45.50007,
+    11.8510275,
+    46.505367
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:e695ae58-9e27-11ec-8a0f-fa163e4ea95f",
+  "id": "4cad15c5-d345-53aa-9af9-f87217833937",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        56,
+        403
+      ],
+      [
+        557,
+        403
+      ],
+      [
+        557,
+        28
+      ],
+      [
+        56,
+        28
+      ],
+      [
+        56,
+        403
+      ]
+    ],
+    "created": "2016-07-15T13:34:25.134700+00:00",
+    "transformation_method": "affine",
+    "mapID": "4cad15c5-d345-53aa-9af9-f87217833937",
+    "affine_transformation": null,
+    "changed": "2016-07-15T13:34:25.134700+00:00",
+    "gcps": [
+      {
+        "location": [
+          11.734555244,
+          45.931451621
+        ],
+        "pixel": [
+          497,
+          242
+        ]
+      },
+      {
+        "location": [
+          11.552594185,
+          45.552163009
+        ],
+        "pixel": [
+          410,
+          383
+        ]
+      },
+      {
+        "location": [
+          10.916417122,
+          46.357234205
+        ],
+        "pixel": [
+          101,
+          83
+        ]
+      },
+      {
+        "location": [
+          11.722195625,
+          45.772191248
+        ],
+        "pixel": [
+          499,
+          302
+        ]
+      },
+      {
+        "location": [
+          11.105931282,
+          46.079064027
+        ],
+        "pixel": [
+          194,
+          190
+        ]
+      },
+      {
+        "location": [
+          11.271756172,
+          46.008764754
+        ],
+        "pixel": [
+          267,
+          213
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1917"]
+}

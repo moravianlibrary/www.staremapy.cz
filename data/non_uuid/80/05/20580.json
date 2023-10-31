@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/orlik_1143/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "20580",
+  "title": "Těchnice, Korce a Lub, okr. Příbram, list 3 list 3",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.127208,
+    49.552505,
+    14.139524,
+    49.566036
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/20580",
+  "id": "6e5b23be-97d9-5c0b-8003-4599972adcf7",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        8451,
+        12298
+      ],
+      [
+        15555,
+        12298
+      ],
+      [
+        15555,
+        74
+      ],
+      [
+        8451,
+        74
+      ],
+      [
+        8451,
+        12298
+      ]
+    ],
+    "created": "2017-01-08T11:19:32.317420+00:00",
+    "transformation_method": "affine",
+    "mapID": "6e5b23be-97d9-5c0b-8003-4599972adcf7",
+    "affine_transformation": null,
+    "changed": "2017-01-08T11:19:32.317420+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.13271606,
+          49.559488949
+        ],
+        "pixel": [
+          11639,
+          5970
+        ]
+      },
+      {
+        "location": [
+          14.129964113,
+          49.565115257
+        ],
+        "pixel": [
+          9956,
+          903
+        ]
+      },
+      {
+        "location": [
+          14.135092497,
+          49.563243373
+        ],
+        "pixel": [
+          12999,
+          2581
+        ]
+      },
+      {
+        "location": [
+          14.135671854,
+          49.554645003
+        ],
+        "pixel": [
+          13382,
+          10390
+        ]
+      },
+      {
+        "location": [
+          14.139384031,
+          49.555901274
+        ],
+        "pixel": [
+          15530,
+          9209
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1840"]
+}

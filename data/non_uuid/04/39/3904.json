@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_0250_400dpi/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "3904",
+  "title": "Geometrický plán lesů Kalinová, Lejsek a Zemanský v polesí Zámecký",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.702785,
+    48.9361,
+    14.769795,
+    48.965233
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/3904",
+  "id": "43e4b382-4f56-541f-92b0-5e21ea9397ab",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        26515,
+        0
+      ],
+      [
+        26515,
+        14717
+      ],
+      [
+        0,
+        14717
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        26515,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:04:50.179930+00:00",
+    "transformation_method": "affine",
+    "mapID": "43e4b382-4f56-541f-92b0-5e21ea9397ab",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:04:50.179930+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.724704714,
+          48.948816204
+        ],
+        "pixel": [
+          17903,
+          5234
+        ]
+      },
+      {
+        "location": [
+          14.74680649,
+          48.9501346
+        ],
+        "pixel": [
+          8775,
+          7926
+        ]
+      },
+      {
+        "location": [
+          14.752000332,
+          48.954219069
+        ],
+        "pixel": [
+          7049,
+          10956
+        ]
+      },
+      {
+        "location": [
+          14.753277063,
+          48.940690417
+        ],
+        "pixel": [
+          4795,
+          2146
+        ]
+      },
+      {
+        "location": [
+          14.714213371,
+          48.962066824
+        ],
+        "pixel": [
+          24059,
+          13000
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1798"]
+}

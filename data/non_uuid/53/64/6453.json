@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/huav/III_vojenske_mapovani/25/4465_3_01/ImageProperties.xml",
+  "description": null,
+  "scale": 25000,
+  "external_id": "6453",
+  "title": "III. vojenské mapování 4465/3",
+  "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    20.33039,
+    48.744736,
+    20.580662,
+    48.87182
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/6453",
+  "id": "dab23058-41c4-5fe2-908d-7938397f7cc5",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        34,
+        8983
+      ],
+      [
+        11602,
+        8939
+      ],
+      [
+        11580,
+        206
+      ],
+      [
+        38,
+        249
+      ],
+      [
+        34,
+        8983
+      ]
+    ],
+    "created": "2014-12-06T23:46:12.764220+00:00",
+    "transformation_method": "affine",
+    "mapID": "dab23058-41c4-5fe2-908d-7938397f7cc5",
+    "affine_transformation": null,
+    "changed": "2022-10-29T06:11:50.382553+00:00",
+    "gcps": [
+      {
+        "location": [
+          20.502994702,
+          48.843899228
+        ],
+        "pixel": [
+          7986,
+          2322
+        ]
+      },
+      {
+        "location": [
+          20.424933902,
+          48.803757787
+        ],
+        "pixel": [
+          4500,
+          4216
+        ]
+      },
+      {
+        "location": [
+          20.366623149,
+          48.819983057
+        ],
+        "pixel": [
+          1666,
+          4004
+        ]
+      },
+      {
+        "location": [
+          20.417614625,
+          48.758758643
+        ],
+        "pixel": [
+          4039,
+          8264
+        ]
+      },
+      {
+        "location": [
+          20.380643056,
+          48.860870476
+        ],
+        "pixel": [
+          2362,
+          1092
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1937"]
+}

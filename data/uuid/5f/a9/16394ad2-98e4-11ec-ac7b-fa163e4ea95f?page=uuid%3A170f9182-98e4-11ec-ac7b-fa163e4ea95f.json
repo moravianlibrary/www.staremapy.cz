@@ -1,0 +1,141 @@
+{
+  "date": ["1882"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:16394ad2-98e4-11ec-ac7b-fa163e4ea95f?page=uuid%3A170f9182-98e4-11ec-ac7b-fa163e4ea95f",
+  "description": "Klagenfurt-oblast (Rakousko)",
+  "scale": 300000,
+  "external_id": "1289251",
+  "title": "Klagenfurt (Villach)",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.350819,
+    46.523,
+    15.310836,
+    47.699524
+  ],
+  "reviewed": null,
+  "publisher": "K. k. militär. geografisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:16394ad2-98e4-11ec-ac7b-fa163e4ea95f",
+  "id": "36bd80c4-51d5-5eaa-bad7-2ed4bade6bbe",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        66,
+        43
+      ],
+      [
+        546,
+        42
+      ],
+      [
+        542,
+        400
+      ],
+      [
+        63,
+        402
+      ],
+      [
+        66,
+        43
+      ]
+    ],
+    "created": "2017-11-19T06:33:28.958280+00:00",
+    "transformation_method": "affine",
+    "mapID": "36bd80c4-51d5-5eaa-bad7-2ed4bade6bbe",
+    "affine_transformation": null,
+    "changed": "2017-11-19T06:33:28.958280+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.472860295,
+          47.385843466
+        ],
+        "pixel": [
+          92,
+          131
+        ]
+      },
+      {
+        "location": [
+          14.101977784,
+          47.50489714
+        ],
+        "pixel": [
+          252,
+          98
+        ]
+      },
+      {
+        "location": [
+          14.307552457,
+          46.623888544
+        ],
+        "pixel": [
+          288,
+          376
+        ]
+      },
+      {
+        "location": [
+          14.868842244,
+          46.881784322
+        ],
+        "pixel": [
+          435,
+          299
+        ]
+      },
+      {
+        "location": [
+          14.628044248,
+          46.645930303
+        ],
+        "pixel": [
+          372,
+          371
+        ]
+      },
+      {
+        "location": [
+          13.391192395,
+          47.416343615
+        ],
+        "pixel": [
+          72,
+          119
+        ]
+      },
+      {
+        "location": [
+          13.555944402,
+          47.457273184
+        ],
+        "pixel": [
+          115,
+          106
+        ]
+      },
+      {
+        "location": [
+          13.856426358,
+          46.618700943
+        ],
+        "pixel": [
+          173,
+          376
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1882"]
+}

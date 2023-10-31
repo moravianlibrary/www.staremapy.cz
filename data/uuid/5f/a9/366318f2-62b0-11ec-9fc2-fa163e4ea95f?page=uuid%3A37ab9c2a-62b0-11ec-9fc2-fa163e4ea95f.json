@@ -1,0 +1,111 @@
+{
+  "date": ["1879"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:366318f2-62b0-11ec-9fc2-fa163e4ea95f?page=uuid%3A37ab9c2a-62b0-11ec-9fc2-fa163e4ea95f",
+  "description": "Blovice-oblast (Česko)",
+  "scale": 25000,
+  "external_id": "1089010",
+  "title": "Gradkartenblatt",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Scheiner, Emanuel",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.334381,
+    49.49936,
+    13.583891,
+    49.624096
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:366318f2-62b0-11ec-9fc2-fa163e4ea95f",
+  "id": "a21e6a5e-d7af-5016-b6a0-c34d74ac57b0",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        19,
+        427
+      ],
+      [
+        548,
+        427
+      ],
+      [
+        548,
+        50
+      ],
+      [
+        19,
+        50
+      ],
+      [
+        19,
+        427
+      ]
+    ],
+    "created": "2014-12-26T20:15:42.042320+00:00",
+    "transformation_method": "affine",
+    "mapID": "a21e6a5e-d7af-5016-b6a0-c34d74ac57b0",
+    "affine_transformation": null,
+    "changed": "2014-12-26T20:15:42.042320+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.531023604,
+          49.584829232
+        ],
+        "pixel": [
+          438,
+          169
+        ]
+      },
+      {
+        "location": [
+          13.354126555,
+          49.613756511
+        ],
+        "pixel": [
+          61,
+          79
+        ]
+      },
+      {
+        "location": [
+          13.516711337,
+          49.606929551
+        ],
+        "pixel": [
+          407,
+          102
+        ]
+      },
+      {
+        "location": [
+          13.572951895,
+          49.551708697
+        ],
+        "pixel": [
+          526,
+          269
+        ]
+      },
+      {
+        "location": [
+          13.374168021,
+          49.518356733
+        ],
+        "pixel": [
+          102,
+          370
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1879"]
+}

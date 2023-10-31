@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/domousice_0465/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "16161",
+  "title": "Kopie katastrální mapy obce Milý z roku 1841, list V 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.820718,
+    50.219975,
+    13.849503,
+    50.235073
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/16161",
+  "id": "88168a00-b922-504a-86c4-ddd5ebee9add",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        16617,
+        0
+      ],
+      [
+        16617,
+        13692
+      ],
+      [
+        0,
+        13692
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        16617,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:30:45.285140+00:00",
+    "transformation_method": "affine",
+    "mapID": "88168a00-b922-504a-86c4-ddd5ebee9add",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:30:45.285140+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.83800292,
+          50.222200177
+        ],
+        "pixel": [
+          9965,
+          11665
+        ]
+      },
+      {
+        "location": [
+          13.833952785,
+          50.221874115
+        ],
+        "pixel": [
+          7628,
+          11971
+        ]
+      },
+      {
+        "location": [
+          13.828363061,
+          50.23373447
+        ],
+        "pixel": [
+          4424,
+          1198
+        ]
+      },
+      {
+        "location": [
+          13.828282595,
+          50.222560559
+        ],
+        "pixel": [
+          4317,
+          11349
+        ]
+      },
+      {
+        "location": [
+          13.846929312,
+          50.223027335
+        ],
+        "pixel": [
+          15130,
+          10943
+        ]
+      },
+      {
+        "location": [
+          13.833577275,
+          50.222927802
+        ],
+        "pixel": [
+          7416,
+          11035
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1841"]
+}

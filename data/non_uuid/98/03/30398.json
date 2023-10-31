@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_rychmburk_0331/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "30398",
+  "title": "Katastrální mapa pro obec Rychmburk",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.010197,
+    49.80787,
+    16.038443,
+    49.822937
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/30398",
+  "id": "6b2a19ea-a77c-5c7d-829f-d69f6b7d63d4",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1600,
+        14368
+      ],
+      [
+        17472,
+        14368
+      ],
+      [
+        17536,
+        1440
+      ],
+      [
+        1600,
+        1440
+      ],
+      [
+        1600,
+        14368
+      ]
+    ],
+    "created": "2015-05-08T17:41:31.153630+00:00",
+    "transformation_method": "affine",
+    "mapID": "6b2a19ea-a77c-5c7d-829f-d69f6b7d63d4",
+    "affine_transformation": null,
+    "changed": "2015-05-08T17:41:31.153630+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.03564144464644,
+          49.80963828439263
+        ],
+        "pixel": [
+          16382,
+          12818
+        ]
+      },
+      {
+        "location": [
+          16.034265148413166,
+          49.82145601276014
+        ],
+        "pixel": [
+          15138,
+          2164
+        ]
+      },
+      {
+        "location": [
+          16.031214115775988,
+          49.82090054950075
+        ],
+        "pixel": [
+          13371,
+          2763
+        ]
+      },
+      {
+        "location": [
+          16.032944483481963,
+          49.809760313237234
+        ],
+        "pixel": [
+          14803,
+          12776
+        ]
+      },
+      {
+        "location": [
+          16.019935111279217,
+          49.80976375672995
+        ],
+        "pixel": [
+          7232,
+          13113
+        ]
+      },
+      {
+        "location": [
+          16.030930827135755,
+          49.816412565007454
+        ],
+        "pixel": [
+          13370,
+          6815
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1887"]
+}

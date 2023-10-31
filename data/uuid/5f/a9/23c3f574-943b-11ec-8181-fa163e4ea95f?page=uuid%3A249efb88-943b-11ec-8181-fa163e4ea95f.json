@@ -1,0 +1,121 @@
+{
+  "date": ["1929"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:23c3f574-943b-11ec-8181-fa163e4ea95f?page=uuid%3A249efb88-943b-11ec-8181-fa163e4ea95f",
+  "description": "Václavovice (Ostrava, Česko)",
+  "scale": 10000,
+  "external_id": "1253876",
+  "title": "[Mapový list]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    18.331556,
+    49.749165,
+    18.39456,
+    49.780575
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:23c3f574-943b-11ec-8181-fa163e4ea95f",
+  "id": "1e546cce-fef3-59ad-9bf2-6d0f4b99ed6f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        534,
+        54
+      ],
+      [
+        533,
+        367
+      ],
+      [
+        90,
+        368
+      ],
+      [
+        92,
+        55
+      ],
+      [
+        534,
+        54
+      ]
+    ],
+    "created": "2015-11-05T16:11:51.234410+00:00",
+    "transformation_method": "affine",
+    "mapID": "1e546cce-fef3-59ad-9bf2-6d0f4b99ed6f",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:11:51.234410+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.391651573,
+          49.751828766
+        ],
+        "pixel": [
+          513,
+          341
+        ]
+      },
+      {
+        "location": [
+          18.365091852,
+          49.75529547
+        ],
+        "pixel": [
+          326,
+          306
+        ]
+      },
+      {
+        "location": [
+          18.364233545,
+          49.775475511
+        ],
+        "pixel": [
+          319,
+          104
+        ]
+      },
+      {
+        "location": [
+          18.38041263,
+          49.778302263
+        ],
+        "pixel": [
+          436,
+          76
+        ]
+      },
+      {
+        "location": [
+          18.338570024,
+          49.753592289
+        ],
+        "pixel": [
+          139,
+          325
+        ]
+      },
+      {
+        "location": [
+          18.342365016219986,
+          49.76121014879507
+        ],
+        "pixel": [
+          167,
+          249
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1929"]
+}

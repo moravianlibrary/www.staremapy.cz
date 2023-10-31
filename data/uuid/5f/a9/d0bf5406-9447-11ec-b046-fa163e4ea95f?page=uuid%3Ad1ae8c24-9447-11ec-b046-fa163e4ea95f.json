@@ -1,0 +1,111 @@
+{
+  "date": ["1914"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:d0bf5406-9447-11ec-b046-fa163e4ea95f?page=uuid%3Ad1ae8c24-9447-11ec-b046-fa163e4ea95f",
+  "description": "Brody (Ukrajina)",
+  "scale": 200000,
+  "external_id": "1254242",
+  "title": "Brody",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    24.817783,
+    49.497772,
+    25.839813,
+    50.500378
+  ],
+  "reviewed": null,
+  "publisher": "K.u.k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:d0bf5406-9447-11ec-b046-fa163e4ea95f",
+  "id": "163b65b8-0e98-53f8-ac27-ca8ace7e4a8a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        59,
+        406
+      ],
+      [
+        547,
+        405
+      ],
+      [
+        539,
+        22
+      ],
+      [
+        59,
+        22
+      ],
+      [
+        59,
+        406
+      ]
+    ],
+    "created": "2016-02-25T05:18:30.002110+00:00",
+    "transformation_method": "affine",
+    "mapID": "163b65b8-0e98-53f8-ac27-ca8ace7e4a8a",
+    "affine_transformation": null,
+    "changed": "2016-02-25T05:18:30.002110+00:00",
+    "gcps": [
+      {
+        "location": [
+          25.139602051,
+          49.66320372
+        ],
+        "pixel": [
+          210,
+          346
+        ]
+      },
+      {
+        "location": [
+          25.142348633,
+          50.082720862
+        ],
+        "pixel": [
+          210,
+          182
+        ]
+      },
+      {
+        "location": [
+          25.750888214,
+          50.418109083
+        ],
+        "pixel": [
+          496,
+          55
+        ]
+      },
+      {
+        "location": [
+          25.713723526,
+          50.097423876
+        ],
+        "pixel": [
+          483,
+          177
+        ]
+      },
+      {
+        "location": [
+          25.384047852,
+          49.799902263
+        ],
+        "pixel": [
+          329,
+          290
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1914"]
+}

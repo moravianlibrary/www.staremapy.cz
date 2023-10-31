@@ -1,0 +1,111 @@
+{
+  "date": ["1924"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:79a6b2bc-84f3-11ec-92c9-fa163e4ea95f?page=uuid%3A7bb0235e-84f3-11ec-92c9-fa163e4ea95f",
+  "description": "Varšava-oblast (Polsko)",
+  "scale": 100000,
+  "external_id": "1179614",
+  "title": "Mapa topograficzna okolic Warszawy",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    20.316973,
+    51.95379,
+    21.686314,
+    52.509846
+  ],
+  "reviewed": null,
+  "publisher": "Wojskowy instytut geograficzny",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:79a6b2bc-84f3-11ec-92c9-fa163e4ea95f",
+  "id": "9a0fdf51-80d5-5018-8dc1-02ab48ea1752",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        44,
+        390
+      ],
+      [
+        569,
+        390
+      ],
+      [
+        569,
+        35
+      ],
+      [
+        44,
+        35
+      ],
+      [
+        44,
+        390
+      ]
+    ],
+    "created": "2016-04-25T08:45:31.176450+00:00",
+    "transformation_method": "affine",
+    "mapID": "9a0fdf51-80d5-5018-8dc1-02ab48ea1752",
+    "affine_transformation": null,
+    "changed": "2016-04-25T08:45:31.176450+00:00",
+    "gcps": [
+      {
+        "location": [
+          20.934648798,
+          52.40654393
+        ],
+        "pixel": [
+          282,
+          101
+        ]
+      },
+      {
+        "location": [
+          20.445951093,
+          52.048675245
+        ],
+        "pixel": [
+          91,
+          328
+        ]
+      },
+      {
+        "location": [
+          20.427623732,
+          52.469765534
+        ],
+        "pixel": [
+          87,
+          59
+        ]
+      },
+      {
+        "location": [
+          21.622654463,
+          52.477885439
+        ],
+        "pixel": [
+          546,
+          54
+        ]
+      },
+      {
+        "location": [
+          21.215420822,
+          51.976161873
+        ],
+        "pixel": [
+          389,
+          379
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1924"]
+}

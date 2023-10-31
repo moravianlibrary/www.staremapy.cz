@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Tynec_M_18-1/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "15610",
+  "title": "Katastrální mapa obce Mochtín",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.355233,
+    49.35938,
+    13.371687,
+    49.372974
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/15610",
+  "id": "580c428b-3ca3-5139-b881-4ad57117c087",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        5438,
+        14077
+      ],
+      [
+        14494,
+        14077
+      ],
+      [
+        14494,
+        1821
+      ],
+      [
+        5438,
+        1821
+      ],
+      [
+        5438,
+        14077
+      ]
+    ],
+    "created": "2015-01-17T13:40:14.154060+00:00",
+    "transformation_method": "affine",
+    "mapID": "580c428b-3ca3-5139-b881-4ad57117c087",
+    "affine_transformation": null,
+    "changed": "2015-01-17T13:40:14.154060+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.359364271,
+          49.360177091
+        ],
+        "pixel": [
+          7378,
+          13356
+        ]
+      },
+      {
+        "location": [
+          13.360290183,
+          49.363999355
+        ],
+        "pixel": [
+          8021,
+          9906
+        ]
+      },
+      {
+        "location": [
+          13.357337802,
+          49.360205814
+        ],
+        "pixel": [
+          6199,
+          13337
+        ]
+      },
+      {
+        "location": [
+          13.369760513,
+          49.368278673
+        ],
+        "pixel": [
+          13723,
+          6070
+        ]
+      },
+      {
+        "location": [
+          13.360150336,
+          49.360478725
+        ],
+        "pixel": [
+          7775,
+          13100
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1843"]
+}

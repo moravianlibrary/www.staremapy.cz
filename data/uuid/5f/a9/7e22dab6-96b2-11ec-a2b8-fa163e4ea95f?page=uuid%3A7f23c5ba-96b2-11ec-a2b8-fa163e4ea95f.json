@@ -1,0 +1,111 @@
+{
+  "date": ["1937"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:7e22dab6-96b2-11ec-a2b8-fa163e4ea95f?page=uuid%3A7f23c5ba-96b2-11ec-a2b8-fa163e4ea95f",
+  "description": "Kolín (Česko : oblast)",
+  "scale": 200000,
+  "external_id": "1272087",
+  "title": "33°50° Kolín",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.689068,
+    49.380035,
+    15.971441,
+    50.57667
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:7e22dab6-96b2-11ec-a2b8-fa163e4ea95f",
+  "id": "903488a6-d9e4-5eaf-b9e2-83aa426cb602",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        533,
+        28
+      ],
+      [
+        546,
+        400
+      ],
+      [
+        65,
+        401
+      ],
+      [
+        63,
+        29
+      ],
+      [
+        533,
+        28
+      ]
+    ],
+    "created": "2015-11-05T16:16:21.406850+00:00",
+    "transformation_method": "affine",
+    "mapID": "903488a6-d9e4-5eaf-b9e2-83aa426cb602",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:16:21.406850+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.930487329609948,
+          50.45545669564953
+        ],
+        "pixel": [
+          108,
+          45
+        ]
+      },
+      {
+        "location": [
+          15.281185358966795,
+          50.031170614610545
+        ],
+        "pixel": [
+          276,
+          203
+        ]
+      },
+      {
+        "location": [
+          15.80303594490428,
+          49.50954363005221
+        ],
+        "pixel": [
+          531,
+          396
+        ]
+      },
+      {
+        "location": [
+          15.8139628015553,
+          50.42511816339808
+        ],
+        "pixel": [
+          524,
+          56
+        ]
+      },
+      {
+        "location": [
+          14.909302917480453,
+          49.53677080573809
+        ],
+        "pixel": [
+          101,
+          387
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1937"]
+}

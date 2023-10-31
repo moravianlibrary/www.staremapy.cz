@@ -1,0 +1,101 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_2970/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "10315",
+  "title": "Půdorysný plán třeboňského pivovaru 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.771068,
+    49.00169,
+    14.773706,
+    49.003197
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/10315",
+  "id": "628a758e-0197-54b4-a22f-ccad189c94be",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        17496,
+        0
+      ],
+      [
+        17496,
+        11898
+      ],
+      [
+        0,
+        11898
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        17496,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:21:28.581030+00:00",
+    "transformation_method": "affine",
+    "mapID": "628a758e-0197-54b4-a22f-ccad189c94be",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:21:28.581030+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.772553519510737,
+          49.002826459280044
+        ],
+        "pixel": [
+          11476,
+          2286
+        ]
+      },
+      {
+        "location": [
+          14.77127678801965,
+          49.002386560442375
+        ],
+        "pixel": [
+          615,
+          3130
+        ]
+      },
+      {
+        "location": [
+          14.771598653101437,
+          49.00188331140686
+        ],
+        "pixel": [
+          649,
+          9793
+        ]
+      },
+      {
+        "location": [
+          14.772875384592524,
+          49.002228195909595
+        ],
+        "pixel": [
+          11413,
+          9793
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1868"]
+}

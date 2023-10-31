@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": "Büsching Anton Friedrich",
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.mzk.cz/search/iiif/uuid:9641b81c-82dc-11e0-bc9f-0050569d679d/info.json",
+  "description": "mapa z monografie: Grosser Erdbeschreibung. Blatt N. 607-697, strana: [60]",
+  "scale": null,
+  "external_id": "uuid:9641b81c-82dc-11e0-bc9f-0050569d679d",
+  "title": "Grosser Erdbeschreibung. Blatt N. 607-697, mapa ze strany: [60]",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:637c6f30-82dc-11e0-bc9f-0050569d679d?page=uuid:9641b81c-82dc-11e0-bc9f-0050569d679d",
+  "georeference_is_finished": true,
+  "bounds": [
+    5.1862245,
+    50.692215,
+    6.2792892,
+    51.21304
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:637c6f30-82dc-11e0-bc9f-0050569d679d?page=uuid:9641b81c-82dc-11e0-bc9f-0050569d679d",
+  "id": "e7febc71-a92a-4cb2-aafd-6ce6a9c9739b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1092,
+        1034
+      ],
+      [
+        1097,
+        1761
+      ],
+      [
+        1708,
+        1757
+      ],
+      [
+        1701,
+        1025
+      ],
+      [
+        1092,
+        1034
+      ]
+    ],
+    "created": "2022-07-08T16:49:58.481090+00:00",
+    "transformation_method": "affine",
+    "mapID": "e7febc71-a92a-4cb2-aafd-6ce6a9c9739b",
+    "affine_transformation": null,
+    "changed": "2022-08-16T10:33:10.043819+00:00",
+    "gcps": [
+      {
+        "location": [
+          6.1813358480813685,
+          51.243204422617936
+        ],
+        "pixel": [
+          1589,
+          1573
+        ]
+      },
+      {
+        "location": [
+          6.123657625425117,
+          51.31901057391502
+        ],
+        "pixel": [
+          1454,
+          1290
+        ]
+      },
+      {
+        "location": [
+          6.158333223569648,
+          51.208158219339964
+        ],
+        "pixel": [
+          1502,
+          1682
+        ]
+      },
+      {
+        "location": [
+          6.169370666083991,
+          51.36828279519153
+        ],
+        "pixel": [
+          1485,
+          1129
+        ]
+      },
+      {
+        "location": [
+          5.9884395747753905,
+          51.1935846148001
+        ],
+        "pixel": [
+          1279,
+          1728
+        ]
+      },
+      {
+        "location": [
+          6.040740991660962,
+          51.26794153137982
+        ],
+        "pixel": [
+          1382,
+          1432
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1780-1800"]
+}

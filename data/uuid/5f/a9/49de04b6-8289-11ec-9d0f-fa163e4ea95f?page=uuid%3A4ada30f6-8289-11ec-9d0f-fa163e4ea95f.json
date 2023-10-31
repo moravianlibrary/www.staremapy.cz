@@ -1,0 +1,111 @@
+{
+  "date": ["1931"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:49de04b6-8289-11ec-9d0f-fa163e4ea95f?page=uuid%3A4ada30f6-8289-11ec-9d0f-fa163e4ea95f",
+  "description": "Kanada",
+  "scale": 126720,
+  "external_id": "1176564",
+  "title": "National topographic series",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -92.00884,
+    47.999493,
+    -89.99707,
+    49.0027
+  ],
+  "reviewed": null,
+  "publisher": "Office of the Surveyor General",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:49de04b6-8289-11ec-9d0f-fa163e4ea95f",
+  "id": "6e776e97-1aa7-5cc1-8dbd-b2957bd61674",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        45,
+        365
+      ],
+      [
+        530,
+        366
+      ],
+      [
+        525,
+        53
+      ],
+      [
+        49,
+        53
+      ],
+      [
+        45,
+        365
+      ]
+    ],
+    "created": "2017-04-15T19:36:51.884340+00:00",
+    "transformation_method": "affine",
+    "mapID": "6e776e97-1aa7-5cc1-8dbd-b2957bd61674",
+    "affine_transformation": null,
+    "changed": "2017-04-15T19:36:51.884340+00:00",
+    "gcps": [
+      {
+        "location": [
+          -90.962311688,
+          48.218088175
+        ],
+        "pixel": [
+          297,
+          299
+        ]
+      },
+      {
+        "location": [
+          -91.047455731,
+          48.743277587
+        ],
+        "pixel": [
+          276,
+          135
+        ]
+      },
+      {
+        "location": [
+          -90.042334206,
+          48.090107082
+        ],
+        "pixel": [
+          519,
+          338
+        ]
+      },
+      {
+        "location": [
+          -90.253725795,
+          48.954238613
+        ],
+        "pixel": [
+          466,
+          67
+        ]
+      },
+      {
+        "location": [
+          -91.968419019,
+          48.221805308
+        ],
+        "pixel": [
+          54,
+          296
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1931"]
+}

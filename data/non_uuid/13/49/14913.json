@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plana_M_14-2/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "14913",
+  "title": "Katastrální mapa obce Neblažov",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.662968,
+    49.84365,
+    12.688588,
+    49.859978
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/14913",
+  "id": "3bf4dbe1-7058-5661-b010-779b7135f4a8",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        2642,
+        14172
+      ],
+      [
+        17282,
+        14276
+      ],
+      [
+        17258,
+        708
+      ],
+      [
+        2706,
+        620
+      ],
+      [
+        2642,
+        14172
+      ]
+    ],
+    "created": "2014-12-13T20:27:47.445850+00:00",
+    "transformation_method": "affine",
+    "mapID": "3bf4dbe1-7058-5661-b010-779b7135f4a8",
+    "affine_transformation": null,
+    "changed": "2014-12-13T20:27:47.445850+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.679635109,
+          49.848013393
+        ],
+        "pixel": [
+          12121,
+          11050
+        ]
+      },
+      {
+        "location": [
+          12.665344299,
+          49.856653378
+        ],
+        "pixel": [
+          4045,
+          2903
+        ]
+      },
+      {
+        "location": [
+          12.671567024,
+          49.851396245
+        ],
+        "pixel": [
+          7474,
+          7778
+        ]
+      },
+      {
+        "location": [
+          12.669603647,
+          49.846290746
+        ],
+        "pixel": [
+          6531,
+          11903
+        ]
+      },
+      {
+        "location": [
+          12.67972094,
+          49.855671168
+        ],
+        "pixel": [
+          12343,
+          4057
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1842"]
+}

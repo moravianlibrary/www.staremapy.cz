@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/4085_1/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "44959",
+  "title": "Cesty sv. apoštola Pavla",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    10.3841505,
+    30.396025,
+    42.588352,
+    44.124092
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/44959",
+  "id": "694c0ba7-d20f-53d2-af9a-84e71e7801dd",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        419,
+        3903
+      ],
+      [
+        6251,
+        3903
+      ],
+      [
+        6251,
+        815
+      ],
+      [
+        419,
+        815
+      ],
+      [
+        419,
+        3903
+      ]
+    ],
+    "created": "2017-08-10T07:58:34.222890+00:00",
+    "transformation_method": "affine",
+    "mapID": "694c0ba7-d20f-53d2-af9a-84e71e7801dd",
+    "affine_transformation": null,
+    "changed": "2017-08-10T07:58:34.222890+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.3046875,
+          37.944198705
+        ],
+        "pixel": [
+          788,
+          2210
+        ]
+      },
+      {
+        "location": [
+          12.711181641,
+          32.750323892
+        ],
+        "pixel": [
+          772,
+          3398
+        ]
+      },
+      {
+        "location": [
+          29.124755859,
+          41.23651235
+        ],
+        "pixel": [
+          3812,
+          1518
+        ]
+      },
+      {
+        "location": [
+          41.781005859,
+          41.877742588
+        ],
+        "pixel": [
+          6085,
+          1363
+        ]
+      },
+      {
+        "location": [
+          34.98046875,
+          29.516111715
+        ],
+        "pixel": [
+          4956,
+          4186
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

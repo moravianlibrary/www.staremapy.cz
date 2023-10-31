@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/4896_11/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "46083",
+  "title": "Polohopis města Turnova",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.158122,
+    50.59174,
+    15.166685,
+    50.59737
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/46083",
+  "id": "306ba58c-a13a-5cc8-b2bf-128e8b2c87f9",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        2,
+        8545
+      ],
+      [
+        12066,
+        8545
+      ],
+      [
+        12066,
+        97
+      ],
+      [
+        2,
+        161
+      ],
+      [
+        2,
+        8545
+      ]
+    ],
+    "created": "2015-05-06T14:15:00.997100+00:00",
+    "transformation_method": "affine",
+    "mapID": "306ba58c-a13a-5cc8-b2bf-128e8b2c87f9",
+    "affine_transformation": null,
+    "changed": "2015-05-06T14:15:00.997100+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.1601037647005,
+          50.59347734120644
+        ],
+        "pixel": [
+          1325,
+          3397
+        ]
+      },
+      {
+        "location": [
+          15.162767753,
+          50.595805337
+        ],
+        "pixel": [
+          8888,
+          2634
+        ]
+      },
+      {
+        "location": [
+          15.163819179,
+          50.593830243
+        ],
+        "pixel": [
+          6224,
+          7330
+        ]
+      },
+      {
+        "location": [
+          15.161104784,
+          50.593694027
+        ],
+        "pixel": [
+          2936,
+          4210
+        ]
+      },
+      {
+        "location": [
+          15.162504896844242,
+          50.593755324157854
+        ],
+        "pixel": [
+          4648,
+          5819
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

@@ -1,0 +1,114 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Kout_na_Sumave_M_3_400dpi/ImageProperties.xml",
+  "description": null,
+  "scale": 14400,
+  "external_id": "13860",
+  "title": "Přehledová mapa panství Kout",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.82559,
+    49.26647,
+    13.15421,
+    49.43387
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/13860",
+  "id": "f6de9394-aebe-593a-acec-0e8005baa8cb",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        373,
+        19589
+      ],
+      [
+        25101,
+        19557
+      ],
+      [
+        25029,
+        293
+      ],
+      [
+        253,
+        317
+      ],
+      [
+        373,
+        19589
+      ]
+    ],
+    "created": "2015-02-14T20:35:00.835260+00:00",
+    "transformation_method": "affine",
+    "mapID": "f6de9394-aebe-593a-acec-0e8005baa8cb",
+    "affine_transformation": null,
+    "changed": "2015-02-14T20:35:00.835260+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.981803871,
+          49.340484629
+        ],
+        "pixel": [
+          12047,
+          11037
+        ]
+      },
+      {
+        "location": [
+          13.134067512,
+          49.343518416
+        ],
+        "pixel": [
+          23699,
+          10900
+        ]
+      },
+      {
+        "location": [
+          13.030770279,
+          49.406877574
+        ],
+        "pixel": [
+          15854,
+          3338
+        ]
+      },
+      {
+        "location": [
+          13.102076806,
+          49.29765089
+        ],
+        "pixel": [
+          21138,
+          16310
+        ]
+      },
+      {
+        "location": [
+          12.86044196,
+          49.360831537
+        ],
+        "pixel": [
+          2825,
+          8536
+        ]
+      }
+    ]
+  },
+  "pubdate": [
+    "1890",
+    "1910"
+  ]
+}

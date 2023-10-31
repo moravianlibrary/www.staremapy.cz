@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Krimice_M_2-4/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "19089",
+  "title": "Katastrální mapa obce Křimice",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.297689,
+    49.741028,
+    13.324155,
+    49.754646
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/19089",
+  "id": "467e21f7-8be9-51d7-ba49-f2d33e420532",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        17032,
+        1642
+      ],
+      [
+        16994,
+        13823
+      ],
+      [
+        1825,
+        13639
+      ],
+      [
+        1981,
+        1494
+      ],
+      [
+        17032,
+        1642
+      ]
+    ],
+    "created": "2014-11-25T16:57:38.284040+00:00",
+    "transformation_method": "affine",
+    "mapID": "467e21f7-8be9-51d7-ba49-f2d33e420532",
+    "affine_transformation": null,
+    "changed": "2014-11-25T16:57:38.284040+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.320148468,
+          49.742057519
+        ],
+        "pixel": [
+          14690,
+          12940
+        ]
+      },
+      {
+        "location": [
+          13.309782374,
+          49.742805264
+        ],
+        "pixel": [
+          8745,
+          12145
+        ]
+      },
+      {
+        "location": [
+          13.298805202,
+          49.749687262
+        ],
+        "pixel": [
+          2539,
+          5871
+        ]
+      },
+      {
+        "location": [
+          13.301598311,
+          49.751881001
+        ],
+        "pixel": [
+          4173,
+          3905
+        ]
+      },
+      {
+        "location": [
+          13.322015285,
+          49.753100998
+        ],
+        "pixel": [
+          15995,
+          3015
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1878"]
+}

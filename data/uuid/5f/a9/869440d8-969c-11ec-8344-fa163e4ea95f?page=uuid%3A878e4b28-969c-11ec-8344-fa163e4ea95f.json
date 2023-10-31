@@ -1,0 +1,111 @@
+{
+  "date": ["1918"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:869440d8-969c-11ec-8344-fa163e4ea95f?page=uuid%3A878e4b28-969c-11ec-8344-fa163e4ea95f",
+  "description": "Niš (Srbsko : oblast)",
+  "scale": 200000,
+  "external_id": "1271463",
+  "title": "40°43° Niš",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    21.832733,
+    42.49792,
+    22.840227,
+    43.49742
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:869440d8-969c-11ec-8344-fa163e4ea95f",
+  "id": "bf1efd6d-9449-5023-bb4b-e7cf7cb2b313",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        47,
+        35
+      ],
+      [
+        552,
+        35
+      ],
+      [
+        559,
+        403
+      ],
+      [
+        46,
+        404
+      ],
+      [
+        47,
+        35
+      ]
+    ],
+    "created": "2016-12-28T11:19:51.202550+00:00",
+    "transformation_method": "affine",
+    "mapID": "bf1efd6d-9449-5023-bb4b-e7cf7cb2b313",
+    "affine_transformation": null,
+    "changed": "2016-12-28T11:19:51.202550+00:00",
+    "gcps": [
+      {
+        "location": [
+          22.650667413,
+          42.834662315
+        ],
+        "pixel": [
+          462,
+          280
+        ]
+      },
+      {
+        "location": [
+          21.942414029,
+          42.99691582
+        ],
+        "pixel": [
+          100,
+          220
+        ]
+      },
+      {
+        "location": [
+          22.36392854,
+          42.690626916
+        ],
+        "pixel": [
+          317,
+          334
+        ]
+      },
+      {
+        "location": [
+          21.890829785,
+          43.318048852
+        ],
+        "pixel": [
+          75,
+          101
+        ]
+      },
+      {
+        "location": [
+          22.31470464,
+          43.218489849
+        ],
+        "pixel": [
+          291,
+          139
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1918"]
+}

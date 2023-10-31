@@ -1,0 +1,125 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/orlik_0448/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "16737",
+  "title": "Lesní zařizovací mapa I. hlavního dílu revíru Spolle, zv. Komora 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.188984,
+    49.413933,
+    14.245437,
+    49.444256
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/16737",
+  "id": "377a0ccb-e9e4-5d99-9077-7dfcfed6db06",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        0,
+        13771
+      ],
+      [
+        16398,
+        13771
+      ],
+      [
+        16398,
+        8743
+      ],
+      [
+        16168,
+        425
+      ],
+      [
+        159,
+        454
+      ],
+      [
+        0,
+        13771
+      ]
+    ],
+    "created": "2014-12-26T09:32:37.968820+00:00",
+    "transformation_method": "affine",
+    "mapID": "377a0ccb-e9e4-5d99-9077-7dfcfed6db06",
+    "affine_transformation": null,
+    "changed": "2023-05-17T12:05:45.536513+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.206102261,
+          49.438201326
+        ],
+        "pixel": [
+          4898,
+          2893
+        ]
+      },
+      {
+        "location": [
+          14.193644454,
+          49.440903011
+        ],
+        "pixel": [
+          1522,
+          2101
+        ]
+      },
+      {
+        "location": [
+          14.201264061,
+          49.415842869
+        ],
+        "pixel": [
+          3526,
+          13113
+        ]
+      },
+      {
+        "location": [
+          14.224009194,
+          49.418858049
+        ],
+        "pixel": [
+          10246,
+          11773
+        ]
+      },
+      {
+        "location": [
+          14.205941834,
+          49.419220974
+        ],
+        "pixel": [
+          4910,
+          11581
+        ]
+      },
+      {
+        "location": [
+          14.203109421,
+          49.420142236
+        ],
+        "pixel": [
+          4142,
+          11253
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1834"]
+}

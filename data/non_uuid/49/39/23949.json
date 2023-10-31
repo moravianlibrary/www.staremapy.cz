@@ -1,0 +1,115 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_pardubice_339_III/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "23949",
+  "title": "Indikační skica mapy stabilního katastru pro obec Dolní Roveň III.",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.952108,
+    50.02783,
+    15.967433,
+    50.0415
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/23949",
+  "id": "e559c13f-c7cf-5063-9727-5aa19684b470",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1703,
+        10536
+      ],
+      [
+        5203,
+        13832
+      ],
+      [
+        10183,
+        13880
+      ],
+      [
+        10279,
+        1560
+      ],
+      [
+        4711,
+        1536
+      ],
+      [
+        1703,
+        10536
+      ]
+    ],
+    "created": "2015-02-02T17:23:50.030320+00:00",
+    "transformation_method": "affine",
+    "mapID": "e559c13f-c7cf-5063-9727-5aa19684b470",
+    "affine_transformation": null,
+    "changed": "2015-02-02T17:23:50.030320+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.955909858,
+          50.035811376
+        ],
+        "pixel": [
+          3776,
+          6708
+        ]
+      },
+      {
+        "location": [
+          15.954992542,
+          50.03603534
+        ],
+        "pixel": [
+          3272,
+          6500
+        ]
+      },
+      {
+        "location": [
+          15.965153498,
+          50.030810932
+        ],
+        "pixel": [
+          9196,
+          11185
+        ]
+      },
+      {
+        "location": [
+          15.958533058,
+          50.028430307
+        ],
+        "pixel": [
+          5419,
+          13380
+        ]
+      },
+      {
+        "location": [
+          15.952750215,
+          50.031700584
+        ],
+        "pixel": [
+          2091,
+          10444
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

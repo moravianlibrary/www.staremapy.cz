@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1730/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "9075",
+  "title": "Smržov o. Jindřichův Hradec 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.65166,
+    49.062637,
+    14.686059,
+    49.074287
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/9075",
+  "id": "bad25343-48d2-5687-bc6e-5d83fe5620f1",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        657,
+        10817
+      ],
+      [
+        16529,
+        10817
+      ],
+      [
+        16529,
+        833
+      ],
+      [
+        657,
+        833
+      ],
+      [
+        657,
+        10817
+      ]
+    ],
+    "created": "2015-04-26T22:01:09.753070+00:00",
+    "transformation_method": "affine",
+    "mapID": "bad25343-48d2-5687-bc6e-5d83fe5620f1",
+    "affine_transformation": null,
+    "changed": "2015-04-26T22:01:09.753070+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.683354281,
+          49.070435044
+        ],
+        "pixel": [
+          15908,
+          3880
+        ]
+      },
+      {
+        "location": [
+          14.677573837,
+          49.06502294
+        ],
+        "pixel": [
+          12536,
+          8796
+        ]
+      },
+      {
+        "location": [
+          14.676412724,
+          49.069282309
+        ],
+        "pixel": [
+          11740,
+          4848
+        ]
+      },
+      {
+        "location": [
+          14.658261933,
+          49.071552969
+        ],
+        "pixel": [
+          3890,
+          3246
+        ]
+      },
+      {
+        "location": [
+          14.683388867,
+          49.067708158
+        ],
+        "pixel": [
+          16016,
+          6364
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1838"]
+}

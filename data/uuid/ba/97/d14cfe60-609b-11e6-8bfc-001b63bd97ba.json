@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:d14cfe60-609b-11e6-8bfc-001b63bd97ba/ImageProperties.xml",
+  "description": "Atlas historických map z let 1786-1800",
+  "scale": null,
+  "external_id": "uuid:d14cfe60-609b-11e6-8bfc-001b63bd97ba",
+  "title": "Atlas historických map z let 1786-1800",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:1297bae4-3003-11e6-ac61-9e71128cae77?page=uuid:d14cfe60-609b-11e6-8bfc-001b63bd97ba",
+  "georeference_is_finished": true,
+  "bounds": [
+    -110.760635,
+    4.189142,
+    -79.52217,
+    30.719574
+  ],
+  "reviewed": null,
+  "publisher": "Schraembl, Franz Anton",
+  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:1297bae4-3003-11e6-ac61-9e71128cae77?page=uuid:d14cfe60-609b-11e6-8bfc-001b63bd97ba",
+  "id": "dbf20eb8-c3f1-4973-a4e0-46460d020ed3",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        100,
+        394
+      ],
+      [
+        100,
+        339
+      ],
+      [
+        101,
+        300
+      ],
+      [
+        101,
+        266
+      ],
+      [
+        140,
+        265
+      ],
+      [
+        141,
+        255
+      ],
+      [
+        231,
+        255
+      ],
+      [
+        231,
+        322
+      ],
+      [
+        231,
+        394
+      ],
+      [
+        100,
+        394
+      ]
+    ],
+    "created": "2022-08-22T12:24:56.159511+00:00",
+    "transformation_method": "affine",
+    "mapID": "dbf20eb8-c3f1-4973-a4e0-46460d020ed3",
+    "affine_transformation": null,
+    "changed": "2022-08-22T13:02:26.717443+00:00",
+    "gcps": [
+      {
+        "location": [
+          -111.7543785921632,
+          32.8784466960051
+        ],
+        "pixel": [
+          210,
+          269
+        ]
+      },
+      {
+        "location": [
+          -114.68590759649578,
+          31.679780588597893
+        ],
+        "pixel": [
+          139,
+          303
+        ]
+      },
+      {
+        "location": [
+          -113.16392331353588,
+          26.985847123457305
+        ],
+        "pixel": [
+          129,
+          361
+        ]
+      },
+      {
+        "location": [
+          -110.89728054754589,
+          27.919826942212822
+        ],
+        "pixel": [
+          188,
+          340
+        ]
+      },
+      {
+        "location": [
+          -111.81860217011275,
+          26.89438697521358
+        ],
+        "pixel": [
+          164,
+          356
+        ]
+      }
+    ]
+  },
+  "pubdate": ["[1786-1800]"]
+}

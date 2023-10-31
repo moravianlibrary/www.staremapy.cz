@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Kout_na_Sumave_M_202/ImageProperties.xml",
+  "description": null,
+  "scale": 5760,
+  "external_id": "14218",
+  "title": "Porostní mapa revíru Kaple",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.719613,
+    49.447285,
+    12.769539,
+    49.482872
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/14218",
+  "id": "3f1f334c-ffdd-504c-8b8d-7a7e14db25b2",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        12875,
+        0
+      ],
+      [
+        12875,
+        10173
+      ],
+      [
+        0,
+        10173
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        12875,
+        0
+      ]
+    ],
+    "created": "2014-11-25T16:34:26.666400+00:00",
+    "transformation_method": "affine",
+    "mapID": "3f1f334c-ffdd-504c-8b8d-7a7e14db25b2",
+    "affine_transformation": null,
+    "changed": "2014-11-25T16:34:26.666400+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.739030123,
+          49.457500136
+        ],
+        "pixel": [
+          4076,
+          2145
+        ]
+      },
+      {
+        "location": [
+          12.73324728,
+          49.476848807
+        ],
+        "pixel": [
+          12644,
+          4341
+        ]
+      },
+      {
+        "location": [
+          12.764359299,
+          49.461557246
+        ],
+        "pixel": [
+          2534,
+          9687
+        ]
+      },
+      {
+        "location": [
+          12.741916179,
+          49.472041986
+        ],
+        "pixel": [
+          9579,
+          5729
+        ]
+      },
+      {
+        "location": [
+          12.730595323,
+          49.468715951
+        ],
+        "pixel": [
+          9632,
+          2040
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1896"]
+}

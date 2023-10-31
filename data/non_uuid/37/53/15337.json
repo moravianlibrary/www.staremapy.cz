@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plana_M_52/ImageProperties.xml",
+  "description": null,
+  "scale": 5760,
+  "external_id": "15337",
+  "title": "Brouillon hospodářské mapy revíru Kočov",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.733836,
+    49.78511,
+    12.755612,
+    49.807713
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/15337",
+  "id": "0356309c-7b3f-59e1-88e6-edf820179cf7",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        16490,
+        1042
+      ],
+      [
+        16422,
+        11592
+      ],
+      [
+        764,
+        11626
+      ],
+      [
+        902,
+        866
+      ],
+      [
+        16490,
+        1042
+      ]
+    ],
+    "created": "2014-11-25T16:55:28.332860+00:00",
+    "transformation_method": "affine",
+    "mapID": "0356309c-7b3f-59e1-88e6-edf820179cf7",
+    "affine_transformation": null,
+    "changed": "2022-03-15T17:57:13.042651+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.746348072687661,
+          49.79386223677935
+        ],
+        "pixel": [
+          10902,
+          5637
+        ]
+      },
+      {
+        "location": [
+          12.74532999790549,
+          49.794362353502095
+        ],
+        "pixel": [
+          10128,
+          6313
+        ]
+      },
+      {
+        "location": [
+          12.73947671087058,
+          49.79344838974396
+        ],
+        "pixel": [
+          9964,
+          9869
+        ]
+      },
+      {
+        "location": [
+          12.749047402385697,
+          49.789955783572054
+        ],
+        "pixel": [
+          14724,
+          4869
+        ]
+      },
+      {
+        "location": [
+          12.73763077813823,
+          49.80387803876255
+        ],
+        "pixel": [
+          1508,
+          9410
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1825"]
+}

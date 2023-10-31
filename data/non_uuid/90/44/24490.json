@@ -1,0 +1,101 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_pardubice_423_II/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "24490",
+  "title": "Indikační skica mapy stabilního katastru pro obec Vinařice u Týnce nad Labem II.",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.344213,
+    50.027714,
+    15.367964,
+    50.045483
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/24490",
+  "id": "399d3cba-5810-5529-b06d-29f1301f747a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        5864,
+        0
+      ],
+      [
+        5864,
+        7047
+      ],
+      [
+        0,
+        7047
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        5864,
+        0
+      ]
+    ],
+    "created": "2014-11-25T19:13:49.582450+00:00",
+    "transformation_method": "affine",
+    "mapID": "399d3cba-5810-5529-b06d-29f1301f747a",
+    "affine_transformation": null,
+    "changed": "2023-04-29T12:56:13.637704+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.35907913276084,
+          50.03425075700508
+        ],
+        "pixel": [
+          3867,
+          4371
+        ]
+      },
+      {
+        "location": [
+          15.353418749046646,
+          50.03460791896205
+        ],
+        "pixel": [
+          2631,
+          4605
+        ]
+      },
+      {
+        "location": [
+          15.363996394414393,
+          50.04093622308312
+        ],
+        "pixel": [
+          5335,
+          2086
+        ]
+      },
+      {
+        "location": [
+          15.359576686499112,
+          50.03234109132225
+        ],
+        "pixel": [
+          5250,
+          6031
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

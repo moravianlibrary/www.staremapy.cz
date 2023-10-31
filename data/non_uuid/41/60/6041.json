@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/huav/III_vojenske_mapovani/25/3950_3_02/ImageProperties.xml",
+  "description": null,
+  "scale": 25000,
+  "external_id": "6041",
+  "title": "III. vojenské mapování 3950/3",
+  "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.834473,
+    49.999638,
+    13.081375,
+    50.123203
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/6041",
+  "id": "56342828-9721-58fd-8dac-71734a72b9ef",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1220,
+        9353
+      ],
+      [
+        12340,
+        9353
+      ],
+      [
+        12412,
+        681
+      ],
+      [
+        1204,
+        673
+      ],
+      [
+        1220,
+        9353
+      ]
+    ],
+    "created": "2014-12-07T00:04:44.277060+00:00",
+    "transformation_method": "affine",
+    "mapID": "56342828-9721-58fd-8dac-71734a72b9ef",
+    "affine_transformation": null,
+    "changed": "2014-12-07T00:04:44.277060+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.957071679,
+          50.071640476
+        ],
+        "pixel": [
+          6726,
+          4301
+        ]
+      },
+      {
+        "location": [
+          13.017939971633341,
+          50.009619688936425
+        ],
+        "pixel": [
+          9472,
+          8664
+        ]
+      },
+      {
+        "location": [
+          13.046349929519062,
+          50.00211736206393
+        ],
+        "pixel": [
+          10749,
+          9186
+        ]
+      },
+      {
+        "location": [
+          12.982771265,
+          50.123344905
+        ],
+        "pixel": [
+          7971,
+          665
+        ]
+      },
+      {
+        "location": [
+          12.890019136,
+          50.031813794
+        ],
+        "pixel": [
+          3679,
+          7088
+        ]
+      },
+      {
+        "location": [
+          12.840026913,
+          50.083766338
+        ],
+        "pixel": [
+          1419,
+          3452
+        ]
+      },
+      {
+        "location": [
+          12.985965905,
+          50.058728343
+        ],
+        "pixel": [
+          8018,
+          5210
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1931"]
+}

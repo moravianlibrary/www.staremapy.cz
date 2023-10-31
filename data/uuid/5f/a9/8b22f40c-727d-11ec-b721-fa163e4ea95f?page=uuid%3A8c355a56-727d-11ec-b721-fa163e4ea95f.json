@@ -1,0 +1,111 @@
+{
+  "date": ["1938"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:8b22f40c-727d-11ec-b721-fa163e4ea95f?page=uuid%3A8c355a56-727d-11ec-b721-fa163e4ea95f",
+  "description": "Slovensko",
+  "scale": 25000,
+  "external_id": "1119929",
+  "title": "[Mapový list]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    21.607906,
+    48.372784,
+    21.831026,
+    48.49944
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:8b22f40c-727d-11ec-b721-fa163e4ea95f",
+  "id": "58d36aae-3702-5544-986d-d1ad9b094aab",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        78,
+        28
+      ],
+      [
+        88,
+        408
+      ],
+      [
+        549,
+        408
+      ],
+      [
+        546,
+        28
+      ],
+      [
+        78,
+        28
+      ]
+    ],
+    "created": "2016-01-30T22:42:29.811680+00:00",
+    "transformation_method": "affine",
+    "mapID": "58d36aae-3702-5544-986d-d1ad9b094aab",
+    "affine_transformation": null,
+    "changed": "2016-01-30T22:42:29.811680+00:00",
+    "gcps": [
+      {
+        "location": [
+          21.777030757,
+          48.495365502
+        ],
+        "pixel": [
+          434,
+          40
+        ]
+      },
+      {
+        "location": [
+          21.804539493,
+          48.389746388
+        ],
+        "pixel": [
+          493,
+          358
+        ]
+      },
+      {
+        "location": [
+          21.733984959386753,
+          48.43976340827493
+        ],
+        "pixel": [
+          344,
+          207
+        ]
+      },
+      {
+        "location": [
+          21.66768246,
+          48.411856314
+        ],
+        "pixel": [
+          204,
+          291
+        ]
+      },
+      {
+        "location": [
+          21.62491119482747,
+          48.48800884782088
+        ],
+        "pixel": [
+          114,
+          61
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1938"]
+}

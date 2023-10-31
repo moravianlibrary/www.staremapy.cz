@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/0143/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "17914",
+  "title": "Plan of Paris",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    2.2778413,
+    48.827255,
+    2.4058447,
+    48.888416
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/17914",
+  "id": "27019772-1b08-567b-b029-7e25e693aae5",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        146,
+        8434
+      ],
+      [
+        10834,
+        8434
+      ],
+      [
+        10834,
+        146
+      ],
+      [
+        146,
+        146
+      ],
+      [
+        146,
+        8434
+      ]
+    ],
+    "created": "2016-03-09T15:24:13.171370+00:00",
+    "transformation_method": "affine",
+    "mapID": "27019772-1b08-567b-b029-7e25e693aae5",
+    "affine_transformation": null,
+    "changed": "2016-03-09T15:24:13.171370+00:00",
+    "gcps": [
+      {
+        "location": [
+          2.341246605,
+          48.857008002
+        ],
+        "pixel": [
+          5481,
+          4402
+        ]
+      },
+      {
+        "location": [
+          2.369270325,
+          48.853196032
+        ],
+        "pixel": [
+          8057,
+          4976
+        ]
+      },
+      {
+        "location": [
+          2.293138504,
+          48.859097403
+        ],
+        "pixel": [
+          1014,
+          4044
+        ]
+      },
+      {
+        "location": [
+          2.377038002,
+          48.861977246
+        ],
+        "pixel": [
+          8641,
+          3764
+        ]
+      },
+      {
+        "location": [
+          2.313480377,
+          48.86273953
+        ],
+        "pixel": [
+          2802,
+          3580
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

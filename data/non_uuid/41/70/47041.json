@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/5486/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "47041",
+  "title": "Mapa správního rozdělení ČSR",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    11.688785,
+    47.50695,
+    22.880594,
+    51.04417
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/47041",
+  "id": "930d3493-30dd-5106-b977-e3b8958e1b2c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        399,
+        4965
+      ],
+      [
+        9583,
+        4965
+      ],
+      [
+        9583,
+        421
+      ],
+      [
+        399,
+        421
+      ],
+      [
+        399,
+        4965
+      ]
+    ],
+    "created": "2015-10-24T23:31:07.490150+00:00",
+    "transformation_method": "affine",
+    "mapID": "930d3493-30dd-5106-b977-e3b8958e1b2c",
+    "affine_transformation": null,
+    "changed": "2015-10-24T23:31:07.490150+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.374725342,
+          50.080939343
+        ],
+        "pixel": [
+          826,
+          1666
+        ]
+      },
+      {
+        "location": [
+          12.639770508,
+          50.181296309
+        ],
+        "pixel": [
+          1068,
+          1546
+        ]
+      },
+      {
+        "location": [
+          21.247558594,
+          48.996439067
+        ],
+        "pixel": [
+          8308,
+          3103
+        ]
+      },
+      {
+        "location": [
+          21.231079102,
+          48.718150168
+        ],
+        "pixel": [
+          8336,
+          3463
+        ]
+      },
+      {
+        "location": [
+          12.517547607,
+          50.323546943
+        ],
+        "pixel": [
+          961,
+          1350
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

@@ -1,0 +1,111 @@
+{
+  "date": ["1914"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:9be0d6a4-9ef3-11ec-a162-fa163e4ea95f?page=uuid%3A9cb398b4-9ef3-11ec-a162-fa163e4ea95f",
+  "description": "Turka (Ukrajina : oblast)",
+  "scale": 200000,
+  "external_id": "1329370",
+  "title": "41°49° Turka",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    22.816372,
+    48.488316,
+    23.845217,
+    49.507275
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:9be0d6a4-9ef3-11ec-a162-fa163e4ea95f",
+  "id": "5353fed1-258f-5588-a33c-5e11eba4c012",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        54,
+        413
+      ],
+      [
+        550,
+        413
+      ],
+      [
+        550,
+        24
+      ],
+      [
+        54,
+        24
+      ],
+      [
+        54,
+        413
+      ]
+    ],
+    "created": "2017-02-23T18:15:32.324090+00:00",
+    "transformation_method": "affine",
+    "mapID": "5353fed1-258f-5588-a33c-5e11eba4c012",
+    "affine_transformation": null,
+    "changed": "2017-02-23T18:15:32.324090+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.505901,
+          48.516872
+        ],
+        "pixel": [
+          388,
+          402
+        ]
+      },
+      {
+        "location": [
+          23.032988,
+          49.154293
+        ],
+        "pixel": [
+          157,
+          159
+        ]
+      },
+      {
+        "location": [
+          22.999557,
+          49.45205
+        ],
+        "pixel": [
+          142,
+          45
+        ]
+      },
+      {
+        "location": [
+          22.989395,
+          48.54554
+        ],
+        "pixel": [
+          137,
+          392
+        ]
+      },
+      {
+        "location": [
+          23.645132,
+          49.236336
+        ],
+        "pixel": [
+          453,
+          128
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1914"]
+}

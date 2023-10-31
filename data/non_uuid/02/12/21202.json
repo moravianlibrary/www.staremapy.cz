@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Manetin_M_7e/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "21202",
+  "title": "Katastrální mapa města Rabštejn WC-IX-16 bh ah",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.262489,
+    50.025997,
+    13.293596,
+    50.041252
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/21202",
+  "id": "5ecd529c-ca55-58d0-af70-4a78804b8f03",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        -16,
+        13840
+      ],
+      [
+        18224,
+        13648
+      ],
+      [
+        18224,
+        16
+      ],
+      [
+        -80,
+        80
+      ],
+      [
+        -16,
+        13840
+      ]
+    ],
+    "created": "2015-08-24T11:39:10.027790+00:00",
+    "transformation_method": "affine",
+    "mapID": "5ecd529c-ca55-58d0-af70-4a78804b8f03",
+    "affine_transformation": null,
+    "changed": "2015-08-24T11:39:10.027790+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.271834804,
+          50.039678626
+        ],
+        "pixel": [
+          5423,
+          1419
+        ]
+      },
+      {
+        "location": [
+          13.27395291,
+          50.029605465
+        ],
+        "pixel": [
+          6639,
+          10590
+        ]
+      },
+      {
+        "location": [
+          13.290979573,
+          50.026476343
+        ],
+        "pixel": [
+          16679,
+          13392
+        ]
+      },
+      {
+        "location": [
+          13.282127781,
+          50.03195701
+        ],
+        "pixel": [
+          11516,
+          8438
+        ]
+      },
+      {
+        "location": [
+          13.288130564,
+          50.034761882
+        ],
+        "pixel": [
+          14998,
+          5926
+        ]
+      },
+      {
+        "location": [
+          13.263874605783426,
+          50.03830939224605
+        ],
+        "pixel": [
+          731,
+          2677
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1905"]
+}

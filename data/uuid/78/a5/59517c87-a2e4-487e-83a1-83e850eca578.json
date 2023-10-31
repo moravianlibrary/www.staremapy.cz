@@ -1,0 +1,127 @@
+{
+  "date": ["1923"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.mzk.cz/search/iiif/uuid:59517c87-a2e4-487e-83a1-83e850eca578/info.json",
+  "description": "šestibarevná mapa",
+  "scale": 10000,
+  "external_id": "59517c87-a2e4-487e-83a1-83e850eca578",
+  "title": "[Vojenský prostor Milovice 1:10 000]",
+  "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.882065,
+    50.21589,
+    14.933664,
+    50.249252
+  ],
+  "reviewed": null,
+  "publisher": "[Vojenský zeměpisný ústav],",
+  "link_url": "https://www.digitalniknihovna.cz/mzk/view/uuid:5cbc1ec2-20f2-4b24-8b77-6be3e239a0c5?page=uuid:59517c87-a2e4-487e-83a1-83e850eca578",
+  "id": "9b589a5d-8bdb-525e-b559-0ebb3550b235",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        9022,
+        1588
+      ],
+      [
+        9047,
+        3515
+      ],
+      [
+        9268,
+        3657
+      ],
+      [
+        9296,
+        4174
+      ],
+      [
+        9058,
+        4542
+      ],
+      [
+        9096,
+        10402
+      ],
+      [
+        728,
+        10493
+      ],
+      [
+        652,
+        1687
+      ],
+      [
+        9022,
+        1588
+      ]
+    ],
+    "created": "2018-12-19T14:27:52.977214+00:00",
+    "transformation_method": "affine",
+    "mapID": "9b589a5d-8bdb-525e-b559-0ebb3550b235",
+    "affine_transformation": null,
+    "changed": "2021-04-15T12:18:23.164121+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.924413937410057,
+          50.22601211472963
+        ],
+        "pixel": [
+          7780,
+          7757
+        ]
+      },
+      {
+        "location": [
+          14.928860312676466,
+          50.242102087450405
+        ],
+        "pixel": [
+          8481,
+          3475
+        ]
+      },
+      {
+        "location": [
+          14.90470970270636,
+          50.248270242623704
+        ],
+        "pixel": [
+          4445,
+          1900
+        ]
+      },
+      {
+        "location": [
+          14.904044020728513,
+          50.216857666070524
+        ],
+        "pixel": [
+          4388,
+          10203
+        ]
+      },
+      {
+        "location": [
+          14.884038953704858,
+          50.22815490595363
+        ],
+        "pixel": [
+          1018,
+          7240
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

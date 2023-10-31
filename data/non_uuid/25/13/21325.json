@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Manetin_M_109_3/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "21325",
+  "title": "Katastrální mapa obce Kalec",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.317164,
+    50.012035,
+    13.346687,
+    50.02925
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/21325",
+  "id": "1232d597-8729-5f59-a117-a3429cf39073",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        16796,
+        0
+      ],
+      [
+        16796,
+        15250
+      ],
+      [
+        0,
+        15250
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        16796,
+        0
+      ]
+    ],
+    "created": "2014-11-25T16:59:59.957410+00:00",
+    "transformation_method": "affine",
+    "mapID": "1232d597-8729-5f59-a117-a3429cf39073",
+    "affine_transformation": null,
+    "changed": "2014-11-25T16:59:59.957410+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.33471334,
+          50.026373435
+        ],
+        "pixel": [
+          10030,
+          2481
+        ]
+      },
+      {
+        "location": [
+          13.330711484,
+          50.015378514
+        ],
+        "pixel": [
+          7688,
+          12311
+        ]
+      },
+      {
+        "location": [
+          13.328692442,
+          50.02212047
+        ],
+        "pixel": [
+          6566,
+          6310
+        ]
+      },
+      {
+        "location": [
+          13.346445322,
+          50.016578082
+        ],
+        "pixel": [
+          16668,
+          11371
+        ]
+      },
+      {
+        "location": [
+          13.324512381,
+          50.024783272
+        ],
+        "pixel": [
+          4160,
+          3879
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1841"]
+}

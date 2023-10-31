@@ -1,0 +1,91 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Kout_na_Sumave_M_61/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "13933",
+  "title": "Mapa panských pozemků v katastru obce Stanětice",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.022986,
+    49.436172,
+    13.039658,
+    49.443542
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/13933",
+  "id": "8fe01c02-b7f0-5a8c-849c-70c01fe798cc",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        9708,
+        0
+      ],
+      [
+        9708,
+        6541
+      ],
+      [
+        0,
+        6541
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        9708,
+        0
+      ]
+    ],
+    "created": "2014-11-25T16:33:21.797940+00:00",
+    "transformation_method": "affine",
+    "mapID": "8fe01c02-b7f0-5a8c-849c-70c01fe798cc",
+    "affine_transformation": null,
+    "changed": "2014-11-25T16:33:21.797940+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.030519485,
+          49.441970458
+        ],
+        "pixel": [
+          4382,
+          1329
+        ]
+      },
+      {
+        "location": [
+          13.033051491,
+          49.438091603
+        ],
+        "pixel": [
+          5866,
+          4876
+        ]
+      },
+      {
+        "location": [
+          13.025455476,
+          49.440526388
+        ],
+        "pixel": [
+          1432,
+          2751
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1932"]
+}

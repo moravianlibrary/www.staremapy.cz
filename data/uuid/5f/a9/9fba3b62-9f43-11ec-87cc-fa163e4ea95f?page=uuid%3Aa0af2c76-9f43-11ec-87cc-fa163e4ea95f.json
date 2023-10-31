@@ -1,0 +1,111 @@
+{
+  "date": ["1925"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:9fba3b62-9f43-11ec-87cc-fa163e4ea95f?page=uuid%3Aa0af2c76-9f43-11ec-87cc-fa163e4ea95f",
+  "description": "Maďarsko",
+  "scale": 75000,
+  "external_id": "1331604",
+  "title": "Tiačevo",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    23.281626,
+    47.963383,
+    23.87366,
+    48.280155
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:9fba3b62-9f43-11ec-87cc-fa163e4ea95f",
+  "id": "1dde1945-a584-5ef0-8097-81abcec65aea",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:08:24.461030+00:00",
+    "transformation_method": "affine",
+    "mapID": "1dde1945-a584-5ef0-8097-81abcec65aea",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:08:24.461030+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.580453273967827,
+          48.014260800954304
+        ],
+        "pixel": [
+          302,
+          373
+        ]
+      },
+      {
+        "location": [
+          23.596521536697107,
+          48.11311990760251
+        ],
+        "pixel": [
+          320,
+          234
+        ]
+      },
+      {
+        "location": [
+          23.76938715253812,
+          48.1148146442697
+        ],
+        "pixel": [
+          494,
+          232
+        ]
+      },
+      {
+        "location": [
+          23.486070115937665,
+          48.04738238431119
+        ],
+        "pixel": [
+          207,
+          326
+        ]
+      },
+      {
+        "location": [
+          23.391560461864277,
+          48.245411352055015
+        ],
+        "pixel": [
+          111,
+          48
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1925"]
+}

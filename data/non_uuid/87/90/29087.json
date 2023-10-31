@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/1357/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "29087",
+  "title": "Monte Adamello",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    10.440559,
+    46.137707,
+    10.775043,
+    46.242138
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/29087",
+  "id": "f759178b-56d1-5f75-b249-a0a67b3990b4",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        2250,
+        8378
+      ],
+      [
+        8266,
+        8378
+      ],
+      [
+        8266,
+        4706
+      ],
+      [
+        2250,
+        4706
+      ],
+      [
+        2250,
+        8378
+      ]
+    ],
+    "created": "2015-04-30T14:31:22.990180+00:00",
+    "transformation_method": "affine",
+    "mapID": "f759178b-56d1-5f75-b249-a0a67b3990b4",
+    "affine_transformation": null,
+    "changed": "2015-04-30T14:31:22.990180+00:00",
+    "gcps": [
+      {
+        "location": [
+          10.664262912,
+          46.166816047
+        ],
+        "pixel": [
+          7536,
+          7361
+        ]
+      },
+      {
+        "location": [
+          10.567475047,
+          46.170791242
+        ],
+        "pixel": [
+          4559,
+          7237
+        ]
+      },
+      {
+        "location": [
+          10.4963375,
+          46.15617481
+        ],
+        "pixel": [
+          3294,
+          7721
+        ]
+      },
+      {
+        "location": [
+          10.64769759,
+          46.168599308
+        ],
+        "pixel": [
+          6844,
+          7293
+        ]
+      },
+      {
+        "location": [
+          10.572595737,
+          46.184289511
+        ],
+        "pixel": [
+          4555,
+          6732
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

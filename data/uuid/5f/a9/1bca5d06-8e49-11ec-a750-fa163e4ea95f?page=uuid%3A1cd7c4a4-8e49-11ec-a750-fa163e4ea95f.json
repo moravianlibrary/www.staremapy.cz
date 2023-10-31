@@ -1,0 +1,121 @@
+{
+  "date": ["1877"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:1bca5d06-8e49-11ec-a750-fa163e4ea95f?page=uuid%3A1cd7c4a4-8e49-11ec-a750-fa163e4ea95f",
+  "description": null,
+  "scale": 300000,
+  "external_id": "1208037",
+  "title": "Scutari",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    18.982363,
+    41.933823,
+    20.803362,
+    43.136295
+  ],
+  "reviewed": null,
+  "publisher": "Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:1bca5d06-8e49-11ec-a750-fa163e4ea95f",
+  "id": "acc2a9f2-98ab-5646-8326-96a281996ac2",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        578,
+        21
+      ],
+      [
+        575,
+        425
+      ],
+      [
+        26,
+        425
+      ],
+      [
+        26,
+        20
+      ],
+      [
+        578,
+        21
+      ]
+    ],
+    "created": "2015-11-05T15:54:16.585040+00:00",
+    "transformation_method": "affine",
+    "mapID": "acc2a9f2-98ab-5646-8326-96a281996ac2",
+    "affine_transformation": null,
+    "changed": "2022-09-15T23:15:18.697997+00:00",
+    "gcps": [
+      {
+        "location": [
+          19.747768120162725,
+          43.034370850786246
+        ],
+        "pixel": [
+          249,
+          53
+        ]
+      },
+      {
+        "location": [
+          19.51459323180675,
+          42.06455506787583
+        ],
+        "pixel": [
+          189,
+          392
+        ]
+      },
+      {
+        "location": [
+          20.433712103983865,
+          42.38525952539962
+        ],
+        "pixel": [
+          478,
+          271
+        ]
+      },
+      {
+        "location": [
+          19.090517702672262,
+          42.246409142628664
+        ],
+        "pixel": [
+          52,
+          326
+        ]
+      },
+      {
+        "location": [
+          20.748897270553353,
+          42.212350995860675
+        ],
+        "pixel": [
+          566,
+          329
+        ]
+      },
+      {
+        "location": [
+          19.264654266963003,
+          42.44065565712833
+        ],
+        "pixel": [
+          117,
+          257
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1877"]
+}

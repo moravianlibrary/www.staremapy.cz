@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Manetin_M_116_2_adIV_adV/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "36706",
+  "title": "Katastrální mapa obce Líté",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.264837,
+    49.901302,
+    13.271994,
+    49.904778
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/36706",
+  "id": "af6f469a-5abc-5cce-bd4f-8e956eeb2f5e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        3397,
+        2532
+      ],
+      [
+        8693,
+        2532
+      ],
+      [
+        8693,
+        308
+      ],
+      [
+        3397,
+        308
+      ],
+      [
+        3397,
+        2532
+      ]
+    ],
+    "created": "2014-12-18T09:16:08.380150+00:00",
+    "transformation_method": "affine",
+    "mapID": "af6f469a-5abc-5cce-bd4f-8e956eeb2f5e",
+    "affine_transformation": null,
+    "changed": "2014-12-18T09:16:08.380150+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.269804993,
+          49.903716759
+        ],
+        "pixel": [
+          7074,
+          900
+        ]
+      },
+      {
+        "location": [
+          13.268854762,
+          49.903065702
+        ],
+        "pixel": [
+          6366,
+          1636
+        ]
+      },
+      {
+        "location": [
+          13.267910315,
+          49.90334453
+        ],
+        "pixel": [
+          5546,
+          948
+        ]
+      },
+      {
+        "location": [
+          13.268489981,
+          49.90182875
+        ],
+        "pixel": [
+          6368,
+          2448
+        ]
+      },
+      {
+        "location": [
+          13.268575503,
+          49.903192505
+        ],
+        "pixel": [
+          6194,
+          1448
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1841"]
+}

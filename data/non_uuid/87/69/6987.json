@@ -1,0 +1,91 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1111/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "6987",
+  "title": "Kolence o. Jindřichův Hradec 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.767325,
+    49.059418,
+    14.799443,
+    49.07316
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/6987",
+  "id": "0f00e771-e145-5561-b474-c402a50d9347",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        3872,
+        6016
+      ],
+      [
+        13408,
+        6016
+      ],
+      [
+        13408,
+        -192
+      ],
+      [
+        3872,
+        -192
+      ],
+      [
+        3872,
+        6016
+      ]
+    ],
+    "created": "2015-07-13T08:01:00.694460+00:00",
+    "transformation_method": "affine",
+    "mapID": "0f00e771-e145-5561-b474-c402a50d9347",
+    "affine_transformation": null,
+    "changed": "2015-07-13T08:01:00.694460+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.795375562,
+          49.069800448
+        ],
+        "pixel": [
+          12202,
+          1322
+        ]
+      },
+      {
+        "location": [
+          14.775269724,
+          49.071417064
+        ],
+        "pixel": [
+          6231,
+          594
+        ]
+      },
+      {
+        "location": [
+          14.782801367,
+          49.061829059
+        ],
+        "pixel": [
+          8466,
+          4929
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1828"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plana_M_13-4/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "14888",
+  "title": "Katastrální mapa obce Nahý Újezdec",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.665165,
+    49.83064,
+    12.688269,
+    49.84463
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/14888",
+  "id": "0fb9e66a-d951-5833-a366-1ec4bd35f6a6",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1226,
+        13107
+      ],
+      [
+        16650,
+        13235
+      ],
+      [
+        16714,
+        947
+      ],
+      [
+        1450,
+        819
+      ],
+      [
+        1226,
+        13107
+      ]
+    ],
+    "created": "2015-01-20T16:40:05.159040+00:00",
+    "transformation_method": "affine",
+    "mapID": "0fb9e66a-d951-5833-a366-1ec4bd35f6a6",
+    "affine_transformation": null,
+    "changed": "2015-01-20T16:40:05.159040+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.685853271,
+          49.837030077
+        ],
+        "pixel": [
+          15628,
+          7756
+        ]
+      },
+      {
+        "location": [
+          12.677592067,
+          49.833127202
+        ],
+        "pixel": [
+          9489,
+          11113
+        ]
+      },
+      {
+        "location": [
+          12.680553226,
+          49.836587213
+        ],
+        "pixel": [
+          11009,
+          8121
+        ]
+      },
+      {
+        "location": [
+          12.673000126,
+          49.838524712
+        ],
+        "pixel": [
+          6881,
+          6105
+        ]
+      },
+      {
+        "location": [
+          12.675875454,
+          49.84130627
+        ],
+        "pixel": [
+          8577,
+          3705
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1842"]
+}

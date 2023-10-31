@@ -1,0 +1,101 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:12fb20b0-aa42-11ec-8f9d-fa163e4ea95f?page=uuid%3A13ae15d0-aa42-11ec-8f9d-fa163e4ea95f",
+  "description": "Evropa střední",
+  "scale": 20000000,
+  "external_id": "1350493",
+  "title": "Přehled počasí",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Machač, František",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -35.62774,
+    -28.812765,
+    138.1609,
+    77.3572
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:12fb20b0-aa42-11ec-8f9d-fa163e4ea95f",
+  "id": "f5bd2283-d0ae-52e6-b4a2-c2781ad9ebf3",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:39:59.860080+00:00",
+    "transformation_method": "affine",
+    "mapID": "f5bd2283-d0ae-52e6-b4a2-c2781ad9ebf3",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:39:59.860080+00:00",
+    "gcps": [
+      {
+        "location": [
+          -3.0914779202368825,
+          58.44233584423549
+        ],
+        "pixel": [
+          105,
+          160
+        ]
+      },
+      {
+        "location": [
+          38.0853846896967,
+          63.91113037935784
+        ],
+        "pixel": [
+          251,
+          114
+        ]
+      },
+      {
+        "location": [
+          32.41282271741385,
+          67.15141122089676
+        ],
+        "pixel": [
+          229,
+          93
+        ]
+      },
+      {
+        "location": [
+          -1.1523910061743816,
+          60.14730909592862
+        ],
+        "pixel": [
+          115,
+          145
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

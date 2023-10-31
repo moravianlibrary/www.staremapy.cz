@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/huav/III_vojenske_mapovani/75/4060/ImageProperties.xml",
+  "description": null,
+  "scale": 75000,
+  "external_id": "5255",
+  "title": "III. vojenské mapování 4060",
+  "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    17.831842,
+    49.748894,
+    18.331158,
+    49.99807
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/5255",
+  "id": "691279d4-842a-5f97-bebf-933b4373a648",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        572,
+        470
+      ],
+      [
+        8099,
+        466
+      ],
+      [
+        8119,
+        6325
+      ],
+      [
+        574,
+        6329
+      ],
+      [
+        572,
+        470
+      ]
+    ],
+    "created": "2014-12-07T21:14:38.650280+00:00",
+    "transformation_method": "affine",
+    "mapID": "691279d4-842a-5f97-bebf-933b4373a648",
+    "affine_transformation": null,
+    "changed": "2023-10-02T12:32:07.584569+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.054380715,
+          49.881757602
+        ],
+        "pixel": [
+          3917,
+          3182
+        ]
+      },
+      {
+        "location": [
+          18.125062287,
+          49.788206091
+        ],
+        "pixel": [
+          5007,
+          5418
+        ]
+      },
+      {
+        "location": [
+          17.9210186,
+          49.94517317
+        ],
+        "pixel": [
+          1914,
+          1722
+        ]
+      },
+      {
+        "location": [
+          18.237017691,
+          49.948133266
+        ],
+        "pixel": [
+          6689,
+          1647
+        ]
+      },
+      {
+        "location": [
+          17.882008553,
+          49.899003228
+        ],
+        "pixel": [
+          1327,
+          2797
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1928"]
+}

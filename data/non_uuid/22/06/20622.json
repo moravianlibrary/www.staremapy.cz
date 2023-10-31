@@ -1,0 +1,91 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/orlik_1185/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "20622",
+  "title": "Varvažov s Pasekou a U mostu, okr. Písek, list 6 list 6",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.164596,
+    49.41548,
+    14.186747,
+    49.426704
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/20622",
+  "id": "4ac8a9e3-4eed-580c-a40d-30e4242182d6",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        864,
+        10080
+      ],
+      [
+        13600,
+        10080
+      ],
+      [
+        13600,
+        224
+      ],
+      [
+        864,
+        224
+      ],
+      [
+        864,
+        10080
+      ]
+    ],
+    "created": "2016-09-25T20:13:52.426480+00:00",
+    "transformation_method": "affine",
+    "mapID": "4ac8a9e3-4eed-580c-a40d-30e4242182d6",
+    "affine_transformation": null,
+    "changed": "2016-09-25T20:13:52.426480+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.176258802,
+          49.418177232
+        ],
+        "pixel": [
+          7527,
+          7768
+        ]
+      },
+      {
+        "location": [
+          14.168748617,
+          49.424650259
+        ],
+        "pixel": [
+          3255,
+          1904
+        ]
+      },
+      {
+        "location": [
+          14.178055882,
+          49.419915088
+        ],
+        "pixel": [
+          8603,
+          6228
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1840"]
+}

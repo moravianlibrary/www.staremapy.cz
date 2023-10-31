@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1892/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "9237",
+  "title": "Situační plán nové cesty z Rájova do Kamenného Újezda 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.35105,
+    48.82583,
+    14.462321,
+    48.897068
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/9237",
+  "id": "7050670b-3c60-5397-bf84-1d69a563aa4c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        42743,
+        0
+      ],
+      [
+        42743,
+        14075
+      ],
+      [
+        0,
+        14075
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        42743,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:15:44.182310+00:00",
+    "transformation_method": "affine",
+    "mapID": "7050670b-3c60-5397-bf84-1d69a563aa4c",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:15:44.182310+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.386714853,
+          48.848539694
+        ],
+        "pixel": [
+          11051,
+          7139
+        ]
+      },
+      {
+        "location": [
+          14.420919298,
+          48.879700762
+        ],
+        "pixel": [
+          32343,
+          3333
+        ]
+      },
+      {
+        "location": [
+          14.448122262,
+          48.882071433
+        ],
+        "pixel": [
+          40230,
+          9360
+        ]
+      },
+      {
+        "location": [
+          14.436384916,
+          48.888646633
+        ],
+        "pixel": [
+          39764,
+          3934
+        ]
+      },
+      {
+        "location": [
+          14.365590692,
+          48.846623128
+        ],
+        "pixel": [
+          5008,
+          2418
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1834"]
+}

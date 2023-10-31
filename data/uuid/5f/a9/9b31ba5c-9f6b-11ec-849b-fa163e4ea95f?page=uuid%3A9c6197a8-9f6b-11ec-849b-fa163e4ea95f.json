@@ -1,0 +1,111 @@
+{
+  "date": ["1940"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:9b31ba5c-9f6b-11ec-849b-fa163e4ea95f?page=uuid%3A9c6197a8-9f6b-11ec-849b-fa163e4ea95f",
+  "description": "Białystok (Polsko : oblast)",
+  "scale": 100000,
+  "external_id": "1332702",
+  "title": "BSSR",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    22.944283,
+    52.90364,
+    23.559334,
+    53.400326
+  ],
+  "reviewed": null,
+  "publisher": "General'nyj štab RKKA",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:9b31ba5c-9f6b-11ec-849b-fa163e4ea95f",
+  "id": "5583aa12-109f-5857-b9d4-28d0d717b3b9",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:10:39.316110+00:00",
+    "transformation_method": "affine",
+    "mapID": "5583aa12-109f-5857-b9d4-28d0d717b3b9",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:10:39.316110+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.459298134,
+          53.212743398
+        ],
+        "pixel": [
+          503,
+          168
+        ]
+      },
+      {
+        "location": [
+          23.178588867,
+          53.114303627
+        ],
+        "pixel": [
+          229,
+          256
+        ]
+      },
+      {
+        "location": [
+          23.074568169,
+          53.283536896
+        ],
+        "pixel": [
+          127,
+          104
+        ]
+      },
+      {
+        "location": [
+          23.054976225,
+          53.015079257
+        ],
+        "pixel": [
+          106,
+          344
+        ]
+      },
+      {
+        "location": [
+          23.383423805,
+          53.039486963
+        ],
+        "pixel": [
+          428,
+          322
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1940"]
+}

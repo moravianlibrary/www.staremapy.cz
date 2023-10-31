@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/0276_04/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "22449",
+  "title": "Stabilní katastr - Pracovní otisk - Brzeszcze in Galizien IV",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    19.115131,
+    49.988724,
+    19.143724,
+    50.003845
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/22449",
+  "id": "c0505ab9-c1ba-578f-bc70-8b6d3ce4e20b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        878,
+        13492
+      ],
+      [
+        16526,
+        13492
+      ],
+      [
+        16526,
+        852
+      ],
+      [
+        878,
+        852
+      ],
+      [
+        878,
+        13492
+      ]
+    ],
+    "created": "2017-02-23T17:51:26.183280+00:00",
+    "transformation_method": "affine",
+    "mapID": "c0505ab9-c1ba-578f-bc70-8b6d3ce4e20b",
+    "affine_transformation": null,
+    "changed": "2017-02-23T17:51:26.183280+00:00",
+    "gcps": [
+      {
+        "location": [
+          19.121809959,
+          50.002314535
+        ],
+        "pixel": [
+          4658,
+          1509
+        ]
+      },
+      {
+        "location": [
+          19.122764826,
+          49.998604328
+        ],
+        "pixel": [
+          4990,
+          4861
+        ]
+      },
+      {
+        "location": [
+          19.139908691891332,
+          49.99012982907138
+        ],
+        "pixel": [
+          14352,
+          13073
+        ]
+      },
+      {
+        "location": [
+          19.11756134,
+          50.002245575
+        ],
+        "pixel": [
+          2286,
+          1369
+        ]
+      },
+      {
+        "location": [
+          19.139158487,
+          50.001783538
+        ],
+        "pixel": [
+          14636,
+          2588
+        ]
+      },
+      {
+        "location": [
+          19.133107424,
+          49.993707518
+        ],
+        "pixel": [
+          10670,
+          9613
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1845"]
+}

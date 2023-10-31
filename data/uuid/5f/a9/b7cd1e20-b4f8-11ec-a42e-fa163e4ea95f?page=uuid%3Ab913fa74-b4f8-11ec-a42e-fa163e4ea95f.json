@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:b7cd1e20-b4f8-11ec-a42e-fa163e4ea95f?page=uuid%3Ab913fa74-b4f8-11ec-a42e-fa163e4ea95f",
+  "description": "Řešov (Polsko : oblast)",
+  "scale": 100000,
+  "external_id": "1390098",
+  "title": "Rzeszów",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    21.774748,
+    49.946987,
+    22.476345,
+    50.280617
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:b7cd1e20-b4f8-11ec-a42e-fa163e4ea95f",
+  "id": "52d4007f-4ea7-55a8-be56-18ffdf8f033b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        476,
+        42
+      ],
+      [
+        478,
+        372
+      ],
+      [
+        49,
+        372
+      ],
+      [
+        50,
+        43
+      ],
+      [
+        476,
+        42
+      ]
+    ],
+    "created": "2016-01-08T13:42:25.474590+00:00",
+    "transformation_method": "affine",
+    "mapID": "52d4007f-4ea7-55a8-be56-18ffdf8f033b",
+    "affine_transformation": null,
+    "changed": "2016-01-08T13:42:25.474590+00:00",
+    "gcps": [
+      {
+        "location": [
+          22.32754709878129,
+          50.242803084316876
+        ],
+        "pixel": [
+          474,
+          48
+        ]
+      },
+      {
+        "location": [
+          22.263351685159357,
+          50.00236998715167
+        ],
+        "pixel": [
+          420,
+          368
+        ]
+      },
+      {
+        "location": [
+          22.183750187440957,
+          50.12866517293375
+        ],
+        "pixel": [
+          352,
+          201
+        ]
+      },
+      {
+        "location": [
+          21.839645690918054,
+          50.20139843984214
+        ],
+        "pixel": [
+          55,
+          105
+        ]
+      },
+      {
+        "location": [
+          21.882046051025462,
+          50.020625569786546
+        ],
+        "pixel": [
+          92,
+          345
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

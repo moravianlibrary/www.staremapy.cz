@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_2682/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "10027",
+  "title": "Záměrná mapa farního lesa u Modré Hůrky 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.6682205,
+    49.738747,
+    13.694614,
+    49.74636
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/10027",
+  "id": "7f303387-1aa5-5de6-af3b-94caaf8c3bee",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        11860,
+        0
+      ],
+      [
+        11860,
+        8119
+      ],
+      [
+        0,
+        8119
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        11860,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:19:56.720410+00:00",
+    "transformation_method": "affine",
+    "mapID": "7f303387-1aa5-5de6-af3b-94caaf8c3bee",
+    "affine_transformation": null,
+    "changed": "2022-08-05T20:29:25.020222+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.683130123921213,
+          49.7444693935804
+        ],
+        "pixel": [
+          5441,
+          1026
+        ]
+      },
+      {
+        "location": [
+          13.68566212923127,
+          49.7396715558975
+        ],
+        "pixel": [
+          8892,
+          7276
+        ]
+      },
+      {
+        "location": [
+          13.680683949299633,
+          49.740545185949316
+        ],
+        "pixel": [
+          7360,
+          6744
+        ]
+      },
+      {
+        "location": [
+          13.677186348744204,
+          49.745439996680915
+        ],
+        "pixel": [
+          2219,
+          980
+        ]
+      },
+      {
+        "location": [
+          13.686520436116034,
+          49.74455258889279
+        ],
+        "pixel": [
+          7986,
+          1152
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1798"]
+}

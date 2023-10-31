@@ -1,0 +1,121 @@
+{
+  "date": ["1930"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:756fde30-9e43-11ec-8ad8-fa163e4ea95f?page=uuid%3A7670af3a-9e43-11ec-8ad8-fa163e4ea95f",
+  "description": "Morava (Česko)",
+  "scale": 75000,
+  "external_id": "1304854",
+  "title": "Uherské Hradiště",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    17.332455,
+    48.998867,
+    17.83238,
+    49.24906
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:756fde30-9e43-11ec-8ad8-fa163e4ea95f",
+  "id": "d874da78-90f9-57b6-bbe4-080a390e53e7",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        75,
+        389
+      ],
+      [
+        526,
+        388
+      ],
+      [
+        525,
+        50
+      ],
+      [
+        75,
+        51
+      ],
+      [
+        75,
+        389
+      ]
+    ],
+    "created": "2016-11-28T17:03:21.662540+00:00",
+    "transformation_method": "affine",
+    "mapID": "d874da78-90f9-57b6-bbe4-080a390e53e7",
+    "affine_transformation": null,
+    "changed": "2016-11-28T17:03:21.662540+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.529651624,
+          49.20763964
+        ],
+        "pixel": [
+          252,
+          106
+        ]
+      },
+      {
+        "location": [
+          17.717556459,
+          49.07623622
+        ],
+        "pixel": [
+          423,
+          285
+        ]
+      },
+      {
+        "location": [
+          17.809288007,
+          49.216162286
+        ],
+        "pixel": [
+          505,
+          94
+        ]
+      },
+      {
+        "location": [
+          17.449056608,
+          49.070838446
+        ],
+        "pixel": [
+          180,
+          291
+        ]
+      },
+      {
+        "location": [
+          17.801206329,
+          49.03419153
+        ],
+        "pixel": [
+          497,
+          339
+        ]
+      },
+      {
+        "location": [
+          17.688588602,
+          49.034219317
+        ],
+        "pixel": [
+          397,
+          340
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1930"]
+}

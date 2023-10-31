@@ -1,0 +1,111 @@
+{
+  "date": ["1924"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:4d2b2acc-9f8a-11ec-9f91-fa163e4ea95f?page=uuid%3A4e133308-9f8a-11ec-9f91-fa163e4ea95f",
+  "description": "Prusko",
+  "scale": 25000,
+  "external_id": "1333551",
+  "title": "Sarstedt",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    9.831789,
+    52.198444,
+    9.9990425,
+    52.29851
+  ],
+  "reviewed": null,
+  "publisher": "Reichsamt für Landesaufnahme",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:4d2b2acc-9f8a-11ec-9f91-fa163e4ea95f",
+  "id": "0d0777a2-ba3f-59ee-bb27-8dfcc94b870c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        41,
+        364
+      ],
+      [
+        508,
+        363
+      ],
+      [
+        506,
+        43
+      ],
+      [
+        40,
+        43
+      ],
+      [
+        41,
+        364
+      ]
+    ],
+    "created": "2016-03-09T15:13:45.640220+00:00",
+    "transformation_method": "affine",
+    "mapID": "0d0777a2-ba3f-59ee-bb27-8dfcc94b870c",
+    "affine_transformation": null,
+    "changed": "2016-03-09T15:13:45.640220+00:00",
+    "gcps": [
+      {
+        "location": [
+          9.965754789,
+          52.207563032
+        ],
+        "pixel": [
+          415,
+          334
+        ]
+      },
+      {
+        "location": [
+          9.917169255,
+          52.297460945
+        ],
+        "pixel": [
+          278,
+          46
+        ]
+      },
+      {
+        "location": [
+          9.966527266,
+          52.252645597
+        ],
+        "pixel": [
+          416,
+          190
+        ]
+      },
+      {
+        "location": [
+          9.85219006,
+          52.231356928
+        ],
+        "pixel": [
+          98,
+          259
+        ]
+      },
+      {
+        "location": [
+          9.880133313,
+          52.221822825
+        ],
+        "pixel": [
+          175,
+          289
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1924"]
+}

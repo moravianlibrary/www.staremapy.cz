@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/4288_43/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "45256",
+  "title": "Výškopisný plán hlavního města Prahy s okolím",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.56442,
+    50.076252,
+    14.603953,
+    50.097088
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/45256",
+  "id": "d3695a85-3fc8-530a-9f60-c8283d94ed77",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        664,
+        747
+      ],
+      [
+        712,
+        11559
+      ],
+      [
+        14144,
+        11547
+      ],
+      [
+        14084,
+        715
+      ],
+      [
+        664,
+        747
+      ]
+    ],
+    "created": "2017-02-04T18:56:43.618910+00:00",
+    "transformation_method": "affine",
+    "mapID": "d3695a85-3fc8-530a-9f60-c8283d94ed77",
+    "affine_transformation": null,
+    "changed": "2017-02-04T18:56:43.618910+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.583378315,
+          50.089604696
+        ],
+        "pixel": [
+          7136,
+          4568
+        ]
+      },
+      {
+        "location": [
+          14.585738659,
+          50.088585927
+        ],
+        "pixel": [
+          7944,
+          5127
+        ]
+      },
+      {
+        "location": [
+          14.575964689,
+          50.086190358
+        ],
+        "pixel": [
+          4610,
+          6412
+        ]
+      },
+      {
+        "location": [
+          14.576318741,
+          50.09109151
+        ],
+        "pixel": [
+          4704,
+          3924
+        ]
+      },
+      {
+        "location": [
+          14.57844305,
+          50.089645997
+        ],
+        "pixel": [
+          5440,
+          4592
+        ]
+      },
+      {
+        "location": [
+          14.598602533,
+          50.081935863
+        ],
+        "pixel": [
+          12310,
+          8605
+        ]
+      },
+      {
+        "location": [
+          14.580224037,
+          50.088393185
+        ],
+        "pixel": [
+          6056,
+          5247
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

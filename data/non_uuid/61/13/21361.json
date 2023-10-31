@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Manetin_M_124_3/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "21361",
+  "title": "Katastrální mapa obce Vysočany",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.296965,
+    50.013786,
+    13.310543,
+    50.01559
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/21361",
+  "id": "6c36e808-aaa8-5860-8a96-a315d8968881",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        4613,
+        3832
+      ],
+      [
+        12357,
+        3832
+      ],
+      [
+        12357,
+        2232
+      ],
+      [
+        4613,
+        2232
+      ],
+      [
+        4613,
+        3832
+      ]
+    ],
+    "created": "2014-12-09T09:13:31.439000+00:00",
+    "transformation_method": "affine",
+    "mapID": "6c36e808-aaa8-5860-8a96-a315d8968881",
+    "affine_transformation": null,
+    "changed": "2014-12-09T09:13:31.439000+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.307399358324929,
+          50.01510550131073
+        ],
+        "pixel": [
+          10586,
+          2687
+        ]
+      },
+      {
+        "location": [
+          13.309196438364904,
+          50.01545710401243
+        ],
+        "pixel": [
+          11586,
+          2383
+        ]
+      },
+      {
+        "location": [
+          13.309437837176247,
+          50.015084818718776
+        ],
+        "pixel": [
+          11750,
+          2659
+        ]
+      },
+      {
+        "location": [
+          13.307399358324933,
+          50.01394381526876
+        ],
+        "pixel": [
+          10590,
+          3720
+        ]
+      },
+      {
+        "location": [
+          13.301294650607023,
+          50.0148883336509
+        ],
+        "pixel": [
+          7074,
+          2846
+        ]
+      },
+      {
+        "location": [
+          13.306675161890904,
+          50.01543642157176
+        ],
+        "pixel": [
+          10114,
+          2335
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1841"]
+}

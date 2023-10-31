@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/orlik_0727/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "17016",
+  "title": "Hrejkovice, okr. Písek, list 1 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.269942,
+    49.48394,
+    14.296451,
+    49.490894
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/17016",
+  "id": "5b04e713-11d8-519f-8883-463347a05848",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        15518,
+        0
+      ],
+      [
+        15518,
+        6175
+      ],
+      [
+        0,
+        6175
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        15518,
+        0
+      ]
+    ],
+    "created": "2014-11-25T18:12:13.420850+00:00",
+    "transformation_method": "affine",
+    "mapID": "5b04e713-11d8-519f-8883-463347a05848",
+    "affine_transformation": null,
+    "changed": "2014-11-25T18:12:13.420850+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.272822795108045,
+          49.485601971484925
+        ],
+        "pixel": [
+          1677,
+          4750
+        ]
+      },
+      {
+        "location": [
+          14.289535284,
+          49.487527996
+        ],
+        "pixel": [
+          11472,
+          2971
+        ]
+      },
+      {
+        "location": [
+          14.273200032285132,
+          49.48735918152525
+        ],
+        "pixel": [
+          1901,
+          3166
+        ]
+      },
+      {
+        "location": [
+          14.290255875132535,
+          49.488241037835394
+        ],
+        "pixel": [
+          11897,
+          2325
+        ]
+      },
+      {
+        "location": [
+          14.275169372507479,
+          49.484298226876405
+        ],
+        "pixel": [
+          3067,
+          5910
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1840"]
+}

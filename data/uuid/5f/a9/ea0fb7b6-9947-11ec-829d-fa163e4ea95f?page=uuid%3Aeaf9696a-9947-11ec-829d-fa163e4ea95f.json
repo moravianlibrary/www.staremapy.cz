@@ -1,0 +1,121 @@
+{
+  "date": ["1938"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:ea0fb7b6-9947-11ec-829d-fa163e4ea95f?page=uuid%3Aeaf9696a-9947-11ec-829d-fa163e4ea95f",
+  "description": "Slovensko",
+  "scale": 75000,
+  "external_id": "1293905",
+  "title": "Spišská Nová Ves",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    20.33232,
+    48.748943,
+    20.83032,
+    48.998604
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:ea0fb7b6-9947-11ec-829d-fa163e4ea95f",
+  "id": "595850da-2897-57aa-a262-0bcacd94c161",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        71,
+        380
+      ],
+      [
+        528,
+        381
+      ],
+      [
+        529,
+        42
+      ],
+      [
+        74,
+        42
+      ],
+      [
+        71,
+        380
+      ]
+    ],
+    "created": "2017-08-13T08:25:13.974830+00:00",
+    "transformation_method": "affine",
+    "mapID": "595850da-2897-57aa-a262-0bcacd94c161",
+    "affine_transformation": null,
+    "changed": "2017-08-13T08:25:13.974830+00:00",
+    "gcps": [
+      {
+        "location": [
+          20.35765112,
+          48.994548397
+        ],
+        "pixel": [
+          97,
+          47
+        ]
+      },
+      {
+        "location": [
+          20.623340016,
+          48.838647277
+        ],
+        "pixel": [
+          340,
+          259
+        ]
+      },
+      {
+        "location": [
+          20.804743176,
+          48.804146918
+        ],
+        "pixel": [
+          505,
+          305
+        ]
+      },
+      {
+        "location": [
+          20.416788464,
+          48.755322705
+        ],
+        "pixel": [
+          149,
+          373
+        ]
+      },
+      {
+        "location": [
+          20.821565991,
+          48.940906559
+        ],
+        "pixel": [
+          521,
+          121
+        ]
+      },
+      {
+        "location": [
+          20.33709467,
+          48.814787768
+        ],
+        "pixel": [
+          75,
+          291
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1938"]
+}

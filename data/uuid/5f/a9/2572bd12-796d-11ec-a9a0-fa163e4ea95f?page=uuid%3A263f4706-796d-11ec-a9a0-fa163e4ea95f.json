@@ -1,0 +1,121 @@
+{
+  "date": ["1918"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:2572bd12-796d-11ec-a9a0-fa163e4ea95f?page=uuid%3A263f4706-796d-11ec-a9a0-fa163e4ea95f",
+  "description": "Île-de-France (Francie : kraj)",
+  "scale": 500000,
+  "external_id": "1126507",
+  "title": "Ile de France (Reims-Paris)",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    1.8796469,
+    48.69699,
+    4.19185,
+    49.918694
+  ],
+  "reviewed": null,
+  "publisher": "Velhagen & Klasing",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:2572bd12-796d-11ec-a9a0-fa163e4ea95f",
+  "id": "6f40e1e5-95aa-5228-8b8c-6626543c6cc1",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        29,
+        398
+      ],
+      [
+        571,
+        398
+      ],
+      [
+        571,
+        33
+      ],
+      [
+        29,
+        33
+      ],
+      [
+        29,
+        398
+      ]
+    ],
+    "created": "2017-09-15T19:13:57.731050+00:00",
+    "transformation_method": "affine",
+    "mapID": "6f40e1e5-95aa-5228-8b8c-6626543c6cc1",
+    "affine_transformation": null,
+    "changed": "2017-09-15T19:13:57.731050+00:00",
+    "gcps": [
+      {
+        "location": [
+          3.957700234,
+          49.0442376
+        ],
+        "pixel": [
+          516,
+          295
+        ]
+      },
+      {
+        "location": [
+          2.296018105,
+          49.896360074
+        ],
+        "pixel": [
+          129,
+          39
+        ]
+      },
+      {
+        "location": [
+          3.538846475,
+          48.870090351
+        ],
+        "pixel": [
+          419,
+          349
+        ]
+      },
+      {
+        "location": [
+          2.124700051,
+          48.80291827
+        ],
+        "pixel": [
+          85,
+          368
+        ]
+      },
+      {
+        "location": [
+          2.091397744,
+          49.443084725
+        ],
+        "pixel": [
+          77,
+          179
+        ]
+      },
+      {
+        "location": [
+          4.02567814,
+          49.256669796
+        ],
+        "pixel": [
+          533,
+          229
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1918"]
+}

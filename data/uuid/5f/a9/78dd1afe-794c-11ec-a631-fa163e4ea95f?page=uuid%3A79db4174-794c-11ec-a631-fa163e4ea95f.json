@@ -1,0 +1,111 @@
+{
+  "date": ["1938"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:78dd1afe-794c-11ec-a631-fa163e4ea95f?page=uuid%3A79db4174-794c-11ec-a631-fa163e4ea95f",
+  "description": "Rumburk-oblast (Česko)",
+  "scale": 25000,
+  "external_id": "1124876",
+  "title": "[Kartenblatt]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.290124,
+    50.850372,
+    14.641655,
+    51.022064
+  ],
+  "reviewed": null,
+  "publisher": "Reichsamt für Landesaufnahme",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:78dd1afe-794c-11ec-a631-fa163e4ea95f",
+  "id": "88eb2c69-6066-5e60-85f0-bef8f56e95ac",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        502,
+        59
+      ],
+      [
+        502,
+        383
+      ],
+      [
+        74,
+        382
+      ],
+      [
+        75,
+        59
+      ],
+      [
+        502,
+        59
+      ]
+    ],
+    "created": "2014-08-19T14:01:19.208520+00:00",
+    "transformation_method": "affine",
+    "mapID": "88eb2c69-6066-5e60-85f0-bef8f56e95ac",
+    "affine_transformation": null,
+    "changed": "2014-08-19T14:01:19.208520+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.359654395751035,
+          50.92298925170306
+        ],
+        "pixel": [
+          119,
+          256
+        ]
+      },
+      {
+        "location": [
+          14.504330950494554,
+          50.919166564135
+        ],
+        "pixel": [
+          366,
+          267
+        ]
+      },
+      {
+        "location": [
+          14.39469548074693,
+          50.880603163020766
+        ],
+        "pixel": [
+          178,
+          365
+        ]
+      },
+      {
+        "location": [
+          14.383108926325908,
+          50.99308431683639
+        ],
+        "pixel": [
+          159,
+          75
+        ]
+      },
+      {
+        "location": [
+          14.568768410883965,
+          50.99496490129522
+        ],
+        "pixel": [
+          476,
+          69
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1938"]
+}

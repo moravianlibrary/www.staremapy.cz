@@ -1,0 +1,111 @@
+{
+  "date": ["1940"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:5c33d710-969f-11ec-a92c-fa163e4ea95f?page=uuid%3A5d40b3bc-969f-11ec-a92c-fa163e4ea95f",
+  "description": null,
+  "scale": 200000,
+  "external_id": "1271544",
+  "title": "43°47° Gheorgheni",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    24.83215,
+    46.49462,
+    25.845112,
+    47.505196
+  ],
+  "reviewed": null,
+  "publisher": "Hauptvermessungsabteilung XIV",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:5c33d710-969f-11ec-a92c-fa163e4ea95f",
+  "id": "816d4d8a-7bdf-5054-a5b0-7ea1afcb378a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        64,
+        402
+      ],
+      [
+        542,
+        402
+      ],
+      [
+        542,
+        29
+      ],
+      [
+        64,
+        29
+      ],
+      [
+        64,
+        402
+      ]
+    ],
+    "created": "2017-09-25T18:31:35.729730+00:00",
+    "transformation_method": "affine",
+    "mapID": "816d4d8a-7bdf-5054-a5b0-7ea1afcb378a",
+    "affine_transformation": null,
+    "changed": "2017-09-25T18:31:35.729730+00:00",
+    "gcps": [
+      {
+        "location": [
+          24.870099478,
+          46.945873902
+        ],
+        "pixel": [
+          79,
+          235
+        ]
+      },
+      {
+        "location": [
+          25.783643769,
+          47.493810295
+        ],
+        "pixel": [
+          513,
+          33
+        ]
+      },
+      {
+        "location": [
+          25.361694746,
+          47.349181007
+        ],
+        "pixel": [
+          312,
+          86
+        ]
+      },
+      {
+        "location": [
+          25.352467947,
+          46.924218426
+        ],
+        "pixel": [
+          311,
+          244
+        ]
+      },
+      {
+        "location": [
+          25.598716482,
+          46.723092788
+        ],
+        "pixel": [
+          430,
+          319
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1940"]
+}

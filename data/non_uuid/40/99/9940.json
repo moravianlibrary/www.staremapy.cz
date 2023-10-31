@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_2595/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "9940",
+  "title": "Záměrná mapa-brouilon-nově vyměřených pozemků dvora Ortvínovice 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.582118,
+    48.976093,
+    14.610454,
+    48.99092
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/9940",
+  "id": "49695c11-00aa-516d-86bd-201738967762",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        160,
+        14928
+      ],
+      [
+        18368,
+        14928
+      ],
+      [
+        18368,
+        208
+      ],
+      [
+        160,
+        208
+      ],
+      [
+        160,
+        14928
+      ]
+    ],
+    "created": "2015-06-13T11:08:21.854580+00:00",
+    "transformation_method": "affine",
+    "mapID": "49695c11-00aa-516d-86bd-201738967762",
+    "affine_transformation": null,
+    "changed": "2015-06-13T11:08:21.854580+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.585621916,
+          48.982081922
+        ],
+        "pixel": [
+          2255,
+          8927
+        ]
+      },
+      {
+        "location": [
+          14.603818021,
+          48.979441372
+        ],
+        "pixel": [
+          14137,
+          11693
+        ]
+      },
+      {
+        "location": [
+          14.591474694,
+          48.98622414
+        ],
+        "pixel": [
+          6190,
+          4779
+        ]
+      },
+      {
+        "location": [
+          14.59792356,
+          48.977887638
+        ],
+        "pixel": [
+          10172,
+          13257
+        ]
+      },
+      {
+        "location": [
+          14.601404034,
+          48.985194071
+        ],
+        "pixel": [
+          12630,
+          5936
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1823"]
+}

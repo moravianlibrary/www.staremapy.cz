@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/0169_10/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "22274",
+  "title": "Paris au XVIII siécle 10",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    2.3416877,
+    48.85209,
+    2.3664718,
+    48.868313
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/22274",
+  "id": "39a99a51-96fb-5fe3-bf26-8b85d542c28f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1418,
+        11112
+      ],
+      [
+        16906,
+        11112
+      ],
+      [
+        16906,
+        1256
+      ],
+      [
+        1418,
+        1256
+      ],
+      [
+        1418,
+        11112
+      ]
+    ],
+    "created": "2015-03-08T15:39:49.848700+00:00",
+    "transformation_method": "affine",
+    "mapID": "39a99a51-96fb-5fe3-bf26-8b85d542c28f",
+    "affine_transformation": null,
+    "changed": "2015-03-08T15:39:49.848700+00:00",
+    "gcps": [
+      {
+        "location": [
+          2.354333268,
+          48.855633846
+        ],
+        "pixel": [
+          12425,
+          2949
+        ]
+      },
+      {
+        "location": [
+          2.354971634,
+          48.867382389
+        ],
+        "pixel": [
+          3473,
+          10721
+        ]
+      },
+      {
+        "location": [
+          2.353780733,
+          48.865561527
+        ],
+        "pixel": [
+          4585,
+          10289
+        ]
+      },
+      {
+        "location": [
+          2.351972924,
+          48.856537407
+        ],
+        "pixel": [
+          13284,
+          4310
+        ]
+      },
+      {
+        "location": [
+          2.348829375,
+          48.856537407
+        ],
+        "pixel": [
+          15412,
+          5570
+        ]
+      },
+      {
+        "location": [
+          2.347043024,
+          48.857038593
+        ],
+        "pixel": [
+          16229,
+          6681
+        ]
+      },
+      {
+        "location": [
+          2.353487644,
+          48.853517233
+        ],
+        "pixel": [
+          15069,
+          1678
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

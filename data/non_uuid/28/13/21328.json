@@ -1,0 +1,133 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Manetin_M_113_2/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "21328",
+  "title": "Katastrální mapa obce Korýtka",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.32095,
+    49.93108,
+    13.34763,
+    49.9458
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/21328",
+  "id": "b60dc2ff-157e-5992-a902-2dff6b56bbde",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1145,
+        13554
+      ],
+      [
+        9013,
+        13506
+      ],
+      [
+        9864,
+        14606
+      ],
+      [
+        10635,
+        13482
+      ],
+      [
+        16625,
+        13458
+      ],
+      [
+        16509,
+        1010
+      ],
+      [
+        1005,
+        1142
+      ],
+      [
+        1145,
+        13554
+      ]
+    ],
+    "created": "2015-02-20T21:49:57.622280+00:00",
+    "transformation_method": "affine",
+    "mapID": "b60dc2ff-157e-5992-a902-2dff6b56bbde",
+    "affine_transformation": null,
+    "changed": "2015-02-20T21:49:57.622280+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.327816535,
+          49.944946177
+        ],
+        "pixel": [
+          4982,
+          1795
+        ]
+      },
+      {
+        "location": [
+          13.336233306,
+          49.934139803
+        ],
+        "pixel": [
+          9949,
+          11788
+        ]
+      },
+      {
+        "location": [
+          13.345315266,
+          49.935793715
+        ],
+        "pixel": [
+          15254,
+          10203
+        ]
+      },
+      {
+        "location": [
+          13.34215026,
+          49.940361532
+        ],
+        "pixel": [
+          13382,
+          6083
+        ]
+      },
+      {
+        "location": [
+          13.346742201,
+          49.938317634
+        ],
+        "pixel": [
+          16118,
+          7915
+        ]
+      },
+      {
+        "location": [
+          13.324410129,
+          49.942129157
+        ],
+        "pixel": [
+          3079,
+          4468
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1900"]
+}

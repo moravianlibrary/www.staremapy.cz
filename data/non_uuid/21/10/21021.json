@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plasy_M_177_2/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "21021",
+  "title": "Katastrální mapa obce Výrov WC-VII-17 ch",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.439116,
+    49.960808,
+    13.454749,
+    49.967567
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/21021",
+  "id": "df5245fb-652e-5093-9ca0-138fa5b62a3c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        9361,
+        13117
+      ],
+      [
+        16961,
+        13117
+      ],
+      [
+        16961,
+        7101
+      ],
+      [
+        9361,
+        7101
+      ],
+      [
+        9361,
+        13117
+      ]
+    ],
+    "created": "2016-01-26T20:40:57.747740+00:00",
+    "transformation_method": "affine",
+    "mapID": "df5245fb-652e-5093-9ca0-138fa5b62a3c",
+    "affine_transformation": null,
+    "changed": "2016-01-26T20:40:57.747740+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.445745468,
+          49.962277146
+        ],
+        "pixel": [
+          12921,
+          11759
+        ]
+      },
+      {
+        "location": [
+          13.444672246,
+          49.966969328
+        ],
+        "pixel": [
+          12048,
+          7520
+        ]
+      },
+      {
+        "location": [
+          13.442355156,
+          49.967025331
+        ],
+        "pixel": [
+          10313,
+          7535
+        ]
+      },
+      {
+        "location": [
+          13.451281209,
+          49.965865139
+        ],
+        "pixel": [
+          15696,
+          8448
+        ]
+      },
+      {
+        "location": [
+          13.453127933734532,
+          49.96479038772682
+        ],
+        "pixel": [
+          15716,
+          9844
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1886"]
+}

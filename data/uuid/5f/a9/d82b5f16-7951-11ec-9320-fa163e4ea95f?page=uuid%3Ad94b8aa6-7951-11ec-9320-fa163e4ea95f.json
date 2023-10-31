@@ -1,0 +1,111 @@
+{
+  "date": ["1938"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:d82b5f16-7951-11ec-9320-fa163e4ea95f?page=uuid%3Ad94b8aa6-7951-11ec-9320-fa163e4ea95f",
+  "description": "Brozany nad Ohří (Česko)",
+  "scale": 25000,
+  "external_id": "1125038",
+  "title": "[Kartenblatt]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.060063,
+    50.352364,
+    14.384991,
+    50.524887
+  ],
+  "reviewed": null,
+  "publisher": "Reichsamt für Landesaufnahme",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:d82b5f16-7951-11ec-9320-fa163e4ea95f",
+  "id": "ce882e22-ad20-5ee6-958d-2d44944cadb6",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2014-08-19T14:02:13.230850+00:00",
+    "transformation_method": "affine",
+    "mapID": "ce882e22-ad20-5ee6-958d-2d44944cadb6",
+    "affine_transformation": null,
+    "changed": "2014-08-19T14:02:13.230850+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.324232452,
+          50.458449135
+        ],
+        "pixel": [
+          488,
+          170
+        ]
+      },
+      {
+        "location": [
+          14.229520358,
+          50.476715196
+        ],
+        "pixel": [
+          313,
+          124
+        ]
+      },
+      {
+        "location": [
+          14.225078955,
+          50.389896951
+        ],
+        "pixel": [
+          306,
+          347
+        ]
+      },
+      {
+        "location": [
+          14.092872528,
+          50.484221049
+        ],
+        "pixel": [
+          58,
+          104
+        ]
+      },
+      {
+        "location": [
+          14.133904971,
+          50.406008903
+        ],
+        "pixel": [
+          136,
+          307
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1938"]
+}

@@ -1,0 +1,81 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Tachov_M_5/ImageProperties.xml",
+  "description": null,
+  "scale": 56248,
+  "external_id": "21643",
+  "title": "Mapa česko-bavorské hranice v prostoru panství Tachov a soudního okresu Bärnau",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": false,
+  "bounds": [
+    12.1906805,
+    49.685284,
+    12.703039,
+    49.85824
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/21643",
+  "id": "5e3313e6-a228-5809-b483-792f972e878b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        14748,
+        0
+      ],
+      [
+        14748,
+        10491
+      ],
+      [
+        0,
+        10491
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        14748,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:00:44.120290+00:00",
+    "transformation_method": "affine",
+    "mapID": "5e3313e6-a228-5809-b483-792f972e878b",
+    "affine_transformation": null,
+    "changed": "2022-11-14T19:52:44.275144+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.413587975279158,
+          49.743939368102104
+        ],
+        "pixel": [
+          4368,
+          5892
+        ]
+      },
+      {
+        "location": [
+          12.462253975645368,
+          49.75902328361096
+        ],
+        "pixel": [
+          6564,
+          6403
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1800"]
+}

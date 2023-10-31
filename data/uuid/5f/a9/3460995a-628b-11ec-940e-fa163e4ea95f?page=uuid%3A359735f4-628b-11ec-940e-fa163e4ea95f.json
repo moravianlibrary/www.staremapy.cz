@@ -1,0 +1,111 @@
+{
+  "date": ["1875"],
+  "creator": "Šembera, Alois Vojtěch",
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:3460995a-628b-11ec-940e-fa163e4ea95f?page=uuid%3A359735f4-628b-11ec-940e-fa163e4ea95f",
+  "description": "Morava (Česko)",
+  "scale": 288000,
+  "external_id": "1085840",
+  "title": "Mapa země moravské s částmi pohraničnými [sic] Slezska, Čech, Rakous i Uher",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.077792,
+    48.40854,
+    19.124228,
+    50.592384
+  ],
+  "reviewed": null,
+  "publisher": "Alois Vojtěch Šembera",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:3460995a-628b-11ec-940e-fa163e4ea95f",
+  "id": "aae6e9b5-0793-5bd7-90bd-2da0294132d9",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        11,
+        431
+      ],
+      [
+        587,
+        431
+      ],
+      [
+        587,
+        4
+      ],
+      [
+        11,
+        4
+      ],
+      [
+        11,
+        431
+      ]
+    ],
+    "created": "2014-12-30T20:06:33.089320+00:00",
+    "transformation_method": "affine",
+    "mapID": "aae6e9b5-0793-5bd7-90bd-2da0294132d9",
+    "affine_transformation": null,
+    "changed": "2014-12-30T20:06:33.089320+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.403109934,
+          49.398618623
+        ],
+        "pixel": [
+          485,
+          238
+        ]
+      },
+      {
+        "location": [
+          15.939430923,
+          48.819045632
+        ],
+        "pixel": [
+          134,
+          358
+        ]
+      },
+      {
+        "location": [
+          15.870337219,
+          48.860001754
+        ],
+        "pixel": [
+          124,
+          349
+        ]
+      },
+      {
+        "location": [
+          16.508145065,
+          49.759369439
+        ],
+        "pixel": [
+          216,
+          168
+        ]
+      },
+      {
+        "location": [
+          17.203585746,
+          50.386103516
+        ],
+        "pixel": [
+          313,
+          43
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1875"]
+}

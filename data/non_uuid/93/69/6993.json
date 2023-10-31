@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1117/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "6993",
+  "title": "Lužnice o. Jindřichův Hradec 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.734039,
+    49.043587,
+    14.811437,
+    49.07472
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/6993",
+  "id": "9c65504b-e90b-5ab2-9188-07588d6b5702",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        22809,
+        0
+      ],
+      [
+        22809,
+        13296
+      ],
+      [
+        0,
+        13296
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        22809,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:11:20.154500+00:00",
+    "transformation_method": "affine",
+    "mapID": "9c65504b-e90b-5ab2-9188-07588d6b5702",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:11:20.154500+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.755673527731416,
+          49.062606169275966
+        ],
+        "pixel": [
+          6259,
+          5275
+        ]
+      },
+      {
+        "location": [
+          14.759879231,
+          49.050022817
+        ],
+        "pixel": [
+          7662,
+          10896
+        ]
+      },
+      {
+        "location": [
+          14.762486339,
+          49.071731896
+        ],
+        "pixel": [
+          8181,
+          1030
+        ]
+      },
+      {
+        "location": [
+          14.756748412998984,
+          49.062995117283606
+        ],
+        "pixel": [
+          6598,
+          5105
+        ]
+      },
+      {
+        "location": [
+          14.787688375,
+          49.054396328
+        ],
+        "pixel": [
+          15933,
+          8650
+        ]
+      },
+      {
+        "location": [
+          14.758868038668183,
+          49.06262374401783
+        ],
+        "pixel": [
+          7215,
+          5244
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1828"]
+}

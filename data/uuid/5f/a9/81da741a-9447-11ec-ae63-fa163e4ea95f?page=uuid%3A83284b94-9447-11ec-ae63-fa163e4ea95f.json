@@ -1,0 +1,111 @@
+{
+  "date": ["1895"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:81da741a-9447-11ec-ae63-fa163e4ea95f?page=uuid%3A83284b94-9447-11ec-ae63-fa163e4ea95f",
+  "description": "Lvov (Ukrajina : oblast)",
+  "scale": 200000,
+  "external_id": "1254233",
+  "title": "Lemberg",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    23.836548,
+    49.482487,
+    24.831438,
+    50.5048
+  ],
+  "reviewed": null,
+  "publisher": "K.u.k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:81da741a-9447-11ec-ae63-fa163e4ea95f",
+  "id": "f59b46cf-8ad1-5352-86ea-e4d0bd46c846",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        93,
+        406
+      ],
+      [
+        518,
+        406
+      ],
+      [
+        518,
+        38
+      ],
+      [
+        93,
+        38
+      ],
+      [
+        93,
+        406
+      ]
+    ],
+    "created": "2017-04-23T17:08:33.287520+00:00",
+    "transformation_method": "affine",
+    "mapID": "f59b46cf-8ad1-5352-86ea-e4d0bd46c846",
+    "affine_transformation": null,
+    "changed": "2017-04-23T17:08:33.287520+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.973043301,
+          50.056221825
+        ],
+        "pixel": [
+          150,
+          199
+        ]
+      },
+      {
+        "location": [
+          24.006417312,
+          50.382560616
+        ],
+        "pixel": [
+          166,
+          81
+        ]
+      },
+      {
+        "location": [
+          24.610877558,
+          49.960581242
+        ],
+        "pixel": [
+          425,
+          235
+        ]
+      },
+      {
+        "location": [
+          24.019761606,
+          49.811654515
+        ],
+        "pixel": [
+          169,
+          288
+        ]
+      },
+      {
+        "location": [
+          24.138680025,
+          50.236035429
+        ],
+        "pixel": [
+          222,
+          135
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1895"]
+}

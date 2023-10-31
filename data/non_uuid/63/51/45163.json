@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/4283/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "45163",
+  "title": "Reliefkarte von Paris und Umgebung",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    2.0881553,
+    48.584538,
+    2.6023064,
+    49.12141
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/45163",
+  "id": "ff0ab625-a4fc-5f08-93f5-4102b21da906",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        8513,
+        0
+      ],
+      [
+        8513,
+        6175
+      ],
+      [
+        0,
+        6175
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        8513,
+        0
+      ]
+    ],
+    "created": "2014-11-25T16:07:13.911950+00:00",
+    "transformation_method": "affine",
+    "mapID": "ff0ab625-a4fc-5f08-93f5-4102b21da906",
+    "affine_transformation": null,
+    "changed": "2014-11-25T16:07:13.911950+00:00",
+    "gcps": [
+      {
+        "location": [
+          2.411499023,
+          48.816247242
+        ],
+        "pixel": [
+          5303,
+          3619
+        ]
+      },
+      {
+        "location": [
+          2.353477478,
+          48.817377579
+        ],
+        "pixel": [
+          4423,
+          3527
+        ]
+      },
+      {
+        "location": [
+          2.343864441,
+          48.940431473
+        ],
+        "pixel": [
+          4243,
+          2087
+        ]
+      },
+      {
+        "location": [
+          2.249450684,
+          48.823028878
+        ],
+        "pixel": [
+          2580,
+          3379
+        ]
+      },
+      {
+        "location": [
+          2.391929626,
+          48.899597606
+        ],
+        "pixel": [
+          5171,
+          2499
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

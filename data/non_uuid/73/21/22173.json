@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/0154_14/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "22173",
+  "title": "A Dunavölgy Átnézeti Térképe, Carte d´ensemble del la Vallée du Danube XIV.",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.894196,
+    46.156204,
+    18.254593,
+    46.938103
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/22173",
+  "id": "baa558ce-a33d-5287-bcd8-132c4a6d521d",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        19522,
+        0
+      ],
+      [
+        19522,
+        16265
+      ],
+      [
+        0,
+        16265
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        19522,
+        0
+      ]
+    ],
+    "created": "2014-11-25T14:47:13.807580+00:00",
+    "transformation_method": "affine",
+    "mapID": "baa558ce-a33d-5287-bcd8-132c4a6d521d",
+    "affine_transformation": null,
+    "changed": "2014-11-25T14:47:13.807580+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.968802352,
+          46.842697682
+        ],
+        "pixel": [
+          15461,
+          1999
+        ]
+      },
+      {
+        "location": [
+          17.905783653,
+          46.599303079
+        ],
+        "pixel": [
+          14549,
+          7104
+        ]
+      },
+      {
+        "location": [
+          17.774677277,
+          46.362330992
+        ],
+        "pixel": [
+          12648,
+          12009
+        ]
+      },
+      {
+        "location": [
+          17.13162968,
+          46.313787838
+        ],
+        "pixel": [
+          3324,
+          13021
+        ]
+      },
+      {
+        "location": [
+          17.242698669,
+          46.768793708
+        ],
+        "pixel": [
+          5027,
+          3482
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

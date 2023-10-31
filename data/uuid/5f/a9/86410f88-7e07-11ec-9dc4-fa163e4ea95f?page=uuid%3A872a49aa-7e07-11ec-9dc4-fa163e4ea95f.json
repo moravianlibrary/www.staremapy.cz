@@ -1,0 +1,111 @@
+{
+  "date": ["1911"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:86410f88-7e07-11ec-9dc4-fa163e4ea95f?page=uuid%3A872a49aa-7e07-11ec-9dc4-fa163e4ea95f",
+  "description": "Klagenfurt (Rakousko)",
+  "scale": 300000,
+  "external_id": "1141295",
+  "title": "General-Karte von Kärnten",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.59015,
+    46.28499,
+    15.196428,
+    47.404457
+  ],
+  "reviewed": null,
+  "publisher": "R. Lechner",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:86410f88-7e07-11ec-9dc4-fa163e4ea95f",
+  "id": "422a19b6-a2b8-51e3-a80d-d263e004b18b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        33,
+        351
+      ],
+      [
+        567,
+        351
+      ],
+      [
+        567,
+        36
+      ],
+      [
+        33,
+        36
+      ],
+      [
+        33,
+        351
+      ]
+    ],
+    "created": "2017-10-18T22:07:39.947920+00:00",
+    "transformation_method": "affine",
+    "mapID": "422a19b6-a2b8-51e3-a80d-d263e004b18b",
+    "affine_transformation": null,
+    "changed": "2017-10-18T22:07:39.947920+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.814778955,
+          47.098217906
+        ],
+        "pixel": [
+          76,
+          113
+        ]
+      },
+      {
+        "location": [
+          12.691182764,
+          46.656077984
+        ],
+        "pixel": [
+          44,
+          242
+        ]
+      },
+      {
+        "location": [
+          14.952993066,
+          46.992474021
+        ],
+        "pixel": [
+          525,
+          157
+        ]
+      },
+      {
+        "location": [
+          12.658223779,
+          47.098217906
+        ],
+        "pixel": [
+          44,
+          110
+        ]
+      },
+      {
+        "location": [
+          14.505300195,
+          47.026185091
+        ],
+        "pixel": [
+          433,
+          145
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1911"]
+}

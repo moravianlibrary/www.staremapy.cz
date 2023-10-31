@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:0c77ce44-b4d5-11ec-b4eb-fa163e4ea95f?page=uuid%3A0d7c4572-b4d5-11ec-b4eb-fa163e4ea95f",
+  "description": "Horodenka (Ukrajina)",
+  "scale": 100000,
+  "external_id": "1389207",
+  "title": "Horodenka",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Kopytowski",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    25.235853,
+    48.453793,
+    25.896183,
+    48.775948
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:0c77ce44-b4d5-11ec-b4eb-fa163e4ea95f",
+  "id": "2ee7d047-beac-52f9-8495-25b52167e3eb",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2016-01-08T13:40:26.663160+00:00",
+    "transformation_method": "affine",
+    "mapID": "2ee7d047-beac-52f9-8495-25b52167e3eb",
+    "affine_transformation": null,
+    "changed": "2016-01-08T13:40:26.663160+00:00",
+    "gcps": [
+      {
+        "location": [
+          25.730400308,
+          48.65243966
+        ],
+        "pixel": [
+          450,
+          170
+        ]
+      },
+      {
+        "location": [
+          25.800735635,
+          48.732041981
+        ],
+        "pixel": [
+          513,
+          61
+        ]
+      },
+      {
+        "location": [
+          25.555134042,
+          48.515986629
+        ],
+        "pixel": [
+          290,
+          358
+        ]
+      },
+      {
+        "location": [
+          25.502434,
+          48.66621634
+        ],
+        "pixel": [
+          242,
+          151
+        ]
+      },
+      {
+        "location": [
+          25.356750289,
+          48.740876419
+        ],
+        "pixel": [
+          110,
+          49
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

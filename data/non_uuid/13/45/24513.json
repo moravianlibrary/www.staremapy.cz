@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_pardubice_427_I/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "24513",
+  "title": "Indikační skica mapy stabilního katastru pro obec Vysoké Chvojno I.",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.991256,
+    50.136,
+    16.01022,
+    50.146416
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/24513",
+  "id": "1fdfa1cd-4166-5249-b201-3ab4080e1320",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1275,
+        10886
+      ],
+      [
+        12155,
+        10886
+      ],
+      [
+        12155,
+        1798
+      ],
+      [
+        1275,
+        1798
+      ],
+      [
+        1275,
+        10886
+      ]
+    ],
+    "created": "2015-06-01T13:00:08.729050+00:00",
+    "transformation_method": "affine",
+    "mapID": "1fdfa1cd-4166-5249-b201-3ab4080e1320",
+    "affine_transformation": null,
+    "changed": "2015-06-01T13:00:08.729050+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.991973877,
+          50.136123209
+        ],
+        "pixel": [
+          1696,
+          10736
+        ]
+      },
+      {
+        "location": [
+          16.003998599,
+          50.137017775
+        ],
+        "pixel": [
+          8632,
+          10120
+        ]
+      },
+      {
+        "location": [
+          15.992231369,
+          50.146162308
+        ],
+        "pixel": [
+          1696,
+          2096
+        ]
+      },
+      {
+        "location": [
+          16.009526253,
+          50.146052302
+        ],
+        "pixel": [
+          11744,
+          1968
+        ]
+      },
+      {
+        "location": [
+          16.009354591,
+          50.137168473
+        ],
+        "pixel": [
+          11840,
+          9872
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1840"]
+}

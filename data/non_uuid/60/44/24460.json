@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_pardubice_416_VII/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "24460",
+  "title": "Indikační skica mapy stabilního katastru pro obec Štěpánovsko VII.",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.979687,
+    50.11985,
+    16.042648,
+    50.164204
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/24460",
+  "id": "f9e69bcf-c543-5a2e-9e1b-e99682ff6d0d",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        11,
+        0
+      ],
+      [
+        18184,
+        0
+      ],
+      [
+        18184,
+        6887
+      ],
+      [
+        153,
+        6842
+      ],
+      [
+        11,
+        0
+      ]
+    ],
+    "created": "2015-02-20T21:46:47.377270+00:00",
+    "transformation_method": "affine",
+    "mapID": "f9e69bcf-c543-5a2e-9e1b-e99682ff6d0d",
+    "affine_transformation": null,
+    "changed": "2022-07-12T21:22:18.972167+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.009305619123868,
+          50.134872827139134
+        ],
+        "pixel": [
+          7615,
+          4024
+        ]
+      },
+      {
+        "location": [
+          16.00918958226502,
+          50.155071702106
+        ],
+        "pixel": [
+          7668,
+          1159
+        ]
+      },
+      {
+        "location": [
+          16.030588970968743,
+          50.15065953550976
+        ],
+        "pixel": [
+          11843,
+          1269
+        ]
+      },
+      {
+        "location": [
+          16.00914276005886,
+          50.146542006966456
+        ],
+        "pixel": [
+          7606,
+          2655
+        ]
+      },
+      {
+        "location": [
+          16.002533797046162,
+          50.14731203657456
+        ],
+        "pixel": [
+          4027,
+          2183
+        ]
+      },
+      {
+        "location": [
+          16.02047241093776,
+          50.14546944506631
+        ],
+        "pixel": [
+          15063,
+          3650
+        ]
+      },
+      {
+        "location": [
+          16.02703845860622,
+          50.14549694695398
+        ],
+        "pixel": [
+          16166,
+          3564
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1840"]
+}

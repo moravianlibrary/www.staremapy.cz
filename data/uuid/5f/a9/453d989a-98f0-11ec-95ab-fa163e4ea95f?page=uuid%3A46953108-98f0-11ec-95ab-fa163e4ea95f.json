@@ -1,0 +1,111 @@
+{
+  "date": ["1944"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:453d989a-98f0-11ec-95ab-fa163e4ea95f?page=uuid%3A46953108-98f0-11ec-95ab-fa163e4ea95f",
+  "description": "Krakov (Polsko : oblast)",
+  "scale": 325000,
+  "external_id": "1291431",
+  "title": "Generalgouvernement 1:25 000",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    19.809372,
+    49.97879,
+    20.021303,
+    50.09716
+  ],
+  "reviewed": null,
+  "publisher": "OKH/Gen St d H",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:453d989a-98f0-11ec-95ab-fa163e4ea95f",
+  "id": "bad7ede5-a9c2-5fbb-82b5-393549272699",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:41:20.207500+00:00",
+    "transformation_method": "affine",
+    "mapID": "bad7ede5-a9c2-5fbb-82b5-393549272699",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:41:20.207500+00:00",
+    "gcps": [
+      {
+        "location": [
+          19.934859619,
+          50.055328158
+        ],
+        "pixel": [
+          356,
+          156
+        ]
+      },
+      {
+        "location": [
+          19.91880928,
+          50.080340388
+        ],
+        "pixel": [
+          311,
+          63
+        ]
+      },
+      {
+        "location": [
+          19.955373154,
+          50.071995246
+        ],
+        "pixel": [
+          414,
+          94
+        ]
+      },
+      {
+        "location": [
+          19.873636564,
+          50.006666524
+        ],
+        "pixel": [
+          181,
+          339
+        ]
+      },
+      {
+        "location": [
+          19.982864179,
+          50.006056098
+        ],
+        "pixel": [
+          491,
+          341
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1944"]
+}

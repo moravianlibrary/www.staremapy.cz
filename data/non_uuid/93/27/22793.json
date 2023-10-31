@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/0579_03/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "22793",
+  "title": "Plan der Haupstadt Prag 4",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.418123,
+    50.09063,
+    14.4324875,
+    50.098137
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/22793",
+  "id": "9dc5df31-3337-581d-a9e1-e72c635e7084",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        64,
+        13200
+      ],
+      [
+        16928,
+        13200
+      ],
+      [
+        16928,
+        16
+      ],
+      [
+        64,
+        16
+      ],
+      [
+        64,
+        13200
+      ]
+    ],
+    "created": "2015-08-23T13:12:16.408600+00:00",
+    "transformation_method": "affine",
+    "mapID": "9dc5df31-3337-581d-a9e1-e72c635e7084",
+    "affine_transformation": null,
+    "changed": "2015-08-23T13:12:16.408600+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.429029226,
+          50.092087892
+        ],
+        "pixel": [
+          12826,
+          10550
+        ]
+      },
+      {
+        "location": [
+          14.424217343,
+          50.091172425
+        ],
+        "pixel": [
+          7201,
+          12271
+        ]
+      },
+      {
+        "location": [
+          14.420430064,
+          50.091891722
+        ],
+        "pixel": [
+          2761,
+          10969
+        ]
+      },
+      {
+        "location": [
+          14.427191913039382,
+          50.09339704815622
+        ],
+        "pixel": [
+          10793,
+          9097
+        ]
+      },
+      {
+        "location": [
+          14.42674048856341,
+          50.095226302822596
+        ],
+        "pixel": [
+          10159,
+          4919
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

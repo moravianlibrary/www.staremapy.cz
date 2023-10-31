@@ -1,0 +1,119 @@
+{
+  "date": ["1939"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:819c0b30-7e12-11ec-957a-fa163e4ea95f?page=uuid%3A82913f60-7e12-11ec-957a-fa163e4ea95f",
+  "description": null,
+  "scale": 25000,
+  "external_id": "1141674",
+  "title": "Golling",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.083603,
+    47.56171,
+    13.207956,
+    47.624187
+  ],
+  "reviewed": null,
+  "publisher": "Hauptvermessungsabteilung XIV",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:819c0b30-7e12-11ec-957a-fa163e4ea95f",
+  "id": "c566ae00-5a14-5942-be96-a96e41220732",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        64,
+        59
+      ],
+      [
+        64,
+        378
+      ],
+      [
+        537,
+        377
+      ],
+      [
+        539,
+        57
+      ],
+      [
+        539,
+        56
+      ],
+      [
+        64,
+        59
+      ],
+      [
+        64,
+        59
+      ]
+    ],
+    "created": "2015-01-21T12:04:40.696160+00:00",
+    "transformation_method": "affine",
+    "mapID": "c566ae00-5a14-5942-be96-a96e41220732",
+    "affine_transformation": null,
+    "changed": "2015-01-21T12:04:40.696160+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.1382646,
+          47.599794447
+        ],
+        "pixel": [
+          267,
+          177
+        ]
+      },
+      {
+        "location": [
+          13.14819749,
+          47.610121592
+        ],
+        "pixel": [
+          313,
+          131
+        ]
+      },
+      {
+        "location": [
+          13.182454664,
+          47.583374059
+        ],
+        "pixel": [
+          443,
+          266
+        ]
+      },
+      {
+        "location": [
+          13.128928501,
+          47.588562572
+        ],
+        "pixel": [
+          240,
+          242
+        ]
+      },
+      {
+        "location": [
+          13.163925964,
+          47.596420344
+        ],
+        "pixel": [
+          372,
+          199
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1939"]
+}

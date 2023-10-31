@@ -1,0 +1,121 @@
+{
+  "date": ["1882"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:e47ca4f8-5eaa-11ec-92f8-fa163e4ea95f?page=uuid%3Ae5d4eca2-5eaa-11ec-92f8-fa163e4ea95f",
+  "description": "Bílé Karpaty (Česko a Slovensko)",
+  "scale": 25000,
+  "external_id": "1065559",
+  "title": "Gradkartenblatt",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Bellschan, Anton",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    17.332258,
+    48.874027,
+    17.58218,
+    48.999092
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:e47ca4f8-5eaa-11ec-92f8-fa163e4ea95f",
+  "id": "0ab9ffda-b5d6-5a4b-a78c-59bce455ed99",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        15,
+        48
+      ],
+      [
+        549,
+        46
+      ],
+      [
+        551,
+        428
+      ],
+      [
+        15,
+        429
+      ],
+      [
+        15,
+        48
+      ]
+    ],
+    "created": "2016-01-28T09:55:24.328050+00:00",
+    "transformation_method": "affine",
+    "mapID": "0ab9ffda-b5d6-5a4b-a78c-59bce455ed99",
+    "affine_transformation": null,
+    "changed": "2016-01-28T09:55:24.328050+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.398651400594183,
+          48.98975082104806
+        ],
+        "pixel": [
+          157,
+          75
+        ]
+      },
+      {
+        "location": [
+          17.56324808270207,
+          48.90740017488207
+        ],
+        "pixel": [
+          511,
+          326
+        ]
+      },
+      {
+        "location": [
+          17.519227553307612,
+          48.98949358987727
+        ],
+        "pixel": [
+          414,
+          76
+        ]
+      },
+      {
+        "location": [
+          17.381583101231424,
+          48.89002999180036
+        ],
+        "pixel": [
+          121,
+          380
+        ]
+      },
+      {
+        "location": [
+          17.520418569152262,
+          48.88083593706207
+        ],
+        "pixel": [
+          418,
+          408
+        ]
+      },
+      {
+        "location": [
+          17.4818748286714,
+          48.91684293043025
+        ],
+        "pixel": [
+          335,
+          297
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1882"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": ["1932"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:7b8acb48-7893-11ec-9729-fa163e4ea95f?page=uuid%3A7c8e517c-7893-11ec-9729-fa163e4ea95f",
+  "description": "Ukrajina",
+  "scale": 75000,
+  "external_id": "1131052",
+  "title": "Chust",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    22.821716,
+    47.992786,
+    23.337587,
+    48.252373
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:7b8acb48-7893-11ec-9729-fa163e4ea95f",
+  "id": "e32ecd4c-2600-5c25-86fd-8b929b8c2e93",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        50,
+        393
+      ],
+      [
+        551,
+        393
+      ],
+      [
+        551,
+        37
+      ],
+      [
+        50,
+        37
+      ],
+      [
+        50,
+        393
+      ]
+    ],
+    "created": "2015-06-08T18:47:07.146950+00:00",
+    "transformation_method": "affine",
+    "mapID": "e32ecd4c-2600-5c25-86fd-8b929b8c2e93",
+    "affine_transformation": null,
+    "changed": "2015-06-08T18:47:07.146950+00:00",
+    "gcps": [
+      {
+        "location": [
+          22.999072412,
+          48.014884384
+        ],
+        "pixel": [
+          221,
+          363
+        ]
+      },
+      {
+        "location": [
+          23.296389917,
+          48.176884975
+        ],
+        "pixel": [
+          512,
+          141
+        ]
+      },
+      {
+        "location": [
+          22.87908111,
+          48.074332399
+        ],
+        "pixel": [
+          104,
+          282
+        ]
+      },
+      {
+        "location": [
+          23.095261965,
+          48.18451508
+        ],
+        "pixel": [
+          316,
+          130
+        ]
+      },
+      {
+        "location": [
+          22.875099449,
+          48.214488577
+        ],
+        "pixel": [
+          102,
+          88
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1932"]
+}

@@ -1,0 +1,101 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_2851/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "10196",
+  "title": "Plán třeboňského pivovaru 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.76971,
+    49.000896,
+    14.774418,
+    49.00376
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/10196",
+  "id": "c20160b8-1164-559e-a37d-62a114f832d1",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        18596,
+        0
+      ],
+      [
+        18596,
+        14849
+      ],
+      [
+        0,
+        14849
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        18596,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:20:49.064130+00:00",
+    "transformation_method": "affine",
+    "mapID": "c20160b8-1164-559e-a37d-62a114f832d1",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:20:49.064130+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.771596439119895,
+          49.00187949124182
+        ],
+        "pixel": [
+          6031,
+          9596
+        ]
+      },
+      {
+        "location": [
+          14.771282692958298,
+          49.0023838433311
+        ],
+        "pixel": [
+          5981,
+          5568
+        ]
+      },
+      {
+        "location": [
+          14.771434237767641,
+          49.00242079498497
+        ],
+        "pixel": [
+          6751,
+          5553
+        ]
+      },
+      {
+        "location": [
+          14.771507926222396,
+          49.00232995219022
+        ],
+        "pixel": [
+          6837,
+          6392
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1861"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": ["1939"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:32d033e0-98fd-11ec-9ec4-fa163e4ea95f?page=uuid%3A33c46988-98fd-11ec-9ec4-fa163e4ea95f",
+  "description": "Kladno (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1291796",
+  "title": "Kladno",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.070969,
+    50.10007,
+    14.153746,
+    50.15523
+  ],
+  "reviewed": null,
+  "publisher": "Zeměpisný ústav Ministerstva vnitra",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:32d033e0-98fd-11ec-9ec4-fa163e4ea95f",
+  "id": "4bd85a3e-e11e-5867-82ac-951545fb996a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        291,
+        244
+      ],
+      [
+        364,
+        244
+      ],
+      [
+        364,
+        169
+      ],
+      [
+        291,
+        169
+      ],
+      [
+        291,
+        244
+      ]
+    ],
+    "created": "2017-11-23T14:38:13.928030+00:00",
+    "transformation_method": "affine",
+    "mapID": "4bd85a3e-e11e-5867-82ac-951545fb996a",
+    "affine_transformation": null,
+    "changed": "2017-11-23T14:38:13.928030+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.084268808,
+          50.141430805
+        ],
+        "pixel": [
+          302,
+          188
+        ]
+      },
+      {
+        "location": [
+          14.131459594,
+          50.119389694
+        ],
+        "pixel": [
+          346,
+          218
+        ]
+      },
+      {
+        "location": [
+          14.127366543,
+          50.118161737
+        ],
+        "pixel": [
+          341,
+          220
+        ]
+      },
+      {
+        "location": [
+          14.106059074,
+          50.129834653
+        ],
+        "pixel": [
+          320,
+          203
+        ]
+      },
+      {
+        "location": [
+          14.138556719,
+          50.104597082
+        ],
+        "pixel": [
+          349,
+          238
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1939"]
+}

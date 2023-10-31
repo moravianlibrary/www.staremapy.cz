@@ -1,0 +1,115 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Kout_na_Sumave_M_126-1/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "14111",
+  "title": "Katastrální mapa obce Postřekov",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.7245455,
+    49.463207,
+    12.758104,
+    49.477123
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/14111",
+  "id": "c94c29d3-dbfb-588e-882d-4fde24ff8091",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1093,
+        674
+      ],
+      [
+        989,
+        13014
+      ],
+      [
+        16345,
+        13142
+      ],
+      [
+        16425,
+        790
+      ],
+      [
+        5189,
+        380
+      ],
+      [
+        1093,
+        674
+      ]
+    ],
+    "created": "2014-12-09T06:47:10.879020+00:00",
+    "transformation_method": "affine",
+    "mapID": "c94c29d3-dbfb-588e-882d-4fde24ff8091",
+    "affine_transformation": null,
+    "changed": "2014-12-09T06:47:10.879020+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.741422196,
+          49.468898579
+        ],
+        "pixel": [
+          8009,
+          7743
+        ]
+      },
+      {
+        "location": [
+          12.743176489,
+          49.468678894
+        ],
+        "pixel": [
+          10746,
+          7914
+        ]
+      },
+      {
+        "location": [
+          12.733515044,
+          49.476752188
+        ],
+        "pixel": [
+          5250,
+          590
+        ]
+      },
+      {
+        "location": [
+          12.729695579,
+          49.469020593
+        ],
+        "pixel": [
+          3477,
+          7982
+        ]
+      },
+      {
+        "location": [
+          12.751029997,
+          49.470212772
+        ],
+        "pixel": [
+          12573,
+          7577
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1908"]
+}

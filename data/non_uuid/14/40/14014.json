@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_pardubice_356/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "14014",
+  "title": "Indikační skica mapy stabilního katastru pro obec Jankovice u Přelouče I.-II.",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.513353,
+    49.993626,
+    15.541694,
+    50.02938
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/14014",
+  "id": "d631b439-90aa-53f4-a237-f55e3f35e783",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        9068,
+        8746
+      ],
+      [
+        9780,
+        8746
+      ],
+      [
+        9780,
+        7422
+      ],
+      [
+        9068,
+        7422
+      ],
+      [
+        9068,
+        8746
+      ]
+    ],
+    "created": "2015-03-03T18:52:24.952660+00:00",
+    "transformation_method": "affine",
+    "mapID": "d631b439-90aa-53f4-a237-f55e3f35e783",
+    "affine_transformation": null,
+    "changed": "2015-03-03T18:52:24.952660+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.520711933,
+          49.995751602
+        ],
+        "pixel": [
+          9359,
+          8670
+        ]
+      },
+      {
+        "location": [
+          15.525518451,
+          50.005627052
+        ],
+        "pixel": [
+          9299,
+          8342
+        ]
+      },
+      {
+        "location": [
+          15.533243213,
+          50.023441865
+        ],
+        "pixel": [
+          9571,
+          7534
+        ]
+      },
+      {
+        "location": [
+          15.528436695,
+          50.003696258
+        ],
+        "pixel": [
+          9467,
+          8370
+        ]
+      },
+      {
+        "location": [
+          15.537277256,
+          50.015169554
+        ],
+        "pixel": [
+          9675,
+          7978
+        ]
+      },
+      {
+        "location": [
+          15.522943531,
+          50.018699248
+        ],
+        "pixel": [
+          9287,
+          7858
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

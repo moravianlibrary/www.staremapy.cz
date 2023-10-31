@@ -1,0 +1,111 @@
+{
+  "date": ["1914"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:a21286f0-84fc-11ec-9134-fa163e4ea95f?page=uuid%3Aa2fb197e-84fc-11ec-9134-fa163e4ea95f",
+  "description": null,
+  "scale": 75000,
+  "external_id": "1179980",
+  "title": "Kolki",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    25.32957,
+    50.99441,
+    25.839905,
+    51.252415
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:a21286f0-84fc-11ec-9134-fa163e4ea95f",
+  "id": "21ad353a-78e4-5c35-a5b0-9499fd30a4d0",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        49,
+        409
+      ],
+      [
+        553,
+        409
+      ],
+      [
+        553,
+        30
+      ],
+      [
+        49,
+        30
+      ],
+      [
+        49,
+        409
+      ]
+    ],
+    "created": "2015-01-03T19:06:34.777360+00:00",
+    "transformation_method": "affine",
+    "mapID": "21ad353a-78e4-5c35-a5b0-9499fd30a4d0",
+    "affine_transformation": null,
+    "changed": "2015-01-03T19:06:34.777360+00:00",
+    "gcps": [
+      {
+        "location": [
+          25.542042466,
+          51.225502173
+        ],
+        "pixel": [
+          263,
+          68
+        ]
+      },
+      {
+        "location": [
+          25.695164413,
+          51.052850312
+        ],
+        "pixel": [
+          412,
+          326
+        ]
+      },
+      {
+        "location": [
+          25.509598465,
+          51.065905206
+        ],
+        "pixel": [
+          226,
+          304
+        ]
+      },
+      {
+        "location": [
+          25.647442551,
+          51.222276937
+        ],
+        "pixel": [
+          360,
+          72
+        ]
+      },
+      {
+        "location": [
+          25.598004074,
+          51.114316407
+        ],
+        "pixel": [
+          311,
+          234
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1914"]
+}

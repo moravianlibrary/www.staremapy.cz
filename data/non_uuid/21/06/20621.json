@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/orlik_1184/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "20621",
+  "title": "Varvažov s Pasekou a U mostu, okr. Písek, list 5 list 5",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.137428,
+    49.41519,
+    14.167063,
+    49.430393
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/20621",
+  "id": "d8726e22-0729-598a-9d8e-037f3dd10bff",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1088,
+        14263
+      ],
+      [
+        17856,
+        14263
+      ],
+      [
+        17856,
+        951
+      ],
+      [
+        1088,
+        951
+      ],
+      [
+        1088,
+        14263
+      ]
+    ],
+    "created": "2015-09-09T08:41:33.334150+00:00",
+    "transformation_method": "affine",
+    "mapID": "d8726e22-0729-598a-9d8e-037f3dd10bff",
+    "affine_transformation": null,
+    "changed": "2015-09-09T08:41:33.334150+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.140412255857978,
+          49.42176247279312
+        ],
+        "pixel": [
+          2661,
+          8608
+        ]
+      },
+      {
+        "location": [
+          14.1483318,
+          49.418982419
+        ],
+        "pixel": [
+          7268,
+          11049
+        ]
+      },
+      {
+        "location": [
+          14.160128155,
+          49.417802894
+        ],
+        "pixel": [
+          14196,
+          11996
+        ]
+      },
+      {
+        "location": [
+          14.159906972082531,
+          49.42673221588706
+        ],
+        "pixel": [
+          13769,
+          4157
+        ]
+      },
+      {
+        "location": [
+          14.157258191,
+          49.424342267
+        ],
+        "pixel": [
+          12376,
+          6055
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1840"]
+}

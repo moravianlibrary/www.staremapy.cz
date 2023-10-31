@@ -1,0 +1,111 @@
+{
+  "date": ["1913"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:1ffda55a-7e35-11ec-8367-fa163e4ea95f?page=uuid%3A20ee3916-7e35-11ec-8367-fa163e4ea95f",
+  "description": "Bratislava (Slovensko : oblast)",
+  "scale": 300000,
+  "external_id": "1142957",
+  "title": "Poszony vármegye térképe",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Kogutowicz, Manó",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.785551,
+    47.736034,
+    17.955658,
+    48.731583
+  ],
+  "reviewed": null,
+  "publisher": "Magyar Földrajzi Intézet",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:1ffda55a-7e35-11ec-8367-fa163e4ea95f",
+  "id": "3f8a53de-ebad-5135-92f2-e229f2ed6b6b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        42,
+        402
+      ],
+      [
+        554,
+        402
+      ],
+      [
+        554,
+        45
+      ],
+      [
+        42,
+        45
+      ],
+      [
+        42,
+        402
+      ]
+    ],
+    "created": "2017-02-20T18:28:25.419540+00:00",
+    "transformation_method": "affine",
+    "mapID": "3f8a53de-ebad-5135-92f2-e229f2ed6b6b",
+    "affine_transformation": null,
+    "changed": "2017-02-20T18:28:25.419540+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.0187564,
+          48.436772355
+        ],
+        "pixel": [
+          141,
+          150
+        ]
+      },
+      {
+        "location": [
+          17.144181968,
+          48.637716137
+        ],
+        "pixel": [
+          202,
+          80
+        ]
+      },
+      {
+        "location": [
+          17.733715306,
+          48.284932574
+        ],
+        "pixel": [
+          459,
+          206
+        ]
+      },
+      {
+        "location": [
+          17.770418654,
+          47.856306315
+        ],
+        "pixel": [
+          472,
+          361
+        ]
+      },
+      {
+        "location": [
+          17.104758749,
+          48.139112751
+        ],
+        "pixel": [
+          181,
+          259
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1913"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/2574/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "35687",
+  "title": "Neckargemünd",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    8.776401,
+    49.383568,
+    8.808238,
+    49.404137
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/35687",
+  "id": "5e05ede4-0c38-53a6-83ed-b967a488e1bc",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1136,
+        11920
+      ],
+      [
+        11920,
+        11920
+      ],
+      [
+        11920,
+        1136
+      ],
+      [
+        1136,
+        1136
+      ],
+      [
+        1136,
+        11920
+      ]
+    ],
+    "created": "2015-09-25T12:56:33.048810+00:00",
+    "transformation_method": "affine",
+    "mapID": "5e05ede4-0c38-53a6-83ed-b967a488e1bc",
+    "affine_transformation": null,
+    "changed": "2015-09-25T12:56:33.048810+00:00",
+    "gcps": [
+      {
+        "location": [
+          8.803638458,
+          49.388569272
+        ],
+        "pixel": [
+          10364,
+          9320
+        ]
+      },
+      {
+        "location": [
+          8.797131419,
+          49.394997324
+        ],
+        "pixel": [
+          8175,
+          5930
+        ]
+      },
+      {
+        "location": [
+          8.782218337,
+          49.392986248
+        ],
+        "pixel": [
+          3082,
+          6971
+        ]
+      },
+      {
+        "location": [
+          8.802889685,
+          49.402410488
+        ],
+        "pixel": [
+          10153,
+          2038
+        ]
+      },
+      {
+        "location": [
+          8.794371582,
+          49.388620148
+        ],
+        "pixel": [
+          7215,
+          9284
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

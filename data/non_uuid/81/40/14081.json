@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Kout_na_Sumave_M_117-3/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "14081",
+  "title": "Katastrální mapa obce Myslív",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.937529,
+    49.342335,
+    12.965039,
+    49.35642
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/14081",
+  "id": "c333e911-b613-5e0b-ac51-96d755496acb",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        452,
+        13092
+      ],
+      [
+        15876,
+        13092
+      ],
+      [
+        15876,
+        580
+      ],
+      [
+        452,
+        580
+      ],
+      [
+        452,
+        13092
+      ]
+    ],
+    "created": "2015-01-20T19:23:36.726970+00:00",
+    "transformation_method": "affine",
+    "mapID": "c333e911-b613-5e0b-ac51-96d755496acb",
+    "affine_transformation": null,
+    "changed": "2015-01-20T19:23:36.726970+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.964197851,
+          49.349777632
+        ],
+        "pixel": [
+          15696,
+          6624
+        ]
+      },
+      {
+        "location": [
+          12.949520804,
+          49.350137573
+        ],
+        "pixel": [
+          7286,
+          6168
+        ]
+      },
+      {
+        "location": [
+          12.957321556,
+          49.350027623
+        ],
+        "pixel": [
+          11606,
+          6280
+        ]
+      },
+      {
+        "location": [
+          12.943470658,
+          49.350113473
+        ],
+        "pixel": [
+          3667,
+          6076
+        ]
+      },
+      {
+        "location": [
+          12.954493618,
+          49.350046715
+        ],
+        "pixel": [
+          9946,
+          6248
+        ]
+      },
+      {
+        "location": [
+          12.950036678,
+          49.342908657
+        ],
+        "pixel": [
+          7219,
+          12693
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1910"]
+}

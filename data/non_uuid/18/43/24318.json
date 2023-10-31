@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_pardubice_388_V_X/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "24318",
+  "title": "Indikační skica mapy stabilního katastru pro město Pardubice V., X.",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.835066,
+    50.03383,
+    15.846384,
+    50.05334
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/24318",
+  "id": "c40479ef-4744-5b75-815b-78f8836b7812",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        344,
+        16433
+      ],
+      [
+        6888,
+        16417
+      ],
+      [
+        6888,
+        161
+      ],
+      [
+        216,
+        129
+      ],
+      [
+        344,
+        16433
+      ]
+    ],
+    "created": "2014-12-18T10:50:33.492830+00:00",
+    "transformation_method": "affine",
+    "mapID": "c40479ef-4744-5b75-815b-78f8836b7812",
+    "affine_transformation": null,
+    "changed": "2014-12-18T10:50:33.492830+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.840363818,
+          50.050746291
+        ],
+        "pixel": [
+          3096,
+          1932
+        ]
+      },
+      {
+        "location": [
+          15.841608363,
+          50.039942996
+        ],
+        "pixel": [
+          4232,
+          11652
+        ]
+      },
+      {
+        "location": [
+          15.840406733,
+          50.039887871
+        ],
+        "pixel": [
+          3792,
+          11588
+        ]
+      },
+      {
+        "location": [
+          15.839934665,
+          50.051159634
+        ],
+        "pixel": [
+          2872,
+          1564
+        ]
+      },
+      {
+        "location": [
+          15.840750056,
+          50.03633217
+        ],
+        "pixel": [
+          3784,
+          14652
+        ]
+      },
+      {
+        "location": [
+          15.839076358,
+          50.039915434
+        ],
+        "pixel": [
+          2672,
+          11412
+        ]
+      },
+      {
+        "location": [
+          15.84062131,
+          50.050195161
+        ],
+        "pixel": [
+          3272,
+          2332
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

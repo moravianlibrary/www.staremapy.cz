@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/huav/III_vojenske_mapovani/75/3848-Rossbach_z4cVI/ImageProperties.xml",
+  "description": null,
+  "scale": 75000,
+  "external_id": "6604",
+  "title": "III. vojenské mapování 3848",
+  "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    11.835072,
+    50.25018,
+    12.338071,
+    50.49963
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/6604",
+  "id": "2dd707c8-44ce-5281-8989-b3a0986d4815",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        7495,
+        152
+      ],
+      [
+        7489,
+        5867
+      ],
+      [
+        146,
+        5867
+      ],
+      [
+        199,
+        146
+      ],
+      [
+        7495,
+        152
+      ]
+    ],
+    "created": "2014-11-25T14:25:42.940130+00:00",
+    "transformation_method": "affine",
+    "mapID": "2dd707c8-44ce-5281-8989-b3a0986d4815",
+    "affine_transformation": null,
+    "changed": "2022-01-13T03:46:16.749411+00:00",
+    "gcps": [
+      {
+        "location": [
+          11.86179924,
+          50.439426653
+        ],
+        "pixel": [
+          551,
+          1512
+        ]
+      },
+      {
+        "location": [
+          11.873933554,
+          50.388899482
+        ],
+        "pixel": [
+          693,
+          2663
+        ]
+      },
+      {
+        "location": [
+          12.138458371,
+          50.486480075
+        ],
+        "pixel": [
+          4568,
+          422
+        ]
+      },
+      {
+        "location": [
+          11.933956027,
+          50.263355641
+        ],
+        "pixel": [
+          1590,
+          5563
+        ]
+      },
+      {
+        "location": [
+          12.257505536,
+          50.321377576
+        ],
+        "pixel": [
+          6328,
+          4280
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

@@ -1,0 +1,109 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plasy_M_185/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "21154",
+  "title": "Situační plán katastrálního území Hradecko",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.475313,
+    50.00907,
+    13.490534,
+    50.016666
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/21154",
+  "id": "e23b7402-89a0-5c54-bf67-0c9f8f9758d0",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        6164,
+        1645
+      ],
+      [
+        7701,
+        2136
+      ],
+      [
+        7693,
+        6465
+      ],
+      [
+        805,
+        6417
+      ],
+      [
+        789,
+        824
+      ],
+      [
+        4563,
+        880
+      ],
+      [
+        6164,
+        1645
+      ]
+    ],
+    "created": "2014-11-25T16:59:10.467150+00:00",
+    "transformation_method": "affine",
+    "mapID": "e23b7402-89a0-5c54-bf67-0c9f8f9758d0",
+    "affine_transformation": null,
+    "changed": "2023-05-06T09:50:36.280652+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.482281360775255,
+          50.0121749353882
+        ],
+        "pixel": [
+          3818,
+          4151
+        ]
+      },
+      {
+        "location": [
+          13.477688077837255,
+          50.013899420348366
+        ],
+        "pixel": [
+          921,
+          2486
+        ]
+      },
+      {
+        "location": [
+          13.48301092162731,
+          50.014463893485555
+        ],
+        "pixel": [
+          4048,
+          2031
+        ]
+      },
+      {
+        "location": [
+          13.48592916503551,
+          50.01378824852145
+        ],
+        "pixel": [
+          5778,
+          2638
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1940"]
+}

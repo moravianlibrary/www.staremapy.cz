@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_0767/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "6667",
+  "title": "Hraniční mapa ovčího výběhu mezi třeboňským panstvím a českobudějovickými pastvinami od vsí Mysletína a Zborova k Zalinám 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.594121,
+    48.939743,
+    14.608602,
+    48.951508
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/6667",
+  "id": "141a0a18-2d56-52cf-92b0-da1db9e0f6ab",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        10855,
+        0
+      ],
+      [
+        10855,
+        6860
+      ],
+      [
+        0,
+        6860
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        10855,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:09:25.375970+00:00",
+    "transformation_method": "affine",
+    "mapID": "141a0a18-2d56-52cf-92b0-da1db9e0f6ab",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:09:25.375970+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.601099968,
+          48.943382998
+        ],
+        "pixel": [
+          3029,
+          4230
+        ]
+      },
+      {
+        "location": [
+          14.600542068,
+          48.942114568
+        ],
+        "pixel": [
+          2061,
+          4318
+        ]
+      },
+      {
+        "location": [
+          14.602301598,
+          48.946117062
+        ],
+        "pixel": [
+          6157,
+          4054
+        ]
+      },
+      {
+        "location": [
+          14.603460312,
+          48.949442833
+        ],
+        "pixel": [
+          9277,
+          3206
+        ]
+      },
+      {
+        "location": [
+          14.599769592,
+          48.94208638
+        ],
+        "pixel": [
+          1965,
+          3974
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1797"]
+}

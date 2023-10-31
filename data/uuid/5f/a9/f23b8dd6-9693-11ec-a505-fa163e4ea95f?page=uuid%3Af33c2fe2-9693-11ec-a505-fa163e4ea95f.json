@@ -1,0 +1,121 @@
+{
+  "date": ["1915"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:f23b8dd6-9693-11ec-a505-fa163e4ea95f?page=uuid%3Af33c2fe2-9693-11ec-a505-fa163e4ea95f",
+  "description": null,
+  "scale": 200000,
+  "external_id": "1271217",
+  "title": "27°46° Como",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    8.838693,
+    45.49902,
+    9.836528,
+    46.49906
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:f23b8dd6-9693-11ec-a505-fa163e4ea95f",
+  "id": "dfa0183f-8adb-5961-b3cf-751d6a264564",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        55,
+        401
+      ],
+      [
+        548,
+        401
+      ],
+      [
+        541,
+        31
+      ],
+      [
+        54,
+        31
+      ],
+      [
+        55,
+        401
+      ]
+    ],
+    "created": "2017-08-18T19:09:49.882210+00:00",
+    "transformation_method": "affine",
+    "mapID": "dfa0183f-8adb-5961-b3cf-751d6a264564",
+    "affine_transformation": null,
+    "changed": "2017-08-18T19:09:49.882210+00:00",
+    "gcps": [
+      {
+        "location": [
+          8.882253951,
+          45.86959293
+        ],
+        "pixel": [
+          75,
+          265
+        ]
+      },
+      {
+        "location": [
+          9.810083693,
+          45.763770968
+        ],
+        "pixel": [
+          535,
+          304
+        ]
+      },
+      {
+        "location": [
+          9.521349257,
+          45.60883409
+        ],
+        "pixel": [
+          389,
+          362
+        ]
+      },
+      {
+        "location": [
+          9.192360228,
+          46.463039049
+        ],
+        "pixel": [
+          227,
+          45
+        ]
+      },
+      {
+        "location": [
+          8.846548384,
+          46.002288151
+        ],
+        "pixel": [
+          59,
+          216
+        ]
+      },
+      {
+        "location": [
+          9.594133681,
+          45.521944527
+        ],
+        "pixel": [
+          429,
+          394
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1915"]
+}

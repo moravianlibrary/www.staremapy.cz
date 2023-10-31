@@ -1,0 +1,129 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_pardubice_194/ImageProperties.xml",
+  "description": null,
+  "scale": 5000,
+  "external_id": "13667",
+  "title": "Mapa revíru Výrov",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.488463,
+    50.03774,
+    15.661527,
+    50.102077
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/13667",
+  "id": "318d266c-0c5b-539c-9b09-ffb75b1c4f43",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        5849,
+        6521
+      ],
+      [
+        5753,
+        1145
+      ],
+      [
+        20025,
+        1177
+      ],
+      [
+        20025,
+        13241
+      ],
+      [
+        1273,
+        13241
+      ],
+      [
+        1241,
+        6553
+      ],
+      [
+        5849,
+        6521
+      ]
+    ],
+    "created": "2015-01-17T09:35:45.927780+00:00",
+    "transformation_method": "affine",
+    "mapID": "318d266c-0c5b-539c-9b09-ffb75b1c4f43",
+    "affine_transformation": null,
+    "changed": "2015-01-17T09:35:45.927780+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.647318065,
+          50.079911783
+        ],
+        "pixel": [
+          18449,
+          4997
+        ]
+      },
+      {
+        "location": [
+          15.578139221,
+          50.051161089
+        ],
+        "pixel": [
+          10780,
+          10208
+        ]
+      },
+      {
+        "location": [
+          15.604870462,
+          50.068796132
+        ],
+        "pixel": [
+          15386,
+          8884
+        ]
+      },
+      {
+        "location": [
+          15.55662825,
+          50.090246192
+        ],
+        "pixel": [
+          8268,
+          3345
+        ]
+      },
+      {
+        "location": [
+          15.625882669,
+          50.101013392
+        ],
+        "pixel": [
+          15968,
+          1368
+        ]
+      },
+      {
+        "location": [
+          15.620437332,
+          50.076374174
+        ],
+        "pixel": [
+          15390,
+          5686
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1935"]
+}

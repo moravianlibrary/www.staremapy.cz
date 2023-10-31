@@ -1,0 +1,95 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_4001/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "12266",
+  "title": "Situační plány vrchnostenských objektů na velkostatku Třeboň 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.590319,
+    48.925644,
+    14.599351,
+    48.93132
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/12266",
+  "id": "4a73f3b4-9b0d-5c88-b906-70d34eafdac9",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1944,
+        7784
+      ],
+      [
+        5048,
+        7784
+      ],
+      [
+        5048,
+        3736
+      ],
+      [
+        1944,
+        3736
+      ],
+      [
+        1256,
+        6416
+      ],
+      [
+        1944,
+        7784
+      ]
+    ],
+    "created": "2015-06-02T07:07:16.472810+00:00",
+    "transformation_method": "affine",
+    "mapID": "4a73f3b4-9b0d-5c88-b906-70d34eafdac9",
+    "affine_transformation": null,
+    "changed": "2015-06-02T07:07:16.472810+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.595563404,
+          48.927950551
+        ],
+        "pixel": [
+          3580,
+          6165
+        ]
+      },
+      {
+        "location": [
+          14.594544164,
+          48.927576956
+        ],
+        "pixel": [
+          3156,
+          6509
+        ]
+      },
+      {
+        "location": [
+          14.594560257,
+          48.92856028
+        ],
+        "pixel": [
+          3092,
+          5749
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1915"]
+}

@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/domousice_0303/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "15999",
+  "title": "Mapa lesních činžovních pozemků v obcích Milý, Třeboc, Kroučová, Kalivody a Přerubenice 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.8597765,
+    50.23363,
+    13.884956,
+    50.23822
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/15999",
+  "id": "b6f79621-675b-5276-b4cb-91b701e6a95c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1731,
+        4410
+      ],
+      [
+        10337,
+        4800
+      ],
+      [
+        11108,
+        5579
+      ],
+      [
+        13808,
+        5836
+      ],
+      [
+        16128,
+        3897
+      ],
+      [
+        16562,
+        1816
+      ],
+      [
+        13056,
+        2878
+      ],
+      [
+        9276,
+        2628
+      ],
+      [
+        1775,
+        2869
+      ],
+      [
+        1731,
+        4410
+      ]
+    ],
+    "created": "2016-12-15T22:56:06.963300+00:00",
+    "transformation_method": "affine",
+    "mapID": "b6f79621-675b-5276-b4cb-91b701e6a95c",
+    "affine_transformation": null,
+    "changed": "2016-12-15T22:56:06.963300+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.884049892,
+          50.237360409
+        ],
+        "pixel": [
+          15999,
+          2565
+        ]
+      },
+      {
+        "location": [
+          13.880434275,
+          50.234251705
+        ],
+        "pixel": [
+          13752,
+          5290
+        ]
+      },
+      {
+        "location": [
+          13.881260395,
+          50.236948671
+        ],
+        "pixel": [
+          14349,
+          2880
+        ]
+      },
+      {
+        "location": [
+          13.860345301,
+          50.23587192
+        ],
+        "pixel": [
+          2084,
+          3298
+        ]
+      },
+      {
+        "location": [
+          13.882314325968563,
+          50.235333144788
+        ],
+        "pixel": [
+          14856,
+          4316
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1886"]
+}

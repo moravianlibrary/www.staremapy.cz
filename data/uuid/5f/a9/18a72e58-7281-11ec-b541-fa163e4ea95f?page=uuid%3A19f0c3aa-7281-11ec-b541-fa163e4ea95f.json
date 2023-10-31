@@ -1,0 +1,121 @@
+{
+  "date": ["1936"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:18a72e58-7281-11ec-b541-fa163e4ea95f?page=uuid%3A19f0c3aa-7281-11ec-b541-fa163e4ea95f",
+  "description": "Hluboká nad Vltavou-oblast (Česko)",
+  "scale": 25000,
+  "external_id": "1120037",
+  "title": "[Gradkartenblatt]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.332981,
+    48.99938,
+    14.583116,
+    49.123905
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:18a72e58-7281-11ec-b541-fa163e4ea95f",
+  "id": "2e28511e-3dc6-562c-b1d1-14dd303d80a6",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        568,
+        30
+      ],
+      [
+        568,
+        408
+      ],
+      [
+        20,
+        404
+      ],
+      [
+        22,
+        30
+      ],
+      [
+        568,
+        30
+      ]
+    ],
+    "created": "2014-08-19T13:36:48.798220+00:00",
+    "transformation_method": "affine",
+    "mapID": "2e28511e-3dc6-562c-b1d1-14dd303d80a6",
+    "affine_transformation": null,
+    "changed": "2014-08-19T13:36:48.798220+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.33513176761502,
+          49.0327203950699
+        ],
+        "pixel": [
+          25,
+          306
+        ]
+      },
+      {
+        "location": [
+          14.57314500264198,
+          49.100164251865976
+        ],
+        "pixel": [
+          547,
+          102
+        ]
+      },
+      {
+        "location": [
+          14.357705238684353,
+          49.03587158304268
+        ],
+        "pixel": [
+          74,
+          297
+        ]
+      },
+      {
+        "location": [
+          14.339922181002013,
+          49.10619072103995
+        ],
+        "pixel": [
+          35,
+          83
+        ]
+      },
+      {
+        "location": [
+          14.390149121830616,
+          49.02398638554379
+        ],
+        "pixel": [
+          145,
+          332
+        ]
+      },
+      {
+        "location": [
+          14.555332278870559,
+          49.042465465152475
+        ],
+        "pixel": [
+          507,
+          277
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1936"]
+}

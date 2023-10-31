@@ -1,0 +1,111 @@
+{
+  "date": ["1939"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:cc59835a-7e17-11ec-b3d7-fa163e4ea95f?page=uuid%3Acd16dd10-7e17-11ec-b3d7-fa163e4ea95f",
+  "description": null,
+  "scale": 25000,
+  "external_id": "1141833",
+  "title": "Klamml Joch",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.07074,
+    46.93393,
+    12.223173,
+    47.0024
+  ],
+  "reviewed": null,
+  "publisher": "Hauptvermessungsabteilung XIV",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:cc59835a-7e17-11ec-b3d7-fa163e4ea95f",
+  "id": "07538d27-edae-53d1-935d-d8e8f80e09d6",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        59,
+        386
+      ],
+      [
+        553,
+        384
+      ],
+      [
+        553,
+        52
+      ],
+      [
+        60,
+        54
+      ],
+      [
+        59,
+        386
+      ]
+    ],
+    "created": "2015-09-18T13:12:38.838790+00:00",
+    "transformation_method": "affine",
+    "mapID": "07538d27-edae-53d1-935d-d8e8f80e09d6",
+    "affine_transformation": null,
+    "changed": "2015-09-18T13:12:38.838790+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.138108148,
+          46.95644043
+        ],
+        "pixel": [
+          280,
+          278
+        ]
+      },
+      {
+        "location": [
+          12.131027116,
+          46.964026532
+        ],
+        "pixel": [
+          252,
+          240
+        ]
+      },
+      {
+        "location": [
+          12.158192529,
+          46.95064029
+        ],
+        "pixel": [
+          341,
+          306
+        ]
+      },
+      {
+        "location": [
+          12.13587655,
+          46.971055165
+        ],
+        "pixel": [
+          270,
+          200
+        ]
+      },
+      {
+        "location": [
+          12.137528791,
+          46.979868937
+        ],
+        "pixel": [
+          276,
+          163
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1939"]
+}

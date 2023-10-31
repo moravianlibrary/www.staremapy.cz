@@ -1,0 +1,101 @@
+{
+  "date": ["1917"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:2d6ab94c-8a80-11ec-8da3-fa163e4ea95f?page=uuid%3A2e5cd042-8a80-11ec-8da3-fa163e4ea95f",
+  "description": "Braslaw (Bělorusko : oblast)",
+  "scale": 750000,
+  "external_id": "1282744",
+  "title": "Bałta, Umań, Bracław",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Mach, O.",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    26.933424,
+    47.468414,
+    31.337725,
+    50.092815
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:2d6ab94c-8a80-11ec-8da3-fa163e4ea95f",
+  "id": "b7081966-7eee-5d52-905f-739e46e96142",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        66,
+        389
+      ],
+      [
+        520,
+        391
+      ],
+      [
+        522,
+        54
+      ],
+      [
+        68,
+        54
+      ],
+      [
+        66,
+        389
+      ]
+    ],
+    "created": "2017-06-17T12:00:44.256220+00:00",
+    "transformation_method": "affine",
+    "mapID": "b7081966-7eee-5d52-905f-739e46e96142",
+    "affine_transformation": null,
+    "changed": "2017-06-17T12:00:44.256220+00:00",
+    "gcps": [
+      {
+        "location": [
+          30.113393457,
+          49.802497655
+        ],
+        "pixel": [
+          378,
+          58
+        ]
+      },
+      {
+        "location": [
+          27.80489126,
+          48.448288204
+        ],
+        "pixel": [
+          149,
+          294
+        ]
+      },
+      {
+        "location": [
+          27.948400171,
+          49.555463472
+        ],
+        "pixel": [
+          143,
+          127
+        ]
+      },
+      {
+        "location": [
+          30.853256797,
+          48.052728786
+        ],
+        "pixel": [
+          510,
+          305
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1917"]
+}

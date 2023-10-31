@@ -1,0 +1,101 @@
+{
+  "date": ["1924"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:c088c4f4-7ea9-11ec-ad4f-fa163e4ea95f?page=uuid%3Ac1b9884a-7ea9-11ec-ad4f-fa163e4ea95f",
+  "description": "Finsko",
+  "scale": 2000000,
+  "external_id": "1167495",
+  "title": "Suomen käsikarta",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.6139555,
+    56.83297,
+    37.348854,
+    71.62482
+  ],
+  "reviewed": null,
+  "publisher": "J.E. & S.G. Rosberg",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:c088c4f4-7ea9-11ec-ad4f-fa163e4ea95f",
+  "id": "318fbf4e-9f9d-5feb-a827-0ad69fd0a304",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T15:43:37.367860+00:00",
+    "transformation_method": "affine",
+    "mapID": "318fbf4e-9f9d-5feb-a827-0ad69fd0a304",
+    "affine_transformation": null,
+    "changed": "2015-11-05T15:43:37.367860+00:00",
+    "gcps": [
+      {
+        "location": [
+          30.80539375,
+          61.6584829811255
+        ],
+        "pixel": [
+          448,
+          330
+        ]
+      },
+      {
+        "location": [
+          32.123753125,
+          67.1442735104061
+        ],
+        "pixel": [
+          466,
+          157
+        ]
+      },
+      {
+        "location": [
+          24.125706249999997,
+          65.81168411099492
+        ],
+        "pixel": [
+          259,
+          199
+        ]
+      },
+      {
+        "location": [
+          25.444065625000004,
+          70.909378693918
+        ],
+        "pixel": [
+          295,
+          32
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1924"]
+}

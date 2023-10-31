@@ -1,0 +1,121 @@
+{
+  "date": ["1937"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:6faa1110-9f46-11ec-bbf9-fa163e4ea95f?page=uuid%3A72a647d0-9f46-11ec-bbf9-fa163e4ea95f",
+  "description": null,
+  "scale": 75000,
+  "external_id": "1331685",
+  "title": "Sklabiná",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    19.257925,
+    47.949467,
+    19.904465,
+    48.28003
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:6faa1110-9f46-11ec-bbf9-fa163e4ea95f",
+  "id": "48c07b69-d80f-5543-88d7-df84ff89704f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:08:34.298450+00:00",
+    "transformation_method": "affine",
+    "mapID": "48c07b69-d80f-5543-88d7-df84ff89704f",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:08:34.298450+00:00",
+    "gcps": [
+      {
+        "location": [
+          19.412710402,
+          48.219245756
+        ],
+        "pixel": [
+          144,
+          81
+        ]
+      },
+      {
+        "location": [
+          19.352945218,
+          48.065006946
+        ],
+        "pixel": [
+          87,
+          290
+        ]
+      },
+      {
+        "location": [
+          19.828058165,
+          48.219660724
+        ],
+        "pixel": [
+          528,
+          81
+        ]
+      },
+      {
+        "location": [
+          19.803381781,
+          48.103305936
+        ],
+        "pixel": [
+          508,
+          236
+        ]
+      },
+      {
+        "location": [
+          19.519110541,
+          48.076704041
+        ],
+        "pixel": [
+          242,
+          273
+        ]
+      },
+      {
+        "location": [
+          19.54576097,
+          48.208174554
+        ],
+        "pixel": [
+          268,
+          97
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1937"]
+}

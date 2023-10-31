@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/5758_20/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "47291",
+  "title": "Státní mapa 1:5000",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.859011,
+    50.4025,
+    12.900821,
+    50.425404
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/47291",
+  "id": "c42a60f8-3a9f-5610-b4c7-fc9d12c307d6",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1344,
+        11136
+      ],
+      [
+        13536,
+        11136
+      ],
+      [
+        13536,
+        1152
+      ],
+      [
+        1344,
+        1152
+      ],
+      [
+        1344,
+        11136
+      ]
+    ],
+    "created": "2015-06-03T11:15:26.567200+00:00",
+    "transformation_method": "affine",
+    "mapID": "c42a60f8-3a9f-5610-b4c7-fc9d12c307d6",
+    "affine_transformation": null,
+    "changed": "2015-06-03T11:15:26.567200+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.881632492,
+          50.414426635
+        ],
+        "pixel": [
+          8215,
+          5963
+        ]
+      },
+      {
+        "location": [
+          12.867974684,
+          50.414488166
+        ],
+        "pixel": [
+          3669,
+          5213
+        ]
+      },
+      {
+        "location": [
+          12.870023891,
+          50.421314145
+        ],
+        "pixel": [
+          4936,
+          1800
+        ]
+      },
+      {
+        "location": [
+          12.87023552811655,
+          50.414996586544845
+        ],
+        "pixel": [
+          4467,
+          5053
+        ]
+      },
+      {
+        "location": [
+          12.87422585421559,
+          50.407234542321646
+        ],
+        "pixel": [
+          5134,
+          9278
+        ]
+      },
+      {
+        "location": [
+          12.879436066913126,
+          50.418166814880806
+        ],
+        "pixel": [
+          7298,
+          3987
+        ]
+      },
+      {
+        "location": [
+          12.871975376164821,
+          50.40969334606689
+        ],
+        "pixel": [
+          4651,
+          7954
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

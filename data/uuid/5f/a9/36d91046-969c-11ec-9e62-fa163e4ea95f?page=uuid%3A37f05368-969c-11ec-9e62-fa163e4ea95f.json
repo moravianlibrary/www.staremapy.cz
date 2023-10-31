@@ -1,0 +1,111 @@
+{
+  "date": ["1908"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:36d91046-969c-11ec-9e62-fa163e4ea95f?page=uuid%3A37f05368-969c-11ec-9e62-fa163e4ea95f",
+  "description": null,
+  "scale": 200000,
+  "external_id": "1271454",
+  "title": "38°43° Novipazar",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    19.699978,
+    42.382526,
+    20.97893,
+    43.612637
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:36d91046-969c-11ec-9e62-fa163e4ea95f",
+  "id": "e657c187-680c-5767-8573-43eb052f9958",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:22:22.304560+00:00",
+    "transformation_method": "affine",
+    "mapID": "e657c187-680c-5767-8573-43eb052f9958",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:22:22.304560+00:00",
+    "gcps": [
+      {
+        "location": [
+          19.943935058,
+          42.597271956
+        ],
+        "pixel": [
+          112,
+          366
+        ]
+      },
+      {
+        "location": [
+          20.521504163,
+          43.140855108
+        ],
+        "pixel": [
+          384,
+          170
+        ]
+      },
+      {
+        "location": [
+          19.998973987,
+          43.273545329
+        ],
+        "pixel": [
+          138,
+          122
+        ]
+      },
+      {
+        "location": [
+          20.855644724,
+          42.574928994
+        ],
+        "pixel": [
+          542,
+          378
+        ]
+      },
+      {
+        "location": [
+          20.619741902,
+          43.469366124
+        ],
+        "pixel": [
+          439,
+          52
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1908"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": ["1917"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:a6d34a20-9920-11ec-b3d2-fa163e4ea95f?page=uuid%3Aa79fc384-9920-11ec-b3d2-fa163e4ea95f",
+  "description": "Przemyśl (Polsko : oblast)",
+  "scale": 75000,
+  "external_id": "1292804",
+  "title": "Złoczów",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    24.792566,
+    49.721146,
+    25.367104,
+    50.02345
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:a6d34a20-9920-11ec-b3d2-fa163e4ea95f",
+  "id": "3b33c4cc-58b3-515c-a52b-22f5816f96da",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:44:12.760160+00:00",
+    "transformation_method": "affine",
+    "mapID": "3b33c4cc-58b3-515c-a52b-22f5816f96da",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:44:12.760160+00:00",
+    "gcps": [
+      {
+        "location": [
+          24.894119831,
+          49.964414639
+        ],
+        "pixel": [
+          107,
+          85
+        ]
+      },
+      {
+        "location": [
+          25.253888493,
+          49.757587276
+        ],
+        "pixel": [
+          482,
+          391
+        ]
+      },
+      {
+        "location": [
+          25.321959251,
+          49.973938613
+        ],
+        "pixel": [
+          554,
+          73
+        ]
+      },
+      {
+        "location": [
+          25.039011365,
+          49.962368452
+        ],
+        "pixel": [
+          258,
+          90
+        ]
+      },
+      {
+        "location": [
+          24.897905713,
+          49.809874804
+        ],
+        "pixel": [
+          108,
+          313
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1917"]
+}

@@ -1,0 +1,121 @@
+{
+  "date": ["1914"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:f5396ff2-abcf-11ec-865c-fa163e4ea95f?page=uuid%3Af645cd82-abcf-11ec-865c-fa163e4ea95f",
+  "description": null,
+  "scale": 75000,
+  "external_id": "1369126",
+  "title": "Bene",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    24.835346,
+    46.00104,
+    25.327745,
+    46.243927
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:f5396ff2-abcf-11ec-865c-fa163e4ea95f",
+  "id": "897ce107-3bb9-5f98-9910-8d561f91552b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        579,
+        43
+      ],
+      [
+        580,
+        405
+      ],
+      [
+        22,
+        408
+      ],
+      [
+        22,
+        39
+      ],
+      [
+        579,
+        43
+      ]
+    ],
+    "created": "2015-11-05T17:45:35.778060+00:00",
+    "transformation_method": "affine",
+    "mapID": "897ce107-3bb9-5f98-9910-8d561f91552b",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:45:35.778060+00:00",
+    "gcps": [
+      {
+        "location": [
+          25.27262234759294,
+          46.039076304337584
+        ],
+        "pixel": [
+          519,
+          349
+        ]
+      },
+      {
+        "location": [
+          24.92389259621898,
+          46.00284384171832
+        ],
+        "pixel": [
+          122,
+          405
+        ]
+      },
+      {
+        "location": [
+          24.85331256860005,
+          46.240356054458545
+        ],
+        "pixel": [
+          43,
+          44
+        ]
+      },
+      {
+        "location": [
+          25.310972366527416,
+          46.14179771290975
+        ],
+        "pixel": [
+          560,
+          193
+        ]
+      },
+      {
+        "location": [
+          25.28712773394548,
+          46.041340331545655
+        ],
+        "pixel": [
+          534,
+          341
+        ]
+      },
+      {
+        "location": [
+          25.109796792893725,
+          46.12771222772233
+        ],
+        "pixel": [
+          333,
+          214
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1914"]
+}

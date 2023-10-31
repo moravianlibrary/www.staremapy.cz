@@ -1,0 +1,125 @@
+{
+  "date": ["1943"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:592b6a50-9939-11ec-a966-fa163e4ea95f?page=uuid%3A5a1b27a2-9939-11ec-a966-fa163e4ea95f",
+  "description": "Gmünd (Rakousko : oblast)",
+  "scale": 75000,
+  "external_id": "1293503",
+  "title": "Gmünd",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.796897,
+    48.747684,
+    15.3424015,
+    48.998604
+  ],
+  "reviewed": null,
+  "publisher": "Landesvermessungsamt Böhmen und Mähren",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:592b6a50-9939-11ec-a966-fa163e4ea95f",
+  "id": "877aaca8-2efc-5013-98b9-4ffeeea95455",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        80,
+        43
+      ],
+      [
+        529,
+        47
+      ],
+      [
+        527,
+        376
+      ],
+      [
+        80,
+        383
+      ],
+      [
+        80,
+        383
+      ],
+      [
+        80,
+        43
+      ]
+    ],
+    "created": "2016-09-08T18:41:11.965140+00:00",
+    "transformation_method": "affine",
+    "mapID": "877aaca8-2efc-5013-98b9-4ffeeea95455",
+    "affine_transformation": null,
+    "changed": "2016-09-08T18:41:11.965140+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.926990037,
+          48.810534525
+        ],
+        "pixel": [
+          167,
+          297
+        ]
+      },
+      {
+        "location": [
+          14.968875413,
+          48.821838029
+        ],
+        "pixel": [
+          203,
+          281
+        ]
+      },
+      {
+        "location": [
+          15.004580979,
+          48.825002554
+        ],
+        "pixel": [
+          239,
+          278
+        ]
+      },
+      {
+        "location": [
+          15.05951262,
+          48.782943276
+        ],
+        "pixel": [
+          279,
+          335
+        ]
+      },
+      {
+        "location": [
+          14.990161424,
+          48.772988611
+        ],
+        "pixel": [
+          217,
+          347
+        ]
+      },
+      {
+        "location": [
+          15.067752366,
+          48.792443616
+        ],
+        "pixel": [
+          289,
+          319
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1943"]
+}

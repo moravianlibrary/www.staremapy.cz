@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_4046/ImageProperties.xml",
+  "description": null,
+  "scale": 200,
+  "external_id": "12311",
+  "title": "Plán traktu třeboňského kláštera, půdorys přízemí a 1. patra 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.768305,
+    49.00451,
+    14.771144,
+    49.005863
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/12311",
+  "id": "5dfd0665-6b59-56a5-af8d-3dd5841b776f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        22436,
+        0
+      ],
+      [
+        22436,
+        15210
+      ],
+      [
+        0,
+        15210
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        22436,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:27:23.105980+00:00",
+    "transformation_method": "affine",
+    "mapID": "5dfd0665-6b59-56a5-af8d-3dd5841b776f",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:27:23.105980+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.770109457460977,
+          49.005514400979166
+        ],
+        "pixel": [
+          15083,
+          3716
+        ]
+      },
+      {
+        "location": [
+          14.76859181679971,
+          49.00476024523266
+        ],
+        "pixel": [
+          811,
+          11954
+        ]
+      },
+      {
+        "location": [
+          14.769356246368954,
+          49.00469426321695
+        ],
+        "pixel": [
+          7208,
+          13532
+        ]
+      },
+      {
+        "location": [
+          14.76946719612613,
+          49.005492407316694
+        ],
+        "pixel": [
+          9575,
+          3453
+        ]
+      },
+      {
+        "location": [
+          14.77071966001188,
+          49.0054431414776
+        ],
+        "pixel": [
+          20207,
+          5229
+        ]
+      },
+      {
+        "location": [
+          14.76973890248551,
+          49.00472742290401
+        ],
+        "pixel": [
+          10462,
+          13635
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1913"]
+}

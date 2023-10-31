@@ -1,0 +1,121 @@
+{
+  "date": ["1917"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:77e7ca80-9694-11ec-98cb-fa163e4ea95f?page=uuid%3A78fb5b6c-9694-11ec-98cb-fa163e4ea95f",
+  "description": null,
+  "scale": 200000,
+  "external_id": "1271232",
+  "title": "30°46° Belluno",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    11.797162,
+    45.43616,
+    12.879509,
+    46.53478
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:77e7ca80-9694-11ec-98cb-fa163e4ea95f",
+  "id": "caad9094-3931-51ad-9aca-38678bfbcb7e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        25,
+        432
+      ],
+      [
+        574,
+        432
+      ],
+      [
+        574,
+        10
+      ],
+      [
+        25,
+        10
+      ],
+      [
+        25,
+        432
+      ]
+    ],
+    "created": "2017-04-17T09:11:46.684400+00:00",
+    "transformation_method": "affine",
+    "mapID": "caad9094-3931-51ad-9aca-38678bfbcb7e",
+    "affine_transformation": null,
+    "changed": "2017-04-17T09:11:46.684400+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.015946942,
+          45.97484834
+        ],
+        "pixel": [
+          135,
+          227
+        ]
+      },
+      {
+        "location": [
+          12.058690625,
+          45.774240877
+        ],
+        "pixel": [
+          157,
+          303
+        ]
+      },
+      {
+        "location": [
+          12.017320233,
+          46.0003727
+        ],
+        "pixel": [
+          136,
+          216
+        ]
+      },
+      {
+        "location": [
+          12.508786755,
+          45.950088014
+        ],
+        "pixel": [
+          387,
+          236
+        ]
+      },
+      {
+        "location": [
+          12.329915601,
+          45.896711306
+        ],
+        "pixel": [
+          296,
+          256
+        ]
+      },
+      {
+        "location": [
+          12.659848767,
+          45.950267044
+        ],
+        "pixel": [
+          463,
+          236
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1917"]
+}

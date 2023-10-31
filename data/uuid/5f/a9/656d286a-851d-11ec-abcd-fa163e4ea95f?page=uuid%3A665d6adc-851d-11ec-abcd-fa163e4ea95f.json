@@ -1,0 +1,121 @@
+{
+  "date": ["1929"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:656d286a-851d-11ec-abcd-fa163e4ea95f?page=uuid%3A665d6adc-851d-11ec-abcd-fa163e4ea95f",
+  "description": "Polsko",
+  "scale": 75000,
+  "external_id": "1181779",
+  "title": "Ždiar a Zakopane",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    19.75166,
+    49.205147,
+    20.412823,
+    49.531357
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:656d286a-851d-11ec-abcd-fa163e4ea95f",
+  "id": "18b4d296-6ea4-51bf-97d1-247046456440",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2014-08-19T15:49:22.074160+00:00",
+    "transformation_method": "affine",
+    "mapID": "18b4d296-6ea4-51bf-97d1-247046456440",
+    "affine_transformation": null,
+    "changed": "2014-08-19T15:49:22.074160+00:00",
+    "gcps": [
+      {
+        "location": [
+          19.851410179442315,
+          49.43645632535171
+        ],
+        "pixel": [
+          91,
+          130
+        ]
+      },
+      {
+        "location": [
+          20.18877001002012,
+          49.27434068157794
+        ],
+        "pixel": [
+          397,
+          349
+        ]
+      },
+      {
+        "location": [
+          20.29533298353301,
+          49.35696157997566
+        ],
+        "pixel": [
+          495,
+          238
+        ]
+      },
+      {
+        "location": [
+          20.17787675454652,
+          49.48570120745407
+        ],
+        "pixel": [
+          387,
+          59
+        ]
+      },
+      {
+        "location": [
+          19.965418514135283,
+          49.29307059461581
+        ],
+        "pixel": [
+          192,
+          324
+        ]
+      },
+      {
+        "location": [
+          20.03162126138249,
+          49.484251455649286
+        ],
+        "pixel": [
+          255,
+          64
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1929"]
+}

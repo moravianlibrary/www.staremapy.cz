@@ -1,0 +1,111 @@
+{
+  "date": ["1938"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:3145c2b0-9452-11ec-8680-fa163e4ea95f?page=uuid%3A3242bd1c-9452-11ec-8680-fa163e4ea95f",
+  "description": "Hodonín (Česko : oblast)",
+  "scale": 200000,
+  "external_id": "1254539",
+  "title": "Hodonín",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.70593,
+    48.380062,
+    17.955809,
+    49.57633
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:3145c2b0-9452-11ec-8680-fa163e4ea95f",
+  "id": "1d2ddeec-bd7c-5068-860d-492f6ecd2b0d",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:13:07.065830+00:00",
+    "transformation_method": "affine",
+    "mapID": "1d2ddeec-bd7c-5068-860d-492f6ecd2b0d",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:13:07.065830+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.264306743034815,
+          49.00171616149484
+        ],
+        "pixel": [
+          268,
+          213
+        ]
+      },
+      {
+        "location": [
+          17.422505855781704,
+          48.611748289769054
+        ],
+        "pixel": [
+          346,
+          358
+        ]
+      },
+      {
+        "location": [
+          16.8869830124001,
+          49.272587903962034
+        ],
+        "pixel": [
+          86,
+          114
+        ]
+      },
+      {
+        "location": [
+          17.57739640179063,
+          49.353045557465805
+        ],
+        "pixel": [
+          418,
+          84
+        ]
+      },
+      {
+        "location": [
+          16.98023808200067,
+          48.828611369699615
+        ],
+        "pixel": [
+          130,
+          279
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1938"]
+}

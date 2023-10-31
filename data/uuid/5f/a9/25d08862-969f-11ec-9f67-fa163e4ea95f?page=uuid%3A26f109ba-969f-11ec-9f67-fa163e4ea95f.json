@@ -1,0 +1,121 @@
+{
+  "date": ["1931"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:25d08862-969f-11ec-9f67-fa163e4ea95f?page=uuid%3A26f109ba-969f-11ec-9f67-fa163e4ea95f",
+  "description": null,
+  "scale": 200000,
+  "external_id": "1271538",
+  "title": "42°47° Besztercze (Bistritz)",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    23.825733,
+    46.499023,
+    24.832466,
+    47.494442
+  ],
+  "reviewed": null,
+  "publisher": "Kartographisches Institutt",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:25d08862-969f-11ec-9f67-fa163e4ea95f",
+  "id": "63b45319-ae89-5cc1-95a2-df3929b3ede2",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        63,
+        401
+      ],
+      [
+        543,
+        401
+      ],
+      [
+        534,
+        30
+      ],
+      [
+        62,
+        31
+      ],
+      [
+        63,
+        401
+      ]
+    ],
+    "created": "2017-08-06T19:22:29.328500+00:00",
+    "transformation_method": "affine",
+    "mapID": "63b45319-ae89-5cc1-95a2-df3929b3ede2",
+    "affine_transformation": null,
+    "changed": "2017-08-06T19:22:29.328500+00:00",
+    "gcps": [
+      {
+        "location": [
+          24.663137421,
+          46.760355288
+        ],
+        "pixel": [
+          461,
+          304
+        ]
+      },
+      {
+        "location": [
+          24.483922943,
+          46.509232573
+        ],
+        "pixel": [
+          377,
+          397
+        ]
+      },
+      {
+        "location": [
+          23.838647827,
+          47.157592608
+        ],
+        "pixel": [
+          64,
+          156
+        ]
+      },
+      {
+        "location": [
+          24.418519958,
+          47.056586269
+        ],
+        "pixel": [
+          342,
+          194
+        ]
+      },
+      {
+        "location": [
+          24.804929718,
+          47.229331237
+        ],
+        "pixel": [
+          525,
+          130
+        ]
+      },
+      {
+        "location": [
+          23.879846558,
+          47.485279501
+        ],
+        "pixel": [
+          83,
+          34
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1931"]
+}

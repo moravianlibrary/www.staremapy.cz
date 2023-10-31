@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/1539/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "29415",
+  "title": "Karte des politischen Bezirkes Freudenthal",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    17.171549,
+    49.84562,
+    17.798786,
+    50.204174
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/29415",
+  "id": "c30da43b-8876-57f5-9b0a-9da4f3843255",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        545,
+        6712
+      ],
+      [
+        7393,
+        6712
+      ],
+      [
+        7393,
+        344
+      ],
+      [
+        545,
+        344
+      ],
+      [
+        545,
+        6712
+      ]
+    ],
+    "created": "2015-02-27T16:22:18.169880+00:00",
+    "transformation_method": "affine",
+    "mapID": "c30da43b-8876-57f5-9b0a-9da4f3843255",
+    "affine_transformation": null,
+    "changed": "2015-02-27T16:22:18.169880+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.385317541,
+          50.120446613
+        ],
+        "pixel": [
+          2815,
+          1819
+        ]
+      },
+      {
+        "location": [
+          17.313219763,
+          50.020844318
+        ],
+        "pixel": [
+          2052,
+          3676
+        ]
+      },
+      {
+        "location": [
+          17.708212591,
+          49.898040841
+        ],
+        "pixel": [
+          6492,
+          5767
+        ]
+      },
+      {
+        "location": [
+          17.307039954,
+          50.072874864
+        ],
+        "pixel": [
+          1996,
+          2716
+        ]
+      },
+      {
+        "location": [
+          17.466341711,
+          49.989510622
+        ],
+        "pixel": [
+          3756,
+          4193
+        ]
+      },
+      {
+        "location": [
+          17.388750769,
+          50.060974546
+        ],
+        "pixel": [
+          2911,
+          2883
+        ]
+      },
+      {
+        "location": [
+          17.604357458,
+          49.96654904
+        ],
+        "pixel": [
+          5304,
+          4585
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

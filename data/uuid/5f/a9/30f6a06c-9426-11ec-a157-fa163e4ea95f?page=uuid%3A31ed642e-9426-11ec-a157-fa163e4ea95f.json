@@ -1,0 +1,117 @@
+{
+  "date": [
+    "1920",
+    "1950"
+  ],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:30f6a06c-9426-11ec-a157-fa163e4ea95f?page=uuid%3A31ed642e-9426-11ec-a157-fa163e4ea95f",
+  "description": "Caen (Francie)",
+  "scale": 200000,
+  "external_id": "1253200",
+  "title": "Carte Michelin France",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -0.7076453,
+    48.758255,
+    2.4155571,
+    49.724667
+  ],
+  "reviewed": null,
+  "publisher": "Michelin",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:30f6a06c-9426-11ec-a157-fa163e4ea95f",
+  "id": "0d8f8013-718c-5072-a2b8-19dd59d888bf",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:10:45.540030+00:00",
+    "transformation_method": "affine",
+    "mapID": "0d8f8013-718c-5072-a2b8-19dd59d888bf",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:10:45.540030+00:00",
+    "gcps": [
+      {
+        "location": [
+          0.16382633733645732,
+          49.64165335858877
+        ],
+        "pixel": [
+          169,
+          28
+        ]
+      },
+      {
+        "location": [
+          -0.22757262726072364,
+          49.277188470400915
+        ],
+        "pixel": [
+          90,
+          199
+        ]
+      },
+      {
+        "location": [
+          0.633706441401398,
+          49.64009706447919
+        ],
+        "pixel": [
+          261,
+          32
+        ]
+      },
+      {
+        "location": [
+          1.9780795215966107,
+          49.37019296991423
+        ],
+        "pixel": [
+          518,
+          166
+        ]
+      },
+      {
+        "location": [
+          2.0714633106591123,
+          48.98681021518999
+        ],
+        "pixel": [
+          535,
+          351
+        ]
+      }
+    ]
+  },
+  "pubdate": [
+    "1920",
+    "1950"
+  ]
+}

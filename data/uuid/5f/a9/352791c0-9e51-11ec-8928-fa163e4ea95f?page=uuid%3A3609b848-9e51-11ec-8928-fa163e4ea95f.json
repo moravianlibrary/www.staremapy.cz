@@ -1,0 +1,111 @@
+{
+  "date": ["1919"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:352791c0-9e51-11ec-8928-fa163e4ea95f?page=uuid%3A3609b848-9e51-11ec-8928-fa163e4ea95f",
+  "description": "Slovensko východní",
+  "scale": 75000,
+  "external_id": "1305241",
+  "title": "V. Bereznoje",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    22.330265,
+    48.74585,
+    22.83423,
+    49.000378
+  ],
+  "reviewed": null,
+  "publisher": "Kartografické odd. při Min. Nár. Obrany",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:352791c0-9e51-11ec-8928-fa163e4ea95f",
+  "id": "1d194cf1-8e11-5c67-b674-d44780e3a041",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        71,
+        382
+      ],
+      [
+        534,
+        383
+      ],
+      [
+        531,
+        56
+      ],
+      [
+        72,
+        57
+      ],
+      [
+        71,
+        382
+      ]
+    ],
+    "created": "2017-05-21T19:42:28.737370+00:00",
+    "transformation_method": "affine",
+    "mapID": "1d194cf1-8e11-5c67-b674-d44780e3a041",
+    "affine_transformation": null,
+    "changed": "2017-05-21T19:42:28.737370+00:00",
+    "gcps": [
+      {
+        "location": [
+          22.59445799,
+          48.838393062
+        ],
+        "pixel": [
+          313,
+          265
+        ]
+      },
+      {
+        "location": [
+          22.426276635,
+          48.962235039
+        ],
+        "pixel": [
+          159,
+          106
+        ]
+      },
+      {
+        "location": [
+          22.720937044,
+          48.915984419
+        ],
+        "pixel": [
+          430,
+          165
+        ]
+      },
+      {
+        "location": [
+          22.459360486,
+          48.897957178
+        ],
+        "pixel": [
+          189,
+          188
+        ]
+      },
+      {
+        "location": [
+          22.49380005,
+          48.787891594
+        ],
+        "pixel": [
+          221,
+          329
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1919"]
+}

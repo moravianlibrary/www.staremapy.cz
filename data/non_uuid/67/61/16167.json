@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/domousice_0471/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "16167",
+  "title": "Kopie katastrální mapy obce Mšecké Žehrovice z roku 1841, list V 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.875182,
+    50.166206,
+    13.90183,
+    50.179974
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/16167",
+  "id": "4f5ada2c-37be-5b10-a3a1-8dc5ba2a77fe",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        896,
+        730
+      ],
+      [
+        16320,
+        714
+      ],
+      [
+        16272,
+        13098
+      ],
+      [
+        872,
+        13092
+      ],
+      [
+        896,
+        730
+      ]
+    ],
+    "created": "2014-12-07T11:14:19.288840+00:00",
+    "transformation_method": "affine",
+    "mapID": "4f5ada2c-37be-5b10-a3a1-8dc5ba2a77fe",
+    "affine_transformation": null,
+    "changed": "2014-12-07T11:14:19.288840+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.900307085,
+          50.167693507
+        ],
+        "pixel": [
+          15488,
+          11710
+        ]
+      },
+      {
+        "location": [
+          13.898778226,
+          50.172661907
+        ],
+        "pixel": [
+          14620,
+          7264
+        ]
+      },
+      {
+        "location": [
+          13.897858454396731,
+          50.16800411242022
+        ],
+        "pixel": [
+          14100,
+          11590
+        ]
+      },
+      {
+        "location": [
+          13.877857448,
+          50.176340759
+        ],
+        "pixel": [
+          2344,
+          3986
+        ]
+      },
+      {
+        "location": [
+          13.884600069,
+          50.166662654
+        ],
+        "pixel": [
+          6380,
+          12656
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1841"]
+}

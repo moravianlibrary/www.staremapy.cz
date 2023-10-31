@@ -1,0 +1,121 @@
+{
+  "date": ["1939"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:dcf2a91e-7889-11ec-ae20-fa163e4ea95f?page=uuid%3Addf9010a-7889-11ec-ae20-fa163e4ea95f",
+  "description": "Boskovice (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1130758",
+  "title": "Boskovice",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.333397,
+    49.247356,
+    16.834515,
+    49.499294
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:dcf2a91e-7889-11ec-ae20-fa163e4ea95f",
+  "id": "d07d019b-31ae-5181-9402-d96dde9c102d",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        75,
+        43
+      ],
+      [
+        528,
+        44
+      ],
+      [
+        527,
+        386
+      ],
+      [
+        72,
+        384
+      ],
+      [
+        75,
+        43
+      ]
+    ],
+    "created": "2015-01-22T15:09:20.169540+00:00",
+    "transformation_method": "affine",
+    "mapID": "d07d019b-31ae-5181-9402-d96dde9c102d",
+    "affine_transformation": null,
+    "changed": "2015-01-22T15:09:20.169540+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.705107689,
+          49.28586612
+        ],
+        "pixel": [
+          411,
+          333
+        ]
+      },
+      {
+        "location": [
+          16.6847229,
+          49.352025249
+        ],
+        "pixel": [
+          391,
+          244
+        ]
+      },
+      {
+        "location": [
+          16.646099091,
+          49.309542555
+        ],
+        "pixel": [
+          357,
+          301
+        ]
+      },
+      {
+        "location": [
+          16.652622223,
+          49.348838222
+        ],
+        "pixel": [
+          363,
+          248
+        ]
+      },
+      {
+        "location": [
+          16.41474247,
+          49.358230973
+        ],
+        "pixel": [
+          147,
+          235
+        ]
+      },
+      {
+        "location": [
+          16.416630745,
+          49.275199613
+        ],
+        "pixel": [
+          148,
+          348
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1939"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": ["1930"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:ae6192ca-9f41-11ec-9b31-fa163e4ea95f?page=uuid%3Aafcd9cb2-9f41-11ec-9b31-fa163e4ea95f",
+  "description": "Berehove (Ukrajina)",
+  "scale": 75000,
+  "external_id": "1331550",
+  "title": "Berehovo a Mezötarpa",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    22.266895,
+    47.956116,
+    22.884079,
+    48.282055
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:ae6192ca-9f41-11ec-9b31-fa163e4ea95f",
+  "id": "226a2f52-a814-5e07-93cb-0cad11b6549e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:08:18.970380+00:00",
+    "transformation_method": "affine",
+    "mapID": "226a2f52-a814-5e07-93cb-0cad11b6549e",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:08:18.970380+00:00",
+    "gcps": [
+      {
+        "location": [
+          22.65132561654126,
+          48.20631331843197
+        ],
+        "pixel": [
+          374,
+          103
+        ]
+      },
+      {
+        "location": [
+          22.428331007912735,
+          48.23051406555612
+        ],
+        "pixel": [
+          157,
+          69
+        ]
+      },
+      {
+        "location": [
+          22.71714785327217,
+          48.05070498801874
+        ],
+        "pixel": [
+          438,
+          315
+        ]
+      },
+      {
+        "location": [
+          22.365801354443793,
+          48.039685193992625
+        ],
+        "pixel": [
+          96,
+          329
+        ]
+      },
+      {
+        "location": [
+          22.39021004714857,
+          48.22850389322596
+        ],
+        "pixel": [
+          119,
+          73
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1930"]
+}

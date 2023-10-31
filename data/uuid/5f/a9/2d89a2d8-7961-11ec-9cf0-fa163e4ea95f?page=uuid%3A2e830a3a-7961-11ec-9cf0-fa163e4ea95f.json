@@ -1,0 +1,121 @@
+{
+  "date": ["1924"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:2d89a2d8-7961-11ec-9cf0-fa163e4ea95f?page=uuid%3A2e830a3a-7961-11ec-9cf0-fa163e4ea95f",
+  "description": "Kladno (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1125500",
+  "title": "Kladno",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.830287,
+    49.99732,
+    14.334489,
+    50.24905
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:2d89a2d8-7961-11ec-9cf0-fa163e4ea95f",
+  "id": "5ee428ce-1db4-53c4-b1cb-de3a0bed97d3",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        59,
+        43
+      ],
+      [
+        56,
+        398
+      ],
+      [
+        570,
+        399
+      ],
+      [
+        569,
+        44
+      ],
+      [
+        59,
+        43
+      ]
+    ],
+    "created": "2015-01-22T16:38:26.684010+00:00",
+    "transformation_method": "affine",
+    "mapID": "5ee428ce-1db4-53c4-b1cb-de3a0bed97d3",
+    "affine_transformation": null,
+    "changed": "2015-01-22T16:38:26.684010+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.311698826,
+          50.238658354
+        ],
+        "pixel": [
+          546,
+          58
+        ]
+      },
+      {
+        "location": [
+          14.296721371,
+          50.020799686
+        ],
+        "pixel": [
+          531,
+          368
+        ]
+      },
+      {
+        "location": [
+          14.163726719,
+          50.239646482
+        ],
+        "pixel": [
+          395,
+          56
+        ]
+      },
+      {
+        "location": [
+          13.944000156,
+          50.117402702
+        ],
+        "pixel": [
+          172,
+          227
+        ]
+      },
+      {
+        "location": [
+          13.866580875,
+          50.230972217
+        ],
+        "pixel": [
+          93,
+          68
+        ]
+      },
+      {
+        "location": [
+          14.311140926,
+          50.114513222
+        ],
+        "pixel": [
+          546,
+          234
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1924"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_pardubice_175/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "13649",
+  "title": "Koncept mapy lesa Šviholec a bažiny Zástava",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.6874,
+    50.09182,
+    15.704553,
+    50.098583
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/13649",
+  "id": "b4b3d902-3a6f-5ccd-b214-b2898dc38ced",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1499,
+        5869
+      ],
+      [
+        10995,
+        5789
+      ],
+      [
+        11011,
+        429
+      ],
+      [
+        1475,
+        421
+      ],
+      [
+        1499,
+        5869
+      ]
+    ],
+    "created": "2014-12-17T12:33:52.098790+00:00",
+    "transformation_method": "affine",
+    "mapID": "b4b3d902-3a6f-5ccd-b214-b2898dc38ced",
+    "affine_transformation": null,
+    "changed": "2014-12-17T12:33:52.098790+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.700247555,
+          50.097263278
+        ],
+        "pixel": [
+          8721,
+          1270
+        ]
+      },
+      {
+        "location": [
+          15.700787303,
+          50.096516754
+        ],
+        "pixel": [
+          8817,
+          1863
+        ]
+      },
+      {
+        "location": [
+          15.693497658,
+          50.092380424
+        ],
+        "pixel": [
+          4777,
+          5561
+        ]
+      },
+      {
+        "location": [
+          15.703175068,
+          50.094830746
+        ],
+        "pixel": [
+          10283,
+          3264
+        ]
+      },
+      {
+        "location": [
+          15.69283247,
+          50.092724578
+        ],
+        "pixel": [
+          4509,
+          5285
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1870"]
+}

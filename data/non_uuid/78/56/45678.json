@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/4636/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "45678",
+  "title": "Stellungskarte",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    24.186563,
+    49.93334,
+    24.310804,
+    49.99187
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/45678",
+  "id": "fc413904-a0e0-56cf-b401-c60cf8dd7482",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        20843,
+        0
+      ],
+      [
+        20843,
+        15349
+      ],
+      [
+        0,
+        15349
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        20843,
+        0
+      ]
+    ],
+    "created": "2014-11-25T16:09:38.668220+00:00",
+    "transformation_method": "affine",
+    "mapID": "fc413904-a0e0-56cf-b401-c60cf8dd7482",
+    "affine_transformation": null,
+    "changed": "2014-11-25T16:09:38.668220+00:00",
+    "gcps": [
+      {
+        "location": [
+          24.289162861,
+          49.989947034
+        ],
+        "pixel": [
+          17270,
+          515
+        ]
+      },
+      {
+        "location": [
+          24.268990093,
+          49.940429752
+        ],
+        "pixel": [
+          13831,
+          13461
+        ]
+      },
+      {
+        "location": [
+          24.221091986,
+          49.973707726
+        ],
+        "pixel": [
+          5788,
+          4728
+        ]
+      },
+      {
+        "location": [
+          24.200996876,
+          49.951394422
+        ],
+        "pixel": [
+          2389,
+          10646
+        ]
+      },
+      {
+        "location": [
+          24.262698412,
+          49.949799726
+        ],
+        "pixel": [
+          12740,
+          11059
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

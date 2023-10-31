@@ -1,0 +1,109 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_2707/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "10052",
+  "title": "Plán třeboňské zámecké zahrady z r.1876 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.765447,
+    49.00088,
+    14.771898,
+    49.005024
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/10052",
+  "id": "8d063bc6-45b0-5798-bb29-3bb5337c81fd",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        12631,
+        2010
+      ],
+      [
+        14790,
+        2010
+      ],
+      [
+        14814,
+        10061
+      ],
+      [
+        804,
+        10061
+      ],
+      [
+        811,
+        892
+      ],
+      [
+        12616,
+        816
+      ],
+      [
+        12631,
+        2010
+      ]
+    ],
+    "created": "2014-11-25T17:20:03.508530+00:00",
+    "transformation_method": "affine",
+    "mapID": "8d063bc6-45b0-5798-bb29-3bb5337c81fd",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:20:03.508530+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.76846893238981,
+          49.004395684514975
+        ],
+        "pixel": [
+          2823,
+          3042
+        ]
+      },
+      {
+        "location": [
+          14.768935636758405,
+          49.00213287478158
+        ],
+        "pixel": [
+          10993,
+          4455
+        ]
+      },
+      {
+        "location": [
+          14.76678986954649,
+          49.00236162382731
+        ],
+        "pixel": [
+          2996,
+          8444
+        ]
+      },
+      {
+        "location": [
+          14.76933260369261,
+          49.003586293155365
+        ],
+        "pixel": [
+          8768,
+          2718
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1876"]
+}

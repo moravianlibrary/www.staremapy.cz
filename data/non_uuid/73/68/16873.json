@@ -1,0 +1,119 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/orlik_0584/ImageProperties.xml",
+  "description": null,
+  "scale": 5760,
+  "external_id": "16873",
+  "title": "Mapa dvora Rakovice 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.027209,
+    49.45823,
+    14.071871,
+    49.482746
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/16873",
+  "id": "186c4b72-d195-5cee-9adc-380852bfb5cd",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        634,
+        7490
+      ],
+      [
+        7298,
+        8098
+      ],
+      [
+        7306,
+        11682
+      ],
+      [
+        13530,
+        11682
+      ],
+      [
+        13530,
+        578
+      ],
+      [
+        474,
+        578
+      ],
+      [
+        634,
+        7490
+      ]
+    ],
+    "created": "2015-11-27T01:09:39.560570+00:00",
+    "transformation_method": "affine",
+    "mapID": "186c4b72-d195-5cee-9adc-380852bfb5cd",
+    "affine_transformation": null,
+    "changed": "2015-11-27T01:09:39.560570+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.055420637,
+          49.470247872
+        ],
+        "pixel": [
+          8753,
+          6240
+        ]
+      },
+      {
+        "location": [
+          14.070870161,
+          49.472447507
+        ],
+        "pixel": [
+          13268,
+          5224
+        ]
+      },
+      {
+        "location": [
+          14.064357757474731,
+          49.47855960221946
+        ],
+        "pixel": [
+          11343,
+          2486
+        ]
+      },
+      {
+        "location": [
+          14.068520546,
+          49.465890143
+        ],
+        "pixel": [
+          12595,
+          8225
+        ]
+      },
+      {
+        "location": [
+          14.03090524664099,
+          49.4732753946507
+        ],
+        "pixel": [
+          1581,
+          4860
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1919"]
+}

@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Bor_M_74/ImageProperties.xml",
+  "description": null,
+  "scale": 8640,
+  "external_id": "19078",
+  "title": "Přehledná mapa vrchnostenských pozemků v katastru obce Skviřín",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.762653,
+    49.69018,
+    12.866282,
+    49.742764
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/19078",
+  "id": "302285bc-9466-52bc-84d6-d72439cb55f5",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        424,
+        417
+      ],
+      [
+        20384,
+        541
+      ],
+      [
+        20256,
+        16037
+      ],
+      [
+        390,
+        15967
+      ],
+      [
+        424,
+        417
+      ]
+    ],
+    "created": "2015-12-05T00:32:51.961910+00:00",
+    "transformation_method": "affine",
+    "mapID": "302285bc-9466-52bc-84d6-d72439cb55f5",
+    "affine_transformation": null,
+    "changed": "2015-12-05T00:32:51.961910+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.787338138,
+          49.717827872
+        ],
+        "pixel": [
+          5076,
+          7743
+        ]
+      },
+      {
+        "location": [
+          12.823113441,
+          49.735707534
+        ],
+        "pixel": [
+          12158,
+          2505
+        ]
+      },
+      {
+        "location": [
+          12.829003572,
+          49.718667212
+        ],
+        "pixel": [
+          13180,
+          7654
+        ]
+      },
+      {
+        "location": [
+          12.806506763,
+          49.696187575
+        ],
+        "pixel": [
+          8672,
+          14332
+        ]
+      },
+      {
+        "location": [
+          12.824433088,
+          49.702120519
+        ],
+        "pixel": [
+          12166,
+          12580
+        ]
+      },
+      {
+        "location": [
+          12.838927746,
+          49.726719978
+        ],
+        "pixel": [
+          15170,
+          5274
+        ]
+      },
+      {
+        "location": [
+          12.785777092,
+          49.725887713
+        ],
+        "pixel": [
+          4804,
+          5329
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1928"]
+}

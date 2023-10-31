@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_0627/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "5753",
+  "title": "Přehledná mapa polesí Radonice 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.515255,
+    49.071587,
+    14.638873,
+    49.154205
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/5753",
+  "id": "764da40a-81e6-5d0c-880b-d0ac99279e8c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        22776,
+        0
+      ],
+      [
+        22776,
+        15879
+      ],
+      [
+        0,
+        15879
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        22776,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:08:38.207320+00:00",
+    "transformation_method": "affine",
+    "mapID": "764da40a-81e6-5d0c-880b-d0ac99279e8c",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:08:38.207320+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.593047023,
+          49.117886822
+        ],
+        "pixel": [
+          15002,
+          9348
+        ]
+      },
+      {
+        "location": [
+          14.586894035,
+          49.123581397
+        ],
+        "pixel": [
+          15442,
+          7058
+        ]
+      },
+      {
+        "location": [
+          14.602995378,
+          49.114210024
+        ],
+        "pixel": [
+          15638,
+          11776
+        ]
+      },
+      {
+        "location": [
+          14.583804131,
+          49.117967575
+        ],
+        "pixel": [
+          13634,
+          7851
+        ]
+      },
+      {
+        "location": [
+          14.572153679,
+          49.116039706
+        ],
+        "pixel": [
+          11390,
+          6440
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1820"]
+}

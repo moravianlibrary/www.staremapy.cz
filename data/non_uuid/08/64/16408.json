@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/orlik_0119/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "16408",
+  "title": "Geometrický nárys hranic mezi panstvím orlickým a statkem Zbenicemi podle měření z r. 1765, díl B 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.047772,
+    49.59743,
+    14.066763,
+    49.60773
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/16408",
+  "id": "828d61f2-dc9e-562b-8491-762306776d2b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        9095,
+        0
+      ],
+      [
+        9095,
+        11715
+      ],
+      [
+        0,
+        11715
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        9095,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:31:42.074870+00:00",
+    "transformation_method": "affine",
+    "mapID": "828d61f2-dc9e-562b-8491-762306776d2b",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:31:42.074870+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.058302589,
+          49.598930564
+        ],
+        "pixel": [
+          5122,
+          10598
+        ]
+      },
+      {
+        "location": [
+          14.061435409,
+          49.603936989
+        ],
+        "pixel": [
+          7234,
+          4534
+        ]
+      },
+      {
+        "location": [
+          14.057401366,
+          49.603603243
+        ],
+        "pixel": [
+          4338,
+          4486
+        ]
+      },
+      {
+        "location": [
+          14.065555282,
+          49.598735859
+        ],
+        "pixel": [
+          8082,
+          11062
+        ]
+      },
+      {
+        "location": [
+          14.056371398,
+          49.599264342
+        ],
+        "pixel": [
+          3378,
+          9926
+        ]
+      },
+      {
+        "location": [
+          14.057959266,
+          49.602379489
+        ],
+        "pixel": [
+          5058,
+          6006
+        ]
+      },
+      {
+        "location": [
+          14.060620017,
+          49.605077269
+        ],
+        "pixel": [
+          6850,
+          3158
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1765"]
+}

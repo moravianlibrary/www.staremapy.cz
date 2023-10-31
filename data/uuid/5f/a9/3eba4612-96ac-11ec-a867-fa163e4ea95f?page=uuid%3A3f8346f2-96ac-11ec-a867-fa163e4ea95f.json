@@ -1,0 +1,111 @@
+{
+  "date": ["1915"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:3eba4612-96ac-11ec-a867-fa163e4ea95f?page=uuid%3A3f8346f2-96ac-11ec-a867-fa163e4ea95f",
+  "description": "Verona (Itálie : oblast)",
+  "scale": 200000,
+  "external_id": "1271910",
+  "title": "29°45° Verona",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    10.83516,
+    44.501137,
+    11.841,
+    45.49804
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:3eba4612-96ac-11ec-a867-fa163e4ea95f",
+  "id": "83c3d252-dfe1-52ab-8768-2d1e41a3214a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        50,
+        401
+      ],
+      [
+        550,
+        400
+      ],
+      [
+        540,
+        33
+      ],
+      [
+        49,
+        34
+      ],
+      [
+        50,
+        401
+      ]
+    ],
+    "created": "2017-08-05T19:23:47.475500+00:00",
+    "transformation_method": "affine",
+    "mapID": "83c3d252-dfe1-52ab-8768-2d1e41a3214a",
+    "affine_transformation": null,
+    "changed": "2017-08-05T19:23:47.475500+00:00",
+    "gcps": [
+      {
+        "location": [
+          11.220700369,
+          44.998669493
+        ],
+        "pixel": [
+          239,
+          218
+        ]
+      },
+      {
+        "location": [
+          11.820914374,
+          45.291156752
+        ],
+        "pixel": [
+          536,
+          110
+        ]
+      },
+      {
+        "location": [
+          10.948359595,
+          45.477731983
+        ],
+        "pixel": [
+          102,
+          40
+        ]
+      },
+      {
+        "location": [
+          10.85180007,
+          44.876668601
+        ],
+        "pixel": [
+          56,
+          263
+        ]
+      },
+      {
+        "location": [
+          11.478106604,
+          44.503417949
+        ],
+        "pixel": [
+          370,
+          400
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1915"]
+}

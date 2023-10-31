@@ -1,0 +1,121 @@
+{
+  "date": ["1923"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:3b09f546-8e53-11ec-ab2a-fa163e4ea95f?page=uuid%3A3c68712e-8e53-11ec-ab2a-fa163e4ea95f",
+  "description": "Antarktický oceán",
+  "scale": 2200000,
+  "external_id": "1208336",
+  "title": "Antarctic Ocean",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    44.43127,
+    -70.9931,
+    113.40043,
+    -59.62945
+  ],
+  "reviewed": null,
+  "publisher": "Admiralty",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:3b09f546-8e53-11ec-ab2a-fa163e4ea95f",
+  "id": "82d8d624-dc91-533b-997a-42904f1f63e8",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T15:54:54.024090+00:00",
+    "transformation_method": "affine",
+    "mapID": "82d8d624-dc91-533b-997a-42904f1f63e8",
+    "affine_transformation": null,
+    "changed": "2022-04-23T15:57:10.346979+00:00",
+    "gcps": [
+      {
+        "location": [
+          107.98464384635393,
+          -66.00295360503704
+        ],
+        "pixel": [
+          577,
+          249
+        ]
+      },
+      {
+        "location": [
+          50.38014780463769,
+          -66.32250252241121
+        ],
+        "pixel": [
+          27,
+          249
+        ]
+      },
+      {
+        "location": [
+          100.02233113131612,
+          -63.99982664309235
+        ],
+        "pixel": [
+          514,
+          165
+        ]
+      },
+      {
+        "location": [
+          96.0041983365554,
+          -64.00468751699182
+        ],
+        "pixel": [
+          473,
+          153
+        ]
+      },
+      {
+        "location": [
+          102.02300856572681,
+          -66.00931870012744
+        ],
+        "pixel": [
+          519,
+          224
+        ]
+      },
+      {
+        "location": [
+          58.92852251421693,
+          -67.19814355987332
+        ],
+        "pixel": [
+          100,
+          234
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1923"]
+}

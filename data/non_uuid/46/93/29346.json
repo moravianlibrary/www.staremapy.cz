@@ -1,0 +1,115 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/1500_01/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "29346",
+  "title": "Mappa geographica regni Bohemiae in duodecim circulos divisae \u2026",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.494007,
+    50.66536,
+    13.210067,
+    50.886135
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/29346",
+  "id": "04ef34d6-f68e-5c9e-9cb8-23617cc419c5",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        5280,
+        11986
+      ],
+      [
+        15456,
+        9138
+      ],
+      [
+        15648,
+        12210
+      ],
+      [
+        5344,
+        12498
+      ],
+      [
+        5344,
+        12498
+      ],
+      [
+        5280,
+        11986
+      ]
+    ],
+    "created": "2015-01-24T13:13:31.213050+00:00",
+    "transformation_method": "affine",
+    "mapID": "04ef34d6-f68e-5c9e-9cb8-23617cc419c5",
+    "affine_transformation": null,
+    "changed": "2015-01-24T13:13:31.213050+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.952248536,
+          50.669540808
+        ],
+        "pixel": [
+          13192,
+          11372
+        ]
+      },
+      {
+        "location": [
+          12.926670991,
+          50.830366595
+        ],
+        "pixel": [
+          11068,
+          11784
+        ]
+      },
+      {
+        "location": [
+          13.069493257,
+          50.746995137
+        ],
+        "pixel": [
+          14712,
+          9948
+        ]
+      },
+      {
+        "location": [
+          12.92649933,
+          50.810222399
+        ],
+        "pixel": [
+          11056,
+          11863
+        ]
+      },
+      {
+        "location": [
+          12.77440735,
+          50.709561268
+        ],
+        "pixel": [
+          10640,
+          11492
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

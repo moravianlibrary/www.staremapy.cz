@@ -1,0 +1,111 @@
+{
+  "date": ["1932"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:1affe156-945d-11ec-99e7-fa163e4ea95f?page=uuid%3A1c1a7ce0-945d-11ec-99e7-fa163e4ea95f",
+  "description": "Moldávie (historické území)",
+  "scale": 200000,
+  "external_id": "1254845",
+  "title": "45°48° Mogilew",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    26.83154,
+    47.497528,
+    27.848055,
+    48.500088
+  ],
+  "reviewed": null,
+  "publisher": "Kartographisches, früher Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:1affe156-945d-11ec-99e7-fa163e4ea95f",
+  "id": "60ad3bd6-6b86-55ca-a2b7-ae2f0036e685",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        64,
+        402
+      ],
+      [
+        540,
+        402
+      ],
+      [
+        532,
+        30
+      ],
+      [
+        66,
+        29
+      ],
+      [
+        64,
+        402
+      ]
+    ],
+    "created": "2017-04-26T18:59:28.750940+00:00",
+    "transformation_method": "affine",
+    "mapID": "60ad3bd6-6b86-55ca-a2b7-ae2f0036e685",
+    "affine_transformation": null,
+    "changed": "2017-04-26T18:59:28.750940+00:00",
+    "gcps": [
+      {
+        "location": [
+          26.897941648,
+          47.541870066
+        ],
+        "pixel": [
+          94,
+          386
+        ]
+      },
+      {
+        "location": [
+          27.128558003,
+          48.011799442
+        ],
+        "pixel": [
+          204,
+          211
+        ]
+      },
+      {
+        "location": [
+          27.000627362,
+          48.399744167
+        ],
+        "pixel": [
+          141,
+          67
+        ]
+      },
+      {
+        "location": [
+          27.721526946,
+          47.569580069
+        ],
+        "pixel": [
+          480,
+          376
+        ]
+      },
+      {
+        "location": [
+          27.768511617,
+          48.458405404
+        ],
+        "pixel": [
+          500,
+          45
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1932"]
+}

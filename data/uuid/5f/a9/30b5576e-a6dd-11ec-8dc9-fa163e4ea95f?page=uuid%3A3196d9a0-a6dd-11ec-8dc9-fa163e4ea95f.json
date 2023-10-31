@@ -1,0 +1,111 @@
+{
+  "date": ["1904"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:30b5576e-a6dd-11ec-8dc9-fa163e4ea95f?page=uuid%3A3196d9a0-a6dd-11ec-8dc9-fa163e4ea95f",
+  "description": "Livigno (Itálie)",
+  "scale": 75000,
+  "external_id": "1342029",
+  "title": "Livigno",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    9.833894,
+    46.49912,
+    10.340357,
+    46.750847
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:30b5576e-a6dd-11ec-8dc9-fa163e4ea95f",
+  "id": "6b4cb8a1-09a6-51c5-9614-93b80cc78243",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        104,
+        374
+      ],
+      [
+        555,
+        377
+      ],
+      [
+        554,
+        31
+      ],
+      [
+        105,
+        30
+      ],
+      [
+        104,
+        374
+      ]
+    ],
+    "created": "2016-09-07T14:44:00.476730+00:00",
+    "transformation_method": "affine",
+    "mapID": "6b4cb8a1-09a6-51c5-9614-93b80cc78243",
+    "affine_transformation": null,
+    "changed": "2016-09-07T14:44:00.476730+00:00",
+    "gcps": [
+      {
+        "location": [
+          10.094922968,
+          46.70035125
+        ],
+        "pixel": [
+          337,
+          99
+        ]
+      },
+      {
+        "location": [
+          10.305366591,
+          46.727406782
+        ],
+        "pixel": [
+          524,
+          63
+        ]
+      },
+      {
+        "location": [
+          10.139855334,
+          46.547427657
+        ],
+        "pixel": [
+          376,
+          310
+        ]
+      },
+      {
+        "location": [
+          9.869231174,
+          46.532417105
+        ],
+        "pixel": [
+          135,
+          330
+        ]
+      },
+      {
+        "location": [
+          9.858116099,
+          46.58715532
+        ],
+        "pixel": [
+          125,
+          254
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1904"]
+}

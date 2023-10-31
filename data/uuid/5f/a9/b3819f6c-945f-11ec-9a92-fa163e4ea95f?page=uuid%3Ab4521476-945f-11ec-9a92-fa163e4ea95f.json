@@ -1,0 +1,111 @@
+{
+  "date": ["1943"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:b3819f6c-945f-11ec-9a92-fa163e4ea95f?page=uuid%3Ab4521476-945f-11ec-9a92-fa163e4ea95f",
+  "description": "Klatovy (Česko : oblast)",
+  "scale": 200000,
+  "external_id": "1254920",
+  "title": "31°49° Passau",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.689872,
+    48.36312,
+    13.975426,
+    49.5768
+  ],
+  "reviewed": null,
+  "publisher": "Landesvermessungsamt Böhmen und Mähren",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:b3819f6c-945f-11ec-9a92-fa163e4ea95f",
+  "id": "c60332a0-6c64-504d-87aa-c0897e00ae15",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:15:06.214700+00:00",
+    "transformation_method": "affine",
+    "mapID": "c60332a0-6c64-504d-87aa-c0897e00ae15",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:15:06.214700+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.184861914062498,
+          48.63375488899254
+        ],
+        "pixel": [
+          231,
+          346
+        ]
+      },
+      {
+        "location": [
+          13.700707182184045,
+          49.32163764046467
+        ],
+        "pixel": [
+          471,
+          94
+        ]
+      },
+      {
+        "location": [
+          13.294725195312498,
+          49.39750849230933
+        ],
+        "pixel": [
+          278,
+          67
+        ]
+      },
+      {
+        "location": [
+          13.795189944364381,
+          48.92299988192656
+        ],
+        "pixel": [
+          521,
+          240
+        ]
+      },
+      {
+        "location": [
+          12.852589918890754,
+          49.175820328197005
+        ],
+        "pixel": [
+          73,
+          146
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1943"]
+}

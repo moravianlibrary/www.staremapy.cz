@@ -1,0 +1,111 @@
+{
+  "date": ["1918"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:43a47660-a46d-11ec-b938-fa163e4ea95f?page=uuid%3A446dea22-a46d-11ec-b938-fa163e4ea95f",
+  "description": "Karlovy Vary (Česko)",
+  "scale": 15000,
+  "external_id": "1334813",
+  "title": "Karlsbader Promenaden-Plan mit Umgebung",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.794249,
+    50.175243,
+    12.952493,
+    50.256348
+  ],
+  "reviewed": null,
+  "publisher": "Hermann Jakob",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:43a47660-a46d-11ec-b938-fa163e4ea95f",
+  "id": "f1889d36-7ef8-5743-9af4-57d05e71ff12",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        586,
+        16
+      ],
+      [
+        585,
+        419
+      ],
+      [
+        16,
+        418
+      ],
+      [
+        16,
+        17
+      ],
+      [
+        586,
+        16
+      ]
+    ],
+    "created": "2015-11-05T17:21:44.801850+00:00",
+    "transformation_method": "affine",
+    "mapID": "f1889d36-7ef8-5743-9af4-57d05e71ff12",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:21:44.801850+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.89651690369033,
+          50.24795340018986
+        ],
+        "pixel": [
+          437,
+          27
+        ]
+      },
+      {
+        "location": [
+          12.825423367368602,
+          50.21221056625089
+        ],
+        "pixel": [
+          96,
+          213
+        ]
+      },
+      {
+        "location": [
+          12.843907095559258,
+          50.23357355859588
+        ],
+        "pixel": [
+          200,
+          90
+        ]
+      },
+      {
+        "location": [
+          12.870477939538976,
+          50.19641183614135
+        ],
+        "pixel": [
+          257,
+          340
+        ]
+      },
+      {
+        "location": [
+          12.920915740512347,
+          50.20643808612047
+        ],
+        "pixel": [
+          492,
+          319
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1918"]
+}

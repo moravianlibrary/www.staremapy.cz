@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1629/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "8972",
+  "title": "Holičky o. Jindřichův Hradec 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.838,
+    49.017597,
+    14.864794,
+    49.03162
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/8972",
+  "id": "cc66bb52-9b41-5f9c-ace2-faee2c0125d6",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        912,
+        13456
+      ],
+      [
+        16256,
+        13424
+      ],
+      [
+        16224,
+        1136
+      ],
+      [
+        944,
+        1152
+      ],
+      [
+        912,
+        13456
+      ]
+    ],
+    "created": "2015-09-09T12:12:03.322050+00:00",
+    "transformation_method": "affine",
+    "mapID": "cc66bb52-9b41-5f9c-ace2-faee2c0125d6",
+    "affine_transformation": null,
+    "changed": "2015-09-09T12:12:03.322050+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.844000823,
+          49.023567689
+        ],
+        "pixel": [
+          4344,
+          8416
+        ]
+      },
+      {
+        "location": [
+          14.862904475,
+          49.029350664
+        ],
+        "pixel": [
+          15217,
+          2844
+        ]
+      },
+      {
+        "location": [
+          14.853194878,
+          49.029104452
+        ],
+        "pixel": [
+          9482,
+          3080
+        ]
+      },
+      {
+        "location": [
+          14.861509726,
+          49.021527573
+        ],
+        "pixel": [
+          14407,
+          9920
+        ]
+      },
+      {
+        "location": [
+          14.862166151,
+          49.017639122
+        ],
+        "pixel": [
+          14899,
+          13396
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1838"]
+}

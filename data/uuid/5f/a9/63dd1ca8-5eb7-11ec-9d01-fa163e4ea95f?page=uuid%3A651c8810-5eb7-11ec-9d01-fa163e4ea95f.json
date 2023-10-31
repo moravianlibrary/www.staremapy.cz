@@ -1,0 +1,121 @@
+{
+  "date": ["1877"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:63dd1ca8-5eb7-11ec-9d01-fa163e4ea95f?page=uuid%3A651c8810-5eb7-11ec-9d01-fa163e4ea95f",
+  "description": "Hluboká nad Vltavou-oblast (Česko)",
+  "scale": 25000,
+  "external_id": "1065954",
+  "title": "Gradkartenblatt",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Czöppan, Johann",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.336477,
+    49.000553,
+    14.582869,
+    49.1236
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:63dd1ca8-5eb7-11ec-9d01-fa163e4ea95f",
+  "id": "a02b8034-e803-5a92-a56b-072009a0d723",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        21,
+        421
+      ],
+      [
+        550,
+        421
+      ],
+      [
+        550,
+        49
+      ],
+      [
+        21,
+        49
+      ],
+      [
+        21,
+        421
+      ]
+    ],
+    "created": "2015-03-17T09:09:07.722440+00:00",
+    "transformation_method": "affine",
+    "mapID": "a02b8034-e803-5a92-a56b-072009a0d723",
+    "affine_transformation": null,
+    "changed": "2015-03-17T09:09:07.722440+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.572289378261233,
+          49.09915258666203
+        ],
+        "pixel": [
+          528,
+          124
+        ]
+      },
+      {
+        "location": [
+          14.361959976214534,
+          49.12136831360462
+        ],
+        "pixel": [
+          75,
+          56
+        ]
+      },
+      {
+        "location": [
+          14.482503859806819,
+          49.064602199264414
+        ],
+        "pixel": [
+          335,
+          228
+        ]
+      },
+      {
+        "location": [
+          14.539997902395017,
+          49.008097697649674
+        ],
+        "pixel": [
+          458,
+          399
+        ]
+      },
+      {
+        "location": [
+          14.390027911,
+          49.024011994
+        ],
+        "pixel": [
+          137,
+          351
+        ]
+      },
+      {
+        "location": [
+          14.35550483751466,
+          49.05705773379265
+        ],
+        "pixel": [
+          61,
+          251
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1877"]
+}

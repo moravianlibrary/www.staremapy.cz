@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.mzk.cz/search/iiif/uuid:5ab01f11-56d7-42a1-bf94-6459b3d62ad4/info.json",
+  "description": null,
+  "scale": 200000,
+  "external_id": "5ab01f11-56d7-42a1-bf94-6459b3d62ad4",
+  "title": "Spišská Nová Ves",
+  "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    19.826408,
+    48.495712,
+    20.840513,
+    49.49634
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://www.digitalniknihovna.cz/mzk/view/uuid:8604ef3c-e22b-46c1-af48-5353863e0c24?page=uuid:5ab01f11-56d7-42a1-bf94-6459b3d62ad4",
+  "id": "dd79e747-fa18-55ce-9bed-30a62eef66fc",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        9606,
+        635
+      ],
+      [
+        9658,
+        13821
+      ],
+      [
+        953,
+        13876
+      ],
+      [
+        1092,
+        653
+      ],
+      [
+        9606,
+        635
+      ]
+    ],
+    "created": "2018-12-19T14:27:52.977214+00:00",
+    "transformation_method": "affine",
+    "mapID": "dd79e747-fa18-55ce-9bed-30a62eef66fc",
+    "affine_transformation": null,
+    "changed": "2021-04-26T08:58:56.758985+00:00",
+    "gcps": [
+      {
+        "location": [
+          20.682966351868366,
+          48.59580668166379
+        ],
+        "pixel": [
+          8356,
+          12537
+        ]
+      },
+      {
+        "location": [
+          20.290831004115258,
+          49.055851683519734
+        ],
+        "pixel": [
+          4967,
+          6462
+        ]
+      },
+      {
+        "location": [
+          20.79723529405565,
+          49.34328958399897
+        ],
+        "pixel": [
+          9323,
+          2664
+        ]
+      },
+      {
+        "location": [
+          19.903663495375408,
+          49.23057285110289
+        ],
+        "pixel": [
+          1703,
+          4156
+        ]
+      },
+      {
+        "location": [
+          20.5814825275438,
+          48.940139466064466
+        ],
+        "pixel": [
+          7464,
+          7974
+        ]
+      },
+      {
+        "location": [
+          19.939632407262636,
+          48.509403448200686
+        ],
+        "pixel": [
+          1892,
+          13712
+        ]
+      },
+      {
+        "location": [
+          20.01344182807485,
+          49.47558334690851
+        ],
+        "pixel": [
+          2641,
+          956
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

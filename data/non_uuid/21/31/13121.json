@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_pardubice_105/ImageProperties.xml",
+  "description": null,
+  "scale": 5000,
+  "external_id": "13121",
+  "title": "Mapa dřevin hájemství Koloděje",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.840224,
+    50.027264,
+    15.853612,
+    50.035084
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/13121",
+  "id": "6b745c2c-1b33-5d55-9a87-6cc68741fd5e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        3680,
+        11120
+      ],
+      [
+        7072,
+        11120
+      ],
+      [
+        7072,
+        8432
+      ],
+      [
+        3680,
+        8432
+      ],
+      [
+        3680,
+        11120
+      ]
+    ],
+    "created": "2015-06-01T10:37:27.855490+00:00",
+    "transformation_method": "affine",
+    "mapID": "6b745c2c-1b33-5d55-9a87-6cc68741fd5e",
+    "affine_transformation": null,
+    "changed": "2015-06-01T10:37:27.855490+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.843328039,
+          50.031296068
+        ],
+        "pixel": [
+          4364,
+          10306
+        ]
+      },
+      {
+        "location": [
+          15.844572584,
+          50.03291563
+        ],
+        "pixel": [
+          4307,
+          9360
+        ]
+      },
+      {
+        "location": [
+          15.847335259,
+          50.03264341
+        ],
+        "pixel": [
+          5134,
+          9036
+        ]
+      },
+      {
+        "location": [
+          15.8489875,
+          50.032384971
+        ],
+        "pixel": [
+          5638,
+          8878
+        ]
+      },
+      {
+        "location": [
+          15.847115318,
+          50.032440105
+        ],
+        "pixel": [
+          5134,
+          9174
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1921"]
+}

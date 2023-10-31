@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Kout_na_Sumave_M_286/ImageProperties.xml",
+  "description": null,
+  "scale": 5760,
+  "external_id": "14326",
+  "title": "Porostní mapa revíru Postřekov",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.736752,
+    49.425102,
+    12.804827,
+    49.460567
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/14326",
+  "id": "885915d7-63e5-5ff7-823d-ce466adcd6c9",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        320,
+        11248
+      ],
+      [
+        14272,
+        11248
+      ],
+      [
+        14272,
+        528
+      ],
+      [
+        320,
+        528
+      ],
+      [
+        320,
+        11248
+      ]
+    ],
+    "created": "2015-07-26T22:35:45.374660+00:00",
+    "transformation_method": "affine",
+    "mapID": "885915d7-63e5-5ff7-823d-ce466adcd6c9",
+    "affine_transformation": null,
+    "changed": "2015-07-26T22:35:45.374660+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.755026646,
+          49.450010641
+        ],
+        "pixel": [
+          11429,
+          3667
+        ]
+      },
+      {
+        "location": [
+          12.763266392,
+          49.45257735
+        ],
+        "pixel": [
+          11429,
+          6131
+        ]
+      },
+      {
+        "location": [
+          12.78420908,
+          49.445379064
+        ],
+        "pixel": [
+          8901,
+          8771
+        ]
+      },
+      {
+        "location": [
+          12.77184946,
+          49.436505303
+        ],
+        "pixel": [
+          4053,
+          5155
+        ]
+      },
+      {
+        "location": [
+          12.768158741,
+          49.434886645
+        ],
+        "pixel": [
+          4005,
+          4227
+        ]
+      },
+      {
+        "location": [
+          12.776226826,
+          49.460499823
+        ],
+        "pixel": [
+          13973,
+          8483
+        ]
+      },
+      {
+        "location": [
+          12.798886127,
+          49.433658662
+        ],
+        "pixel": [
+          2325,
+          10803
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1896"]
+}

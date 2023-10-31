@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_pardubice_402/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "14699",
+  "title": "Indikační skica mapy stabilního katastru pro obec Rohovládova Bělá I.-III.",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.575796,
+    50.087,
+    15.63546,
+    50.120502
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/14699",
+  "id": "6dc26dd0-5d37-559c-8a30-699f38ee5509",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        8891,
+        8365
+      ],
+      [
+        10463,
+        8365
+      ],
+      [
+        10463,
+        7041
+      ],
+      [
+        8891,
+        7041
+      ],
+      [
+        8891,
+        8365
+      ]
+    ],
+    "created": "2015-02-28T13:22:18.144260+00:00",
+    "transformation_method": "affine",
+    "mapID": "6dc26dd0-5d37-559c-8a30-699f38ee5509",
+    "affine_transformation": null,
+    "changed": "2015-02-28T13:22:18.144260+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.596892049,
+          50.09091594
+        ],
+        "pixel": [
+          9495,
+          8193
+        ]
+      },
+      {
+        "location": [
+          15.585862806,
+          50.10770828
+        ],
+        "pixel": [
+          9067,
+          7543
+        ]
+      },
+      {
+        "location": [
+          15.606161763,
+          50.106211661
+        ],
+        "pixel": [
+          9699,
+          7527
+        ]
+      },
+      {
+        "location": [
+          15.595604589,
+          50.09430241
+        ],
+        "pixel": [
+          9427,
+          8125
+        ]
+      },
+      {
+        "location": [
+          15.623327901,
+          50.112469627
+        ],
+        "pixel": [
+          10139,
+          7403
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

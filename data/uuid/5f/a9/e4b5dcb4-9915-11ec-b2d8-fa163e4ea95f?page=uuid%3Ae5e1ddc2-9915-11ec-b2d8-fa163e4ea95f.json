@@ -1,0 +1,111 @@
+{
+  "date": ["1930"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:e4b5dcb4-9915-11ec-b2d8-fa163e4ea95f?page=uuid%3Ae5e1ddc2-9915-11ec-b2d8-fa163e4ea95f",
+  "description": "Kralovice (Plzeň-sever, Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1292498",
+  "title": "Kralovice",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    23.919521,
+    48.531597,
+    25.511953,
+    50.92467
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:e4b5dcb4-9915-11ec-b2d8-fa163e4ea95f",
+  "id": "749dbe9e-462e-510b-92d5-20a60004f7cc",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:43:32.306800+00:00",
+    "transformation_method": "affine",
+    "mapID": "749dbe9e-462e-510b-92d5-20a60004f7cc",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:43:32.306800+00:00",
+    "gcps": [
+      {
+        "location": [
+          25.121294,
+          50.35817
+        ],
+        "pixel": [
+          457,
+          109
+        ]
+      },
+      {
+        "location": [
+          25.13331,
+          50.44024
+        ],
+        "pixel": [
+          461,
+          59
+        ]
+      },
+      {
+        "location": [
+          24.953882,
+          50.481438
+        ],
+        "pixel": [
+          396,
+          -108
+        ]
+      },
+      {
+        "location": [
+          24.866262,
+          50.263294
+        ],
+        "pixel": [
+          361,
+          -25
+        ]
+      },
+      {
+        "location": [
+          25.273418,
+          50.271667
+        ],
+        "pixel": [
+          512,
+          290
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1930"]
+}

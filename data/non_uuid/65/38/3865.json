@@ -1,0 +1,115 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_0211/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "3865",
+  "title": "Geometrický plán Mokrých luk u Třeboně",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.7628565,
+    48.98769,
+    14.794133,
+    49.01123
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/3865",
+  "id": "b67bf8f1-f7e0-545e-bb70-989ac7d684b6",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        94,
+        25093
+      ],
+      [
+        19102,
+        25093
+      ],
+      [
+        19166,
+        3845
+      ],
+      [
+        1694,
+        -156
+      ],
+      [
+        94,
+        -188
+      ],
+      [
+        94,
+        25093
+      ]
+    ],
+    "created": "2014-12-08T12:21:25.689800+00:00",
+    "transformation_method": "affine",
+    "mapID": "b67bf8f1-f7e0-545e-bb70-989ac7d684b6",
+    "affine_transformation": null,
+    "changed": "2014-12-08T12:21:25.689800+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.782859456,
+          48.995766876
+        ],
+        "pixel": [
+          2758,
+          11023
+        ]
+      },
+      {
+        "location": [
+          14.769557683,
+          49.001707226
+        ],
+        "pixel": [
+          16898,
+          11235
+        ]
+      },
+      {
+        "location": [
+          14.775606763,
+          48.996097725
+        ],
+        "pixel": [
+          8376,
+          7860
+        ]
+      },
+      {
+        "location": [
+          14.771276956,
+          49.002384113
+        ],
+        "pixel": [
+          16184,
+          12865
+        ]
+      },
+      {
+        "location": [
+          14.772897731,
+          49.002239136
+        ],
+        "pixel": [
+          14872,
+          13407
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1800"]
+}

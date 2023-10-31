@@ -1,0 +1,129 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Kout_na_Sumave_M_132-1/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "14125",
+  "title": "Katastrální mapa obce Trhanov",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.816529,
+    49.423172,
+    12.832215,
+    49.42789
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/14125",
+  "id": "7be6848f-5772-56f6-9e4c-3f7d4b6321b3",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        4206,
+        8884
+      ],
+      [
+        4158,
+        7748
+      ],
+      [
+        7414,
+        7556
+      ],
+      [
+        11606,
+        5948
+      ],
+      [
+        13270,
+        4660
+      ],
+      [
+        13278,
+        8852
+      ],
+      [
+        4206,
+        8884
+      ]
+    ],
+    "created": "2015-02-07T14:40:00.198700+00:00",
+    "transformation_method": "affine",
+    "mapID": "7be6848f-5772-56f6-9e4c-3f7d4b6321b3",
+    "affine_transformation": null,
+    "changed": "2015-02-07T14:40:00.198700+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.827744464,
+          49.425639881
+        ],
+        "pixel": [
+          10743,
+          6665
+        ]
+      },
+      {
+        "location": [
+          12.831907252,
+          49.427454232
+        ],
+        "pixel": [
+          13176,
+          5080
+        ]
+      },
+      {
+        "location": [
+          12.819032649,
+          49.424188351
+        ],
+        "pixel": [
+          5607,
+          8009
+        ]
+      },
+      {
+        "location": [
+          12.817144374,
+          49.423769633
+        ],
+        "pixel": [
+          4503,
+          8329
+        ]
+      },
+      {
+        "location": [
+          12.820277194,
+          49.42393712
+        ],
+        "pixel": [
+          6343,
+          8153
+        ]
+      },
+      {
+        "location": [
+          12.822036723,
+          49.423490485
+        ],
+        "pixel": [
+          7335,
+          8665
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1842"]
+}

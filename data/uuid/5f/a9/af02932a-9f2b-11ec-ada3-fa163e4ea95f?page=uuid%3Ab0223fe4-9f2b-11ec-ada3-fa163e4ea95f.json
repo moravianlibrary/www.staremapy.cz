@@ -1,0 +1,121 @@
+{
+  "date": ["1903"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:af02932a-9f2b-11ec-ada3-fa163e4ea95f?page=uuid%3Ab0223fe4-9f2b-11ec-ada3-fa163e4ea95f",
+  "description": "Bělehrad (Srbsko : oblast)",
+  "scale": 200000,
+  "external_id": "1330938",
+  "title": "38°45° Belgrad",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    19.831728,
+    44.49769,
+    20.840485,
+    45.49889
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:af02932a-9f2b-11ec-ada3-fa163e4ea95f",
+  "id": "c0392376-2261-5302-ba08-977f02efeb5e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        532,
+        42
+      ],
+      [
+        534,
+        399
+      ],
+      [
+        67,
+        398
+      ],
+      [
+        72,
+        41
+      ],
+      [
+        532,
+        42
+      ]
+    ],
+    "created": "2015-11-05T17:07:01.711310+00:00",
+    "transformation_method": "affine",
+    "mapID": "c0392376-2261-5302-ba08-977f02efeb5e",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:07:01.711310+00:00",
+    "gcps": [
+      {
+        "location": [
+          20.54719007568359,
+          45.489007491382296
+        ],
+        "pixel": [
+          400,
+          45
+        ]
+      },
+      {
+        "location": [
+          19.95647310065408,
+          44.6451224585567
+        ],
+        "pixel": [
+          124,
+          347
+        ]
+      },
+      {
+        "location": [
+          20.17673302267402,
+          45.081274521410194
+        ],
+        "pixel": [
+          229,
+          191
+        ]
+      },
+      {
+        "location": [
+          20.79403567117673,
+          44.997803063299926
+        ],
+        "pixel": [
+          515,
+          221
+        ]
+      },
+      {
+        "location": [
+          20.648583295120247,
+          44.87065226195199
+        ],
+        "pixel": [
+          448,
+          266
+        ]
+      },
+      {
+        "location": [
+          19.891775136931823,
+          45.416510263714144
+        ],
+        "pixel": [
+          99,
+          71
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1903"]
+}

@@ -1,0 +1,91 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1790/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "9135",
+  "title": "Záblatí o. Jindřichův Hradec 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.665034,
+    49.080788,
+    14.694453,
+    49.08794
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/9135",
+  "id": "882f68b7-a021-5b67-a8c8-4bc4ae4c49e4",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        17012,
+        0
+      ],
+      [
+        17012,
+        6018
+      ],
+      [
+        0,
+        6018
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        17012,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:15:10.350220+00:00",
+    "transformation_method": "affine",
+    "mapID": "882f68b7-a021-5b67-a8c8-4bc4ae4c49e4",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:15:10.350220+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.673280954,
+          49.084873682
+        ],
+        "pixel": [
+          4744,
+          2620
+        ]
+      },
+      {
+        "location": [
+          14.673613548,
+          49.086236852
+        ],
+        "pixel": [
+          4920,
+          1420
+        ]
+      },
+      {
+        "location": [
+          14.687410831,
+          49.083826685
+        ],
+        "pixel": [
+          12968,
+          3412
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1838"]
+}

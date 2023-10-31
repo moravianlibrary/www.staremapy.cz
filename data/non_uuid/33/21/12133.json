@@ -1,0 +1,91 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_3868/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "12133",
+  "title": "Půdorysný plán myslivny u rybníka Dvořiště v pol. Lomnice 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.677872,
+    49.0679,
+    14.679315,
+    49.06887
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/12133",
+  "id": "08c1bf4b-ec45-5fe8-89fc-294a283001f6",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        292,
+        10549
+      ],
+      [
+        15492,
+        10549
+      ],
+      [
+        15492,
+        245
+      ],
+      [
+        292,
+        245
+      ],
+      [
+        292,
+        10549
+      ]
+    ],
+    "created": "2017-03-10T18:29:32.018830+00:00",
+    "transformation_method": "affine",
+    "mapID": "08c1bf4b-ec45-5fe8-89fc-294a283001f6",
+    "affine_transformation": null,
+    "changed": "2017-03-10T18:29:32.018830+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.678341142,
+          49.068126637
+        ],
+        "pixel": [
+          3681,
+          3103
+        ]
+      },
+      {
+        "location": [
+          14.678802482,
+          49.068305001
+        ],
+        "pixel": [
+          5937,
+          6911
+        ]
+      },
+      {
+        "location": [
+          14.678315661,
+          49.068275127
+        ],
+        "pixel": [
+          6465,
+          3103
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1809"]
+}

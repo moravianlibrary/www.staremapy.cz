@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/2316/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "34160",
+  "title": "Völker-, Telegrafen- und Eisenbahn- Karte des Keiserthumes Öesterreich",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    10.048812,
+    45.844532,
+    22.293928,
+    51.18836
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/34160",
+  "id": "a78a43b8-eed0-514f-aa72-af9f11275981",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        2402,
+        6225
+      ],
+      [
+        9762,
+        6225
+      ],
+      [
+        9762,
+        1265
+      ],
+      [
+        2402,
+        1265
+      ],
+      [
+        2402,
+        6225
+      ]
+    ],
+    "created": "2015-01-17T12:32:15.407310+00:00",
+    "transformation_method": "affine",
+    "mapID": "a78a43b8-eed0-514f-aa72-af9f11275981",
+    "affine_transformation": null,
+    "changed": "2015-01-17T12:32:15.407310+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.283393112,
+          48.3062046
+        ],
+        "pixel": [
+          4894,
+          4025
+        ]
+      },
+      {
+        "location": [
+          13.838446823,
+          48.768125967
+        ],
+        "pixel": [
+          4646,
+          3557
+        ]
+      },
+      {
+        "location": [
+          14.475653854,
+          48.977681128
+        ],
+        "pixel": [
+          5046,
+          3365
+        ]
+      },
+      {
+        "location": [
+          14.417975632,
+          50.085949378
+        ],
+        "pixel": [
+          5064,
+          2335
+        ]
+      },
+      {
+        "location": [
+          13.385260788,
+          49.761917266
+        ],
+        "pixel": [
+          4404,
+          2645
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

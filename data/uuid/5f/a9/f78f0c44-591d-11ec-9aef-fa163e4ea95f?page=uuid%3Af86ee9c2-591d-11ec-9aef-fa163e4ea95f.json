@@ -1,0 +1,121 @@
+{
+  "date": ["1838"],
+  "creator": "Oppel, Wenzl",
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:f78f0c44-591d-11ec-9aef-fa163e4ea95f?page=uuid%3Af86ee9c2-591d-11ec-9aef-fa163e4ea95f",
+  "description": "Česko",
+  "scale": 3000,
+  "external_id": "1052534",
+  "title": "Forstkarte des Ruscher Reviers",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.868989,
+    50.237404,
+    15.911338,
+    50.252758
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:f78f0c44-591d-11ec-9aef-fa163e4ea95f",
+  "id": "c3ec4a04-da31-5b69-87bc-691986f548a5",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2013-03-05T14:46:04.231340+00:00",
+    "transformation_method": "affine",
+    "mapID": "c3ec4a04-da31-5b69-87bc-691986f548a5",
+    "affine_transformation": null,
+    "changed": "2013-03-05T14:46:04.231340+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.882765527,
+          50.248966452
+        ],
+        "pixel": [
+          207,
+          129
+        ]
+      },
+      {
+        "location": [
+          15.873839135,
+          50.245398814
+        ],
+        "pixel": [
+          20,
+          181
+        ]
+      },
+      {
+        "location": [
+          15.896300199,
+          50.240534355
+        ],
+        "pixel": [
+          376,
+          371
+        ]
+      },
+      {
+        "location": [
+          15.898960951,
+          50.247999407
+        ],
+        "pixel": [
+          413,
+          119
+        ]
+      },
+      {
+        "location": [
+          15.902308348,
+          50.245090371
+        ],
+        "pixel": [
+          525,
+          222
+        ]
+      },
+      {
+        "location": [
+          15.882309797,
+          50.252115664
+        ],
+        "pixel": [
+          260,
+          15
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1838"]
+}

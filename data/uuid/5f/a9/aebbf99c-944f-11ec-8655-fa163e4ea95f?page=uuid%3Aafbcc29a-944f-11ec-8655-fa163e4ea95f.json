@@ -1,0 +1,111 @@
+{
+  "date": ["1915"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:aebbf99c-944f-11ec-8655-fa163e4ea95f?page=uuid%3Aafbcc29a-944f-11ec-8655-fa163e4ea95f",
+  "description": null,
+  "scale": 200000,
+  "external_id": "1254467",
+  "title": "Wołkowisk",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    23.657223,
+    52.410755,
+    25.006622,
+    53.55937
+  ],
+  "reviewed": null,
+  "publisher": "K.u.k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:aebbf99c-944f-11ec-8655-fa163e4ea95f",
+  "id": "df9aefd3-bc89-5e5c-bdea-c354fd6703ee",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:12:58.813040+00:00",
+    "transformation_method": "affine",
+    "mapID": "df9aefd3-bc89-5e5c-bdea-c354fd6703ee",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:12:58.813040+00:00",
+    "gcps": [
+      {
+        "location": [
+          24.804424645,
+          52.804376065
+        ],
+        "pixel": [
+          515,
+          292
+        ]
+      },
+      {
+        "location": [
+          23.878602616,
+          53.460160759
+        ],
+        "pixel": [
+          97,
+          39
+        ]
+      },
+      {
+        "location": [
+          24.105640551,
+          52.616524368
+        ],
+        "pixel": [
+          198,
+          365
+        ]
+      },
+      {
+        "location": [
+          24.632168909,
+          53.36039087
+        ],
+        "pixel": [
+          430,
+          77
+        ]
+      },
+      {
+        "location": [
+          24.475506445,
+          52.553671535
+        ],
+        "pixel": [
+          367,
+          389
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1915"]
+}

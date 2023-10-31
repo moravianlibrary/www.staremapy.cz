@@ -1,0 +1,91 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_3724/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "11989",
+  "title": "Půdorysné plány lesního úřadu, hájoven a mysliven na velkostatku Třeboň 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    8.4484,
+    46.122265,
+    17.76864,
+    55.52365
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/11989",
+  "id": "fee9f3f8-3781-56a8-a58f-3174a0fc60ea",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        6095,
+        0
+      ],
+      [
+        6095,
+        9855
+      ],
+      [
+        0,
+        9855
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        6095,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:25:32.899870+00:00",
+    "transformation_method": "affine",
+    "mapID": "fee9f3f8-3781-56a8-a58f-3174a0fc60ea",
+    "affine_transformation": null,
+    "changed": "2023-02-03T08:13:21.679684+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.85666887840651,
+          49.060007572465594
+        ],
+        "pixel": [
+          1407,
+          3518
+        ]
+      },
+      {
+        "location": [
+          13.845511666724432,
+          50.44355383361287
+        ],
+        "pixel": [
+          2894,
+          3859
+        ]
+      },
+      {
+        "location": [
+          13.312674752661932,
+          50.18397446626241
+        ],
+        "pixel": [
+          1238,
+          6188
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1900"]
+}

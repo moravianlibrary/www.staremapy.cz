@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/huav/III_vojenske_mapovani/25/3953_2_02/ImageProperties.xml",
+  "description": null,
+  "scale": 25000,
+  "external_id": "6059",
+  "title": "III. vojenské mapování 3953/2",
+  "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.582295,
+    50.12416,
+    14.834208,
+    50.249485
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/6059",
+  "id": "e4f4218e-4251-5b26-89c2-8fcb4245fe32",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        688,
+        9201
+      ],
+      [
+        12162,
+        9149
+      ],
+      [
+        12096,
+        377
+      ],
+      [
+        724,
+        374
+      ],
+      [
+        688,
+        9201
+      ]
+    ],
+    "created": "2014-12-08T09:10:21.430670+00:00",
+    "transformation_method": "affine",
+    "mapID": "e4f4218e-4251-5b26-89c2-8fcb4245fe32",
+    "affine_transformation": null,
+    "changed": "2014-12-08T09:10:21.430670+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.666386519,
+          50.188747194
+        ],
+        "pixel": [
+          4472,
+          4662
+        ]
+      },
+      {
+        "location": [
+          14.612570677,
+          50.1599976
+        ],
+        "pixel": [
+          2050,
+          6664
+        ]
+      },
+      {
+        "location": [
+          14.59420291,
+          50.242626649
+        ],
+        "pixel": [
+          1156,
+          865
+        ]
+      },
+      {
+        "location": [
+          14.74509326,
+          50.219456604
+        ],
+        "pixel": [
+          8053,
+          2429
+        ]
+      },
+      {
+        "location": [
+          14.824314985,
+          50.159021569
+        ],
+        "pixel": [
+          11704,
+          6704
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

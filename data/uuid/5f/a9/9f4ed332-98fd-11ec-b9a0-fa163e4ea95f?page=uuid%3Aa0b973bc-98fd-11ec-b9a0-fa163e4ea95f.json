@@ -1,0 +1,111 @@
+{
+  "date": ["1919"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:9f4ed332-98fd-11ec-b9a0-fa163e4ea95f?page=uuid%3Aa0b973bc-98fd-11ec-b9a0-fa163e4ea95f",
+  "description": "Kladno (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1291808",
+  "title": "Kladno a Slaný",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.835222,
+    49.996433,
+    14.334228,
+    50.24913
+  ],
+  "reviewed": null,
+  "publisher": "Ministerstvo národní obrany, Kartografické oddělení",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:9f4ed332-98fd-11ec-b9a0-fa163e4ea95f",
+  "id": "e39d205c-26d5-5e0a-9d61-2331672e7946",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        63,
+        392
+      ],
+      [
+        545,
+        388
+      ],
+      [
+        544,
+        38
+      ],
+      [
+        61,
+        42
+      ],
+      [
+        63,
+        392
+      ]
+    ],
+    "created": "2016-12-11T14:57:45.929040+00:00",
+    "transformation_method": "affine",
+    "mapID": "e39d205c-26d5-5e0a-9d61-2331672e7946",
+    "affine_transformation": null,
+    "changed": "2016-12-11T14:57:45.929040+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.134974532,
+          50.215012643
+        ],
+        "pixel": [
+          351,
+          87
+        ]
+      },
+      {
+        "location": [
+          13.899369292,
+          50.154833199
+        ],
+        "pixel": [
+          124,
+          172
+        ]
+      },
+      {
+        "location": [
+          13.984770827,
+          50.222371862
+        ],
+        "pixel": [
+          207,
+          78
+        ]
+      },
+      {
+        "location": [
+          14.040818266,
+          50.232859531
+        ],
+        "pixel": [
+          261,
+          63
+        ]
+      },
+      {
+        "location": [
+          13.89533525,
+          50.206114162
+        ],
+        "pixel": [
+          118,
+          101
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1919"]
+}

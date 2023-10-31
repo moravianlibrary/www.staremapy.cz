@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_2314/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "9659",
+  "title": "Porostní mapa polesí Štěpánovice 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.610456,
+    48.963467,
+    14.780467,
+    49.03187
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/9659",
+  "id": "f033e1f0-844b-5fc3-8359-22572f06677f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        16143,
+        0
+      ],
+      [
+        16143,
+        11634
+      ],
+      [
+        0,
+        11634
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        16143,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:17:54.943090+00:00",
+    "transformation_method": "affine",
+    "mapID": "f033e1f0-844b-5fc3-8359-22572f06677f",
+    "affine_transformation": null,
+    "changed": "2021-11-18T13:47:29.979385+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.687674340124588,
+          48.997741569941525
+        ],
+        "pixel": [
+          7307,
+          5378
+        ]
+      },
+      {
+        "location": [
+          14.704940351520564,
+          48.99539234553387
+        ],
+        "pixel": [
+          8664,
+          6850
+        ]
+      },
+      {
+        "location": [
+          14.710635838518396,
+          48.99471051952935
+        ],
+        "pixel": [
+          9391,
+          7261
+        ]
+      },
+      {
+        "location": [
+          14.695055779333572,
+          49.00120467145916
+        ],
+        "pixel": [
+          8592,
+          4913
+        ]
+      },
+      {
+        "location": [
+          14.695252980698697,
+          49.00784712196966
+        ],
+        "pixel": [
+          9045,
+          3497
+        ]
+      },
+      {
+        "location": [
+          14.69933027854916,
+          48.989454382739524
+        ],
+        "pixel": [
+          7534,
+          7970
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1853"]
+}

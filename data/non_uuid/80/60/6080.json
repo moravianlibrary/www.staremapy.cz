@@ -1,0 +1,115 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/huav/III_vojenske_mapovani/25/3956_1_01/ImageProperties.xml",
+  "description": null,
+  "scale": 25000,
+  "external_id": "6080",
+  "title": "III. vojenské mapování 3956/1",
+  "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.833254,
+    50.125652,
+    16.081596,
+    50.24861
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/6080",
+  "id": "60dbea90-44c3-5ee4-91ab-62675660cc4a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        126,
+        193
+      ],
+      [
+        11166,
+        193
+      ],
+      [
+        11198,
+        8833
+      ],
+      [
+        62,
+        8833
+      ],
+      [
+        126,
+        8705
+      ],
+      [
+        126,
+        193
+      ]
+    ],
+    "created": "2014-12-07T12:52:33.981610+00:00",
+    "transformation_method": "affine",
+    "mapID": "60dbea90-44c3-5ee4-91ab-62675660cc4a",
+    "affine_transformation": null,
+    "changed": "2014-12-07T12:52:33.981610+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.942851389,
+          50.19804266
+        ],
+        "pixel": [
+          5004,
+          3795
+        ]
+      },
+      {
+        "location": [
+          15.861741388,
+          50.238679966
+        ],
+        "pixel": [
+          1210,
+          804
+        ]
+      },
+      {
+        "location": [
+          16.067069852,
+          50.135448716
+        ],
+        "pixel": [
+          10559,
+          8142
+        ]
+      },
+      {
+        "location": [
+          16.067005479,
+          50.242501983
+        ],
+        "pixel": [
+          10530,
+          644
+        ]
+      },
+      {
+        "location": [
+          15.856119478,
+          50.127044389
+        ],
+        "pixel": [
+          1108,
+          8759
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1945"]
+}

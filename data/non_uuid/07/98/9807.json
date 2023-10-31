@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_2462/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "9807",
+  "title": "Mapa parcelace pozemků dvora Dvorce 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.694885,
+    48.99602,
+    14.743403,
+    49.01762
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/9807",
+  "id": "ca054e07-3ba6-5d0e-a5c0-2bfed494b0f3",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        14087,
+        0
+      ],
+      [
+        14087,
+        9235
+      ],
+      [
+        0,
+        9235
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        14087,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:18:44.525130+00:00",
+    "transformation_method": "affine",
+    "mapID": "ca054e07-3ba6-5d0e-a5c0-2bfed494b0f3",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:18:44.525130+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.72720319,
+          49.005249878
+        ],
+        "pixel": [
+          9497,
+          5246
+        ]
+      },
+      {
+        "location": [
+          14.702658295,
+          49.008545316
+        ],
+        "pixel": [
+          2068,
+          4055
+        ]
+      },
+      {
+        "location": [
+          14.721809268,
+          49.008781074
+        ],
+        "pixel": [
+          7803,
+          3684
+        ]
+      },
+      {
+        "location": [
+          14.728278756,
+          49.001665644
+        ],
+        "pixel": [
+          9874,
+          6821
+        ]
+      },
+      {
+        "location": [
+          14.705544353,
+          48.999997488
+        ],
+        "pixel": [
+          3139,
+          7952
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1890"]
+}

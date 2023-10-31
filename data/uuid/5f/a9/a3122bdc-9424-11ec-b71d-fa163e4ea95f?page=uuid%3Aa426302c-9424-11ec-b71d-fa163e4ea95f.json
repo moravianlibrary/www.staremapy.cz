@@ -1,0 +1,111 @@
+{
+  "date": ["1925"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:a3122bdc-9424-11ec-b71d-fa163e4ea95f?page=uuid%3Aa426302c-9424-11ec-b71d-fa163e4ea95f",
+  "description": "Kodaň (Dánsko)",
+  "scale": 20000,
+  "external_id": "1253153",
+  "title": "Kobenhavn og Frederiksberg 1914",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.441069,
+    55.606796,
+    12.657384,
+    55.74233
+  ],
+  "reviewed": null,
+  "publisher": "Chr. Cato",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:a3122bdc-9424-11ec-b71d-fa163e4ea95f",
+  "id": "b2d3b38e-6460-5eb7-ba37-8ae868689194",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:10:41.467590+00:00",
+    "transformation_method": "affine",
+    "mapID": "b2d3b38e-6460-5eb7-ba37-8ae868689194",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:10:41.467590+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.598227024,
+          55.666771075
+        ],
+        "pixel": [
+          441,
+          245
+        ]
+      },
+      {
+        "location": [
+          12.574838161,
+          55.735354769
+        ],
+        "pixel": [
+          364,
+          16
+        ]
+      },
+      {
+        "location": [
+          12.451581421,
+          55.618583441
+        ],
+        "pixel": [
+          28,
+          415
+        ]
+      },
+      {
+        "location": [
+          12.625804421,
+          55.622986821
+        ],
+        "pixel": [
+          526,
+          390
+        ]
+      },
+      {
+        "location": [
+          12.468139887,
+          55.713010577
+        ],
+        "pixel": [
+          65,
+          98
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1925"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/5758_18/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "47289",
+  "title": "Státní mapa 1:5000",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.85044,
+    50.437687,
+    12.889064,
+    50.463825
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/47289",
+  "id": "6634c4b4-17ff-5f35-9a5d-4cc46c153d83",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        13312,
+        1491
+      ],
+      [
+        13385,
+        10891
+      ],
+      [
+        1559,
+        10934
+      ],
+      [
+        1617,
+        1564
+      ],
+      [
+        13312,
+        1491
+      ]
+    ],
+    "created": "2014-11-25T16:29:56.301700+00:00",
+    "transformation_method": "affine",
+    "mapID": "6634c4b4-17ff-5f35-9a5d-4cc46c153d83",
+    "affine_transformation": null,
+    "changed": "2021-09-27T07:03:55.259811+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.855317530023555,
+          50.44503011630556
+        ],
+        "pixel": [
+          1980,
+          7603
+        ]
+      },
+      {
+        "location": [
+          12.865852532908526,
+          50.44089490233816
+        ],
+        "pixel": [
+          5186,
+          10290
+        ]
+      },
+      {
+        "location": [
+          12.859745857107141,
+          50.44388910538251
+        ],
+        "pixel": [
+          3384,
+          8467
+        ]
+      },
+      {
+        "location": [
+          12.86479109226416,
+          50.441750489851586
+        ],
+        "pixel": [
+          4888,
+          9835
+        ]
+      },
+      {
+        "location": [
+          12.854093728587241,
+          50.44581434572456
+        ],
+        "pixel": [
+          1681,
+          7140
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

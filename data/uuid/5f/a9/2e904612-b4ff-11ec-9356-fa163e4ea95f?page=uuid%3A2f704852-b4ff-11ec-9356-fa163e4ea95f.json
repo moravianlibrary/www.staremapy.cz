@@ -1,0 +1,121 @@
+{
+  "date": ["1945"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:2e904612-b4ff-11ec-9356-fa163e4ea95f?page=uuid%3A2f704852-b4ff-11ec-9356-fa163e4ea95f",
+  "description": "Velký Bočkov (Ukrajina)",
+  "scale": 750000,
+  "external_id": "1390260",
+  "title": "Veliký Bočkov",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    22.771152,
+    45.698753,
+    26.9412,
+    48.127
+  ],
+  "reviewed": null,
+  "publisher": "Zeměměřičský úřad",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:2e904612-b4ff-11ec-9356-fa163e4ea95f",
+  "id": "0c7a9634-d2b0-5a26-9c2a-6ac3a6ea656d",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        62,
+        390
+      ],
+      [
+        533,
+        390
+      ],
+      [
+        533,
+        38
+      ],
+      [
+        62,
+        38
+      ],
+      [
+        62,
+        390
+      ]
+    ],
+    "created": "2017-05-21T09:59:05.186370+00:00",
+    "transformation_method": "affine",
+    "mapID": "0c7a9634-d2b0-5a26-9c2a-6ac3a6ea656d",
+    "affine_transformation": null,
+    "changed": "2017-05-21T09:59:05.186370+00:00",
+    "gcps": [
+      {
+        "location": [
+          24.771302734,
+          46.227119552
+        ],
+        "pixel": [
+          302,
+          325
+        ]
+      },
+      {
+        "location": [
+          23.584779297,
+          47.659610648
+        ],
+        "pixel": [
+          130,
+          108
+        ]
+      },
+      {
+        "location": [
+          23.891112003689404,
+          47.92927194498736
+        ],
+        "pixel": [
+          163,
+          64
+        ]
+      },
+      {
+        "location": [
+          26.666444336,
+          47.744637425
+        ],
+        "pixel": [
+          500,
+          61
+        ]
+      },
+      {
+        "location": [
+          23.562806641,
+          46.097761395
+        ],
+        "pixel": [
+          153,
+          358
+        ]
+      },
+      {
+        "location": [
+          26.369813476781253,
+          46.93127945094588
+        ],
+        "pixel": [
+          483,
+          201
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1945"]
+}

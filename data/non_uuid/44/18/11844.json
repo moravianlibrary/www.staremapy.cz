@@ -1,0 +1,101 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_3579/ImageProperties.xml",
+  "description": null,
+  "scale": 100,
+  "external_id": "11844",
+  "title": "Plán splavu a zpevnění břehu u mláckého mlýna na Nové řece 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.856249,
+    49.058544,
+    14.857904,
+    49.060352
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/11844",
+  "id": "1d26d84f-099f-5dbf-81d6-e4e56abe3270",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        2799,
+        12890
+      ],
+      [
+        8511,
+        12890
+      ],
+      [
+        8511,
+        9954
+      ],
+      [
+        2799,
+        9954
+      ],
+      [
+        2799,
+        12890
+      ]
+    ],
+    "created": "2014-12-17T08:34:17.441740+00:00",
+    "transformation_method": "affine",
+    "mapID": "1d26d84f-099f-5dbf-81d6-e4e56abe3270",
+    "affine_transformation": null,
+    "changed": "2014-12-17T08:34:17.441740+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.857258918,
+          49.059750787
+        ],
+        "pixel": [
+          6095,
+          10890
+        ]
+      },
+      {
+        "location": [
+          14.856797578,
+          49.05961018
+        ],
+        "pixel": [
+          4615,
+          11026
+        ]
+      },
+      {
+        "location": [
+          14.856979969,
+          49.059111025
+        ],
+        "pixel": [
+          5289,
+          12033
+        ]
+      },
+      {
+        "location": [
+          14.85710335,
+          49.059525816
+        ],
+        "pixel": [
+          5961,
+          11297
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1880"]
+}

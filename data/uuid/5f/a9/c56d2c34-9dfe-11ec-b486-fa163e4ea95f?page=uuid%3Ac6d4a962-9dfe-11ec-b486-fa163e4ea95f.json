@@ -1,0 +1,121 @@
+{
+  "date": ["1897"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:c56d2c34-9dfe-11ec-b486-fa163e4ea95f?page=uuid%3Ac6d4a962-9dfe-11ec-b486-fa163e4ea95f",
+  "description": null,
+  "scale": 300000,
+  "external_id": "1301877",
+  "title": "Oppeln",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    17.835548,
+    49.994,
+    19.319208,
+    50.749096
+  ],
+  "reviewed": null,
+  "publisher": "Mittelbach's Verlag",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:c56d2c34-9dfe-11ec-b486-fa163e4ea95f",
+  "id": "fd7a2418-5ec6-5449-ba10-2ec8a1197433",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        32,
+        32
+      ],
+      [
+        571,
+        32
+      ],
+      [
+        572,
+        405
+      ],
+      [
+        32,
+        409
+      ],
+      [
+        32,
+        32
+      ]
+    ],
+    "created": "2017-09-06T04:35:29.594820+00:00",
+    "transformation_method": "affine",
+    "mapID": "fd7a2418-5ec6-5449-ba10-2ec8a1197433",
+    "affine_transformation": null,
+    "changed": "2017-09-06T04:35:29.594820+00:00",
+    "gcps": [
+      {
+        "location": [
+          19.199850333,
+          50.041621309
+        ],
+        "pixel": [
+          530,
+          385
+        ]
+      },
+      {
+        "location": [
+          19.270918143,
+          50.604347367
+        ],
+        "pixel": [
+          554,
+          107
+        ]
+      },
+      {
+        "location": [
+          17.915651572,
+          50.661837096
+        ],
+        "pixel": [
+          62,
+          72
+        ]
+      },
+      {
+        "location": [
+          18.617489111,
+          50.397573332
+        ],
+        "pixel": [
+          318,
+          208
+        ]
+      },
+      {
+        "location": [
+          18.229791891,
+          50.0931613
+        ],
+        "pixel": [
+          174,
+          363
+        ]
+      },
+      {
+        "location": [
+          19.285852682,
+          50.602713109
+        ],
+        "pixel": [
+          561,
+          107
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1897"]
+}

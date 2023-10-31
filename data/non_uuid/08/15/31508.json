@@ -1,0 +1,91 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/Vs_Litomysl_022_IX/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "31508",
+  "title": "Indikační skica mapy stabilního katastru pro obec Koclířov a osadu Hřebeč IX",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    2.1919632,
+    47.66343,
+    25.26374,
+    52.69363
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/31508",
+  "id": "7f9a5cc1-79b2-5ec5-8420-0258edbfa43c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        12105,
+        0
+      ],
+      [
+        12105,
+        4560
+      ],
+      [
+        0,
+        4560
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        12105,
+        0
+      ]
+    ],
+    "created": "2014-11-25T19:15:19.184610+00:00",
+    "transformation_method": "affine",
+    "mapID": "7f9a5cc1-79b2-5ec5-8420-0258edbfa43c",
+    "affine_transformation": null,
+    "changed": "2022-08-21T17:28:37.673248+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.341379466461053,
+          49.45062229386318
+        ],
+        "pixel": [
+          9436,
+          1690
+        ]
+      },
+      {
+        "location": [
+          14.40047730078971,
+          50.09797992717705
+        ],
+        "pixel": [
+          6298,
+          2138
+        ]
+      },
+      {
+        "location": [
+          14.400264333379598,
+          50.09805872941135
+        ],
+        "pixel": [
+          7887,
+          2271
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

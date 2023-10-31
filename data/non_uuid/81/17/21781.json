@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Tachov_M_17_7/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "21781",
+  "title": "Katastrální mapa obce Milíře",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.489434,
+    49.760067,
+    12.507716,
+    49.774334
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/21781",
+  "id": "b011381d-e85e-55d4-95c9-f4c04bed1378",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        10635,
+        695
+      ],
+      [
+        10713,
+        12952
+      ],
+      [
+        247,
+        12978
+      ],
+      [
+        377,
+        617
+      ],
+      [
+        10635,
+        695
+      ]
+    ],
+    "created": "2014-11-25T17:00:59.954620+00:00",
+    "transformation_method": "affine",
+    "mapID": "b011381d-e85e-55d4-95c9-f4c04bed1378",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:00:59.954620+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.491779327,
+          49.762596462
+        ],
+        "pixel": [
+          1492,
+          10768
+        ]
+      },
+      {
+        "location": [
+          12.49396801,
+          49.760905425
+        ],
+        "pixel": [
+          2700,
+          12328
+        ]
+      },
+      {
+        "location": [
+          12.490534782,
+          49.770052954
+        ],
+        "pixel": [
+          908,
+          3936
+        ]
+      },
+      {
+        "location": [
+          12.490363121,
+          49.765340806
+        ],
+        "pixel": [
+          748,
+          8312
+        ]
+      },
+      {
+        "location": [
+          12.497358322,
+          49.773489761
+        ],
+        "pixel": [
+          4988,
+          1144
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1842"]
+}

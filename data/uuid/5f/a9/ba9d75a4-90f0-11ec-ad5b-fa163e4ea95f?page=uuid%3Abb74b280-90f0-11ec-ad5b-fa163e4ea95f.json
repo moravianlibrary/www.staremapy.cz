@@ -1,0 +1,111 @@
+{
+  "date": ["1873"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:ba9d75a4-90f0-11ec-ad5b-fa163e4ea95f?page=uuid%3Abb74b280-90f0-11ec-ad5b-fa163e4ea95f",
+  "description": "Benátky-oblast (Itálie)",
+  "scale": 300000,
+  "external_id": "1240531",
+  "title": "[Venedig (Belluno)",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    11.466721,
+    45.26511,
+    13.588078,
+    46.582447
+  ],
+  "reviewed": null,
+  "publisher": "Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:ba9d75a4-90f0-11ec-ad5b-fa163e4ea95f",
+  "id": "97a05cec-f98c-5765-80cd-ec981c5d2e2b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:04:47.894330+00:00",
+    "transformation_method": "affine",
+    "mapID": "97a05cec-f98c-5765-80cd-ec981c5d2e2b",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:04:47.894330+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.255246012246928,
+          45.66362106832341
+        ],
+        "pixel": [
+          213,
+          312
+        ]
+      },
+      {
+        "location": [
+          13.15164071002685,
+          45.693050632768774
+        ],
+        "pixel": [
+          478,
+          312
+        ]
+      },
+      {
+        "location": [
+          12.365204665007708,
+          46.42429455054247
+        ],
+        "pixel": [
+          264,
+          42
+        ]
+      },
+      {
+        "location": [
+          13.232524103980774,
+          46.06928832732507
+        ],
+        "pixel": [
+          515,
+          181
+        ]
+      },
+      {
+        "location": [
+          12.325987710600272,
+          45.44229056306449
+        ],
+        "pixel": [
+          227,
+          391
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1873"]
+}

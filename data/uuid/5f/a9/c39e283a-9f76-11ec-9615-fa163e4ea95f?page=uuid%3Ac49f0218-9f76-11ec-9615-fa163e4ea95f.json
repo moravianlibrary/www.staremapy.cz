@@ -1,0 +1,101 @@
+{
+  "date": ["1937"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:c39e283a-9f76-11ec-9615-fa163e4ea95f?page=uuid%3Ac49f0218-9f76-11ec-9615-fa163e4ea95f",
+  "description": "Bělorusko",
+  "scale": 100000,
+  "external_id": "1333011",
+  "title": "Belorusskaja SSR",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    29.417387,
+    53.563877,
+    30.087553,
+    54.063713
+  ],
+  "reviewed": null,
+  "publisher": "Upravlenije vojennych topografov RKKA",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:c39e283a-9f76-11ec-9615-fa163e4ea95f",
+  "id": "90a50c61-de9f-5a67-affc-7aaa12e7235c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:11:15.295610+00:00",
+    "transformation_method": "affine",
+    "mapID": "90a50c61-de9f-5a67-affc-7aaa12e7235c",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:11:15.295610+00:00",
+    "gcps": [
+      {
+        "location": [
+          29.716719151,
+          53.986571358
+        ],
+        "pixel": [
+          267,
+          68
+        ]
+      },
+      {
+        "location": [
+          29.730902672,
+          53.859202057
+        ],
+        "pixel": [
+          280,
+          182
+        ]
+      },
+      {
+        "location": [
+          29.964447975,
+          53.934407052
+        ],
+        "pixel": [
+          490,
+          115
+        ]
+      },
+      {
+        "location": [
+          29.885717701,
+          53.707804716
+        ],
+        "pixel": [
+          421,
+          316
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1937"]
+}

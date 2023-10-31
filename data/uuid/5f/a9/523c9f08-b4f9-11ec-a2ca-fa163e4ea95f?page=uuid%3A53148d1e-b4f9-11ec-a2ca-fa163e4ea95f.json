@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:523c9f08-b4f9-11ec-a2ca-fa163e4ea95f?page=uuid%3A53148d1e-b4f9-11ec-a2ca-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1390113",
+  "title": "Szepetówka",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    26.741247,
+    49.935513,
+    27.483997,
+    50.293526
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:523c9f08-b4f9-11ec-a2ca-fa163e4ea95f",
+  "id": "d5c30472-1033-5355-a1a0-34e9d66ca6e1",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2016-01-08T13:42:26.909550+00:00",
+    "transformation_method": "affine",
+    "mapID": "d5c30472-1033-5355-a1a0-34e9d66ca6e1",
+    "affine_transformation": null,
+    "changed": "2016-01-08T13:42:26.909550+00:00",
+    "gcps": [
+      {
+        "location": [
+          27.258619155,
+          50.034222961
+        ],
+        "pixel": [
+          419,
+          321
+        ]
+      },
+      {
+        "location": [
+          26.881287332,
+          50.175017176
+        ],
+        "pixel": [
+          114,
+          147
+        ]
+      },
+      {
+        "location": [
+          26.895706888,
+          50.050238077
+        ],
+        "pixel": [
+          124,
+          301
+        ]
+      },
+      {
+        "location": [
+          27.259371515,
+          50.119025142
+        ],
+        "pixel": [
+          418,
+          216
+        ]
+      },
+      {
+        "location": [
+          27.055437799,
+          50.166963421
+        ],
+        "pixel": [
+          254,
+          157
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

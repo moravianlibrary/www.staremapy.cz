@@ -1,0 +1,111 @@
+{
+  "date": ["1908"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:e6f56708-9f2b-11ec-9d09-fa163e4ea95f?page=uuid%3Ae7d172d4-9f2b-11ec-9d09-fa163e4ea95f",
+  "description": "Bělehrad (Srbsko : oblast)",
+  "scale": 200000,
+  "external_id": "1330944",
+  "title": "38°45° Belgrad",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    19.82965,
+    44.501595,
+    20.837984,
+    45.49524
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:e6f56708-9f2b-11ec-9d09-fa163e4ea95f",
+  "id": "1df68b1a-3aa1-5a70-86c7-531ec57655ba",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        47,
+        411
+      ],
+      [
+        556,
+        411
+      ],
+      [
+        549,
+        23
+      ],
+      [
+        48,
+        23
+      ],
+      [
+        47,
+        411
+      ]
+    ],
+    "created": "2017-08-19T09:51:23.378730+00:00",
+    "transformation_method": "affine",
+    "mapID": "1df68b1a-3aa1-5a70-86c7-531ec57655ba",
+    "affine_transformation": null,
+    "changed": "2017-08-19T09:51:23.378730+00:00",
+    "gcps": [
+      {
+        "location": [
+          19.915476208,
+          45.46722128
+        ],
+        "pixel": [
+          89,
+          35
+        ]
+      },
+      {
+        "location": [
+          19.836855298,
+          45.321603669
+        ],
+        "pixel": [
+          49,
+          91
+        ]
+      },
+      {
+        "location": [
+          20.773439771,
+          45.365280108
+        ],
+        "pixel": [
+          521,
+          73
+        ]
+      },
+      {
+        "location": [
+          20.435266858,
+          44.831695794
+        ],
+        "pixel": [
+          352,
+          280
+        ]
+      },
+      {
+        "location": [
+          20.293646222,
+          44.513754532
+        ],
+        "pixel": [
+          281,
+          409
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1908"]
+}

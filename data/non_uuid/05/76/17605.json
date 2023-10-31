@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/protivin_0012/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "17605",
+  "title": "Mapa pozemků dvora Drahonice 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.057332,
+    49.187786,
+    14.114136,
+    49.212154
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/17605",
+  "id": "434af04a-8938-5941-af0b-e25a84768407",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        16846,
+        0
+      ],
+      [
+        16846,
+        10326
+      ],
+      [
+        0,
+        10326
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        16846,
+        0
+      ]
+    ],
+    "created": "2014-11-25T18:14:36.838010+00:00",
+    "transformation_method": "affine",
+    "mapID": "434af04a-8938-5941-af0b-e25a84768407",
+    "affine_transformation": null,
+    "changed": "2014-11-25T18:14:36.838010+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.093177795,
+          49.204607258
+        ],
+        "pixel": [
+          10977,
+          3169
+        ]
+      },
+      {
+        "location": [
+          14.079395899,
+          49.198831985
+        ],
+        "pixel": [
+          6422,
+          5514
+        ]
+      },
+      {
+        "location": [
+          14.099700928,
+          49.202139751
+        ],
+        "pixel": [
+          12910,
+          4502
+        ]
+      },
+      {
+        "location": [
+          14.069188068,
+          49.198529412
+        ],
+        "pixel": [
+          3160,
+          5316
+        ]
+      },
+      {
+        "location": [
+          14.096782685,
+          49.197768736
+        ],
+        "pixel": [
+          11742,
+          6636
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1774"]
+}

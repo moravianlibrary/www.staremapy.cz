@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Kout_na_Sumave_M_97-2/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "14468",
+  "title": "Katastrální mapa obce Jindřichova Hora s obcí Černá Řeka WC-XIV-25 ah",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.752899,
+    49.407497,
+    12.768603,
+    49.415203
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/14468",
+  "id": "f6cddf3e-1edb-5929-9dd9-3a74ea21ca72",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        745,
+        14399
+      ],
+      [
+        9721,
+        14399
+      ],
+      [
+        9721,
+        7935
+      ],
+      [
+        745,
+        7935
+      ],
+      [
+        745,
+        14399
+      ]
+    ],
+    "created": "2016-11-21T13:40:13.127240+00:00",
+    "transformation_method": "affine",
+    "mapID": "f6cddf3e-1edb-5929-9dd9-3a74ea21ca72",
+    "affine_transformation": null,
+    "changed": "2016-11-21T13:40:13.127240+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.754032612,
+          49.414289814
+        ],
+        "pixel": [
+          1334,
+          8520
+        ]
+      },
+      {
+        "location": [
+          12.764337659,
+          49.413987055
+        ],
+        "pixel": [
+          7460,
+          8946
+        ]
+      },
+      {
+        "location": [
+          12.754429579,
+          49.413900676
+        ],
+        "pixel": [
+          1614,
+          8922
+        ]
+      },
+      {
+        "location": [
+          12.755915523,
+          49.411866815
+        ],
+        "pixel": [
+          2454,
+          10794
+        ]
+      },
+      {
+        "location": [
+          12.757540941,
+          49.409534446
+        ],
+        "pixel": [
+          3164,
+          12495
+        ]
+      },
+      {
+        "location": [
+          12.756258845,
+          49.410727258
+        ],
+        "pixel": [
+          2634,
+          11820
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1904"]
+}

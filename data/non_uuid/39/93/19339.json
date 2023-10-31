@@ -1,0 +1,119 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Miletice_Dlazov_M_1-4/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "19339",
+  "title": "Katastrální mapa obce Dlažova",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.172856,
+    49.361267,
+    13.180137,
+    49.3692
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/19339",
+  "id": "b93cc316-a739-5854-8502-7341ebe3ea82",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        356,
+        1180
+      ],
+      [
+        324,
+        7988
+      ],
+      [
+        2084,
+        8052
+      ],
+      [
+        4516,
+        5876
+      ],
+      [
+        4612,
+        3764
+      ],
+      [
+        1412,
+        1140
+      ],
+      [
+        356,
+        1180
+      ]
+    ],
+    "created": "2015-02-22T08:18:33.304210+00:00",
+    "transformation_method": "affine",
+    "mapID": "b93cc316-a739-5854-8502-7341ebe3ea82",
+    "affine_transformation": null,
+    "changed": "2015-02-22T08:18:33.304210+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.175206921,
+          49.367662726
+        ],
+        "pixel": [
+          1716,
+          2512
+        ]
+      },
+      {
+        "location": [
+          13.178919098,
+          49.364637415
+        ],
+        "pixel": [
+          3884,
+          4936
+        ]
+      },
+      {
+        "location": [
+          13.176558754,
+          49.3624015
+        ],
+        "pixel": [
+          2436,
+          7072
+        ]
+      },
+      {
+        "location": [
+          13.174069665,
+          49.361852986
+        ],
+        "pixel": [
+          980,
+          7592
+        ]
+      },
+      {
+        "location": [
+          13.17365124,
+          49.367306406
+        ],
+        "pixel": [
+          804,
+          2768
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1842"]
+}

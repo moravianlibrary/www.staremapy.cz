@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/Vs_Litomysl_021_III_XI/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "31498",
+  "title": "Indikační skica mapy stabilního katastru pro obec Karle a osadu Ostrý Kámen",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.335503,
+    49.761505,
+    16.351913,
+    49.774273
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/31498",
+  "id": "c30cce66-81c6-5ca5-8d6a-0d19e1268fa2",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        697,
+        14042
+      ],
+      [
+        9913,
+        14042
+      ],
+      [
+        9913,
+        2842
+      ],
+      [
+        697,
+        2842
+      ],
+      [
+        697,
+        14042
+      ]
+    ],
+    "created": "2015-12-20T22:01:20.607740+00:00",
+    "transformation_method": "affine",
+    "mapID": "c30cce66-81c6-5ca5-8d6a-0d19e1268fa2",
+    "affine_transformation": null,
+    "changed": "2015-12-20T22:01:20.607740+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.343434572,
+          49.770685788
+        ],
+        "pixel": [
+          5083,
+          5951
+        ]
+      },
+      {
+        "location": [
+          16.338569716,
+          49.763701083
+        ],
+        "pixel": [
+          2412,
+          12273
+        ]
+      },
+      {
+        "location": [
+          16.339668751,
+          49.766897099
+        ],
+        "pixel": [
+          3013,
+          9381
+        ]
+      },
+      {
+        "location": [
+          16.345031157,
+          49.763896861
+        ],
+        "pixel": [
+          6155,
+          12014
+        ]
+      },
+      {
+        "location": [
+          16.351076524,
+          49.765762422
+        ],
+        "pixel": [
+          9595,
+          10226
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

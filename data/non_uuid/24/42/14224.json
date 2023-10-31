@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Kout_na_Sumave_M_207/ImageProperties.xml",
+  "description": null,
+  "scale": 5791,
+  "external_id": "14224",
+  "title": "Hospodářská přehledná mapa  revíru Liščí",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.033998,
+    49.264668,
+    13.093684,
+    49.32559
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/14224",
+  "id": "d7bd50ab-8ef1-5703-9384-c7dde2dc1d7f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        800,
+        27680
+      ],
+      [
+        17632,
+        27680
+      ],
+      [
+        17632,
+        608
+      ],
+      [
+        800,
+        608
+      ],
+      [
+        800,
+        27680
+      ]
+    ],
+    "created": "2015-03-10T00:29:45.500870+00:00",
+    "transformation_method": "affine",
+    "mapID": "d7bd50ab-8ef1-5703-9384-c7dde2dc1d7f",
+    "affine_transformation": null,
+    "changed": "2015-03-10T00:29:45.500870+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.066976404,
+          49.296506372
+        ],
+        "pixel": [
+          10087,
+          13615
+        ]
+      },
+      {
+        "location": [
+          13.062313514,
+          49.317653463
+        ],
+        "pixel": [
+          8699,
+          4003
+        ]
+      },
+      {
+        "location": [
+          13.089866761,
+          49.314246875
+        ],
+        "pixel": [
+          16603,
+          5291
+        ]
+      },
+      {
+        "location": [
+          13.044687727,
+          49.269902895
+        ],
+        "pixel": [
+          3874,
+          25458
+        ]
+      },
+      {
+        "location": [
+          13.067214229,
+          49.283265431
+        ],
+        "pixel": [
+          10155,
+          19451
+        ]
+      },
+      {
+        "location": [
+          13.068521357,
+          49.314037116
+        ],
+        "pixel": [
+          10503,
+          5679
+        ]
+      },
+      {
+        "location": [
+          13.080301618,
+          49.309308767
+        ],
+        "pixel": [
+          13879,
+          7911
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1880"]
+}

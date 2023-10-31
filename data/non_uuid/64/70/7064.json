@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1188/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "7064",
+  "title": "Borovany o. České Budějovice 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.629788,
+    48.89597,
+    14.655516,
+    48.90973
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/7064",
+  "id": "eb24a148-fbf4-50aa-98ab-0b3b0824c6c9",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1012,
+        1228
+      ],
+      [
+        16052,
+        1276
+      ],
+      [
+        16126,
+        13448
+      ],
+      [
+        974,
+        13416
+      ],
+      [
+        1012,
+        1228
+      ]
+    ],
+    "created": "2017-03-07T12:36:30.152220+00:00",
+    "transformation_method": "affine",
+    "mapID": "eb24a148-fbf4-50aa-98ab-0b3b0824c6c9",
+    "affine_transformation": null,
+    "changed": "2017-03-07T12:36:30.152220+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.630721092,
+          48.909089271
+        ],
+        "pixel": [
+          1503,
+          1734
+        ]
+      },
+      {
+        "location": [
+          14.641535759,
+          48.903109166
+        ],
+        "pixel": [
+          7774,
+          7015
+        ]
+      },
+      {
+        "location": [
+          14.64162159,
+          48.898496662
+        ],
+        "pixel": [
+          7945,
+          11318
+        ]
+      },
+      {
+        "location": [
+          14.642297506,
+          48.898581299
+        ],
+        "pixel": [
+          8369,
+          11222
+        ]
+      },
+      {
+        "location": [
+          14.639261246,
+          48.909286715
+        ],
+        "pixel": [
+          6431,
+          1590
+        ]
+      },
+      {
+        "location": [
+          14.640720367,
+          48.908299487
+        ],
+        "pixel": [
+          7295,
+          2534
+        ]
+      },
+      {
+        "location": [
+          14.655526161,
+          48.908158452
+        ],
+        "pixel": [
+          16109,
+          2377
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1838"]
+}

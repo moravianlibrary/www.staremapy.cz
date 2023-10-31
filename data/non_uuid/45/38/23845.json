@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_pardubice_322_IX/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "23845",
+  "title": "Indikační skica mapy stabilního katastru pro obec Běleč nad Orlicí IX.",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.931617,
+    50.159664,
+    15.946429,
+    50.165337
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/23845",
+  "id": "4e19c8a8-ceb0-52e3-be9e-2207d9c3e051",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        13415,
+        4785
+      ],
+      [
+        16199,
+        2823
+      ],
+      [
+        16171,
+        414
+      ],
+      [
+        8651,
+        414
+      ],
+      [
+        13415,
+        4785
+      ]
+    ],
+    "created": "2015-01-22T19:15:56.545330+00:00",
+    "transformation_method": "affine",
+    "mapID": "4e19c8a8-ceb0-52e3-be9e-2207d9c3e051",
+    "affine_transformation": null,
+    "changed": "2015-01-22T19:15:56.545330+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.941350497,
+          50.160190571
+        ],
+        "pixel": [
+          13778,
+          4399
+        ]
+      },
+      {
+        "location": [
+          15.94538454,
+          50.162369376
+        ],
+        "pixel": [
+          15742,
+          2707
+        ]
+      },
+      {
+        "location": [
+          15.937445201,
+          50.162280026
+        ],
+        "pixel": [
+          11724,
+          2776
+        ]
+      },
+      {
+        "location": [
+          15.939977206,
+          50.160905395
+        ],
+        "pixel": [
+          13022,
+          3795
+        ]
+      },
+      {
+        "location": [
+          15.940009393,
+          50.162314391
+        ],
+        "pixel": [
+          13006,
+          2727
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1840"]
+}

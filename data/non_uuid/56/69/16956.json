@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/orlik_0667/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "16956",
+  "title": "Branice, okr. Písek, list 3 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.321969,
+    49.4019,
+    14.348235,
+    49.415874
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/16956",
+  "id": "484ef8b9-b76b-5c53-b594-533580cdaabb",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        72,
+        12536
+      ],
+      [
+        15568,
+        12496
+      ],
+      [
+        15568,
+        -48
+      ],
+      [
+        -80,
+        -48
+      ],
+      [
+        72,
+        12536
+      ]
+    ],
+    "created": "2015-08-03T18:39:08.064330+00:00",
+    "transformation_method": "affine",
+    "mapID": "484ef8b9-b76b-5c53-b594-533580cdaabb",
+    "affine_transformation": null,
+    "changed": "2015-08-03T18:39:08.064330+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.330326061,
+          49.405145913
+        ],
+        "pixel": [
+          4977,
+          9698
+        ]
+      },
+      {
+        "location": [
+          14.344085794,
+          49.406454893
+        ],
+        "pixel": [
+          13197,
+          8380
+        ]
+      },
+      {
+        "location": [
+          14.335764696738595,
+          49.40286762969532
+        ],
+        "pixel": [
+          8205,
+          11708
+        ]
+      },
+      {
+        "location": [
+          14.327043037,
+          49.413397138
+        ],
+        "pixel": [
+          2921,
+          2167
+        ]
+      },
+      {
+        "location": [
+          14.342546561577217,
+          49.40289185144067
+        ],
+        "pixel": [
+          12131,
+          11630
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1840"]
+}

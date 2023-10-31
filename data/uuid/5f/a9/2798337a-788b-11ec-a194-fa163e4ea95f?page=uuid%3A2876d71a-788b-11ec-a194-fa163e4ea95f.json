@@ -1,0 +1,111 @@
+{
+  "date": ["1938"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:2798337a-788b-11ec-a194-fa163e4ea95f?page=uuid%3A2876d71a-788b-11ec-a194-fa163e4ea95f",
+  "description": "Třeboň (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1130800",
+  "title": "Třeboň",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.333633,
+    48.99951,
+    14.833295,
+    49.248837
+  ],
+  "reviewed": null,
+  "publisher": "Reichsamt für Landesaufnahme",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:2798337a-788b-11ec-a194-fa163e4ea95f",
+  "id": "2f3f6b6c-428e-5ae7-916f-ed13abab660f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        88,
+        379
+      ],
+      [
+        488,
+        379
+      ],
+      [
+        488,
+        57
+      ],
+      [
+        88,
+        57
+      ],
+      [
+        88,
+        379
+      ]
+    ],
+    "created": "2015-02-01T22:25:35.019340+00:00",
+    "transformation_method": "affine",
+    "mapID": "2f3f6b6c-428e-5ae7-916f-ed13abab660f",
+    "affine_transformation": null,
+    "changed": "2015-02-01T22:25:35.019340+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.431894462,
+          49.048831603
+        ],
+        "pixel": [
+          166,
+          316
+        ]
+      },
+      {
+        "location": [
+          14.389064948,
+          49.230622965
+        ],
+        "pixel": [
+          132,
+          81
+        ]
+      },
+      {
+        "location": [
+          14.750970046,
+          49.035961659
+        ],
+        "pixel": [
+          422,
+          332
+        ]
+      },
+      {
+        "location": [
+          14.655783813,
+          49.109521546
+        ],
+        "pixel": [
+          346,
+          237
+        ]
+      },
+      {
+        "location": [
+          14.691081683,
+          49.166082694
+        ],
+        "pixel": [
+          375,
+          164
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1938"]
+}

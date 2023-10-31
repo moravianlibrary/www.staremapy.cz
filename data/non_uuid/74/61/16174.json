@@ -1,0 +1,91 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/domousice_0478/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "16174",
+  "title": "Kopie katastrální mapy obce Markvarec z roku 1841, list III 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.688324,
+    50.260605,
+    13.715157,
+    50.27517
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/16174",
+  "id": "f83c4232-a243-50fe-9361-9444ff3f4729",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        416,
+        13552
+      ],
+      [
+        16128,
+        13552
+      ],
+      [
+        16128,
+        464
+      ],
+      [
+        416,
+        464
+      ],
+      [
+        416,
+        13552
+      ]
+    ],
+    "created": "2015-06-13T23:17:15.950680+00:00",
+    "transformation_method": "affine",
+    "mapID": "f83c4232-a243-50fe-9361-9444ff3f4729",
+    "affine_transformation": null,
+    "changed": "2015-06-13T23:17:15.950680+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.695364315,
+          50.274759589
+        ],
+        "pixel": [
+          4522,
+          725
+        ]
+      },
+      {
+        "location": [
+          13.713152725,
+          50.271365316
+        ],
+        "pixel": [
+          14959,
+          3910
+        ]
+      },
+      {
+        "location": [
+          13.699779231,
+          50.267943371
+        ],
+        "pixel": [
+          7122,
+          6946
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1841"]
+}

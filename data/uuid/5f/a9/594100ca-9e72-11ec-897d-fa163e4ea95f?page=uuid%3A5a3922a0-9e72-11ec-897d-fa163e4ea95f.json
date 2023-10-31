@@ -1,0 +1,111 @@
+{
+  "date": ["1919"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:594100ca-9e72-11ec-897d-fa163e4ea95f?page=uuid%3A5a3922a0-9e72-11ec-897d-fa163e4ea95f",
+  "description": "Ukrajina",
+  "scale": 75000,
+  "external_id": "1306174",
+  "title": "Bilki",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    22.758457,
+    48.20985,
+    23.407782,
+    48.54141
+  ],
+  "reviewed": null,
+  "publisher": "Kartografické odd. při Min. Nár. Obrany",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:594100ca-9e72-11ec-897d-fa163e4ea95f",
+  "id": "b77c82fd-6294-5792-be34-ae5cd9f88441",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:01:33.526470+00:00",
+    "transformation_method": "affine",
+    "mapID": "b77c82fd-6294-5792-be34-ae5cd9f88441",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:01:33.526470+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.218160155,
+          48.480956097
+        ],
+        "pixel": [
+          425,
+          81
+        ]
+      },
+      {
+        "location": [
+          22.944363913,
+          48.279298908
+        ],
+        "pixel": [
+          171,
+          351
+        ]
+      },
+      {
+        "location": [
+          22.837199598,
+          48.489330704
+        ],
+        "pixel": [
+          73,
+          70
+        ]
+      },
+      {
+        "location": [
+          23.083792212,
+          48.300622404
+        ],
+        "pixel": [
+          301,
+          322
+        ]
+      },
+      {
+        "location": [
+          23.263822081,
+          48.351698181
+        ],
+        "pixel": [
+          467,
+          253
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1919"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": ["1936"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:dc8f6336-9f80-11ec-abfe-fa163e4ea95f?page=uuid%3Add5e2752-9f80-11ec-abfe-fa163e4ea95f",
+  "description": "Prusko",
+  "scale": 25000,
+  "external_id": "1333290",
+  "title": "Schöneberg",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    18.809286,
+    54.17752,
+    19.033606,
+    54.315723
+  ],
+  "reviewed": null,
+  "publisher": "Reichsamt für Landesaufnahme",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:dc8f6336-9f80-11ec-abfe-fa163e4ea95f",
+  "id": "1b41a962-67b3-5160-a675-cb2cb5b978d6",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:11:51.829680+00:00",
+    "transformation_method": "affine",
+    "mapID": "1b41a962-67b3-5160-a675-cb2cb5b978d6",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:11:51.829680+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.849098933,
+          54.205518679
+        ],
+        "pixel": [
+          106,
+          354
+        ]
+      },
+      {
+        "location": [
+          18.983215808,
+          54.20527677
+        ],
+        "pixel": [
+          466,
+          354
+        ]
+      },
+      {
+        "location": [
+          18.949887934,
+          54.254543245
+        ],
+        "pixel": [
+          376,
+          196
+        ]
+      },
+      {
+        "location": [
+          18.885793867,
+          54.280908992
+        ],
+        "pixel": [
+          205,
+          112
+        ]
+      },
+      {
+        "location": [
+          18.96209735,
+          54.287096985
+        ],
+        "pixel": [
+          408,
+          91
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1936"]
+}

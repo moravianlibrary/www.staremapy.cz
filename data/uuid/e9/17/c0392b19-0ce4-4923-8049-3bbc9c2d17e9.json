@@ -1,0 +1,131 @@
+{
+  "date": ["1950"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.mzk.cz/search/iiif/uuid:c0392b19-0ce4-4923-8049-3bbc9c2d17e9/info.json",
+  "description": null,
+  "scale": 75000,
+  "external_id": "c0392b19-0ce4-4923-8049-3bbc9c2d17e9",
+  "title": "Kladno",
+  "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.832882,
+    49.99837,
+    14.334897,
+    50.249207
+  ],
+  "reviewed": null,
+  "publisher": "vydal a vytiskl Státní zeměměřický a kartografický ústav",
+  "link_url": "https://www.digitalniknihovna.cz/mzk/view/uuid:d34de2ec-0c9e-4c68-8f33-633b28f9f839?page=uuid:c0392b19-0ce4-4923-8049-3bbc9c2d17e9",
+  "id": "3cc7ba43-9b08-5d96-8c8e-24e8648f6dd8",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        12550,
+        1337
+      ],
+      [
+        12613,
+        10082
+      ],
+      [
+        1348,
+        10071
+      ],
+      [
+        1334,
+        1334
+      ],
+      [
+        12550,
+        1337
+      ]
+    ],
+    "created": "2018-12-19T14:27:52.977214+00:00",
+    "transformation_method": "affine",
+    "mapID": "3cc7ba43-9b08-5d96-8c8e-24e8648f6dd8",
+    "affine_transformation": null,
+    "changed": "2021-04-26T10:28:06.973770+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.237616418044963,
+          50.18400432696416
+        ],
+        "pixel": [
+          10387,
+          3596
+        ]
+      },
+      {
+        "location": [
+          14.288455788501713,
+          50.00310425372979
+        ],
+        "pixel": [
+          11578,
+          9953
+        ]
+      },
+      {
+        "location": [
+          13.919426327912547,
+          50.219608048712644
+        ],
+        "pixel": [
+          3266,
+          2345
+        ]
+      },
+      {
+        "location": [
+          14.276240520059616,
+          50.24111034928018
+        ],
+        "pixel": [
+          11253,
+          1599
+        ]
+      },
+      {
+        "location": [
+          14.041205148993354,
+          50.14414209448927
+        ],
+        "pixel": [
+          6005,
+          5027
+        ]
+      },
+      {
+        "location": [
+          14.182111565479266,
+          50.068846298064756
+        ],
+        "pixel": [
+          9176,
+          7666
+        ]
+      },
+      {
+        "location": [
+          13.867082234940183,
+          50.04299677806881
+        ],
+        "pixel": [
+          2094,
+          8481
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

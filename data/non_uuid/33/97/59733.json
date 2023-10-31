@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/rajhrad/atlasy/3281002911007/3281002911007_006/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "59733",
+  "title": "mapa z atlasu \"Schauplatz der fünf Theile der Welt :\"",
+  "collection_id": "c96b8290-8633-5c89-8aed-95da5c97814e",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    1.7849013,
+    48.420803,
+    2.598996,
+    49.04222
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/1284",
+  "id": "fdd69521-ec3d-56ab-8e1c-2cf93633e822",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        3496,
+        5614
+      ],
+      [
+        6920,
+        5614
+      ],
+      [
+        6920,
+        1542
+      ],
+      [
+        3496,
+        1542
+      ],
+      [
+        3496,
+        5614
+      ]
+    ],
+    "created": "2015-01-12T15:33:19.671390+00:00",
+    "transformation_method": "affine",
+    "mapID": "fdd69521-ec3d-56ab-8e1c-2cf93633e822",
+    "affine_transformation": null,
+    "changed": "2015-01-12T15:33:19.671390+00:00",
+    "gcps": [
+      {
+        "location": [
+          2.477633322,
+          48.592742461
+        ],
+        "pixel": [
+          6446,
+          4484
+        ]
+      },
+      {
+        "location": [
+          2.162548864,
+          48.888405592
+        ],
+        "pixel": [
+          5059,
+          2538
+        ]
+      },
+      {
+        "location": [
+          2.129695415,
+          48.802285487
+        ],
+        "pixel": [
+          4952,
+          3126
+        ]
+      },
+      {
+        "location": [
+          2.212779522,
+          48.513165546
+        ],
+        "pixel": [
+          5309,
+          5019
+        ]
+      },
+      {
+        "location": [
+          2.345967293,
+          48.855285592
+        ],
+        "pixel": [
+          5851,
+          2778
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1791"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": ["1913"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:75ce614a-a49b-11ec-9cf7-fa163e4ea95f?page=uuid%3A767c9882-a49b-11ec-9cf7-fa163e4ea95f",
+  "description": null,
+  "scale": 75000,
+  "external_id": "1337148",
+  "title": "Ökrös",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    21.812666,
+    46.470177,
+    22.350943,
+    46.76653
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:75ce614a-a49b-11ec-9cf7-fa163e4ea95f",
+  "id": "f4efc635-4557-515b-86ea-bff9ae520ac5",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:24:25.453830+00:00",
+    "transformation_method": "affine",
+    "mapID": "f4efc635-4557-515b-86ea-bff9ae520ac5",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:24:25.453830+00:00",
+    "gcps": [
+      {
+        "location": [
+          22.293376942,
+          46.694723956
+        ],
+        "pixel": [
+          536,
+          107
+        ]
+      },
+      {
+        "location": [
+          21.855704803,
+          46.556390331
+        ],
+        "pixel": [
+          48,
+          314
+        ]
+      },
+      {
+        "location": [
+          21.852271576,
+          46.642138494
+        ],
+        "pixel": [
+          43,
+          185
+        ]
+      },
+      {
+        "location": [
+          21.952350159,
+          46.591555233
+        ],
+        "pixel": [
+          156,
+          264
+        ]
+      },
+      {
+        "location": [
+          21.998806019,
+          46.739211347
+        ],
+        "pixel": [
+          208,
+          41
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1913"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:9b3a05b8-abc3-11ec-b9a8-fa163e4ea95f?page=uuid%3A9c3daef6-abc3-11ec-b9a8-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1368754",
+  "title": "Dobromil",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    22.263676,
+    49.469936,
+    22.903486,
+    49.78358
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:9b3a05b8-abc3-11ec-b9a8-fa163e4ea95f",
+  "id": "36a89e65-2031-5aea-a4bf-a174e5a97582",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:44:54.355320+00:00",
+    "transformation_method": "affine",
+    "mapID": "36a89e65-2031-5aea-a4bf-a174e5a97582",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:44:54.355320+00:00",
+    "gcps": [
+      {
+        "location": [
+          22.368144346,
+          49.702315356
+        ],
+        "pixel": [
+          98,
+          115
+        ]
+      },
+      {
+        "location": [
+          22.652546447,
+          49.553906276
+        ],
+        "pixel": [
+          365,
+          325
+        ]
+      },
+      {
+        "location": [
+          22.418987663,
+          49.537571559
+        ],
+        "pixel": [
+          144,
+          348
+        ]
+      },
+      {
+        "location": [
+          22.794081252,
+          49.667822051
+        ],
+        "pixel": [
+          498,
+          164
+        ]
+      },
+      {
+        "location": [
+          22.781914752,
+          49.584173514
+        ],
+        "pixel": [
+          486,
+          281
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

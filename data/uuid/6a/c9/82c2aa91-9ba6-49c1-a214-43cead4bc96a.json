@@ -1,0 +1,131 @@
+{
+  "date": ["1938"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.mzk.cz/search/iiif/uuid:82c2aa91-9ba6-49c1-a214-43cead4bc96a/info.json",
+  "description": null,
+  "scale": 25000,
+  "external_id": "82c2aa91-9ba6-49c1-a214-43cead4bc96a",
+  "title": "[Jindřichův Hradec]",
+  "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.0841675,
+    48.999237,
+    15.33362,
+    49.123745
+  ],
+  "reviewed": null,
+  "publisher": "GenStdH,",
+  "link_url": "https://www.digitalniknihovna.cz/mzk/view/uuid:685977d5-d0ae-4132-b5aa-d88414999226?page=uuid:82c2aa91-9ba6-49c1-a214-43cead4bc96a",
+  "id": "c3162736-d466-5ae8-8623-cb24720fcddf",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        20099,
+        3014
+      ],
+      [
+        20099,
+        16111
+      ],
+      [
+        3010,
+        16067
+      ],
+      [
+        3080,
+        3029
+      ],
+      [
+        20099,
+        3014
+      ]
+    ],
+    "created": "2018-12-19T14:27:52.977214+00:00",
+    "transformation_method": "affine",
+    "mapID": "c3162736-d466-5ae8-8623-cb24720fcddf",
+    "affine_transformation": null,
+    "changed": "2022-03-09T04:41:56.099031+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.318323698899727,
+          49.08904204170403
+        ],
+        "pixel": [
+          19078,
+          6645
+        ]
+      },
+      {
+        "location": [
+          15.326777058924385,
+          49.007292691582364
+        ],
+        "pixel": [
+          19658,
+          15282
+        ]
+      },
+      {
+        "location": [
+          15.127965689301254,
+          49.111861745437636
+        ],
+        "pixel": [
+          6075,
+          4280
+        ]
+      },
+      {
+        "location": [
+          15.303887967792482,
+          49.04453465148055
+        ],
+        "pixel": [
+          18075,
+          11334
+        ]
+      },
+      {
+        "location": [
+          15.104287633529681,
+          49.01921181135302
+        ],
+        "pixel": [
+          4370,
+          14003
+        ]
+      },
+      {
+        "location": [
+          15.254889177772085,
+          49.00314230410393
+        ],
+        "pixel": [
+          14716,
+          15723
+        ]
+      },
+      {
+        "location": [
+          15.188163135629189,
+          49.119092442518166
+        ],
+        "pixel": [
+          10235,
+          3533
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

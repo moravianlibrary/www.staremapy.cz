@@ -1,0 +1,111 @@
+{
+  "date": ["1910"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:363242b4-833e-11ec-a55a-fa163e4ea95f?page=uuid%3A3726104c-833e-11ec-a55a-fa163e4ea95f",
+  "description": "Tichý oceán (severní oblast)",
+  "scale": 11000000,
+  "external_id": "1176676",
+  "title": "Meteorological chart of the North Pacific Ocean",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -168.5606,
+    -6.1459804,
+    175.96477,
+    74.78068
+  ],
+  "reviewed": null,
+  "publisher": "Secretary of Agriculture",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:363242b4-833e-11ec-a55a-fa163e4ea95f",
+  "id": "a5c6e75c-1f44-5e8d-8e10-13c3ddbff484",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2014-08-19T15:37:11.321120+00:00",
+    "transformation_method": "affine",
+    "mapID": "a5c6e75c-1f44-5e8d-8e10-13c3ddbff484",
+    "affine_transformation": null,
+    "changed": "2014-08-19T15:37:11.321120+00:00",
+    "gcps": [
+      {
+        "location": [
+          156.35487890258634,
+          50.74156336672516
+        ],
+        "pixel": [
+          167,
+          205
+        ]
+      },
+      {
+        "location": [
+          164.55617284789872,
+          59.22506436785082
+        ],
+        "pixel": [
+          194,
+          150
+        ]
+      },
+      {
+        "location": [
+          160.16164159789884,
+          60.574742854879986
+        ],
+        "pixel": [
+          180,
+          142
+        ]
+      },
+      {
+        "location": [
+          -170.28911617644783,
+          63.58403306124785
+        ],
+        "pixel": [
+          272,
+          117
+        ]
+      },
+      {
+        "location": [
+          -151.0065427371099,
+          59.77597885480699
+        ],
+        "pixel": [
+          333,
+          147
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1910"]
+}

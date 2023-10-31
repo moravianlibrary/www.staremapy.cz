@@ -1,0 +1,111 @@
+{
+  "date": ["1938"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:28f95366-9f87-11ec-8986-fa163e4ea95f?page=uuid%3A29f99ba4-9f87-11ec-8986-fa163e4ea95f",
+  "description": "Prusko",
+  "scale": 25000,
+  "external_id": "1333464",
+  "title": "Gehsen",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    21.829977,
+    53.453182,
+    21.930208,
+    53.49909
+  ],
+  "reviewed": null,
+  "publisher": "Reichsamt für Landesaufnahme",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:28f95366-9f87-11ec-8986-fa163e4ea95f",
+  "id": "e338f1f8-70a7-576e-a02a-fe2e41061523",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        330,
+        49
+      ],
+      [
+        333,
+        196
+      ],
+      [
+        59,
+        197
+      ],
+      [
+        58,
+        51
+      ],
+      [
+        330,
+        49
+      ]
+    ],
+    "created": "2015-11-05T17:12:14.615990+00:00",
+    "transformation_method": "affine",
+    "mapID": "e338f1f8-70a7-576e-a02a-fe2e41061523",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:12:14.615990+00:00",
+    "gcps": [
+      {
+        "location": [
+          21.861868563,
+          53.486368851
+        ],
+        "pixel": [
+          145,
+          90
+        ]
+      },
+      {
+        "location": [
+          21.87514237950613,
+          53.48892493867484
+        ],
+        "pixel": [
+          182,
+          83
+        ]
+      },
+      {
+        "location": [
+          21.856423366853566,
+          53.4614689192384
+        ],
+        "pixel": [
+          131,
+          171
+        ]
+      },
+      {
+        "location": [
+          21.901672545,
+          53.492943663
+        ],
+        "pixel": [
+          255,
+          69
+        ]
+      },
+      {
+        "location": [
+          21.880944434,
+          53.461221965
+        ],
+        "pixel": [
+          197,
+          171
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1938"]
+}

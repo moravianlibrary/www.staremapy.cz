@@ -1,0 +1,131 @@
+{
+  "date": ["1937"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.mzk.cz/search/iiif/uuid:f2507a4d-751b-490d-b6a7-dd4823546a2f/info.json",
+  "description": null,
+  "scale": 25000,
+  "external_id": "f2507a4d-751b-490d-b6a7-dd4823546a2f",
+  "title": "[Moravské Budějovice]",
+  "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.334889,
+    48.999626,
+    15.583007,
+    49.123756
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav,",
+  "link_url": "https://www.digitalniknihovna.cz/mzk/view/uuid:11ebc611-bbe4-40f5-847b-9e3b7a1549ca?page=uuid:f2507a4d-751b-490d-b6a7-dd4823546a2f",
+  "id": "4af3cb1f-2477-54df-b1b1-645625e1874a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        17799,
+        829
+      ],
+      [
+        17831,
+        13763
+      ],
+      [
+        744,
+        13872
+      ],
+      [
+        782,
+        959
+      ],
+      [
+        17799,
+        829
+      ]
+    ],
+    "created": "2018-12-19T14:27:52.977214+00:00",
+    "transformation_method": "affine",
+    "mapID": "4af3cb1f-2477-54df-b1b1-645625e1874a",
+    "affine_transformation": null,
+    "changed": "2022-03-25T07:30:27.967656+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.345518229720675,
+          49.00007623414092
+        ],
+        "pixel": [
+          1459,
+          13822
+        ]
+      },
+      {
+        "location": [
+          15.387857693421156,
+          49.0307781371034
+        ],
+        "pixel": [
+          4417,
+          10595
+        ]
+      },
+      {
+        "location": [
+          15.530190527712287,
+          49.00686633237629
+        ],
+        "pixel": [
+          14193,
+          13090
+        ]
+      },
+      {
+        "location": [
+          15.439054591384998,
+          49.07810273594714
+        ],
+        "pixel": [
+          7931,
+          5637
+        ]
+      },
+      {
+        "location": [
+          15.369134450750133,
+          49.10594036741071
+        ],
+        "pixel": [
+          3116,
+          2750
+        ]
+      },
+      {
+        "location": [
+          15.538897526669226,
+          49.12294332382925
+        ],
+        "pixel": [
+          14802,
+          928
+        ]
+      },
+      {
+        "location": [
+          15.565219733333597,
+          49.04102272500134
+        ],
+        "pixel": [
+          16614,
+          9475
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

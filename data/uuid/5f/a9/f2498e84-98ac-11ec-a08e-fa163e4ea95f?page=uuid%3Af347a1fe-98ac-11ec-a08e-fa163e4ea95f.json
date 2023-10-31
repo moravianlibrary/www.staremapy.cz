@@ -1,0 +1,111 @@
+{
+  "date": ["1938"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:f2498e84-98ac-11ec-a08e-fa163e4ea95f?page=uuid%3Af347a1fe-98ac-11ec-a08e-fa163e4ea95f",
+  "description": "Morava (Česko)",
+  "scale": 75000,
+  "external_id": "1286080",
+  "title": "Přerov",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    17.235731,
+    49.196335,
+    17.90256,
+    49.522152
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:f2498e84-98ac-11ec-a08e-fa163e4ea95f",
+  "id": "8b7d7455-692b-5615-b319-8bdb7a6ea15a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:21:10.973940+00:00",
+    "transformation_method": "affine",
+    "mapID": "8b7d7455-692b-5615-b319-8bdb7a6ea15a",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:21:10.973940+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.44764892,
+          49.45660837
+        ],
+        "pixel": [
+          192,
+          88
+        ]
+      },
+      {
+        "location": [
+          17.685485757,
+          49.282228153
+        ],
+        "pixel": [
+          405,
+          327
+        ]
+      },
+      {
+        "location": [
+          17.76417352,
+          49.489688876
+        ],
+        "pixel": [
+          478,
+          44
+        ]
+      },
+      {
+        "location": [
+          17.388940729,
+          49.296783466
+        ],
+        "pixel": [
+          135,
+          306
+        ]
+      },
+      {
+        "location": [
+          17.485396383,
+          49.487021957
+        ],
+        "pixel": [
+          225,
+          48
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1938"]
+}

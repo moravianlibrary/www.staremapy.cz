@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/1034/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "18638",
+  "title": "Mapa Králowstwj Českého",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    11.864855,
+    48.4342,
+    17.205269,
+    51.138573
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/18638",
+  "id": "d3a89001-751f-5e8b-b85e-7a2a91a3a4ce",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        738,
+        9970
+      ],
+      [
+        12578,
+        9970
+      ],
+      [
+        12578,
+        306
+      ],
+      [
+        738,
+        306
+      ],
+      [
+        738,
+        9970
+      ]
+    ],
+    "created": "2016-02-19T13:20:15.421770+00:00",
+    "transformation_method": "affine",
+    "mapID": "d3a89001-751f-5e8b-b85e-7a2a91a3a4ce",
+    "affine_transformation": null,
+    "changed": "2016-02-19T13:20:15.421770+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.217853546,
+          50.782063723
+        ],
+        "pixel": [
+          5866,
+          1643
+        ]
+      },
+      {
+        "location": [
+          13.23354721,
+          49.991188541
+        ],
+        "pixel": [
+          3734,
+          4449
+        ]
+      },
+      {
+        "location": [
+          14.314944973,
+          48.809994502
+        ],
+        "pixel": [
+          6214,
+          8741
+        ]
+      },
+      {
+        "location": [
+          15.561962127,
+          50.039282316
+        ],
+        "pixel": [
+          8964,
+          4234
+        ]
+      },
+      {
+        "location": [
+          13.521182766,
+          49.231464779
+        ],
+        "pixel": [
+          4416,
+          7184
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

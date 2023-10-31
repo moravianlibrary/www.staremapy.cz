@@ -1,0 +1,101 @@
+{
+  "date": ["1906"],
+  "creator": "Tittl, Hynek",
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:acb329ca-b125-11ec-aa9e-fa163e4ea95f?page=uuid%3Aad96592a-b125-11ec-aa9e-fa163e4ea95f",
+  "description": "Česko",
+  "scale": 600000,
+  "external_id": "1376468",
+  "title": "Agronomische Karte des landtäflichen Grossgrund-Besitzes im Königreiche Böhmen",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    11.765136,
+    48.336544,
+    17.189663,
+    51.312347
+  ],
+  "reviewed": null,
+  "publisher": "Josef Springer",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:acb329ca-b125-11ec-aa9e-fa163e4ea95f",
+  "id": "451a7d46-21e2-58d8-bb19-55a7e057c2e9",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        582,
+        21
+      ],
+      [
+        581,
+        428
+      ],
+      [
+        21,
+        429
+      ],
+      [
+        21,
+        21
+      ],
+      [
+        582,
+        21
+      ]
+    ],
+    "created": "2016-01-08T13:34:05.052400+00:00",
+    "transformation_method": "affine",
+    "mapID": "451a7d46-21e2-58d8-bb19-55a7e057c2e9",
+    "affine_transformation": null,
+    "changed": "2016-01-08T13:34:05.052400+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.47156708984375,
+          50.35351581937124
+        ],
+        "pixel": [
+          303,
+          140
+        ]
+      },
+      {
+        "location": [
+          13.902731551820695,
+          49.26250640389057
+        ],
+        "pixel": [
+          234,
+          310
+        ]
+      },
+      {
+        "location": [
+          13.375387801820693,
+          49.749408750701406
+        ],
+        "pixel": [
+          175,
+          232
+        ]
+      },
+      {
+        "location": [
+          14.430368359375,
+          50.107538056099685
+        ],
+        "pixel": [
+          293,
+          182
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1906"]
+}

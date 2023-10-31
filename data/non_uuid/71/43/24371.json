@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_pardubice_398_IV/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "24371",
+  "title": "Indikační skica mapy stabilního katastru pro obec Prachovice IV.",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.939725,
+    50.017128,
+    15.959522,
+    50.02802
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/24371",
+  "id": "d7d54555-9850-5b4b-8ca0-7492433e4696",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1795,
+        10946
+      ],
+      [
+        12787,
+        10946
+      ],
+      [
+        12787,
+        1186
+      ],
+      [
+        1795,
+        1346
+      ],
+      [
+        1795,
+        10946
+      ]
+    ],
+    "created": "2015-01-22T15:08:08.474260+00:00",
+    "transformation_method": "affine",
+    "mapID": "d7d54555-9850-5b4b-8ca0-7492433e4696",
+    "affine_transformation": null,
+    "changed": "2015-01-22T15:08:08.474260+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.956385856,
+          50.021447679
+        ],
+        "pixel": [
+          11163,
+          7045
+        ]
+      },
+      {
+        "location": [
+          15.957587485,
+          50.026286522
+        ],
+        "pixel": [
+          11755,
+          2677
+        ]
+      },
+      {
+        "location": [
+          15.943001633,
+          50.023565594
+        ],
+        "pixel": [
+          3495,
+          5315
+        ]
+      },
+      {
+        "location": [
+          15.951166277,
+          50.018204278
+        ],
+        "pixel": [
+          8328,
+          10081
+        ]
+      },
+      {
+        "location": [
+          15.957136874,
+          50.017449407
+        ],
+        "pixel": [
+          11707,
+          10693
+        ]
+      },
+      {
+        "location": [
+          15.951214557,
+          50.025156123
+        ],
+        "pixel": [
+          8107,
+          3829
+        ]
+      },
+      {
+        "location": [
+          15.940877323,
+          50.024678798
+        ],
+        "pixel": [
+          2239,
+          4363
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

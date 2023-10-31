@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/5758_12/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "47283",
+  "title": "Státní mapa 1:5000",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.934022,
+    50.392426,
+    12.9726925,
+    50.413826
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/47283",
+  "id": "d1a58647-224a-5138-ab71-5646d70ea2d3",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1573,
+        1428
+      ],
+      [
+        1565,
+        10844
+      ],
+      [
+        13349,
+        10876
+      ],
+      [
+        13341,
+        1436
+      ],
+      [
+        1573,
+        1428
+      ]
+    ],
+    "created": "2015-02-03T20:54:52.833490+00:00",
+    "transformation_method": "affine",
+    "mapID": "d1a58647-224a-5138-ab71-5646d70ea2d3",
+    "affine_transformation": null,
+    "changed": "2015-02-03T20:54:52.833490+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.947451458,
+          50.401737897
+        ],
+        "pixel": [
+          5388,
+          6525
+        ]
+      },
+      {
+        "location": [
+          12.963973865,
+          50.396769418
+        ],
+        "pixel": [
+          10456,
+          10026
+        ]
+      },
+      {
+        "location": [
+          12.960261688,
+          50.400373584
+        ],
+        "pixel": [
+          9567,
+          7963
+        ]
+      },
+      {
+        "location": [
+          12.951228008,
+          50.402261045
+        ],
+        "pixel": [
+          6655,
+          6419
+        ]
+      },
+      {
+        "location": [
+          12.936156985,
+          50.407102517
+        ],
+        "pixel": [
+          2008,
+          3157
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

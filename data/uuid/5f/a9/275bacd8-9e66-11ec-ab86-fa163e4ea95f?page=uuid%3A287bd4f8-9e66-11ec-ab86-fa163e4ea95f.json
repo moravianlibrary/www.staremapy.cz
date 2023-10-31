@@ -1,0 +1,121 @@
+{
+  "date": ["1884"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:275bacd8-9e66-11ec-ab86-fa163e4ea95f?page=uuid%3A287bd4f8-9e66-11ec-ab86-fa163e4ea95f",
+  "description": "Pezinok (Slovensko : oblast)",
+  "scale": 75000,
+  "external_id": "1305832",
+  "title": "Dürnkrut und Bösing",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.83427,
+    48.249653,
+    17.335175,
+    48.498806
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:275bacd8-9e66-11ec-ab86-fa163e4ea95f",
+  "id": "b6f3d625-44c9-5e34-9ee3-343c097c9431",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        52,
+        32
+      ],
+      [
+        50,
+        380
+      ],
+      [
+        550,
+        381
+      ],
+      [
+        549,
+        32
+      ],
+      [
+        52,
+        32
+      ]
+    ],
+    "created": "2016-12-22T08:26:34.611590+00:00",
+    "transformation_method": "affine",
+    "mapID": "b6f3d625-44c9-5e34-9ee3-343c097c9431",
+    "affine_transformation": null,
+    "changed": "2016-12-22T08:26:34.611590+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.927495003,
+          48.413449149
+        ],
+        "pixel": [
+          144,
+          151
+        ]
+      },
+      {
+        "location": [
+          16.907625198,
+          48.330618359
+        ],
+        "pixel": [
+          123,
+          267
+        ]
+      },
+      {
+        "location": [
+          16.983113289,
+          48.313967533
+        ],
+        "pixel": [
+          199,
+          291
+        ]
+      },
+      {
+        "location": [
+          17.268629074,
+          48.2888883
+        ],
+        "pixel": [
+          484,
+          326
+        ]
+      },
+      {
+        "location": [
+          17.166297436,
+          48.461679993
+        ],
+        "pixel": [
+          382,
+          84
+        ]
+      },
+      {
+        "location": [
+          17.019033432,
+          48.436018571
+        ],
+        "pixel": [
+          235,
+          120
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1884"]
+}

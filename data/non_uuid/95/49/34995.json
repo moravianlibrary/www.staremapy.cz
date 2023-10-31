@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/2422/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "34995",
+  "title": "Stabilní katastr - Procovní otisk Wolleschnitz",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.102619,
+    50.542057,
+    15.135817,
+    50.558914
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/34995",
+  "id": "5f031c35-05e6-5c3c-b7a6-40b17198a01a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        320,
+        14624
+      ],
+      [
+        18496,
+        14624
+      ],
+      [
+        18496,
+        224
+      ],
+      [
+        320,
+        224
+      ],
+      [
+        320,
+        14624
+      ]
+    ],
+    "created": "2015-04-25T19:35:22.592740+00:00",
+    "transformation_method": "affine",
+    "mapID": "5f031c35-05e6-5c3c-b7a6-40b17198a01a",
+    "affine_transformation": null,
+    "changed": "2015-04-25T19:35:22.592740+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.118471701,
+          50.551869561
+        ],
+        "pixel": [
+          8926,
+          6168
+        ]
+      },
+      {
+        "location": [
+          15.127135331,
+          50.547368339
+        ],
+        "pixel": [
+          13884,
+          10071
+        ]
+      },
+      {
+        "location": [
+          15.112969861,
+          50.554764252
+        ],
+        "pixel": [
+          5893,
+          3763
+        ]
+      },
+      {
+        "location": [
+          15.119396434,
+          50.545206603
+        ],
+        "pixel": [
+          9593,
+          12111
+        ]
+      },
+      {
+        "location": [
+          15.128022418,
+          50.553728139
+        ],
+        "pixel": [
+          14239,
+          4387
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

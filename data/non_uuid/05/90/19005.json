@@ -1,0 +1,114 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_rychmburk_045/ImageProperties.xml",
+  "description": null,
+  "scale": 3333,
+  "external_id": "19005",
+  "title": "Mapa obecní pastviny v Březovicích a osady Nové Holešovice",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.947153,
+    49.962555,
+    15.972175,
+    49.981384
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/19005",
+  "id": "dd4cc2c0-1a5b-5eb9-a39a-fcdebe39e3f1",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        141,
+        13236
+      ],
+      [
+        9357,
+        13236
+      ],
+      [
+        9357,
+        148
+      ],
+      [
+        141,
+        148
+      ],
+      [
+        141,
+        13236
+      ]
+    ],
+    "created": "2015-12-21T13:45:26.227630+00:00",
+    "transformation_method": "affine",
+    "mapID": "dd4cc2c0-1a5b-5eb9-a39a-fcdebe39e3f1",
+    "affine_transformation": null,
+    "changed": "2015-12-21T13:45:26.227630+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.960889414,
+          49.975128148
+        ],
+        "pixel": [
+          6438,
+          4592
+        ]
+      },
+      {
+        "location": [
+          15.960354313,
+          49.976905708
+        ],
+        "pixel": [
+          6748,
+          3076
+        ]
+      },
+      {
+        "location": [
+          15.956758812,
+          49.974798674
+        ],
+        "pixel": [
+          4223,
+          3684
+        ]
+      },
+      {
+        "location": [
+          15.954210714,
+          49.973211653
+        ],
+        "pixel": [
+          2492,
+          4420
+        ]
+      },
+      {
+        "location": [
+          15.95005329,
+          49.974050021
+        ],
+        "pixel": [
+          764,
+          2778
+        ]
+      }
+    ]
+  },
+  "pubdate": [
+    "1770",
+    "1790"
+  ]
+}

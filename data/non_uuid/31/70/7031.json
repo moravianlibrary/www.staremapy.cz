@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1155/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "7031",
+  "title": "Veselí o. Tábor 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.658845,
+    49.161633,
+    14.709094,
+    49.20413
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/7031",
+  "id": "7a2c6c4b-e3bf-5eb2-bd1f-54931fddc5a2",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        288,
+        22432
+      ],
+      [
+        15072,
+        22432
+      ],
+      [
+        15120,
+        3104
+      ],
+      [
+        288,
+        4512
+      ],
+      [
+        288,
+        22432
+      ]
+    ],
+    "created": "2015-07-02T09:41:44.810410+00:00",
+    "transformation_method": "affine",
+    "mapID": "7a2c6c4b-e3bf-5eb2-bd1f-54931fddc5a2",
+    "affine_transformation": null,
+    "changed": "2015-07-02T09:41:44.810410+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.69046623,
+          49.197903473
+        ],
+        "pixel": [
+          9594,
+          5960
+        ]
+      },
+      {
+        "location": [
+          14.69383559,
+          49.167148078
+        ],
+        "pixel": [
+          10679,
+          19954
+        ]
+      },
+      {
+        "location": [
+          14.660852466,
+          49.183886779
+        ],
+        "pixel": [
+          798,
+          12368
+        ]
+      },
+      {
+        "location": [
+          14.681973594,
+          49.172292296
+        ],
+        "pixel": [
+          7178,
+          17596
+        ]
+      },
+      {
+        "location": [
+          14.698985432,
+          49.187151096
+        ],
+        "pixel": [
+          12160,
+          10832
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1828"]
+}

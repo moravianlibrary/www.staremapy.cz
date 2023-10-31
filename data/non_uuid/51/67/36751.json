@@ -1,0 +1,133 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plasy_M_46_3_IV/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "36751",
+  "title": "Katastrální mapa obce Hůrky",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.1898155,
+    49.889904,
+    13.207058,
+    49.90464
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/36751",
+  "id": "4277d4be-567c-573e-98df-07436fb61b4a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        112,
+        13744
+      ],
+      [
+        3240,
+        13704
+      ],
+      [
+        5248,
+        10320
+      ],
+      [
+        3768,
+        5028
+      ],
+      [
+        10064,
+        2968
+      ],
+      [
+        9696,
+        576
+      ],
+      [
+        288,
+        576
+      ],
+      [
+        112,
+        13744
+      ]
+    ],
+    "created": "2015-05-05T23:54:24.359990+00:00",
+    "transformation_method": "affine",
+    "mapID": "4277d4be-567c-573e-98df-07436fb61b4a",
+    "affine_transformation": null,
+    "changed": "2015-05-05T23:54:24.359990+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.20543662,
+          49.902791335
+        ],
+        "pixel": [
+          9144,
+          2238
+        ]
+      },
+      {
+        "location": [
+          13.190308961,
+          49.900172262
+        ],
+        "pixel": [
+          478,
+          4531
+        ]
+      },
+      {
+        "location": [
+          13.195786032,
+          49.894042106
+        ],
+        "pixel": [
+          3586,
+          10039
+        ]
+      },
+      {
+        "location": [
+          13.193586123644376,
+          49.891414457556465
+        ],
+        "pixel": [
+          2250,
+          12404
+        ]
+      },
+      {
+        "location": [
+          13.192530148249455,
+          49.891293192885826
+        ],
+        "pixel": [
+          1675,
+          12525
+        ]
+      },
+      {
+        "location": [
+          13.190109980761077,
+          49.899403983172306
+        ],
+        "pixel": [
+          409,
+          5185
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1842"]
+}

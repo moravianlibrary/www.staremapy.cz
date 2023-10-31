@@ -1,0 +1,111 @@
+{
+  "date": ["1919"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:9907e6e2-9431-11ec-988e-fa163e4ea95f?page=uuid%3A9a11d822-9431-11ec-988e-fa163e4ea95f",
+  "description": "Šlesvicko",
+  "scale": 100000,
+  "external_id": "1253590",
+  "title": "Karte der Umgebung von Schleswig",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    8.907234,
+    54.206215,
+    10.155501,
+    54.803997
+  ],
+  "reviewed": null,
+  "publisher": "Reichsamt für Landesaufnahme",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:9907e6e2-9431-11ec-988e-fa163e4ea95f",
+  "id": "5be4b7f9-f663-52ac-9b44-147407d60777",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:11:19.420020+00:00",
+    "transformation_method": "affine",
+    "mapID": "5be4b7f9-f663-52ac-9b44-147407d60777",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:11:19.420020+00:00",
+    "gcps": [
+      {
+        "location": [
+          9.837438706,
+          54.471592912
+        ],
+        "pixel": [
+          447,
+          247
+        ]
+      },
+      {
+        "location": [
+          9.989874009,
+          54.682623552
+        ],
+        "pixel": [
+          519,
+          90
+        ]
+      },
+      {
+        "location": [
+          9.916746262,
+          54.279066229
+        ],
+        "pixel": [
+          487,
+          391
+        ]
+      },
+      {
+        "location": [
+          9.079639557,
+          54.376317306
+        ],
+        "pixel": [
+          81,
+          317
+        ]
+      },
+      {
+        "location": [
+          9.167177823,
+          54.733477244
+        ],
+        "pixel": [
+          126,
+          52
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1919"]
+}

@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plana_M_69/ImageProperties.xml",
+  "description": null,
+  "scale": 5760,
+  "external_id": "15371",
+  "title": "Hospodářská mapa revíru Kočov-Jemnice",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.720853,
+    49.798794,
+    12.746707,
+    49.816025
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/15371",
+  "id": "41a5bc1b-efc4-59f1-8fbc-9956a6433e5f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        12893,
+        0
+      ],
+      [
+        12893,
+        9508
+      ],
+      [
+        0,
+        9508
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        12893,
+        0
+      ]
+    ],
+    "created": "2014-11-25T16:55:33.680820+00:00",
+    "transformation_method": "affine",
+    "mapID": "41a5bc1b-efc4-59f1-8fbc-9956a6433e5f",
+    "affine_transformation": null,
+    "changed": "2022-02-17T19:53:32.552721+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.738231986170701,
+          49.807646101097816
+        ],
+        "pixel": [
+          5567,
+          2437
+        ]
+      },
+      {
+        "location": [
+          12.736531648807764,
+          49.810308743828244
+        ],
+        "pixel": [
+          3386,
+          2942
+        ]
+      },
+      {
+        "location": [
+          12.73824629051575,
+          49.80831884090952
+        ],
+        "pixel": [
+          4797,
+          2666
+        ]
+      },
+      {
+        "location": [
+          12.732747644184524,
+          49.811281552599496
+        ],
+        "pixel": [
+          2645,
+          4504
+        ]
+      },
+      {
+        "location": [
+          12.73605004223742,
+          49.80964204793651
+        ],
+        "pixel": [
+          3950,
+          3180
+        ]
+      },
+      {
+        "location": [
+          12.733178983465322,
+          49.809940766532776
+        ],
+        "pixel": [
+          4302,
+          4736
+        ]
+      },
+      {
+        "location": [
+          12.734952537845462,
+          49.80827037414633
+        ],
+        "pixel": [
+          5308,
+          3944
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1880"]
+}

@@ -1,0 +1,95 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_rychmburk_0235/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "30313",
+  "title": "Katastrální mapa pro obec Otradov",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.245426,
+    49.229965,
+    18.090916,
+    51.188904
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/30313",
+  "id": "16457dd6-e108-56f0-8342-da24dfbaefaf",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        364,
+        1238
+      ],
+      [
+        6444,
+        1206
+      ],
+      [
+        6482,
+        13535
+      ],
+      [
+        343,
+        13544
+      ],
+      [
+        343,
+        13288
+      ],
+      [
+        364,
+        1238
+      ]
+    ],
+    "created": "2015-01-22T14:39:07.707210+00:00",
+    "transformation_method": "affine",
+    "mapID": "16457dd6-e108-56f0-8342-da24dfbaefaf",
+    "affine_transformation": null,
+    "changed": "2022-07-18T10:55:41.319480+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.041971858,
+          49.79302624
+        ],
+        "pixel": [
+          352,
+          6808
+        ]
+      },
+      {
+        "location": [
+          16.039574821,
+          49.789069308
+        ],
+        "pixel": [
+          948,
+          6056
+        ]
+      },
+      {
+        "location": [
+          16.089304564,
+          49.82484171
+        ],
+        "pixel": [
+          729,
+          6673
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1889"]
+}

@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Kout_na_Sumave_M_95-4/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "14009",
+  "title": "Katastrální mapa obce Chodov",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.781579,
+    49.39548,
+    12.8067875,
+    49.409443
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/14009",
+  "id": "e34b82df-91a5-51a2-b9d9-f2dae9332520",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        2080,
+        13424
+      ],
+      [
+        16384,
+        13296
+      ],
+      [
+        16384,
+        944
+      ],
+      [
+        3456,
+        944
+      ],
+      [
+        1776,
+        3600
+      ],
+      [
+        2312,
+        5952
+      ],
+      [
+        3854,
+        8908
+      ],
+      [
+        2961,
+        11730
+      ],
+      [
+        2420,
+        11832
+      ],
+      [
+        2080,
+        13424
+      ]
+    ],
+    "created": "2016-02-13T19:55:29.941070+00:00",
+    "transformation_method": "affine",
+    "mapID": "e34b82df-91a5-51a2-b9d9-f2dae9332520",
+    "affine_transformation": null,
+    "changed": "2016-02-13T19:55:29.941070+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.785705566,
+          49.400417079
+        ],
+        "pixel": [
+          4112,
+          8984
+        ]
+      },
+      {
+        "location": [
+          12.805832863,
+          49.405443855
+        ],
+        "pixel": [
+          15968,
+          4600
+        ]
+      },
+      {
+        "location": [
+          12.784589767,
+          49.408152515
+        ],
+        "pixel": [
+          3584,
+          1848
+        ]
+      },
+      {
+        "location": [
+          12.783302307,
+          49.39684217
+        ],
+        "pixel": [
+          2640,
+          12168
+        ]
+      },
+      {
+        "location": [
+          12.782186508,
+          49.406002354
+        ],
+        "pixel": [
+          2112,
+          3704
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1900"]
+}

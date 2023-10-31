@@ -1,0 +1,121 @@
+{
+  "date": ["1935"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:f3785484-9460-11ec-9eb5-fa163e4ea95f?page=uuid%3Af46f6c56-9460-11ec-9eb5-fa163e4ea95f",
+  "description": "Dolní Rakousko (Rakousko)",
+  "scale": 200000,
+  "external_id": "1254956",
+  "title": "33°49° Jihlava",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.842912,
+    48.505074,
+    15.832632,
+    49.4943
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:f3785484-9460-11ec-9eb5-fa163e4ea95f",
+  "id": "10c01249-d0de-53a6-a1b4-34e6b824de03",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        62,
+        410
+      ],
+      [
+        540,
+        410
+      ],
+      [
+        540,
+        32
+      ],
+      [
+        62,
+        32
+      ],
+      [
+        62,
+        410
+      ]
+    ],
+    "created": "2016-01-14T20:04:17.880860+00:00",
+    "transformation_method": "affine",
+    "mapID": "10c01249-d0de-53a6-a1b4-34e6b824de03",
+    "affine_transformation": null,
+    "changed": "2016-01-14T20:04:17.880860+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.94499823,
+          48.773150366
+        ],
+        "pixel": [
+          112,
+          308
+        ]
+      },
+      {
+        "location": [
+          14.886290039,
+          48.704318953
+        ],
+        "pixel": [
+          82,
+          334
+        ]
+      },
+      {
+        "location": [
+          14.920793976,
+          49.166654172
+        ],
+        "pixel": [
+          100,
+          157
+        ]
+      },
+      {
+        "location": [
+          15.112196411,
+          49.017934362
+        ],
+        "pixel": [
+          193,
+          214
+        ]
+      },
+      {
+        "location": [
+          15.515085663,
+          49.40738813
+        ],
+        "pixel": [
+          388,
+          65
+        ]
+      },
+      {
+        "location": [
+          15.718504395,
+          49.487074303
+        ],
+        "pixel": [
+          485,
+          35
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1935"]
+}

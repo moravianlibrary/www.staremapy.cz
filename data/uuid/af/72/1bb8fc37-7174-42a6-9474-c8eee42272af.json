@@ -1,0 +1,119 @@
+{
+  "date": ["1925"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.mzk.cz/search/iiif/uuid:1bb8fc37-7174-42a6-9474-c8eee42272af/info.json",
+  "description": null,
+  "scale": 75000,
+  "external_id": "1bb8fc37-7174-42a6-9474-c8eee42272af",
+  "title": "Beretka a Szendrő",
+  "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    20.331356,
+    48.24783,
+    20.832127,
+    48.498615
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://www.digitalniknihovna.cz/mzk/view/uuid:45605d6c-72ac-40b1-b0f7-18d7607a2a2b?page=uuid:1bb8fc37-7174-42a6-9474-c8eee42272af",
+  "id": "b744f54e-202d-5e8e-a1e9-4f34e55e70a1",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        12766,
+        1070
+      ],
+      [
+        12814,
+        5310
+      ],
+      [
+        12841,
+        9809
+      ],
+      [
+        6511,
+        9792
+      ],
+      [
+        1148,
+        9790
+      ],
+      [
+        1139,
+        1060
+      ],
+      [
+        12766,
+        1070
+      ]
+    ],
+    "created": "2018-12-19T14:27:52.977214+00:00",
+    "transformation_method": "affine",
+    "mapID": "b744f54e-202d-5e8e-a1e9-4f34e55e70a1",
+    "affine_transformation": null,
+    "changed": "2021-02-12T07:52:01.504137+00:00",
+    "gcps": [
+      {
+        "location": [
+          20.737104051360213,
+          48.44893811524622
+        ],
+        "pixel": [
+          10614,
+          2808
+        ]
+      },
+      {
+        "location": [
+          20.767502833137204,
+          48.261541299973345
+        ],
+        "pixel": [
+          11322,
+          9337
+        ]
+      },
+      {
+        "location": [
+          20.573403173054018,
+          48.38126915940353
+        ],
+        "pixel": [
+          6821,
+          5143
+        ]
+      },
+      {
+        "location": [
+          20.358371765502937,
+          48.271969448734666
+        ],
+        "pixel": [
+          1771,
+          8956
+        ]
+      },
+      {
+        "location": [
+          20.350481781041125,
+          48.47220642137452
+        ],
+        "pixel": [
+          1577,
+          1967
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

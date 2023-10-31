@@ -1,0 +1,111 @@
+{
+  "date": ["1914"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:1980e5ac-8501-11ec-808b-fa163e4ea95f?page=uuid%3A1a2c6a62-8501-11ec-808b-fa163e4ea95f",
+  "description": "Polsko",
+  "scale": 75000,
+  "external_id": "1180112",
+  "title": "Płazów",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Korff, A. von",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    22.829706,
+    50.247967,
+    23.333595,
+    50.498005
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:1980e5ac-8501-11ec-808b-fa163e4ea95f",
+  "id": "19f4b81e-08e6-554e-945e-b65e817940ee",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        42,
+        401
+      ],
+      [
+        562,
+        401
+      ],
+      [
+        562,
+        24
+      ],
+      [
+        45,
+        23
+      ],
+      [
+        42,
+        401
+      ]
+    ],
+    "created": "2015-01-28T08:43:15.594140+00:00",
+    "transformation_method": "affine",
+    "mapID": "19f4b81e-08e6-554e-945e-b65e817940ee",
+    "affine_transformation": null,
+    "changed": "2015-01-28T08:43:15.594140+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.306566919,
+          50.422961059
+        ],
+        "pixel": [
+          535,
+          136
+        ]
+      },
+      {
+        "location": [
+          22.982072802,
+          50.276798854
+        ],
+        "pixel": [
+          199,
+          358
+        ]
+      },
+      {
+        "location": [
+          23.153734179,
+          50.276711097
+        ],
+        "pixel": [
+          377,
+          358
+        ]
+      },
+      {
+        "location": [
+          23.09158419,
+          50.481232747
+        ],
+        "pixel": [
+          314,
+          50
+        ]
+      },
+      {
+        "location": [
+          22.862776715,
+          50.395302737
+        ],
+        "pixel": [
+          77,
+          178
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1914"]
+}

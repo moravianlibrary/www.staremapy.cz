@@ -1,0 +1,111 @@
+{
+  "date": ["1936"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:4456eeb6-9906-11ec-9e23-fa163e4ea95f?page=uuid%3A455dbc4a-9906-11ec-9e23-fa163e4ea95f",
+  "description": "Morava (Česko)",
+  "scale": 75000,
+  "external_id": "1292054",
+  "title": "Ratibor",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    17.707222,
+    49.90987,
+    18.483376,
+    50.28087
+  ],
+  "reviewed": null,
+  "publisher": "Reichsamt für Landesaufnahme",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:4456eeb6-9906-11ec-9e23-fa163e4ea95f",
+  "id": "32d7bdad-f2b4-5e0c-908a-6df161e44318",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:42:37.015130+00:00",
+    "transformation_method": "affine",
+    "mapID": "32d7bdad-f2b4-5e0c-908a-6df161e44318",
+    "affine_transformation": null,
+    "changed": "2023-05-08T12:03:04.267044+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.028981555,
+          50.049203661
+        ],
+        "pixel": [
+          248,
+          277
+        ]
+      },
+      {
+        "location": [
+          18.223560687,
+          50.223867424
+        ],
+        "pixel": [
+          400,
+          68
+        ]
+      },
+      {
+        "location": [
+          18.307974208,
+          50.040026233
+        ],
+        "pixel": [
+          465,
+          288
+        ]
+      },
+      {
+        "location": [
+          17.984177936,
+          50.159278449
+        ],
+        "pixel": [
+          214,
+          146
+        ]
+      },
+      {
+        "location": [
+          17.882432043,
+          50.19860371
+        ],
+        "pixel": [
+          136,
+          98
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1936"]
+}

@@ -1,0 +1,121 @@
+{
+  "date": ["1843"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:465d3f22-629b-11ec-83a4-fa163e4ea95f?page=uuid%3A476c8166-629b-11ec-83a4-fa163e4ea95f",
+  "description": "Jesenice (Praha-západ, Česko)",
+  "scale": 50600,
+  "external_id": "1087185",
+  "title": "Plan der Gegend von Jessenitz",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Schwihlik, F.",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.437176,
+    49.892254,
+    14.65069,
+    49.99052
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:465d3f22-629b-11ec-83a4-fa163e4ea95f",
+  "id": "9260c03e-374b-57fa-b093-aa716d39377e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2014-08-19T13:05:51.714640+00:00",
+    "transformation_method": "affine",
+    "mapID": "9260c03e-374b-57fa-b093-aa716d39377e",
+    "affine_transformation": null,
+    "changed": "2014-08-19T13:05:51.714640+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.632288444,
+          49.9222405
+        ],
+        "pixel": [
+          548,
+          308
+        ]
+      },
+      {
+        "location": [
+          14.514880761,
+          49.970049395
+        ],
+        "pixel": [
+          219,
+          93
+        ]
+      },
+      {
+        "location": [
+          14.556573018,
+          49.906687295
+        ],
+        "pixel": [
+          336,
+          378
+        ]
+      },
+      {
+        "location": [
+          14.458189592,
+          49.963300077
+        ],
+        "pixel": [
+          58,
+          123
+        ]
+      },
+      {
+        "location": [
+          14.575067735,
+          49.967071588
+        ],
+        "pixel": [
+          388,
+          105
+        ]
+      },
+      {
+        "location": [
+          14.50717566,
+          49.937719229
+        ],
+        "pixel": [
+          197,
+          238
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1843"]
+}

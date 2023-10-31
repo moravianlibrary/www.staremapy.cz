@@ -1,0 +1,101 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plana_M_73-2/ImageProperties.xml",
+  "description": null,
+  "scale": 5760,
+  "external_id": "15376",
+  "title": "Brouillon a záměrná mapa revíru Křínov",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.828401,
+    49.833344,
+    12.840727,
+    49.842583
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/15376",
+  "id": "d66baec6-ea7d-550b-8d1e-fc8d636d4b08",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        991,
+        4317
+      ],
+      [
+        769,
+        12080
+      ],
+      [
+        8449,
+        12080
+      ],
+      [
+        4337,
+        4518
+      ],
+      [
+        991,
+        4317
+      ]
+    ],
+    "created": "2015-02-27T12:12:33.054870+00:00",
+    "transformation_method": "affine",
+    "mapID": "d66baec6-ea7d-550b-8d1e-fc8d636d4b08",
+    "affine_transformation": null,
+    "changed": "2022-05-31T15:40:24.899950+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.836226225,
+          49.840630103
+        ],
+        "pixel": [
+          2811,
+          5921
+        ]
+      },
+      {
+        "location": [
+          12.837626338,
+          49.837208439
+        ],
+        "pixel": [
+          5075,
+          8849
+        ]
+      },
+      {
+        "location": [
+          12.834434509,
+          49.835897141
+        ],
+        "pixel": [
+          3788,
+          10302
+        ]
+      },
+      {
+        "location": [
+          12.835839987,
+          49.836319251
+        ],
+        "pixel": [
+          4296,
+          9918
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1830"]
+}

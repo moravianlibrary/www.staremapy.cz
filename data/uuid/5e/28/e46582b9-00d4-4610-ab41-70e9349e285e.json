@@ -1,0 +1,151 @@
+{
+  "date": ["1929"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.mzk.cz/search/iiif/uuid:e46582b9-00d4-4610-ab41-70e9349e285e/info.json",
+  "description": null,
+  "scale": 75000,
+  "external_id": "e46582b9-00d4-4610-ab41-70e9349e285e",
+  "title": "Slavkov u Brna",
+  "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.83141,
+    48.998928,
+    17.332035,
+    49.248917
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://www.digitalniknihovna.cz/mzk/view/uuid:f0e46730-a5fe-47f3-8fb7-523dc047a64d?page=uuid:e46582b9-00d4-4610-ab41-70e9349e285e",
+  "id": "213d9c41-45e5-51bb-a2e9-f12cd387b546",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        12896,
+        991
+      ],
+      [
+        12916,
+        9737
+      ],
+      [
+        1480,
+        9663
+      ],
+      [
+        1499,
+        920
+      ],
+      [
+        12896,
+        991
+      ]
+    ],
+    "created": "2018-12-19T14:27:52.977214+00:00",
+    "transformation_method": "affine",
+    "mapID": "213d9c41-45e5-51bb-a2e9-f12cd387b546",
+    "affine_transformation": null,
+    "changed": "2021-02-04T14:48:57.924441+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.261946106093678,
+          49.028309745421865
+        ],
+        "pixel": [
+          11304,
+          8704
+        ]
+      },
+      {
+        "location": [
+          17.20810006917608,
+          49.24805070032539
+        ],
+        "pixel": [
+          10077,
+          1007
+        ]
+      },
+      {
+        "location": [
+          17.269870148406962,
+          49.05251192648112
+        ],
+        "pixel": [
+          11504,
+          7863
+        ]
+      },
+      {
+        "location": [
+          17.206848484135406,
+          49.02604577041291
+        ],
+        "pixel": [
+          10048,
+          8766
+        ]
+      },
+      {
+        "location": [
+          16.869342462352687,
+          49.21420732373889
+        ],
+        "pixel": [
+          2335,
+          2133
+        ]
+      },
+      {
+        "location": [
+          17.318617403145904,
+          49.22664140737854
+        ],
+        "pixel": [
+          12590,
+          1770
+        ]
+      },
+      {
+        "location": [
+          16.919059464187914,
+          49.04074608668532
+        ],
+        "pixel": [
+          3489,
+          8224
+        ]
+      },
+      {
+        "location": [
+          16.939046793463106,
+          49.14492749316423
+        ],
+        "pixel": [
+          3933,
+          4581
+        ]
+      },
+      {
+        "location": [
+          16.87636712828163,
+          49.15561477538762
+        ],
+        "pixel": [
+          2483,
+          4182
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

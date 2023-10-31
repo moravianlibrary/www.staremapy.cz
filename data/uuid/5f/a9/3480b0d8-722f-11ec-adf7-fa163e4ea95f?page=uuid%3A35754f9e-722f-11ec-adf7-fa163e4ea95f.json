@@ -1,0 +1,111 @@
+{
+  "date": ["1808"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:3480b0d8-722f-11ec-adf7-fa163e4ea95f?page=uuid%3A35754f9e-722f-11ec-adf7-fa163e4ea95f",
+  "description": "Paříž (Francie)",
+  "scale": 51000,
+  "external_id": "1116055",
+  "title": "PLAN VON PARIS mit seinen nächsten Umgebungen",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    2.191446,
+    48.762188,
+    2.4663439,
+    48.906876
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:3480b0d8-722f-11ec-adf7-fa163e4ea95f",
+  "id": "9283d31b-d3de-584c-836d-ae1b220b9609",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2014-08-19T13:27:36.175530+00:00",
+    "transformation_method": "affine",
+    "mapID": "9283d31b-d3de-584c-836d-ae1b220b9609",
+    "affine_transformation": null,
+    "changed": "2014-08-19T13:27:36.175530+00:00",
+    "gcps": [
+      {
+        "location": [
+          2.352746619,
+          48.869577696
+        ],
+        "pixel": [
+          351,
+          105
+        ]
+      },
+      {
+        "location": [
+          2.294851358,
+          48.887450772
+        ],
+        "pixel": [
+          226,
+          56
+        ]
+      },
+      {
+        "location": [
+          2.243913306,
+          48.833714463
+        ],
+        "pixel": [
+          114,
+          230
+        ]
+      },
+      {
+        "location": [
+          2.355621947,
+          48.831398002
+        ],
+        "pixel": [
+          359,
+          231
+        ]
+      },
+      {
+        "location": [
+          2.382902577,
+          48.886173442
+        ],
+        "pixel": [
+          417,
+          52
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1808"]
+}

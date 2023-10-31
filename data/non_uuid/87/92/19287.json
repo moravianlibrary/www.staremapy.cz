@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Dlazkovice_M_12-3/ImageProperties.xml",
+  "description": null,
+  "scale": 4494,
+  "external_id": "19287",
+  "title": "Plán pozemků dvorů Podsedice a Neuland",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.003165,
+    50.42115,
+    14.023978,
+    50.429768
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/19287",
+  "id": "25cf5981-b394-5eec-acd4-b083277ef6f4",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        76,
+        3512
+      ],
+      [
+        4721,
+        3504
+      ],
+      [
+        4695,
+        1118
+      ],
+      [
+        50,
+        1143
+      ],
+      [
+        76,
+        3512
+      ]
+    ],
+    "created": "2014-12-23T10:51:23.545210+00:00",
+    "transformation_method": "affine",
+    "mapID": "25cf5981-b394-5eec-acd4-b083277ef6f4",
+    "affine_transformation": null,
+    "changed": "2014-12-23T10:51:23.545210+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.01116881988073,
+          50.42471362993177
+        ],
+        "pixel": [
+          1800,
+          2612
+        ]
+      },
+      {
+        "location": [
+          14.007799965358023,
+          50.425725236295136
+        ],
+        "pixel": [
+          1101,
+          2369
+        ]
+      },
+      {
+        "location": [
+          14.010452237,
+          50.425536765
+        ],
+        "pixel": [
+          1666,
+          2356
+        ]
+      },
+      {
+        "location": [
+          14.01016030929113,
+          50.426121670733096
+        ],
+        "pixel": [
+          1616,
+          2186
+        ]
+      },
+      {
+        "location": [
+          14.006061893916376,
+          50.42651810185234
+        ],
+        "pixel": [
+          644,
+          2129
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1855"]
+}

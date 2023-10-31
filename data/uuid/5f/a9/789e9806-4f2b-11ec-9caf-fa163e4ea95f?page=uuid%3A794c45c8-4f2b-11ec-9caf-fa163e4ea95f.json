@@ -1,0 +1,131 @@
+{
+  "date": ["1902"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:789e9806-4f2b-11ec-9caf-fa163e4ea95f?page=uuid%3A794c45c8-4f2b-11ec-9caf-fa163e4ea95f",
+  "description": "Buchlovice (Česko)",
+  "scale": 2880,
+  "external_id": "1016852",
+  "title": "Copie aus der Katastralmappe der Gemeinde Buchlowitz",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    17.306372,
+    49.102573,
+    17.316792,
+    49.11232
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:789e9806-4f2b-11ec-9caf-fa163e4ea95f",
+  "id": "5f230818-6dfa-57ec-b20c-72d3758ba5e4",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2013-10-17T15:03:11.152090+00:00",
+    "transformation_method": "affine",
+    "mapID": "5f230818-6dfa-57ec-b20c-72d3758ba5e4",
+    "affine_transformation": null,
+    "changed": "2013-10-17T15:03:11.152090+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.310724898,
+          49.107717051
+        ],
+        "pixel": [
+          251,
+          208
+        ]
+      },
+      {
+        "location": [
+          17.311036034,
+          49.106944458
+        ],
+        "pixel": [
+          267,
+          244
+        ]
+      },
+      {
+        "location": [
+          17.311910435,
+          49.107450156
+        ],
+        "pixel": [
+          320,
+          222
+        ]
+      },
+      {
+        "location": [
+          17.311728044,
+          49.108233276
+        ],
+        "pixel": [
+          309,
+          185
+        ]
+      },
+      {
+        "location": [
+          17.310177728,
+          49.107430842
+        ],
+        "pixel": [
+          220,
+          221
+        ]
+      },
+      {
+        "location": [
+          17.309941693,
+          49.107023474
+        ],
+        "pixel": [
+          204,
+          240
+        ]
+      },
+      {
+        "location": [
+          17.311567112,
+          49.108900499
+        ],
+        "pixel": [
+          299,
+          154
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1902"]
+}

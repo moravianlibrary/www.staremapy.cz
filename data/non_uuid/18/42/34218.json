@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/2350_8/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "34218",
+  "title": "Bez titulu: katastrální plán Kutná Hora",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.269144,
+    49.944626,
+    15.276888,
+    49.948723
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/34218",
+  "id": "96fdd3ce-159f-5ebd-9e65-c4bb2137fdb7",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        17916,
+        0
+      ],
+      [
+        17916,
+        14801
+      ],
+      [
+        0,
+        14801
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        17916,
+        0
+      ]
+    ],
+    "created": "2014-11-25T15:44:08.227830+00:00",
+    "transformation_method": "affine",
+    "mapID": "96fdd3ce-159f-5ebd-9e65-c4bb2137fdb7",
+    "affine_transformation": null,
+    "changed": "2014-11-25T15:44:08.227830+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.274347964,
+          49.945547681
+        ],
+        "pixel": [
+          12126,
+          11486
+        ]
+      },
+      {
+        "location": [
+          15.275248409,
+          49.947294945
+        ],
+        "pixel": [
+          14166,
+          5138
+        ]
+      },
+      {
+        "location": [
+          15.270728886,
+          49.946587287
+        ],
+        "pixel": [
+          3630,
+          7702
+        ]
+      },
+      {
+        "location": [
+          15.270853609,
+          49.948094929
+        ],
+        "pixel": [
+          3774,
+          2290
+        ]
+      },
+      {
+        "location": [
+          15.272445131,
+          49.948228588
+        ],
+        "pixel": [
+          7544,
+          1775
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

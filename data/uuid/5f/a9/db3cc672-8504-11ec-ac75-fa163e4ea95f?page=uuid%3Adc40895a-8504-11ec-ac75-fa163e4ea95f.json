@@ -1,0 +1,101 @@
+{
+  "date": ["1904"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:db3cc672-8504-11ec-ac75-fa163e4ea95f?page=uuid%3Adc40895a-8504-11ec-ac75-fa163e4ea95f",
+  "description": "Ukrajina",
+  "scale": 75000,
+  "external_id": "1180223",
+  "title": "Jaworów und Gródek",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Charlemont",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    23.330883,
+    49.747066,
+    23.833372,
+    50.00175
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:db3cc672-8504-11ec-ac75-fa163e4ea95f",
+  "id": "01708f54-d292-5e14-ae3e-f8fd893a5db8",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        37,
+        398
+      ],
+      [
+        565,
+        398
+      ],
+      [
+        565,
+        20
+      ],
+      [
+        37,
+        20
+      ],
+      [
+        37,
+        398
+      ]
+    ],
+    "created": "2017-03-05T18:17:04.530280+00:00",
+    "transformation_method": "affine",
+    "mapID": "01708f54-d292-5e14-ae3e-f8fd893a5db8",
+    "affine_transformation": null,
+    "changed": "2023-02-01T10:58:04.896585+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.63925045,
+          49.782698557
+        ],
+        "pixel": [
+          361,
+          346
+        ]
+      },
+      {
+        "location": [
+          23.383904152,
+          49.944716993
+        ],
+        "pixel": [
+          93,
+          104
+        ]
+      },
+      {
+        "location": [
+          23.373861961,
+          49.786653989
+        ],
+        "pixel": [
+          79,
+          339
+        ]
+      },
+      {
+        "location": [
+          23.737097435,
+          49.914383808
+        ],
+        "pixel": [
+          466,
+          150
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1904"]
+}

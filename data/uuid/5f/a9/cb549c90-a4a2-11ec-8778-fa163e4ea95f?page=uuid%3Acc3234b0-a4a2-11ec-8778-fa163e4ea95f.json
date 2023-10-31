@@ -1,0 +1,101 @@
+{
+  "date": ["1941"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:cb549c90-a4a2-11ec-8778-fa163e4ea95f?page=uuid%3Acc3234b0-a4a2-11ec-8778-fa163e4ea95f",
+  "description": "Ruská SFSR",
+  "scale": 100000,
+  "external_id": "1337349",
+  "title": "RSFSR",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    32.499638,
+    55.000294,
+    32.998337,
+    55.334545
+  ],
+  "reviewed": null,
+  "publisher": "General'nyj štab Krasnoj Armii",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:cb549c90-a4a2-11ec-8778-fa163e4ea95f",
+  "id": "6494a45f-55b4-5a46-89ef-9818e98a4e45",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        52,
+        375
+      ],
+      [
+        526,
+        375
+      ],
+      [
+        523,
+        39
+      ],
+      [
+        55,
+        39
+      ],
+      [
+        52,
+        375
+      ]
+    ],
+    "created": "2017-04-14T15:19:36.674310+00:00",
+    "transformation_method": "affine",
+    "mapID": "6494a45f-55b4-5a46-89ef-9818e98a4e45",
+    "affine_transformation": null,
+    "changed": "2017-04-14T15:19:36.674310+00:00",
+    "gcps": [
+      {
+        "location": [
+          32.652560835,
+          55.292161027
+        ],
+        "pixel": [
+          198,
+          82
+        ]
+      },
+      {
+        "location": [
+          32.91076088,
+          55.0789498
+        ],
+        "pixel": [
+          443,
+          296
+        ]
+      },
+      {
+        "location": [
+          32.857460022,
+          55.226960132
+        ],
+        "pixel": [
+          393,
+          148
+        ]
+      },
+      {
+        "location": [
+          32.701248169,
+          55.070104786
+        ],
+        "pixel": [
+          244,
+          305
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1941"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:fca351b6-b4fa-11ec-b3c1-fa163e4ea95f?page=uuid%3Afd49c2da-b4fa-11ec-b3c1-fa163e4ea95f",
+  "description": "Nowy Sącz (Polsko)",
+  "scale": 100000,
+  "external_id": "1390155",
+  "title": "Nowy Sącz",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    20.333084,
+    49.50012,
+    20.8318,
+    49.74808
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:fca351b6-b4fa-11ec-b3c1-fa163e4ea95f",
+  "id": "b923c615-08e5-5fa1-b2c7-9ffd78b2323f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        487,
+        45
+      ],
+      [
+        490,
+        374
+      ],
+      [
+        58,
+        371
+      ],
+      [
+        57,
+        46
+      ],
+      [
+        487,
+        45
+      ]
+    ],
+    "created": "2016-01-08T13:42:31.322280+00:00",
+    "transformation_method": "affine",
+    "mapID": "b923c615-08e5-5fa1-b2c7-9ffd78b2323f",
+    "affine_transformation": null,
+    "changed": "2016-01-08T13:42:31.322280+00:00",
+    "gcps": [
+      {
+        "location": [
+          20.400048993,
+          49.516916013
+        ],
+        "pixel": [
+          114,
+          351
+        ]
+      },
+      {
+        "location": [
+          20.66929628918766,
+          49.58018548182565
+        ],
+        "pixel": [
+          349,
+          267
+        ]
+      },
+      {
+        "location": [
+          20.772999513656327,
+          49.687813924101135
+        ],
+        "pixel": [
+          439,
+          125
+        ]
+      },
+      {
+        "location": [
+          20.687925122,
+          49.631765901
+        ],
+        "pixel": [
+          365,
+          199
+        ]
+      },
+      {
+        "location": [
+          20.420562527,
+          49.708173136
+        ],
+        "pixel": [
+          133,
+          98
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

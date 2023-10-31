@@ -1,0 +1,91 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plasy_M_123_4/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "20498",
+  "title": "Katastrální mapa obce Hromnice",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.400971,
+    49.854366,
+    13.484534,
+    49.87547
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/20498",
+  "id": "9ead62d8-d052-5278-ad9b-167385228f80",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        995,
+        12154
+      ],
+      [
+        3715,
+        12154
+      ],
+      [
+        3715,
+        6410
+      ],
+      [
+        995,
+        6410
+      ],
+      [
+        995,
+        12154
+      ]
+    ],
+    "created": "2015-01-22T00:23:29.875610+00:00",
+    "transformation_method": "affine",
+    "mapID": "9ead62d8-d052-5278-ad9b-167385228f80",
+    "affine_transformation": null,
+    "changed": "2015-01-22T00:23:29.875610+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.434537628,
+          49.86850597
+        ],
+        "pixel": [
+          1416,
+          8327
+        ]
+      },
+      {
+        "location": [
+          13.47378371,
+          49.872807037
+        ],
+        "pixel": [
+          3320,
+          7047
+        ]
+      },
+      {
+        "location": [
+          13.420804718,
+          49.858547046
+        ],
+        "pixel": [
+          1768,
+          11079
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1871"]
+}

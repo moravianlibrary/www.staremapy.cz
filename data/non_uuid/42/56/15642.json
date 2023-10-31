@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Tynec_M_31-1/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "15642",
+  "title": "Katastrální mapa obce Těšetiny",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.346963,
+    49.345165,
+    13.375293,
+    49.358456
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/15642",
+  "id": "9bd5417c-0f77-5fc4-a4d8-9060e6956132",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        976,
+        14512
+      ],
+      [
+        17584,
+        14512
+      ],
+      [
+        17584,
+        2768
+      ],
+      [
+        976,
+        2768
+      ],
+      [
+        976,
+        14512
+      ]
+    ],
+    "created": "2015-09-08T12:36:45.661400+00:00",
+    "transformation_method": "affine",
+    "mapID": "9bd5417c-0f77-5fc4-a4d8-9060e6956132",
+    "affine_transformation": null,
+    "changed": "2015-09-08T12:36:45.661400+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.36770424,
+          49.356354495
+        ],
+        "pixel": [
+          13211,
+          4568
+        ]
+      },
+      {
+        "location": [
+          13.350758044,
+          49.347744213
+        ],
+        "pixel": [
+          3075,
+          12188
+        ]
+      },
+      {
+        "location": [
+          13.364423899,
+          49.347637623
+        ],
+        "pixel": [
+          11192,
+          12464
+        ]
+      },
+      {
+        "location": [
+          13.355382172,
+          49.354967307
+        ],
+        "pixel": [
+          5940,
+          5754
+        ]
+      },
+      {
+        "location": [
+          13.363492064,
+          49.348752746
+        ],
+        "pixel": [
+          10642,
+          11445
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1888"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": ["1926"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:c308848e-7964-11ec-aa15-fa163e4ea95f?page=uuid%3Ac3d56120-7964-11ec-aa15-fa163e4ea95f",
+  "description": "Maďarsko",
+  "scale": 75000,
+  "external_id": "1125608",
+  "title": "Beretka a Szendrö",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    20.331312,
+    48.24878,
+    20.832811,
+    48.497963
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:c308848e-7964-11ec-aa15-fa163e4ea95f",
+  "id": "a9480f71-434c-5fee-8734-47c1cab0f2c3",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        47,
+        398
+      ],
+      [
+        557,
+        399
+      ],
+      [
+        557,
+        36
+      ],
+      [
+        48,
+        36
+      ],
+      [
+        47,
+        398
+      ]
+    ],
+    "created": "2015-01-09T07:13:21.574030+00:00",
+    "transformation_method": "affine",
+    "mapID": "a9480f71-434c-5fee-8734-47c1cab0f2c3",
+    "affine_transformation": null,
+    "changed": "2015-01-09T07:13:21.574030+00:00",
+    "gcps": [
+      {
+        "location": [
+          20.516247315,
+          48.406692582
+        ],
+        "pixel": [
+          237,
+          169
+        ]
+      },
+      {
+        "location": [
+          20.690321834,
+          48.497130284
+        ],
+        "pixel": [
+          414,
+          37
+        ]
+      },
+      {
+        "location": [
+          20.429553599,
+          48.287031587
+        ],
+        "pixel": [
+          147,
+          343
+        ]
+      },
+      {
+        "location": [
+          20.792766337,
+          48.250675635
+        ],
+        "pixel": [
+          516,
+          397
+        ]
+      },
+      {
+        "location": [
+          20.336996792,
+          48.309074507
+        ],
+        "pixel": [
+          52,
+          311
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1926"]
+}

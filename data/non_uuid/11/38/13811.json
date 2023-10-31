@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_pardubice_309_2/ImageProperties.xml",
+  "description": null,
+  "scale": 3110,
+  "external_id": "13811",
+  "title": "Koncept mapy kostelních pozemků u Živanic",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    5.0618935,
+    23.352114,
+    28.035736,
+    63.938957
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/13811",
+  "id": "38e9fcf8-bbfc-53d9-805e-ea3366b43f13",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        13346,
+        0
+      ],
+      [
+        13346,
+        9757
+      ],
+      [
+        0,
+        9757
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        13346,
+        0
+      ]
+    ],
+    "created": "2014-11-25T18:41:14.946260+00:00",
+    "transformation_method": "affine",
+    "mapID": "38e9fcf8-bbfc-53d9-805e-ea3366b43f13",
+    "affine_transformation": null,
+    "changed": "2023-08-31T11:04:25.576281+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.549569333451768,
+          50.13864842303374
+        ],
+        "pixel": [
+          8632,
+          4657
+        ]
+      },
+      {
+        "location": [
+          17.64807131141424,
+          45.02285807840343
+        ],
+        "pixel": [
+          7207,
+          3173
+        ]
+      },
+      {
+        "location": [
+          17.613444575380548,
+          44.89202519084208
+        ],
+        "pixel": [
+          4775,
+          5283
+        ]
+      },
+      {
+        "location": [
+          17.2814268709772,
+          49.48393257984188
+        ],
+        "pixel": [
+          59618,
+          -41357
+        ]
+      },
+      {
+        "location": [
+          12.80589571179019,
+          52.78908550205165
+        ],
+        "pixel": [
+          9281,
+          5623
+        ]
+      },
+      {
+        "location": [
+          17.248811209356106,
+          49.48136751247594
+        ],
+        "pixel": [
+          13346,
+          0
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1807"]
+}

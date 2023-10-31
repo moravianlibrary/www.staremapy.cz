@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/Vs_Litomysl_028_V/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "31539",
+  "title": "Indikační skica mapy stabilního katastru pro obec Lezník a osadu Haná V",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.269375,
+    49.733295,
+    16.303036,
+    49.7509
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/31539",
+  "id": "1cda89b4-4cf9-59ee-956c-d7b6204b619e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        18837,
+        0
+      ],
+      [
+        18837,
+        15236
+      ],
+      [
+        0,
+        15236
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        18837,
+        0
+      ]
+    ],
+    "created": "2014-11-25T19:15:27.873510+00:00",
+    "transformation_method": "affine",
+    "mapID": "1cda89b4-4cf9-59ee-956c-d7b6204b619e",
+    "affine_transformation": null,
+    "changed": "2014-11-25T19:15:27.873510+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.285333156,
+          49.745779677
+        ],
+        "pixel": [
+          8856,
+          4324
+        ]
+      },
+      {
+        "location": [
+          16.280902147,
+          49.742340905
+        ],
+        "pixel": [
+          6376,
+          7372
+        ]
+      },
+      {
+        "location": [
+          16.274547733,
+          49.742667882
+        ],
+        "pixel": [
+          2839,
+          7384
+        ]
+      },
+      {
+        "location": [
+          16.290550944,
+          49.745072036
+        ],
+        "pixel": [
+          11863,
+          4896
+        ]
+      },
+      {
+        "location": [
+          16.292060137,
+          49.741467308
+        ],
+        "pixel": [
+          12745,
+          8116
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

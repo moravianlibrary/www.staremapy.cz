@@ -1,0 +1,111 @@
+{
+  "date": ["1911"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:88acd892-9e3c-11ec-8267-fa163e4ea95f?page=uuid%3A89959fc8-9e3c-11ec-8267-fa163e4ea95f",
+  "description": null,
+  "scale": 200000,
+  "external_id": "1304659",
+  "title": "39°40° Janina",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    20.7211,
+    39.398064,
+    21.936106,
+    40.622112
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:88acd892-9e3c-11ec-8267-fa163e4ea95f",
+  "id": "dde0e1a5-890f-58d5-a5e2-a3815a116b56",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:51:12.539990+00:00",
+    "transformation_method": "affine",
+    "mapID": "dde0e1a5-890f-58d5-a5e2-a3815a116b56",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:51:12.539990+00:00",
+    "gcps": [
+      {
+        "location": [
+          20.85712597919094,
+          39.67052954950691
+        ],
+        "pixel": [
+          61,
+          345
+        ]
+      },
+      {
+        "location": [
+          21.767470748712228,
+          39.55485049527539
+        ],
+        "pixel": [
+          516,
+          388
+        ]
+      },
+      {
+        "location": [
+          21.4263903113331,
+          40.08384957159555
+        ],
+        "pixel": [
+          355,
+          194
+        ]
+      },
+      {
+        "location": [
+          21.282076969726564,
+          40.50405921503108
+        ],
+        "pixel": [
+          281,
+          45
+        ]
+      },
+      {
+        "location": [
+          21.78830637036134,
+          40.30026307276498
+        ],
+        "pixel": [
+          537,
+          117
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1911"]
+}

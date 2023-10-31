@@ -1,0 +1,111 @@
+{
+  "date": ["1914"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:578c15c2-9e53-11ec-aa7d-fa163e4ea95f?page=uuid%3A583c2908-9e53-11ec-aa7d-fa163e4ea95f",
+  "description": "Ukrajina",
+  "scale": 75000,
+  "external_id": "1305301",
+  "title": "Tuchla",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    23.284851,
+    48.72256,
+    23.860662,
+    49.01754
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:578c15c2-9e53-11ec-aa7d-fa163e4ea95f",
+  "id": "162cb58f-a5ca-5556-ae52-0c39f16f2abb",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:52:40.441800+00:00",
+    "transformation_method": "affine",
+    "mapID": "162cb58f-a5ca-5556-ae52-0c39f16f2abb",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:52:40.441800+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.474295026,
+          48.908084489
+        ],
+        "pixel": [
+          197,
+          165
+        ]
+      },
+      {
+        "location": [
+          23.445455914,
+          48.848560677
+        ],
+        "pixel": [
+          167,
+          254
+        ]
+      },
+      {
+        "location": [
+          23.804271107,
+          48.96207155
+        ],
+        "pixel": [
+          541,
+          84
+        ]
+      },
+      {
+        "location": [
+          23.770508906,
+          48.791929097
+        ],
+        "pixel": [
+          506,
+          339
+        ]
+      },
+      {
+        "location": [
+          23.460997595,
+          48.992769272
+        ],
+        "pixel": [
+          184,
+          36
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1914"]
+}

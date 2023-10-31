@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/0593_1/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "18258",
+  "title": "Plán Prahy a okolí",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.41696,
+    50.072914,
+    14.423697,
+    50.07985
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/18258",
+  "id": "59b7cf5f-792f-5844-afc7-b15d75976b22",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        4666,
+        5886
+      ],
+      [
+        5488,
+        5886
+      ],
+      [
+        5488,
+        4694
+      ],
+      [
+        4666,
+        4694
+      ],
+      [
+        4666,
+        5886
+      ]
+    ],
+    "created": "2016-12-06T11:08:02.155420+00:00",
+    "transformation_method": "affine",
+    "mapID": "59b7cf5f-792f-5844-afc7-b15d75976b22",
+    "affine_transformation": null,
+    "changed": "2016-12-06T11:08:02.155420+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.421390295,
+          50.078099301
+        ],
+        "pixel": [
+          5210,
+          4980
+        ]
+      },
+      {
+        "location": [
+          14.420896769,
+          50.075744521
+        ],
+        "pixel": [
+          5150,
+          5388
+        ]
+      },
+      {
+        "location": [
+          14.420778751,
+          50.075586154
+        ],
+        "pixel": [
+          5130,
+          5452
+        ]
+      },
+      {
+        "location": [
+          14.419384003,
+          50.078491753
+        ],
+        "pixel": [
+          4962,
+          4900
+        ]
+      },
+      {
+        "location": [
+          14.421368837,
+          50.077438322
+        ],
+        "pixel": [
+          5200,
+          5126
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

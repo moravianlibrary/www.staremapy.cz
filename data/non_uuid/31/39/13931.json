@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Kout_na_Sumave_M_59/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "13931",
+  "title": "Mapa panských pozemků v katastru obce Spálenec",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.877177,
+    49.364693,
+    12.887178,
+    49.37024
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/13931",
+  "id": "2e7a4944-a04c-54be-b666-2c8c225b8865",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        725,
+        7347
+      ],
+      [
+        6669,
+        7347
+      ],
+      [
+        6669,
+        2347
+      ],
+      [
+        725,
+        2347
+      ],
+      [
+        725,
+        7347
+      ]
+    ],
+    "created": "2016-04-03T08:53:48.806160+00:00",
+    "transformation_method": "affine",
+    "mapID": "2e7a4944-a04c-54be-b666-2c8c225b8865",
+    "affine_transformation": null,
+    "changed": "2016-04-03T08:53:48.806160+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.88311851,
+          49.365778065
+        ],
+        "pixel": [
+          4278,
+          6395
+        ]
+      },
+      {
+        "location": [
+          12.882710969,
+          49.370033559
+        ],
+        "pixel": [
+          3952,
+          2424
+        ]
+      },
+      {
+        "location": [
+          12.881149769,
+          49.366515179
+        ],
+        "pixel": [
+          3126,
+          5727
+        ]
+      },
+      {
+        "location": [
+          12.880420208,
+          49.367164948
+        ],
+        "pixel": [
+          2662,
+          5123
+        ]
+      },
+      {
+        "location": [
+          12.882844925,
+          49.364978057
+        ],
+        "pixel": [
+          4086,
+          7215
+        ]
+      },
+      {
+        "location": [
+          12.886449205,
+          49.368807019
+        ],
+        "pixel": [
+          6272,
+          3704
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1932"]
+}

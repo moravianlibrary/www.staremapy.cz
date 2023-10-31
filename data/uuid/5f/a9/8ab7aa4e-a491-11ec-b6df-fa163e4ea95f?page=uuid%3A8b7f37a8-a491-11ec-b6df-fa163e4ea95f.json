@@ -1,0 +1,111 @@
+{
+  "date": ["1929"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:8ab7aa4e-a491-11ec-b6df-fa163e4ea95f?page=uuid%3A8b7f37a8-a491-11ec-b6df-fa163e4ea95f",
+  "description": "Příbram (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1336875",
+  "title": "Příbram",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.78568,
+    49.466988,
+    14.382783,
+    49.774006
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:8ab7aa4e-a491-11ec-b6df-fa163e4ea95f",
+  "id": "c93f4145-8a68-5e4d-b20c-f5dc76918f22",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        551,
+        37
+      ],
+      [
+        552,
+        397
+      ],
+      [
+        49,
+        397
+      ],
+      [
+        51,
+        37
+      ],
+      [
+        551,
+        37
+      ]
+    ],
+    "created": "2015-11-05T17:23:46.443990+00:00",
+    "transformation_method": "affine",
+    "mapID": "c93f4145-8a68-5e4d-b20c-f5dc76918f22",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:23:46.443990+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.308486361592253,
+          49.542526123611964
+        ],
+        "pixel": [
+          526,
+          334
+        ]
+      },
+      {
+        "location": [
+          13.918553791992572,
+          49.531602374705585
+        ],
+        "pixel": [
+          133,
+          350
+        ]
+      },
+      {
+        "location": [
+          14.32143516652674,
+          49.67621058654038
+        ],
+        "pixel": [
+          538,
+          142
+        ]
+      },
+      {
+        "location": [
+          14.02907334244381,
+          49.51151217161794
+        ],
+        "pixel": [
+          245,
+          379
+        ]
+      },
+      {
+        "location": [
+          14.049656054807453,
+          49.69407994141463
+        ],
+        "pixel": [
+          266,
+          115
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1929"]
+}

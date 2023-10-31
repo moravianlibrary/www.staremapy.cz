@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/4926_07/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "46113",
+  "title": "Meyers neuer Volksatlas",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.100748,
+    49.64124,
+    13.689564,
+    49.87459
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/46113",
+  "id": "de55362d-4b94-5bbe-8657-8248106dacc2",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        175,
+        5864
+      ],
+      [
+        16053,
+        5804
+      ],
+      [
+        16114,
+        105
+      ],
+      [
+        84,
+        13
+      ],
+      [
+        175,
+        5864
+      ]
+    ],
+    "created": "2017-04-30T11:43:44.494900+00:00",
+    "transformation_method": "affine",
+    "mapID": "de55362d-4b94-5bbe-8657-8248106dacc2",
+    "affine_transformation": null,
+    "changed": "2017-04-30T11:43:44.494900+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.377394281,
+          49.759121973
+        ],
+        "pixel": [
+          4336,
+          2908
+        ]
+      },
+      {
+        "location": [
+          13.528456251,
+          49.754056079
+        ],
+        "pixel": [
+          14332,
+          2725
+        ]
+      },
+      {
+        "location": [
+          13.32573108,
+          49.819920072
+        ],
+        "pixel": [
+          2721,
+          1537
+        ]
+      },
+      {
+        "location": [
+          13.405512423,
+          49.706711943
+        ],
+        "pixel": [
+          11955,
+          4432
+        ]
+      },
+      {
+        "location": [
+          13.215867799,
+          49.706711943
+        ],
+        "pixel": [
+          3178,
+          4127
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

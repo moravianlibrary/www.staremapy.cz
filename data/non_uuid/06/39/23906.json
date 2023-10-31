@@ -1,0 +1,117 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_pardubice_333_adX/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "23906",
+  "title": "Indikační skica mapy stabilního katastru pro obec Čeperka X.",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.783941,
+    50.092415,
+    15.790632,
+    50.099636
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/23906",
+  "id": "c167fec8-34f9-5e60-baf0-0c3123af144c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        165,
+        6151
+      ],
+      [
+        885,
+        6231
+      ],
+      [
+        1591,
+        5739
+      ],
+      [
+        1952,
+        4509
+      ],
+      [
+        2241,
+        4487
+      ],
+      [
+        4013,
+        1111
+      ],
+      [
+        4029,
+        439
+      ],
+      [
+        197,
+        415
+      ],
+      [
+        165,
+        6151
+      ]
+    ],
+    "created": "2015-04-27T21:10:30.609670+00:00",
+    "transformation_method": "affine",
+    "mapID": "c167fec8-34f9-5e60-baf0-0c3123af144c",
+    "affine_transformation": null,
+    "changed": "2023-08-14T12:54:18.334430+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.784765343,
+          50.09261087
+        ],
+        "pixel": [
+          672,
+          6152
+        ]
+      },
+      {
+        "location": [
+          15.786670247965857,
+          50.09438976625228
+        ],
+        "pixel": [
+          1833,
+          4367
+        ]
+      },
+      {
+        "location": [
+          15.787275315905909,
+          50.09438882459344
+        ],
+        "pixel": [
+          2176,
+          4392
+        ]
+      },
+      {
+        "location": [
+          15.790416826896568,
+          50.098186151468724
+        ],
+        "pixel": [
+          3920,
+          984
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

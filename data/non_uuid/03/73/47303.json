@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/5766/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "47303",
+  "title": "Geologická mapa okolí Pražského",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.037446,
+    49.899616,
+    14.817728,
+    50.26491
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/47303",
+  "id": "a38107c4-99df-543a-b65a-96d22ebe6f37",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1573,
+        12212
+      ],
+      [
+        16293,
+        12212
+      ],
+      [
+        16293,
+        1972
+      ],
+      [
+        1573,
+        1972
+      ],
+      [
+        1573,
+        12212
+      ]
+    ],
+    "created": "2015-02-25T18:45:59.058560+00:00",
+    "transformation_method": "affine",
+    "mapID": "a38107c4-99df-543a-b65a-96d22ebe6f37",
+    "affine_transformation": null,
+    "changed": "2015-02-25T18:45:59.058560+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.413701175,
+          50.086173808
+        ],
+        "pixel": [
+          8649,
+          7064
+        ]
+      },
+      {
+        "location": [
+          14.779186107,
+          49.932567048
+        ],
+        "pixel": [
+          15594,
+          11222
+        ]
+      },
+      {
+        "location": [
+          14.083700038,
+          50.231549497
+        ],
+        "pixel": [
+          2399,
+          2859
+        ]
+      },
+      {
+        "location": [
+          14.101534961,
+          49.949262649
+        ],
+        "pixel": [
+          2798,
+          10987
+        ]
+      },
+      {
+        "location": [
+          14.753866054,
+          50.162181876
+        ],
+        "pixel": [
+          15119,
+          4773
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

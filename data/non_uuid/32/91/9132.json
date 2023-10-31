@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1787/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "9132",
+  "title": "Záblatí o. Jindřichův Hradec 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.656693,
+    49.099674,
+    14.685415,
+    49.11502
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/9132",
+  "id": "d4b97e30-98dd-5290-8180-a153aae11a69",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        258,
+        14042
+      ],
+      [
+        16962,
+        14042
+      ],
+      [
+        16962,
+        282
+      ],
+      [
+        258,
+        282
+      ],
+      [
+        258,
+        14042
+      ]
+    ],
+    "created": "2016-02-13T12:26:24.888910+00:00",
+    "transformation_method": "affine",
+    "mapID": "d4b97e30-98dd-5290-8180-a153aae11a69",
+    "affine_transformation": null,
+    "changed": "2016-02-13T12:26:24.888910+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.678446889,
+          49.113232559
+        ],
+        "pixel": [
+          12896,
+          1872
+        ]
+      },
+      {
+        "location": [
+          14.67543745,
+          49.111691045
+        ],
+        "pixel": [
+          11142,
+          3242
+        ]
+      },
+      {
+        "location": [
+          14.680914521,
+          49.112797148
+        ],
+        "pixel": [
+          14372,
+          2287
+        ]
+      },
+      {
+        "location": [
+          14.682287812,
+          49.111389058
+        ],
+        "pixel": [
+          15136,
+          3546
+        ]
+      },
+      {
+        "location": [
+          14.658920408,
+          49.103002893
+        ],
+        "pixel": [
+          1549,
+          11044
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1838"]
+}

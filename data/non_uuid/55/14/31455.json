@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/Vs_Litomysl_008_XI/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "31455",
+  "title": "Indikační skica mapy stabilního katastru pro obec Dolní Újezd a osady Jiříkov a Václavky XI",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.273485,
+    49.78998,
+    16.300749,
+    49.804058
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/31455",
+  "id": "db0c5124-93d4-5520-8351-a5a417b8c108",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1307,
+        13979
+      ],
+      [
+        16405,
+        13925
+      ],
+      [
+        16475,
+        1689
+      ],
+      [
+        1341,
+        1713
+      ],
+      [
+        1307,
+        13979
+      ]
+    ],
+    "created": "2015-01-31T15:31:00.366550+00:00",
+    "transformation_method": "affine",
+    "mapID": "db0c5124-93d4-5520-8351-a5a417b8c108",
+    "affine_transformation": null,
+    "changed": "2015-01-31T15:31:00.366550+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.285841575,
+          49.800392985
+        ],
+        "pixel": [
+          8031,
+          4879
+        ]
+      },
+      {
+        "location": [
+          16.287214865,
+          49.790807901
+        ],
+        "pixel": [
+          9218,
+          13338
+        ]
+      },
+      {
+        "location": [
+          16.29897367,
+          49.794887334
+        ],
+        "pixel": [
+          15746,
+          9746
+        ]
+      },
+      {
+        "location": [
+          16.29767548,
+          49.797151998
+        ],
+        "pixel": [
+          14954,
+          7402
+        ]
+      },
+      {
+        "location": [
+          16.291924824,
+          49.790641669
+        ],
+        "pixel": [
+          11762,
+          13394
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

@@ -1,0 +1,119 @@
+{
+  "date": ["1938"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.mzk.cz/search/iiif/uuid:0e29c370-e5a6-11e8-9445-5ef3fc9bb22f/info.json",
+  "description": null,
+  "scale": 25000,
+  "external_id": "0e29c370-e5a6-11e8-9445-5ef3fc9bb22f",
+  "title": "Haguenau",
+  "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    7.735662,
+    48.868717,
+    7.918676,
+    48.96078
+  ],
+  "reviewed": null,
+  "publisher": "Generalstab des Heeres",
+  "link_url": "https://www.digitalniknihovna.cz/mzk/view/uuid:197c8ea0-d2bf-11e8-bc37-005056827e51?page=uuid:0e29c370-e5a6-11e8-9445-5ef3fc9bb22f",
+  "id": "e9e7d2da-89cc-5279-9142-e0f76222ba91",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        13923,
+        1499
+      ],
+      [
+        13905,
+        10456
+      ],
+      [
+        7977,
+        10481
+      ],
+      [
+        3017,
+        10492
+      ],
+      [
+        1264,
+        10455
+      ],
+      [
+        1324,
+        1520
+      ],
+      [
+        13923,
+        1499
+      ]
+    ],
+    "created": "2018-12-19T14:27:52.977214+00:00",
+    "transformation_method": "affine",
+    "mapID": "e9e7d2da-89cc-5279-9142-e0f76222ba91",
+    "affine_transformation": null,
+    "changed": "2021-02-12T11:15:17.957231+00:00",
+    "gcps": [
+      {
+        "location": [
+          7.789463714823235,
+          48.886492514782816
+        ],
+        "pixel": [
+          4993,
+          8760
+        ]
+      },
+      {
+        "location": [
+          7.901257961846412,
+          48.8988792538849
+        ],
+        "pixel": [
+          12733,
+          7528
+        ]
+      },
+      {
+        "location": [
+          7.764235502395087,
+          48.91556129168927
+        ],
+        "pixel": [
+          3254,
+          5920
+        ]
+      },
+      {
+        "location": [
+          7.905082768369967,
+          48.92660694368644
+        ],
+        "pixel": [
+          12990,
+          4808
+        ]
+      },
+      {
+        "location": [
+          7.768523254894583,
+          48.95250554603746
+        ],
+        "pixel": [
+          3597,
+          2326
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

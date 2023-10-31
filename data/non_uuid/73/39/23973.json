@@ -1,0 +1,115 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_pardubice_346_adII/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "23973",
+  "title": "Indikační skica mapy stabilního katastru pro obec Hoděšovice ad II.",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.884918,
+    50.14734,
+    15.893,
+    50.16329
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/23973",
+  "id": "b9acbfc8-ba22-53f8-9e84-076a28c613ca",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        3818,
+        3176
+      ],
+      [
+        754,
+        3880
+      ],
+      [
+        986,
+        4928
+      ],
+      [
+        1114,
+        13608
+      ],
+      [
+        4098,
+        13528
+      ],
+      [
+        3818,
+        3176
+      ]
+    ],
+    "created": "2015-04-22T04:19:55.568050+00:00",
+    "transformation_method": "affine",
+    "mapID": "b9acbfc8-ba22-53f8-9e84-076a28c613ca",
+    "affine_transformation": null,
+    "changed": "2015-04-22T04:19:55.568050+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.887787006,
+          50.162439136
+        ],
+        "pixel": [
+          1165,
+          4030
+        ]
+      },
+      {
+        "location": [
+          15.890533588,
+          50.162741549
+        ],
+        "pixel": [
+          2578,
+          3615
+        ]
+      },
+      {
+        "location": [
+          15.887722633,
+          50.161600619
+        ],
+        "pixel": [
+          1210,
+          4535
+        ]
+      },
+      {
+        "location": [
+          15.889181754,
+          50.162672819
+        ],
+        "pixel": [
+          1866,
+          3775
+        ]
+      },
+      {
+        "location": [
+          15.891863963,
+          50.162837771
+        ],
+        "pixel": [
+          3266,
+          3559
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1840"]
+}

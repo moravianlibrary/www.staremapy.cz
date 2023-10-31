@@ -1,0 +1,119 @@
+{
+  "date": [null],
+  "creator": "Škorpil, František Bohumil",
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.mzk.cz/search/iiif/uuid:27f77ea0-f879-11e4-8ded-5ef3fc9ae867/info.json",
+  "description": "mapa z monografie: F.B. Škorpila Zeměpisný atlas pro měšťanské školy, strana: 14",
+  "scale": null,
+  "external_id": "uuid:27f77ea0-f879-11e4-8ded-5ef3fc9ae867",
+  "title": "F.B. Škorpila Zeměpisný atlas pro měšťanské školy, mapa ze strany: 14",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:32f496d0-c624-11e4-9541-005056827e51?page=uuid:27f77ea0-f879-11e4-8ded-5ef3fc9ae867",
+  "georeference_is_finished": true,
+  "bounds": [
+    1.7374394,
+    49.027065,
+    12.804173,
+    53.874187
+  ],
+  "reviewed": null,
+  "publisher": "Státní nakladatelství",
+  "link_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:32f496d0-c624-11e4-9541-005056827e51?page=uuid:27f77ea0-f879-11e4-8ded-5ef3fc9ae867",
+  "id": "a1f70b0b-43a0-49b1-886c-5369f89d2f4b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        4339,
+        3063
+      ],
+      [
+        4339,
+        3636
+      ],
+      [
+        4752,
+        3637
+      ],
+      [
+        4757,
+        3397
+      ],
+      [
+        4812,
+        3312
+      ],
+      [
+        4810,
+        3060
+      ],
+      [
+        4339,
+        3063
+      ]
+    ],
+    "created": "2022-06-24T20:45:46.060985+00:00",
+    "transformation_method": "affine",
+    "mapID": "a1f70b0b-43a0-49b1-886c-5369f89d2f4b",
+    "affine_transformation": null,
+    "changed": "2022-10-07T09:47:02.991767+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.773932525867048,
+          55.29887428117948
+        ],
+        "pixel": [
+          4375,
+          3485
+        ]
+      },
+      {
+        "location": [
+          14.686728546374862,
+          55.094689948646874
+        ],
+        "pixel": [
+          4652,
+          3550
+        ]
+      },
+      {
+        "location": [
+          15.076743194812362,
+          54.98649262692959
+        ],
+        "pixel": [
+          4781,
+          3283
+        ]
+      },
+      {
+        "location": [
+          14.970313141101427,
+          55.21278209134459
+        ],
+        "pixel": [
+          4491,
+          3352
+        ]
+      },
+      {
+        "location": [
+          15.137167999499862,
+          55.14298911405464
+        ],
+        "pixel": [
+          4582,
+          3227
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1934"]
+}

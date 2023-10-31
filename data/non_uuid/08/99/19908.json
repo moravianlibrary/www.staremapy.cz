@@ -1,0 +1,130 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/mkp/E_282/ImageProperties.xml",
+  "description": null,
+  "scale": 4000,
+  "external_id": "19908",
+  "title": "Polohopisný plán VII. části Prahy",
+  "collection_id": "820f1194-2d3f-5aeb-a260-b93d62e2851a",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.409778,
+    50.091953,
+    14.462698,
+    50.117126
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/19908",
+  "id": "e8abe016-a044-5c11-adb3-237b22339d24",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        20111,
+        794
+      ],
+      [
+        20102,
+        2572
+      ],
+      [
+        20171,
+        2632
+      ],
+      [
+        22506,
+        2618
+      ],
+      [
+        22558,
+        2572
+      ],
+      [
+        22555,
+        802
+      ],
+      [
+        22498,
+        739
+      ],
+      [
+        20165,
+        736
+      ],
+      [
+        20111,
+        794
+      ]
+    ],
+    "created": "2019-06-25T08:37:13.711809+00:00",
+    "transformation_method": "affine",
+    "mapID": "e8abe016-a044-5c11-adb3-237b22339d24",
+    "affine_transformation": null,
+    "changed": "2019-06-25T08:37:13.711809+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.435777236428613,
+          50.09827524917429
+        ],
+        "pixel": [
+          21071,
+          1215
+        ]
+      },
+      {
+        "location": [
+          14.435309742912557,
+          50.09738803267982
+        ],
+        "pixel": [
+          20510,
+          2375
+        ]
+      },
+      {
+        "location": [
+          14.436651636567472,
+          50.09765928332931
+        ],
+        "pixel": [
+          21962,
+          2111
+        ]
+      },
+      {
+        "location": [
+          14.436889564022328,
+          50.09810207461078
+        ],
+        "pixel": [
+          22273,
+          1284
+        ]
+      },
+      {
+        "location": [
+          14.436847029915524,
+          50.0978218654121
+        ],
+        "pixel": [
+          22189,
+          1777
+        ]
+      }
+    ]
+  },
+  "pubdate": [
+    "1890",
+    "1903"
+  ]
+}

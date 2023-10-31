@@ -1,0 +1,111 @@
+{
+  "date": ["1938"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:86690a44-9903-11ec-8207-fa163e4ea95f?page=uuid%3A873fc21e-9903-11ec-8207-fa163e4ea95f",
+  "description": "Sudety (Česko)",
+  "scale": 75000,
+  "external_id": "1291976",
+  "title": "Vrchlabí",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.240877,
+    50.45182,
+    15.927335,
+    50.778698
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:86690a44-9903-11ec-8207-fa163e4ea95f",
+  "id": "71f8be16-1b77-5f23-9b4c-c1ed32b3961e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        519,
+        41
+      ],
+      [
+        518,
+        379
+      ],
+      [
+        78,
+        377
+      ],
+      [
+        83,
+        39
+      ],
+      [
+        519,
+        41
+      ]
+    ],
+    "created": "2015-11-05T16:42:27.086630+00:00",
+    "transformation_method": "affine",
+    "mapID": "71f8be16-1b77-5f23-9b4c-c1ed32b3961e",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:42:27.086630+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.823391289848576,
+          50.74701335340873
+        ],
+        "pixel": [
+          512,
+          42
+        ]
+      },
+      {
+        "location": [
+          15.352245494366157,
+          50.743545029742364
+        ],
+        "pixel": [
+          97,
+          45
+        ]
+      },
+      {
+        "location": [
+          15.569155410003672,
+          50.609964977937494
+        ],
+        "pixel": [
+          288,
+          230
+        ]
+      },
+      {
+        "location": [
+          15.344984698062794,
+          50.50323237461407
+        ],
+        "pixel": [
+          87,
+          373
+        ]
+      },
+      {
+        "location": [
+          15.817893717814046,
+          50.50698219145488
+        ],
+        "pixel": [
+          504,
+          371
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1938"]
+}

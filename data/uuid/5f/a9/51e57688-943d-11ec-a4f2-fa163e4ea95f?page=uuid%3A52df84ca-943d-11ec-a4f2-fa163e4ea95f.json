@@ -1,0 +1,125 @@
+{
+  "date": ["1929"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:51e57688-943d-11ec-a4f2-fa163e4ea95f?page=uuid%3A52df84ca-943d-11ec-a4f2-fa163e4ea95f",
+  "description": "Hulváky (Ostrava, Česko)",
+  "scale": 10000,
+  "external_id": "1253939",
+  "title": "[Mapový list]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    18.20692,
+    49.811874,
+    18.269186,
+    49.843155
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:51e57688-943d-11ec-a4f2-fa163e4ea95f",
+  "id": "bffc0767-8908-599f-b2f2-e12f1a0b01f7",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        530,
+        51
+      ],
+      [
+        530,
+        359
+      ],
+      [
+        95,
+        361
+      ],
+      [
+        95,
+        50
+      ],
+      [
+        294,
+        51
+      ],
+      [
+        530,
+        51
+      ]
+    ],
+    "created": "2015-11-05T16:11:57.367850+00:00",
+    "transformation_method": "affine",
+    "mapID": "bffc0767-8908-599f-b2f2-e12f1a0b01f7",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:11:57.367850+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.226712608,
+          49.813617974
+        ],
+        "pixel": [
+          233,
+          343
+        ]
+      },
+      {
+        "location": [
+          18.257676029,
+          49.828029643
+        ],
+        "pixel": [
+          449,
+          199
+        ]
+      },
+      {
+        "location": [
+          18.266473675,
+          49.814933338
+        ],
+        "pixel": [
+          511,
+          330
+        ]
+      },
+      {
+        "location": [
+          18.23980058234359,
+          49.83710536874557
+        ],
+        "pixel": [
+          326,
+          110
+        ]
+      },
+      {
+        "location": [
+          18.22981981309077,
+          49.81219285754284
+        ],
+        "pixel": [
+          255,
+          357
+        ]
+      },
+      {
+        "location": [
+          18.222035702954702,
+          49.83037630394364
+        ],
+        "pixel": [
+          200,
+          177
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1929"]
+}

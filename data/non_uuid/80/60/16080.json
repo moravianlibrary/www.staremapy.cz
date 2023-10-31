@@ -1,0 +1,94 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/domousice_0384/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "16080",
+  "title": "Porostní mapa kostelního les v Horním Ročově v období let 1896\u20131897 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.782513,
+    50.25359,
+    13.789902,
+    50.258553
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/16080",
+  "id": "476b8152-4ee2-5447-80a5-1e2aaab6b3b5",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        82,
+        4790
+      ],
+      [
+        12578,
+        4790
+      ],
+      [
+        12578,
+        38
+      ],
+      [
+        82,
+        38
+      ],
+      [
+        82,
+        4790
+      ]
+    ],
+    "created": "2016-10-30T08:22:49.305180+00:00",
+    "transformation_method": "affine",
+    "mapID": "476b8152-4ee2-5447-80a5-1e2aaab6b3b5",
+    "affine_transformation": null,
+    "changed": "2016-10-30T08:22:49.305180+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.784849389,
+          50.255277224
+        ],
+        "pixel": [
+          3063,
+          2647
+        ]
+      },
+      {
+        "location": [
+          13.784602627,
+          50.256114098
+        ],
+        "pixel": [
+          3735,
+          1247
+        ]
+      },
+      {
+        "location": [
+          13.783422455,
+          50.255517313
+        ],
+        "pixel": [
+          1016,
+          1312
+        ]
+      }
+    ]
+  },
+  "pubdate": [
+    "1896",
+    "1897"
+  ]
+}

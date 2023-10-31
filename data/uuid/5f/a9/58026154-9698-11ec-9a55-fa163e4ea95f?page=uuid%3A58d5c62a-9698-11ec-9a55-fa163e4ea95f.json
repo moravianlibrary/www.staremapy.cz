@@ -1,0 +1,111 @@
+{
+  "date": ["1939"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:58026154-9698-11ec-9a55-fa163e4ea95f?page=uuid%3A58d5c62a-9698-11ec-9a55-fa163e4ea95f",
+  "description": null,
+  "scale": 200000,
+  "external_id": "1271343",
+  "title": "47°46° Tatar-Bunar",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    28.701351,
+    45.376915,
+    29.974525,
+    46.57762
+  ],
+  "reviewed": null,
+  "publisher": "Hauptvermessungsabteilung XIV",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:58026154-9698-11ec-9a55-fa163e4ea95f",
+  "id": "9a5d5f2b-7288-5984-929e-94f480f0eac2",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:22:03.925250+00:00",
+    "transformation_method": "affine",
+    "mapID": "9a5d5f2b-7288-5984-929e-94f480f0eac2",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:22:03.925250+00:00",
+    "gcps": [
+      {
+        "location": [
+          29.693340358,
+          46.445267574
+        ],
+        "pixel": [
+          466,
+          49
+        ]
+      },
+      {
+        "location": [
+          29.168792041,
+          45.671814589
+        ],
+        "pixel": [
+          222,
+          336
+        ]
+      },
+      {
+        "location": [
+          29.617686542,
+          45.829388156
+        ],
+        "pixel": [
+          437,
+          276
+        ]
+      },
+      {
+        "location": [
+          28.918338092,
+          46.406371238
+        ],
+        "pixel": [
+          92,
+          63
+        ]
+      },
+      {
+        "location": [
+          29.391092941,
+          46.057939492
+        ],
+        "pixel": [
+          325,
+          194
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1939"]
+}

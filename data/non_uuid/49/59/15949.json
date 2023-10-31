@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/domousice_0253/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "15949",
+  "title": "Hraniční mapa lesních parcel v katastru obce Kalivody, list 2 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.747997,
+    50.203125,
+    13.905189,
+    50.21828
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/15949",
+  "id": "e13982cf-7a53-5d0b-8f92-41fb69bd224f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        18329,
+        0
+      ],
+      [
+        18329,
+        15145
+      ],
+      [
+        0,
+        15145
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        18329,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:29:54.698420+00:00",
+    "transformation_method": "affine",
+    "mapID": "e13982cf-7a53-5d0b-8f92-41fb69bd224f",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:29:54.698420+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.842206452502284,
+          50.210249643498315
+        ],
+        "pixel": [
+          11353,
+          8519
+        ]
+      },
+      {
+        "location": [
+          13.840159557941583,
+          50.2078263615158
+        ],
+        "pixel": [
+          9693,
+          10873
+        ]
+      },
+      {
+        "location": [
+          13.848238371494457,
+          50.20804446919061
+        ],
+        "pixel": [
+          11384,
+          10835
+        ]
+      },
+      {
+        "location": [
+          13.856521032932445,
+          50.20617675153923
+        ],
+        "pixel": [
+          11577,
+          13167
+        ]
+      },
+      {
+        "location": [
+          13.839199736304083,
+          50.20557434819369
+        ],
+        "pixel": [
+          9332,
+          13642
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1888"]
+}

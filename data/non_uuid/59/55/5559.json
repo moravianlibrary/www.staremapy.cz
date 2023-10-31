@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_0433/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "5559",
+  "title": "Geometrický plán lesů Vysoký, Jedlí, u strážských luk, Bor, rybníka Hruškovský a přilehlých činžovních pozemků 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.832565,
+    49.0598,
+    14.873679,
+    49.08958
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/5559",
+  "id": "351b4267-86ef-51a4-bfaa-ee7ec7255fe0",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        27604,
+        0
+      ],
+      [
+        27604,
+        32765
+      ],
+      [
+        0,
+        32765
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        27604,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:07:32.455460+00:00",
+    "transformation_method": "affine",
+    "mapID": "351b4267-86ef-51a4-bfaa-ee7ec7255fe0",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:07:32.455460+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.847378016,
+          49.069245593
+        ],
+        "pixel": [
+          11034,
+          24747
+        ]
+      },
+      {
+        "location": [
+          14.84417919,
+          49.068930195
+        ],
+        "pixel": [
+          8452,
+          25930
+        ]
+      },
+      {
+        "location": [
+          14.84971527,
+          49.066336425
+        ],
+        "pixel": [
+          14062,
+          27825
+        ]
+      },
+      {
+        "location": [
+          14.866990328,
+          49.073469818
+        ],
+        "pixel": [
+          25728,
+          14472
+        ]
+      },
+      {
+        "location": [
+          14.844068169,
+          49.087521038
+        ],
+        "pixel": [
+          1630,
+          2352
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1803"]
+}

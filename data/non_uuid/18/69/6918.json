@@ -1,0 +1,115 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1042/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "6918",
+  "title": "Libín o. České Budějovice 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.661085,
+    48.942703,
+    14.712418,
+    48.992702
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/6918",
+  "id": "d12b8246-17d4-58e2-a34e-1fd1bd26f08b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        118,
+        22917
+      ],
+      [
+        15030,
+        22725
+      ],
+      [
+        15030,
+        133
+      ],
+      [
+        182,
+        261
+      ],
+      [
+        54,
+        8693
+      ],
+      [
+        118,
+        22917
+      ]
+    ],
+    "created": "2015-07-04T19:37:05.365750+00:00",
+    "transformation_method": "affine",
+    "mapID": "d12b8246-17d4-58e2-a34e-1fd1bd26f08b",
+    "affine_transformation": null,
+    "changed": "2015-07-04T19:37:05.365750+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.679953607913067,
+          48.98770039053244
+        ],
+        "pixel": [
+          5412,
+          2447
+        ]
+      },
+      {
+        "location": [
+          14.710963727256994,
+          48.96863896754138
+        ],
+        "pixel": [
+          14741,
+          11026
+        ]
+      },
+      {
+        "location": [
+          14.662600829,
+          48.975101999
+        ],
+        "pixel": [
+          384,
+          8264
+        ]
+      },
+      {
+        "location": [
+          14.681857976313653,
+          48.950882224580994
+        ],
+        "pixel": [
+          6221,
+          19129
+        ]
+      },
+      {
+        "location": [
+          14.696915897723256,
+          48.98476442062335
+        ],
+        "pixel": [
+          10504,
+          3747
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1827"]
+}

@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1794/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "9139",
+  "title": "Borkovice o. Tábor 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.633516,
+    49.223583,
+    14.659615,
+    49.23711
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/9139",
+  "id": "02c1ce3e-b9b0-5aa3-ace5-b701d75ffda6",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        941,
+        13862
+      ],
+      [
+        16107,
+        13750
+      ],
+      [
+        15995,
+        1526
+      ],
+      [
+        855,
+        1620
+      ],
+      [
+        941,
+        13862
+      ]
+    ],
+    "created": "2015-01-26T12:06:35.215110+00:00",
+    "transformation_method": "affine",
+    "mapID": "02c1ce3e-b9b0-5aa3-ace5-b701d75ffda6",
+    "affine_transformation": null,
+    "changed": "2015-01-26T12:06:35.215110+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.658208845,
+          49.229519799
+        ],
+        "pixel": [
+          15366,
+          8368
+        ]
+      },
+      {
+        "location": [
+          14.659034966,
+          49.227291759
+        ],
+        "pixel": [
+          15805,
+          10306
+        ]
+      },
+      {
+        "location": [
+          14.650550902,
+          49.230352719
+        ],
+        "pixel": [
+          10899,
+          7911
+        ]
+      },
+      {
+        "location": [
+          14.655228674,
+          49.233631484
+        ],
+        "pixel": [
+          13433,
+          4623
+        ]
+      },
+      {
+        "location": [
+          14.636871636,
+          49.225903621
+        ],
+        "pixel": [
+          2840,
+          11697
+        ]
+      },
+      {
+        "location": [
+          14.64447911,
+          49.237002616
+        ],
+        "pixel": [
+          7105,
+          1625
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1838"]
+}

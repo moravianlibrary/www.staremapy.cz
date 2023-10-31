@@ -1,0 +1,94 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Bor_M_25/ImageProperties.xml",
+  "description": null,
+  "scale": 2616,
+  "external_id": "19004",
+  "title": "Mapa vrchnostenských pozemků u Mlýnce",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.438673,
+    50.15405,
+    16.088537,
+    50.825012
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/19004",
+  "id": "563e452d-41ab-5379-8b48-87341313222c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        29920,
+        0
+      ],
+      [
+        29920,
+        12519
+      ],
+      [
+        0,
+        12519
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        29920,
+        0
+      ]
+    ],
+    "created": "2014-11-25T16:57:25.493100+00:00",
+    "transformation_method": "affine",
+    "mapID": "563e452d-41ab-5379-8b48-87341313222c",
+    "affine_transformation": null,
+    "changed": "2023-08-29T13:12:13.403125+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.338130601276626,
+          50.458635577039786
+        ],
+        "pixel": [
+          12652,
+          6172
+        ]
+      },
+      {
+        "location": [
+          15.346348663316054,
+          50.45686349938066
+        ],
+        "pixel": [
+          13353,
+          6815
+        ]
+      },
+      {
+        "location": [
+          15.580162413944471,
+          50.36567957032054
+        ],
+        "pixel": [
+          11308,
+          10087
+        ]
+      }
+    ]
+  },
+  "pubdate": [
+    "1840",
+    "1860"
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plasy_M_127_6_6/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "36842",
+  "title": "Katastrální mapa obce Hubenov",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.22119,
+    49.88163,
+    13.248092,
+    49.890717
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/36842",
+  "id": "f0b21e90-fb07-588c-8550-659fe04f0eac",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        17309,
+        611
+      ],
+      [
+        17324,
+        8671
+      ],
+      [
+        1962,
+        8755
+      ],
+      [
+        1732,
+        657
+      ],
+      [
+        17309,
+        611
+      ]
+    ],
+    "created": "2014-11-25T17:03:50.951490+00:00",
+    "transformation_method": "affine",
+    "mapID": "f0b21e90-fb07-588c-8550-659fe04f0eac",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:03:50.951490+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.22915354852808,
+          49.88210613398951
+        ],
+        "pixel": [
+          6307,
+          8350
+        ]
+      },
+      {
+        "location": [
+          13.24451541571709,
+          49.89070524027781
+        ],
+        "pixel": [
+          15306,
+          603
+        ]
+      },
+      {
+        "location": [
+          13.238123506,
+          49.887815502
+        ],
+        "pixel": [
+          11560,
+          3211
+        ]
+      },
+      {
+        "location": [
+          13.248556956713221,
+          49.8865717977327
+        ],
+        "pixel": [
+          17613,
+          4376
+        ]
+      },
+      {
+        "location": [
+          13.24166415685999,
+          49.882667213471194
+        ],
+        "pixel": [
+          13601,
+          7892
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1877"]
+}

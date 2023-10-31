@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Steken_M_24/ImageProperties.xml",
+  "description": null,
+  "scale": 5760,
+  "external_id": "23385",
+  "title": "Hospodářská mapa revíru Kváskovice-Mladějovice",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.051689,
+    49.233414,
+    14.062195,
+    49.23998
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/23385",
+  "id": "51f21d2f-fd1a-5837-a8a3-284301cae6e6",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        12163,
+        3476
+      ],
+      [
+        12163,
+        6052
+      ],
+      [
+        14723,
+        6068
+      ],
+      [
+        14715,
+        3492
+      ],
+      [
+        12163,
+        3476
+      ]
+    ],
+    "created": "2015-07-25T20:23:46.295490+00:00",
+    "transformation_method": "affine",
+    "mapID": "51f21d2f-fd1a-5837-a8a3-284301cae6e6",
+    "affine_transformation": null,
+    "changed": "2015-07-25T20:23:46.295490+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.056515158,
+          49.238208536
+        ],
+        "pixel": [
+          14155,
+          4804
+        ]
+      },
+      {
+        "location": [
+          14.060849608,
+          49.237087719
+        ],
+        "pixel": [
+          13395,
+          5924
+        ]
+      },
+      {
+        "location": [
+          14.056944312,
+          49.236723449
+        ],
+        "pixel": [
+          13443,
+          4788
+        ]
+      },
+      {
+        "location": [
+          14.053682746,
+          49.236331154
+        ],
+        "pixel": [
+          13451,
+          3796
+        ]
+      },
+      {
+        "location": [
+          14.057459296,
+          49.234817988
+        ],
+        "pixel": [
+          12587,
+          4732
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1890"]
+}

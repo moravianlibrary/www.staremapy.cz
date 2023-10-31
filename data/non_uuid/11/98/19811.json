@@ -1,0 +1,151 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plasy_M_88/ImageProperties.xml",
+  "description": null,
+  "scale": 5000,
+  "external_id": "19811",
+  "title": "Mapa části polesí Plasy",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.33012,
+    49.922012,
+    13.427662,
+    49.94773
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/19811",
+  "id": "3e67234d-cf6f-58fe-a22d-2d81ad093bce",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        2779,
+        12600
+      ],
+      [
+        18523,
+        12600
+      ],
+      [
+        18523,
+        1592
+      ],
+      [
+        2779,
+        1592
+      ],
+      [
+        2779,
+        12600
+      ]
+    ],
+    "created": "2015-01-02T10:35:02.452410+00:00",
+    "transformation_method": "affine",
+    "mapID": "3e67234d-cf6f-58fe-a22d-2d81ad093bce",
+    "affine_transformation": null,
+    "changed": "2015-01-02T10:35:02.452410+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.37320525,
+          49.939241648
+        ],
+        "pixel": [
+          9287,
+          4492
+        ]
+      },
+      {
+        "location": [
+          13.360974377,
+          49.93559563
+        ],
+        "pixel": [
+          7551,
+          5964
+        ]
+      },
+      {
+        "location": [
+          13.356049841,
+          49.943274042
+        ],
+        "pixel": [
+          6282,
+          4273
+        ]
+      },
+      {
+        "location": [
+          13.351372069,
+          49.94426828
+        ],
+        "pixel": [
+          5418,
+          4217
+        ]
+      },
+      {
+        "location": [
+          13.360405749,
+          49.949218447
+        ],
+        "pixel": [
+          6522,
+          2505
+        ]
+      },
+      {
+        "location": [
+          13.349129742,
+          49.933510095
+        ],
+        "pixel": [
+          5750,
+          7070
+        ]
+      },
+      {
+        "location": [
+          17.82353200571626,
+          49.14497550332362
+        ],
+        "pixel": [
+          788289,
+          1898
+        ]
+      },
+      {
+        "location": [
+          17.823625692413074,
+          49.14497738257606
+        ],
+        "pixel": [
+          788366,
+          2899
+        ]
+      },
+      {
+        "location": [
+          17.823751756236774,
+          49.145528311256015
+        ],
+        "pixel": [
+          788829,
+          9361
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1896"]
+}

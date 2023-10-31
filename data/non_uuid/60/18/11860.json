@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_3595/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "11860",
+  "title": "Situační plán hamru vystavěného u Rožmberského rybníka 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.764367,
+    49.053093,
+    14.776564,
+    49.060814
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/11860",
+  "id": "69375ead-3815-5e79-84c6-a2cda5404284",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        192,
+        10512
+      ],
+      [
+        11552,
+        10512
+      ],
+      [
+        11552,
+        80
+      ],
+      [
+        192,
+        80
+      ],
+      [
+        192,
+        10512
+      ]
+    ],
+    "created": "2015-12-28T17:56:49.420010+00:00",
+    "transformation_method": "affine",
+    "mapID": "69375ead-3815-5e79-84c6-a2cda5404284",
+    "affine_transformation": null,
+    "changed": "2015-12-28T17:56:49.420010+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.773585796,
+          49.055923914
+        ],
+        "pixel": [
+          1562,
+          6334
+        ]
+      },
+      {
+        "location": [
+          14.76977706,
+          49.056980287
+        ],
+        "pixel": [
+          6556,
+          4796
+        ]
+      },
+      {
+        "location": [
+          14.771021605,
+          49.055157546
+        ],
+        "pixel": [
+          2992,
+          3076
+        ]
+      },
+      {
+        "location": [
+          14.769382775,
+          49.057045321
+        ],
+        "pixel": [
+          7052,
+          4484
+        ]
+      },
+      {
+        "location": [
+          14.771209359,
+          49.0561489
+        ],
+        "pixel": [
+          4056,
+          4774
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1826"]
+}

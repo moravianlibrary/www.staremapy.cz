@@ -1,0 +1,111 @@
+{
+  "date": ["1930"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:b3d06190-9457-11ec-bd3a-fa163e4ea95f?page=uuid%3Ab4e3e1a6-9457-11ec-bd3a-fa163e4ea95f",
+  "description": null,
+  "scale": 200000,
+  "external_id": "1254689",
+  "title": "44°49° Husiatyn",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    25.666193,
+    48.37942,
+    27.00653,
+    49.585194
+  ],
+  "reviewed": null,
+  "publisher": "Hauptvermessungsabteilung XIV",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:b3d06190-9457-11ec-bd3a-fa163e4ea95f",
+  "id": "d57525b8-39f3-5603-a92b-c9e0223566a8",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:14:32.864620+00:00",
+    "transformation_method": "affine",
+    "mapID": "d57525b8-39f3-5603-a92b-c9e0223566a8",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:14:32.864620+00:00",
+    "gcps": [
+      {
+        "location": [
+          26.111526671,
+          48.632412229
+        ],
+        "pixel": [
+          200,
+          352
+        ]
+      },
+      {
+        "location": [
+          26.531238737,
+          48.685875007
+        ],
+        "pixel": [
+          388,
+          332
+        ]
+      },
+      {
+        "location": [
+          26.194524947,
+          49.071687059
+        ],
+        "pixel": [
+          236,
+          189
+        ]
+      },
+      {
+        "location": [
+          26.691041836,
+          49.482348977
+        ],
+        "pixel": [
+          459,
+          38
+        ]
+      },
+      {
+        "location": [
+          25.977534879,
+          49.424195299
+        ],
+        "pixel": [
+          138,
+          59
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1930"]
+}

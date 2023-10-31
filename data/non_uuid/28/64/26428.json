@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Krimice_M_2-1_3/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "26428",
+  "title": "Katastrální mapa obce Křimice",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.281902,
+    49.741123,
+    13.298061,
+    49.754578
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/26428",
+  "id": "ec6a5543-377c-5f07-b394-b70151a5e249",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1473,
+        13620
+      ],
+      [
+        5372,
+        13592
+      ],
+      [
+        10713,
+        13547
+      ],
+      [
+        10652,
+        9036
+      ],
+      [
+        10577,
+        2798
+      ],
+      [
+        10561,
+        1207
+      ],
+      [
+        7047,
+        1243
+      ],
+      [
+        4479,
+        1275
+      ],
+      [
+        1401,
+        1316
+      ],
+      [
+        1473,
+        13620
+      ]
+    ],
+    "created": "2015-02-01T09:49:18.434330+00:00",
+    "transformation_method": "affine",
+    "mapID": "ec6a5543-377c-5f07-b394-b70151a5e249",
+    "affine_transformation": null,
+    "changed": "2015-02-01T09:49:18.434330+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.288635276,
+          49.746630872
+        ],
+        "pixel": [
+          5330,
+          8442
+        ]
+      },
+      {
+        "location": [
+          13.296821378,
+          49.747057228
+        ],
+        "pixel": [
+          10116,
+          8057
+        ]
+      },
+      {
+        "location": [
+          13.294493520295447,
+          49.75353547712382
+        ],
+        "pixel": [
+          8722,
+          2197
+        ]
+      },
+      {
+        "location": [
+          13.29753766718848,
+          49.75337923992416
+        ],
+        "pixel": [
+          10474,
+          2366
+        ]
+      },
+      {
+        "location": [
+          13.290386871627328,
+          49.74216204123732
+        ],
+        "pixel": [
+          6160,
+          12783
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1878"]
+}

@@ -1,0 +1,121 @@
+{
+  "date": ["1937"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:1a7821e2-795c-11ec-b1a7-fa163e4ea95f?page=uuid%3A1bc23f7e-795c-11ec-b1a7-fa163e4ea95f",
+  "description": "Klenčí pod Čerchovem (Česko : oblast)",
+  "scale": 25000,
+  "external_id": "1125347",
+  "title": "[Kartenblatt]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.583971,
+    49.374348,
+    12.832751,
+    49.50111
+  ],
+  "reviewed": null,
+  "publisher": "Reichsamt für Landesaufnahme",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:1a7821e2-795c-11ec-b1a7-fa163e4ea95f",
+  "id": "6e918706-0c5c-5ac4-bd7a-3ae78464da32",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        69,
+        382
+      ],
+      [
+        506,
+        382
+      ],
+      [
+        506,
+        60
+      ],
+      [
+        69,
+        60
+      ],
+      [
+        69,
+        382
+      ]
+    ],
+    "created": "2015-01-05T15:45:54.447180+00:00",
+    "transformation_method": "affine",
+    "mapID": "6e918706-0c5c-5ac4-bd7a-3ae78464da32",
+    "affine_transformation": null,
+    "changed": "2015-01-05T15:45:54.447180+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.614885339,
+          49.421366115
+        ],
+        "pixel": [
+          123,
+          262
+        ]
+      },
+      {
+        "location": [
+          12.711530694,
+          49.379278598
+        ],
+        "pixel": [
+          292,
+          370
+        ]
+      },
+      {
+        "location": [
+          12.805171975,
+          49.477675334
+        ],
+        "pixel": [
+          458,
+          119
+        ]
+      },
+      {
+        "location": [
+          12.831157216,
+          49.398462635
+        ],
+        "pixel": [
+          504,
+          323
+        ]
+      },
+      {
+        "location": [
+          12.750090131,
+          49.414826345
+        ],
+        "pixel": [
+          361,
+          281
+        ]
+      },
+      {
+        "location": [
+          12.721551427,
+          49.439333779
+        ],
+        "pixel": [
+          311,
+          218
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1937"]
+}

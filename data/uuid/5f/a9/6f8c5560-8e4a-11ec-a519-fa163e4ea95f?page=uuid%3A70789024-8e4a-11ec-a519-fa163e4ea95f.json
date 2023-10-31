@@ -1,0 +1,111 @@
+{
+  "date": ["1876"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:6f8c5560-8e4a-11ec-a519-fa163e4ea95f?page=uuid%3A70789024-8e4a-11ec-a519-fa163e4ea95f",
+  "description": "Vilnius (Litva : oblast)",
+  "scale": 300000,
+  "external_id": "1208076",
+  "title": "[Wiljna",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    23.834673,
+    54.262154,
+    26.504808,
+    55.631783
+  ],
+  "reviewed": null,
+  "publisher": "Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:6f8c5560-8e4a-11ec-a519-fa163e4ea95f",
+  "id": "c2083b85-f30d-5599-8e63-7573a892ce06",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T15:54:21.418600+00:00",
+    "transformation_method": "affine",
+    "mapID": "c2083b85-f30d-5599-8e63-7573a892ce06",
+    "affine_transformation": null,
+    "changed": "2015-11-05T15:54:21.418600+00:00",
+    "gcps": [
+      {
+        "location": [
+          26.101666265,
+          55.328716191
+        ],
+        "pixel": [
+          509,
+          66
+        ]
+      },
+      {
+        "location": [
+          24.10437552,
+          54.510779981
+        ],
+        "pixel": [
+          60,
+          399
+        ]
+      },
+      {
+        "location": [
+          25.285910623,
+          54.684558965
+        ],
+        "pixel": [
+          342,
+          316
+        ]
+      },
+      {
+        "location": [
+          24.928854959,
+          55.43437956
+        ],
+        "pixel": [
+          217,
+          56
+        ]
+      },
+      {
+        "location": [
+          24.283322351,
+          55.066729986
+        ],
+        "pixel": [
+          78,
+          198
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1876"]
+}

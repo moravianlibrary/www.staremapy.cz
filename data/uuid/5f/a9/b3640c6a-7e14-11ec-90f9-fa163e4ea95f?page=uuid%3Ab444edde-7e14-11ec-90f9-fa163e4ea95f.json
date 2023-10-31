@@ -1,0 +1,121 @@
+{
+  "date": ["1938"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:b3640c6a-7e14-11ec-90f9-fa163e4ea95f?page=uuid%3Ab444edde-7e14-11ec-90f9-fa163e4ea95f",
+  "description": null,
+  "scale": 25000,
+  "external_id": "1141740",
+  "title": "Speikberg",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.704528,
+    47.497887,
+    13.8356495,
+    47.563538
+  ],
+  "reviewed": null,
+  "publisher": "Hauptvermessungsabteilung XIV",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:b3640c6a-7e14-11ec-90f9-fa163e4ea95f",
+  "id": "f1257c5c-2a9a-50f6-a92a-2b52b60e6f84",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        549,
+        60
+      ],
+      [
+        546,
+        392
+      ],
+      [
+        60,
+        391
+      ],
+      [
+        62,
+        60
+      ],
+      [
+        549,
+        60
+      ]
+    ],
+    "created": "2014-10-30T18:32:41.616320+00:00",
+    "transformation_method": "affine",
+    "mapID": "f1257c5c-2a9a-50f6-a92a-2b52b60e6f84",
+    "affine_transformation": null,
+    "changed": "2014-10-30T18:32:41.616320+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.814143307,
+          47.531507852
+        ],
+        "pixel": [
+          468,
+          222
+        ]
+      },
+      {
+        "location": [
+          13.727996788,
+          47.559486916
+        ],
+        "pixel": [
+          147,
+          81
+        ]
+      },
+      {
+        "location": [
+          13.82332719,
+          47.531768633
+        ],
+        "pixel": [
+          504,
+          221
+        ]
+      },
+      {
+        "location": [
+          13.818563587,
+          47.529972113
+        ],
+        "pixel": [
+          486,
+          230
+        ]
+      },
+      {
+        "location": [
+          13.720615349,
+          47.558618099
+        ],
+        "pixel": [
+          118,
+          85
+        ]
+      },
+      {
+        "location": [
+          13.818548164,
+          47.560934912
+        ],
+        "pixel": [
+          485,
+          73
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1938"]
+}

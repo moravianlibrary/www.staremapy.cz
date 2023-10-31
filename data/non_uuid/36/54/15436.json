@@ -1,0 +1,91 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plana_M_89/ImageProperties.xml",
+  "description": null,
+  "scale": 4350,
+  "external_id": "15436",
+  "title": "Hospodářská mapa revíru Obora",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    6.2749877,
+    44.98476,
+    24.256674,
+    56.165386
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/15436",
+  "id": "8e72bb1e-b029-5fa4-bb39-c6bdff4f252f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        16502,
+        0
+      ],
+      [
+        16502,
+        10859
+      ],
+      [
+        0,
+        10859
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        16502,
+        0
+      ]
+    ],
+    "created": "2014-11-25T16:55:38.647290+00:00",
+    "transformation_method": "affine",
+    "mapID": "8e72bb1e-b029-5fa4-bb39-c6bdff4f252f",
+    "affine_transformation": null,
+    "changed": "2023-09-18T08:56:29.747269+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.182746658525732,
+          50.877680617293834
+        ],
+        "pixel": [
+          8670,
+          5091
+        ]
+      },
+      {
+        "location": [
+          16.02490322468958,
+          49.553605270901585
+        ],
+        "pixel": [
+          14094,
+          2893
+        ]
+      },
+      {
+        "location": [
+          17.57884016410984,
+          49.41438003952214
+        ],
+        "pixel": [
+          10579,
+          6707
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1830"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": ["1889"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:6b5308bc-944a-11ec-b6a5-fa163e4ea95f?page=uuid%3A6c28dc1c-944a-11ec-b6a5-fa163e4ea95f",
+  "description": "Rovno (Ukrajina)",
+  "scale": 200000,
+  "external_id": "1254317",
+  "title": "Rowno",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    25.825815,
+    50.48413,
+    26.852364,
+    51.5045
+  ],
+  "reviewed": null,
+  "publisher": "K.u.k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:6b5308bc-944a-11ec-b6a5-fa163e4ea95f",
+  "id": "2fe79ee5-5c02-573f-b5be-0dd97f6ecfb0",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        92,
+        401
+      ],
+      [
+        507,
+        401
+      ],
+      [
+        507,
+        46
+      ],
+      [
+        92,
+        46
+      ],
+      [
+        92,
+        401
+      ]
+    ],
+    "created": "2017-03-05T16:03:35.686730+00:00",
+    "transformation_method": "affine",
+    "mapID": "2fe79ee5-5c02-573f-b5be-0dd97f6ecfb0",
+    "affine_transformation": null,
+    "changed": "2017-03-05T16:03:35.686730+00:00",
+    "gcps": [
+      {
+        "location": [
+          26.646904595,
+          51.429156782
+        ],
+        "pixel": [
+          423,
+          73
+        ]
+      },
+      {
+        "location": [
+          26.63148089,
+          50.60422625
+        ],
+        "pixel": [
+          421,
+          360
+        ]
+      },
+      {
+        "location": [
+          26.455871301,
+          50.877814653
+        ],
+        "pixel": [
+          348,
+          265
+        ]
+      },
+      {
+        "location": [
+          25.861722823,
+          51.369896346
+        ],
+        "pixel": [
+          102,
+          93
+        ]
+      },
+      {
+        "location": [
+          26.229278284,
+          50.622852829
+        ],
+        "pixel": [
+          256,
+          354
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1889"]
+}

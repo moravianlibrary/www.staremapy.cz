@@ -1,0 +1,141 @@
+{
+  "date": ["1927"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:8aa3674e-9f0c-11ec-9868-fa163e4ea95f?page=uuid%3A8b71687e-9f0c-11ec-9868-fa163e4ea95f",
+  "description": "Sudety (Česko)",
+  "scale": 75000,
+  "external_id": "1330069",
+  "title": "Železná Ruda a Viechtach",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.831353,
+    48.99907,
+    13.3358345,
+    49.249493
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:8aa3674e-9f0c-11ec-9868-fa163e4ea95f",
+  "id": "eb2efacf-743d-5ad6-9d7e-51f83c342177",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        74,
+        46
+      ],
+      [
+        525,
+        45
+      ],
+      [
+        526,
+        380
+      ],
+      [
+        72,
+        381
+      ],
+      [
+        74,
+        46
+      ]
+    ],
+    "created": "2017-11-30T11:12:12.572760+00:00",
+    "transformation_method": "affine",
+    "mapID": "eb2efacf-743d-5ad6-9d7e-51f83c342177",
+    "affine_transformation": null,
+    "changed": "2017-11-30T11:12:12.572760+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.8868623,
+          49.079736072
+        ],
+        "pixel": [
+          121,
+          274
+        ]
+      },
+      {
+        "location": [
+          12.884746037,
+          49.226699716
+        ],
+        "pixel": [
+          119,
+          76
+        ]
+      },
+      {
+        "location": [
+          13.150692425,
+          49.011380284
+        ],
+        "pixel": [
+          360,
+          365
+        ]
+      },
+      {
+        "location": [
+          12.886518977,
+          49.144838042
+        ],
+        "pixel": [
+          121,
+          188
+        ]
+      },
+      {
+        "location": [
+          12.949647449,
+          49.070543285
+        ],
+        "pixel": [
+          178,
+          286
+        ]
+      },
+      {
+        "location": [
+          12.851714633,
+          49.172875067
+        ],
+        "pixel": [
+          89,
+          150
+        ]
+      },
+      {
+        "location": [
+          13.034491084,
+          49.056230638
+        ],
+        "pixel": [
+          255,
+          305
+        ]
+      },
+      {
+        "location": [
+          13.247466527,
+          49.008058642
+        ],
+        "pixel": [
+          446,
+          369
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1927"]
+}

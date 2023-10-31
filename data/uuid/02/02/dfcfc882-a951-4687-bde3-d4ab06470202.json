@@ -1,0 +1,119 @@
+{
+  "date": ["1929"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.mzk.cz/search/iiif/uuid:dfcfc882-a951-4687-bde3-d4ab06470202/info.json",
+  "description": "Carte aéronautique d'ensemble de la République Tchécoslovaque",
+  "scale": 750000,
+  "external_id": "dfcfc882-a951-4687-bde3-d4ab06470202",
+  "title": "Přehledná letecká mapa republiky Československé",
+  "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    18.056477,
+    47.450672,
+    24.955034,
+    51.475235
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://www.digitalniknihovna.cz/mzk/view/uuid:f74c9f87-1612-4101-8094-7ea6b42edab7?page=uuid:dfcfc882-a951-4687-bde3-d4ab06470202",
+  "id": "12df1ae6-7164-5fbc-99e5-437610dabc27",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        5578,
+        15864
+      ],
+      [
+        7739,
+        15805
+      ],
+      [
+        7713,
+        14273
+      ],
+      [
+        6940,
+        14292
+      ],
+      [
+        6928,
+        13623
+      ],
+      [
+        5547,
+        13658
+      ],
+      [
+        5578,
+        15864
+      ]
+    ],
+    "created": "2019-02-23T12:07:24.197141+00:00",
+    "transformation_method": "affine",
+    "mapID": "12df1ae6-7164-5fbc-99e5-437610dabc27",
+    "affine_transformation": null,
+    "changed": "2019-02-23T12:07:24.197141+00:00",
+    "gcps": [
+      {
+        "location": [
+          21.233574322597992,
+          48.69466100089011
+        ],
+        "pixel": [
+          6042,
+          14577
+        ]
+      },
+      {
+        "location": [
+          21.26197404609418,
+          48.69421353997461
+        ],
+        "pixel": [
+          6517,
+          14587
+        ]
+      },
+      {
+        "location": [
+          21.31879335841142,
+          48.671081337704635
+        ],
+        "pixel": [
+          7504,
+          15184
+        ]
+      },
+      {
+        "location": [
+          21.259001631444356,
+          48.72004881012063
+        ],
+        "pixel": [
+          6447,
+          13900
+        ]
+      },
+      {
+        "location": [
+          21.267595572658294,
+          48.65567986278202
+        ],
+        "pixel": [
+          6642,
+          15605
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

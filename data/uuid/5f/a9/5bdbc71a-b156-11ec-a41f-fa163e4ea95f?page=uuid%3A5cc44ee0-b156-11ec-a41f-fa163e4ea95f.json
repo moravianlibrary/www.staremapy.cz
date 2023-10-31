@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:5bdbc71a-b156-11ec-a41f-fa163e4ea95f?page=uuid%3A5cc44ee0-b156-11ec-a41f-fa163e4ea95f",
+  "description": "Sýrie",
+  "scale": 50000,
+  "external_id": "1378325",
+  "title": "[Lattaquié]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    35.68229,
+    35.39695,
+    36.04128,
+    35.782948
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:5bdbc71a-b156-11ec-a41f-fa163e4ea95f",
+  "id": "c0cd37c0-83c3-5084-9d9e-4d2f46822d9c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2016-01-08T13:37:09.208860+00:00",
+    "transformation_method": "affine",
+    "mapID": "c0cd37c0-83c3-5084-9d9e-4d2f46822d9c",
+    "affine_transformation": null,
+    "changed": "2016-01-08T13:37:09.208860+00:00",
+    "gcps": [
+      {
+        "location": [
+          35.80326519,
+          35.674338112
+        ],
+        "pixel": [
+          201,
+          125
+        ]
+      },
+      {
+        "location": [
+          35.991451625,
+          35.507719685
+        ],
+        "pixel": [
+          519,
+          317
+        ]
+      },
+      {
+        "location": [
+          35.99581056,
+          35.65558489
+        ],
+        "pixel": [
+          525,
+          147
+        ]
+      },
+      {
+        "location": [
+          35.775928116,
+          35.528691309
+        ],
+        "pixel": [
+          157,
+          292
+        ]
+      },
+      {
+        "location": [
+          35.875749207,
+          35.543812653
+        ],
+        "pixel": [
+          322,
+          274
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

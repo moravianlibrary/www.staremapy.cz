@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/1062_21/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "23280",
+  "title": "Pilsen und dessen Umgebung 19.",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.168262,
+    49.74001,
+    13.248499,
+    49.774918
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/23280",
+  "id": "681ad456-31da-5155-b3c8-406fdd7d8ec4",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        805,
+        6499
+      ],
+      [
+        9484,
+        6529
+      ],
+      [
+        9500,
+        465
+      ],
+      [
+        732,
+        465
+      ],
+      [
+        805,
+        6499
+      ]
+    ],
+    "created": "2014-12-08T19:36:41.617610+00:00",
+    "transformation_method": "affine",
+    "mapID": "681ad456-31da-5155-b3c8-406fdd7d8ec4",
+    "affine_transformation": null,
+    "changed": "2022-02-21T14:08:07.653829+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.176579583150927,
+          49.77072157428455
+        ],
+        "pixel": [
+          1675,
+          1170
+        ]
+      },
+      {
+        "location": [
+          13.234150517446567,
+          49.76936343277944
+        ],
+        "pixel": [
+          7983,
+          1421
+        ]
+      },
+      {
+        "location": [
+          13.187515420764889,
+          49.74623968634103
+        ],
+        "pixel": [
+          2833,
+          5423
+        ]
+      },
+      {
+        "location": [
+          13.180795845929842,
+          49.76530844062049
+        ],
+        "pixel": [
+          2043,
+          2075
+        ]
+      },
+      {
+        "location": [
+          13.204249251348541,
+          49.753907535304364
+        ],
+        "pixel": [
+          4600,
+          4109
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

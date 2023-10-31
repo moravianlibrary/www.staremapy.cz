@@ -1,0 +1,111 @@
+{
+  "date": ["1900"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:57dec34a-9e3e-11ec-94c5-fa163e4ea95f?page=uuid%3A58d98eba-9e3e-11ec-94c5-fa163e4ea95f",
+  "description": "Mariánské Lázně (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1304710",
+  "title": "Marienbad und Tachau",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.318645,
+    49.741005,
+    12.85008,
+    50.008904
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:57dec34a-9e3e-11ec-94c5-fa163e4ea95f",
+  "id": "d1a11385-e675-5bd9-a76a-97b42c9651bf",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        57,
+        394
+      ],
+      [
+        547,
+        394
+      ],
+      [
+        547,
+        37
+      ],
+      [
+        57,
+        37
+      ],
+      [
+        57,
+        394
+      ]
+    ],
+    "created": "2016-09-18T20:46:42.426200+00:00",
+    "transformation_method": "affine",
+    "mapID": "d1a11385-e675-5bd9-a76a-97b42c9651bf",
+    "affine_transformation": null,
+    "changed": "2016-09-18T20:46:42.426200+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.796310311,
+          49.788240653
+        ],
+        "pixel": [
+          497,
+          332
+        ]
+      },
+      {
+        "location": [
+          12.394663511,
+          49.996662309
+        ],
+        "pixel": [
+          128,
+          52
+        ]
+      },
+      {
+        "location": [
+          12.533816514,
+          49.753793253
+        ],
+        "pixel": [
+          254,
+          378
+        ]
+      },
+      {
+        "location": [
+          12.341600782,
+          49.880692869
+        ],
+        "pixel": [
+          76,
+          207
+        ]
+      },
+      {
+        "location": [
+          12.694407826,
+          49.977135952
+        ],
+        "pixel": [
+          404,
+          80
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1900"]
+}

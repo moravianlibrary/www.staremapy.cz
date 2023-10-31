@@ -1,0 +1,101 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plana_M_95/ImageProperties.xml",
+  "description": null,
+  "scale": 2689,
+  "external_id": "15441",
+  "title": "Hospodářská mapa revíru Pavlovice",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.76689,
+    49.80712,
+    12.799483,
+    49.82574
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/15441",
+  "id": "6c430d62-6694-5c92-a5d3-dc1d0521aade",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        19,
+        44
+      ],
+      [
+        179,
+        14060
+      ],
+      [
+        15315,
+        14028
+      ],
+      [
+        15251,
+        76
+      ],
+      [
+        19,
+        44
+      ]
+    ],
+    "created": "2015-03-09T22:05:14.993210+00:00",
+    "transformation_method": "affine",
+    "mapID": "6c430d62-6694-5c92-a5d3-dc1d0521aade",
+    "affine_transformation": null,
+    "changed": "2023-08-03T15:13:29.493302+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.768130302,
+          49.819213907
+        ],
+        "pixel": [
+          175,
+          4836
+        ]
+      },
+      {
+        "location": [
+          12.775382996,
+          49.817220255
+        ],
+        "pixel": [
+          3591,
+          6476
+        ]
+      },
+      {
+        "location": [
+          12.776498795,
+          49.82261954
+        ],
+        "pixel": [
+          4527,
+          2556
+        ]
+      },
+      {
+        "location": [
+          12.788043022,
+          49.825471227
+        ],
+        "pixel": [
+          11272,
+          152
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1874"]
+}

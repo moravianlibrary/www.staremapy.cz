@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:7ca0d746-aba8-11ec-85f0-fa163e4ea95f?page=uuid%3A7df11142-aba8-11ec-85f0-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1367631",
+  "title": "Egypt 1:100,000",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    30.499365,
+    31.190786,
+    31.00739,
+    31.833496
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:7ca0d746-aba8-11ec-85f0-fa163e4ea95f",
+  "id": "de7ca345-8307-5616-9305-ba3ab31ac05e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        66,
+        38
+      ],
+      [
+        502,
+        38
+      ],
+      [
+        508,
+        373
+      ],
+      [
+        66,
+        374
+      ],
+      [
+        66,
+        38
+      ]
+    ],
+    "created": "2016-08-03T16:22:03.786030+00:00",
+    "transformation_method": "affine",
+    "mapID": "de7ca345-8307-5616-9305-ba3ab31ac05e",
+    "affine_transformation": null,
+    "changed": "2016-08-03T16:22:03.786030+00:00",
+    "gcps": [
+      {
+        "location": [
+          30.524436951,
+          31.22608589
+        ],
+        "pixel": [
+          83,
+          359
+        ]
+      },
+      {
+        "location": [
+          30.555335999,
+          31.209056426
+        ],
+        "pixel": [
+          112,
+          371
+        ]
+      },
+      {
+        "location": [
+          30.520317078,
+          31.325265497
+        ],
+        "pixel": [
+          80,
+          305
+        ]
+      },
+      {
+        "location": [
+          30.862266541,
+          31.46534719
+        ],
+        "pixel": [
+          382,
+          227
+        ]
+      },
+      {
+        "location": [
+          30.677387238,
+          31.429028088
+        ],
+        "pixel": [
+          222,
+          256
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

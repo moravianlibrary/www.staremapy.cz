@@ -1,0 +1,153 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Bor_M_3-2/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "18967",
+  "title": "Katastrální mapa obce Mlýnec WC-XIV-21 bg",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.719885,
+    49.700706,
+    12.72855,
+    49.70853
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/18967",
+  "id": "b6a7837e-6686-5ab6-8d58-f33317c8b387",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        2113,
+        8515
+      ],
+      [
+        5249,
+        7811
+      ],
+      [
+        5465,
+        3904
+      ],
+      [
+        2481,
+        1437
+      ],
+      [
+        385,
+        1437
+      ],
+      [
+        369,
+        6824
+      ],
+      [
+        381,
+        8406
+      ],
+      [
+        2113,
+        8515
+      ]
+    ],
+    "created": "2015-08-13T19:45:19.441140+00:00",
+    "transformation_method": "affine",
+    "mapID": "b6a7837e-6686-5ab6-8d58-f33317c8b387",
+    "affine_transformation": null,
+    "changed": "2015-08-13T19:45:19.441140+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.727853759,
+          49.702032185
+        ],
+        "pixel": [
+          5030,
+          7333
+        ]
+      },
+      {
+        "location": [
+          12.72747825,
+          49.704172823
+        ],
+        "pixel": [
+          4818,
+          5433
+        ]
+      },
+      {
+        "location": [
+          12.725048169,
+          49.706781706
+        ],
+        "pixel": [
+          3424,
+          3013
+        ]
+      },
+      {
+        "location": [
+          12.725348576,
+          49.701882995
+        ],
+        "pixel": [
+          3564,
+          7467
+        ]
+      },
+      {
+        "location": [
+          12.725552424,
+          49.704422615
+        ],
+        "pixel": [
+          3684,
+          5179
+        ]
+      },
+      {
+        "location": [
+          12.723063334,
+          49.706594371
+        ],
+        "pixel": [
+          2234,
+          3191
+        ]
+      },
+      {
+        "location": [
+          12.722784384,
+          49.707267387
+        ],
+        "pixel": [
+          2086,
+          2571
+        ]
+      },
+      {
+        "location": [
+          12.720220192,
+          49.707232696
+        ],
+        "pixel": [
+          572,
+          2591
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1892"]
+}

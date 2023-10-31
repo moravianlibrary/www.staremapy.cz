@@ -1,0 +1,121 @@
+{
+  "date": ["1943"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:3b084c7a-9ee1-11ec-9b81-fa163e4ea95f?page=uuid%3A3c0e734c-9ee1-11ec-9b81-fa163e4ea95f",
+  "description": "Sibiř (Rusko)",
+  "scale": 500000,
+  "external_id": "1328794",
+  "title": "Taldan",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    122.495995,
+    51.369568,
+    126.80997,
+    54.264088
+  ],
+  "reviewed": null,
+  "publisher": "Army map service, U.S. Army",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:3b084c7a-9ee1-11ec-9b81-fa163e4ea95f",
+  "id": "3ffbf822-2428-58c2-b3d7-96e462c774c2",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:02:55.058120+00:00",
+    "transformation_method": "affine",
+    "mapID": "3ffbf822-2428-58c2-b3d7-96e462c774c2",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:02:55.058120+00:00",
+    "gcps": [
+      {
+        "location": [
+          123.929569245,
+          53.97588006
+        ],
+        "pixel": [
+          202,
+          41
+        ]
+      },
+      {
+        "location": [
+          124.832336426,
+          53.140285563
+        ],
+        "pixel": [
+          324,
+          175
+        ]
+      },
+      {
+        "location": [
+          123.132202148,
+          53.496319806
+        ],
+        "pixel": [
+          87,
+          118
+        ]
+      },
+      {
+        "location": [
+          124.819255569,
+          53.691820119
+        ],
+        "pixel": [
+          325,
+          88
+        ]
+      },
+      {
+        "location": [
+          125.803979806,
+          53.45503677
+        ],
+        "pixel": [
+          460,
+          129
+        ]
+      },
+      {
+        "location": [
+          125.970632511,
+          52.758788213
+        ],
+        "pixel": [
+          487,
+          235
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1943"]
+}

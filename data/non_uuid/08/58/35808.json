@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/2638/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "35808",
+  "title": "Salzburg",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.025831,
+    47.787914,
+    13.071973,
+    47.814213
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/35808",
+  "id": "2dd7cb38-3b2b-5b5c-87e7-d81b7e94c50f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        3630,
+        2487
+      ],
+      [
+        10334,
+        2519
+      ],
+      [
+        10382,
+        7447
+      ],
+      [
+        3646,
+        7383
+      ],
+      [
+        3630,
+        2487
+      ]
+    ],
+    "created": "2014-12-29T17:00:39.572180+00:00",
+    "transformation_method": "affine",
+    "mapID": "2dd7cb38-3b2b-5b5c-87e7-d81b7e94c50f",
+    "affine_transformation": null,
+    "changed": "2014-12-29T17:00:39.572180+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.046610043,
+          47.794418681
+        ],
+        "pixel": [
+          6017,
+          6471
+        ]
+      },
+      {
+        "location": [
+          13.046792433,
+          47.797546665
+        ],
+        "pixel": [
+          6321,
+          5699
+        ]
+      },
+      {
+        "location": [
+          13.045885846,
+          47.797660177
+        ],
+        "pixel": [
+          6205,
+          5631
+        ]
+      },
+      {
+        "location": [
+          13.045960948,
+          47.798128637
+        ],
+        "pixel": [
+          6289,
+          5491
+        ]
+      },
+      {
+        "location": [
+          13.046867535,
+          47.798180888
+        ],
+        "pixel": [
+          6389,
+          5543
+        ]
+      },
+      {
+        "location": [
+          13.05134146,
+          47.796335855
+        ],
+        "pixel": [
+          6949,
+          6315
+        ]
+      },
+      {
+        "location": [
+          13.051534579,
+          47.79632144
+        ],
+        "pixel": [
+          7005,
+          6319
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

@@ -1,0 +1,91 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_0100/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "3754",
+  "title": "Záměrná mapa lesa Radlice a Malého spolského rybníka",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.6872,
+    48.935196,
+    14.729285,
+    48.97367
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/3754",
+  "id": "4d1f86ba-fef7-5fb9-808a-2842eaf47212",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        14137,
+        0
+      ],
+      [
+        14137,
+        11033
+      ],
+      [
+        0,
+        11033
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        14137,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:05:41.278900+00:00",
+    "transformation_method": "affine",
+    "mapID": "4d1f86ba-fef7-5fb9-808a-2842eaf47212",
+    "affine_transformation": null,
+    "changed": "2021-09-20T20:39:59.727025+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.698889701311865,
+          48.95505806873916
+        ],
+        "pixel": [
+          6223,
+          8750
+        ]
+      },
+      {
+        "location": [
+          14.700606315081416,
+          48.96382140190508
+        ],
+        "pixel": [
+          2872,
+          6963
+        ]
+      },
+      {
+        "location": [
+          14.696915595476904,
+          48.95359266664809
+        ],
+        "pixel": [
+          6675,
+          9648
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

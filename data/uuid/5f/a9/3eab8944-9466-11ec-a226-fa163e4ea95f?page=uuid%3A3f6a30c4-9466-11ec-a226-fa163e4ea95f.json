@@ -1,0 +1,121 @@
+{
+  "date": ["1919"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:3eab8944-9466-11ec-a226-fa163e4ea95f?page=uuid%3A3f6a30c4-9466-11ec-a226-fa163e4ea95f",
+  "description": "Maďarsko",
+  "scale": 200000,
+  "external_id": "1255109",
+  "title": "40°48° Munkačevo [sic]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    21.825293,
+    47.493523,
+    22.84422,
+    48.505714
+  ],
+  "reviewed": null,
+  "publisher": "Min. nár. obrany, Kartografické oddělení",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:3eab8944-9466-11ec-a226-fa163e4ea95f",
+  "id": "6f73b41c-fa21-55eb-96d6-251816cc6c9a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        56,
+        413
+      ],
+      [
+        551,
+        413
+      ],
+      [
+        551,
+        26
+      ],
+      [
+        56,
+        26
+      ],
+      [
+        56,
+        413
+      ]
+    ],
+    "created": "2017-02-26T17:34:10.165690+00:00",
+    "transformation_method": "affine",
+    "mapID": "6f73b41c-fa21-55eb-96d6-251816cc6c9a",
+    "affine_transformation": null,
+    "changed": "2017-02-26T17:34:10.165690+00:00",
+    "gcps": [
+      {
+        "location": [
+          21.983774621,
+          48.430077923
+        ],
+        "pixel": [
+          132,
+          56
+        ]
+      },
+      {
+        "location": [
+          22.13497117,
+          47.516428114
+        ],
+        "pixel": [
+          205,
+          404
+        ]
+      },
+      {
+        "location": [
+          22.718505496,
+          48.442159861
+        ],
+        "pixel": [
+          488,
+          50
+        ]
+      },
+      {
+        "location": [
+          22.782295166,
+          47.525629072
+        ],
+        "pixel": [
+          527,
+          401
+        ]
+      },
+      {
+        "location": [
+          22.682264764,
+          47.835479623
+        ],
+        "pixel": [
+          475,
+          282
+        ]
+      },
+      {
+        "location": [
+          21.926868875,
+          48.111523427
+        ],
+        "pixel": [
+          104,
+          177
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1919"]
+}

@@ -1,0 +1,121 @@
+{
+  "date": ["1894"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:bdbb3430-9f3f-11ec-b437-fa163e4ea95f?page=uuid%3Abf30c0c8-9f3f-11ec-b437-fa163e4ea95f",
+  "description": "Maďarsko",
+  "scale": 75000,
+  "external_id": "1331496",
+  "title": "Arló und K[is] Terenne",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    19.833067,
+    47.999554,
+    20.33193,
+    48.246857
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:bdbb3430-9f3f-11ec-b437-fa163e4ea95f",
+  "id": "dd75e27b-565c-504d-b8ae-f6a1d957eb6b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        61,
+        379
+      ],
+      [
+        537,
+        379
+      ],
+      [
+        538,
+        46
+      ],
+      [
+        63,
+        45
+      ],
+      [
+        61,
+        379
+      ]
+    ],
+    "created": "2017-12-07T20:40:24.173460+00:00",
+    "transformation_method": "affine",
+    "mapID": "dd75e27b-565c-504d-b8ae-f6a1d957eb6b",
+    "affine_transformation": null,
+    "changed": "2017-12-07T20:40:24.173460+00:00",
+    "gcps": [
+      {
+        "location": [
+          19.9315728,
+          48.234021111
+        ],
+        "pixel": [
+          155,
+          63
+        ]
+      },
+      {
+        "location": [
+          20.101775056,
+          48.017745534
+        ],
+        "pixel": [
+          318,
+          355
+        ]
+      },
+      {
+        "location": [
+          19.851278191,
+          48.049456007
+        ],
+        "pixel": [
+          79,
+          311
+        ]
+      },
+      {
+        "location": [
+          19.848274117,
+          48.004108337
+        ],
+        "pixel": [
+          75,
+          373
+        ]
+      },
+      {
+        "location": [
+          19.84917534,
+          48.242253064
+        ],
+        "pixel": [
+          80,
+          52
+        ]
+      },
+      {
+        "location": [
+          20.322789079,
+          48.222128174
+        ],
+        "pixel": [
+          530,
+          79
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1894"]
+}

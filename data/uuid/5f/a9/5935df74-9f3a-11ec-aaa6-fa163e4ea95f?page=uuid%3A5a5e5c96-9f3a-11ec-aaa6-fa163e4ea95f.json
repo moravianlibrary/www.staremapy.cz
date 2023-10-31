@@ -1,0 +1,111 @@
+{
+  "date": ["1919"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:5935df74-9f3a-11ec-aaa6-fa163e4ea95f?page=uuid%3A5a5e5c96-9f3a-11ec-aaa6-fa163e4ea95f",
+  "description": "Marmarošská Sihoť (Rumunsko : oblast)",
+  "scale": 75000,
+  "external_id": "1331346",
+  "title": "Marmarošský Sihot",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    23.82943,
+    47.74774,
+    24.332832,
+    48.00035
+  ],
+  "reviewed": null,
+  "publisher": "Kartografické oddělení Min. Nár. Obrany",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:5935df74-9f3a-11ec-aaa6-fa163e4ea95f",
+  "id": "d197e6e1-2afc-54fd-93d3-60a46644674c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        42,
+        388
+      ],
+      [
+        554,
+        388
+      ],
+      [
+        554,
+        37
+      ],
+      [
+        42,
+        37
+      ],
+      [
+        42,
+        388
+      ]
+    ],
+    "created": "2017-02-25T13:08:38.813520+00:00",
+    "transformation_method": "affine",
+    "mapID": "d197e6e1-2afc-54fd-93d3-60a46644674c",
+    "affine_transformation": null,
+    "changed": "2017-02-25T13:08:38.813520+00:00",
+    "gcps": [
+      {
+        "location": [
+          24.205823308,
+          47.98599967
+        ],
+        "pixel": [
+          425,
+          57
+        ]
+      },
+      {
+        "location": [
+          24.138832455,
+          47.768016129
+        ],
+        "pixel": [
+          357,
+          360
+        ]
+      },
+      {
+        "location": [
+          23.857494992,
+          47.771978455
+        ],
+        "pixel": [
+          71,
+          355
+        ]
+      },
+      {
+        "location": [
+          24.281046846,
+          47.777633224
+        ],
+        "pixel": [
+          502,
+          345
+        ]
+      },
+      {
+        "location": [
+          23.867349988,
+          47.930446771
+        ],
+        "pixel": [
+          81,
+          133
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1919"]
+}

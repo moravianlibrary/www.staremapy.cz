@@ -1,0 +1,111 @@
+{
+  "date": ["1852"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:723e840c-43d3-11ec-ad1f-fa163e4ea95f?page=uuid%3A72ec8052-43d3-11ec-ad1f-fa163e4ea95f",
+  "description": "Paříž (Francie)",
+  "scale": null,
+  "external_id": "838778",
+  "title": "Nouveau plan ou guide de l'étranger dans Paris",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Duchez, Eugene",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    2.2904603,
+    48.833744,
+    2.3953347,
+    48.881725
+  ],
+  "reviewed": null,
+  "publisher": "Aug[us]te Logerot",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:723e840c-43d3-11ec-ad1f-fa163e4ea95f",
+  "id": "ebb6ba56-d1e7-57f9-a113-2431f7dd7de5",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2012-08-23T12:42:21.918530+00:00",
+    "transformation_method": "affine",
+    "mapID": "ebb6ba56-d1e7-57f9-a113-2431f7dd7de5",
+    "affine_transformation": null,
+    "changed": "2021-04-02T16:20:15.820944+00:00",
+    "gcps": [
+      {
+        "location": [
+          2.351897318,
+          48.852140073
+        ],
+        "pixel": [
+          352,
+          273
+        ]
+      },
+      {
+        "location": [
+          2.340567667,
+          48.857222743
+        ],
+        "pixel": [
+          289,
+          228
+        ]
+      },
+      {
+        "location": [
+          2.353270609,
+          48.853777879
+        ],
+        "pixel": [
+          362,
+          255
+        ]
+      },
+      {
+        "location": [
+          2.360051233,
+          48.850050382
+        ],
+        "pixel": [
+          398,
+          295
+        ]
+      },
+      {
+        "location": [
+          2.339366037,
+          48.859453308
+        ],
+        "pixel": [
+          277,
+          207
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1852"]
+}

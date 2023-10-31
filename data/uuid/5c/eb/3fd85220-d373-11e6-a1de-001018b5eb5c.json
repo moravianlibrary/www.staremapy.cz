@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": "Berger, Karl",
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.mzk.cz/search/iiif/uuid:3fd85220-d373-11e6-a1de-001018b5eb5c/info.json",
+  "description": "mapa z monografie: Geschichte der Stadt Bärn, strana: [VII]",
+  "scale": null,
+  "external_id": "uuid:3fd85220-d373-11e6-a1de-001018b5eb5c",
+  "title": "Geschichte der Stadt Bärn, mapa ze strany: [VII]",
+  "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:4f8109f0-b6c8-11e6-88f6-005056827e52?page=uuid:3fd85220-d373-11e6-a1de-001018b5eb5c",
+  "georeference_is_finished": true,
+  "bounds": [
+    17.404604,
+    49.76885,
+    17.491558,
+    49.831314
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://www.digitalniknihovna.cz/mzk/view/uuid:4f8109f0-b6c8-11e6-88f6-005056827e52?page=uuid:3fd85220-d373-11e6-a1de-001018b5eb5c",
+  "id": "00c18fa5-509e-4019-9938-1c7e68d63933",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1330,
+        235
+      ],
+      [
+        1357,
+        1786
+      ],
+      [
+        17,
+        1795
+      ],
+      [
+        17,
+        235
+      ],
+      [
+        1330,
+        235
+      ]
+    ],
+    "created": "2020-07-07T07:19:26.208734+00:00",
+    "transformation_method": "affine",
+    "mapID": "00c18fa5-509e-4019-9938-1c7e68d63933",
+    "affine_transformation": null,
+    "changed": "2022-06-06T15:59:19.642069+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.443015754535455,
+          49.7944139149719
+        ],
+        "pixel": [
+          619,
+          1169
+        ]
+      },
+      {
+        "location": [
+          17.43907091949349,
+          49.783738830059775
+        ],
+        "pixel": [
+          572,
+          1484
+        ]
+      },
+      {
+        "location": [
+          17.44031867034981,
+          49.79409609105147
+        ],
+        "pixel": [
+          557,
+          1179
+        ]
+      },
+      {
+        "location": [
+          17.449870091756658,
+          49.79731397091027
+        ],
+        "pixel": [
+          710,
+          1120
+        ]
+      },
+      {
+        "location": [
+          17.427787389832233,
+          49.79322342557552
+        ],
+        "pixel": [
+          330,
+          1110
+        ]
+      },
+      {
+        "location": [
+          17.42905228858824,
+          49.78668141070531
+        ],
+        "pixel": [
+          391,
+          1371
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1901"]
+}

@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Tachov_M_25_4/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "21825",
+  "title": "Katastrální mapa obce Obora",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.506181,
+    49.80163,
+    12.532781,
+    49.815117
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/21825",
+  "id": "5d3b788f-0171-5af9-bb4d-f58befb6327e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        632,
+        12856
+      ],
+      [
+        15896,
+        12856
+      ],
+      [
+        15864,
+        712
+      ],
+      [
+        632,
+        776
+      ],
+      [
+        632,
+        12856
+      ]
+    ],
+    "created": "2016-08-31T04:51:05.357960+00:00",
+    "transformation_method": "affine",
+    "mapID": "5d3b788f-0171-5af9-bb4d-f58befb6327e",
+    "affine_transformation": null,
+    "changed": "2016-08-31T04:51:05.357960+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.52677907,
+          49.811546035
+        ],
+        "pixel": [
+          12438,
+          3931
+        ]
+      },
+      {
+        "location": [
+          12.529348626,
+          49.802312856
+        ],
+        "pixel": [
+          13905,
+          12302
+        ]
+      },
+      {
+        "location": [
+          12.531880632,
+          49.804050919
+        ],
+        "pixel": [
+          15393,
+          10782
+        ]
+      },
+      {
+        "location": [
+          12.515347495,
+          49.81438799
+        ],
+        "pixel": [
+          5902,
+          1299
+        ]
+      },
+      {
+        "location": [
+          12.531998649,
+          49.813204151
+        ],
+        "pixel": [
+          15493,
+          2443
+        ]
+      },
+      {
+        "location": [
+          12.5235392,
+          49.807151509
+        ],
+        "pixel": [
+          10624,
+          7928
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1842"]
+}

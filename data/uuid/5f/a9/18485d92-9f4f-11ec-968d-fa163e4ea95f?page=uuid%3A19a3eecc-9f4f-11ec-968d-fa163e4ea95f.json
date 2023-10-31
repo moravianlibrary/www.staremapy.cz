@@ -1,0 +1,121 @@
+{
+  "date": ["1909"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:18485d92-9f4f-11ec-968d-fa163e4ea95f?page=uuid%3A19a3eecc-9f4f-11ec-968d-fa163e4ea95f",
+  "description": null,
+  "scale": 75000,
+  "external_id": "1331922",
+  "title": "Möll Thal[er]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.833562,
+    46.748913,
+    13.33704,
+    47.000652
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:18485d92-9f4f-11ec-968d-fa163e4ea95f",
+  "id": "e245182e-290e-52fe-9d38-dda06b5dd6fd",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        59,
+        379
+      ],
+      [
+        547,
+        379
+      ],
+      [
+        545,
+        43
+      ],
+      [
+        60,
+        43
+      ],
+      [
+        59,
+        379
+      ]
+    ],
+    "created": "2016-10-06T08:46:39.270740+00:00",
+    "transformation_method": "affine",
+    "mapID": "e245182e-290e-52fe-9d38-dda06b5dd6fd",
+    "affine_transformation": null,
+    "changed": "2016-10-06T08:46:39.270740+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.902435024,
+          46.78609627
+        ],
+        "pixel": [
+          125,
+          331
+        ]
+      },
+      {
+        "location": [
+          12.914059718,
+          46.918236734
+        ],
+        "pixel": [
+          137,
+          152
+        ]
+      },
+      {
+        "location": [
+          13.11268266,
+          46.78102709
+        ],
+        "pixel": [
+          329,
+          337
+        ]
+      },
+      {
+        "location": [
+          13.287798722,
+          46.99666835
+        ],
+        "pixel": [
+          497,
+          47
+        ]
+      },
+      {
+        "location": [
+          13.263385255,
+          46.900770696
+        ],
+        "pixel": [
+          475,
+          175
+        ]
+      },
+      {
+        "location": [
+          12.875629027,
+          46.862205069
+        ],
+        "pixel": [
+          98,
+          230
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1909"]
+}

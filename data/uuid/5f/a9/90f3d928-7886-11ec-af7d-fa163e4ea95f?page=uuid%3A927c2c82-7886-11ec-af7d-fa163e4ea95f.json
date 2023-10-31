@@ -1,0 +1,111 @@
+{
+  "date": ["1935"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:90f3d928-7886-11ec-af7d-fa163e4ea95f?page=uuid%3A927c2c82-7886-11ec-af7d-fa163e4ea95f",
+  "description": "Jeseník (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1130653",
+  "title": "Frývaldov",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.746513,
+    49.94244,
+    17.416485,
+    50.271282
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:90f3d928-7886-11ec-af7d-fa163e4ea95f",
+  "id": "1fa27988-bccc-5402-9508-a76a1f9b51a8",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2014-08-19T14:25:23.157150+00:00",
+    "transformation_method": "affine",
+    "mapID": "1fa27988-bccc-5402-9508-a76a1f9b51a8",
+    "affine_transformation": null,
+    "changed": "2014-08-19T14:25:23.157150+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.906653995,
+          50.236981945
+        ],
+        "pixel": [
+          144,
+          44
+        ]
+      },
+      {
+        "location": [
+          17.316086305,
+          50.013335061
+        ],
+        "pixel": [
+          511,
+          348
+        ]
+      },
+      {
+        "location": [
+          17.031678957,
+          50.002990137
+        ],
+        "pixel": [
+          255,
+          363
+        ]
+      },
+      {
+        "location": [
+          17.203984064,
+          50.234766753
+        ],
+        "pixel": [
+          409,
+          50
+        ]
+      },
+      {
+        "location": [
+          16.933531564,
+          50.077959358
+        ],
+        "pixel": [
+          167,
+          260
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1935"]
+}

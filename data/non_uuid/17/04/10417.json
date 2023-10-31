@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_3072/ImageProperties.xml",
+  "description": null,
+  "scale": 100,
+  "external_id": "10417",
+  "title": "Plán na stavbu nové spilky s ležáckými sklepy 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.310398,
+    50.24811,
+    14.3149805,
+    50.249054
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/10417",
+  "id": "baebd509-72cb-59f7-b14f-cbcfecb09556",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        16053,
+        0
+      ],
+      [
+        16053,
+        11745
+      ],
+      [
+        0,
+        11745
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        16053,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:21:59.409200+00:00",
+    "transformation_method": "affine",
+    "mapID": "baebd509-72cb-59f7-b14f-cbcfecb09556",
+    "affine_transformation": null,
+    "changed": "2022-04-16T00:31:31.658481+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.312483121112045,
+          50.248596518393185
+        ],
+        "pixel": [
+          2708,
+          6758
+        ]
+      },
+      {
+        "location": [
+          14.312294293531913,
+          50.24883801233241
+        ],
+        "pixel": [
+          12357,
+          5396
+        ]
+      },
+      {
+        "location": [
+          14.312706280771119,
+          50.24838246591446
+        ],
+        "pixel": [
+          8367,
+          5564
+        ]
+      },
+      {
+        "location": [
+          14.31237154128251,
+          50.248662380517004
+        ],
+        "pixel": [
+          5167,
+          5082
+        ]
+      },
+      {
+        "location": [
+          14.31336717746529,
+          50.24842637434392
+        ],
+        "pixel": [
+          7574,
+          6257
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1881"]
+}

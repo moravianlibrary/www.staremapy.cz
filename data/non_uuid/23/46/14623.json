@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Kout_na_Sumave_M_347-5/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "14623",
+  "title": "Katastrální mapa obce Novosedly WC-XIV-25 bd",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.726891,
+    49.442253,
+    12.736459,
+    49.449352
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/14623",
+  "id": "bdb67a6c-bceb-5d50-94fb-52f606fa5ae0",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1418,
+        7687
+      ],
+      [
+        7258,
+        7687
+      ],
+      [
+        7258,
+        999
+      ],
+      [
+        1418,
+        999
+      ],
+      [
+        1418,
+        7687
+      ]
+    ],
+    "created": "2015-02-21T16:33:51.920570+00:00",
+    "transformation_method": "affine",
+    "mapID": "bdb67a6c-bceb-5d50-94fb-52f606fa5ae0",
+    "affine_transformation": null,
+    "changed": "2015-02-21T16:33:51.920570+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.72876753,
+          49.448919101
+        ],
+        "pixel": [
+          2505,
+          1482
+        ]
+      },
+      {
+        "location": [
+          12.726833292,
+          49.448445781
+        ],
+        "pixel": [
+          1489,
+          1778
+        ]
+      },
+      {
+        "location": [
+          12.732154795,
+          49.445069687
+        ],
+        "pixel": [
+          4417,
+          5010
+        ]
+      },
+      {
+        "location": [
+          12.729325429,
+          49.444259518
+        ],
+        "pixel": [
+          2321,
+          6098
+        ]
+      },
+      {
+        "location": [
+          12.732068964,
+          49.444176797
+        ],
+        "pixel": [
+          4641,
+          5954
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1885"]
+}

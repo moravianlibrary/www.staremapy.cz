@@ -1,0 +1,111 @@
+{
+  "date": ["1937"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:46489208-794c-11ec-8e12-fa163e4ea95f?page=uuid%3A476c5ad4-794c-11ec-8e12-fa163e4ea95f",
+  "description": "Libouchec (Česko)",
+  "scale": 25000,
+  "external_id": "1124870",
+  "title": "[Kartenblatt]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.786848,
+    50.72654,
+    14.139028,
+    50.898308
+  ],
+  "reviewed": null,
+  "publisher": "Reichsamt für Landesaufnahme",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:46489208-794c-11ec-8e12-fa163e4ea95f",
+  "id": "c07e68ce-3f0a-5cca-a296-faf5c2fa9e5e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2014-08-19T14:01:18.534210+00:00",
+    "transformation_method": "affine",
+    "mapID": "c07e68ce-3f0a-5cca-a296-faf5c2fa9e5e",
+    "affine_transformation": null,
+    "changed": "2014-08-19T14:01:18.534210+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.973394210457327,
+          50.82890568006246
+        ],
+        "pixel": [
+          318,
+          178
+        ]
+      },
+      {
+        "location": [
+          13.973143440308563,
+          50.77205998014941
+        ],
+        "pixel": [
+          317,
+          326
+        ]
+      },
+      {
+        "location": [
+          13.981922027199833,
+          50.81500585528556
+        ],
+        "pixel": [
+          332,
+          215
+        ]
+      },
+      {
+        "location": [
+          13.952537353157528,
+          50.859472332891926
+        ],
+        "pixel": [
+          283,
+          99
+        ]
+      },
+      {
+        "location": [
+          14.031851631226532,
+          50.784488434651735
+        ],
+        "pixel": [
+          418,
+          294
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1937"]
+}

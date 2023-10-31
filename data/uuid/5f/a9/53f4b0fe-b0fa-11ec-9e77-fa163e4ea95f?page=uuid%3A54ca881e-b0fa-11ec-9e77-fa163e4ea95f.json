@@ -1,0 +1,121 @@
+{
+  "date": ["1902"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:53f4b0fe-b0fa-11ec-9e77-fa163e4ea95f?page=uuid%3A54ca881e-b0fa-11ec-9e77-fa163e4ea95f",
+  "description": "Louisiana",
+  "scale": 62500,
+  "external_id": "1374874",
+  "title": "Louisiana",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Ganett, Henry",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -90.22594,
+    29.595161,
+    -89.22872,
+    29.874754
+  ],
+  "reviewed": null,
+  "publisher": "U.S. Geological Survey",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:53f4b0fe-b0fa-11ec-9e77-fa163e4ea95f",
+  "id": "a379d871-9232-5d5b-9ea3-9c036039d45b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        575,
+        30
+      ],
+      [
+        574,
+        409
+      ],
+      [
+        30,
+        409
+      ],
+      [
+        30,
+        29
+      ],
+      [
+        575,
+        30
+      ]
+    ],
+    "created": "2016-01-08T13:31:52.564740+00:00",
+    "transformation_method": "polynomial",
+    "mapID": "a379d871-9232-5d5b-9ea3-9c036039d45b",
+    "affine_transformation": null,
+    "changed": "2016-01-08T13:31:52.564740+00:00",
+    "gcps": [
+      {
+        "location": [
+          -89.4341850606378,
+          29.656677677332908
+        ],
+        "pixel": [
+          189,
+          170
+        ]
+      },
+      {
+        "location": [
+          -89.48706697726264,
+          29.623263751541955
+        ],
+        "pixel": [
+          84,
+          230
+        ]
+      },
+      {
+        "location": [
+          -89.28679404809287,
+          29.7633913192918
+        ],
+        "pixel": [
+          564,
+          73
+        ]
+      },
+      {
+        "location": [
+          -89.42672688376697,
+          29.678247689379134
+        ],
+        "pixel": [
+          259,
+          153
+        ]
+      },
+      {
+        "location": [
+          -89.46861225974352,
+          29.758454458157118
+        ],
+        "pixel": [
+          118,
+          47
+        ]
+      },
+      {
+        "location": [
+          -89.46893413368251,
+          29.640459233863822
+        ],
+        "pixel": [
+          128,
+          211
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1902"]
+}

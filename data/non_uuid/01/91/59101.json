@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/rajhrad/atlasy/3281002910918/3281002910918_14/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "59101",
+  "title": "mapa z atlasu \"Kriegs-Atlas zum Gebrauch für Zeitungsleser\"",
+  "collection_id": "c96b8290-8633-5c89-8aed-95da5c97814e",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    6.8243604,
+    46.88431,
+    11.329196,
+    49.439667
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/650",
+  "id": "1eec7df7-5f3b-5164-a3cb-d52082e0f59a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1095,
+        4602
+      ],
+      [
+        5623,
+        4602
+      ],
+      [
+        5623,
+        970
+      ],
+      [
+        1095,
+        970
+      ],
+      [
+        1095,
+        4602
+      ]
+    ],
+    "created": "2015-02-21T00:04:33.792730+00:00",
+    "transformation_method": "affine",
+    "mapID": "1eec7df7-5f3b-5164-a3cb-d52082e0f59a",
+    "affine_transformation": null,
+    "changed": "2015-02-21T00:04:33.792730+00:00",
+    "gcps": [
+      {
+        "location": [
+          10.489629485,
+          48.851387102
+        ],
+        "pixel": [
+          4872,
+          1863
+        ]
+      },
+      {
+        "location": [
+          10.316594817,
+          47.720963992
+        ],
+        "pixel": [
+          4609,
+          3536
+        ]
+      },
+      {
+        "location": [
+          9.750798918,
+          47.504445641
+        ],
+        "pixel": [
+          4038,
+          3840
+        ]
+      },
+      {
+        "location": [
+          9.161657073,
+          47.660993425
+        ],
+        "pixel": [
+          3369,
+          3640
+        ]
+      },
+      {
+        "location": [
+          9.119085051,
+          47.991529372
+        ],
+        "pixel": [
+          3418,
+          3012
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1799"]
+}

@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/4442/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "45474",
+  "title": "Plan de la Ville de Verone",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    10.968156,
+    45.423397,
+    11.021699,
+    45.457886
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/45474",
+  "id": "76c7723f-3ded-5110-ae55-8d3c29ad82db",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1425,
+        4506
+      ],
+      [
+        6113,
+        4506
+      ],
+      [
+        6113,
+        170
+      ],
+      [
+        1425,
+        170
+      ],
+      [
+        1425,
+        4506
+      ]
+    ],
+    "created": "2015-12-20T21:24:05.602070+00:00",
+    "transformation_method": "affine",
+    "mapID": "76c7723f-3ded-5110-ae55-8d3c29ad82db",
+    "affine_transformation": null,
+    "changed": "2015-12-20T21:24:05.602070+00:00",
+    "gcps": [
+      {
+        "location": [
+          10.987856746,
+          45.431504166
+        ],
+        "pixel": [
+          3159,
+          3554
+        ]
+      },
+      {
+        "location": [
+          11.014694929,
+          45.439382802
+        ],
+        "pixel": [
+          5543,
+          2441
+        ]
+      },
+      {
+        "location": [
+          10.988334179,
+          45.440248519
+        ],
+        "pixel": [
+          3176,
+          2392
+        ]
+      },
+      {
+        "location": [
+          10.999513626,
+          45.447497437
+        ],
+        "pixel": [
+          4161,
+          1434
+        ]
+      },
+      {
+        "location": [
+          10.977256656,
+          45.442149286
+        ],
+        "pixel": [
+          2204,
+          2218
+        ]
+      },
+      {
+        "location": [
+          10.980013967,
+          45.447994214
+        ],
+        "pixel": [
+          2397,
+          1418
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

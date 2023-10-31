@@ -1,0 +1,117 @@
+{
+  "date": ["1950"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.mzk.cz/search/iiif/uuid:82826b27-bd8f-4780-af59-2d0dbbbaf810/info.json",
+  "description": null,
+  "scale": 75000,
+  "external_id": "82826b27-bd8f-4780-af59-2d0dbbbaf810",
+  "title": "Děčín",
+  "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.833677,
+    50.748913,
+    14.336186,
+    50.99883
+  ],
+  "reviewed": null,
+  "publisher": "vydal a vytiskl Státní zeměměřický a kartografický ústav",
+  "link_url": "https://www.digitalniknihovna.cz/mzk/view/uuid:ec602843-00a7-49a2-9b2e-0f5d514ecbe1?page=uuid:82826b27-bd8f-4780-af59-2d0dbbbaf810",
+  "id": "b2d7b9bb-6060-5afd-a485-51b568fc7609",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        13424,
+        1659
+      ],
+      [
+        13447,
+        10442
+      ],
+      [
+        2366,
+        10394
+      ],
+      [
+        3214,
+        8961
+      ],
+      [
+        5119,
+        7577
+      ],
+      [
+        7108,
+        7608
+      ],
+      [
+        11219,
+        4505
+      ],
+      [
+        11334,
+        1640
+      ],
+      [
+        13424,
+        1659
+      ]
+    ],
+    "created": "2018-12-19T14:27:52.977214+00:00",
+    "transformation_method": "affine",
+    "mapID": "b2d7b9bb-6060-5afd-a485-51b568fc7609",
+    "affine_transformation": null,
+    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.279326105894025,
+          50.78462264471466
+        ],
+        "pixel": [
+          12198,
+          9224
+        ]
+      },
+      {
+        "location": [
+          13.902788517870071,
+          50.75304230882199
+        ],
+        "pixel": [
+          3890,
+          10245
+        ]
+      },
+      {
+        "location": [
+          14.329543749839567,
+          50.98233861020546
+        ],
+        "pixel": [
+          13331,
+          2238
+        ]
+      },
+      {
+        "location": [
+          13.904164333317715,
+          50.7942122594676
+        ],
+        "pixel": [
+          3927,
+          8826
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

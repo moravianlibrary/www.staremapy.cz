@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/domousice_0187/ImageProperties.xml",
+  "description": null,
+  "scale": 10000,
+  "external_id": "15883",
+  "title": "Porostní mapa polesí Postoloprty, druhý exemplář 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.656532,
+    50.32894,
+    13.788514,
+    50.401096
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/15883",
+  "id": "135866b1-f59d-5183-b2bf-7ca25ddf5286",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        -124,
+        18879
+      ],
+      [
+        22148,
+        18879
+      ],
+      [
+        22148,
+        -257
+      ],
+      [
+        -124,
+        -257
+      ],
+      [
+        -124,
+        18879
+      ]
+    ],
+    "created": "2015-02-15T15:35:13.095870+00:00",
+    "transformation_method": "affine",
+    "mapID": "135866b1-f59d-5183-b2bf-7ca25ddf5286",
+    "affine_transformation": null,
+    "changed": "2015-02-15T15:35:13.095870+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.760204571,
+          50.376136584
+        ],
+        "pixel": [
+          17477,
+          6389
+        ]
+      },
+      {
+        "location": [
+          13.674722569,
+          50.34453535
+        ],
+        "pixel": [
+          2798,
+          14719
+        ]
+      },
+      {
+        "location": [
+          13.69872834,
+          50.359082607
+        ],
+        "pixel": [
+          6974,
+          10862
+        ]
+      },
+      {
+        "location": [
+          13.697102921,
+          50.345528128
+        ],
+        "pixel": [
+          6666,
+          14519
+        ]
+      },
+      {
+        "location": [
+          13.736166614,
+          50.358158561
+        ],
+        "pixel": [
+          13266,
+          11159
+        ]
+      },
+      {
+        "location": [
+          13.690837281,
+          50.378846041
+        ],
+        "pixel": [
+          5644,
+          5581
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1877"]
+}

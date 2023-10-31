@@ -1,0 +1,138 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plasy_M_55/ImageProperties.xml",
+  "description": null,
+  "scale": 5000,
+  "external_id": "19709",
+  "title": "Záměrná mapa polesí Krašov-Dřevec",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    5.1359825,
+    40.01735,
+    42.868214,
+    47.050465
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/19709",
+  "id": "54800a30-ed3d-5d01-92e8-f4507163355f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        17824,
+        0
+      ],
+      [
+        17824,
+        14275
+      ],
+      [
+        0,
+        14275
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        17824,
+        0
+      ]
+    ],
+    "created": "2014-11-25T16:32:43.007400+00:00",
+    "transformation_method": "affine",
+    "mapID": "54800a30-ed3d-5d01-92e8-f4507163355f",
+    "affine_transformation": [
+      -1.3909098606583858,
+      292.5072634338539,
+      5.952072160634814,
+      68.35455385019308,
+      596526.552486557,
+      4868463.789653035
+    ],
+    "changed": "2023-04-01T19:09:06.980215+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.286450055232493,
+          47.97673974207598
+        ],
+        "pixel": [
+          8914,
+          7471
+        ]
+      },
+      {
+        "location": [
+          31.519591052481886,
+          39.26076197365978
+        ],
+        "pixel": [
+          -136935,
+          8520
+        ]
+      },
+      {
+        "location": [
+          27.476622302481886,
+          38.43939807917752
+        ],
+        "pixel": [
+          -156012,
+          5571
+        ]
+      },
+      {
+        "location": [
+          35.650450427481886,
+          38.370523507808485
+        ],
+        "pixel": [
+          -89051,
+          9353
+        ]
+      },
+      {
+        "location": [
+          15.79230943023249,
+          48.85175778655153
+        ],
+        "pixel": [
+          7412,
+          6653
+        ]
+      },
+      {
+        "location": [
+          29.937559802481896,
+          38.851265565558975
+        ],
+        "pixel": [
+          12797,
+          9235
+        ]
+      },
+      {
+        "location": [
+          29.58599730248189,
+          39.124527076069995
+        ],
+        "pixel": [
+          10494,
+          8555
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1901"]
+}

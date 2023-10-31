@@ -1,0 +1,91 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/hluboka_0037/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "17507",
+  "title": "Geometrický plán terénu u hlubockého zámku, jímž bude veden podzemní kanál k odvodnění Podskalské louky 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.42183,
+    49.04337,
+    14.466498,
+    49.05519
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/17507",
+  "id": "13467b6d-ebf2-51d2-a80b-64c3c01208d2",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        16514,
+        0
+      ],
+      [
+        16514,
+        11415
+      ],
+      [
+        0,
+        11415
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        16514,
+        0
+      ]
+    ],
+    "created": "2014-11-25T18:14:18.971420+00:00",
+    "transformation_method": "affine",
+    "mapID": "13467b6d-ebf2-51d2-a80b-64c3c01208d2",
+    "affine_transformation": null,
+    "changed": "2014-11-25T18:14:18.971420+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.444365530675752,
+          49.04985140115309
+        ],
+        "pixel": [
+          12836,
+          2702
+        ]
+      },
+      {
+        "location": [
+          14.443491130536898,
+          49.049607048908
+        ],
+        "pixel": [
+          9070,
+          4815
+        ]
+      },
+      {
+        "location": [
+          14.440944067473797,
+          49.0494292622075
+        ],
+        "pixel": [
+          1965,
+          8347
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1786"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1511/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "7387",
+  "title": "Vrcov o. České Budějovice 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.679282,
+    48.90132,
+    14.707783,
+    48.90979
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/7387",
+  "id": "5d9dea84-e279-5d03-87ce-9f66546d8e68",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        16856,
+        0
+      ],
+      [
+        16856,
+        7772
+      ],
+      [
+        0,
+        7772
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        16856,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:13:35.751310+00:00",
+    "transformation_method": "affine",
+    "mapID": "5d9dea84-e279-5d03-87ce-9f66546d8e68",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:13:35.751310+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.683169881132606,
+          48.90637150206268
+        ],
+        "pixel": [
+          2305,
+          3182
+        ]
+      },
+      {
+        "location": [
+          14.687194031633775,
+          48.90690726569295
+        ],
+        "pixel": [
+          4650,
+          2664
+        ]
+      },
+      {
+        "location": [
+          14.689709943689756,
+          48.90777111555025
+        ],
+        "pixel": [
+          6214,
+          1813
+        ]
+      },
+      {
+        "location": [
+          14.682220379141334,
+          48.90742576077517
+        ],
+        "pixel": [
+          1716,
+          2207
+        ]
+      },
+      {
+        "location": [
+          14.687204760469845,
+          48.90726338519846
+        ],
+        "pixel": [
+          4646,
+          2338
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

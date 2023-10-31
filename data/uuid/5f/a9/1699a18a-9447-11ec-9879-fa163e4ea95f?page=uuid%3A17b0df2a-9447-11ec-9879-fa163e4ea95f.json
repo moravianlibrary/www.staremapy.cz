@@ -1,0 +1,111 @@
+{
+  "date": ["1914"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:1699a18a-9447-11ec-9879-fa163e4ea95f?page=uuid%3A17b0df2a-9447-11ec-9879-fa163e4ea95f",
+  "description": "Sambir (Ukrajina)",
+  "scale": 200000,
+  "external_id": "1254221",
+  "title": "Sambor",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    22.82458,
+    49.49531,
+    23.836157,
+    50.498577
+  ],
+  "reviewed": null,
+  "publisher": "K.u.k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:1699a18a-9447-11ec-9879-fa163e4ea95f",
+  "id": "bedfc824-4823-5fb9-b2d5-8a72c1a9b0df",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        66,
+        409
+      ],
+      [
+        552,
+        408
+      ],
+      [
+        541,
+        25
+      ],
+      [
+        65,
+        25
+      ],
+      [
+        66,
+        409
+      ]
+    ],
+    "created": "2017-04-12T19:15:36.314280+00:00",
+    "transformation_method": "affine",
+    "mapID": "bedfc824-4823-5fb9-b2d5-8a72c1a9b0df",
+    "affine_transformation": null,
+    "changed": "2017-04-12T19:15:36.314280+00:00",
+    "gcps": [
+      {
+        "location": [
+          22.856329108,
+          50.04963181
+        ],
+        "pixel": [
+          78,
+          197
+        ]
+      },
+      {
+        "location": [
+          23.420775461,
+          50.461943998
+        ],
+        "pixel": [
+          347,
+          40
+        ]
+      },
+      {
+        "location": [
+          23.486865091,
+          49.653807808
+        ],
+        "pixel": [
+          384,
+          348
+        ]
+      },
+      {
+        "location": [
+          23.202164697,
+          49.516697667
+        ],
+        "pixel": [
+          247,
+          401
+        ]
+      },
+      {
+        "location": [
+          23.621588186,
+          50.232397058
+        ],
+        "pixel": [
+          444,
+          127
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1914"]
+}

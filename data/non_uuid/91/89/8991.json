@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1647/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "8991",
+  "title": "Hrdlořezy o. Jindřichův Hradec 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.808813,
+    48.85485,
+    14.83704,
+    48.86723
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/8991",
+  "id": "c9b941d7-05e4-560f-8885-e500a265fc68",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1299,
+        794
+      ],
+      [
+        16563,
+        730
+      ],
+      [
+        16627,
+        13018
+      ],
+      [
+        1459,
+        13018
+      ],
+      [
+        1299,
+        794
+      ]
+    ],
+    "created": "2015-02-12T13:46:04.426080+00:00",
+    "transformation_method": "affine",
+    "mapID": "c9b941d7-05e4-560f-8885-e500a265fc68",
+    "affine_transformation": null,
+    "changed": "2015-02-12T13:46:04.426080+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.821954406464155,
+          48.857339315578486
+        ],
+        "pixel": [
+          8996,
+          10512
+        ]
+      },
+      {
+        "location": [
+          14.835585284,
+          48.857275168
+        ],
+        "pixel": [
+          16582,
+          10728
+        ]
+      },
+      {
+        "location": [
+          14.822101593,
+          48.864814577
+        ],
+        "pixel": [
+          8347,
+          3190
+        ]
+      },
+      {
+        "location": [
+          14.81078267,
+          48.862047828
+        ],
+        "pixel": [
+          1771,
+          5910
+        ]
+      },
+      {
+        "location": [
+          14.829792940012691,
+          48.86046622506686
+        ],
+        "pixel": [
+          12875,
+          7278
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1838"]
+}

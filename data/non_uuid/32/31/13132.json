@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_pardubice_116/ImageProperties.xml",
+  "description": null,
+  "scale": 5390,
+  "external_id": "13132",
+  "title": "Mapa Bažantnice v Opatovickém revíru",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.747737,
+    50.110302,
+    15.785925,
+    50.13401
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/13132",
+  "id": "4f52261d-5aec-5358-a674-316579d3301e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1405,
+        9218
+      ],
+      [
+        10701,
+        9218
+      ],
+      [
+        10701,
+        594
+      ],
+      [
+        1405,
+        594
+      ],
+      [
+        1405,
+        9218
+      ]
+    ],
+    "created": "2014-12-18T10:36:40.103890+00:00",
+    "transformation_method": "affine",
+    "mapID": "4f52261d-5aec-5358-a674-316579d3301e",
+    "affine_transformation": null,
+    "changed": "2014-12-18T10:36:40.103890+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.770954163,
+          50.131944914
+        ],
+        "pixel": [
+          9069,
+          1010
+        ]
+      },
+      {
+        "location": [
+          15.777949364,
+          50.120086777
+        ],
+        "pixel": [
+          8893,
+          7106
+        ]
+      },
+      {
+        "location": [
+          15.765160592,
+          50.127983357
+        ],
+        "pixel": [
+          6621,
+          2050
+        ]
+      },
+      {
+        "location": [
+          15.764130623,
+          50.129881644
+        ],
+        "pixel": [
+          6781,
+          1138
+        ]
+      },
+      {
+        "location": [
+          15.754775078,
+          50.122508166
+        ],
+        "pixel": [
+          2605,
+          3362
+        ]
+      },
+      {
+        "location": [
+          15.774559052,
+          50.129056311
+        ],
+        "pixel": [
+          9565,
+          2786
+        ]
+      },
+      {
+        "location": [
+          15.764173539,
+          50.126497689
+        ],
+        "pixel": [
+          6141,
+          2690
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1806"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/domousice_0455/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "16151",
+  "title": "Kopie katastrální mapy obce Kalivody včetně enklávy Bdín  a Přerubenice s osadou Dučice z roku 1841, list II 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.847739,
+    50.22006,
+    13.868472,
+    50.22667
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/16151",
+  "id": "11014cb7-be42-5894-b656-2f6c3a2e7d67",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        272,
+        13536
+      ],
+      [
+        12240,
+        13536
+      ],
+      [
+        12240,
+        7584
+      ],
+      [
+        272,
+        7584
+      ],
+      [
+        272,
+        13536
+      ]
+    ],
+    "created": "2015-09-09T07:43:38.147370+00:00",
+    "transformation_method": "affine",
+    "mapID": "11014cb7-be42-5894-b656-2f6c3a2e7d67",
+    "affine_transformation": null,
+    "changed": "2015-09-09T07:43:38.147370+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.866055608,
+          50.224187711
+        ],
+        "pixel": [
+          10863,
+          9812
+        ]
+      },
+      {
+        "location": [
+          13.867160678,
+          50.222272574
+        ],
+        "pixel": [
+          11503,
+          11553
+        ]
+      },
+      {
+        "location": [
+          13.86511147,
+          50.221043826
+        ],
+        "pixel": [
+          10289,
+          12668
+        ]
+      },
+      {
+        "location": [
+          13.864752054,
+          50.225577681
+        ],
+        "pixel": [
+          10106,
+          8575
+        ]
+      },
+      {
+        "location": [
+          13.849806786,
+          50.222701599
+        ],
+        "pixel": [
+          1453,
+          11148
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1841"]
+}

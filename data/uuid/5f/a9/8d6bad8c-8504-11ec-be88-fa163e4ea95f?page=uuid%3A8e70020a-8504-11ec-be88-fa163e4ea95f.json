@@ -1,0 +1,111 @@
+{
+  "date": ["1889"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:8d6bad8c-8504-11ec-be88-fa163e4ea95f?page=uuid%3A8e70020a-8504-11ec-be88-fa163e4ea95f",
+  "description": "Polsko",
+  "scale": 75000,
+  "external_id": "1180214",
+  "title": "Przemyśl",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Fenzel",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    22.289722,
+    49.716488,
+    22.870619,
+    50.01656
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:8d6bad8c-8504-11ec-be88-fa163e4ea95f",
+  "id": "ab366c82-71a5-5671-ae43-30b49b83037f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2014-08-19T15:46:55.701070+00:00",
+    "transformation_method": "affine",
+    "mapID": "ab366c82-71a5-5671-ae43-30b49b83037f",
+    "affine_transformation": null,
+    "changed": "2014-08-19T15:46:55.701070+00:00",
+    "gcps": [
+      {
+        "location": [
+          22.815671230411603,
+          49.95198799586316
+        ],
+        "pixel": [
+          544,
+          96
+        ]
+      },
+      {
+        "location": [
+          22.39585187540056,
+          49.818910167024484
+        ],
+        "pixel": [
+          107,
+          292
+        ]
+      },
+      {
+        "location": [
+          22.515658105468752,
+          49.90608136759428
+        ],
+        "pixel": [
+          235,
+          163
+        ]
+      },
+      {
+        "location": [
+          22.767670417880964,
+          49.78387521286669
+        ],
+        "pixel": [
+          494,
+          346
+        ]
+      },
+      {
+        "location": [
+          22.699467207050358,
+          49.80827053731676
+        ],
+        "pixel": [
+          424,
+          308
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1889"]
+}

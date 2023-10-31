@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:2fa88032-abbd-11ec-ad2a-fa163e4ea95f?page=uuid%3A3060e726-abbd-11ec-ad2a-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1368589",
+  "title": "Kołki",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Czarnecki",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    25.219316,
+    50.95467,
+    25.925625,
+    51.27888
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:2fa88032-abbd-11ec-ad2a-fa163e4ea95f",
+  "id": "5b24cacc-a90a-5f07-b0eb-a515c6db171c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:44:30.115000+00:00",
+    "transformation_method": "affine",
+    "mapID": "5b24cacc-a90a-5f07-b0eb-a515c6db171c",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:44:30.115000+00:00",
+    "gcps": [
+      {
+        "location": [
+          25.404823596,
+          51.206404976
+        ],
+        "pixel": [
+          156,
+          99
+        ]
+      },
+      {
+        "location": [
+          25.763448793,
+          51.035405099
+        ],
+        "pixel": [
+          461,
+          333
+        ]
+      },
+      {
+        "location": [
+          25.667029959,
+          51.099281742
+        ],
+        "pixel": [
+          382,
+          246
+        ]
+      },
+      {
+        "location": [
+          25.352843285,
+          51.122579964
+        ],
+        "pixel": [
+          112,
+          213
+        ]
+      },
+      {
+        "location": [
+          25.812981606,
+          51.202457103
+        ],
+        "pixel": [
+          509,
+          105
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

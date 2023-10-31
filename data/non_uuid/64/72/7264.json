@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1388/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "7264",
+  "title": "Nová Ves o. České Budějovice 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.510247,
+    48.895977,
+    14.52744,
+    48.91109
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/7264",
+  "id": "a1ca253e-2118-5c7e-833e-710f1d67fe8e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1962,
+        14220
+      ],
+      [
+        11914,
+        14220
+      ],
+      [
+        11914,
+        812
+      ],
+      [
+        1962,
+        812
+      ],
+      [
+        1962,
+        14220
+      ]
+    ],
+    "created": "2016-10-16T19:06:42.279950+00:00",
+    "transformation_method": "affine",
+    "mapID": "a1ca253e-2118-5c7e-833e-710f1d67fe8e",
+    "affine_transformation": null,
+    "changed": "2016-10-16T19:06:42.279950+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.514206491,
+          48.899647144
+        ],
+        "pixel": [
+          4170,
+          10938
+        ]
+      },
+      {
+        "location": [
+          14.518508754,
+          48.904407639
+        ],
+        "pixel": [
+          6762,
+          6705
+        ]
+      },
+      {
+        "location": [
+          14.523765884,
+          48.902820858
+        ],
+        "pixel": [
+          9796,
+          8142
+        ]
+      },
+      {
+        "location": [
+          14.513970456,
+          48.908148718
+        ],
+        "pixel": [
+          4121,
+          3446
+        ]
+      },
+      {
+        "location": [
+          14.519452892,
+          48.899449662
+        ],
+        "pixel": [
+          7288,
+          11189
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1838"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": ["1933"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:8c9533fc-7eb4-11ec-b6b8-fa163e4ea95f?page=uuid%3A8d8f0bac-7eb4-11ec-b6b8-fa163e4ea95f",
+  "description": "Salisbury (Anglie : oblast)",
+  "scale": 25000,
+  "external_id": "1168340",
+  "title": "Salisbury plain Old Sarum",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -1.8422197,
+    51.06593,
+    -1.6258051,
+    51.15676
+  ],
+  "reviewed": null,
+  "publisher": "Ordnance Survey Office",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:8c9533fc-7eb4-11ec-b6b8-fa163e4ea95f",
+  "id": "561fd942-1c36-5e46-8925-3ccc50c486ca",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        35,
+        375
+      ],
+      [
+        561,
+        376
+      ],
+      [
+        563,
+        53
+      ],
+      [
+        37,
+        52
+      ],
+      [
+        35,
+        375
+      ]
+    ],
+    "created": "2017-04-17T16:59:55.987680+00:00",
+    "transformation_method": "affine",
+    "mapID": "561fd942-1c36-5e46-8925-3ccc50c486ca",
+    "affine_transformation": null,
+    "changed": "2017-04-17T16:59:55.987680+00:00",
+    "gcps": [
+      {
+        "location": [
+          -1.785976561,
+          51.127451047
+        ],
+        "pixel": [
+          173,
+          156
+        ]
+      },
+      {
+        "location": [
+          -1.652646368183902,
+          51.11583068210382
+        ],
+        "pixel": [
+          498,
+          199
+        ]
+      },
+      {
+        "location": [
+          -1.828269633,
+          51.071773436
+        ],
+        "pixel": [
+          66,
+          354
+        ]
+      },
+      {
+        "location": [
+          -1.700296077,
+          51.081102629
+        ],
+        "pixel": [
+          379,
+          323
+        ]
+      },
+      {
+        "location": [
+          -1.8047650220788944,
+          51.09322085024786
+        ],
+        "pixel": [
+          124,
+          278
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1933"]
+}

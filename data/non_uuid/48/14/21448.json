@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/mkp/T_2124_7/ImageProperties.xml",
+  "description": null,
+  "scale": 50000,
+  "external_id": "21448",
+  "title": "Auto-Praha : automobilní plán Velké Prahy a příručka pro automobilisty",
+  "collection_id": "820f1194-2d3f-5aeb-a260-b93d62e2851a",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.345997,
+    50.093365,
+    14.408211,
+    50.119373
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/21448",
+  "id": "5c70e1a0-cae0-5409-816e-cf88569c8c7a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        799,
+        7347
+      ],
+      [
+        11016,
+        7292
+      ],
+      [
+        10968,
+        485
+      ],
+      [
+        755,
+        535
+      ],
+      [
+        799,
+        7347
+      ]
+    ],
+    "created": "2014-12-05T21:50:37.034520+00:00",
+    "transformation_method": "affine",
+    "mapID": "5c70e1a0-cae0-5409-816e-cf88569c8c7a",
+    "affine_transformation": null,
+    "changed": "2014-12-05T21:50:37.034520+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.398195079,
+          50.09820596
+        ],
+        "pixel": [
+          9337,
+          6047
+        ]
+      },
+      {
+        "location": [
+          14.361617794,
+          50.11701322
+        ],
+        "pixel": [
+          3316,
+          1169
+        ]
+      },
+      {
+        "location": [
+          14.393066695,
+          50.115900438
+        ],
+        "pixel": [
+          8543,
+          1368
+        ]
+      },
+      {
+        "location": [
+          14.355041018,
+          50.112658258
+        ],
+        "pixel": [
+          2197,
+          2283
+        ]
+      },
+      {
+        "location": [
+          14.355561367,
+          50.105423193
+        ],
+        "pixel": [
+          2397,
+          4168
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1925"]
+}

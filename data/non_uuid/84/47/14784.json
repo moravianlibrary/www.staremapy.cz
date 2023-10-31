@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plana_M_7/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "14784",
+  "title": "Katastrální mapa obce Jemnice",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.720465,
+    49.74951,
+    12.768234,
+    49.79566
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/14784",
+  "id": "86456f12-e90d-5077-ac8c-3bee831cb8a6",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        13156,
+        0
+      ],
+      [
+        13156,
+        19822
+      ],
+      [
+        0,
+        19822
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        13156,
+        0
+      ]
+    ],
+    "created": "2014-11-25T16:46:20.759220+00:00",
+    "transformation_method": "affine",
+    "mapID": "86456f12-e90d-5077-ac8c-3bee831cb8a6",
+    "affine_transformation": null,
+    "changed": "2014-11-25T16:46:20.759220+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.730128884,
+          49.752427924
+        ],
+        "pixel": [
+          2274,
+          18570
+        ]
+      },
+      {
+        "location": [
+          12.760641694,
+          49.777563087
+        ],
+        "pixel": [
+          11366,
+          7782
+        ]
+      },
+      {
+        "location": [
+          12.735353827,
+          49.789076417
+        ],
+        "pixel": [
+          4134,
+          2720
+        ]
+      },
+      {
+        "location": [
+          12.756178498,
+          49.756170957
+        ],
+        "pixel": [
+          9720,
+          17229
+        ]
+      },
+      {
+        "location": [
+          12.727468133,
+          49.778408322
+        ],
+        "pixel": [
+          1850,
+          7227
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1840"]
+}

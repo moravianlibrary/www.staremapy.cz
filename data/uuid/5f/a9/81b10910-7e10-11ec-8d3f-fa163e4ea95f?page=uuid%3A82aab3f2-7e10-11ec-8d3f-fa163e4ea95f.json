@@ -1,0 +1,121 @@
+{
+  "date": ["1939"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:81b10910-7e10-11ec-8d3f-fa163e4ea95f?page=uuid%3A82aab3f2-7e10-11ec-8d3f-fa163e4ea95f",
+  "description": null,
+  "scale": 25000,
+  "external_id": "1141611",
+  "title": "Attersee",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.45824,
+    47.874783,
+    13.582432,
+    47.995796
+  ],
+  "reviewed": null,
+  "publisher": "Hauptvermessungsabteilung XIV",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:81b10910-7e10-11ec-8d3f-fa163e4ea95f",
+  "id": "270828c2-c9c0-5106-ac1b-20b18e4f356d",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        49,
+        28
+      ],
+      [
+        546,
+        27
+      ],
+      [
+        550,
+        397
+      ],
+      [
+        58,
+        404
+      ],
+      [
+        49,
+        28
+      ]
+    ],
+    "created": "2014-12-11T17:04:20.848020+00:00",
+    "transformation_method": "affine",
+    "mapID": "270828c2-c9c0-5106-ac1b-20b18e4f356d",
+    "affine_transformation": null,
+    "changed": "2014-12-11T17:04:20.848020+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.490168947,
+          47.93379244
+        ],
+        "pixel": [
+          177,
+          223
+        ]
+      },
+      {
+        "location": [
+          13.471908468,
+          47.946880497
+        ],
+        "pixel": [
+          104,
+          185
+        ]
+      },
+      {
+        "location": [
+          13.471221822,
+          47.946923616
+        ],
+        "pixel": [
+          99,
+          185
+        ]
+      },
+      {
+        "location": [
+          13.485920328,
+          47.938622685
+        ],
+        "pixel": [
+          160,
+          208
+        ]
+      },
+      {
+        "location": [
+          13.500597375,
+          47.92959436
+        ],
+        "pixel": [
+          219,
+          236
+        ]
+      },
+      {
+        "location": [
+          13.491842645,
+          47.935028796
+        ],
+        "pixel": [
+          184,
+          219
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1939"]
+}

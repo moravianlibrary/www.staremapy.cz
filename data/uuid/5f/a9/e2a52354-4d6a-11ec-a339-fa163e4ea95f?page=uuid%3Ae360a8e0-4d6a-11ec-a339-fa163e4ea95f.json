@@ -1,0 +1,111 @@
+{
+  "date": ["1939"],
+  "creator": "Hlávka, Emil",
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:e2a52354-4d6a-11ec-a339-fa163e4ea95f?page=uuid%3Ae360a8e0-4d6a-11ec-a339-fa163e4ea95f",
+  "description": "Praha (Česko)",
+  "scale": null,
+  "external_id": "1041172",
+  "title": "Hlavní město Praha",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.376779,
+    50.059296,
+    14.46894,
+    50.11073
+  ],
+  "reviewed": null,
+  "publisher": "Čedok",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:e2a52354-4d6a-11ec-a339-fa163e4ea95f",
+  "id": "085fc7b5-fc58-5335-891f-0e2eeb225d8b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2013-03-05T14:45:12.491750+00:00",
+    "transformation_method": "affine",
+    "mapID": "085fc7b5-fc58-5335-891f-0e2eeb225d8b",
+    "affine_transformation": null,
+    "changed": "2013-03-05T14:45:12.491750+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.387969971,
+          50.087097352
+        ],
+        "pixel": [
+          72,
+          206
+        ]
+      },
+      {
+        "location": [
+          14.393827915,
+          50.094221619
+        ],
+        "pixel": [
+          110,
+          143
+        ]
+      },
+      {
+        "location": [
+          14.412847459,
+          50.081268088
+        ],
+        "pixel": [
+          234,
+          255
+        ]
+      },
+      {
+        "location": [
+          14.405168295,
+          50.093939422
+        ],
+        "pixel": [
+          185,
+          145
+        ]
+      },
+      {
+        "location": [
+          14.408191144,
+          50.081151048
+        ],
+        "pixel": [
+          205,
+          256
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1939"]
+}

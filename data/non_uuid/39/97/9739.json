@@ -1,0 +1,101 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_2394/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "9739",
+  "title": null,
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.691081,
+    49.14837,
+    14.695181,
+    49.151833
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": null,
+  "id": "92b5178c-7611-5afe-b80f-701749411941",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        656,
+        5253
+      ],
+      [
+        3696,
+        5253
+      ],
+      [
+        3696,
+        2149
+      ],
+      [
+        656,
+        2149
+      ],
+      [
+        656,
+        5253
+      ]
+    ],
+    "created": "2017-02-21T16:04:44.725510+00:00",
+    "transformation_method": "affine",
+    "mapID": "92b5178c-7611-5afe-b80f-701749411941",
+    "affine_transformation": null,
+    "changed": "2017-02-21T16:04:44.725510+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.694898725,
+          49.1512638
+        ],
+        "pixel": [
+          3495,
+          2668
+        ]
+      },
+      {
+        "location": [
+          14.693408757895693,
+          49.15097257937879
+        ],
+        "pixel": [
+          2365,
+          2902
+        ]
+      },
+      {
+        "location": [
+          14.692747593,
+          49.149333992
+        ],
+        "pixel": [
+          1901,
+          4396
+        ]
+      },
+      {
+        "location": [
+          14.692837982522317,
+          49.14953704417451
+        ],
+        "pixel": [
+          1969,
+          4218
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

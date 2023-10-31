@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/nove_hrady_0035/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "18813",
+  "title": "Hraniční mapa mezi panstvími Nové Hrady a Freistadt, sekce IV. 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.45539,
+    48.620655,
+    14.506468,
+    48.651176
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/18813",
+  "id": "5f9820ef-7b42-5b5f-b273-c0140cc91992",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        16022,
+        0
+      ],
+      [
+        16022,
+        12994
+      ],
+      [
+        0,
+        12994
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        16022,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:07:14.682890+00:00",
+    "transformation_method": "affine",
+    "mapID": "5f9820ef-7b42-5b5f-b273-c0140cc91992",
+    "affine_transformation": null,
+    "changed": "2021-05-30T20:44:41.156277+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.493968483002934,
+          48.63074084613885
+        ],
+        "pixel": [
+          2532,
+          5218
+        ]
+      },
+      {
+        "location": [
+          14.49524584560203,
+          48.625152996076025
+        ],
+        "pixel": [
+          929,
+          2358
+        ]
+      },
+      {
+        "location": [
+          14.491779800446782,
+          48.63332182684121
+        ],
+        "pixel": [
+          3643,
+          6141
+        ]
+      },
+      {
+        "location": [
+          14.494044215963356,
+          48.62844337862924
+        ],
+        "pixel": [
+          2046,
+          3812
+        ]
+      },
+      {
+        "location": [
+          14.484956260712897,
+          48.63380397343562
+        ],
+        "pixel": [
+          6498,
+          5687
+        ]
+      },
+      {
+        "location": [
+          14.472510810883795,
+          48.64282210171518
+        ],
+        "pixel": [
+          12030,
+          9349
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1800"]
+}

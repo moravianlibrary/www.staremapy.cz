@@ -1,0 +1,119 @@
+{
+  "date": ["1929"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.mzk.cz/search/iiif/uuid:674b1f6a-b8e7-4bcd-838f-f166d06192e0/info.json",
+  "description": null,
+  "scale": 600000,
+  "external_id": "674b1f6a-b8e7-4bcd-838f-f166d06192e0",
+  "title": "Kancelářská mapa Republiky československé",
+  "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.393522,
+    47.448467,
+    20.813162,
+    51.13743
+  ],
+  "reviewed": null,
+  "publisher": "Tisk a náklad kartografického ústavu G. Freytaga & Berndta",
+  "link_url": "https://www.digitalniknihovna.cz/mzk/view/uuid:53254731-6910-4680-b2d8-3d3b83cda600?page=uuid:674b1f6a-b8e7-4bcd-838f-f166d06192e0",
+  "id": "b476a397-496f-51dd-900c-a48c65590905",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        9214,
+        2551
+      ],
+      [
+        9212,
+        1717
+      ],
+      [
+        12936,
+        1743
+      ],
+      [
+        12941,
+        5145
+      ],
+      [
+        7910,
+        5124
+      ],
+      [
+        7904,
+        2550
+      ],
+      [
+        9214,
+        2551
+      ]
+    ],
+    "created": "2020-09-04T12:43:30.269691+00:00",
+    "transformation_method": "affine",
+    "mapID": "b476a397-496f-51dd-900c-a48c65590905",
+    "affine_transformation": null,
+    "changed": "2020-09-04T12:43:30.269691+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.131025302188203,
+          49.78621532049439
+        ],
+        "pixel": [
+          7942,
+          4682
+        ]
+      },
+      {
+        "location": [
+          18.540171134266537,
+          49.85352419231947
+        ],
+        "pixel": [
+          12709,
+          3504
+        ]
+      },
+      {
+        "location": [
+          18.296272786897127,
+          49.83748277759369
+        ],
+        "pixel": [
+          9870,
+          3771
+        ]
+      },
+      {
+        "location": [
+          18.326909673472834,
+          49.92000870685035
+        ],
+        "pixel": [
+          10217,
+          2318
+        ]
+      },
+      {
+        "location": [
+          18.413181830629213,
+          49.78941688562753
+        ],
+        "pixel": [
+          11245,
+          4623
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

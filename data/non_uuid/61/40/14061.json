@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Kout_na_Sumave_M_108-8/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "14061",
+  "title": "Katastrální mapa obcí Kout a Podzámčí, Nový a Starý Dvůr",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.001796,
+    49.40098,
+    13.038143,
+    49.41417
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/14061",
+  "id": "fe8c057c-6f02-5f08-8044-e2500aa43f84",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        15417,
+        1056
+      ],
+      [
+        15514,
+        13035
+      ],
+      [
+        477,
+        13160
+      ],
+      [
+        415,
+        985
+      ],
+      [
+        15417,
+        1056
+      ]
+    ],
+    "created": "2014-11-25T16:33:48.742590+00:00",
+    "transformation_method": "affine",
+    "mapID": "fe8c057c-6f02-5f08-8044-e2500aa43f84",
+    "affine_transformation": null,
+    "changed": "2014-11-25T16:33:48.742590+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.02273276422858,
+          49.405141174628056
+        ],
+        "pixel": [
+          8603,
+          9138
+        ]
+      },
+      {
+        "location": [
+          13.016120708169504,
+          49.4110560017254
+        ],
+        "pixel": [
+          6835,
+          4004
+        ]
+      },
+      {
+        "location": [
+          13.018674171151682,
+          49.40822184590456
+        ],
+        "pixel": [
+          7540,
+          6424
+        ]
+      },
+      {
+        "location": [
+          13.011606496210609,
+          49.411515730497314
+        ],
+        "pixel": [
+          5325,
+          3191
+        ]
+      },
+      {
+        "location": [
+          13.008237641687902,
+          49.41245109685855
+        ],
+        "pixel": [
+          3148,
+          2650
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1842"]
+}

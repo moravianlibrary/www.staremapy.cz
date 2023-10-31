@@ -1,0 +1,115 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Tynec_M_18-1_ad_II/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "26382",
+  "title": "Katastrální mapa obce Mochtín",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.323942,
+    49.365307,
+    13.333033,
+    49.371532
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/26382",
+  "id": "75d59f09-c6a2-540d-b269-db1dc0314b35",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        4242,
+        3286
+      ],
+      [
+        4266,
+        1094
+      ],
+      [
+        2362,
+        3330
+      ],
+      [
+        1722,
+        5070
+      ],
+      [
+        4250,
+        5542
+      ],
+      [
+        4242,
+        3286
+      ]
+    ],
+    "created": "2015-07-13T05:26:11.453850+00:00",
+    "transformation_method": "affine",
+    "mapID": "75d59f09-c6a2-540d-b269-db1dc0314b35",
+    "affine_transformation": null,
+    "changed": "2015-07-13T05:26:11.453850+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.329421926,
+          49.370751369
+        ],
+        "pixel": [
+          4035,
+          1790
+        ]
+      },
+      {
+        "location": [
+          13.32772677,
+          49.368501759
+        ],
+        "pixel": [
+          3155,
+          3854
+        ]
+      },
+      {
+        "location": [
+          13.327190328,
+          49.367230195
+        ],
+        "pixel": [
+          2635,
+          4966
+        ]
+      },
+      {
+        "location": [
+          13.325323511,
+          49.368732314
+        ],
+        "pixel": [
+          2331,
+          3973
+        ]
+      },
+      {
+        "location": [
+          13.324567128,
+          49.368320109
+        ],
+        "pixel": [
+          2035,
+          4669
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1843"]
+}

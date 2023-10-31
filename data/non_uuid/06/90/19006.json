@@ -1,0 +1,134 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Bor_M_26/ImageProperties.xml",
+  "description": null,
+  "scale": 2616,
+  "external_id": "19006",
+  "title": "Mapa pozemků Nového dvora a Dudákovského mlýna",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.757269,
+    49.675793,
+    12.805694,
+    49.698215
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/19006",
+  "id": "d6360d80-a92d-53ae-924f-f345562dba67",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        29558,
+        0
+      ],
+      [
+        29558,
+        18876
+      ],
+      [
+        0,
+        18876
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        29558,
+        0
+      ]
+    ],
+    "created": "2014-11-25T16:57:25.877160+00:00",
+    "transformation_method": "affine",
+    "mapID": "d6360d80-a92d-53ae-924f-f345562dba67",
+    "affine_transformation": null,
+    "changed": "2014-11-25T16:57:25.877160+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.767577073,
+          49.694008423
+        ],
+        "pixel": [
+          24486,
+          15301
+        ]
+      },
+      {
+        "location": [
+          12.782103917,
+          49.683822675
+        ],
+        "pixel": [
+          14039,
+          6355
+        ]
+      },
+      {
+        "location": [
+          12.802016636,
+          49.68446477
+        ],
+        "pixel": [
+          1197,
+          8555
+        ]
+      },
+      {
+        "location": [
+          12.774589083,
+          49.682703356
+        ],
+        "pixel": [
+          18756,
+          4606
+        ]
+      },
+      {
+        "location": [
+          12.789308054,
+          49.685127335
+        ],
+        "pixel": [
+          9419,
+          8230
+        ]
+      },
+      {
+        "location": [
+          12.766136434,
+          49.68833965
+        ],
+        "pixel": [
+          24932,
+          9538
+        ]
+      },
+      {
+        "location": [
+          12.800344226,
+          49.693613522
+        ],
+        "pixel": [
+          3404,
+          17402
+        ]
+      }
+    ]
+  },
+  "pubdate": [
+    "1840",
+    "1860"
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_pardubice_347_VIII/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "23994",
+  "title": "Indikační skica mapy stabilního katastru pro město Holice  VIII.",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.967717,
+    50.054626,
+    15.994971,
+    50.068657
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/23994",
+  "id": "5a5ec339-2061-5e85-8b47-d4331f956d81",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1403,
+        13552
+      ],
+      [
+        16655,
+        13588
+      ],
+      [
+        16672,
+        1348
+      ],
+      [
+        1381,
+        1306
+      ],
+      [
+        1403,
+        13552
+      ]
+    ],
+    "created": "2015-07-27T16:27:18.260610+00:00",
+    "transformation_method": "affine",
+    "mapID": "5a5ec339-2061-5e85-8b47-d4331f956d81",
+    "affine_transformation": null,
+    "changed": "2015-07-27T16:27:18.260610+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.979442229,
+          50.068089464
+        ],
+        "pixel": [
+          7762,
+          1672
+        ]
+      },
+      {
+        "location": [
+          15.970612397,
+          50.057820457
+        ],
+        "pixel": [
+          2989,
+          10999
+        ]
+      },
+      {
+        "location": [
+          15.994450566,
+          50.062477791
+        ],
+        "pixel": [
+          16527,
+          6539
+        ]
+      },
+      {
+        "location": [
+          15.98689115497796,
+          50.06810369725778
+        ],
+        "pixel": [
+          12054,
+          1592
+        ]
+      },
+      {
+        "location": [
+          15.98586118671624,
+          50.0679866251034
+        ],
+        "pixel": [
+          11455,
+          1715
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1840"]
+}

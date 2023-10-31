@@ -1,0 +1,123 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/orlik_0480/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "16769",
+  "title": "Mapa dvora Dol 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.061418,
+    49.578186,
+    14.082454,
+    49.589462
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/16769",
+  "id": "93012804-e98f-5b20-859f-5e6ca31d4e3d",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        624,
+        10496
+      ],
+      [
+        9200,
+        10496
+      ],
+      [
+        10168,
+        9176
+      ],
+      [
+        11008,
+        7728
+      ],
+      [
+        12848,
+        6880
+      ],
+      [
+        12752,
+        256
+      ],
+      [
+        624,
+        256
+      ],
+      [
+        624,
+        10496
+      ]
+    ],
+    "created": "2015-06-23T09:07:40.170080+00:00",
+    "transformation_method": "affine",
+    "mapID": "93012804-e98f-5b20-859f-5e6ca31d4e3d",
+    "affine_transformation": null,
+    "changed": "2015-06-23T09:07:40.170080+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.064791519,
+          49.587165225
+        ],
+        "pixel": [
+          2554,
+          2349
+        ]
+      },
+      {
+        "location": [
+          14.071550686,
+          49.588563241
+        ],
+        "pixel": [
+          6596,
+          1063
+        ]
+      },
+      {
+        "location": [
+          14.075801987,
+          49.580176284
+        ],
+        "pixel": [
+          8850,
+          8694
+        ]
+      },
+      {
+        "location": [
+          14.070666897844053,
+          49.582540532818115
+        ],
+        "pixel": [
+          5913,
+          6482
+        ]
+      },
+      {
+        "location": [
+          14.070956576417661,
+          49.58238054313958
+        ],
+        "pixel": [
+          5991,
+          6730
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1877"]
+}

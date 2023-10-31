@@ -1,0 +1,124 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Miletice_Dlazov_M_10/ImageProperties.xml",
+  "description": null,
+  "scale": 2652,
+  "external_id": "19357",
+  "title": "Plán dvora v Mileticích",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.150869,
+    49.345047,
+    13.196934,
+    49.368263
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/19357",
+  "id": "392f59bf-48cc-5153-9993-8f0838f5b22e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        -64,
+        15360
+      ],
+      [
+        23632,
+        15360
+      ],
+      [
+        23712,
+        -32
+      ],
+      [
+        -64,
+        -64
+      ],
+      [
+        -64,
+        15360
+      ]
+    ],
+    "created": "2015-09-08T07:51:00.252740+00:00",
+    "transformation_method": "affine",
+    "mapID": "392f59bf-48cc-5153-9993-8f0838f5b22e",
+    "affine_transformation": null,
+    "changed": "2015-09-08T07:51:00.252740+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.167649113,
+          49.353606981
+        ],
+        "pixel": [
+          16109,
+          5995
+        ]
+      },
+      {
+        "location": [
+          13.172610469,
+          49.357438589
+        ],
+        "pixel": [
+          12205,
+          8544
+        ]
+      },
+      {
+        "location": [
+          13.185978144,
+          49.361134075
+        ],
+        "pixel": [
+          3965,
+          9586
+        ]
+      },
+      {
+        "location": [
+          13.174023604,
+          49.360064555
+        ],
+        "pixel": [
+          10677,
+          10722
+        ]
+      },
+      {
+        "location": [
+          13.16116247,
+          49.358833578
+        ],
+        "pixel": [
+          18513,
+          11884
+        ]
+      },
+      {
+        "location": [
+          13.165379964,
+          49.361370752
+        ],
+        "pixel": [
+          15270,
+          13332
+        ]
+      }
+    ]
+  },
+  "pubdate": [
+    "1880",
+    "1900"
+  ]
+}

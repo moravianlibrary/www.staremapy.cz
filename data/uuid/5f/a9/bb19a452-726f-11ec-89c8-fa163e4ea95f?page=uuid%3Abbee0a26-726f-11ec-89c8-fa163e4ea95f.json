@@ -1,0 +1,121 @@
+{
+  "date": ["1938"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:bb19a452-726f-11ec-89c8-fa163e4ea95f?page=uuid%3Abbee0a26-726f-11ec-89c8-fa163e4ea95f",
+  "description": "Broumov-oblast (Náchod, Česko)",
+  "scale": 25000,
+  "external_id": "1119389",
+  "title": "[Gradkartenblatt]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.07231,
+    50.485195,
+    16.350397,
+    50.631145
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:bb19a452-726f-11ec-89c8-fa163e4ea95f",
+  "id": "e26c08b6-10d0-5247-8719-673a8fff4038",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2014-08-19T13:34:36.921270+00:00",
+    "transformation_method": "affine",
+    "mapID": "e26c08b6-10d0-5247-8719-673a8fff4038",
+    "affine_transformation": null,
+    "changed": "2014-08-19T13:34:36.921270+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.321374816042358,
+          50.59056766854769
+        ],
+        "pixel": [
+          538,
+          123
+        ]
+      },
+      {
+        "location": [
+          16.22238536267278,
+          50.61414454360988
+        ],
+        "pixel": [
+          322,
+          51
+        ]
+      },
+      {
+        "location": [
+          16.21807237057684,
+          50.60458531916743
+        ],
+        "pixel": [
+          313,
+          80
+        ]
+      },
+      {
+        "location": [
+          16.266687168705563,
+          50.61467225191518
+        ],
+        "pixel": [
+          419,
+          50
+        ]
+      },
+      {
+        "location": [
+          16.20319511339993,
+          50.60551137584818
+        ],
+        "pixel": [
+          280,
+          78
+        ]
+      },
+      {
+        "location": [
+          16.19169380114407,
+          50.612020446321026
+        ],
+        "pixel": [
+          257,
+          56
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1938"]
+}

@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/Vs_Litomysl_034_VIII/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "31562",
+  "title": "Indikační skica mapy stabilního katastru pro obec Němčice a osady Člupek a Pudilka VIII",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.382528,
+    49.880306,
+    16.401201,
+    49.890846
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/31562",
+  "id": "88e7d0e1-b9ed-5d81-b975-3062474bfd2b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        10732,
+        0
+      ],
+      [
+        10732,
+        9402
+      ],
+      [
+        0,
+        9402
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        10732,
+        0
+      ]
+    ],
+    "created": "2014-11-25T19:15:32.134690+00:00",
+    "transformation_method": "affine",
+    "mapID": "88e7d0e1-b9ed-5d81-b975-3062474bfd2b",
+    "affine_transformation": null,
+    "changed": "2014-11-25T19:15:32.134690+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.389276107,
+          49.888748022
+        ],
+        "pixel": [
+          3820,
+          1869
+        ]
+      },
+      {
+        "location": [
+          16.384621143,
+          49.889566223
+        ],
+        "pixel": [
+          1076,
+          1137
+        ]
+      },
+      {
+        "location": [
+          16.395371437,
+          49.889172227
+        ],
+        "pixel": [
+          7352,
+          1375
+        ]
+      },
+      {
+        "location": [
+          16.388987779,
+          49.882197266
+        ],
+        "pixel": [
+          3740,
+          7795
+        ]
+      },
+      {
+        "location": [
+          16.396122456,
+          49.882197265
+        ],
+        "pixel": [
+          7898,
+          7741
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

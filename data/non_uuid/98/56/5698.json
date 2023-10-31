@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_0572/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "5698",
+  "title": "Přehledná mapa polesí Dvořiště 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.596412,
+    49.01704,
+    14.790638,
+    49.129723
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/5698",
+  "id": "5000ab62-381e-5261-9761-fa956b85865e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1376,
+        28832
+      ],
+      [
+        36064,
+        28832
+      ],
+      [
+        36064,
+        1632
+      ],
+      [
+        1376,
+        1632
+      ],
+      [
+        1376,
+        28832
+      ]
+    ],
+    "created": "2015-06-22T17:00:57.978440+00:00",
+    "transformation_method": "affine",
+    "mapID": "5000ab62-381e-5261-9761-fa956b85865e",
+    "affine_transformation": null,
+    "changed": "2015-06-22T17:00:57.978440+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.757046849,
+          49.080157798
+        ],
+        "pixel": [
+          30824,
+          8212
+        ]
+      },
+      {
+        "location": [
+          14.710564167,
+          49.068937263
+        ],
+        "pixel": [
+          22725,
+          15308
+        ]
+      },
+      {
+        "location": [
+          14.718208860611,
+          49.08174111593621
+        ],
+        "pixel": [
+          22687,
+          10757
+        ]
+      },
+      {
+        "location": [
+          14.712424755,
+          49.085598739
+        ],
+        "pixel": [
+          21036,
+          9897
+        ]
+      },
+      {
+        "location": [
+          14.65103522,
+          49.097842652
+        ],
+        "pixel": [
+          7198,
+          10883
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1821"]
+}

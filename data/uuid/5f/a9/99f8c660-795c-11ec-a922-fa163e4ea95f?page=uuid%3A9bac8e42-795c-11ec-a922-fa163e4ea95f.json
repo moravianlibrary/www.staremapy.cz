@@ -1,0 +1,111 @@
+{
+  "date": ["1937"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:99f8c660-795c-11ec-a922-fa163e4ea95f?page=uuid%3A9bac8e42-795c-11ec-a922-fa163e4ea95f",
+  "description": "Lam (Německo)",
+  "scale": 25000,
+  "external_id": "1125362",
+  "title": "[Kartenblatt]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.791493,
+    49.102673,
+    13.131248,
+    49.274204
+  ],
+  "reviewed": null,
+  "publisher": "Reichsamt für Landesaufnahme",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:99f8c660-795c-11ec-a922-fa163e4ea95f",
+  "id": "94904640-8e69-559a-a50f-955c2cdd91cf",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        515,
+        66
+      ],
+      [
+        516,
+        386
+      ],
+      [
+        75,
+        388
+      ],
+      [
+        77,
+        66
+      ],
+      [
+        515,
+        66
+      ]
+    ],
+    "created": "2014-08-19T14:04:09.096380+00:00",
+    "transformation_method": "affine",
+    "mapID": "94904640-8e69-559a-a50f-955c2cdd91cf",
+    "affine_transformation": null,
+    "changed": "2014-08-19T14:04:09.096380+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.841374841343669,
+          49.24064795668511
+        ],
+        "pixel": [
+          88,
+          86
+        ]
+      },
+      {
+        "location": [
+          12.997102237626718,
+          49.12936089023643
+        ],
+        "pixel": [
+          363,
+          375
+        ]
+      },
+      {
+        "location": [
+          13.08092416384188,
+          49.247350122843386
+        ],
+        "pixel": [
+          512,
+          69
+        ]
+      },
+      {
+        "location": [
+          12.844987966488594,
+          49.16461189686294
+        ],
+        "pixel": [
+          93,
+          283
+        ]
+      },
+      {
+        "location": [
+          12.86444576514649,
+          49.1285133254014
+        ],
+        "pixel": [
+          128,
+          377
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1937"]
+}

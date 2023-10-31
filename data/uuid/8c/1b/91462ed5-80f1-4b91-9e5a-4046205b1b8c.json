@@ -1,0 +1,131 @@
+{
+  "date": ["1935"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.mzk.cz/search/iiif/uuid:91462ed5-80f1-4b91-9e5a-4046205b1b8c/info.json",
+  "description": null,
+  "scale": 75000,
+  "external_id": "91462ed5-80f1-4b91-9e5a-4046205b1b8c",
+  "title": "Vác",
+  "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    18.831032,
+    47.749077,
+    19.332024,
+    47.99872
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://www.digitalniknihovna.cz/mzk/view/uuid:40fcce5e-3169-4c42-aab3-083279fb524f?page=uuid:91462ed5-80f1-4b91-9e5a-4046205b1b8c",
+  "id": "6c6f8ca1-1e6c-51dc-b4bc-9840fdc5e44b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        12742,
+        982
+      ],
+      [
+        12791,
+        9731
+      ],
+      [
+        1059,
+        9698
+      ],
+      [
+        1079,
+        960
+      ],
+      [
+        12742,
+        982
+      ]
+    ],
+    "created": "2018-12-19T14:27:52.977214+00:00",
+    "transformation_method": "affine",
+    "mapID": "6c6f8ca1-1e6c-51dc-b4bc-9840fdc5e44b",
+    "affine_transformation": null,
+    "changed": "2018-12-19T14:27:52.977214+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.876742636207005,
+          47.78398898164855
+        ],
+        "pixel": [
+          2114,
+          8470
+        ]
+      },
+      {
+        "location": [
+          19.13996965824889,
+          47.77222360939595
+        ],
+        "pixel": [
+          8300,
+          8929
+        ]
+      },
+      {
+        "location": [
+          19.32429815430385,
+          47.811788731666866
+        ],
+        "pixel": [
+          12606,
+          7525
+        ]
+      },
+      {
+        "location": [
+          19.006167496633843,
+          47.86805639410764
+        ],
+        "pixel": [
+          5145,
+          5541
+        ]
+      },
+      {
+        "location": [
+          19.198985349128073,
+          47.997090366351756
+        ],
+        "pixel": [
+          9635,
+          1026
+        ]
+      },
+      {
+        "location": [
+          18.858323346564593,
+          47.99852622586417
+        ],
+        "pixel": [
+          1682,
+          961
+        ]
+      },
+      {
+        "location": [
+          19.13616246554574,
+          47.92667017338775
+        ],
+        "pixel": [
+          8190,
+          3508
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

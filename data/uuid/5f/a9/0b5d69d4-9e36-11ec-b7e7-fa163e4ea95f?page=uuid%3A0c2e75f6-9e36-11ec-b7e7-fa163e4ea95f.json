@@ -1,0 +1,111 @@
+{
+  "date": ["1908"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:0b5d69d4-9e36-11ec-b7e7-fa163e4ea95f?page=uuid%3A0c2e75f6-9e36-11ec-b7e7-fa163e4ea95f",
+  "description": null,
+  "scale": 200000,
+  "external_id": "1304476",
+  "title": "38°44° Užice",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    19.704008,
+    43.36997,
+    20.963104,
+    44.610172
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:0b5d69d4-9e36-11ec-b7e7-fa163e4ea95f",
+  "id": "72b5257b-8084-560a-bfe2-de9ae7f6aa89",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:50:47.760400+00:00",
+    "transformation_method": "affine",
+    "mapID": "72b5257b-8084-560a-bfe2-de9ae7f6aa89",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:50:47.760400+00:00",
+    "gcps": [
+      {
+        "location": [
+          20.075269069,
+          44.455843485
+        ],
+        "pixel": [
+          178,
+          55
+        ]
+      },
+      {
+        "location": [
+          20.686942987,
+          43.718569209
+        ],
+        "pixel": [
+          472,
+          320
+        ]
+      },
+      {
+        "location": [
+          19.877473764,
+          44.271811113
+        ],
+        "pixel": [
+          83,
+          119
+        ]
+      },
+      {
+        "location": [
+          20.798694543,
+          44.251864645
+        ],
+        "pixel": [
+          524,
+          129
+        ]
+      },
+      {
+        "location": [
+          20.222141082,
+          43.59474023
+        ],
+        "pixel": [
+          241,
+          365
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1908"]
+}

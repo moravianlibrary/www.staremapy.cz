@@ -1,0 +1,111 @@
+{
+  "date": ["1927"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:d8b9f8ec-9f54-11ec-a5b6-fa163e4ea95f?page=uuid%3Ad9bb911a-9f54-11ec-a5b6-fa163e4ea95f",
+  "description": "Szarvas (Maďarsko)",
+  "scale": 75000,
+  "external_id": "1332081",
+  "title": "Szarvas",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    20.268446,
+    46.70422,
+    20.902576,
+    47.03318
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:d8b9f8ec-9f54-11ec-a5b6-fa163e4ea95f",
+  "id": "be754df2-5c56-578a-a288-4ba9a947c753",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:09:19.560600+00:00",
+    "transformation_method": "affine",
+    "mapID": "be754df2-5c56-578a-a288-4ba9a947c753",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:09:19.560600+00:00",
+    "gcps": [
+      {
+        "location": [
+          20.383620242,
+          46.901145643
+        ],
+        "pixel": [
+          108,
+          177
+        ]
+      },
+      {
+        "location": [
+          20.48502949,
+          46.792179377
+        ],
+        "pixel": [
+          204,
+          324
+        ]
+      },
+      {
+        "location": [
+          20.550131778,
+          46.868470647
+        ],
+        "pixel": [
+          266,
+          223
+        ]
+      },
+      {
+        "location": [
+          20.821656399,
+          46.75356241
+        ],
+        "pixel": [
+          524,
+          378
+        ]
+      },
+      {
+        "location": [
+          20.816035251,
+          46.934328215
+        ],
+        "pixel": [
+          520,
+          133
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1927"]
+}

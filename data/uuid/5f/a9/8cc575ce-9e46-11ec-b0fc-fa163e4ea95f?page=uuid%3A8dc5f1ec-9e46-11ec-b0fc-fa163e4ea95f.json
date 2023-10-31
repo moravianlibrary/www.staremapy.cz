@@ -1,0 +1,121 @@
+{
+  "date": ["1922"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:8cc575ce-9e46-11ec-b0fc-fa163e4ea95f?page=uuid%3A8dc5f1ec-9e46-11ec-b0fc-fa163e4ea95f",
+  "description": "Blatná (Strakonice, Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1304941",
+  "title": "Písek",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.8348,
+    49.24875,
+    14.334648,
+    49.49931
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:8cc575ce-9e46-11ec-b0fc-fa163e4ea95f",
+  "id": "bc7e0dfd-1d20-535b-b280-6871d816d4e8",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        52,
+        390
+      ],
+      [
+        547,
+        390
+      ],
+      [
+        546,
+        31
+      ],
+      [
+        53,
+        30
+      ],
+      [
+        52,
+        390
+      ]
+    ],
+    "created": "2017-08-31T18:06:00.785740+00:00",
+    "transformation_method": "affine",
+    "mapID": "bc7e0dfd-1d20-535b-b280-6871d816d4e8",
+    "affine_transformation": null,
+    "changed": "2017-08-31T18:06:00.785740+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.145147778,
+          49.491637827
+        ],
+        "pixel": [
+          360,
+          40
+        ]
+      },
+      {
+        "location": [
+          14.158365704,
+          49.280217098
+        ],
+        "pixel": [
+          369,
+          347
+        ]
+      },
+      {
+        "location": [
+          14.307882764,
+          49.255714287
+        ],
+        "pixel": [
+          522,
+          382
+        ]
+      },
+      {
+        "location": [
+          14.30736778,
+          49.468300013
+        ],
+        "pixel": [
+          525,
+          76
+        ]
+      },
+      {
+        "location": [
+          13.839161374,
+          49.393387837
+        ],
+        "pixel": [
+          57,
+          181
+        ]
+      },
+      {
+        "location": [
+          14.012796857,
+          49.266777062
+        ],
+        "pixel": [
+          228,
+          365
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1922"]
+}

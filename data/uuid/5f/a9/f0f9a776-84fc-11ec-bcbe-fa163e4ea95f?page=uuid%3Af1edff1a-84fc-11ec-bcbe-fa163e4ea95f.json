@@ -1,0 +1,111 @@
+{
+  "date": ["1914"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:f0f9a776-84fc-11ec-bcbe-fa163e4ea95f?page=uuid%3Af1edff1a-84fc-11ec-bcbe-fa163e4ea95f",
+  "description": "Koniecpol (Polsko)",
+  "scale": 75000,
+  "external_id": "1179989",
+  "title": "Koniecpol",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    19.326727,
+    50.74787,
+    19.830166,
+    50.999508
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:f0f9a776-84fc-11ec-bcbe-fa163e4ea95f",
+  "id": "a09c1c4b-85af-55ef-9c2a-ac666345da60",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        45,
+        410
+      ],
+      [
+        556,
+        410
+      ],
+      [
+        557,
+        33
+      ],
+      [
+        49,
+        32
+      ],
+      [
+        45,
+        410
+      ]
+    ],
+    "created": "2014-12-27T19:22:37.444550+00:00",
+    "transformation_method": "affine",
+    "mapID": "a09c1c4b-85af-55ef-9c2a-ac666345da60",
+    "affine_transformation": null,
+    "changed": "2014-12-27T19:22:37.444550+00:00",
+    "gcps": [
+      {
+        "location": [
+          19.627761564,
+          50.926832882
+        ],
+        "pixel": [
+          352,
+          141
+        ]
+      },
+      {
+        "location": [
+          19.676749429,
+          50.772296878
+        ],
+        "pixel": [
+          401,
+          374
+        ]
+      },
+      {
+        "location": [
+          19.799916467,
+          50.910572949
+        ],
+        "pixel": [
+          526,
+          166
+        ]
+      },
+      {
+        "location": [
+          19.70734807,
+          50.827080439
+        ],
+        "pixel": [
+          431,
+          291
+        ]
+      },
+      {
+        "location": [
+          19.527296743,
+          50.824200122
+        ],
+        "pixel": [
+          248,
+          296
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1914"]
+}

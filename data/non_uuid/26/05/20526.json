@@ -1,0 +1,123 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plasy_M_130_5/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "20526",
+  "title": "Katastrální mapa obce Jarov",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.480268,
+    49.859726,
+    13.503976,
+    49.878307
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/20526",
+  "id": "98b7b3a8-e9a4-581c-8ffe-88e924e83155",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        662,
+        1016
+      ],
+      [
+        2718,
+        1028
+      ],
+      [
+        9742,
+        4556
+      ],
+      [
+        14318,
+        10956
+      ],
+      [
+        14294,
+        14396
+      ],
+      [
+        2622,
+        18220
+      ],
+      [
+        618,
+        17868
+      ],
+      [
+        662,
+        1016
+      ]
+    ],
+    "created": "2015-01-31T15:14:17.891950+00:00",
+    "transformation_method": "affine",
+    "mapID": "98b7b3a8-e9a4-581c-8ffe-88e924e83155",
+    "affine_transformation": null,
+    "changed": "2015-01-31T15:14:17.891950+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.489003321680237,
+          49.87431423240358
+        ],
+        "pixel": [
+          5688,
+          4726
+        ]
+      },
+      {
+        "location": [
+          13.503002259781905,
+          49.86519731789062
+        ],
+        "pixel": [
+          13783,
+          13257
+        ]
+      },
+      {
+        "location": [
+          13.480943631883939,
+          49.864239731813
+        ],
+        "pixel": [
+          914,
+          14022
+        ]
+      },
+      {
+        "location": [
+          13.486934286657338,
+          49.87639836754485
+        ],
+        "pixel": [
+          4607,
+          2876
+        ]
+      },
+      {
+        "location": [
+          13.494312116456445,
+          49.873919448412124
+        ],
+        "pixel": [
+          8662,
+          5048
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1872"]
+}

@@ -1,0 +1,119 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_pardubice_338_IV/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "23941",
+  "title": "Indikační skica mapy stabilního katastru pro obec Dolany IV.",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.665617,
+    50.107662,
+    15.679255,
+    50.114452
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/23941",
+  "id": "1bda67ca-62ad-586a-9159-7049fbcdc9e2",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1912,
+        5160
+      ],
+      [
+        3696,
+        6200
+      ],
+      [
+        8168,
+        6200
+      ],
+      [
+        8168,
+        216
+      ],
+      [
+        728,
+        216
+      ],
+      [
+        728,
+        3400
+      ],
+      [
+        1912,
+        5160
+      ]
+    ],
+    "created": "2015-05-07T09:22:27.745870+00:00",
+    "transformation_method": "affine",
+    "mapID": "1bda67ca-62ad-586a-9159-7049fbcdc9e2",
+    "affine_transformation": null,
+    "changed": "2015-05-07T09:22:27.745870+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.66860986,
+          50.109381599
+        ],
+        "pixel": [
+          2518,
+          4709
+        ]
+      },
+      {
+        "location": [
+          15.674221042,
+          50.108831143
+        ],
+        "pixel": [
+          5478,
+          5197
+        ]
+      },
+      {
+        "location": [
+          15.666560653,
+          50.113571738
+        ],
+        "pixel": [
+          1158,
+          1021
+        ]
+      },
+      {
+        "location": [
+          15.6754334,
+          50.109429764
+        ],
+        "pixel": [
+          6230,
+          4629
+        ]
+      },
+      {
+        "location": [
+          15.671281341,
+          50.108493986
+        ],
+        "pixel": [
+          3822,
+          5613
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

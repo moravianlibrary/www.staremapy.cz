@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/4644/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "45685",
+  "title": "Umgebung von Sarajevo",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    18.345238,
+    43.80342,
+    18.555765,
+    43.955143
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/45685",
+  "id": "e8c97bf4-f2ec-53af-9fe6-b432bfa4b2d0",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        -34,
+        12815
+      ],
+      [
+        18110,
+        12815
+      ],
+      [
+        18110,
+        15
+      ],
+      [
+        -34,
+        15
+      ],
+      [
+        -34,
+        12815
+      ]
+    ],
+    "created": "2015-01-24T12:58:58.680100+00:00",
+    "transformation_method": "affine",
+    "mapID": "e8c97bf4-f2ec-53af-9fe6-b432bfa4b2d0",
+    "affine_transformation": null,
+    "changed": "2015-01-24T12:58:58.680100+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.394461087,
+          43.90060319
+        ],
+        "pixel": [
+          4074,
+          3634
+        ]
+      },
+      {
+        "location": [
+          18.374934605,
+          43.917824467
+        ],
+        "pixel": [
+          2796,
+          1941
+        ]
+      },
+      {
+        "location": [
+          18.357596806,
+          43.910404779
+        ],
+        "pixel": [
+          764,
+          2501
+        ]
+      },
+      {
+        "location": [
+          18.408108166,
+          43.892933944
+        ],
+        "pixel": [
+          4670,
+          5114
+        ]
+      },
+      {
+        "location": [
+          18.423085621,
+          43.856800991
+        ],
+        "pixel": [
+          6444,
+          8133
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

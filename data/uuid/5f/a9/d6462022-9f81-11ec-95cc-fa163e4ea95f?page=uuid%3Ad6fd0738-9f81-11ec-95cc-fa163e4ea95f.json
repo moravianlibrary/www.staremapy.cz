@@ -1,0 +1,121 @@
+{
+  "date": ["1925"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:d6462022-9f81-11ec-95cc-fa163e4ea95f?page=uuid%3Ad6fd0738-9f81-11ec-95cc-fa163e4ea95f",
+  "description": "Prusko",
+  "scale": 25000,
+  "external_id": "1333317",
+  "title": "Neuteich",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    18.971285,
+    54.076244,
+    19.214216,
+    54.21452
+  ],
+  "reviewed": null,
+  "publisher": "Reichsamt für Landesaufnahme",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:d6462022-9f81-11ec-95cc-fa163e4ea95f",
+  "id": "b38458a2-c68b-5f0b-8483-1dc995083239",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        475,
+        51
+      ],
+      [
+        477,
+        371
+      ],
+      [
+        63,
+        372
+      ],
+      [
+        64,
+        52
+      ],
+      [
+        475,
+        51
+      ]
+    ],
+    "created": "2015-11-05T17:11:54.646410+00:00",
+    "transformation_method": "affine",
+    "mapID": "b38458a2-c68b-5f0b-8483-1dc995083239",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:11:54.646410+00:00",
+    "gcps": [
+      {
+        "location": [
+          19.010479745483416,
+          54.13560075999328
+        ],
+        "pixel": [
+          97,
+          253
+        ]
+      },
+      {
+        "location": [
+          19.160111800340708,
+          54.103883390788866
+        ],
+        "pixel": [
+          467,
+          355
+        ]
+      },
+      {
+        "location": [
+          19.028117588277034,
+          54.19187906269332
+        ],
+        "pixel": [
+          140,
+          73
+        ]
+      },
+      {
+        "location": [
+          19.14368976927408,
+          54.18855204021122
+        ],
+        "pixel": [
+          426,
+          83
+        ]
+      },
+      {
+        "location": [
+          19.10926115059793,
+          54.15128463979954
+        ],
+        "pixel": [
+          341,
+          203
+        ]
+      },
+      {
+        "location": [
+          19.063672950978457,
+          54.1014405704575
+        ],
+        "pixel": [
+          228,
+          363
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1925"]
+}

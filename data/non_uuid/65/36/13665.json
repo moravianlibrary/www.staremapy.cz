@@ -1,0 +1,129 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_pardubice_192/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "13665",
+  "title": "Hospodářská mapa revíru Veská",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.838736,
+    50.03644,
+    15.858769,
+    50.048542
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/13665",
+  "id": "272602e3-d6f7-5f9a-b1f3-90afa9227b89",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        464,
+        11600
+      ],
+      [
+        6304,
+        12128
+      ],
+      [
+        8840,
+        11512
+      ],
+      [
+        11504,
+        9616
+      ],
+      [
+        11248,
+        3248
+      ],
+      [
+        432,
+        720
+      ],
+      [
+        464,
+        11600
+      ]
+    ],
+    "created": "2015-08-03T13:09:57.437490+00:00",
+    "transformation_method": "affine",
+    "mapID": "272602e3-d6f7-5f9a-b1f3-90afa9227b89",
+    "affine_transformation": null,
+    "changed": "2015-08-03T13:09:57.437490+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.841620805,
+          50.039812774
+        ],
+        "pixel": [
+          1529,
+          8707
+        ]
+      },
+      {
+        "location": [
+          15.841771009,
+          50.047233431
+        ],
+        "pixel": [
+          2129,
+          2055
+        ]
+      },
+      {
+        "location": [
+          15.848374995,
+          50.042594779
+        ],
+        "pixel": [
+          5607,
+          6479
+        ]
+      },
+      {
+        "location": [
+          15.849037991,
+          50.037459277
+        ],
+        "pixel": [
+          5695,
+          11171
+        ]
+      },
+      {
+        "location": [
+          15.850858333,
+          50.040684434
+        ],
+        "pixel": [
+          6945,
+          8323
+        ]
+      },
+      {
+        "location": [
+          15.856841961,
+          50.04085471
+        ],
+        "pixel": [
+          10483,
+          8495
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1939"]
+}

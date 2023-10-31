@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_rychmburk_042/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "18980",
+  "title": "Mapa vsi Březiny",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.093672,
+    49.678814,
+    16.143452,
+    49.70486
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/18980",
+  "id": "06b2a41a-c754-5a68-8eb1-5cec98e664d6",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        25451,
+        0
+      ],
+      [
+        25451,
+        14237
+      ],
+      [
+        0,
+        14237
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        25451,
+        0
+      ]
+    ],
+    "created": "2014-11-25T18:42:11.478830+00:00",
+    "transformation_method": "affine",
+    "mapID": "06b2a41a-c754-5a68-8eb1-5cec98e664d6",
+    "affine_transformation": null,
+    "changed": "2014-11-25T18:42:11.478830+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.137882833,
+          49.691935401
+        ],
+        "pixel": [
+          23106,
+          11474
+        ]
+      },
+      {
+        "location": [
+          16.127111082,
+          49.686521546
+        ],
+        "pixel": [
+          15577,
+          13423
+        ]
+      },
+      {
+        "location": [
+          16.113549833,
+          49.688020827
+        ],
+        "pixel": [
+          8793,
+          9103
+        ]
+      },
+      {
+        "location": [
+          16.109451417,
+          49.687687658
+        ],
+        "pixel": [
+          6578,
+          8474
+        ]
+      },
+      {
+        "location": [
+          16.108614568,
+          49.685022218
+        ],
+        "pixel": [
+          5401,
+          10607
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1826"]
+}

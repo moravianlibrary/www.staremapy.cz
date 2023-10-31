@@ -1,0 +1,129 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plasy_M_114_1/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "19983",
+  "title": "Katastrální mapa obce Dolní Hradiště",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.475458,
+    49.919117,
+    13.501867,
+    49.924007
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/19983",
+  "id": "043cffa2-8ba3-5ecc-9ed8-dec08b193a82",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1888,
+        3104
+      ],
+      [
+        10528,
+        2880
+      ],
+      [
+        10496,
+        1600
+      ],
+      [
+        14656,
+        1568
+      ],
+      [
+        17408,
+        5696
+      ],
+      [
+        1856,
+        5888
+      ],
+      [
+        1888,
+        3104
+      ]
+    ],
+    "created": "2015-02-17T14:48:25.955340+00:00",
+    "transformation_method": "affine",
+    "mapID": "043cffa2-8ba3-5ecc-9ed8-dec08b193a82",
+    "affine_transformation": null,
+    "changed": "2015-02-17T14:48:25.955340+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.488944379,
+          49.920538927
+        ],
+        "pixel": [
+          9680,
+          4662
+        ]
+      },
+      {
+        "location": [
+          13.476069775,
+          49.920262616
+        ],
+        "pixel": [
+          2304,
+          4870
+        ]
+      },
+      {
+        "location": [
+          13.493793812,
+          49.923633502
+        ],
+        "pixel": [
+          12528,
+          1910
+        ]
+      },
+      {
+        "location": [
+          13.485940304,
+          49.921920458
+        ],
+        "pixel": [
+          8192,
+          3334
+        ]
+      },
+      {
+        "location": [
+          13.477185574,
+          49.921257328
+        ],
+        "pixel": [
+          2640,
+          3958
+        ]
+      },
+      {
+        "location": [
+          13.482335416,
+          49.921754677
+        ],
+        "pixel": [
+          5904,
+          3590
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1930"]
+}

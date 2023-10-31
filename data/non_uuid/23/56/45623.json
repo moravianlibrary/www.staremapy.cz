@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/4583/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "45623",
+  "title": "Neue Generalkarte des südwestlichen Kriegsschauplatzes",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.348324,
+    44.800457,
+    14.528916,
+    46.832283
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/45623",
+  "id": "3f735e1a-21dd-58a7-abd5-3f9ba7f45c78",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        352,
+        27104
+      ],
+      [
+        19936,
+        27104
+      ],
+      [
+        19936,
+        352
+      ],
+      [
+        352,
+        352
+      ],
+      [
+        352,
+        27104
+      ]
+    ],
+    "created": "2015-05-15T10:49:35.713520+00:00",
+    "transformation_method": "affine",
+    "mapID": "3f735e1a-21dd-58a7-abd5-3f9ba7f45c78",
+    "affine_transformation": null,
+    "changed": "2015-05-15T10:49:35.713520+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.845534085,
+          44.870250592
+        ],
+        "pixel": [
+          14000,
+          26235
+        ]
+      },
+      {
+        "location": [
+          14.304564317,
+          46.626506101
+        ],
+        "pixel": [
+          17904,
+          3103
+        ]
+      },
+      {
+        "location": [
+          13.388512491,
+          45.731862493
+        ],
+        "pixel": [
+          9726,
+          14947
+        ]
+      },
+      {
+        "location": [
+          12.870867609,
+          46.196740608
+        ],
+        "pixel": [
+          4955,
+          8837
+        ]
+      },
+      {
+        "location": [
+          12.888119577,
+          45.598881205
+        ],
+        "pixel": [
+          5100,
+          16683
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

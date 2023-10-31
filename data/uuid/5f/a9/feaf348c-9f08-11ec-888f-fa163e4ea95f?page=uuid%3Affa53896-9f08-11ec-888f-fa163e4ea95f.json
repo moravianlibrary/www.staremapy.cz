@@ -1,0 +1,121 @@
+{
+  "date": ["1943"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:feaf348c-9f08-11ec-888f-fa163e4ea95f?page=uuid%3Affa53896-9f08-11ec-888f-fa163e4ea95f",
+  "description": "Olomouc (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1329970",
+  "title": "Olmütz",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.832016,
+    49.49839,
+    17.331606,
+    49.74898
+  ],
+  "reviewed": null,
+  "publisher": "Landesvermessungsamt Böhmen u. Mähren",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:feaf348c-9f08-11ec-888f-fa163e4ea95f",
+  "id": "32d23dc2-a290-5269-a6e6-5375933cde9d",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        518,
+        42
+      ],
+      [
+        519,
+        372
+      ],
+      [
+        87,
+        373
+      ],
+      [
+        88,
+        42
+      ],
+      [
+        518,
+        42
+      ]
+    ],
+    "created": "2015-11-05T17:04:43.537880+00:00",
+    "transformation_method": "affine",
+    "mapID": "32d23dc2-a290-5269-a6e6-5375933cde9d",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:04:43.537880+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.073571161603834,
+          49.70671300593733
+        ],
+        "pixel": [
+          296,
+          98
+        ]
+      },
+      {
+        "location": [
+          17.250399087728777,
+          49.59393674769518
+        ],
+        "pixel": [
+          449,
+          246
+        ]
+      },
+      {
+        "location": [
+          17.028662961552577,
+          49.50039236612443
+        ],
+        "pixel": [
+          256,
+          370
+        ]
+      },
+      {
+        "location": [
+          16.844692655690057,
+          49.73982773094866
+        ],
+        "pixel": [
+          98,
+          54
+        ]
+      },
+      {
+        "location": [
+          16.887927393684773,
+          49.591196811744084
+        ],
+        "pixel": [
+          136,
+          251
+        ]
+      },
+      {
+        "location": [
+          17.296309087534187,
+          49.7315259214532
+        ],
+        "pixel": [
+          488,
+          65
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1943"]
+}

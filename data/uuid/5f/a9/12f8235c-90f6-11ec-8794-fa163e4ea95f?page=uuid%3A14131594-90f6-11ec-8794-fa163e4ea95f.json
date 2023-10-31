@@ -1,0 +1,111 @@
+{
+  "date": ["1877"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:12f8235c-90f6-11ec-8794-fa163e4ea95f?page=uuid%3A14131594-90f6-11ec-8794-fa163e4ea95f",
+  "description": "Burgas-oblast (Bulharsko)",
+  "scale": 300000,
+  "external_id": "1240687",
+  "title": "Burgas",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    25.790718,
+    41.41166,
+    27.843735,
+    42.849728
+  ],
+  "reviewed": null,
+  "publisher": "Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:12f8235c-90f6-11ec-8794-fa163e4ea95f",
+  "id": "6ee7e5d7-b1f7-5149-b255-a828b551fc30",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        597,
+        29
+      ],
+      [
+        594,
+        414
+      ],
+      [
+        53,
+        414
+      ],
+      [
+        53,
+        28
+      ],
+      [
+        597,
+        29
+      ]
+    ],
+    "created": "2015-11-05T16:05:10.260090+00:00",
+    "transformation_method": "affine",
+    "mapID": "6ee7e5d7-b1f7-5149-b255-a828b551fc30",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:05:10.260090+00:00",
+    "gcps": [
+      {
+        "location": [
+          26.55681561568673,
+          41.676485832354786
+        ],
+        "pixel": [
+          237,
+          383
+        ]
+      },
+      {
+        "location": [
+          26.319474407959053,
+          42.679064784229865
+        ],
+        "pixel": [
+          118,
+          54
+        ]
+      },
+      {
+        "location": [
+          27.524437253040563,
+          41.98053832020716
+        ],
+        "pixel": [
+          522,
+          261
+        ]
+      },
+      {
+        "location": [
+          27.45225754933068,
+          42.487297237065064
+        ],
+        "pixel": [
+          491,
+          79
+        ]
+      },
+      {
+        "location": [
+          26.34908344464451,
+          42.20793492781644
+        ],
+        "pixel": [
+          155,
+          204
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1877"]
+}

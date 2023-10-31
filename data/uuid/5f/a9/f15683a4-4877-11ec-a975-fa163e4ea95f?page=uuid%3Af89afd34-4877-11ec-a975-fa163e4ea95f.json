@@ -1,0 +1,101 @@
+{
+  "date": ["1830"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:f15683a4-4877-11ec-a975-fa163e4ea95f?page=uuid%3Af89afd34-4877-11ec-a975-fa163e4ea95f",
+  "description": "země světa",
+  "scale": null,
+  "external_id": "853129",
+  "title": "[Terra]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -179.24004,
+    -86.56741,
+    178.66963,
+    86.64394
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:f15683a4-4877-11ec-a975-fa163e4ea95f",
+  "id": "4915e821-87ae-5bc7-97f6-3b9ae784b0d6",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2014-08-18T21:06:56.029720+00:00",
+    "transformation_method": "affine",
+    "mapID": "4915e821-87ae-5bc7-97f6-3b9ae784b0d6",
+    "affine_transformation": null,
+    "changed": "2014-08-18T21:06:56.029720+00:00",
+    "gcps": [
+      {
+        "location": [
+          -1.6320292219354984,
+          43.38534208886716
+        ],
+        "pixel": [
+          345,
+          155
+        ]
+      },
+      {
+        "location": [
+          -153.13305216728898,
+          59.72442460177197
+        ],
+        "pixel": [
+          136,
+          145
+        ]
+      },
+      {
+        "location": [
+          -64.37773413197704,
+          -54.83285681256746
+        ],
+        "pixel": [
+          203,
+          286
+        ]
+      },
+      {
+        "location": [
+          146.7236085506375,
+          -43.320638836578944
+        ],
+        "pixel": [
+          490,
+          292
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1830"]
+}

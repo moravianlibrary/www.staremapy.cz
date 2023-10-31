@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/4711/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "45784",
+  "title": "Adjud \u2013 Marasesti, Tecuciul, Focsanii...",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    26.96413,
+    45.313477,
+    27.307285,
+    46.357544
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/45784",
+  "id": "8efc428e-15e0-57ba-af12-86a5577dd130",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        20710,
+        0
+      ],
+      [
+        20710,
+        21935
+      ],
+      [
+        0,
+        21935
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        20710,
+        0
+      ]
+    ],
+    "created": "2014-11-25T16:10:11.401170+00:00",
+    "transformation_method": "affine",
+    "mapID": "8efc428e-15e0-57ba-af12-86a5577dd130",
+    "affine_transformation": null,
+    "changed": "2014-11-25T16:10:11.401170+00:00",
+    "gcps": [
+      {
+        "location": [
+          27.126643946,
+          45.498505225
+        ],
+        "pixel": [
+          6832,
+          18579
+        ]
+      },
+      {
+        "location": [
+          27.179944804,
+          46.097736271
+        ],
+        "pixel": [
+          7862,
+          2849
+        ]
+      },
+      {
+        "location": [
+          26.903870394,
+          45.494624699
+        ],
+        "pixel": [
+          2697,
+          18672
+        ]
+      },
+      {
+        "location": [
+          27.211058428,
+          45.845551506
+        ],
+        "pixel": [
+          8406,
+          9485
+        ]
+      },
+      {
+        "location": [
+          27.241185,
+          46.1375058
+        ],
+        "pixel": [
+          27552,
+          8960
+        ]
+      },
+      {
+        "location": [
+          27.189257433,
+          46.134951963
+        ],
+        "pixel": [
+          8082,
+          1830
+        ]
+      },
+      {
+        "location": [
+          27.18947201,
+          46.028771816
+        ],
+        "pixel": [
+          8033,
+          4655
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

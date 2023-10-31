@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1737/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "9082",
+  "title": "Stará Hlína o. Jindřichův Hradec 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.787375,
+    49.031853,
+    14.8129225,
+    49.045654
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/9082",
+  "id": "396005e8-4c55-51ac-a92c-a493e7b9d118",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1280,
+        13348
+      ],
+      [
+        16484,
+        13096
+      ],
+      [
+        16493,
+        1185
+      ],
+      [
+        1248,
+        1176
+      ],
+      [
+        1280,
+        13348
+      ]
+    ],
+    "created": "2015-07-11T10:35:14.877430+00:00",
+    "transformation_method": "affine",
+    "mapID": "396005e8-4c55-51ac-a92c-a493e7b9d118",
+    "affine_transformation": null,
+    "changed": "2015-07-11T10:35:14.877430+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.809224854,
+          49.043248577
+        ],
+        "pixel": [
+          14296,
+          3059
+        ]
+      },
+      {
+        "location": [
+          14.808913718,
+          49.033317503
+        ],
+        "pixel": [
+          14208,
+          11843
+        ]
+      },
+      {
+        "location": [
+          14.811166773,
+          49.034808698
+        ],
+        "pixel": [
+          15544,
+          10499
+        ]
+      },
+      {
+        "location": [
+          14.808023224,
+          49.042559373
+        ],
+        "pixel": [
+          13576,
+          3683
+        ]
+      },
+      {
+        "location": [
+          14.808806429,
+          49.042327293
+        ],
+        "pixel": [
+          14048,
+          3867
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

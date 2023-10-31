@@ -1,0 +1,121 @@
+{
+  "date": ["1919"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:e0f91d78-9e53-11ec-a9b5-fa163e4ea95f?page=uuid%3Ae1fb9494-9e53-11ec-a9b5-fa163e4ea95f",
+  "description": "Dolyna (Ukrajina)",
+  "scale": 75000,
+  "external_id": "1305316",
+  "title": "Dolina",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    23.82949,
+    48.74778,
+    24.33127,
+    48.998646
+  ],
+  "reviewed": null,
+  "publisher": "Zeměpisný ústav M. N. O.",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:e0f91d78-9e53-11ec-a9b5-fa163e4ea95f",
+  "id": "2a0fdba4-9008-5277-a395-67d775cbc0f3",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        48,
+        399
+      ],
+      [
+        554,
+        396
+      ],
+      [
+        553,
+        47
+      ],
+      [
+        45,
+        47
+      ],
+      [
+        48,
+        399
+      ]
+    ],
+    "created": "2017-04-29T17:45:02.139250+00:00",
+    "transformation_method": "affine",
+    "mapID": "2a0fdba4-9008-5277-a395-67d775cbc0f3",
+    "affine_transformation": null,
+    "changed": "2017-04-29T17:45:02.139250+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.916457318940793,
+          48.78723483241001
+        ],
+        "pixel": [
+          134,
+          343
+        ]
+      },
+      {
+        "location": [
+          24.202661464,
+          48.777457041
+        ],
+        "pixel": [
+          424,
+          356
+        ]
+      },
+      {
+        "location": [
+          23.975839978,
+          48.979594212
+        ],
+        "pixel": [
+          194,
+          74
+        ]
+      },
+      {
+        "location": [
+          24.27032507,
+          48.904389246
+        ],
+        "pixel": [
+          492,
+          178
+        ]
+      },
+      {
+        "location": [
+          24.032831555,
+          48.848956042
+        ],
+        "pixel": [
+          250,
+          257
+        ]
+      },
+      {
+        "location": [
+          24.327778151072934,
+          48.80553050351179
+        ],
+        "pixel": [
+          551,
+          318
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1919"]
+}

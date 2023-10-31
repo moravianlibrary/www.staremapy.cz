@@ -1,0 +1,111 @@
+{
+  "date": ["1930"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:9f0cb776-943a-11ec-b47b-fa163e4ea95f?page=uuid%3Aa00a7b5e-943a-11ec-b47b-fa163e4ea95f",
+  "description": "Fryštát (Karviná, Česko)",
+  "scale": 10000,
+  "external_id": "1253861",
+  "title": "[Mapový list]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    18.50561,
+    49.834972,
+    18.590946,
+    49.879234
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:9f0cb776-943a-11ec-b47b-fa163e4ea95f",
+  "id": "1c7ae5a7-1047-50e6-978e-ee2473beb560",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:11:49.752760+00:00",
+    "transformation_method": "affine",
+    "mapID": "1c7ae5a7-1047-50e6-978e-ee2473beb560",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:11:49.752760+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.549527093,
+          49.87052373
+        ],
+        "pixel": [
+          309,
+          87
+        ]
+      },
+      {
+        "location": [
+          18.579630191,
+          49.852962989
+        ],
+        "pixel": [
+          521,
+          262
+        ]
+      },
+      {
+        "location": [
+          18.54509072,
+          49.853648383
+        ],
+        "pixel": [
+          277,
+          257
+        ]
+      },
+      {
+        "location": [
+          18.526334961,
+          49.844064244
+        ],
+        "pixel": [
+          146,
+          353
+        ]
+      },
+      {
+        "location": [
+          18.523026868,
+          49.863400839
+        ],
+        "pixel": [
+          122,
+          159
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1930"]
+}

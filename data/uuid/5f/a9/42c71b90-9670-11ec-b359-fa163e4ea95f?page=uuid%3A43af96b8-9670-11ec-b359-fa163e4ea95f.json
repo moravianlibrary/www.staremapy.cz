@@ -1,0 +1,111 @@
+{
+  "date": ["1872"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:42c71b90-9670-11ec-b359-fa163e4ea95f?page=uuid%3A43af96b8-9670-11ec-b359-fa163e4ea95f",
+  "description": "Paříž-oblast (Francie)",
+  "scale": 64000,
+  "external_id": "1269053",
+  "title": "Übersichts-Plan der Umgebung von Paris",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    2.0468748,
+    48.744095,
+    2.5516994,
+    48.985325
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:42c71b90-9670-11ec-b359-fa163e4ea95f",
+  "id": "244a95f2-bbcf-5599-801f-c9c3ffb37f6a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        28,
+        389
+      ],
+      [
+        541,
+        389
+      ],
+      [
+        541,
+        66
+      ],
+      [
+        28,
+        66
+      ],
+      [
+        28,
+        389
+      ]
+    ],
+    "created": "2017-09-15T19:05:24.734330+00:00",
+    "transformation_method": "affine",
+    "mapID": "244a95f2-bbcf-5599-801f-c9c3ffb37f6a",
+    "affine_transformation": null,
+    "changed": "2017-09-15T19:05:24.734330+00:00",
+    "gcps": [
+      {
+        "location": [
+          2.064668311,
+          48.797261229
+        ],
+        "pixel": [
+          45,
+          317
+        ]
+      },
+      {
+        "location": [
+          2.518712653,
+          48.931586878
+        ],
+        "pixel": [
+          508,
+          137
+        ]
+      },
+      {
+        "location": [
+          2.152558936,
+          48.939931502
+        ],
+        "pixel": [
+          134,
+          126
+        ]
+      },
+      {
+        "location": [
+          2.50721134,
+          48.784029392
+        ],
+        "pixel": [
+          495,
+          336
+        ]
+      },
+      {
+        "location": [
+          2.111360205,
+          48.90293391
+        ],
+        "pixel": [
+          94,
+          178
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1872"]
+}

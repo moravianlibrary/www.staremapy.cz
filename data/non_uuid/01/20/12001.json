@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_3736/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "12001",
+  "title": "Půdorysné plány lesního úřadu, hájoven a mysliven na velkostatku Třeboň 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.774714,
+    48.942093,
+    14.775432,
+    48.94304
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/12001",
+  "id": "5a78802f-7fb7-591a-b89c-5c9dd083f510",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        6038,
+        0
+      ],
+      [
+        6038,
+        9890
+      ],
+      [
+        0,
+        9890
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        6038,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:25:36.884540+00:00",
+    "transformation_method": "affine",
+    "mapID": "5a78802f-7fb7-591a-b89c-5c9dd083f510",
+    "affine_transformation": null,
+    "changed": "2022-10-19T10:34:31.220420+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.77522768414713,
+          48.94269859949881
+        ],
+        "pixel": [
+          4512,
+          3641
+        ]
+      },
+      {
+        "location": [
+          14.775047976143131,
+          48.9428395361837
+        ],
+        "pixel": [
+          2571,
+          1965
+        ]
+      },
+      {
+        "location": [
+          14.77527864611841,
+          48.94275497422052
+        ],
+        "pixel": [
+          4803,
+          2995
+        ]
+      },
+      {
+        "location": [
+          14.775003719694386,
+          48.942784042411546
+        ],
+        "pixel": [
+          2281,
+          2584
+        ]
+      },
+      {
+        "location": [
+          14.775139171249638,
+          48.942735595417105
+        ],
+        "pixel": [
+          3255,
+          3023
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1900"]
+}

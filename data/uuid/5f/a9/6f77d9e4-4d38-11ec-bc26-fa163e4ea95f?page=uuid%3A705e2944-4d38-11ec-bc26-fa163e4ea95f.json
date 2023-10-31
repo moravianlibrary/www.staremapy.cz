@@ -1,0 +1,111 @@
+{
+  "date": ["1818"],
+  "creator": "Sieber, František Vilém",
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:6f77d9e4-4d38-11ec-bc26-fa163e4ea95f?page=uuid%3A705e2944-4d38-11ec-bc26-fa163e4ea95f",
+  "description": "Jeruzalém",
+  "scale": 4300,
+  "external_id": "1039258",
+  "title": "Karte von Jerusalem und seiner naechsten Umgebungen",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Fleischer, Friedrich",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    35.215492,
+    31.757174,
+    35.25173,
+    31.794838
+  ],
+  "reviewed": null,
+  "publisher": "Martin Neureuter",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:6f77d9e4-4d38-11ec-bc26-fa163e4ea95f",
+  "id": "a4f49259-3b3c-53ab-a164-2506201aaeba",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2013-03-04T15:28:43.486580+00:00",
+    "transformation_method": "affine",
+    "mapID": "a4f49259-3b3c-53ab-a164-2506201aaeba",
+    "affine_transformation": null,
+    "changed": "2013-03-04T15:28:43.486580+00:00",
+    "gcps": [
+      {
+        "location": [
+          35.237509505,
+          31.776068532
+        ],
+        "pixel": [
+          282,
+          165
+        ]
+      },
+      {
+        "location": [
+          35.227585332,
+          31.775539529
+        ],
+        "pixel": [
+          327,
+          307
+        ]
+      },
+      {
+        "location": [
+          35.233604209,
+          31.782936179
+        ],
+        "pixel": [
+          170,
+          241
+        ]
+      },
+      {
+        "location": [
+          35.237155454,
+          31.778950635
+        ],
+        "pixel": [
+          241,
+          181
+        ]
+      },
+      {
+        "location": [
+          35.230267541,
+          31.781668484
+        ],
+        "pixel": [
+          216,
+          294
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1818"]
+}

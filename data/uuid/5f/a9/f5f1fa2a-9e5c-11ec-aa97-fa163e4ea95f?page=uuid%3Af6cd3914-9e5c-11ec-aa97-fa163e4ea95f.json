@@ -1,0 +1,111 @@
+{
+  "date": ["1896"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:f5f1fa2a-9e5c-11ec-aa97-fa163e4ea95f?page=uuid%3Af6cd3914-9e5c-11ec-aa97-fa163e4ea95f",
+  "description": "Ukrajina",
+  "scale": 75000,
+  "external_id": "1305571",
+  "title": "Staremiasto",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    22.757153,
+    49.196465,
+    23.399218,
+    49.53249
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:f5f1fa2a-9e5c-11ec-aa97-fa163e4ea95f",
+  "id": "78f4e3fd-33aa-55f6-878c-4daf9219d874",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:53:15.261210+00:00",
+    "transformation_method": "affine",
+    "mapID": "78f4e3fd-33aa-55f6-878c-4daf9219d874",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:53:15.261210+00:00",
+    "gcps": [
+      {
+        "location": [
+          22.999872571,
+          49.452219267
+        ],
+        "pixel": [
+          228,
+          106
+        ]
+      },
+      {
+        "location": [
+          22.843607708,
+          49.418903588
+        ],
+        "pixel": [
+          80,
+          150
+        ]
+      },
+      {
+        "location": [
+          23.318089848,
+          49.466766171
+        ],
+        "pixel": [
+          525,
+          87
+        ]
+      },
+      {
+        "location": [
+          23.292739783,
+          49.294753735
+        ],
+        "pixel": [
+          501,
+          313
+        ]
+      },
+      {
+        "location": [
+          22.967643147,
+          49.287285742
+        ],
+        "pixel": [
+          196,
+          324
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1896"]
+}

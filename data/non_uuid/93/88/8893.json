@@ -1,0 +1,91 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1550/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "8893",
+  "title": "Břilice o. Jindřichův Hradec 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.734254,
+    49.01757,
+    14.764427,
+    49.032406
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/8893",
+  "id": "44663347-329a-5d80-a93a-e27dfac49074",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        608,
+        13872
+      ],
+      [
+        17984,
+        13872
+      ],
+      [
+        17984,
+        720
+      ],
+      [
+        608,
+        720
+      ],
+      [
+        608,
+        13872
+      ]
+    ],
+    "created": "2015-06-22T13:42:06.160210+00:00",
+    "transformation_method": "affine",
+    "mapID": "44663347-329a-5d80-a93a-e27dfac49074",
+    "affine_transformation": null,
+    "changed": "2015-06-22T13:42:06.160210+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.737364672,
+          49.031069227
+        ],
+        "pixel": [
+          2288,
+          1904
+        ]
+      },
+      {
+        "location": [
+          14.741897605,
+          49.019021431
+        ],
+        "pixel": [
+          5032,
+          12677
+        ]
+      },
+      {
+        "location": [
+          14.747599982,
+          49.028994048
+        ],
+        "pixel": [
+          8248,
+          3715
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1838"]
+}

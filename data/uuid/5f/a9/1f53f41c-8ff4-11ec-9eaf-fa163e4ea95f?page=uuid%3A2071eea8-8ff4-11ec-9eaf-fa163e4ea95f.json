@@ -1,0 +1,121 @@
+{
+  "date": ["1939"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:1f53f41c-8ff4-11ec-9eaf-fa163e4ea95f?page=uuid%3A2071eea8-8ff4-11ec-9eaf-fa163e4ea95f",
+  "description": "Prusko Východní",
+  "scale": 100000,
+  "external_id": "1214672",
+  "title": "Kreis Preußisch Eylau",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    20.061703,
+    54.020653,
+    21.176247,
+    54.706196
+  ],
+  "reviewed": null,
+  "publisher": "Reichsamt für Landesaufnahme",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:1f53f41c-8ff4-11ec-9eaf-fa163e4ea95f",
+  "id": "fb9cd9d5-5452-5c37-bb59-8fb2ba413788",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        510,
+        40
+      ],
+      [
+        511,
+        392
+      ],
+      [
+        54,
+        391
+      ],
+      [
+        61,
+        40
+      ],
+      [
+        510,
+        40
+      ]
+    ],
+    "created": "2015-11-05T15:58:56.409420+00:00",
+    "transformation_method": "affine",
+    "mapID": "fb9cd9d5-5452-5c37-bb59-8fb2ba413788",
+    "affine_transformation": null,
+    "changed": "2015-11-05T15:58:56.409420+00:00",
+    "gcps": [
+      {
+        "location": [
+          20.48688557693831,
+          54.62512072653746
+        ],
+        "pixel": [
+          230,
+          53
+        ]
+      },
+      {
+        "location": [
+          20.868966301123834,
+          54.11786285969765
+        ],
+        "pixel": [
+          435,
+          381
+        ]
+      },
+      {
+        "location": [
+          21.005962802497134,
+          54.638616217191725
+        ],
+        "pixel": [
+          511,
+          43
+        ]
+      },
+      {
+        "location": [
+          20.813632623301125,
+          54.21596234233209
+        ],
+        "pixel": [
+          405,
+          318
+        ]
+      },
+      {
+        "location": [
+          20.217346027401025,
+          54.2026030101984
+        ],
+        "pixel": [
+          80,
+          326
+        ]
+      },
+      {
+        "location": [
+          20.17287615196767,
+          54.56938437138351
+        ],
+        "pixel": [
+          60,
+          88
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1939"]
+}

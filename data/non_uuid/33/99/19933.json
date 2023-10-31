@@ -1,0 +1,129 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/mkp/E_1956/ImageProperties.xml",
+  "description": null,
+  "scale": 30000,
+  "external_id": "19933",
+  "title": "Praha, hlavní město republiky Československé",
+  "collection_id": "820f1194-2d3f-5aeb-a260-b93d62e2851a",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.374403,
+    50.05742,
+    14.490292,
+    50.118725
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/19933",
+  "id": "2ed250ff-926f-5e41-911e-758b2a2edc75",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        6650,
+        3319
+      ],
+      [
+        6661,
+        1391
+      ],
+      [
+        8339,
+        1399
+      ],
+      [
+        9229,
+        1399
+      ],
+      [
+        9237,
+        2248
+      ],
+      [
+        9198,
+        3335
+      ],
+      [
+        6650,
+        3319
+      ]
+    ],
+    "created": "2020-10-06T08:22:14.447650+00:00",
+    "transformation_method": "affine",
+    "mapID": "2ed250ff-926f-5e41-911e-758b2a2edc75",
+    "affine_transformation": null,
+    "changed": "2020-10-06T08:22:14.447650+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.372294304959643,
+          50.05612005866979
+        ],
+        "pixel": [
+          7221,
+          2783
+        ]
+      },
+      {
+        "location": [
+          14.52338481195264,
+          50.048065905546736
+        ],
+        "pixel": [
+          8797,
+          2877
+        ]
+      },
+      {
+        "location": [
+          14.329125803202613,
+          50.08698643378051
+        ],
+        "pixel": [
+          6957,
+          2204
+        ]
+      },
+      {
+        "location": [
+          14.457290771963715,
+          50.12569941994252
+        ],
+        "pixel": [
+          8203,
+          1784
+        ]
+      },
+      {
+        "location": [
+          14.416907433035503,
+          50.11699597831921
+        ],
+        "pixel": [
+          7797,
+          1858
+        ]
+      },
+      {
+        "location": [
+          14.483855370047216,
+          50.120691744383464
+        ],
+        "pixel": [
+          8475,
+          1756
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1921"]
+}

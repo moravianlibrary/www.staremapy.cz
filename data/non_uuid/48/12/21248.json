@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Manetin_M_45/ImageProperties.xml",
+  "description": null,
+  "scale": 5760,
+  "external_id": "21248",
+  "title": "Porostní mapa polesí Libenov",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.190076,
+    49.905273,
+    13.275584,
+    49.959995
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/21248",
+  "id": "96c53d3f-282d-527c-b4d3-1b35dfcd66df",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        15376,
+        0
+      ],
+      [
+        15376,
+        19880
+      ],
+      [
+        0,
+        19880
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        15376,
+        0
+      ]
+    ],
+    "created": "2014-11-25T16:59:36.073250+00:00",
+    "transformation_method": "affine",
+    "mapID": "96c53d3f-282d-527c-b4d3-1b35dfcd66df",
+    "affine_transformation": null,
+    "changed": "2014-11-25T16:59:36.073250+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.226653576,
+          49.94019788
+        ],
+        "pixel": [
+          8952,
+          6224
+        ]
+      },
+      {
+        "location": [
+          13.245772362,
+          49.915817285
+        ],
+        "pixel": [
+          4690,
+          17918
+        ]
+      },
+      {
+        "location": [
+          13.202824831,
+          49.934231645
+        ],
+        "pixel": [
+          2296,
+          3006
+        ]
+      },
+      {
+        "location": [
+          13.253336191,
+          49.92060459
+        ],
+        "pixel": [
+          7740,
+          18064
+        ]
+      },
+      {
+        "location": [
+          13.261436462,
+          49.926296236
+        ],
+        "pixel": [
+          11264,
+          18134
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1876"]
+}

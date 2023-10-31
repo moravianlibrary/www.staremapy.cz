@@ -1,0 +1,114 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/domousice_0234/ImageProperties.xml",
+  "description": null,
+  "scale": 10000,
+  "external_id": "15930",
+  "title": "Geologická mapa polesí Přerubenice 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.790043,
+    50.191494,
+    13.881971,
+    50.24568
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/15930",
+  "id": "ed451575-e05c-5598-a8f5-22c50cd96456",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1563,
+        14565
+      ],
+      [
+        15835,
+        14565
+      ],
+      [
+        15835,
+        773
+      ],
+      [
+        1563,
+        773
+      ],
+      [
+        1563,
+        14565
+      ]
+    ],
+    "created": "2017-01-08T14:29:17.899620+00:00",
+    "transformation_method": "affine",
+    "mapID": "ed451575-e05c-5598-a8f5-22c50cd96456",
+    "affine_transformation": null,
+    "changed": "2017-01-08T14:29:17.899620+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.864634037,
+          50.239993232
+        ],
+        "pixel": [
+          13632,
+          2201
+        ]
+      },
+      {
+        "location": [
+          13.84008646,
+          50.208322018
+        ],
+        "pixel": [
+          9276,
+          10365
+        ]
+      },
+      {
+        "location": [
+          13.83685708,
+          50.21833223
+        ],
+        "pixel": [
+          8720,
+          7745
+        ]
+      },
+      {
+        "location": [
+          13.80091548,
+          50.205561631
+        ],
+        "pixel": [
+          2891,
+          10923
+        ]
+      },
+      {
+        "location": [
+          13.815034628,
+          50.228244252
+        ],
+        "pixel": [
+          5420,
+          5070
+        ]
+      }
+    ]
+  },
+  "pubdate": [
+    "1880",
+    "1899"
+  ]
+}

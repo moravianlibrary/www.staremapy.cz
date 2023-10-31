@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/orlik_1252/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "20689",
+  "title": "Zalužany, okr. Příbram, list 1 list 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.062382,
+    49.538788,
+    14.087111,
+    49.55241
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/20689",
+  "id": "a04c17ec-4b10-5730-bb9a-27fe9343b551",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1104,
+        12400
+      ],
+      [
+        15504,
+        12400
+      ],
+      [
+        15504,
+        80
+      ],
+      [
+        1104,
+        80
+      ],
+      [
+        1104,
+        12400
+      ]
+    ],
+    "created": "2017-02-20T21:56:54.268760+00:00",
+    "transformation_method": "affine",
+    "mapID": "a04c17ec-4b10-5730-bb9a-27fe9343b551",
+    "affine_transformation": null,
+    "changed": "2017-02-20T21:56:54.268760+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.068708539,
+          49.551564269
+        ],
+        "pixel": [
+          4732,
+          841
+        ]
+      },
+      {
+        "location": [
+          14.066906095,
+          49.550356611
+        ],
+        "pixel": [
+          3675,
+          1934
+        ]
+      },
+      {
+        "location": [
+          14.085442917,
+          49.540348124
+        ],
+        "pixel": [
+          14600,
+          10987
+        ]
+      },
+      {
+        "location": [
+          14.064020038,
+          49.538863228
+        ],
+        "pixel": [
+          2050,
+          12312
+        ]
+      },
+      {
+        "location": [
+          14.064207792,
+          49.541519268
+        ],
+        "pixel": [
+          2165,
+          9940
+        ]
+      },
+      {
+        "location": [
+          14.067828774,
+          49.542497407
+        ],
+        "pixel": [
+          4283,
+          9060
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

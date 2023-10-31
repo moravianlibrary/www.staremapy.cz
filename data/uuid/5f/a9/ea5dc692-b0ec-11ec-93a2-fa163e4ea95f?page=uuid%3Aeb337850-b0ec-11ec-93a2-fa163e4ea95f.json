@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:ea5dc692-b0ec-11ec-93a2-fa163e4ea95f?page=uuid%3Aeb337850-b0ec-11ec-93a2-fa163e4ea95f",
+  "description": "Maine",
+  "scale": 62500,
+  "external_id": "1374538",
+  "title": "Maine - New Hampshire",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Baker, Marcus",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -71.05599,
+    43.015747,
+    -70.70693,
+    43.299488
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:ea5dc692-b0ec-11ec-93a2-fa163e4ea95f",
+  "id": "6683637b-a081-5c25-8b80-c35b8e3d03cc",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2016-01-08T13:31:11.217340+00:00",
+    "transformation_method": "affine",
+    "mapID": "6683637b-a081-5c25-8b80-c35b8e3d03cc",
+    "affine_transformation": null,
+    "changed": "2016-01-08T13:31:11.217340+00:00",
+    "gcps": [
+      {
+        "location": [
+          -70.75766944885257,
+          43.078471023109415
+        ],
+        "pixel": [
+          512,
+          289
+        ]
+      },
+      {
+        "location": [
+          -70.80896015343005,
+          43.234266860683164
+        ],
+        "pixel": [
+          419,
+          50
+        ]
+      },
+      {
+        "location": [
+          -70.93497288053564,
+          43.08206255703314
+        ],
+        "pixel": [
+          190,
+          281
+        ]
+      },
+      {
+        "location": [
+          -70.77396170456669,
+          43.011111109744405
+        ],
+        "pixel": [
+          483,
+          390
+        ]
+      },
+      {
+        "location": [
+          -70.87445705731007,
+          43.211890953064426
+        ],
+        "pixel": [
+          298,
+          82
+        ]
+      },
+      {
+        "location": [
+          -70.87986129211428,
+          43.27665653687788
+        ],
+        "pixel": [
+          358,
+          271
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

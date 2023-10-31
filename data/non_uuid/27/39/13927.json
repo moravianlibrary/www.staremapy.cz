@@ -1,0 +1,119 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Kout_na_Sumave_M_55/ImageProperties.xml",
+  "description": null,
+  "scale": 5760,
+  "external_id": "13927",
+  "title": "Mapa panských pozemků v katastru obce Postřekov",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.724021,
+    49.449734,
+    12.756618,
+    49.473835
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/13927",
+  "id": "b3fd93d4-1e7c-5531-bd8d-400253ead211",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        2855,
+        713
+      ],
+      [
+        8539,
+        9003
+      ],
+      [
+        5355,
+        10940
+      ],
+      [
+        2492,
+        6973
+      ],
+      [
+        205,
+        3512
+      ],
+      [
+        1060,
+        948
+      ],
+      [
+        2855,
+        713
+      ]
+    ],
+    "created": "2014-11-25T16:33:20.053630+00:00",
+    "transformation_method": "affine",
+    "mapID": "b3fd93d4-1e7c-5531-bd8d-400253ead211",
+    "affine_transformation": null,
+    "changed": "2014-11-25T16:33:20.053630+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.726735714378439,
+          49.46781026397463
+        ],
+        "pixel": [
+          930,
+          3512
+        ]
+      },
+      {
+        "location": [
+          12.728816867546016,
+          49.47296246471166
+        ],
+        "pixel": [
+          1682,
+          1135
+        ]
+      },
+      {
+        "location": [
+          12.726968141454574,
+          49.46878001033164
+        ],
+        "pixel": [
+          1034,
+          3080
+        ]
+      },
+      {
+        "location": [
+          12.730576517173773,
+          49.468684272188426
+        ],
+        "pixel": [
+          2104,
+          3170
+        ]
+      },
+      {
+        "location": [
+          12.746497989372184,
+          49.45124787085061
+        ],
+        "pixel": [
+          5663,
+          10228
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1930"]
+}

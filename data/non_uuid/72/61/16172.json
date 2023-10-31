@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/domousice_0476/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "16172",
+  "title": "Kopie katastrální mapy obce Markvarec z roku 1841, list I 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.684204,
+    50.27426,
+    13.711919,
+    50.281754
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/16172",
+  "id": "6b01024f-916c-57a1-bc38-01d10785a6c5",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        440,
+        13516
+      ],
+      [
+        16440,
+        13516
+      ],
+      [
+        16440,
+        8540
+      ],
+      [
+        440,
+        6780
+      ],
+      [
+        440,
+        13516
+      ]
+    ],
+    "created": "2015-03-29T19:47:08.060500+00:00",
+    "transformation_method": "affine",
+    "mapID": "6b01024f-916c-57a1-bc38-01d10785a6c5",
+    "affine_transformation": null,
+    "changed": "2015-03-29T19:47:08.060500+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.69033727048869,
+          50.27792111275207
+        ],
+        "pixel": [
+          3987,
+          10248
+        ]
+      },
+      {
+        "location": [
+          13.686447591701581,
+          50.27888129888663
+        ],
+        "pixel": [
+          1732,
+          9374
+        ]
+      },
+      {
+        "location": [
+          13.695960600423977,
+          50.276952657038294
+        ],
+        "pixel": [
+          7223,
+          11142
+        ]
+      },
+      {
+        "location": [
+          13.710428906656562,
+          50.27589404740024
+        ],
+        "pixel": [
+          15583,
+          12145
+        ]
+      },
+      {
+        "location": [
+          13.695021272817684,
+          50.277821534781395
+        ],
+        "pixel": [
+          6679,
+          10353
+        ]
+      },
+      {
+        "location": [
+          13.693143726507262,
+          50.27723187815013
+        ],
+        "pixel": [
+          5598,
+          10880
+        ]
+      },
+      {
+        "location": [
+          13.686794091126323,
+          50.27577732521712
+        ],
+        "pixel": [
+          1930,
+          12164
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1841"]
+}

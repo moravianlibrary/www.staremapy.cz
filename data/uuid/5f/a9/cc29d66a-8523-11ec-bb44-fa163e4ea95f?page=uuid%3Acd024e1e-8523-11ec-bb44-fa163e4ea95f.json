@@ -1,0 +1,101 @@
+{
+  "date": ["1896"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:cc29d66a-8523-11ec-bb44-fa163e4ea95f?page=uuid%3Acd024e1e-8523-11ec-bb44-fa163e4ea95f",
+  "description": "Planá (Tachov, Česko : oblast)",
+  "scale": 1000,
+  "external_id": "1181978",
+  "title": "Situations-Plan der Versuchswiese für den Wiesenbaucurs in Plan 1896",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.397882,
+    49.159386,
+    15.661199,
+    49.96383
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:cc29d66a-8523-11ec-bb44-fa163e4ea95f",
+  "id": "1447fc42-ab5b-5f00-8bc6-0554d6d62244",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2014-08-19T15:50:03.016300+00:00",
+    "transformation_method": "affine",
+    "mapID": "1447fc42-ab5b-5f00-8bc6-0554d6d62244",
+    "affine_transformation": null,
+    "changed": "2021-11-11T10:06:45.213127+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.230605725868406,
+          49.432683235567936
+        ],
+        "pixel": [
+          394,
+          294
+        ]
+      },
+      {
+        "location": [
+          15.216021793611901,
+          49.44381624404218
+        ],
+        "pixel": [
+          388,
+          287
+        ]
+      },
+      {
+        "location": [
+          15.140517784951989,
+          49.55613359857858
+        ],
+        "pixel": [
+          399,
+          214
+        ]
+      },
+      {
+        "location": [
+          15.049331311805906,
+          49.619521463395984
+        ],
+        "pixel": [
+          360,
+          178
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1896"]
+}

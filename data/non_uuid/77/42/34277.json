@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/2451_055/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "34277",
+  "title": "Generalkarte von Zentraleuropa",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.428139,
+    45.383366,
+    15.355999,
+    46.567585
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/34277",
+  "id": "1eafd3de-b546-5052-b6c9-bfa4501b6082",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        779,
+        677
+      ],
+      [
+        811,
+        10677
+      ],
+      [
+        12123,
+        10693
+      ],
+      [
+        12155,
+        725
+      ],
+      [
+        779,
+        677
+      ]
+    ],
+    "created": "2015-03-30T00:07:20.753350+00:00",
+    "transformation_method": "affine",
+    "mapID": "1eafd3de-b546-5052-b6c9-bfa4501b6082",
+    "affine_transformation": null,
+    "changed": "2015-03-30T00:07:20.753350+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.216823578,
+          45.582690117
+        ],
+        "pixel": [
+          5256,
+          9132
+        ]
+      },
+      {
+        "location": [
+          13.603820801,
+          46.17721653
+        ],
+        "pixel": [
+          1726,
+          3800
+        ]
+      },
+      {
+        "location": [
+          13.773422241,
+          45.602510084
+        ],
+        "pixel": [
+          2507,
+          8816
+        ]
+      },
+      {
+        "location": [
+          13.604850769,
+          45.773032074
+        ],
+        "pixel": [
+          1569,
+          7320
+        ]
+      },
+      {
+        "location": [
+          14.573192596,
+          46.012224901
+        ],
+        "pixel": [
+          7556,
+          5434
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

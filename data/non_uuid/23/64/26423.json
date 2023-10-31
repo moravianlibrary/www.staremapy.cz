@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Kout_na_Sumave_M_118-2-6/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "26423",
+  "title": "Katastrální mapa obce Mýtnice spolu s obcemi Herštejnské Chalupy a Křížová Huť WC-XIV-24 dh, cdf",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.695503,
+    49.441006,
+    12.713391,
+    49.449337
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/26423",
+  "id": "6d7d83c3-4c02-54f6-8896-6da270b47266",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        4197,
+        7482
+      ],
+      [
+        14565,
+        7482
+      ],
+      [
+        14597,
+        106
+      ],
+      [
+        4197,
+        282
+      ],
+      [
+        4197,
+        7482
+      ]
+    ],
+    "created": "2015-04-25T18:23:52.837020+00:00",
+    "transformation_method": "affine",
+    "mapID": "6d7d83c3-4c02-54f6-8896-6da270b47266",
+    "affine_transformation": null,
+    "changed": "2015-04-25T18:23:52.837020+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.708849337,
+          49.449018599
+        ],
+        "pixel": [
+          11993,
+          372
+        ]
+      },
+      {
+        "location": [
+          12.710329916,
+          49.447679365
+        ],
+        "pixel": [
+          12843,
+          1600
+        ]
+      },
+      {
+        "location": [
+          12.702442519,
+          49.442213114
+        ],
+        "pixel": [
+          8192,
+          6427
+        ]
+      },
+      {
+        "location": [
+          12.699493417,
+          49.44517305
+        ],
+        "pixel": [
+          6526,
+          3827
+        ]
+      },
+      {
+        "location": [
+          12.703216612206857,
+          49.44606480306817
+        ],
+        "pixel": [
+          8613,
+          3040
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1910"]
+}

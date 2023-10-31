@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/0167_07/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "22256",
+  "title": "Plan de Paris VII.",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    2.3325403,
+    48.862026,
+    2.3555608,
+    48.878757
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/22256",
+  "id": "54b1fbcc-d4e2-59b3-9da4-9a24522877d5",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1872,
+        10896
+      ],
+      [
+        14432,
+        10768
+      ],
+      [
+        14336,
+        856
+      ],
+      [
+        1856,
+        960
+      ],
+      [
+        1872,
+        10896
+      ]
+    ],
+    "created": "2017-03-12T23:53:25.273170+00:00",
+    "transformation_method": "affine",
+    "mapID": "54b1fbcc-d4e2-59b3-9da4-9a24522877d5",
+    "affine_transformation": null,
+    "changed": "2017-03-12T23:53:25.273170+00:00",
+    "gcps": [
+      {
+        "location": [
+          2.341166377,
+          48.865752184
+        ],
+        "pixel": [
+          12978,
+          5358
+        ]
+      },
+      {
+        "location": [
+          2.340098857,
+          48.871973162
+        ],
+        "pixel": [
+          8000,
+          8820
+        ]
+      },
+      {
+        "location": [
+          2.352678418,
+          48.869813727
+        ],
+        "pixel": [
+          5888,
+          1018
+        ]
+      },
+      {
+        "location": [
+          2.333655736,
+          48.867527487
+        ],
+        "pixel": [
+          13696,
+          10408
+        ]
+      },
+      {
+        "location": [
+          2.34236657,
+          48.874096569
+        ],
+        "pixel": [
+          5528,
+          8224
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

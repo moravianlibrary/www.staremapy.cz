@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/2550_15/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "35211",
+  "title": "Karte des Gemeindegrenzen",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    18.07041,
+    49.690407,
+    18.362492,
+    49.954826
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/35211",
+  "id": "48772881-9809-58f5-a3c8-25a54360c697",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        7441,
+        9994
+      ],
+      [
+        12545,
+        9994
+      ],
+      [
+        12545,
+        4650
+      ],
+      [
+        7441,
+        4650
+      ],
+      [
+        7441,
+        9994
+      ]
+    ],
+    "created": "2016-09-21T10:35:50.104470+00:00",
+    "transformation_method": "affine",
+    "mapID": "48772881-9809-58f5-a3c8-25a54360c697",
+    "affine_transformation": null,
+    "changed": "2021-04-08T12:53:36.606597+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.221511841,
+          49.833554707
+        ],
+        "pixel": [
+          10031,
+          7089
+        ]
+      },
+      {
+        "location": [
+          18.323135376,
+          49.916525934
+        ],
+        "pixel": [
+          11847,
+          5505
+        ]
+      },
+      {
+        "location": [
+          18.200569153,
+          49.853702158
+        ],
+        "pixel": [
+          9623,
+          6257
+        ]
+      },
+      {
+        "location": [
+          18.2239151,
+          49.808303193
+        ],
+        "pixel": [
+          10143,
+          7937
+        ]
+      },
+      {
+        "location": [
+          18.274383545,
+          49.800547892
+        ],
+        "pixel": [
+          11287,
+          8161
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

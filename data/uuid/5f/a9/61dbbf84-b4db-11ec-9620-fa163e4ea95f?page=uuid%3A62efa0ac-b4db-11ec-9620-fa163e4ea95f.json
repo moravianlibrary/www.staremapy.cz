@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:61dbbf84-b4db-11ec-9620-fa163e4ea95f?page=uuid%3A62efa0ac-b4db-11ec-9620-fa163e4ea95f",
+  "description": null,
+  "scale": 100000,
+  "external_id": "1389366",
+  "title": "Międzychód",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.7813835,
+    52.450447,
+    16.436916,
+    52.777946
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:61dbbf84-b4db-11ec-9620-fa163e4ea95f",
+  "id": "89f99527-cfde-510b-acf3-779b1f374cb7",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2016-01-08T13:40:45.294190+00:00",
+    "transformation_method": "affine",
+    "mapID": "89f99527-cfde-510b-acf3-779b1f374cb7",
+    "affine_transformation": null,
+    "changed": "2016-01-08T13:40:45.294190+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.292052246,
+          52.715514729
+        ],
+        "pixel": [
+          467,
+          85
+        ]
+      },
+      {
+        "location": [
+          15.88984964,
+          52.601017197
+        ],
+        "pixel": [
+          99,
+          239
+        ]
+      },
+      {
+        "location": [
+          16.256690002,
+          52.509080378
+        ],
+        "pixel": [
+          436,
+          364
+        ]
+      },
+      {
+        "location": [
+          16.085801102,
+          52.554896743
+        ],
+        "pixel": [
+          278,
+          303
+        ]
+      },
+      {
+        "location": [
+          16.081402279,
+          52.650929537
+        ],
+        "pixel": [
+          276,
+          172
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

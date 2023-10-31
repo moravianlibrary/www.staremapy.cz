@@ -1,0 +1,111 @@
+{
+  "date": ["1916"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:f6b37b84-9e32-11ec-890c-fa163e4ea95f?page=uuid%3Af7e8606e-9e32-11ec-890c-fa163e4ea95f",
+  "description": null,
+  "scale": 200000,
+  "external_id": "1304389",
+  "title": "46°47° Kiszyniew",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    27.74924,
+    46.412277,
+    28.936504,
+    47.566303
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:f6b37b84-9e32-11ec-890c-fa163e4ea95f",
+  "id": "6f39f1e3-76d8-5363-8c5b-c180188eb13f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:50:36.097890+00:00",
+    "transformation_method": "affine",
+    "mapID": "6f39f1e3-76d8-5363-8c5b-c180188eb13f",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:50:36.097890+00:00",
+    "gcps": [
+      {
+        "location": [
+          28.811363332,
+          47.354995962
+        ],
+        "pixel": [
+          535,
+          82
+        ]
+      },
+      {
+        "location": [
+          27.967006856,
+          47.460341527
+        ],
+        "pixel": [
+          107,
+          39
+        ]
+      },
+      {
+        "location": [
+          28.782842841,
+          46.5246673
+        ],
+        "pixel": [
+          529,
+          405
+        ]
+      },
+      {
+        "location": [
+          28.777073972,
+          46.943617921
+        ],
+        "pixel": [
+          522,
+          240
+        ]
+      },
+      {
+        "location": [
+          27.89366161,
+          46.590136999
+        ],
+        "pixel": [
+          71,
+          375
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1916"]
+}

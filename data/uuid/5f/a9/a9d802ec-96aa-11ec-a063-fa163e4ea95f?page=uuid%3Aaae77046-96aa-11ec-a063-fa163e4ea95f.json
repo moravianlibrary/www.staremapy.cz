@@ -1,0 +1,145 @@
+{
+  "date": ["1940"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:a9d802ec-96aa-11ec-a063-fa163e4ea95f?page=uuid%3Aaae77046-96aa-11ec-a063-fa163e4ea95f",
+  "description": "Turecko",
+  "scale": 200000,
+  "external_id": "1271865",
+  "title": "44°41° Dimotika",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    25.783998,
+    40.461384,
+    26.888256,
+    41.507877
+  ],
+  "reviewed": null,
+  "publisher": "Hauptvermessungsabteilung XIV",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:a9d802ec-96aa-11ec-a063-fa163e4ea95f",
+  "id": "abd61d12-78bf-5941-8e07-34ca220b62ad",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        41,
+        413
+      ],
+      [
+        34,
+        40
+      ],
+      [
+        560,
+        38
+      ],
+      [
+        571,
+        417
+      ],
+      [
+        571,
+        417
+      ],
+      [
+        41,
+        413
+      ]
+    ],
+    "created": "2016-03-24T18:07:30.945070+00:00",
+    "transformation_method": "affine",
+    "mapID": "abd61d12-78bf-5941-8e07-34ca220b62ad",
+    "affine_transformation": null,
+    "changed": "2016-03-24T18:07:30.945070+00:00",
+    "gcps": [
+      {
+        "location": [
+          26.17431366,
+          40.895154795
+        ],
+        "pixel": [
+          216,
+          262
+        ]
+      },
+      {
+        "location": [
+          26.431462402,
+          40.887628267
+        ],
+        "pixel": [
+          355,
+          266
+        ]
+      },
+      {
+        "location": [
+          26.085393066,
+          40.722998975
+        ],
+        "pixel": [
+          169,
+          325
+        ]
+      },
+      {
+        "location": [
+          26.294476624,
+          40.830502583
+        ],
+        "pixel": [
+          276,
+          282
+        ]
+      },
+      {
+        "location": [
+          26.320912476,
+          40.848943983
+        ],
+        "pixel": [
+          294,
+          274
+        ]
+      },
+      {
+        "location": [
+          26.372754211,
+          40.894895274
+        ],
+        "pixel": [
+          312,
+          264
+        ]
+      },
+      {
+        "location": [
+          26.384427185,
+          40.922139442
+        ],
+        "pixel": [
+          326,
+          252
+        ]
+      },
+      {
+        "location": [
+          25.875966187,
+          40.84699619
+        ],
+        "pixel": [
+          69,
+          280
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1940"]
+}

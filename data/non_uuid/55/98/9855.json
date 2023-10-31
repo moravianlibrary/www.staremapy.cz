@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_2510/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "9855",
+  "title": "Mapa trvale změněných hranic kultur při dvoře Mysletín 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.584076,
+    48.923927,
+    14.604236,
+    48.938515
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/9855",
+  "id": "0ffaa8b2-8e06-54d8-9e70-a30d483582ed",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        11794,
+        0
+      ],
+      [
+        11794,
+        13157
+      ],
+      [
+        0,
+        13157
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        11794,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:18:58.970500+00:00",
+    "transformation_method": "affine",
+    "mapID": "0ffaa8b2-8e06-54d8-9e70-a30d483582ed",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:18:58.970500+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.5866855,
+          48.93667799
+        ],
+        "pixel": [
+          1398,
+          1689
+        ]
+      },
+      {
+        "location": [
+          14.595204196,
+          48.924082171
+        ],
+        "pixel": [
+          6611,
+          13061
+        ]
+      },
+      {
+        "location": [
+          14.584556501,
+          48.925531717
+        ],
+        "pixel": [
+          267,
+          11787
+        ]
+      },
+      {
+        "location": [
+          14.602574907,
+          48.925816312
+        ],
+        "pixel": [
+          10925,
+          11465
+        ]
+      },
+      {
+        "location": [
+          14.594983407,
+          48.936113306
+        ],
+        "pixel": [
+          6353,
+          2097
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1897"]
+}

@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plasy_M_149_1_ad1/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "36852",
+  "title": "Katastrální mapa obce Lomnička",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.347584,
+    49.91839,
+    13.362568,
+    49.935997
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/36852",
+  "id": "5102c339-31db-5e44-a819-b2e96746af90",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        176,
+        17008
+      ],
+      [
+        8912,
+        17008
+      ],
+      [
+        8912,
+        1232
+      ],
+      [
+        176,
+        1232
+      ],
+      [
+        176,
+        17008
+      ]
+    ],
+    "created": "2015-04-24T17:22:04.990410+00:00",
+    "transformation_method": "affine",
+    "mapID": "5102c339-31db-5e44-a819-b2e96746af90",
+    "affine_transformation": null,
+    "changed": "2015-04-24T17:22:04.990410+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.347723199,
+          49.931057894
+        ],
+        "pixel": [
+          252,
+          5569
+        ]
+      },
+      {
+        "location": [
+          13.34881962,
+          49.922808188
+        ],
+        "pixel": [
+          860,
+          13050
+        ]
+      },
+      {
+        "location": [
+          13.359749827,
+          49.92222911
+        ],
+        "pixel": [
+          7292,
+          13619
+        ]
+      },
+      {
+        "location": [
+          13.355061326,
+          49.932955283
+        ],
+        "pixel": [
+          4548,
+          3963
+        ]
+      },
+      {
+        "location": [
+          13.348570379,
+          49.933507759
+        ],
+        "pixel": [
+          740,
+          3297
+        ]
+      },
+      {
+        "location": [
+          13.355988117,
+          49.919658622
+        ],
+        "pixel": [
+          5028,
+          15937
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1875"]
+}

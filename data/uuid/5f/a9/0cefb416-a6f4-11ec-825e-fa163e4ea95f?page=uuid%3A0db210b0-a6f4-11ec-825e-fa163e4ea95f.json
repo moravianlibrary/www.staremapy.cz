@@ -1,0 +1,101 @@
+{
+  "date": ["1937"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:0cefb416-a6f4-11ec-825e-fa163e4ea95f?page=uuid%3A0db210b0-a6f4-11ec-825e-fa163e4ea95f",
+  "description": "Evropa střední",
+  "scale": null,
+  "external_id": "1342629",
+  "title": "Přehled počasí",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Machač, František",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -30.739643,
+    15.262587,
+    89.845085,
+    73.513145
+  ],
+  "reviewed": null,
+  "publisher": "Státní ústav meteorologický",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:0cefb416-a6f4-11ec-825e-fa163e4ea95f",
+  "id": "0de2b046-4d59-562c-878d-4560fb130c0e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        293,
+        39
+      ],
+      [
+        292,
+        341
+      ],
+      [
+        23,
+        342
+      ],
+      [
+        23,
+        40
+      ],
+      [
+        293,
+        39
+      ]
+    ],
+    "created": "2015-11-05T17:32:09.008050+00:00",
+    "transformation_method": "affine",
+    "mapID": "0de2b046-4d59-562c-878d-4560fb130c0e",
+    "affine_transformation": null,
+    "changed": "2021-03-02T18:32:07.885339+00:00",
+    "gcps": [
+      {
+        "location": [
+          -10.303046874999996,
+          51.69002226673484
+        ],
+        "pixel": [
+          61,
+          202
+        ]
+      },
+      {
+        "location": [
+          -5.996406249999996,
+          36.19609438466297
+        ],
+        "pixel": [
+          49,
+          320
+        ]
+      },
+      {
+        "location": [
+          15.097343750000004,
+          36.90215134641895
+        ],
+        "pixel": [
+          175,
+          333
+        ]
+      },
+      {
+        "location": [
+          -5.688789062499988,
+          35.965240039992395
+        ],
+        "pixel": [
+          49,
+          322
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1937"]
+}

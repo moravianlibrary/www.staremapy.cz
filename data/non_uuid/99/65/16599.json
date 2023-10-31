@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/orlik_0310/ImageProperties.xml",
+  "description": null,
+  "scale": 25000,
+  "external_id": "16599",
+  "title": "Přehledná mapa pozemkové držby velkostatku orlického v širším pojetí, podle stavu z roku 1916, list 4 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.955816,
+    49.566566,
+    13.99493,
+    49.623737
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/16599",
+  "id": "bd4f3ad6-ad6d-5923-80a3-7c82a0269e56",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        4813,
+        6897
+      ],
+      [
+        7329,
+        6915
+      ],
+      [
+        7320,
+        992
+      ],
+      [
+        4899,
+        1003
+      ],
+      [
+        4813,
+        6897
+      ]
+    ],
+    "created": "2015-06-14T00:35:36.016940+00:00",
+    "transformation_method": "affine",
+    "mapID": "bd4f3ad6-ad6d-5923-80a3-7c82a0269e56",
+    "affine_transformation": null,
+    "changed": "2015-06-14T00:35:36.016940+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.987748297743021,
+          49.58883713067402
+        ],
+        "pixel": [
+          6825,
+          4733
+        ]
+      },
+      {
+        "location": [
+          13.987939105910481,
+          49.61648236518627
+        ],
+        "pixel": [
+          6867,
+          1724
+        ]
+      },
+      {
+        "location": [
+          13.989047884700122,
+          49.59648463379111
+        ],
+        "pixel": [
+          6943,
+          3911
+        ]
+      },
+      {
+        "location": [
+          13.989741503011606,
+          49.59461619336611
+        ],
+        "pixel": [
+          7033,
+          4140
+        ]
+      },
+      {
+        "location": [
+          13.97811884292168,
+          49.58490535120902
+        ],
+        "pixel": [
+          6259,
+          5091
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1916"]
+}

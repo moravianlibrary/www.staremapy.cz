@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/3398/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "39265",
+  "title": "Orientirungsplan von Paris",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    2.2952502,
+    48.836205,
+    2.3847654,
+    48.88138
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/39265",
+  "id": "d56029e7-5627-5246-b67a-a1d00facd89a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        683,
+        3877
+      ],
+      [
+        4955,
+        3877
+      ],
+      [
+        4955,
+        645
+      ],
+      [
+        683,
+        645
+      ],
+      [
+        683,
+        3877
+      ]
+    ],
+    "created": "2016-05-26T09:35:43.012360+00:00",
+    "transformation_method": "affine",
+    "mapID": "d56029e7-5627-5246-b67a-a1d00facd89a",
+    "affine_transformation": null,
+    "changed": "2016-05-26T09:35:43.012360+00:00",
+    "gcps": [
+      {
+        "location": [
+          2.310141206,
+          48.868977341
+        ],
+        "pixel": [
+          1396,
+          1546
+        ]
+      },
+      {
+        "location": [
+          2.303360581,
+          48.852700681
+        ],
+        "pixel": [
+          1043,
+          2732
+        ]
+      },
+      {
+        "location": [
+          2.338722825,
+          48.849580265
+        ],
+        "pixel": [
+          2751,
+          2926
+        ]
+      },
+      {
+        "location": [
+          2.32411015,
+          48.869527803
+        ],
+        "pixel": [
+          2056,
+          1486
+        ]
+      },
+      {
+        "location": [
+          2.337177873,
+          48.846911521
+        ],
+        "pixel": [
+          2673,
+          3140
+        ]
+      },
+      {
+        "location": [
+          2.312458634,
+          48.853646651
+        ],
+        "pixel": [
+          1497,
+          2646
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

@@ -1,0 +1,111 @@
+{
+  "date": ["1891"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:e01ee55a-7882-11ec-b684-fa163e4ea95f?page=uuid%3Ae111ef2a-7882-11ec-b684-fa163e4ea95f",
+  "description": "Maďarsko",
+  "scale": 75000,
+  "external_id": "1130542",
+  "title": "Szikszó u.Tisza-Dob",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Pflügl",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    20.83377,
+    48.00029,
+    21.329897,
+    48.246075
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:e01ee55a-7882-11ec-b684-fa163e4ea95f",
+  "id": "dc8d203b-efc6-593d-b916-938dd76e89a4",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        562,
+        33
+      ],
+      [
+        561,
+        404
+      ],
+      [
+        23,
+        403
+      ],
+      [
+        25,
+        33
+      ],
+      [
+        562,
+        33
+      ]
+    ],
+    "created": "2014-08-19T14:24:58.020430+00:00",
+    "transformation_method": "affine",
+    "mapID": "dc8d203b-efc6-593d-b916-938dd76e89a4",
+    "affine_transformation": null,
+    "changed": "2014-08-19T14:24:58.020430+00:00",
+    "gcps": [
+      {
+        "location": [
+          20.855817898533168,
+          48.10877906052144
+        ],
+        "pixel": [
+          48,
+          239
+        ]
+      },
+      {
+        "location": [
+          21.235650727068855,
+          48.22799422437939
+        ],
+        "pixel": [
+          461,
+          60
+        ]
+      },
+      {
+        "location": [
+          20.969129883072714,
+          48.24082461240522
+        ],
+        "pixel": [
+          171,
+          41
+        ]
+      },
+      {
+        "location": [
+          21.0621064140758,
+          48.03930200470896
+        ],
+        "pixel": [
+          271,
+          345
+        ]
+      },
+      {
+        "location": [
+          20.950998835625686,
+          48.00225674919042
+        ],
+        "pixel": [
+          149,
+          401
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1891"]
+}

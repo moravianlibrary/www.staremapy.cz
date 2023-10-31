@@ -1,0 +1,125 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/5757_5/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "47269",
+  "title": "Státní mapa 1:5000 odvozená",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.721412,
+    50.38873,
+    12.760089,
+    50.41036
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/47269",
+  "id": "cf765006-d956-5e27-80a9-46aa4c4268ce",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1184,
+        843
+      ],
+      [
+        12912,
+        859
+      ],
+      [
+        12912,
+        10267
+      ],
+      [
+        1200,
+        10267
+      ],
+      [
+        1200,
+        10251
+      ],
+      [
+        1184,
+        843
+      ]
+    ],
+    "created": "2015-01-21T18:36:37.829180+00:00",
+    "transformation_method": "affine",
+    "mapID": "cf765006-d956-5e27-80a9-46aa4c4268ce",
+    "affine_transformation": null,
+    "changed": "2015-01-21T18:36:37.829180+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.747562088,
+          50.399734167
+        ],
+        "pixel": [
+          9278,
+          5807
+        ]
+      },
+      {
+        "location": [
+          12.752455983,
+          50.396699421
+        ],
+        "pixel": [
+          10748,
+          7806
+        ]
+      },
+      {
+        "location": [
+          12.750406775,
+          50.401667908
+        ],
+        "pixel": [
+          10444,
+          5040
+        ]
+      },
+      {
+        "location": [
+          12.742295775,
+          50.402509045
+        ],
+        "pixel": [
+          7834,
+          4163
+        ]
+      },
+      {
+        "location": [
+          12.740622077,
+          50.404546861
+        ],
+        "pixel": [
+          7458,
+          2965
+        ]
+      },
+      {
+        "location": [
+          12.745031628,
+          50.395605121
+        ],
+        "pixel": [
+          8128,
+          7855
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

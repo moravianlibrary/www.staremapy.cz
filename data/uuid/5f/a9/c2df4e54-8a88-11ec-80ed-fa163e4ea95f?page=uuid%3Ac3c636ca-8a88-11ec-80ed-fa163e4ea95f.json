@@ -1,0 +1,121 @@
+{
+  "date": ["1876"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:c2df4e54-8a88-11ec-80ed-fa163e4ea95f?page=uuid%3Ac3c636ca-8a88-11ec-80ed-fa163e4ea95f",
+  "description": "Rakousko",
+  "scale": 144000,
+  "external_id": "1283515",
+  "title": "Blatt 6 & 11 aus Georg Matthäus Vischer's Archiducatus Austriae inferioris geographica, et noviter emendata accuratissima descriptio",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Vischer, Georg Matthaeus",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.8070545,
+    47.636967,
+    16.771915,
+    48.602562
+  ],
+  "reviewed": null,
+  "publisher": "K.k. Generalstabes",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:c2df4e54-8a88-11ec-80ed-fa163e4ea95f",
+  "id": "791c1f46-75a5-51b1-83e8-06f17b1725f3",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:20:43.763970+00:00",
+    "transformation_method": "affine",
+    "mapID": "791c1f46-75a5-51b1-83e8-06f17b1725f3",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:20:43.763970+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.24416366,
+          47.813499216
+        ],
+        "pixel": [
+          263,
+          372
+        ]
+      },
+      {
+        "location": [
+          15.959377435,
+          47.898102262
+        ],
+        "pixel": [
+          88,
+          345
+        ]
+      },
+      {
+        "location": [
+          16.633396514,
+          48.266656232
+        ],
+        "pixel": [
+          517,
+          144
+        ]
+      },
+      {
+        "location": [
+          16.056881097,
+          48.331317844
+        ],
+        "pixel": [
+          150,
+          127
+        ]
+      },
+      {
+        "location": [
+          16.372137216,
+          48.208658229
+        ],
+        "pixel": [
+          367,
+          170
+        ]
+      },
+      {
+        "location": [
+          16.612720636,
+          48.118146329
+        ],
+        "pixel": [
+          505,
+          214
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1876"]
+}

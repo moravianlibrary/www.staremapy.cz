@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_2620/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "9965",
+  "title": "Hospodářská mapa dvora Vranín 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.671494,
+    48.988716,
+    14.717788,
+    49.001774
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/9965",
+  "id": "1d870e42-3630-5f6a-abfc-505614dfbe34",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        800,
+        8304
+      ],
+      [
+        14496,
+        8304
+      ],
+      [
+        14496,
+        2576
+      ],
+      [
+        800,
+        2576
+      ],
+      [
+        800,
+        8304
+      ]
+    ],
+    "created": "2015-06-20T11:29:38.834230+00:00",
+    "transformation_method": "affine",
+    "mapID": "1d870e42-3630-5f6a-abfc-505614dfbe34",
+    "affine_transformation": null,
+    "changed": "2015-06-20T11:29:38.834230+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.674054246,
+          48.99723317
+        ],
+        "pixel": [
+          1472,
+          4632
+        ]
+      },
+      {
+        "location": [
+          14.694535594,
+          48.997190935
+        ],
+        "pixel": [
+          7617,
+          4558
+        ]
+      },
+      {
+        "location": [
+          14.678882222,
+          48.989792242
+        ],
+        "pixel": [
+          3005,
+          8032
+        ]
+      },
+      {
+        "location": [
+          14.710816603,
+          48.99380851
+        ],
+        "pixel": [
+          12468,
+          6000
+        ]
+      },
+      {
+        "location": [
+          14.684761624,
+          48.997711829
+        ],
+        "pixel": [
+          4694,
+          4372
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1866"]
+}

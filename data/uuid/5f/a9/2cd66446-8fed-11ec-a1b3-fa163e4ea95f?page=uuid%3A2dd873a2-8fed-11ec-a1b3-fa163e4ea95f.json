@@ -1,0 +1,111 @@
+{
+  "date": ["1922"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:2cd66446-8fed-11ec-a1b3-fa163e4ea95f?page=uuid%3A2dd873a2-8fed-11ec-a1b3-fa163e4ea95f",
+  "description": "Praha (Česko)",
+  "scale": 2880,
+  "external_id": "1214458",
+  "title": "Tachymetrické měření V. Prahy",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.44465,
+    50.025043,
+    14.459628,
+    50.03258
+  ],
+  "reviewed": null,
+  "publisher": "Voj. zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:2cd66446-8fed-11ec-a1b3-fa163e4ea95f",
+  "id": "29f69834-8e1b-50b4-859e-8b9c61d7bc46",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        34,
+        406
+      ],
+      [
+        569,
+        405
+      ],
+      [
+        569,
+        26
+      ],
+      [
+        35,
+        26
+      ],
+      [
+        34,
+        406
+      ]
+    ],
+    "created": "2017-12-11T12:18:03.504410+00:00",
+    "transformation_method": "affine",
+    "mapID": "29f69834-8e1b-50b4-859e-8b9c61d7bc46",
+    "affine_transformation": null,
+    "changed": "2017-12-11T12:18:03.504410+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.456040131,
+          50.029199051
+        ],
+        "pixel": [
+          444,
+          194
+        ]
+      },
+      {
+        "location": [
+          14.450548997,
+          50.031772024
+        ],
+        "pixel": [
+          245,
+          65
+        ]
+      },
+      {
+        "location": [
+          14.445354211,
+          50.031435509
+        ],
+        "pixel": [
+          57,
+          84
+        ]
+      },
+      {
+        "location": [
+          14.458926188,
+          50.026056117
+        ],
+        "pixel": [
+          543,
+          353
+        ]
+      },
+      {
+        "location": [
+          14.445992576,
+          50.025556399
+        ],
+        "pixel": [
+          83,
+          386
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1922"]
+}

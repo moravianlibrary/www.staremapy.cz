@@ -1,0 +1,101 @@
+{
+  "date": ["1936"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:d35553f0-a4aa-11ec-9238-fa163e4ea95f?page=uuid%3Ad4314892-a4aa-11ec-9238-fa163e4ea95f",
+  "description": "Evropa střední",
+  "scale": null,
+  "external_id": "1337733",
+  "title": "Povětrnostní mapy Státního ústavu meteorologického",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -26.734846,
+    14.924708,
+    93.32176,
+    75.61303
+  ],
+  "reviewed": null,
+  "publisher": "Státní ústav meteorologický",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:d35553f0-a4aa-11ec-9238-fa163e4ea95f",
+  "id": "5df6b65d-28d2-5fe5-aefb-7e87d35c5d66",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:25:25.753670+00:00",
+    "transformation_method": "affine",
+    "mapID": "5df6b65d-28d2-5fe5-aefb-7e87d35c5d66",
+    "affine_transformation": null,
+    "changed": "2023-03-18T21:57:27.614521+00:00",
+    "gcps": [
+      {
+        "location": [
+          -8.969734794736981,
+          37.022741202341464
+        ],
+        "pixel": [
+          35,
+          309
+        ]
+      },
+      {
+        "location": [
+          0.21857310702170737,
+          38.75458162616067
+        ],
+        "pixel": [
+          89,
+          309
+        ]
+      },
+      {
+        "location": [
+          -7.7008238105458044,
+          43.76399150920963
+        ],
+        "pixel": [
+          55,
+          260
+        ]
+      },
+      {
+        "location": [
+          -3.102202095127229,
+          48.865185833939336
+        ],
+        "pixel": [
+          86,
+          228
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1936"]
+}

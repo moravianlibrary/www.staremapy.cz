@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Steken_M_48/ImageProperties.xml",
+  "description": null,
+  "scale": 11520,
+  "external_id": "23435",
+  "title": "Porostní mapa revíru Štěkeň a Rovná",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.975463,
+    49.23219,
+    14.062093,
+    49.29329
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/23435",
+  "id": "31d053cb-4e27-5706-b84c-912f8e70992b",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        260,
+        12662
+      ],
+      [
+        11460,
+        12662
+      ],
+      [
+        11460,
+        182
+      ],
+      [
+        260,
+        182
+      ],
+      [
+        260,
+        12662
+      ]
+    ],
+    "created": "2014-11-29T12:27:48.241260+00:00",
+    "transformation_method": "affine",
+    "mapID": "31d053cb-4e27-5706-b84c-912f8e70992b",
+    "affine_transformation": null,
+    "changed": "2014-11-29T12:27:48.241260+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.02381808,
+          49.284090891
+        ],
+        "pixel": [
+          7271,
+          1698
+        ]
+      },
+      {
+        "location": [
+          14.0188399,
+          49.277595841
+        ],
+        "pixel": [
+          6711,
+          2866
+        ]
+      },
+      {
+        "location": [
+          13.994463985,
+          49.282635178
+        ],
+        "pixel": [
+          3271,
+          1170
+        ]
+      },
+      {
+        "location": [
+          13.982447688,
+          49.273452
+        ],
+        "pixel": [
+          679,
+          2834
+        ]
+      },
+      {
+        "location": [
+          14.001158778,
+          49.268971781
+        ],
+        "pixel": [
+          3495,
+          4562
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1900"]
+}

@@ -1,0 +1,91 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1447/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "7323",
+  "title": "Šalmanovice o. České Budějovice 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.761768,
+    48.894974,
+    14.785453,
+    48.90766
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/7323",
+  "id": "fab1d429-8500-5ac7-9a15-43b797385c96",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        3600,
+        13696
+      ],
+      [
+        17232,
+        13696
+      ],
+      [
+        17232,
+        2272
+      ],
+      [
+        3600,
+        2272
+      ],
+      [
+        3600,
+        13696
+      ]
+    ],
+    "created": "2017-02-20T20:48:31.372280+00:00",
+    "transformation_method": "affine",
+    "mapID": "fab1d429-8500-5ac7-9a15-43b797385c96",
+    "affine_transformation": null,
+    "changed": "2017-02-20T20:48:31.372280+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.778982162,
+          48.89735042
+        ],
+        "pixel": [
+          13502,
+          11579
+        ]
+      },
+      {
+        "location": [
+          14.780553937,
+          48.905972268
+        ],
+        "pixel": [
+          14454,
+          3789
+        ]
+      },
+      {
+        "location": [
+          14.766053915,
+          48.896419383
+        ],
+        "pixel": [
+          6022,
+          12397
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1838"]
+}

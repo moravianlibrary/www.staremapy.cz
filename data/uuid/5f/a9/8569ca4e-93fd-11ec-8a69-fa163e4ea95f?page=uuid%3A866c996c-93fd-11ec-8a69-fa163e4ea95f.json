@@ -1,0 +1,111 @@
+{
+  "date": ["1904"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:8569ca4e-93fd-11ec-8a69-fa163e4ea95f?page=uuid%3A866c996c-93fd-11ec-8a69-fa163e4ea95f",
+  "description": "Dolní Rakousko (Rakousko)",
+  "scale": 25000,
+  "external_id": "1251312",
+  "title": "Judenau",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.9585285,
+    48.249504,
+    16.083965,
+    48.31197
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:8569ca4e-93fd-11ec-8a69-fa163e4ea95f",
+  "id": "a837e5f3-5c13-5136-baae-0bb17ff7f424",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        79,
+        383
+      ],
+      [
+        520,
+        383
+      ],
+      [
+        521,
+        57
+      ],
+      [
+        82,
+        57
+      ],
+      [
+        79,
+        383
+      ]
+    ],
+    "created": "2017-07-10T20:21:32.629260+00:00",
+    "transformation_method": "affine",
+    "mapID": "a837e5f3-5c13-5136-baae-0bb17ff7f424",
+    "affine_transformation": null,
+    "changed": "2017-07-10T20:21:32.629260+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.074306581,
+          48.258113309
+        ],
+        "pixel": [
+          487,
+          338
+        ]
+      },
+      {
+        "location": [
+          16.061452805,
+          48.299462851
+        ],
+        "pixel": [
+          442,
+          122
+        ]
+      },
+      {
+        "location": [
+          16.01107019,
+          48.255278613
+        ],
+        "pixel": [
+          264,
+          353
+        ]
+      },
+      {
+        "location": [
+          15.961203191,
+          48.291717224
+        ],
+        "pixel": [
+          89,
+          163
+        ]
+      },
+      {
+        "location": [
+          16.009954391,
+          48.304744123
+        ],
+        "pixel": [
+          261,
+          95
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1904"]
+}

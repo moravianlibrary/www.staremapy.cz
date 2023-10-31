@@ -1,0 +1,101 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_2406/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "9751",
+  "title": "Mapa povodí Zlaté stoky překopírované z katastrálních map přilehlých obcí 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.806548,
+    48.965836,
+    14.838281,
+    48.980152
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/9751",
+  "id": "76fa6cb1-bd04-58af-9ee0-1a1519efcd58",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        18181,
+        0
+      ],
+      [
+        18181,
+        12851
+      ],
+      [
+        0,
+        12851
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        18181,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:18:26.048250+00:00",
+    "transformation_method": "affine",
+    "mapID": "76fa6cb1-bd04-58af-9ee0-1a1519efcd58",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:18:26.048250+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.836567861963065,
+          48.974733057094426
+        ],
+        "pixel": [
+          17494,
+          4687
+        ]
+      },
+      {
+        "location": [
+          14.836689902473239,
+          48.97562566314505
+        ],
+        "pixel": [
+          17597,
+          3838
+        ]
+      },
+      {
+        "location": [
+          14.813638998199249,
+          48.97575242247163
+        ],
+        "pixel": [
+          4019,
+          3975
+        ]
+      },
+      {
+        "location": [
+          14.82447325088597,
+          48.97742254633238
+        ],
+        "pixel": [
+          10464,
+          2332
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1876"]
+}

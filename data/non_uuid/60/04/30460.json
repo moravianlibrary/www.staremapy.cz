@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_rychmburk_0432_VI/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "30460",
+  "title": "Indikační skica mapy stabilního katastru pro obec Týníšťko VI",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.085867,
+    49.98757,
+    16.104706,
+    50.002785
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/30460",
+  "id": "efeabc6a-5e1a-5fca-8800-701565a6afc3",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        3070,
+        4890
+      ],
+      [
+        12606,
+        4890
+      ],
+      [
+        12606,
+        346
+      ],
+      [
+        3070,
+        346
+      ],
+      [
+        3070,
+        4890
+      ]
+    ],
+    "created": "2015-01-21T16:23:25.322460+00:00",
+    "transformation_method": "affine",
+    "mapID": "efeabc6a-5e1a-5fca-8800-701565a6afc3",
+    "affine_transformation": null,
+    "changed": "2015-01-21T16:23:25.322460+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.097161625,
+          49.999326228
+        ],
+        "pixel": [
+          8272,
+          645
+        ]
+      },
+      {
+        "location": [
+          16.100155314,
+          49.997988363
+        ],
+        "pixel": [
+          10120,
+          615
+        ]
+      },
+      {
+        "location": [
+          16.099275549,
+          49.997643529
+        ],
+        "pixel": [
+          9640,
+          951
+        ]
+      },
+      {
+        "location": [
+          16.097762439,
+          49.997319316
+        ],
+        "pixel": [
+          8840,
+          1454
+        ]
+      },
+      {
+        "location": [
+          16.096249674,
+          49.997615875
+        ],
+        "pixel": [
+          8136,
+          1211
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

@@ -1,0 +1,101 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:80c2253a-b118-11ec-a574-fa163e4ea95f?page=uuid%3A81850104-b118-11ec-a574-fa163e4ea95f",
+  "description": "Słupcza (Polsko)",
+  "scale": 100000,
+  "external_id": "1376007",
+  "title": "Powidz",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    17.772238,
+    52.19667,
+    18.383053,
+    52.519253
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:80c2253a-b118-11ec-a574-fa163e4ea95f",
+  "id": "264706a4-d1c6-582d-b48a-96de7d469afe",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2016-01-08T13:33:27.569940+00:00",
+    "transformation_method": "affine",
+    "mapID": "264706a4-d1c6-582d-b48a-96de7d469afe",
+    "affine_transformation": null,
+    "changed": "2016-01-08T13:33:27.569940+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.306383985,
+          52.370347008
+        ],
+        "pixel": [
+          525,
+          204
+        ]
+      },
+      {
+        "location": [
+          17.867030677,
+          52.283802236
+        ],
+        "pixel": [
+          91,
+          326
+        ]
+      },
+      {
+        "location": [
+          18.072026548,
+          52.457632323
+        ],
+        "pixel": [
+          295,
+          84
+        ]
+      },
+      {
+        "location": [
+          18.115714368,
+          52.305961203
+        ],
+        "pixel": [
+          338,
+          293
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

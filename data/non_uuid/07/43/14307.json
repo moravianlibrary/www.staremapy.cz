@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_pardubice_383_II/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "14307",
+  "title": "Indikační skica mapy stabilního katastru pro obec Opatovice II.",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.770937,
+    50.13985,
+    15.786033,
+    50.153717
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/14307",
+  "id": "053e46f8-3d18-5c99-8b61-a44fee513332",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        552,
+        12856
+      ],
+      [
+        8968,
+        12856
+      ],
+      [
+        8968,
+        504
+      ],
+      [
+        552,
+        504
+      ],
+      [
+        552,
+        12856
+      ]
+    ],
+    "created": "2015-01-22T22:16:07.735100+00:00",
+    "transformation_method": "affine",
+    "mapID": "053e46f8-3d18-5c99-8b61-a44fee513332",
+    "affine_transformation": null,
+    "changed": "2015-01-22T22:16:07.735100+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.78308259844092,
+          50.14732059439328
+        ],
+        "pixel": [
+          7424,
+          6115
+        ]
+      },
+      {
+        "location": [
+          15.782984108,
+          50.144376753
+        ],
+        "pixel": [
+          7349,
+          8840
+        ]
+      },
+      {
+        "location": [
+          15.783289983,
+          50.14261432
+        ],
+        "pixel": [
+          7656,
+          10412
+        ]
+      },
+      {
+        "location": [
+          15.778960379,
+          50.141040738
+        ],
+        "pixel": [
+          5177,
+          11788
+        ]
+      },
+      {
+        "location": [
+          15.785600212,
+          50.144556081
+        ],
+        "pixel": [
+          8913,
+          8612
+        ]
+      },
+      {
+        "location": [
+          15.774471006,
+          50.146366018
+        ],
+        "pixel": [
+          2446,
+          7164
+        ]
+      },
+      {
+        "location": [
+          15.781816595785891,
+          50.152552201039896
+        ],
+        "pixel": [
+          6561,
+          1378
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1840"]
+}

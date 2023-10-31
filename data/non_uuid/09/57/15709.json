@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/domousice_0013/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "15709",
+  "title": "Mapa lesů a vod na okrese Louny 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.562374,
+    50.13504,
+    14.004514,
+    50.47456
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/15709",
+  "id": "af034cd9-42aa-5a4b-9527-1c9f70d3025c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        2592,
+        18720
+      ],
+      [
+        17120,
+        18720
+      ],
+      [
+        17120,
+        1248
+      ],
+      [
+        2592,
+        1248
+      ],
+      [
+        2592,
+        18720
+      ]
+    ],
+    "created": "2017-01-13T14:25:38.880080+00:00",
+    "transformation_method": "affine",
+    "mapID": "af034cd9-42aa-5a4b-9527-1c9f70d3025c",
+    "affine_transformation": null,
+    "changed": "2017-01-13T14:25:38.880080+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.811611176,
+          50.333756572
+        ],
+        "pixel": [
+          10829,
+          8502
+        ]
+      },
+      {
+        "location": [
+          13.69938755,
+          50.360402954
+        ],
+        "pixel": [
+          7087,
+          7035
+        ]
+      },
+      {
+        "location": [
+          13.902167725489981,
+          50.37323172545669
+        ],
+        "pixel": [
+          13916,
+          6499
+        ]
+      },
+      {
+        "location": [
+          13.754190445,
+          50.214225752
+        ],
+        "pixel": [
+          8782,
+          14712
+        ]
+      },
+      {
+        "location": [
+          13.6275748,
+          50.4429055
+        ],
+        "pixel": [
+          4757,
+          2670
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1925"]
+}

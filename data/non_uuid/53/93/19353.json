@@ -1,0 +1,91 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Miletice_Dlazov_M_6-2/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "19353",
+  "title": "Katastrální mapa obce Spůle",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.198836,
+    49.357487,
+    13.215116,
+    49.374317
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/19353",
+  "id": "f7906060-9a1a-55fe-93e9-844f8740ab8e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        63,
+        15214
+      ],
+      [
+        9439,
+        15214
+      ],
+      [
+        9439,
+        142
+      ],
+      [
+        63,
+        142
+      ],
+      [
+        63,
+        15214
+      ]
+    ],
+    "created": "2015-01-31T21:44:46.607580+00:00",
+    "transformation_method": "affine",
+    "mapID": "f7906060-9a1a-55fe-93e9-844f8740ab8e",
+    "affine_transformation": null,
+    "changed": "2022-10-23T15:55:44.900552+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.211061652,
+          49.373034027
+        ],
+        "pixel": [
+          7171,
+          1290
+        ]
+      },
+      {
+        "location": [
+          13.208953435,
+          49.360307594
+        ],
+        "pixel": [
+          5869,
+          12692
+        ]
+      },
+      {
+        "location": [
+          13.200461561,
+          49.362082436
+        ],
+        "pixel": [
+          937,
+          11099
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1842"]
+}

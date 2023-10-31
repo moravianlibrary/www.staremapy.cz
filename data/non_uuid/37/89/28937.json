@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/1265_V/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "28937",
+  "title": "Karte des westlichen Russlands",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    20.829624,
+    50.748077,
+    21.333364,
+    50.998703
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/28937",
+  "id": "4a503775-331b-55ea-b783-d5842b5b70ad",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        686,
+        7303
+      ],
+      [
+        9007,
+        7292
+      ],
+      [
+        8978,
+        744
+      ],
+      [
+        703,
+        756
+      ],
+      [
+        686,
+        7303
+      ]
+    ],
+    "created": "2017-05-07T21:07:50.519110+00:00",
+    "transformation_method": "affine",
+    "mapID": "4a503775-331b-55ea-b783-d5842b5b70ad",
+    "affine_transformation": null,
+    "changed": "2017-05-07T21:07:50.519110+00:00",
+    "gcps": [
+      {
+        "location": [
+          21.120650291,
+          50.962237745
+        ],
+        "pixel": [
+          5479,
+          1701
+        ]
+      },
+      {
+        "location": [
+          21.280595779,
+          50.961534974
+        ],
+        "pixel": [
+          8123,
+          1722
+        ]
+      },
+      {
+        "location": [
+          21.246220589,
+          50.903276115
+        ],
+        "pixel": [
+          7574,
+          3234
+        ]
+      },
+      {
+        "location": [
+          20.880983107,
+          50.97804126
+        ],
+        "pixel": [
+          1532,
+          1295
+        ]
+      },
+      {
+        "location": [
+          20.895119081,
+          50.751710725
+        ],
+        "pixel": [
+          1765,
+          7214
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

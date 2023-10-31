@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Kout_na_Sumave_M_280/ImageProperties.xml",
+  "description": null,
+  "scale": 5338,
+  "external_id": "14320",
+  "title": "Hospodářská mapa revíru Postřekov",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.653601,
+    49.397335,
+    12.828271,
+    49.499878
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/14320",
+  "id": "86dec276-f745-552b-ac82-bd57d07d3880",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        25483,
+        0
+      ],
+      [
+        25483,
+        10467
+      ],
+      [
+        0,
+        10467
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        25483,
+        0
+      ]
+    ],
+    "created": "2014-11-25T16:34:41.412000+00:00",
+    "transformation_method": "affine",
+    "mapID": "86dec276-f745-552b-ac82-bd57d07d3880",
+    "affine_transformation": null,
+    "changed": "2014-11-25T16:34:41.412000+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.746621740954184,
+          49.45372554134866
+        ],
+        "pixel": [
+          12505,
+          7519
+        ]
+      },
+      {
+        "location": [
+          12.737897370334668,
+          49.44692962137455
+        ],
+        "pixel": [
+          8823,
+          9941
+        ]
+      },
+      {
+        "location": [
+          12.685296975180039,
+          49.4805181797891
+        ],
+        "pixel": [
+          1603,
+          6971
+        ]
+      },
+      {
+        "location": [
+          12.720917613817228,
+          49.467316764306645
+        ],
+        "pixel": [
+          4378,
+          8246
+        ]
+      },
+      {
+        "location": [
+          12.778285500511716,
+          49.422216048531595
+        ],
+        "pixel": [
+          20926,
+          3877
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1847"]
+}

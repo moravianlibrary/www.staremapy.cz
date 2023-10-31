@@ -1,0 +1,131 @@
+{
+  "date": ["1929"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:1ad8aae6-9f16-11ec-9836-fa163e4ea95f?page=uuid%3A1bb529d0-9f16-11ec-9836-fa163e4ea95f",
+  "description": "Horažďovice (Česko : oblast)",
+  "scale": 75000,
+  "external_id": "1330336",
+  "title": "Horažďovice",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.250606,
+    49.206116,
+    13.912862,
+    49.532833
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:1ad8aae6-9f16-11ec-9836-fa163e4ea95f",
+  "id": "ea2168dd-6c9a-5635-a136-a870bcd2bfb1",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:05:23.470110+00:00",
+    "transformation_method": "affine",
+    "mapID": "ea2168dd-6c9a-5635-a136-a870bcd2bfb1",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:05:23.470110+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.55206053,
+          49.33415753
+        ],
+        "pixel": [
+          273,
+          271
+        ]
+      },
+      {
+        "location": [
+          13.786044669,
+          49.460580618
+        ],
+        "pixel": [
+          485,
+          98
+        ]
+      },
+      {
+        "location": [
+          13.824550384,
+          49.268297795
+        ],
+        "pixel": [
+          520,
+          359
+        ]
+      },
+      {
+        "location": [
+          13.39319764,
+          49.266136404
+        ],
+        "pixel": [
+          128,
+          362
+        ]
+      },
+      {
+        "location": [
+          13.571726107,
+          49.414189206
+        ],
+        "pixel": [
+          291,
+          161
+        ]
+      },
+      {
+        "location": [
+          13.704817161,
+          49.321391591
+        ],
+        "pixel": [
+          412,
+          287
+        ]
+      },
+      {
+        "location": [
+          13.404151513,
+          49.479645812
+        ],
+        "pixel": [
+          140,
+          72
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1929"]
+}

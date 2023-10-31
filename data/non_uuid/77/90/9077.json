@@ -1,0 +1,115 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1732/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "9077",
+  "title": "Stará Hlína o. Jindřichův Hradec 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.760738,
+    49.045822,
+    14.787278,
+    49.05478
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/9077",
+  "id": "0e9682df-75e2-503d-abc8-76c5b3ed7cb7",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1061,
+        13623
+      ],
+      [
+        16165,
+        13623
+      ],
+      [
+        16165,
+        5463
+      ],
+      [
+        10245,
+        9255
+      ],
+      [
+        1061,
+        10871
+      ],
+      [
+        1061,
+        13623
+      ]
+    ],
+    "created": "2016-02-05T19:14:56.743300+00:00",
+    "transformation_method": "affine",
+    "mapID": "0e9682df-75e2-503d-abc8-76c5b3ed7cb7",
+    "affine_transformation": null,
+    "changed": "2016-02-05T19:14:56.743300+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.761833191,
+          49.048135056
+        ],
+        "pixel": [
+          1274,
+          11453
+        ]
+      },
+      {
+        "location": [
+          14.777025223,
+          49.050272721
+        ],
+        "pixel": [
+          10490,
+          9613
+        ]
+      },
+      {
+        "location": [
+          14.783033371,
+          49.052410294
+        ],
+        "pixel": [
+          13930,
+          7693
+        ]
+      },
+      {
+        "location": [
+          14.785179138,
+          49.052522796
+        ],
+        "pixel": [
+          15290,
+          7517
+        ]
+      },
+      {
+        "location": [
+          14.768227577,
+          49.048838245
+        ],
+        "pixel": [
+          5290,
+          10861
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1839"]
+}

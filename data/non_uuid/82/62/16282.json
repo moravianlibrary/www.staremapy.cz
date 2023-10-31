@@ -1,0 +1,101 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/domousice_0586/ImageProperties.xml",
+  "description": null,
+  "scale": 1440,
+  "external_id": "16282",
+  "title": "Plán polohový, vyznačující tok potoka číslo 1881 v Domoušicích dle ream[bulovaného] katastru a skutečného běhu z roku 1886 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.725508,
+    50.236507,
+    13.739939,
+    50.24338
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/16282",
+  "id": "9f9b52c0-c0a5-5fb3-99ab-2d87966972c9",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        147,
+        10559
+      ],
+      [
+        14803,
+        10559
+      ],
+      [
+        14803,
+        703
+      ],
+      [
+        147,
+        703
+      ],
+      [
+        147,
+        10559
+      ]
+    ],
+    "created": "2016-06-19T12:43:53.776510+00:00",
+    "transformation_method": "affine",
+    "mapID": "9f9b52c0-c0a5-5fb3-99ab-2d87966972c9",
+    "affine_transformation": null,
+    "changed": "2016-06-19T12:43:53.776510+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.734767974,
+          50.238975421
+        ],
+        "pixel": [
+          9441,
+          7722
+        ]
+      },
+      {
+        "location": [
+          13.728605549,
+          50.239828045
+        ],
+        "pixel": [
+          2987,
+          5057
+        ]
+      },
+      {
+        "location": [
+          13.73772645,
+          50.24017626
+        ],
+        "pixel": [
+          13009,
+          6010
+        ]
+      },
+      {
+        "location": [
+          13.733749377,
+          50.24075731
+        ],
+        "pixel": [
+          8757,
+          4498
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1886"]
+}

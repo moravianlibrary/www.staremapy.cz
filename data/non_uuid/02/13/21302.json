@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Manetin_M_90/ImageProperties.xml",
+  "description": null,
+  "scale": 4320,
+  "external_id": "21302",
+  "title": "Hospodářská mapa polesí Vranov",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.251643,
+    49.995056,
+    13.28802,
+    50.02915
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/21302",
+  "id": "f0afd242-8577-5ace-9c8e-5365579a82b3",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        16659,
+        0
+      ],
+      [
+        16659,
+        11554
+      ],
+      [
+        0,
+        11554
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        16659,
+        0
+      ]
+    ],
+    "created": "2014-11-25T16:59:53.212900+00:00",
+    "transformation_method": "affine",
+    "mapID": "f0afd242-8577-5ace-9c8e-5365579a82b3",
+    "affine_transformation": null,
+    "changed": "2023-03-16T18:41:28.896509+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.272755562968413,
+          50.019344846775965
+        ],
+        "pixel": [
+          12167,
+          7398
+        ]
+      },
+      {
+        "location": [
+          13.276192476074527,
+          50.01373263463722
+        ],
+        "pixel": [
+          8614,
+          7967
+        ]
+      },
+      {
+        "location": [
+          13.26566452495419,
+          50.00732334273596
+        ],
+        "pixel": [
+          6012,
+          4140
+        ]
+      },
+      {
+        "location": [
+          13.26170486182706,
+          50.02053742262558
+        ],
+        "pixel": [
+          13788,
+          3428
+        ]
+      },
+      {
+        "location": [
+          13.263142525859047,
+          50.01678036375603
+        ],
+        "pixel": [
+          11716,
+          3508
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1828"]
+}

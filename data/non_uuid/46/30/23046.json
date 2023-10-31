@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/0776_08/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "23046",
+  "title": "Orientační plán Prahy a obcí sousedních List 2c.",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.505228,
+    50.13062,
+    14.537659,
+    50.145126
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/23046",
+  "id": "08ddcbe9-8419-59d9-8a0f-c7d2a62e7cf4",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        659,
+        8104
+      ],
+      [
+        11251,
+        8104
+      ],
+      [
+        11251,
+        680
+      ],
+      [
+        659,
+        680
+      ],
+      [
+        659,
+        8104
+      ]
+    ],
+    "created": "2015-03-14T23:58:58.217710+00:00",
+    "transformation_method": "affine",
+    "mapID": "08ddcbe9-8419-59d9-8a0f-c7d2a62e7cf4",
+    "affine_transformation": null,
+    "changed": "2015-03-14T23:58:58.217710+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.521817822,
+          50.136314806
+        ],
+        "pixel": [
+          6126,
+          5186
+        ]
+      },
+      {
+        "location": [
+          14.513771195,
+          50.139794335
+        ],
+        "pixel": [
+          3326,
+          3450
+        ]
+      },
+      {
+        "location": [
+          14.516925473,
+          50.140867024
+        ],
+        "pixel": [
+          4414,
+          2834
+        ]
+      },
+      {
+        "location": [
+          14.530157616,
+          50.140313743
+        ],
+        "pixel": [
+          8810,
+          3047
+        ]
+      },
+      {
+        "location": [
+          14.513234753,
+          50.131390771
+        ],
+        "pixel": [
+          3328,
+          7897
+        ]
+      }
+    ]
+  },
+  "pubdate": [null]
+}

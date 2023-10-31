@@ -1,0 +1,114 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/ntm/mapy/0335_13/ImageProperties.xml",
+  "description": null,
+  "scale": 5000,
+  "external_id": "22506",
+  "title": "Orientační plán Prahy a obcí sousedních List 13.",
+  "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.473629,
+    50.08221,
+    14.505035,
+    50.10662
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/22506",
+  "id": "de0262ef-c39f-52db-a5b9-b4c7cef42bb7",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        822,
+        13459
+      ],
+      [
+        11184,
+        13440
+      ],
+      [
+        11128,
+        681
+      ],
+      [
+        764,
+        687
+      ],
+      [
+        822,
+        13459
+      ]
+    ],
+    "created": "2014-12-01T19:42:13.926890+00:00",
+    "transformation_method": "affine",
+    "mapID": "de0262ef-c39f-52db-a5b9-b4c7cef42bb7",
+    "affine_transformation": null,
+    "changed": "2014-12-01T19:42:13.926890+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.478813364,
+          50.103208204
+        ],
+        "pixel": [
+          2356,
+          2484
+        ]
+      },
+      {
+        "location": [
+          14.497882099,
+          50.091953131
+        ],
+        "pixel": [
+          8863,
+          8331
+        ]
+      },
+      {
+        "location": [
+          14.48907595,
+          50.101293623
+        ],
+        "pixel": [
+          5849,
+          3439
+        ]
+      },
+      {
+        "location": [
+          14.486452295,
+          50.104553528
+        ],
+        "pixel": [
+          4880,
+          1720
+        ]
+      },
+      {
+        "location": [
+          14.503076627,
+          50.10208994
+        ],
+        "pixel": [
+          10516,
+          2990
+        ]
+      }
+    ]
+  },
+  "pubdate": [
+    "1909",
+    "1914"
+  ]
+}

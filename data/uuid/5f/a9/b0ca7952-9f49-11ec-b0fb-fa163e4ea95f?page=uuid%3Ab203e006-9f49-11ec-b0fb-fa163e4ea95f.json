@@ -1,0 +1,111 @@
+{
+  "date": ["1898"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:b0ca7952-9f49-11ec-b0fb-fa163e4ea95f?page=uuid%3Ab203e006-9f49-11ec-b0fb-fa163e4ea95f",
+  "description": "Bratislava (Slovensko : oblast)",
+  "scale": 75000,
+  "external_id": "1331775",
+  "title": "Pressburg und Hainburg",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.765629,
+    47.95342,
+    17.396044,
+    48.2861
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:b0ca7952-9f49-11ec-b0fb-fa163e4ea95f",
+  "id": "5d5c02a0-ef3e-50a6-b25c-5634cb9aa310",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:08:44.642370+00:00",
+    "transformation_method": "affine",
+    "mapID": "5d5c02a0-ef3e-50a6-b25c-5634cb9aa310",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:08:44.642370+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.929960559,
+          48.215541274
+        ],
+        "pixel": [
+          156,
+          94
+        ]
+      },
+      {
+        "location": [
+          16.863785098,
+          48.071445013
+        ],
+        "pixel": [
+          92,
+          287
+        ]
+      },
+      {
+        "location": [
+          17.291004263,
+          48.227531297
+        ],
+        "pixel": [
+          500,
+          78
+        ]
+      },
+      {
+        "location": [
+          17.304225276,
+          48.030651328
+        ],
+        "pixel": [
+          514,
+          340
+        ]
+      },
+      {
+        "location": [
+          17.106085132,
+          48.155340376
+        ],
+        "pixel": [
+          324,
+          174
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1898"]
+}

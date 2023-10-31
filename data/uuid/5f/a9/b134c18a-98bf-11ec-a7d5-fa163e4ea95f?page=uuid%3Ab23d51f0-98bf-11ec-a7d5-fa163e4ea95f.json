@@ -1,0 +1,131 @@
+{
+  "date": ["1927"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:b134c18a-98bf-11ec-a7d5-fa163e4ea95f?page=uuid%3Ab23d51f0-98bf-11ec-a7d5-fa163e4ea95f",
+  "description": "Krakov (Polsko : oblast)",
+  "scale": 300000,
+  "external_id": "1286618",
+  "title": "Krakau",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    17.09268,
+    48.93182,
+    20.378834,
+    50.541496
+  ],
+  "reviewed": null,
+  "publisher": "Kartogr. Anstalt G. Freytag & Berndt",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:b134c18a-98bf-11ec-a7d5-fa163e4ea95f",
+  "id": "9dd1fcd0-8a16-58ff-8b7a-d648c447f274",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T16:22:41.508500+00:00",
+    "transformation_method": "affine",
+    "mapID": "9dd1fcd0-8a16-58ff-8b7a-d648c447f274",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:22:41.508500+00:00",
+    "gcps": [
+      {
+        "location": [
+          17.2532692664195,
+          49.43642586634195
+        ],
+        "pixel": [
+          58,
+          285
+        ]
+      },
+      {
+        "location": [
+          17.517772005049746,
+          48.98956160145855
+        ],
+        "pixel": [
+          111,
+          409
+        ]
+      },
+      {
+        "location": [
+          19.784218681381244,
+          49.03113782392512
+        ],
+        "pixel": [
+          554,
+          400
+        ]
+      },
+      {
+        "location": [
+          17.26981984277617,
+          50.10530400960971
+        ],
+        "pixel": [
+          66,
+          100
+        ]
+      },
+      {
+        "location": [
+          17.697430550415035,
+          50.089267259896246
+        ],
+        "pixel": [
+          148,
+          107
+        ]
+      },
+      {
+        "location": [
+          19.758521725677515,
+          50.37930237253633
+        ],
+        "pixel": [
+          545,
+          28
+        ]
+      },
+      {
+        "location": [
+          20.03537372168097,
+          50.045328041637276
+        ],
+        "pixel": [
+          270,
+          245
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1927"]
+}

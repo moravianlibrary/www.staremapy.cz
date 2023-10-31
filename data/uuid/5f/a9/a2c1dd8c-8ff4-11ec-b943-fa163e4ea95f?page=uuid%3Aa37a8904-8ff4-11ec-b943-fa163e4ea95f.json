@@ -1,0 +1,129 @@
+{
+  "date": ["1910"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:a2c1dd8c-8ff4-11ec-b943-fa163e4ea95f?page=uuid%3Aa37a8904-8ff4-11ec-b943-fa163e4ea95f",
+  "description": "Dolní Lužice (Německo)",
+  "scale": 400000,
+  "external_id": "1214687",
+  "title": "Bevölkerungskarte der Ober- und Niederlausitz auf Grund der Volkszählung 1910",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.770219,
+    50.958176,
+    14.970003,
+    52.03471
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:a2c1dd8c-8ff4-11ec-b943-fa163e4ea95f",
+  "id": "e02b8699-73f0-5a4f-97e4-a4d8d4a41af7",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        212,
+        420
+      ],
+      [
+        537,
+        420
+      ],
+      [
+        537,
+        51
+      ],
+      [
+        78,
+        51
+      ],
+      [
+        78,
+        355
+      ],
+      [
+        210,
+        358
+      ],
+      [
+        212,
+        420
+      ]
+    ],
+    "created": "2017-12-05T21:20:32.542290+00:00",
+    "transformation_method": "affine",
+    "mapID": "e02b8699-73f0-5a4f-97e4-a4d8d4a41af7",
+    "affine_transformation": null,
+    "changed": "2017-12-05T21:20:32.542290+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.725650647,
+          51.948478837
+        ],
+        "pixel": [
+          442,
+          78
+        ]
+      },
+      {
+        "location": [
+          14.433826306,
+          51.17943176
+        ],
+        "pixel": [
+          333,
+          346
+        ]
+      },
+      {
+        "location": [
+          13.906225064,
+          51.264957397
+        ],
+        "pixel": [
+          129,
+          318
+        ]
+      },
+      {
+        "location": [
+          14.345249036,
+          51.753371354
+        ],
+        "pixel": [
+          298,
+          147
+        ]
+      },
+      {
+        "location": [
+          14.36447511,
+          51.568515591
+        ],
+        "pixel": [
+          310,
+          212
+        ]
+      },
+      {
+        "location": [
+          14.670032361,
+          51.094986978
+        ],
+        "pixel": [
+          423,
+          373
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1910"]
+}

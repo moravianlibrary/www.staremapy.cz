@@ -1,0 +1,111 @@
+{
+  "date": ["1921"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:6740a4ea-a49f-11ec-821e-fa163e4ea95f?page=uuid%3A6831fafc-a49f-11ec-821e-fa163e4ea95f",
+  "description": "Bad Radkersburg (Rakousko)",
+  "scale": 75000,
+  "external_id": "1337256",
+  "title": "Radkersburg a Luttenberg",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.765571,
+    46.45468,
+    16.398588,
+    46.783928
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:6740a4ea-a49f-11ec-821e-fa163e4ea95f",
+  "id": "6c2db533-d7cc-590a-a2e2-6669f245de09",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        539,
+        46
+      ],
+      [
+        538,
+        383
+      ],
+      [
+        64,
+        383
+      ],
+      [
+        65,
+        46
+      ],
+      [
+        539,
+        46
+      ]
+    ],
+    "created": "2015-11-05T17:24:39.630690+00:00",
+    "transformation_method": "affine",
+    "mapID": "6c2db533-d7cc-590a-a2e2-6669f245de09",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:24:39.630690+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.31288510537283,
+          46.73998512698088
+        ],
+        "pixel": [
+          519,
+          59
+        ]
+      },
+      {
+        "location": [
+          15.988012070582847,
+          46.691275581685034
+        ],
+        "pixel": [
+          211,
+          124
+        ]
+      },
+      {
+        "location": [
+          16.236457434482222,
+          46.6078802482304
+        ],
+        "pixel": [
+          447,
+          238
+        ]
+      },
+      {
+        "location": [
+          15.941612298924316,
+          46.504091601375194
+        ],
+        "pixel": [
+          166,
+          377
+        ]
+      },
+      {
+        "location": [
+          16.031362687750146,
+          46.54088442583682
+        ],
+        "pixel": [
+          251,
+          327
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1921"]
+}

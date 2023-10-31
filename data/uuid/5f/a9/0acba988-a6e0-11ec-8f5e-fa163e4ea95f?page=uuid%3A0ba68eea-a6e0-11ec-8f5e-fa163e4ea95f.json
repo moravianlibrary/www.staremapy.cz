@@ -1,0 +1,111 @@
+{
+  "date": ["1937"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:0acba988-a6e0-11ec-8f5e-fa163e4ea95f?page=uuid%3A0ba68eea-a6e0-11ec-8f5e-fa163e4ea95f",
+  "description": "Evropa střední",
+  "scale": null,
+  "external_id": "1342104",
+  "title": "Přehled počasí",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": "Machač, František",
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.497496,
+    49.83896,
+    16.646564,
+    50.23013
+  ],
+  "reviewed": null,
+  "publisher": "Státní ústav meteorologický",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:0acba988-a6e0-11ec-8f5e-fa163e4ea95f",
+  "id": "b5126cfe-fd54-5712-a025-87262f42cf62",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:30:37.954900+00:00",
+    "transformation_method": "affine",
+    "mapID": "b5126cfe-fd54-5712-a025-87262f42cf62",
+    "affine_transformation": null,
+    "changed": "2021-03-28T11:53:32.207075+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.449929336561851,
+          50.0463306886586
+        ],
+        "pixel": [
+          99,
+          189
+        ]
+      },
+      {
+        "location": [
+          14.451439956711782,
+          50.04623147649548
+        ],
+        "pixel": [
+          175,
+          196
+        ]
+      },
+      {
+        "location": [
+          14.453574995374122,
+          50.0460316739389
+        ],
+        "pixel": [
+          175,
+          196
+        ]
+      },
+      {
+        "location": [
+          14.454298118899986,
+          50.04649053006895
+        ],
+        "pixel": [
+          1124,
+          279
+        ]
+      },
+      {
+        "location": [
+          14.452590088068334,
+          50.04613226475806
+        ],
+        "pixel": [
+          195,
+          198
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1937"]
+}

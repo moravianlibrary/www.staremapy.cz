@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_pardubice_221_3/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "13703",
+  "title": "Porostní mapa revíru Kladruby Sekce IV.",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    15.457797,
+    50.05585,
+    15.48937,
+    50.07182
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/13703",
+  "id": "4d44c30e-7cdb-5d65-a1a1-5672e221b349",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        384,
+        14560
+      ],
+      [
+        18144,
+        14560
+      ],
+      [
+        18144,
+        672
+      ],
+      [
+        384,
+        672
+      ],
+      [
+        384,
+        14560
+      ]
+    ],
+    "created": "2015-02-23T13:09:18.276120+00:00",
+    "transformation_method": "affine",
+    "mapID": "4d44c30e-7cdb-5d65-a1a1-5672e221b349",
+    "affine_transformation": null,
+    "changed": "2015-02-23T13:09:18.276120+00:00",
+    "gcps": [
+      {
+        "location": [
+          15.470848036,
+          50.058511556
+        ],
+        "pixel": [
+          7737,
+          12675
+        ]
+      },
+      {
+        "location": [
+          15.481884725961422,
+          50.07024469008522
+        ],
+        "pixel": [
+          13831,
+          1805
+        ]
+      },
+      {
+        "location": [
+          15.482708764,
+          50.069119143
+        ],
+        "pixel": [
+          14269,
+          2736
+        ]
+      },
+      {
+        "location": [
+          15.476172772,
+          50.062645995
+        ],
+        "pixel": [
+          11067,
+          8265
+        ]
+      },
+      {
+        "location": [
+          15.479423609,
+          50.070021804
+        ],
+        "pixel": [
+          12388,
+          2099
+        ]
+      },
+      {
+        "location": [
+          15.459914152,
+          50.065844814
+        ],
+        "pixel": [
+          1256,
+          5971
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1845"]
+}

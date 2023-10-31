@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/Vs_Litomysl_798_3/ImageProperties.xml",
+  "description": null,
+  "scale": 3000,
+  "external_id": "21741",
+  "title": "Náčrt mapy hájemství Karle a Čistá",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.387856,
+    49.776653,
+    16.418768,
+    49.79464
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/21741",
+  "id": "cac6c5a4-2936-56c3-a3f1-3924b0f2c457",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        17864,
+        0
+      ],
+      [
+        17864,
+        13414
+      ],
+      [
+        0,
+        13414
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        17864,
+        0
+      ]
+    ],
+    "created": "2014-11-25T18:43:25.218060+00:00",
+    "transformation_method": "affine",
+    "mapID": "cac6c5a4-2936-56c3-a3f1-3924b0f2c457",
+    "affine_transformation": null,
+    "changed": "2014-11-25T18:43:25.218060+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.402105212,
+          49.780214236
+        ],
+        "pixel": [
+          6652,
+          11816
+        ]
+      },
+      {
+        "location": [
+          16.403956545,
+          49.788210435
+        ],
+        "pixel": [
+          10066,
+          4285
+        ]
+      },
+      {
+        "location": [
+          16.391482322,
+          49.781661339
+        ],
+        "pixel": [
+          291,
+          8019
+        ]
+      },
+      {
+        "location": [
+          16.403784275,
+          49.783546412
+        ],
+        "pixel": [
+          8648,
+          8924
+        ]
+      },
+      {
+        "location": [
+          16.39797461,
+          49.781980803
+        ],
+        "pixel": [
+          4464,
+          9202
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1785"]
+}

@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Kladruby_M_12/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "21386",
+  "title": "Katastrální mapa obce Tuněchody",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    12.889881,
+    49.660336,
+    12.9404125,
+    49.68894
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/21386",
+  "id": "9764dcb4-5246-57aa-a54f-40e32effbafa",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        32,
+        25088
+      ],
+      [
+        29216,
+        25088
+      ],
+      [
+        29216,
+        -256
+      ],
+      [
+        32,
+        -256
+      ],
+      [
+        32,
+        25088
+      ]
+    ],
+    "created": "2014-12-11T21:15:26.061360+00:00",
+    "transformation_method": "affine",
+    "mapID": "9764dcb4-5246-57aa-a54f-40e32effbafa",
+    "affine_transformation": null,
+    "changed": "2014-12-11T21:15:26.061360+00:00",
+    "gcps": [
+      {
+        "location": [
+          12.915615571,
+          49.666770627
+        ],
+        "pixel": [
+          14834,
+          19504
+        ]
+      },
+      {
+        "location": [
+          12.911320031,
+          49.683763812
+        ],
+        "pixel": [
+          12475,
+          4175
+        ]
+      },
+      {
+        "location": [
+          12.899751664,
+          49.684912637
+        ],
+        "pixel": [
+          5768,
+          3107
+        ]
+      },
+      {
+        "location": [
+          12.933653197,
+          49.684895079
+        ],
+        "pixel": [
+          25513,
+          3308
+        ]
+      },
+      {
+        "location": [
+          12.891636832,
+          49.671238195
+        ],
+        "pixel": [
+          867,
+          15260
+        ]
+      },
+      {
+        "location": [
+          12.928995707,
+          49.663434515
+        ],
+        "pixel": [
+          22583,
+          22606
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1841"]
+}

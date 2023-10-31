@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/protivin_0035/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "17628",
+  "title": "Brouillon obory na protivínském panství 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.188968,
+    49.194138,
+    14.220572,
+    49.218796
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/17628",
+  "id": "1b513e95-cb5d-5425-b7e5-322f09f51a94",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        96,
+        14912
+      ],
+      [
+        20416,
+        14912
+      ],
+      [
+        20416,
+        160
+      ],
+      [
+        96,
+        160
+      ],
+      [
+        96,
+        14912
+      ]
+    ],
+    "created": "2016-04-20T12:31:29.932400+00:00",
+    "transformation_method": "affine",
+    "mapID": "1b513e95-cb5d-5425-b7e5-322f09f51a94",
+    "affine_transformation": null,
+    "changed": "2016-04-20T12:31:29.932400+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.209121,
+          49.206726
+        ],
+        "pixel": [
+          11343,
+          10113
+        ]
+      },
+      {
+        "location": [
+          14.20145,
+          49.197556
+        ],
+        "pixel": [
+          1421,
+          8101
+        ]
+      },
+      {
+        "location": [
+          14.202769,
+          49.2009
+        ],
+        "pixel": [
+          4661,
+          7824
+        ]
+      },
+      {
+        "location": [
+          14.19553,
+          49.200447
+        ],
+        "pixel": [
+          2901,
+          3662
+        ]
+      },
+      {
+        "location": [
+          14.198155,
+          49.21007
+        ],
+        "pixel": [
+          12319,
+          2521
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1782"]
+}

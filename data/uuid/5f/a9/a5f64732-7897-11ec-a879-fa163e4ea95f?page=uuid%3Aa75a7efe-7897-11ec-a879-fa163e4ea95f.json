@@ -1,0 +1,111 @@
+{
+  "date": ["1943"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:a5f64732-7897-11ec-a879-fa163e4ea95f?page=uuid%3Aa75a7efe-7897-11ec-a879-fa163e4ea95f",
+  "description": "Afrika severní",
+  "scale": 6000000,
+  "external_id": "1131369",
+  "title": "Der europäische Raum",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -25.322346,
+    9.18976,
+    71.76089,
+    72.20167
+  ],
+  "reviewed": null,
+  "publisher": "Richard Schwarz, Landkarten-Handlung und Geogr. Verlag",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:a5f64732-7897-11ec-a879-fa163e4ea95f",
+  "id": "1f1b7de1-8f10-5e74-b104-5f436cad7250",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        566,
+        23
+      ],
+      [
+        565,
+        421
+      ],
+      [
+        35,
+        422
+      ],
+      [
+        36,
+        23
+      ],
+      [
+        566,
+        23
+      ]
+    ],
+    "created": "2014-08-19T14:28:11.380660+00:00",
+    "transformation_method": "affine",
+    "mapID": "1f1b7de1-8f10-5e74-b104-5f436cad7250",
+    "affine_transformation": null,
+    "changed": "2022-11-27T11:49:42.521698+00:00",
+    "gcps": [
+      {
+        "location": [
+          18.057135558581347,
+          59.32513000240456
+        ],
+        "pixel": [
+          258,
+          134
+        ]
+      },
+      {
+        "location": [
+          12.708989820337273,
+          49.47356200089516
+        ],
+        "pixel": [
+          253,
+          220
+        ]
+      },
+      {
+        "location": [
+          14.823641113092878,
+          49.62064560189708
+        ],
+        "pixel": [
+          251,
+          217
+        ]
+      },
+      {
+        "location": [
+          33.3667258042676,
+          35.16792583204001
+        ],
+        "pixel": [
+          366,
+          333
+        ]
+      },
+      {
+        "location": [
+          -0.1450144211888435,
+          51.50164135899783
+        ],
+        "pixel": [
+          155,
+          186
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1943"]
+}

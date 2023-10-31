@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_3576/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "11841",
+  "title": "Plán jalových splavů na Nové Řece u jednotáře Bernharda 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.847223,
+    48.985992,
+    14.8494425,
+    48.98757
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/11841",
+  "id": "5cd1de5b-6e54-5a6b-8ae8-c1478734a5b0",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        2341,
+        12033
+      ],
+      [
+        7649,
+        11996
+      ],
+      [
+        7686,
+        7383
+      ],
+      [
+        2354,
+        7271
+      ],
+      [
+        2341,
+        12033
+      ]
+    ],
+    "created": "2015-06-03T17:15:28.903380+00:00",
+    "transformation_method": "affine",
+    "mapID": "5cd1de5b-6e54-5a6b-8ae8-c1478734a5b0",
+    "affine_transformation": null,
+    "changed": "2015-06-03T17:15:28.903380+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.84834079170181,
+          48.98741568230244
+        ],
+        "pixel": [
+          4863,
+          11958
+        ]
+      },
+      {
+        "location": [
+          14.848481040534711,
+          48.98695041273615
+        ],
+        "pixel": [
+          4641,
+          10242
+        ]
+      },
+      {
+        "location": [
+          14.848224889,
+          48.987174611
+        ],
+        "pixel": [
+          5333,
+          11362
+        ]
+      },
+      {
+        "location": [
+          14.847660284576154,
+          48.986799039739964
+        ],
+        "pixel": [
+          6590,
+          10107
+        ]
+      },
+      {
+        "location": [
+          14.849166912078399,
+          48.98693692409583
+        ],
+        "pixel": [
+          2965,
+          9807
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1876"]
+}

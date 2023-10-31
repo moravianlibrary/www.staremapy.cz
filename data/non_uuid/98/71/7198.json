@@ -1,0 +1,91 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1322/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "7198",
+  "title": "Kojákovice o. České Budějovice 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.717923,
+    48.935425,
+    14.73437,
+    48.950886
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/7198",
+  "id": "464522f3-5576-5898-bf1b-5638faf42522",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1024,
+        14176
+      ],
+      [
+        10688,
+        14176
+      ],
+      [
+        10688,
+        512
+      ],
+      [
+        1024,
+        512
+      ],
+      [
+        1024,
+        14176
+      ]
+    ],
+    "created": "2016-10-16T20:12:39.834090+00:00",
+    "transformation_method": "affine",
+    "mapID": "464522f3-5576-5898-bf1b-5638faf42522",
+    "affine_transformation": null,
+    "changed": "2016-10-16T20:12:39.834090+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.720836163,
+          48.947985624
+        ],
+        "pixel": [
+          2687,
+          3078
+        ]
+      },
+      {
+        "location": [
+          14.722230911,
+          48.949757686
+        ],
+        "pixel": [
+          3504,
+          1471
+        ]
+      },
+      {
+        "location": [
+          14.722295284,
+          48.937898116
+        ],
+        "pixel": [
+          3602,
+          12107
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1838"]
+}

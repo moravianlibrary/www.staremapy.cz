@@ -1,0 +1,111 @@
+{
+  "date": ["1940"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:8578249c-969e-11ec-9df1-fa163e4ea95f?page=uuid%3A86748e30-969e-11ec-9df1-fa163e4ea95f",
+  "description": null,
+  "scale": 200000,
+  "external_id": "1271520",
+  "title": "39°47° Békéscsaba",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    20.696226,
+    46.388863,
+    21.956047,
+    47.577763
+  ],
+  "reviewed": null,
+  "publisher": "Hauptvermessungsabteilung XIV",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:8578249c-969e-11ec-9df1-fa163e4ea95f",
+  "id": "d9f514ea-a886-5573-a686-4aef7474ac91",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        537,
+        32
+      ],
+      [
+        546,
+        401
+      ],
+      [
+        65,
+        402
+      ],
+      [
+        65,
+        31
+      ],
+      [
+        537,
+        32
+      ]
+    ],
+    "created": "2015-11-05T16:22:33.754460+00:00",
+    "transformation_method": "affine",
+    "mapID": "d9f514ea-a886-5573-a686-4aef7474ac91",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:22:33.754460+00:00",
+    "gcps": [
+      {
+        "location": [
+          21.175125505112273,
+          46.5278218229368
+        ],
+        "pixel": [
+          228,
+          392
+        ]
+      },
+      {
+        "location": [
+          21.73338232539425,
+          47.39145535928739
+        ],
+        "pixel": [
+          492,
+          70
+        ]
+      },
+      {
+        "location": [
+          21.732594410164854,
+          46.57045993035533
+        ],
+        "pixel": [
+          501,
+          376
+        ]
+      },
+      {
+        "location": [
+          21.143702101604614,
+          47.32944204608282
+        ],
+        "pixel": [
+          211,
+          94
+        ]
+      },
+      {
+        "location": [
+          20.848070569473617,
+          46.948202596951774
+        ],
+        "pixel": [
+          70,
+          235
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1940"]
+}

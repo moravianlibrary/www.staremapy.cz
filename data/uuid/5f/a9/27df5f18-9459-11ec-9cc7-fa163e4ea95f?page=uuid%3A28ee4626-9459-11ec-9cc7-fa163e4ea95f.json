@@ -1,0 +1,111 @@
+{
+  "date": ["1909"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:27df5f18-9459-11ec-9cc7-fa163e4ea95f?page=uuid%3A28ee4626-9459-11ec-9cc7-fa163e4ea95f",
+  "description": "Turka (Ukrajina : oblast)",
+  "scale": 200000,
+  "external_id": "1254731",
+  "title": "41°49° Turka",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    22.816778,
+    48.495125,
+    23.844168,
+    49.500336
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:27df5f18-9459-11ec-9cc7-fa163e4ea95f",
+  "id": "eb099e0e-256d-50e4-8e52-d9c469ffb732",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        34,
+        392
+      ],
+      [
+        541,
+        392
+      ],
+      [
+        541,
+        43
+      ],
+      [
+        34,
+        43
+      ],
+      [
+        34,
+        392
+      ]
+    ],
+    "created": "2017-04-17T15:47:34.254590+00:00",
+    "transformation_method": "affine",
+    "mapID": "eb099e0e-256d-50e4-8e52-d9c469ffb732",
+    "affine_transformation": null,
+    "changed": "2017-04-17T15:47:34.254590+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.034447638,
+          49.152917974
+        ],
+        "pixel": [
+          138,
+          164
+        ]
+      },
+      {
+        "location": [
+          23.506255676,
+          48.516876667
+        ],
+        "pixel": [
+          379,
+          384
+        ]
+      },
+      {
+        "location": [
+          23.509477583,
+          49.340675716
+        ],
+        "pixel": [
+          374,
+          98
+        ]
+      },
+      {
+        "location": [
+          22.964512328,
+          48.568227098
+        ],
+        "pixel": [
+          107,
+          368
+        ]
+      },
+      {
+        "location": [
+          22.999943701,
+          49.45217314
+        ],
+        "pixel": [
+          120,
+          60
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1909"]
+}

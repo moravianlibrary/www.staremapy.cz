@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/orlik_0043/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "16332",
+  "title": "Náčrt zemské silnice z Mirovic do Prahy v úseku Milín - Dobříš, s vyznačením návrhu na přeložení, zamýšleného r. 1710 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": true,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.771781,
+    49.133884,
+    14.412181,
+    50.013752
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/16332",
+  "id": "1de3a257-bb59-5495-981d-7b86af5acaaf",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        263,
+        4463
+      ],
+      [
+        7223,
+        4463
+      ],
+      [
+        7223,
+        255
+      ],
+      [
+        263,
+        255
+      ],
+      [
+        263,
+        4463
+      ]
+    ],
+    "created": "2014-11-29T18:12:24.599810+00:00",
+    "transformation_method": "affine",
+    "mapID": "1de3a257-bb59-5495-981d-7b86af5acaaf",
+    "affine_transformation": null,
+    "changed": "2014-11-29T18:12:24.599810+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.009754114558032,
+          49.68865520070574
+        ],
+        "pixel": [
+          3094,
+          1757
+        ]
+      },
+      {
+        "location": [
+          14.177809121090922,
+          49.78214640131122
+        ],
+        "pixel": [
+          5206,
+          967
+        ]
+      },
+      {
+        "location": [
+          13.88280818695328,
+          49.425490146833795
+        ],
+        "pixel": [
+          664,
+          3711
+        ]
+      },
+      {
+        "location": [
+          14.034010515446166,
+          49.51502789461867
+        ],
+        "pixel": [
+          2782,
+          2814
+        ]
+      },
+      {
+        "location": [
+          13.87378054131904,
+          49.60345858607198
+        ],
+        "pixel": [
+          709,
+          2621
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1710"]
+}

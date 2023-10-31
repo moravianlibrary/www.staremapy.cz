@@ -1,0 +1,111 @@
+{
+  "date": ["1935"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:ebb611f2-788e-11ec-9e3f-fa163e4ea95f?page=uuid%3Aecef6082-788e-11ec-9e3f-fa163e4ea95f",
+  "description": "Slovensko",
+  "scale": 75000,
+  "external_id": "1130914",
+  "title": "Gelnica",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    20.831476,
+    48.748127,
+    21.330086,
+    48.999702
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:ebb611f2-788e-11ec-9e3f-fa163e4ea95f",
+  "id": "f24568cc-5522-5cb1-9c27-e94bee28e365",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        74,
+        42
+      ],
+      [
+        530,
+        43
+      ],
+      [
+        531,
+        381
+      ],
+      [
+        73,
+        383
+      ],
+      [
+        74,
+        42
+      ]
+    ],
+    "created": "2014-12-08T18:03:38.563230+00:00",
+    "transformation_method": "affine",
+    "mapID": "f24568cc-5522-5cb1-9c27-e94bee28e365",
+    "affine_transformation": null,
+    "changed": "2014-12-08T18:03:38.563230+00:00",
+    "gcps": [
+      {
+        "location": [
+          21.24414284,
+          48.782345809
+        ],
+        "pixel": [
+          452,
+          337
+        ]
+      },
+      {
+        "location": [
+          20.847068617,
+          48.824716382
+        ],
+        "pixel": [
+          87,
+          279
+        ]
+      },
+      {
+        "location": [
+          20.846296141,
+          48.99462925
+        ],
+        "pixel": [
+          88,
+          50
+        ]
+      },
+      {
+        "location": [
+          21.008945296,
+          48.889037561
+        ],
+        "pixel": [
+          238,
+          192
+        ]
+      },
+      {
+        "location": [
+          21.285878012,
+          48.98273106
+        ],
+        "pixel": [
+          491,
+          64
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1935"]
+}

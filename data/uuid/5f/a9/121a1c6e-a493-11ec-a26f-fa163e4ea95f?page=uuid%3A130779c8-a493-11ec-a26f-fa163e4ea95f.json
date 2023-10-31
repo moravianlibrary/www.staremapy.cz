@@ -1,0 +1,111 @@
+{
+  "date": ["1935"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:121a1c6e-a493-11ec-a26f-fa163e4ea95f?page=uuid%3A130779c8-a493-11ec-a26f-fa163e4ea95f",
+  "description": "Užhorod (Ukrajina : oblast)",
+  "scale": 75000,
+  "external_id": "1336917",
+  "title": "Užhorod",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    21.749908,
+    48.44093,
+    22.403448,
+    48.770374
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:121a1c6e-a493-11ec-a26f-fa163e4ea95f",
+  "id": "e7b1cb01-967b-5080-914d-f561e308384f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2015-11-05T17:23:54.362180+00:00",
+    "transformation_method": "affine",
+    "mapID": "e7b1cb01-967b-5080-914d-f561e308384f",
+    "affine_transformation": null,
+    "changed": "2015-11-05T17:23:54.362180+00:00",
+    "gcps": [
+      {
+        "location": [
+          22.308828572,
+          48.628153023
+        ],
+        "pixel": [
+          514,
+          192
+        ]
+      },
+      {
+        "location": [
+          21.987642946,
+          48.570142694
+        ],
+        "pixel": [
+          218,
+          270
+        ]
+      },
+      {
+        "location": [
+          22.20846385,
+          48.738399263
+        ],
+        "pixel": [
+          422,
+          43
+        ]
+      },
+      {
+        "location": [
+          21.884071884,
+          48.733040866
+        ],
+        "pixel": [
+          123,
+          49
+        ]
+      },
+      {
+        "location": [
+          22.228526773,
+          48.501716002
+        ],
+        "pixel": [
+          439,
+          362
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1935"]
+}

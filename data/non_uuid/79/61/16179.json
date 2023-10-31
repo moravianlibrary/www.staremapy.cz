@@ -1,0 +1,109 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/domousice_0483/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "16179",
+  "title": "Kopie katastrální mapy obce Nečemice z roku 1843, list V 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.661968,
+    50.24929,
+    13.66647,
+    50.252205
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/16179",
+  "id": "e0df3210-0fb1-5eca-b2a3-4b443c797dab",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        2848,
+        9882
+      ],
+      [
+        2026,
+        10376
+      ],
+      [
+        601,
+        11140
+      ],
+      [
+        614,
+        9343
+      ],
+      [
+        2483,
+        8504
+      ],
+      [
+        3207,
+        9490
+      ],
+      [
+        2848,
+        9882
+      ]
+    ],
+    "created": "2014-11-25T17:30:49.365500+00:00",
+    "transformation_method": "affine",
+    "mapID": "e0df3210-0fb1-5eca-b2a3-4b443c797dab",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:30:49.365500+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.66307199,
+          50.250024466
+        ],
+        "pixel": [
+          1234,
+          10475
+        ]
+      },
+      {
+        "location": [
+          13.66585478204634,
+          50.251071527831044
+        ],
+        "pixel": [
+          2842,
+          9531
+        ]
+      },
+      {
+        "location": [
+          13.66546452,
+          50.250779107
+        ],
+        "pixel": [
+          2634,
+          9803
+        ]
+      },
+      {
+        "location": [
+          13.665003181,
+          50.25163664
+        ],
+        "pixel": [
+          2370,
+          9019
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1843"]
+}

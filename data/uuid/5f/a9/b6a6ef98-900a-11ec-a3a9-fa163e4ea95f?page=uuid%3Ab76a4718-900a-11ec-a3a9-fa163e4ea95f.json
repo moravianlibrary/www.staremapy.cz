@@ -1,0 +1,111 @@
+{
+  "date": ["1873"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:b6a6ef98-900a-11ec-a3a9-fa163e4ea95f?page=uuid%3Ab76a4718-900a-11ec-a3a9-fa163e4ea95f",
+  "description": "Debrecín (Maďarsko : oblast)",
+  "scale": 144000,
+  "external_id": "1215410",
+  "title": "Umgebungen von Debreczen",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    21.071556,
+    47.26204,
+    21.818872,
+    47.61933
+  ],
+  "reviewed": null,
+  "publisher": "Militärgeographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:b6a6ef98-900a-11ec-a3a9-fa163e4ea95f",
+  "id": "c7e8cb8c-e918-5112-b592-05f115943e23",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        89,
+        80
+      ],
+      [
+        511,
+        81
+      ],
+      [
+        508,
+        366
+      ],
+      [
+        87,
+        366
+      ],
+      [
+        89,
+        80
+      ]
+    ],
+    "created": "2017-11-30T11:43:27.569000+00:00",
+    "transformation_method": "affine",
+    "mapID": "c7e8cb8c-e918-5112-b592-05f115943e23",
+    "affine_transformation": null,
+    "changed": "2017-11-30T11:43:27.569000+00:00",
+    "gcps": [
+      {
+        "location": [
+          21.624395488,
+          47.531854101
+        ],
+        "pixel": [
+          400,
+          137
+        ]
+      },
+      {
+        "location": [
+          21.627463935,
+          47.407789943
+        ],
+        "pixel": [
+          408,
+          246
+        ]
+      },
+      {
+        "location": [
+          21.144430278,
+          47.329850687
+        ],
+        "pixel": [
+          128,
+          332
+        ]
+      },
+      {
+        "location": [
+          21.668512462,
+          47.319611063
+        ],
+        "pixel": [
+          437,
+          320
+        ]
+      },
+      {
+        "location": [
+          21.665250896,
+          47.386598033
+        ],
+        "pixel": [
+          429,
+          263
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1873"]
+}

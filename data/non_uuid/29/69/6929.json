@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1053/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "6929",
+  "title": "Nová Ves o. České Budějovice 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.497849,
+    48.882576,
+    14.5706005,
+    48.91133
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/6929",
+  "id": "539d14a3-64fa-5608-ab80-fb586bd263fe",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        21507,
+        0
+      ],
+      [
+        21507,
+        12831
+      ],
+      [
+        0,
+        12831
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        21507,
+        0
+      ]
+    ],
+    "created": "2014-11-25T17:10:56.429740+00:00",
+    "transformation_method": "affine",
+    "mapID": "539d14a3-64fa-5608-ab80-fb586bd263fe",
+    "affine_transformation": null,
+    "changed": "2014-11-25T17:10:56.429740+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.51419735,
+          48.899643089
+        ],
+        "pixel": [
+          4859,
+          5228
+        ]
+      },
+      {
+        "location": [
+          14.557091236,
+          48.908225758
+        ],
+        "pixel": [
+          17550,
+          1345
+        ]
+      },
+      {
+        "location": [
+          14.51552576,
+          48.908538813
+        ],
+        "pixel": [
+          5200,
+          1236
+        ]
+      },
+      {
+        "location": [
+          14.544034243,
+          48.886812178
+        ],
+        "pixel": [
+          13647,
+          10955
+        ]
+      },
+      {
+        "location": [
+          14.554722569,
+          48.897930064
+        ],
+        "pixel": [
+          16798,
+          5958
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1827"]
+}

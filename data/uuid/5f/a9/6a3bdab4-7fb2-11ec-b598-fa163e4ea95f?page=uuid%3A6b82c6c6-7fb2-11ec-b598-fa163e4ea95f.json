@@ -1,0 +1,121 @@
+{
+  "date": ["1911"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:6a3bdab4-7fb2-11ec-b598-fa163e4ea95f?page=uuid%3A6b82c6c6-7fb2-11ec-b598-fa163e4ea95f",
+  "description": "Belgie",
+  "scale": 4000000,
+  "external_id": "1173037",
+  "title": "Carte du Congo Belge",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    5.738074,
+    -16.82252,
+    38.02623,
+    12.076995
+  ],
+  "reviewed": null,
+  "publisher": "Falk fils",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:6a3bdab4-7fb2-11ec-b598-fa163e4ea95f",
+  "id": "0b65e820-ac0d-5fa6-a0e0-b995e39e552c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        600,
+        0
+      ],
+      [
+        600,
+        443
+      ],
+      [
+        0,
+        443
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        600,
+        0
+      ]
+    ],
+    "created": "2014-08-19T15:32:35.320070+00:00",
+    "transformation_method": "affine",
+    "mapID": "0b65e820-ac0d-5fa6-a0e0-b995e39e552c",
+    "affine_transformation": null,
+    "changed": "2014-08-19T15:32:35.320070+00:00",
+    "gcps": [
+      {
+        "location": [
+          23.605985172,
+          1.232712566
+        ],
+        "pixel": [
+          332,
+          165
+        ]
+      },
+      {
+        "location": [
+          26.603263477,
+          -10.881811277
+        ],
+        "pixel": [
+          388,
+          350
+        ]
+      },
+      {
+        "location": [
+          13.068107227,
+          -5.850961264
+        ],
+        "pixel": [
+          136,
+          273
+        ]
+      },
+      {
+        "location": [
+          29.875815967,
+          1.455580917
+        ],
+        "pixel": [
+          449,
+          163
+        ]
+      },
+      {
+        "location": [
+          27.895893285,
+          3.688302737
+        ],
+        "pixel": [
+          411,
+          128
+        ]
+      },
+      {
+        "location": [
+          23.442413134,
+          -4.974763131
+        ],
+        "pixel": [
+          328,
+          260
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1911"]
+}

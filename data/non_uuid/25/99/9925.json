@@ -1,0 +1,135 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_2580/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "9925",
+  "title": "Mapa pozemků dvora Švamberk-parerga 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.572974,
+    49.1064,
+    14.60966,
+    49.12818
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/9925",
+  "id": "fa33a18d-e2f0-53c4-a68d-3c0d99816f3d",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        3280,
+        8848
+      ],
+      [
+        9328,
+        8848
+      ],
+      [
+        9328,
+        4752
+      ],
+      [
+        7808,
+        2224
+      ],
+      [
+        3280,
+        4752
+      ],
+      [
+        3280,
+        8848
+      ]
+    ],
+    "created": "2015-06-14T11:57:48.858360+00:00",
+    "transformation_method": "affine",
+    "mapID": "fa33a18d-e2f0-53c4-a68d-3c0d99816f3d",
+    "affine_transformation": null,
+    "changed": "2015-06-14T11:57:48.858360+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.597830251,
+          49.110835331
+        ],
+        "pixel": [
+          3985,
+          6113
+        ]
+      },
+      {
+        "location": [
+          14.593624548,
+          49.120596441
+        ],
+        "pixel": [
+          7210,
+          7432
+        ]
+      },
+      {
+        "location": [
+          14.602971801527715,
+          49.1141032539235
+        ],
+        "pixel": [
+          4204,
+          7749
+        ]
+      },
+      {
+        "location": [
+          14.591760167845473,
+          49.11788829658053
+        ],
+        "pixel": [
+          6740,
+          6603
+        ]
+      },
+      {
+        "location": [
+          14.581136182,
+          49.116959073
+        ],
+        "pixel": [
+          7998,
+          4658
+        ]
+      },
+      {
+        "location": [
+          14.586484503,
+          49.123736323
+        ],
+        "pixel": [
+          8910,
+          6960
+        ]
+      },
+      {
+        "location": [
+          14.59842277503846,
+          49.12135005857925
+        ],
+        "pixel": [
+          6691,
+          8456
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1816"]
+}

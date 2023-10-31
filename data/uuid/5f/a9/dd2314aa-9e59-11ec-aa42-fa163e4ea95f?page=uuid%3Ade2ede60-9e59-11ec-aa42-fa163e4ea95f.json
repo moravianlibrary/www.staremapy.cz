@@ -1,0 +1,101 @@
+{
+  "date": ["1894"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:dd2314aa-9e59-11ec-aa42-fa163e4ea95f?page=uuid%3Ade2ede60-9e59-11ec-aa42-fa163e4ea95f",
+  "description": "Bardejov (Slovensko : oblast)",
+  "scale": 75000,
+  "external_id": "1305484",
+  "title": "Bartfeld und Muszyna",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    20.787788,
+    49.21902,
+    21.364468,
+    49.520515
+  ],
+  "reviewed": null,
+  "publisher": "K. u. k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:dd2314aa-9e59-11ec-aa42-fa163e4ea95f",
+  "id": "8df940d5-74bb-59f9-8b84-fa3b145fed41",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        30,
+        425
+      ],
+      [
+        564,
+        425
+      ],
+      [
+        564,
+        19
+      ],
+      [
+        30,
+        19
+      ],
+      [
+        30,
+        425
+      ]
+    ],
+    "created": "2017-04-17T10:16:23.774920+00:00",
+    "transformation_method": "affine",
+    "mapID": "8df940d5-74bb-59f9-8b84-fa3b145fed41",
+    "affine_transformation": null,
+    "changed": "2017-04-17T10:16:23.774920+00:00",
+    "gcps": [
+      {
+        "location": [
+          21.308519727,
+          49.371386588
+        ],
+        "pixel": [
+          513,
+          220
+        ]
+      },
+      {
+        "location": [
+          21.283886319,
+          49.300412358
+        ],
+        "pixel": [
+          489,
+          320
+        ]
+      },
+      {
+        "location": [
+          20.877478009,
+          49.262485375
+        ],
+        "pixel": [
+          113,
+          365
+        ]
+      },
+      {
+        "location": [
+          20.902132874,
+          49.35936201
+        ],
+        "pixel": [
+          136,
+          236
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1894"]
+}

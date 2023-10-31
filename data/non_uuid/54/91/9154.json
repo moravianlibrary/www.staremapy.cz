@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1809/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "9154",
+  "title": "Hodonice o. Tábor 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.499891,
+    48.936478,
+    14.528389,
+    48.952213
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/9154",
+  "id": "513d9d94-ca02-54e4-9da4-db8ccc81927f",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        464,
+        14496
+      ],
+      [
+        17296,
+        14496
+      ],
+      [
+        17296,
+        320
+      ],
+      [
+        464,
+        320
+      ],
+      [
+        464,
+        14496
+      ]
+    ],
+    "created": "2016-12-16T09:32:31.276480+00:00",
+    "transformation_method": "affine",
+    "mapID": "513d9d94-ca02-54e4-9da4-db8ccc81927f",
+    "affine_transformation": null,
+    "changed": "2016-12-16T09:32:31.276480+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.521558046,
+          48.945552168
+        ],
+        "pixel": [
+          13256,
+          6322
+        ]
+      },
+      {
+        "location": [
+          14.515077829,
+          48.938008382
+        ],
+        "pixel": [
+          9441,
+          13131
+        ]
+      },
+      {
+        "location": [
+          14.521563411,
+          48.944851042
+        ],
+        "pixel": [
+          13247,
+          6962
+        ]
+      },
+      {
+        "location": [
+          14.520474434,
+          48.945425332
+        ],
+        "pixel": [
+          12622,
+          6440
+        ]
+      },
+      {
+        "location": [
+          14.52299571,
+          48.946172251
+        ],
+        "pixel": [
+          14122,
+          5756
+        ]
+      },
+      {
+        "location": [
+          14.517864373,
+          48.947758762
+        ],
+        "pixel": [
+          11090,
+          4342
+        ]
+      },
+      {
+        "location": [
+          14.505502959,
+          48.944421658
+        ],
+        "pixel": [
+          3774,
+          7326
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1838"]
+}

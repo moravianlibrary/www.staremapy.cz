@@ -1,0 +1,114 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plasy_M_89/ImageProperties.xml",
+  "description": null,
+  "scale": 5000,
+  "external_id": "19816",
+  "title": "Mapa části polesí Plasy",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.374609,
+    49.92052,
+    13.420151,
+    49.955654
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/19816",
+  "id": "48456d57-7878-52f3-9f5f-0ccc4bf1597d",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        15168,
+        0
+      ],
+      [
+        15168,
+        18376
+      ],
+      [
+        0,
+        18376
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        15168,
+        0
+      ]
+    ],
+    "created": "2014-11-25T16:57:47.754560+00:00",
+    "transformation_method": "affine",
+    "mapID": "48456d57-7878-52f3-9f5f-0ccc4bf1597d",
+    "affine_transformation": null,
+    "changed": "2014-11-25T16:57:47.754560+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.405400357,
+          49.938440393
+        ],
+        "pixel": [
+          10260,
+          9016
+        ]
+      },
+      {
+        "location": [
+          13.416330517,
+          49.950319209
+        ],
+        "pixel": [
+          13868,
+          2786
+        ]
+      },
+      {
+        "location": [
+          13.410722017,
+          49.947697539
+        ],
+        "pixel": [
+          12070,
+          4172
+        ]
+      },
+      {
+        "location": [
+          13.414021135,
+          49.94566776
+        ],
+        "pixel": [
+          13134,
+          5252
+        ]
+      },
+      {
+        "location": [
+          13.392225504,
+          49.940927826
+        ],
+        "pixel": [
+          5850,
+          7684
+        ]
+      }
+    ]
+  },
+  "pubdate": [
+    "1900",
+    "1920"
+  ]
+}

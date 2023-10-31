@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Plasy_M_151_8/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "20973",
+  "title": "Katastrální mapa obce Mladotice",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.373478,
+    49.964436,
+    13.394792,
+    49.973415
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/20973",
+  "id": "fecb114c-0730-5412-afac-c1f92ef9d13c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1124,
+        8644
+      ],
+      [
+        13444,
+        8644
+      ],
+      [
+        13444,
+        708
+      ],
+      [
+        1124,
+        708
+      ],
+      [
+        1124,
+        8644
+      ]
+    ],
+    "created": "2016-02-28T14:33:45.398200+00:00",
+    "transformation_method": "affine",
+    "mapID": "fecb114c-0730-5412-afac-c1f92ef9d13c",
+    "affine_transformation": null,
+    "changed": "2016-02-28T14:33:45.398200+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.374323845,
+          49.966517297
+        ],
+        "pixel": [
+          1504,
+          6756
+        ]
+      },
+      {
+        "location": [
+          13.37990284,
+          49.9649162
+        ],
+        "pixel": [
+          4768,
+          8260
+        ]
+      },
+      {
+        "location": [
+          13.385396004,
+          49.965413098
+        ],
+        "pixel": [
+          8000,
+          7860
+        ]
+      },
+      {
+        "location": [
+          13.3853530886543,
+          49.971582485379855
+        ],
+        "pixel": [
+          8077,
+          2325
+        ]
+      },
+      {
+        "location": [
+          13.39050293,
+          49.972810748
+        ],
+        "pixel": [
+          11056,
+          1204
+        ]
+      },
+      {
+        "location": [
+          13.391232491,
+          49.970795829
+        ],
+        "pixel": [
+          11392,
+          3028
+        ]
+      },
+      {
+        "location": [
+          13.382735252,
+          49.971292666
+        ],
+        "pixel": [
+          6496,
+          2532
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1875"]
+}

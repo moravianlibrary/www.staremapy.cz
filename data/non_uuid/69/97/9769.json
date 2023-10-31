@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_2424/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "9769",
+  "title": "Mapa povodí Zlaté stoky překopírované z katastrálních map přilehlých obcí 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.681026,
+    49.154716,
+    14.711874,
+    49.16876
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/9769",
+  "id": "bfca189c-0709-5f9d-bd09-ad21853dcf2a",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        112,
+        12384
+      ],
+      [
+        18096,
+        12384
+      ],
+      [
+        18096,
+        32
+      ],
+      [
+        112,
+        32
+      ],
+      [
+        112,
+        12384
+      ]
+    ],
+    "created": "2015-01-29T09:02:00.470870+00:00",
+    "transformation_method": "affine",
+    "mapID": "bfca189c-0709-5f9d-bd09-ad21853dcf2a",
+    "affine_transformation": null,
+    "changed": "2015-01-29T09:02:00.470870+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.700135849,
+          49.155755949
+        ],
+        "pixel": [
+          11301,
+          11520
+        ]
+      },
+      {
+        "location": [
+          14.694728516,
+          49.165774801
+        ],
+        "pixel": [
+          8088,
+          2620
+        ]
+      },
+      {
+        "location": [
+          14.698794745,
+          49.167167317
+        ],
+        "pixel": [
+          10456,
+          1324
+        ]
+      },
+      {
+        "location": [
+          14.691402577,
+          49.156738279
+        ],
+        "pixel": [
+          6211,
+          10787
+        ]
+      },
+      {
+        "location": [
+          14.691079371,
+          49.166327251
+        ],
+        "pixel": [
+          5899,
+          2071
+        ]
+      },
+      {
+        "location": [
+          14.694562219,
+          49.16377891
+        ],
+        "pixel": [
+          7936,
+          4395
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1876"]
+}

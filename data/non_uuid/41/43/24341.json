@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/vs_pardubice_392_II/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "24341",
+  "title": "Indikační skica mapy stabilního katastru pro obec Poběžovice u Holic II.",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.016226,
+    50.10834,
+    16.064323,
+    50.11271
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/24341",
+  "id": "4c591349-42d7-51a1-9b9e-52387844e3b3",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        1304,
+        5192
+      ],
+      [
+        1336,
+        1560
+      ],
+      [
+        16748,
+        1376
+      ],
+      [
+        16716,
+        5340
+      ],
+      [
+        1304,
+        5192
+      ]
+    ],
+    "created": "2015-11-15T08:57:20.908400+00:00",
+    "transformation_method": "affine",
+    "mapID": "4c591349-42d7-51a1-9b9e-52387844e3b3",
+    "affine_transformation": null,
+    "changed": "2015-11-15T08:57:20.908400+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.026236534,
+          50.110468193
+        ],
+        "pixel": [
+          3156,
+          3616
+        ]
+      },
+      {
+        "location": [
+          16.026322365,
+          50.112504779
+        ],
+        "pixel": [
+          3172,
+          1656
+        ]
+      },
+      {
+        "location": [
+          16.009585381,
+          50.112559821
+        ],
+        "pixel": [
+          1452,
+          1680
+        ]
+      },
+      {
+        "location": [
+          16.044647217,
+          50.112477258
+        ],
+        "pixel": [
+          13660,
+          1520
+        ]
+      },
+      {
+        "location": [
+          16.029669762,
+          50.112669904
+        ],
+        "pixel": [
+          5156,
+          1624
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1840"]
+}

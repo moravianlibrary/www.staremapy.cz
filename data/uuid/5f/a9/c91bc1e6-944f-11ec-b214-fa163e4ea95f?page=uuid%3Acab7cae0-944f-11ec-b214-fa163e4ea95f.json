@@ -1,0 +1,111 @@
+{
+  "date": ["1892"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:c91bc1e6-944f-11ec-b214-fa163e4ea95f?page=uuid%3Acab7cae0-944f-11ec-b214-fa163e4ea95f",
+  "description": null,
+  "scale": 200000,
+  "external_id": "1254470",
+  "title": "Wołkowisk",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    23.827904,
+    52.489277,
+    24.868227,
+    53.501545
+  ],
+  "reviewed": null,
+  "publisher": "K.u.k. militär-geographisches Institut",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:c91bc1e6-944f-11ec-b214-fa163e4ea95f",
+  "id": "dbf89716-cfdb-5fd3-a1c5-251f985724ff",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        105,
+        396
+      ],
+      [
+        501,
+        396
+      ],
+      [
+        501,
+        47
+      ],
+      [
+        105,
+        47
+      ],
+      [
+        105,
+        396
+      ]
+    ],
+    "created": "2017-03-07T23:59:48.454260+00:00",
+    "transformation_method": "affine",
+    "mapID": "dbf89716-cfdb-5fd3-a1c5-251f985724ff",
+    "affine_transformation": null,
+    "changed": "2017-03-07T23:59:48.454260+00:00",
+    "gcps": [
+      {
+        "location": [
+          24.778274199,
+          53.454752398
+        ],
+        "pixel": [
+          468,
+          62
+        ]
+      },
+      {
+        "location": [
+          24.473274847,
+          53.162845271
+        ],
+        "pixel": [
+          349,
+          164
+        ]
+      },
+      {
+        "location": [
+          24.214660322,
+          52.555029137
+        ],
+        "pixel": [
+          254,
+          375
+        ]
+      },
+      {
+        "location": [
+          23.878125541,
+          53.459948186
+        ],
+        "pixel": [
+          122,
+          62
+        ]
+      },
+      {
+        "location": [
+          24.595540663,
+          53.105636055
+        ],
+        "pixel": [
+          398,
+          184
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1892"]
+}

@@ -1,0 +1,131 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soap/Vs_Manetin_M_5h/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "21193",
+  "title": "Katastrální mapa města Manětín",
+  "collection_id": "86740983-088e-5b7f-8758-05d6281b4f12",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    13.197853,
+    49.972126,
+    13.214762,
+    49.985912
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/21193",
+  "id": "37725315-4e1b-5e0b-96ce-b2b49a50dcee",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        128,
+        12720
+      ],
+      [
+        10144,
+        12720
+      ],
+      [
+        10144,
+        144
+      ],
+      [
+        128,
+        144
+      ],
+      [
+        128,
+        12720
+      ]
+    ],
+    "created": "2016-11-22T09:39:53.217470+00:00",
+    "transformation_method": "affine",
+    "mapID": "37725315-4e1b-5e0b-96ce-b2b49a50dcee",
+    "affine_transformation": null,
+    "changed": "2016-11-22T09:39:53.217470+00:00",
+    "gcps": [
+      {
+        "location": [
+          13.207663536,
+          49.98005548
+        ],
+        "pixel": [
+          5960,
+          5484
+        ]
+      },
+      {
+        "location": [
+          13.203994274,
+          49.978710113
+        ],
+        "pixel": [
+          3740,
+          6678
+        ]
+      },
+      {
+        "location": [
+          13.210367203,
+          49.979217218
+        ],
+        "pixel": [
+          7580,
+          6226
+        ]
+      },
+      {
+        "location": [
+          13.206815958,
+          49.984453534
+        ],
+        "pixel": [
+          5452,
+          1486
+        ]
+      },
+      {
+        "location": [
+          13.211826324,
+          49.983891296
+        ],
+        "pixel": [
+          8388,
+          1994
+        ]
+      },
+      {
+        "location": [
+          13.206740856,
+          49.972424334
+        ],
+        "pixel": [
+          5372,
+          12496
+        ]
+      },
+      {
+        "location": [
+          13.20670867,
+          49.985008868
+        ],
+        "pixel": [
+          5404,
+          962
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1900"]
+}

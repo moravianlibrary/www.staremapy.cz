@@ -1,0 +1,111 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_1298/ImageProperties.xml",
+  "description": null,
+  "scale": 2880,
+  "external_id": "7174",
+  "title": "Horní Miletín o. České Budějovice 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.663151,
+    49.004265,
+    14.693984,
+    49.019047
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/7174",
+  "id": "ed6b62c7-fc2d-5c2d-97c0-fa2a3514f240",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        176,
+        14048
+      ],
+      [
+        18096,
+        14048
+      ],
+      [
+        18096,
+        992
+      ],
+      [
+        176,
+        992
+      ],
+      [
+        176,
+        14048
+      ]
+    ],
+    "created": "2017-02-03T18:59:35.761860+00:00",
+    "transformation_method": "affine",
+    "mapID": "ed6b62c7-fc2d-5c2d-97c0-fa2a3514f240",
+    "affine_transformation": null,
+    "changed": "2017-02-03T18:59:35.761860+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.674962044,
+          49.00927531
+        ],
+        "pixel": [
+          7078,
+          9696
+        ]
+      },
+      {
+        "location": [
+          14.66697979,
+          49.013701662
+        ],
+        "pixel": [
+          2320,
+          5776
+        ]
+      },
+      {
+        "location": [
+          14.690679789,
+          49.013402597
+        ],
+        "pixel": [
+          16218,
+          5818
+        ]
+      },
+      {
+        "location": [
+          14.691366434,
+          49.016526862
+        ],
+        "pixel": [
+          16580,
+          3014
+        ]
+      },
+      {
+        "location": [
+          14.665853262,
+          49.008180976
+        ],
+        "pixel": [
+          1692,
+          10794
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1838"]
+}

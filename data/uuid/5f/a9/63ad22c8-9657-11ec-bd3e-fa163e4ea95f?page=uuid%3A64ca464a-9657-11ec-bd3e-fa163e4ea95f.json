@@ -1,0 +1,143 @@
+{
+  "date": ["1937"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:63ad22c8-9657-11ec-bd3e-fa163e4ea95f?page=uuid%3A64ca464a-9657-11ec-bd3e-fa163e4ea95f",
+  "description": "Jaroslavice (Znojmo, Česko : oblast)",
+  "scale": 25000,
+  "external_id": "1268019",
+  "title": "[Mapový list]",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.08433,
+    48.730743,
+    16.333998,
+    48.873604
+  ],
+  "reviewed": null,
+  "publisher": "Vojenský zeměpisný ústav",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:63ad22c8-9657-11ec-bd3e-fa163e4ea95f",
+  "id": "ae2e7da3-9f73-5b90-bd9e-bf8dfbf0b48e",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        46,
+        372
+      ],
+      [
+        90,
+        386
+      ],
+      [
+        161,
+        391
+      ],
+      [
+        305,
+        392
+      ],
+      [
+        554,
+        417
+      ],
+      [
+        553,
+        32
+      ],
+      [
+        45,
+        32
+      ],
+      [
+        46,
+        372
+      ]
+    ],
+    "created": "2016-08-30T21:03:08.804090+00:00",
+    "transformation_method": "affine",
+    "mapID": "ae2e7da3-9f73-5b90-bd9e-bf8dfbf0b48e",
+    "affine_transformation": null,
+    "changed": "2016-08-30T21:03:08.804090+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.139020465,
+          48.742853096
+        ],
+        "pixel": [
+          157,
+          384
+        ]
+      },
+      {
+        "location": [
+          16.088820397,
+          48.86609796
+        ],
+        "pixel": [
+          55,
+          53
+        ]
+      },
+      {
+        "location": [
+          16.26304581,
+          48.737136156
+        ],
+        "pixel": [
+          411,
+          400
+        ]
+      },
+      {
+        "location": [
+          16.328277133,
+          48.830280771
+        ],
+        "pixel": [
+          542,
+          149
+        ]
+      },
+      {
+        "location": [
+          16.219368874,
+          48.873042209
+        ],
+        "pixel": [
+          319,
+          33
+        ]
+      },
+      {
+        "location": [
+          16.115502856,
+          48.779460056
+        ],
+        "pixel": [
+          108,
+          286
+        ]
+      },
+      {
+        "location": [
+          16.119536899,
+          48.849826522
+        ],
+        "pixel": [
+          117,
+          96
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1937"]
+}

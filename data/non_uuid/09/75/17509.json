@@ -1,0 +1,121 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/soat/hluboka_0039/ImageProperties.xml",
+  "description": null,
+  "scale": null,
+  "external_id": "17509",
+  "title": "Geometrický plán pozemků obce Třebotovice a Srubec, směněných s rudolfovskými doly 1",
+  "collection_id": "1f6e7d41-d25e-591d-9730-dcba863a958a",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.538366,
+    48.952747,
+    14.555285,
+    48.959023
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/17509",
+  "id": "40d5b3bf-d417-5cf6-a3e1-ac6fb8eb0e4c",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        14058,
+        0
+      ],
+      [
+        14058,
+        8045
+      ],
+      [
+        0,
+        8045
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        14058,
+        0
+      ]
+    ],
+    "created": "2014-11-25T18:14:19.302030+00:00",
+    "transformation_method": "affine",
+    "mapID": "40d5b3bf-d417-5cf6-a3e1-ac6fb8eb0e4c",
+    "affine_transformation": null,
+    "changed": "2022-10-15T13:21:43.448268+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.548604751008467,
+          48.95408808457091
+        ],
+        "pixel": [
+          11833,
+          5092
+        ]
+      },
+      {
+        "location": [
+          14.542660975831458,
+          48.957131533626836
+        ],
+        "pixel": [
+          2038,
+          5366
+        ]
+      },
+      {
+        "location": [
+          14.547338748353436,
+          48.95511667840398
+        ],
+        "pixel": [
+          7899,
+          4976
+        ]
+      },
+      {
+        "location": [
+          14.544055724519202,
+          48.95625797002694
+        ],
+        "pixel": [
+          5502,
+          5504
+        ]
+      },
+      {
+        "location": [
+          14.55051448382707,
+          48.95374991210289
+        ],
+        "pixel": [
+          13327,
+          4335
+        ]
+      },
+      {
+        "location": [
+          14.544248843568274,
+          48.95645522766088
+        ],
+        "pixel": [
+          5481,
+          4874
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1778"]
+}

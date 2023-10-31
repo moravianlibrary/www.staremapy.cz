@@ -1,0 +1,115 @@
+{
+  "date": [null],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "http://chartae-antiquae.cz/tiles/zamrsk/Vs_Litomysl_828_4/ImageProperties.xml",
+  "description": null,
+  "scale": 11520,
+  "external_id": "31676",
+  "title": "Mapa polesí Mendryka",
+  "collection_id": "2bcb9474-e467-58b6-a74b-abc964e268d5",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.520159,
+    49.813927,
+    16.536304,
+    49.826763
+  ],
+  "reviewed": null,
+  "publisher": null,
+  "link_url": "http://chartae-antiquae.cz/maps/31676",
+  "id": "98372172-bdf1-55fc-b585-bd8c2fc95f24",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        2100,
+        3674
+      ],
+      [
+        3176,
+        5262
+      ],
+      [
+        5147,
+        4417
+      ],
+      [
+        4866,
+        2445
+      ],
+      [
+        1844,
+        1549
+      ],
+      [
+        2100,
+        3674
+      ]
+    ],
+    "created": "2015-01-19T19:27:15.051010+00:00",
+    "transformation_method": "affine",
+    "mapID": "98372172-bdf1-55fc-b585-bd8c2fc95f24",
+    "affine_transformation": null,
+    "changed": "2015-01-19T19:27:15.051010+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.527632832,
+          49.816377658
+        ],
+        "pixel": [
+          3460,
+          4524
+        ]
+      },
+      {
+        "location": [
+          16.533893456,
+          49.819094345
+        ],
+        "pixel": [
+          4628,
+          3660
+        ]
+      },
+      {
+        "location": [
+          16.531019611,
+          49.817092053
+        ],
+        "pixel": [
+          4111,
+          4272
+        ]
+      },
+      {
+        "location": [
+          16.532423671,
+          49.821039749
+        ],
+        "pixel": [
+          4328,
+          3096
+        ]
+      },
+      {
+        "location": [
+          16.523416747,
+          49.824977924
+        ],
+        "pixel": [
+          2504,
+          2039
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1884"]
+}

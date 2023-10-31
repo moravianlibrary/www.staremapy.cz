@@ -1,0 +1,121 @@
+{
+  "date": ["1940"],
+  "creator": null,
+  "georeference_changed": null,
+  "created": null,
+  "image_url": "https://kramerius.cuni.cz/uk/view/uuid:b7cccb84-96ab-11ec-982c-fa163e4ea95f?page=uuid%3Ab901b85c-96ab-11ec-982c-fa163e4ea95f",
+  "description": "Preveza (Řecko : oblast)",
+  "scale": 200000,
+  "external_id": "1271895",
+  "title": "38°39° Preveza",
+  "collection_id": "1011a696-46e1-5ecc-b44b-76fee1a5d744",
+  "is_reviewed": false,
+  "contributor": null,
+  "catalog_url": null,
+  "viewer_url": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    19.706766,
+    38.35856,
+    20.938663,
+    39.63986
+  ],
+  "reviewed": null,
+  "publisher": "Hauptvermessungsabteilung XIV",
+  "link_url": "https://kramerius.cuni.cz/uk/view/uuid:b7cccb84-96ab-11ec-982c-fa163e4ea95f",
+  "id": "e38e6c7c-fb48-50c8-8b5e-4b627fbc5dee",
+  "physical_size": null,
+  "dpi": null,
+  "georefereces": {
+    "cutline": [
+      [
+        553,
+        48
+      ],
+      [
+        560,
+        395
+      ],
+      [
+        52,
+        395
+      ],
+      [
+        52,
+        48
+      ],
+      [
+        553,
+        48
+      ]
+    ],
+    "created": "2015-11-05T16:15:50.540720+00:00",
+    "transformation_method": "affine",
+    "mapID": "e38e6c7c-fb48-50c8-8b5e-4b627fbc5dee",
+    "affine_transformation": null,
+    "changed": "2015-11-05T16:15:50.540720+00:00",
+    "gcps": [
+      {
+        "location": [
+          20.683813933471072,
+          38.604154930553364
+        ],
+        "pixel": [
+          482,
+          360
+        ]
+      },
+      {
+        "location": [
+          20.25191178727807,
+          39.140100379522664
+        ],
+        "pixel": [
+          265,
+          174
+        ]
+      },
+      {
+        "location": [
+          20.111567664854814,
+          39.360979555866294
+        ],
+        "pixel": [
+          193,
+          96
+        ]
+      },
+      {
+        "location": [
+          20.485789466612623,
+          39.216561060770886
+        ],
+        "pixel": [
+          379,
+          146
+        ]
+      },
+      {
+        "location": [
+          20.132204976980116,
+          39.240861814130824
+        ],
+        "pixel": [
+          202,
+          138
+        ]
+      },
+      {
+        "location": [
+          20.212885626164216,
+          39.49217441793664
+        ],
+        "pixel": [
+          241,
+          52
+        ]
+      }
+    ]
+  },
+  "pubdate": ["1940"]
+}
