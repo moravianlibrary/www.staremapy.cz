@@ -3,7 +3,7 @@
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "http://chartae-antiquae.cz/tiles/soat/trebon_3849/ImageProperties.xml",
+  "image_url": "https://www.chartae-antiquae.cz/tiles/soat/trebon_3849/ImageProperties.xml",
   "description": null,
   "scale": 100,
   "external_id": "12114",
@@ -48,8 +48,17 @@
     "transformation_method": "affine",
     "mapID": "d1c358b3-9fa6-59fb-83dd-847e4cb9cefd",
     "affine_transformation": null,
-    "changed": "2022-08-19T16:39:58.672403+00:00",
-    "gcps": []
+    "changed": "2023-11-27T18:59:16.369409+00:00",
+    "gcps": [{
+      "location": [
+        6.8743608496562345,
+        50.894311101592876
+      ],
+      "pixel": [
+        3468,
+        3893
+      ]
+    }]
   },
   "pubdate": ["1910"]
 }
