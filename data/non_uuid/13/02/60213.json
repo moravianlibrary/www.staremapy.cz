@@ -15,10 +15,10 @@
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    15.653994,
-    44.675133,
-    23.059336,
-    50.455177
+    15.649006,
+    44.679985,
+    23.01196,
+    50.4461
   ],
   "reviewed": null,
   "publisher": "herausgegeben von Dr. K. Sohr",
@@ -61,7 +61,7 @@
     "transformation_method": "affine",
     "mapID": "bfd0b001-cab8-5c12-b940-11dd27826df1",
     "affine_transformation": null,
-    "changed": "2015-01-11T18:47:23.375840+00:00",
+    "changed": "2023-12-04T18:37:32.126315+00:00",
     "gcps": [
       {
         "location": [
@@ -101,6 +101,16 @@
         "pixel": [
           614,
           903
+        ]
+      },
+      {
+        "location": [
+          22.303862761476562,
+          48.621657102913076
+        ],
+        "pixel": [
+          2820,
+          1129
         ]
       },
       {
@@ -201,6 +211,16 @@
         "pixel": [
           8191,
           8016
+        ]
+      },
+      {
+        "location": [
+          22.714476775148437,
+          48.44159571433309
+        ],
+        "pixel": [
+          3077,
+          580
         ]
       }
     ]

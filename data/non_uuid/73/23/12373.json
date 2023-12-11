@@ -13,8 +13,13 @@
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
-  "bounds": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    -32.85915,
+    -41.183475,
+    77.89281,
+    70.12686
+  ],
   "reviewed": null,
   "publisher": null,
   "link_url": "http://chartae-antiquae.cz/maps/12373",
@@ -24,32 +29,73 @@
   "georefereces": {
     "cutline": [
       [
-        7504,
-        0
+        4878,
+        2258
       ],
       [
-        7504,
-        6526
+        5010,
+        4984
       ],
       [
-        0,
-        6526
+        2020,
+        4984
       ],
       [
-        0,
-        0
+        2577,
+        2287
       ],
       [
-        7504,
-        0
+        4878,
+        2258
       ]
     ],
     "created": "2014-11-25T17:27:43.072560+00:00",
     "transformation_method": "affine",
     "mapID": "c360a359-3e3c-5e68-aa87-491d9b7827eb",
     "affine_transformation": null,
-    "changed": "2023-01-21T08:06:50.785706+00:00",
-    "gcps": []
+    "changed": "2023-12-06T20:28:09.556300+00:00",
+    "gcps": [
+      {
+        "location": [
+          59.06249999999999,
+          22.7559206814864
+        ],
+        "pixel": [
+          4659,
+          3764
+        ]
+      },
+      {
+        "location": [
+          19.687499999999996,
+          -33.578014746143985
+        ],
+        "pixel": [
+          3356,
+          4868
+        ]
+      },
+      {
+        "location": [
+          -17.929687500000014,
+          22.7559206814864
+        ],
+        "pixel": [
+          2623,
+          3651
+        ]
+      },
+      {
+        "location": [
+          32.343749999999986,
+          40.31304320888091
+        ],
+        "pixel": [
+          3563,
+          3294
+        ]
+      }
+    ]
   },
   "pubdate": [null]
 }
