@@ -15,10 +15,10 @@
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:12993a40-3003-11e6-ac61-9e71128cae77?page=uuid:a197f406-c30d-11e6-bf36-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": [
-    26.845385,
-    48.99557,
-    27.36948,
-    49.500977
+    26.845583,
+    48.995647,
+    27.36887,
+    49.50081
   ],
   "reviewed": null,
   "publisher": "K.u.k. militär-geographisches Institut",
@@ -53,7 +53,7 @@
     "transformation_method": "affine",
     "mapID": "2c974da9-c59c-428b-95d9-e5afae376e3a",
     "affine_transformation": null,
-    "changed": "2023-11-24T18:06:02.262541+00:00",
+    "changed": "2023-12-19T22:22:53.519616+00:00",
     "gcps": [
       {
         "location": [
@@ -163,6 +163,36 @@
         "pixel": [
           357,
           382
+        ]
+      },
+      {
+        "location": [
+          27.131317805642407,
+          49.33338731595464
+        ],
+        "pixel": [
+          411,
+          205
+        ]
+      },
+      {
+        "location": [
+          27.353717752237458,
+          49.26450163553676
+        ],
+        "pixel": [
+          589,
+          254
+        ]
+      },
+      {
+        "location": [
+          27.350352003901982,
+          49.02550722122851
+        ],
+        "pixel": [
+          587,
+          422
         ]
       }
     ]
