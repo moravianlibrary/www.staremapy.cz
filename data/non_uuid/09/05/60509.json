@@ -15,10 +15,10 @@
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    16.127565,
-    50.08878,
-    17.084656,
-    50.765423
+    16.131163,
+    50.08802,
+    17.077496,
+    50.76867
   ],
   "reviewed": null,
   "publisher": "Blaeu, Joan; Apud Iohannem Guijelmi F. Blaeu",
@@ -109,7 +109,7 @@
     "transformation_method": "affine",
     "mapID": "819a08c1-1861-5b0b-9db3-4040877f8364",
     "affine_transformation": null,
-    "changed": "2015-01-25T19:45:50.896180+00:00",
+    "changed": "2023-12-28T17:59:44.411399+00:00",
     "gcps": [
       {
         "location": [
@@ -269,6 +269,16 @@
         "pixel": [
           11480,
           1965
+        ]
+      },
+      {
+        "location": [
+          16.834702951292254,
+          50.71688899476791
+        ],
+        "pixel": [
+          2084,
+          3309
         ]
       }
     ]

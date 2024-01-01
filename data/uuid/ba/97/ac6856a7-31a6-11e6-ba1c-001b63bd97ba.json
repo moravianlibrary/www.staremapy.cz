@@ -15,10 +15,10 @@
   "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:1297a6c6-3003-11e6-ac61-9e71128cae77?page=uuid:ac6856a7-31a6-11e6-ba1c-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": [
-    3.3130333,
-    45.24268,
-    7.0234776,
-    47.481506
+    3.324633,
+    45.245155,
+    7.0270295,
+    47.480446
   ],
   "reviewed": null,
   "publisher": "Johannes Walch",
@@ -209,7 +209,7 @@
     "transformation_method": "affine",
     "mapID": "e43fcb2d-045b-4400-9ef7-901809ef92b3",
     "affine_transformation": null,
-    "changed": "2023-11-12T09:01:37.646758+00:00",
+    "changed": "2023-12-27T08:22:45.679861+00:00",
     "gcps": [
       {
         "location": [
@@ -369,6 +369,16 @@
         "pixel": [
           563,
           449
+        ]
+      },
+      {
+        "location": [
+          3.5755007893943054,
+          45.673084199562
+        ],
+        "pixel": [
+          140,
+          372
         ]
       },
       {
@@ -999,6 +1009,16 @@
         "pixel": [
           286,
           181
+        ]
+      },
+      {
+        "location": [
+          3.7250586820564746,
+          45.41216693797446
+        ],
+        "pixel": [
+          151,
+          416
         ]
       }
     ]
