@@ -9,16 +9,16 @@
   "external_id": "35910",
   "title": "Soubor vojenských map 1900 - 1910",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    17.317846,
-    49.27144,
-    18.268173,
-    49.763668
+    17.34241,
+    49.28233,
+    18.26012,
+    49.74894
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,47 @@
   "georefereces": {
     "cutline": [
       [
-        912,
-        7504
+        1125,
+        7403
       ],
       [
-        9040,
-        7504
+        7126,
+        7379
       ],
       [
-        9040,
-        1072
+        7130,
+        6424
       ],
       [
-        912,
-        1072
+        8973,
+        6421
       ],
       [
-        912,
-        7504
+        8973,
+        1246
+      ],
+      [
+        4871,
+        1246
+      ],
+      [
+        1108,
+        1261
+      ],
+      [
+        1108,
+        2037
+      ],
+      [
+        1125,
+        7403
       ]
     ],
     "created": "2015-08-07T17:12:37.689890+00:00",
     "transformation_method": "affine",
     "mapID": "24dbe9c7-0ca4-513c-8b23-619c759a8fc2",
     "affine_transformation": null,
-    "changed": "2015-08-07T17:12:37.689890+00:00",
+    "changed": "2024-01-05T13:26:43.216059+00:00",
     "gcps": [
       {
         "location": [
@@ -103,6 +119,26 @@
         "pixel": [
           6708,
           6639
+        ]
+      },
+      {
+        "location": [
+          17.73542037399376,
+          49.551495572273325
+        ],
+        "pixel": [
+          4500,
+          3839
+        ]
+      },
+      {
+        "location": [
+          17.971853723483978,
+          49.47142933992623
+        ],
+        "pixel": [
+          6507,
+          4915
         ]
       }
     ]

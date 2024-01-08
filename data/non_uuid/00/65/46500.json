@@ -9,16 +9,16 @@
   "external_id": "46500",
   "title": "Soubor němých map pro gymnasia a odborné školy",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    6.826531,
-    36.057915,
-    18.76564,
-    47.134132
+    6.8775835,
+    36.07911,
+    18.67394,
+    47.12185
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,39 @@
   "georefereces": {
     "cutline": [
       [
-        253,
-        350
+        248,
+        364
       ],
       [
-        221,
-        6062
+        223,
+        6059
       ],
       [
-        4685,
-        6086
+        4666,
+        6072
       ],
       [
-        4677,
-        374
+        4662,
+        3718
       ],
       [
-        253,
-        350
+        4676,
+        394
+      ],
+      [
+        2375,
+        376
+      ],
+      [
+        248,
+        364
       ]
     ],
     "created": "2014-12-28T14:36:48.104160+00:00",
     "transformation_method": "affine",
     "mapID": "557c275e-2195-5ed2-bacd-b1437d89343d",
     "affine_transformation": null,
-    "changed": "2014-12-28T14:36:48.104160+00:00",
+    "changed": "2024-01-02T13:32:20.248808+00:00",
     "gcps": [
       {
         "location": [
@@ -173,16 +181,6 @@
         "pixel": [
           625,
           1902
-        ]
-      },
-      {
-        "location": [
-          6.62837081,
-          45.109492913
-        ],
-        "pixel": [
-          467,
-          920
         ]
       },
       {
@@ -393,6 +391,26 @@
         "pixel": [
           3275,
           5046
+        ]
+      },
+      {
+        "location": [
+          7.041298470188712,
+          45.922026272795875
+        ],
+        "pixel": [
+          467,
+          920
+        ]
+      },
+      {
+        "location": [
+          16.113119372792003,
+          46.86845551871335
+        ],
+        "pixel": [
+          3771,
+          565
         ]
       },
       {

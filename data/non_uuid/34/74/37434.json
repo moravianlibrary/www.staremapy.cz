@@ -9,16 +9,16 @@
   "external_id": "37434",
   "title": "Orientační plán hlavního města Prahy s okolím",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    14.364753,
-    50.015823,
-    14.405011,
-    50.036144
+    14.365048,
+    50.015663,
+    14.405003,
+    50.036198
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,47 @@
   "georefereces": {
     "cutline": [
       [
-        1034,
-        712
+        1015,
+        679
       ],
       [
-        14426,
-        728
+        7535,
+        696
       ],
       [
-        14410,
-        11416
+        14450,
+        706
       ],
       [
-        1018,
-        11416
+        14448,
+        5852
       ],
       [
-        1034,
-        712
+        14423,
+        11494
+      ],
+      [
+        10892,
+        11479
+      ],
+      [
+        982,
+        11457
+      ],
+      [
+        987,
+        6878
+      ],
+      [
+        1015,
+        679
       ]
     ],
     "created": "2017-04-03T23:22:36.166250+00:00",
     "transformation_method": "affine",
     "mapID": "ccbbad3e-6d62-5b34-8473-43c38a8039bf",
     "affine_transformation": null,
-    "changed": "2017-04-03T23:22:36.166250+00:00",
+    "changed": "2024-01-02T12:10:47.535042+00:00",
     "gcps": [
       {
         "location": [
@@ -113,6 +129,26 @@
         "pixel": [
           14210,
           8225
+        ]
+      },
+      {
+        "location": [
+          14.372873388006418,
+          50.03290018016017
+        ],
+        "pixel": [
+          3590,
+          2349
+        ]
+      },
+      {
+        "location": [
+          14.387238231318575,
+          50.01770898333669
+        ],
+        "pixel": [
+          8477,
+          10448
         ]
       }
     ]

@@ -9,16 +9,16 @@
   "external_id": "45208",
   "title": "Übersichtskarte von Mittel - Europa",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    22.475134,
-    41.273106,
-    26.152393,
-    43.67053
+    22.452812,
+    41.24795,
+    26.196735,
+    43.6823
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,47 @@
   "georefereces": {
     "cutline": [
       [
-        218,
-        8982
+        237,
+        9050
       ],
       [
-        9421,
-        8982
+        2084,
+        9050
+      ],
+      [
+        9391,
+        9030
+      ],
+      [
+        9399,
+        4830
       ],
       [
         9421,
         1238
       ],
       [
-        218,
-        1238
+        5343,
+        1241
       ],
       [
-        218,
-        8982
+        223,
+        1250
+      ],
+      [
+        226,
+        3754
+      ],
+      [
+        237,
+        9050
       ]
     ],
     "created": "2015-01-18T12:56:31.088910+00:00",
     "transformation_method": "affine",
     "mapID": "9fdf1018-d30d-5d61-b172-551f2f24a707",
     "affine_transformation": null,
-    "changed": "2023-10-13T14:17:12.494173+00:00",
+    "changed": "2024-01-02T07:54:01.489810+00:00",
     "gcps": [
       {
         "location": [
@@ -83,6 +99,16 @@
         "pixel": [
           8229,
           4989
+        ]
+      },
+      {
+        "location": [
+          24.618056966958555,
+          43.409416291317626
+        ],
+        "pixel": [
+          5318,
+          1795
         ]
       },
       {
@@ -123,6 +149,16 @@
         "pixel": [
           7683,
           7879
+        ]
+      },
+      {
+        "location": [
+          22.692238578456443,
+          42.28135727726681
+        ],
+        "pixel": [
+          666,
+          6181
         ]
       }
     ]

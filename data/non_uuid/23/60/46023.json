@@ -9,16 +9,16 @@
   "external_id": "46023",
   "title": "Střední školy v Čechách",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    11.795074,
-    48.51665,
-    17.020065,
-    51.172543
+    11.795449,
+    48.527355,
+    17.020456,
+    51.14836
   ],
   "reviewed": null,
   "publisher": null,
@@ -33,8 +33,8 @@
         2800
       ],
       [
-        4506,
-        1016
+        4266,
+        1146
       ],
       [
         6034,
@@ -65,20 +65,20 @@
         5272
       ],
       [
-        6682,
-        5392
+        6783,
+        5451
       ],
       [
-        6186,
-        5912
+        6366,
+        6109
       ],
       [
         5938,
         6976
       ],
       [
-        5610,
-        7232
+        5528,
+        7167
       ],
       [
         4386,
@@ -93,8 +93,8 @@
         5512
       ],
       [
-        2530,
-        5304
+        2211,
+        5448
       ],
       [
         1938,
@@ -113,7 +113,7 @@
     "transformation_method": "affine",
     "mapID": "a08a63c3-3926-50ab-aea2-4fb57be6bcd1",
     "affine_transformation": null,
-    "changed": "2017-03-04T06:51:14.294150+00:00",
+    "changed": "2024-01-02T09:05:15.292025+00:00",
     "gcps": [
       {
         "location": [
@@ -133,6 +133,16 @@
         "pixel": [
           6072,
           1638
+        ]
+      },
+      {
+        "location": [
+          14.412859874734185,
+          50.09010451627506
+        ],
+        "pixel": [
+          4768,
+          3599
         ]
       },
       {

@@ -9,16 +9,16 @@
   "external_id": "45991",
   "title": "Prachovské skály",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    15.266993,
-    50.459347,
-    15.313852,
-    50.478436
+    15.266994,
+    50.459354,
+    15.313715,
+    50.478424
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,47 @@
   "georefereces": {
     "cutline": [
       [
-        730,
-        7806
+        735,
+        7804
       ],
       [
-        11618,
-        7710
+        8315,
+        7751
       ],
       [
-        11578,
-        710
+        11586,
+        7715
       ],
       [
-        698,
-        766
+        11562,
+        3672
       ],
       [
-        730,
-        7806
+        11543,
+        713
+      ],
+      [
+        6151,
+        741
+      ],
+      [
+        695,
+        772
+      ],
+      [
+        713,
+        4377
+      ],
+      [
+        735,
+        7804
       ]
     ],
     "created": "2017-01-28T15:54:37.932450+00:00",
     "transformation_method": "affine",
     "mapID": "69e959ce-3220-547a-980f-6acf464de12f",
     "affine_transformation": null,
-    "changed": "2017-01-28T15:54:37.932450+00:00",
+    "changed": "2024-01-02T12:33:27.234361+00:00",
     "gcps": [
       {
         "location": [
@@ -83,6 +99,16 @@
         "pixel": [
           9898,
           5640
+        ]
+      },
+      {
+        "location": [
+          15.279688888670282,
+          50.4688510096218
+        ],
+        "pixel": [
+          3638,
+          4291
         ]
       },
       {

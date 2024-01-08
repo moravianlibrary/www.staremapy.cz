@@ -9,16 +9,16 @@
   "external_id": "17987",
   "title": "Plan de Nancy",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    6.156848,
-    48.674686,
-    6.2049794,
-    48.709362
+    6.1568418,
+    48.67464,
+    6.205028,
+    48.70937
   ],
   "reviewed": null,
   "publisher": null,
@@ -38,7 +38,7 @@
       ],
       [
         3510,
-        1642
+        1648
       ],
       [
         5584,
@@ -93,6 +93,10 @@
         9561
       ],
       [
+        4932,
+        9547
+      ],
+      [
         1978,
         9518
       ],
@@ -109,7 +113,7 @@
     "transformation_method": "affine",
     "mapID": "e6b03fed-2736-5469-ba92-48848591a209",
     "affine_transformation": null,
-    "changed": "2015-01-26T09:37:41.919620+00:00",
+    "changed": "2024-01-02T13:22:27.277921+00:00",
     "gcps": [
       {
         "location": [
@@ -159,6 +163,16 @@
         "pixel": [
           4806,
           4994
+        ]
+      },
+      {
+        "location": [
+          6.186316883984638,
+          48.69092023317063
+        ],
+        "pixel": [
+          6792,
+          5506
         ]
       }
     ]

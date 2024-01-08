@@ -9,7 +9,7 @@
   "external_id": "36274",
   "title": "Generální mapa ČSR",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
@@ -18,7 +18,7 @@
     18.82679,
     49.49796,
     19.835733,
-    50.49683
+    50.49753
   ],
   "reviewed": null,
   "publisher": null,
@@ -30,6 +30,10 @@
     "cutline": [
       [
         1070,
+        964
+      ],
+      [
+        5394,
         964
       ],
       [
@@ -53,7 +57,7 @@
     "transformation_method": "affine",
     "mapID": "18a6bbea-f14d-53a7-af71-4a70b920700b",
     "affine_transformation": null,
-    "changed": "2017-04-12T09:23:39.643170+00:00",
+    "changed": "2024-01-02T09:58:56.650551+00:00",
     "gcps": [
       {
         "location": [

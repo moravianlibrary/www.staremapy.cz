@@ -9,16 +9,16 @@
   "external_id": "47185",
   "title": "Jizerské hory",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    14.72053,
-    50.612568,
-    15.468445,
-    51.03561
+    14.720515,
+    50.612514,
+    15.468452,
+    51.035923
   ],
   "reviewed": null,
   "publisher": null,
@@ -33,16 +33,40 @@
         11937
       ],
       [
-        13167,
-        11910
+        7864,
+        11927
+      ],
+      [
+        13170,
+        11909
+      ],
+      [
+        13155,
+        5419
       ],
       [
         13142,
         773
       ],
       [
-        586,
-        801
+        6829,
+        785
+      ],
+      [
+        569,
+        793
+      ],
+      [
+        582,
+        4128
+      ],
+      [
+        589,
+        6957
+      ],
+      [
+        596,
+        9747
       ],
       [
         606,
@@ -53,7 +77,7 @@
     "transformation_method": "affine",
     "mapID": "082d96ce-86ac-5887-9f32-57cb0100b80c",
     "affine_transformation": null,
-    "changed": "2015-01-03T23:29:24.270170+00:00",
+    "changed": "2024-01-02T11:58:14.872639+00:00",
     "gcps": [
       {
         "location": [
@@ -263,6 +287,16 @@
         "pixel": [
           5176,
           1653
+        ]
+      },
+      {
+        "location": [
+          14.99803759087275,
+          50.66317549253381
+        ],
+        "pixel": [
+          5276,
+          10619
         ]
       }
     ]

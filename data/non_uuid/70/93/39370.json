@@ -9,16 +9,16 @@
   "external_id": "39370",
   "title": "West Deutschland",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    5.266902,
-    48.870823,
-    10.500918,
-    52.611794
+    5.261662,
+    48.850975,
+    10.515731,
+    52.62381
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,67 @@
   "georefereces": {
     "cutline": [
       [
-        227,
-        5765
+        206,
+        5794
       ],
       [
-        4879,
-        5793
+        1900,
+        5795
       ],
       [
-        4883,
-        389
+        3453,
+        5804
       ],
       [
-        179,
-        365
+        4892,
+        5808
       ],
       [
-        227,
-        5765
+        4892,
+        4611
+      ],
+      [
+        4888,
+        3167
+      ],
+      [
+        4888,
+        1534
+      ],
+      [
+        4886,
+        368
+      ],
+      [
+        3856,
+        362
+      ],
+      [
+        2412,
+        372
+      ],
+      [
+        173,
+        367
+      ],
+      [
+        186,
+        2677
+      ],
+      [
+        201,
+        4011
+      ],
+      [
+        206,
+        5794
       ]
     ],
     "created": "2016-02-02T17:07:00.074020+00:00",
     "transformation_method": "affine",
     "mapID": "e78b13cf-2d0c-54b1-93d2-d890098e681d",
     "affine_transformation": null,
-    "changed": "2016-02-02T17:07:00.074020+00:00",
+    "changed": "2024-01-02T12:25:03.897340+00:00",
     "gcps": [
       {
         "location": [
@@ -103,6 +139,16 @@
         "pixel": [
           4098,
           2367
+        ]
+      },
+      {
+        "location": [
+          8.7546623598838,
+          51.71762946348193
+        ],
+        "pixel": [
+          3425,
+          1684
         ]
       },
       {

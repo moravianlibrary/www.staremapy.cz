@@ -9,16 +9,16 @@
   "external_id": "46486",
   "title": "Soubor němých map pro střední školy",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    -95.505325,
-    -56.442295,
-    -24.105919,
-    23.724203
+    -95.29892,
+    -55.330196,
+    -24.58344,
+    22.937105
   ],
   "reviewed": null,
   "publisher": null,
@@ -45,6 +45,10 @@
         469
       ],
       [
+        2547,
+        468
+      ],
+      [
         347,
         461
       ],
@@ -57,7 +61,7 @@
     "transformation_method": "affine",
     "mapID": "88fd7940-4611-571f-86c3-438cb1df5294",
     "affine_transformation": null,
-    "changed": "2017-02-01T09:21:11.597830+00:00",
+    "changed": "2024-01-02T12:04:53.974237+00:00",
     "gcps": [
       {
         "location": [
@@ -77,6 +81,16 @@
         "pixel": [
           1814,
           692
+        ]
+      },
+      {
+        "location": [
+          -36.40851826238156,
+          -10.491750658553713
+        ],
+        "pixel": [
+          4101,
+          2698
         ]
       },
       {

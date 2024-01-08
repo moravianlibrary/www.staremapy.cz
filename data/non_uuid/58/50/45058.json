@@ -9,16 +9,16 @@
   "external_id": "45058",
   "title": "Orientační mapy. Prachatice",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    13.911382,
-    48.952595,
-    14.0743,
-    49.059467
+    13.910839,
+    48.952168,
+    14.074757,
+    49.05984
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,47 @@
   "georefereces": {
     "cutline": [
       [
-        1224,
-        2895
+        1166,
+        2851
       ],
       [
-        18824,
-        2831
+        10019,
+        2800
       ],
       [
-        18884,
-        20572
+        18888,
+        2763
       ],
       [
-        1220,
-        20668
+        18907,
+        13781
       ],
       [
-        1224,
-        2895
+        18934,
+        20608
+      ],
+      [
+        7042,
+        20694
+      ],
+      [
+        1162,
+        20737
+      ],
+      [
+        1168,
+        10731
+      ],
+      [
+        1166,
+        2851
       ]
     ],
     "created": "2017-03-10T04:50:29.863950+00:00",
     "transformation_method": "affine",
     "mapID": "0bd238b9-94a6-5185-97ca-1a328176a517",
     "affine_transformation": null,
-    "changed": "2017-03-10T04:50:29.863950+00:00",
+    "changed": "2024-01-02T10:23:43.617361+00:00",
     "gcps": [
       {
         "location": [
@@ -163,6 +179,16 @@
         "pixel": [
           3020,
           19914
+        ]
+      },
+      {
+        "location": [
+          13.99920245414921,
+          49.01304316680336
+        ],
+        "pixel": [
+          10757,
+          10522
         ]
       },
       {

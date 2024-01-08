@@ -9,16 +9,16 @@
   "external_id": "29095",
   "title": "Eisenbahnkarte der k.u.k. oesterreichisch-ungarischen Monarchie",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    11.908479,
-    48.85413,
-    13.567144,
-    50.7397
+    11.776929,
+    48.647797,
+    13.57179,
+    50.845367
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,39 +29,47 @@
   "georefereces": {
     "cutline": [
       [
-        14098,
-        10737
+        13512,
+        10869
       ],
       [
-        14130,
-        10769
+        14158,
+        10431
       ],
       [
-        14098,
-        2177
+        14149,
+        1691
       ],
       [
-        9554,
-        3809
+        11750,
+        1950
       ],
       [
-        10586,
-        6209
+        9207,
+        3659
       ],
       [
-        11902,
-        9153
+        9028,
+        6741
       ],
       [
-        14098,
-        10737
+        10136,
+        11552
+      ],
+      [
+        12499,
+        11487
+      ],
+      [
+        13512,
+        10869
       ]
     ],
     "created": "2015-02-10T18:53:50.280180+00:00",
     "transformation_method": "affine",
     "mapID": "92e65072-6bdd-53c2-affc-96d56205ff78",
     "affine_transformation": null,
-    "changed": "2015-02-10T18:53:50.280180+00:00",
+    "changed": "2024-01-02T11:59:30.150780+00:00",
     "gcps": [
       {
         "location": [
@@ -191,6 +199,26 @@
         "pixel": [
           13291,
           3827
+        ]
+      },
+      {
+        "location": [
+          12.737842716871592,
+          49.86840905322043
+        ],
+        "pixel": [
+          11884,
+          6087
+        ]
+      },
+      {
+        "location": [
+          13.51964176709237,
+          49.230905061076555
+        ],
+        "pixel": [
+          14068,
+          9075
         ]
       }
     ]

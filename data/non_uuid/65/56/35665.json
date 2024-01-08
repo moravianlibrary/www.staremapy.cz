@@ -9,16 +9,16 @@
   "external_id": "35665",
   "title": "Protektorát Čechy a Morava",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    12.321385,
-    48.364918,
-    18.880884,
-    51.04101
+    12.30444,
+    48.309906,
+    18.90921,
+    51.060123
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,63 @@
   "georefereces": {
     "cutline": [
       [
-        779,
-        9827
+        760,
+        10015
       ],
       [
-        15435,
-        9827
+        7855,
+        9991
       ],
       [
-        15435,
-        931
+        7887,
+        10026
       ],
       [
-        779,
-        931
+        7930,
+        10025
       ],
       [
-        779,
-        9827
+        8008,
+        9987
+      ],
+      [
+        15494,
+        9952
+      ],
+      [
+        15471,
+        6749
+      ],
+      [
+        15465,
+        5819
+      ],
+      [
+        15427,
+        864
+      ],
+      [
+        7693,
+        921
+      ],
+      [
+        738,
+        937
+      ],
+      [
+        747,
+        5002
+      ],
+      [
+        760,
+        10015
       ]
     ],
     "created": "2015-01-11T00:39:56.756580+00:00",
     "transformation_method": "affine",
     "mapID": "45261ecf-dd9a-53ee-9ce0-ea66302d54e9",
     "affine_transformation": null,
-    "changed": "2015-01-11T00:39:56.756580+00:00",
+    "changed": "2024-01-02T10:14:46.856760+00:00",
     "gcps": [
       {
         "location": [
@@ -213,6 +245,16 @@
         "pixel": [
           13735,
           8456
+        ]
+      },
+      {
+        "location": [
+          15.26681326541714,
+          49.950416628490814
+        ],
+        "pixel": [
+          7322,
+          4591
         ]
       },
       {
