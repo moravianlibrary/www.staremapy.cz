@@ -3,16 +3,16 @@
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:b5f6142e-c06d-11e6-8452-001b63bd97ba/ImageProperties.xml",
+  "image_url": "https://kramerius.cbvk.cz/search/iiif/uuid:b5f6142e-c06d-11e6-8452-001b63bd97ba/info.json",
   "description": "29°45° Verona / K.u.k. militär-geographisches Institut",
   "scale": null,
   "external_id": "uuid:b5f6142e-c06d-11e6-8452-001b63bd97ba",
   "title": "29°45° Verona / K.u.k. militär-geographisches Institut",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:12989fe0-3003-11e6-ac61-9e71128cae77?page=uuid:b5f6142e-c06d-11e6-8452-001b63bd97ba",
+  "viewer_url": "https://www.digitalniknihovna.cz/cbvk/view/uuid:12989fe0-3003-11e6-ac61-9e71128cae77?page=uuid:b5f6142e-c06d-11e6-8452-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": [
     10.841755,
@@ -22,63 +22,146 @@
   ],
   "reviewed": null,
   "publisher": "K.u.k. militär-geographisches Institut",
-  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:12989fe0-3003-11e6-ac61-9e71128cae77?page=uuid:b5f6142e-c06d-11e6-8452-001b63bd97ba",
+  "link_url": "https://www.digitalniknihovna.cz/cbvk/view/uuid:12989fe0-3003-11e6-ac61-9e71128cae77?page=uuid:b5f6142e-c06d-11e6-8452-001b63bd97ba",
   "id": "c23b1604-d0cc-45b3-bbab-8e5a869f035b",
   "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        167,
-        87
+        5522,
+        819
       ],
       [
-        600,
-        87
+        3336,
+        810
       ],
       [
-        600,
-        443
+        880,
+        803
       ],
       [
-        158,
-        443
+        867,
+        2858
       ],
       [
-        166,
-        89
+        840,
+        7342
       ],
       [
-        170,
-        89
+        3356,
+        7344
       ],
       [
-        184,
-        439
+        5562,
+        7348
       ],
       [
-        600,
-        443
+        5533,
+        3906
       ],
       [
-        600,
-        94
-      ],
-      [
-        167,
-        89
-      ],
-      [
-        167,
-        87
+        5522,
+        819
       ]
     ],
     "created": "2023-11-12T09:06:00.355354+00:00",
     "transformation_method": "affine",
     "mapID": "c23b1604-d0cc-45b3-bbab-8e5a869f035b",
     "affine_transformation": null,
-    "changed": "2023-11-12T09:07:03.696033+00:00",
-    "gcps": []
+    "changed": "2024-01-10T12:48:41.089582+00:00",
+    "gcps": [
+      {
+        "location": [
+          10.993152077602868,
+          45.43860925999536
+        ],
+        "pixel": [
+          1606,
+          1209
+        ]
+      },
+      {
+        "location": [
+          11.271736779952544,
+          45.39641928774142
+        ],
+        "pixel": [
+          2898,
+          1501
+        ]
+      },
+      {
+        "location": [
+          11.3879281846761,
+          45.38821442491843
+        ],
+        "pixel": [
+          3440,
+          1541
+        ]
+      },
+      {
+        "location": [
+          11.750310522745037,
+          45.24160214890111
+        ],
+        "pixel": [
+          5104,
+          2562
+        ]
+      },
+      {
+        "location": [
+          11.619481740340712,
+          44.83759291564036
+        ],
+        "pixel": [
+          4536,
+          5147
+        ]
+      },
+      {
+        "location": [
+          11.290691032025554,
+          44.5049127457047
+        ],
+        "pixel": [
+          2997,
+          7277
+        ]
+      },
+      {
+        "location": [
+          10.925507258049558,
+          44.646316252246635
+        ],
+        "pixel": [
+          1268,
+          6389
+        ]
+      },
+      {
+        "location": [
+          11.124419168343406,
+          44.98184307839429
+        ],
+        "pixel": [
+          2208,
+          4187
+        ]
+      },
+      {
+        "location": [
+          11.31342212378242,
+          45.19368356078357
+        ],
+        "pixel": [
+          3109,
+          2833
+        ]
+      }
+    ]
   },
   "pubdate": ["1905"]
 }

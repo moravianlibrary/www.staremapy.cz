@@ -9,16 +9,16 @@
   "external_id": "6616",
   "title": "III. vojenské mapování 4556",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    15.834533,
-    48.499973,
-    16.332306,
-    48.749382
+    15.832839,
+    48.49909,
+    16.333479,
+    48.749638
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,47 @@
   "georefereces": {
     "cutline": [
       [
-        769,
-        6426
+        744,
+        6445
       ],
       [
-        8342,
-        6408
+        4820,
+        6438
       ],
       [
-        8333,
-        627
+        8358,
+        6423
       ],
       [
-        766,
-        645
+        8347,
+        3038
       ],
       [
-        769,
-        6426
+        8341,
+        621
+      ],
+      [
+        4311,
+        633
+      ],
+      [
+        757,
+        641
+      ],
+      [
+        747,
+        4512
+      ],
+      [
+        744,
+        6445
       ]
     ],
     "created": "2014-12-05T17:32:14.975590+00:00",
     "transformation_method": "affine",
     "mapID": "fef94ad5-5826-5457-9dbf-f5a2da2c0050",
     "affine_transformation": null,
-    "changed": "2021-05-03T17:06:52.327716+00:00",
+    "changed": "2024-01-12T09:59:41.120400+00:00",
     "gcps": [
       {
         "location": [
@@ -253,6 +269,16 @@
         "pixel": [
           7974,
           6225
+        ]
+      },
+      {
+        "location": [
+          16.242295344895158,
+          48.661706476809314
+        ],
+        "pixel": [
+          6959,
+          2667
         ]
       }
     ]

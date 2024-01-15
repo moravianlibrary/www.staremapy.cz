@@ -9,16 +9,16 @@
   "external_id": "47098",
   "title": "Lázně - Poděbrady",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    15.106769,
-    50.135128,
-    15.139529,
-    50.154903
+    15.106796,
+    50.13499,
+    15.1393585,
+    50.154827
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,63 @@
   "georefereces": {
     "cutline": [
       [
-        439,
-        8978
+        455,
+        9068
       ],
       [
-        9751,
-        8978
+        3329,
+        9070
       ],
       [
-        9751,
-        402
+        9799,
+        9051
       ],
       [
-        439,
-        402
+        9767,
+        5600
       ],
       [
-        439,
-        8978
+        9764,
+        2474
+      ],
+      [
+        8736,
+        2123
+      ],
+      [
+        8224,
+        1623
+      ],
+      [
+        6327,
+        1534
+      ],
+      [
+        4686,
+        1320
+      ],
+      [
+        4632,
+        432
+      ],
+      [
+        435,
+        445
+      ],
+      [
+        432,
+        4563
+      ],
+      [
+        455,
+        9068
       ]
     ],
     "created": "2015-01-02T11:16:03.952560+00:00",
     "transformation_method": "affine",
     "mapID": "e7199e32-ff44-57ea-b8ab-aadcdbd8f1b4",
     "affine_transformation": null,
-    "changed": "2015-01-02T11:16:03.952560+00:00",
+    "changed": "2024-01-09T10:18:16.844612+00:00",
     "gcps": [
       {
         "location": [
@@ -83,6 +115,16 @@
         "pixel": [
           1799,
           2102
+        ]
+      },
+      {
+        "location": [
+          15.121173318423995,
+          50.14714072095774
+        ],
+        "pixel": [
+          4509,
+          3814
         ]
       },
       {

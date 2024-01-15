@@ -9,16 +9,16 @@
   "external_id": "0e1ded1d-67f9-4e1f-9ea3-4ac308dd63d4",
   "title": "Beroun",
   "collection_id": "661540c9-1eb7-52de-bf14-70ef049c0218",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    13.810961,
-    49.734142,
-    14.361673,
-    50.016937
+    13.833444,
+    49.8762,
+    13.949803,
+    49.999493
   ],
   "reviewed": null,
   "publisher": "[Vojenský zeměpisný ústav]",
@@ -53,8 +53,59 @@
     "transformation_method": "affine",
     "mapID": "da6e62a6-8dd9-59da-a2e0-767e91ed81ab",
     "affine_transformation": null,
-    "changed": "2019-02-11T11:38:16.321134+00:00",
-    "gcps": []
+    "changed": "2024-01-10T10:18:47.211694+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.313866067677733,
+          49.86444031795838
+        ],
+        "pixel": [
+          11508,
+          5411
+        ]
+      },
+      {
+        "location": [
+          14.21818492217517,
+          49.850174439125254
+        ],
+        "pixel": [
+          9379,
+          5925
+        ]
+      },
+      {
+        "location": [
+          14.31270165287799,
+          49.75399028895666
+        ],
+        "pixel": [
+          11500,
+          9299
+        ]
+      },
+      {
+        "location": [
+          14.292957721341702,
+          49.78851182765192
+        ],
+        "pixel": [
+          11063,
+          8086
+        ]
+      },
+      {
+        "location": [
+          14.260135336226028,
+          49.866413528137855
+        ],
+        "pixel": [
+          10319,
+          5361
+        ]
+      }
+    ]
   },
   "pubdate": [null]
 }

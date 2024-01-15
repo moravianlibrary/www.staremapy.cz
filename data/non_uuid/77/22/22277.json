@@ -9,16 +9,16 @@
   "external_id": "22277",
   "title": "Paris au XVIII siécle 13",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    2.3456774,
-    48.867027,
-    2.3688722,
-    48.882214
+    2.3450317,
+    48.866947,
+    2.369069,
+    48.88134
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,36 +29,66 @@
   "georefereces": {
     "cutline": [
       [
-        2324,
-        1558
+        2312,
+        1544
       ],
       [
-        2251,
-        10986
+        2307,
+        2301
       ],
       [
-        16747,
-        11034
+        2297,
+        6452
       ],
       [
-        16843,
-        1626
+        2253,
+        10997
       ],
       [
-        16827,
-        1642
+        10193,
+        11008
       ],
       [
-        2324,
-        1558
+        16793,
+        11027
+      ],
+      [
+        16798,
+        8608
+      ],
+      [
+        16859,
+        1835
+      ],
+      [
+        16858,
+        1612
+      ],
+      [
+        12015,
+        1599
+      ],
+      [
+        2312,
+        1544
       ]
     ],
     "created": "2016-12-16T12:01:38.294900+00:00",
     "transformation_method": "affine",
     "mapID": "cdca22b3-097a-5bc5-ab4e-e50dc8eaa2a7",
     "affine_transformation": null,
-    "changed": "2016-12-16T12:01:38.294900+00:00",
+    "changed": "2024-01-09T08:38:25.287816+00:00",
     "gcps": [
+      {
+        "location": [
+          2.3535869144233503,
+          48.87157306167154
+        ],
+        "pixel": [
+          12993,
+          6183
+        ]
+      },
       {
         "location": [
           2.356515318,

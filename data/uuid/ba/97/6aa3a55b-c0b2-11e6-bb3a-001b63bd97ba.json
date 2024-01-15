@@ -3,154 +3,152 @@
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:6aa3a55b-c0b2-11e6-bb3a-001b63bd97ba/ImageProperties.xml",
+  "image_url": "https://kramerius.cbvk.cz/search/iiif/uuid:6aa3a55b-c0b2-11e6-bb3a-001b63bd97ba/info.json",
   "description": "42°49° Stanislau / K.u.k. militär-geographisches Institut",
   "scale": null,
   "external_id": "uuid:6aa3a55b-c0b2-11e6-bb3a-001b63bd97ba",
   "title": "42°49° Stanislau / K.u.k. militär-geographisches Institut",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:12990b74-3003-11e6-ac61-9e71128cae77?page=uuid:6aa3a55b-c0b2-11e6-bb3a-001b63bd97ba",
+  "viewer_url": "https://www.digitalniknihovna.cz/cbvk/view/uuid:12990b74-3003-11e6-ac61-9e71128cae77?page=uuid:6aa3a55b-c0b2-11e6-bb3a-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": [
-    23.827755,
-    48.987537,
-    24.36871,
-    49.500137
+    23.825754,
+    48.494644,
+    24.836456,
+    49.496696
   ],
   "reviewed": null,
   "publisher": "K.u.k. militär-geographisches Institut",
-  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:12990b74-3003-11e6-ac61-9e71128cae77?page=uuid:6aa3a55b-c0b2-11e6-bb3a-001b63bd97ba",
+  "link_url": "https://www.digitalniknihovna.cz/cbvk/view/uuid:12990b74-3003-11e6-ac61-9e71128cae77?page=uuid:6aa3a55b-c0b2-11e6-bb3a-001b63bd97ba",
   "id": "83fe0c83-4766-4515-a0b7-76bab40554c2",
   "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        600,
-        84
+        5214,
+        3144
       ],
       [
-        600,
-        443
+        5237,
+        7319
       ],
       [
-        270,
-        443
+        2646,
+        7312
       ],
       [
-        167,
-        443
+        857,
+        7306
       ],
       [
-        168,
-        294
+        882,
+        4682
       ],
       [
-        173,
-        84
+        923,
+        773
       ],
       [
-        600,
-        84
+        3032,
+        786
+      ],
+      [
+        5206,
+        797
+      ],
+      [
+        5214,
+        3144
       ]
     ],
     "created": "2020-07-07T12:56:40.487458+00:00",
     "transformation_method": "affine",
     "mapID": "83fe0c83-4766-4515-a0b7-76bab40554c2",
     "affine_transformation": null,
-    "changed": "2023-12-27T08:25:30.860363+00:00",
+    "changed": "2024-01-12T07:17:54.092840+00:00",
     "gcps": [
       {
         "location": [
-          23.852929010315126,
-          49.25832003561996
+          24.72963910124484,
+          49.124183003877306
         ],
         "pixel": [
-          188,
-          252
+          4798,
+          3245
         ]
       },
       {
         "location": [
-          24.296452973325014,
-          49.151575096947255
+          24.548213591844167,
+          49.20175208653009
         ],
         "pixel": [
-          545,
-          329
+          3996,
+          2714
         ]
       },
       {
         "location": [
-          24.28029992363182,
-          49.28734274499155
+          24.494836296237054,
+          49.2599965843348
         ],
         "pixel": [
-          533,
-          234
+          3764,
+          2346
         ]
       },
       {
         "location": [
-          24.255146687475857,
-          49.36223383292034
+          24.37329037651716,
+          49.01638264019448
         ],
         "pixel": [
-          502,
-          182
+          3232,
+          3925
         ]
       },
       {
         "location": [
-          24.268901561435648,
-          49.03494829556854
+          24.71786046061441,
+          48.91645656601227
         ],
         "pixel": [
-          516,
-          413
+          4734,
+          4590
         ]
       },
       {
         "location": [
-          24.142597685410244,
-          49.38303513231179
+          23.981484933305218,
+          48.97696596110163
         ],
         "pixel": [
-          419,
-          167
+          1543,
+          4180
         ]
       },
       {
         "location": [
-          24.353637885411004,
-          48.994429965627404
+          24.570411146865514,
+          48.632261481359336
         ],
         "pixel": [
-          595,
-          441
+          4089,
+          6439
         ]
       },
       {
         "location": [
-          24.12116843922281,
-          49.005482741786636
+          24.104339408860604,
+          49.38956724932862
         ],
         "pixel": [
-          402,
-          432
-        ]
-      },
-      {
-        "location": [
-          24.367981107495105,
-          49.372738634115905
-        ],
-        "pixel": [
-          602,
-          174
+          2093,
+          1491
         ]
       }
     ]

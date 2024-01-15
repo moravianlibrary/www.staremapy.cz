@@ -3,106 +3,138 @@
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:6182c322-c0b2-11e6-bb3a-001b63bd97ba/ImageProperties.xml",
+  "image_url": "https://kramerius.cbvk.cz/search/iiif/uuid:6182c322-c0b2-11e6-bb3a-001b63bd97ba/info.json",
   "description": "41°52° Brest-Litowsk / K.u.k. militär-geographisches Institut",
   "scale": null,
   "external_id": "uuid:6182c322-c0b2-11e6-bb3a-001b63bd97ba",
   "title": "41°52° Brest-Litowsk / K.u.k. militär-geographisches Institut",
   "collection_id": "a5baf062-1f12-4504-83d4-f940e913a510",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
-  "viewer_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:1298efe0-3003-11e6-ac61-9e71128cae77?page=uuid:6182c322-c0b2-11e6-bb3a-001b63bd97ba",
+  "viewer_url": "https://www.digitalniknihovna.cz/cbvk/view/uuid:1298efe0-3003-11e6-ac61-9e71128cae77?page=uuid:6182c322-c0b2-11e6-bb3a-001b63bd97ba",
   "georeference_is_finished": true,
   "bounds": [
-    22.834352,
-    52.00452,
-    23.383217,
-    52.504047
+    22.829195,
+    51.496243,
+    23.843346,
+    52.495777
   ],
   "reviewed": null,
   "publisher": "K.u.k. militär-geographisches Institut",
-  "link_url": "http://www.digitalniknihovna.cz/cbvk/view/uuid:1298efe0-3003-11e6-ac61-9e71128cae77?page=uuid:6182c322-c0b2-11e6-bb3a-001b63bd97ba",
+  "link_url": "https://www.digitalniknihovna.cz/cbvk/view/uuid:1298efe0-3003-11e6-ac61-9e71128cae77?page=uuid:6182c322-c0b2-11e6-bb3a-001b63bd97ba",
   "id": "380a7e2a-4dc5-49e1-8b40-25882fdae270",
   "physical_size": null,
   "dpi": null,
   "georefereces": {
     "cutline": [
       [
-        600,
-        88
+        5048,
+        876
       ],
       [
-        600,
-        443
+        5063,
+        3565
       ],
       [
-        187,
-        443
+        5097,
+        7400
       ],
       [
-        192,
-        94
+        2889,
+        7402
       ],
       [
-        600,
-        88
+        979,
+        7402
+      ],
+      [
+        991,
+        5016
+      ],
+      [
+        1016,
+        862
+      ],
+      [
+        5048,
+        876
       ]
     ],
     "created": "2020-07-07T12:56:46.865909+00:00",
     "transformation_method": "affine",
     "mapID": "380a7e2a-4dc5-49e1-8b40-25882fdae270",
     "affine_transformation": null,
-    "changed": "2023-12-30T08:27:30.723140+00:00",
+    "changed": "2024-01-11T06:50:32.286679+00:00",
     "gcps": [
       {
         "location": [
-          22.907838457633225,
-          52.23153166281227
+          23.655787601443524,
+          52.08241217754028
         ],
         "pixel": [
-          242,
-          282
+          4301,
+          3601
         ]
       },
       {
         "location": [
-          23.334798405720907,
-          52.3373725883645
+          23.69973156050426,
+          51.993318536512334
         ],
         "pixel": [
-          562,
-          206
+          4456,
+          4205
         ]
       },
       {
         "location": [
-          23.362618339733874,
-          52.03563293476424
+          23.115481695113765,
+          52.03761726468804
         ],
         "pixel": [
-          586,
-          421
+          2118,
+          3849
         ]
       },
       {
         "location": [
-          23.11703229272652,
-          52.36442244945064
+          23.53873248433797,
+          51.54977894864567
         ],
         "pixel": [
-          403,
-          188
+          3898,
+          7106
         ]
       },
       {
         "location": [
-          23.116809995708863,
-          52.36446810188559
+          22.91720920919727,
+          51.64816177824045
         ],
         "pixel": [
-          408,
-          188
+          1312,
+          6420
+        ]
+      },
+      {
+        "location": [
+          23.415024361152344,
+          52.358740704008085
+        ],
+        "pixel": [
+          3330,
+          1780
+        ]
+      },
+      {
+        "location": [
+          23.803180628100627,
+          52.40179964236651
+        ],
+        "pixel": [
+          4896,
+          1493
         ]
       }
     ]

@@ -9,16 +9,16 @@
   "external_id": "24563",
   "title": "Podrobné mapy zemí Koruny české v měřítku 1:75.000 a mapa vzdáleností všech míst při silnici ležících - Český Brod \u2013 Kouřim. Průvodce statisticko-historický po všech místech na těchto mapách uvedených a rejstřík věcný názvů hor, potoků, řek, rybníků atd. Sešit 14. List 68,",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    14.733735,
-    49.998806,
-    15.138086,
-    50.20144
+    14.7338705,
+    49.998936,
+    15.134238,
+    50.200153
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,47 @@
   "georefereces": {
     "cutline": [
       [
-        1221,
-        959
+        1188,
+        989
       ],
       [
-        7221,
-        991
+        3280,
+        987
       ],
       [
-        7253,
-        5663
+        7178,
+        987
       ],
       [
-        1189,
-        5679
+        7186,
+        3748
       ],
       [
-        1221,
-        959
+        7196,
+        5660
+      ],
+      [
+        4419,
+        5664
+      ],
+      [
+        1190,
+        5661
+      ],
+      [
+        1194,
+        3139
+      ],
+      [
+        1188,
+        989
       ]
     ],
     "created": "2014-12-23T14:54:55.299660+00:00",
     "transformation_method": "affine",
     "mapID": "ac525b55-8c84-5c5a-b241-d7edad51babc",
     "affine_transformation": null,
-    "changed": "2014-12-23T14:54:55.299660+00:00",
+    "changed": "2024-01-12T12:31:48.758744+00:00",
     "gcps": [
       {
         "location": [
@@ -113,6 +129,16 @@
         "pixel": [
           3620,
           2396
+        ]
+      },
+      {
+        "location": [
+          15.031904853803315,
+          50.12954102787569
+        ],
+        "pixel": [
+          5659,
+          2621
         ]
       },
       {

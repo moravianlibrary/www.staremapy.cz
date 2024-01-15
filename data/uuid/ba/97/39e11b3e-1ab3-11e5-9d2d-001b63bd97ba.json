@@ -3,22 +3,22 @@
   "creator": null,
   "georeference_changed": null,
   "created": null,
-  "image_url": "https://kramerius.cbvk.cz/search/zoomify/uuid:39e11b3e-1ab3-11e5-9d2d-001b63bd97ba/ImageProperties.xml",
+  "image_url": "https://kramerius.cbvk.cz/search/iiif/uuid:39e11b3e-1ab3-11e5-9d2d-001b63bd97ba/info.json",
   "description": "1 mapa ; 13 x 45 cm, složeno na 14 x 9 cm, vlepeno do desek",
   "scale": null,
   "external_id": "75517",
   "title": "Alpen-Aussicht vom Schöninger 1084 m /",
   "collection_id": "5dd3d3e1-88e8-5ccc-9fdd-d00f63633dae",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    -179.74283,
-    -25.19218,
-    179.54562,
-    86.17051
+    11.500743,
+    35.644222,
+    20.206732,
+    50.190216
   ],
   "reviewed": null,
   "publisher": "Josef Seidel,",
@@ -29,31 +29,39 @@
   "georefereces": {
     "cutline": [
       [
-        600,
-        0
+        7972,
+        695
       ],
       [
-        600,
-        443
+        7968,
+        2155
       ],
       [
-        0,
-        443
+        3791,
+        2137
       ],
       [
-        0,
-        0
+        116,
+        2128
       ],
       [
-        600,
-        0
+        132,
+        647
+      ],
+      [
+        4614,
+        685
+      ],
+      [
+        7972,
+        695
       ]
     ],
     "created": "2018-01-08T15:42:56.952299+00:00",
     "transformation_method": "affine",
     "mapID": "69713a68-da38-5dcc-8da6-d6422603c832",
     "affine_transformation": null,
-    "changed": "2023-09-01T09:18:57.071402+00:00",
+    "changed": "2024-01-10T09:52:26.261333+00:00",
     "gcps": [
       {
         "location": [
@@ -61,18 +69,28 @@
           47.47499050808801
         ],
         "pixel": [
-          554,
-          167
+          7464,
+          988
         ]
       },
       {
         "location": [
-          16.985609293122714,
-          49.30378710413203
+          13.903175236479395,
+          47.716010916076016
         ],
         "pixel": [
-          355,
-          166
+          4775,
+          954
+        ]
+      },
+      {
+        "location": [
+          14.397595328618248,
+          47.65264810146871
+        ],
+        "pixel": [
+          3187,
+          943
         ]
       },
       {
@@ -81,28 +99,18 @@
           47.62329480025741
         ],
         "pixel": [
-          443,
-          163
+          5960,
+          968
         ]
       },
       {
         "location": [
-          16.761332248923217,
-          49.48103546896809
+          15.12373366641789,
+          47.610510258532486
         ],
         "pixel": [
-          486,
-          171
-        ]
-      },
-      {
-        "location": [
-          16.654686996741308,
-          49.42801477385129
-        ],
-        "pixel": [
-          488,
-          171
+          1921,
+          949
         ]
       }
     ]
