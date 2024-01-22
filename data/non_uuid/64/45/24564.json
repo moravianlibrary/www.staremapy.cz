@@ -9,16 +9,16 @@
   "external_id": "24564",
   "title": "Podrobné mapy zemí Koruny české v měřítku 1:75.000 a mapa vzdáleností všech míst při silnici ležících - Divišov - Vlašim - Načeradec. Průvodce statisticko-historický po všech místech na těchto mapách uvedených a rejstřík věcný názvů hor, potoků, řek, rybníků atd. Sešit 17. List 70,",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    14.731746,
-    49.59888,
-    15.133981,
-    49.799088
+    14.732221,
+    49.598095,
+    15.133865,
+    49.799557
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,51 @@
   "georefereces": {
     "cutline": [
       [
-        597,
-        5388
+        605,
+        5420
       ],
       [
-        6621,
-        5388
+        3150,
+        5414
       ],
       [
-        6621,
-        764
+        6645,
+        5408
       ],
       [
-        597,
-        764
+        6625,
+        3160
       ],
       [
-        597,
-        5388
+        6610,
+        754
+      ],
+      [
+        3820,
+        756
+      ],
+      [
+        1449,
+        753
+      ],
+      [
+        577,
+        753
+      ],
+      [
+        590,
+        2728
+      ],
+      [
+        605,
+        5420
       ]
     ],
     "created": "2014-12-08T22:21:22.089930+00:00",
     "transformation_method": "affine",
     "mapID": "80a54a72-04e5-52c3-a879-e659f04d2154",
     "affine_transformation": null,
-    "changed": "2022-01-23T20:34:29.812244+00:00",
+    "changed": "2024-01-18T09:27:42.834799+00:00",
     "gcps": [
       {
         "location": [
@@ -133,6 +153,16 @@
         "pixel": [
           5932,
           4540
+        ]
+      },
+      {
+        "location": [
+          15.011260721143232,
+          49.712558569507934
+        ],
+        "pixel": [
+          4778,
+          2771
         ]
       },
       {

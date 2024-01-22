@@ -9,16 +9,16 @@
   "external_id": "6078",
   "title": "III. vojenské mapování 3955/4",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
     15.583503,
-    49.99914,
-    15.834374,
-    50.124332
+    49.9991,
+    15.83443,
+    50.124348
   ],
   "reviewed": null,
   "publisher": null,
@@ -33,16 +33,32 @@
         9507
       ],
       [
-        11591,
-        9496
+        7077,
+        9502
       ],
       [
-        11561,
-        775
+        11593,
+        9498
+      ],
+      [
+        11572,
+        4829
+      ],
+      [
+        11562,
+        773
+      ],
+      [
+        6382,
+        760
       ],
       [
         299,
         759
+      ],
+      [
+        304,
+        4869
       ],
       [
         307,
@@ -53,7 +69,7 @@
     "transformation_method": "affine",
     "mapID": "de89d2a3-5d81-5ae1-9f9f-540935c4d184",
     "affine_transformation": null,
-    "changed": "2014-12-17T21:41:25.894180+00:00",
+    "changed": "2024-01-16T13:01:05.261885+00:00",
     "gcps": [
       {
         "location": [
@@ -243,6 +259,16 @@
         "pixel": [
           6399,
           6252
+        ]
+      },
+      {
+        "location": [
+          15.647817916190235,
+          50.0797889097791
+        ],
+        "pixel": [
+          3192,
+          3877
         ]
       }
     ]

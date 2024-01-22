@@ -9,16 +9,16 @@
   "external_id": "24698",
   "title": "Podrobné mapy zemí Koruny české v měřítku 1:75.000 a mapa vzdáleností všech míst při silnici ležících - Kamenice nad Lípou - Černovice. Průvodce statisticko-historický po všech místech na těchto mapách uvedených a rejstřík věcný názvů hor, potoků, řek, rybníků atd. Sešit 48. List 72,",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    14.732639,
-    49.199238,
-    15.134124,
-    49.400135
+    14.732221,
+    49.19888,
+    15.13452,
+    49.400238
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,47 @@
   "georefereces": {
     "cutline": [
       [
-        1140,
-        954
+        1136,
+        951
       ],
       [
-        7180,
-        950
+        4278,
+        948
       ],
       [
-        7229,
-        5580
+        7183,
+        948
       ],
       [
-        1169,
-        5580
+        7204,
+        3122
       ],
       [
-        1140,
-        954
+        7234,
+        5587
+      ],
+      [
+        4852,
+        5584
+      ],
+      [
+        1163,
+        5589
+      ],
+      [
+        1149,
+        3223
+      ],
+      [
+        1136,
+        951
       ]
     ],
     "created": "2014-12-05T15:51:16.775340+00:00",
     "transformation_method": "affine",
     "mapID": "cf88d4b6-918f-503e-8e32-c65370d18130",
     "affine_transformation": null,
-    "changed": "2014-12-05T15:51:16.775340+00:00",
+    "changed": "2024-01-17T08:37:59.711823+00:00",
     "gcps": [
       {
         "location": [
@@ -163,6 +179,16 @@
         "pixel": [
           3299,
           3832
+        ]
+      },
+      {
+        "location": [
+          15.009564432325218,
+          49.328774715361135
+        ],
+        "pixel": [
+          5315,
+          2577
         ]
       },
       {

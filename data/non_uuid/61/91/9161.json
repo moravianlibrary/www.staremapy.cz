@@ -13,8 +13,13 @@
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
-  "bounds": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    14.496677,
+    48.95037,
+    14.529192,
+    48.965343
+  ],
   "reviewed": null,
   "publisher": null,
   "link_url": "http://chartae-antiquae.cz/maps/9161",
@@ -48,8 +53,49 @@
     "transformation_method": "affine",
     "mapID": "3ba7d64e-ba52-5b73-913c-324fe82b8b31",
     "affine_transformation": null,
-    "changed": "2014-11-25T17:15:19.808430+00:00",
-    "gcps": []
+    "changed": "2024-01-16T07:11:56.890828+00:00",
+    "gcps": [
+      {
+        "location": [
+          14.501596811623692,
+          48.95131397857958
+        ],
+        "pixel": [
+          1594,
+          13405
+        ]
+      },
+      {
+        "location": [
+          14.507875179817525,
+          48.95131189789876
+        ],
+        "pixel": [
+          5202,
+          13397
+        ]
+      },
+      {
+        "location": [
+          14.50152774474156,
+          48.95134832600249
+        ],
+        "pixel": [
+          1483,
+          13316
+        ]
+      },
+      {
+        "location": [
+          14.51981451410268,
+          48.953714583279435
+        ],
+        "pixel": [
+          12380,
+          11141
+        ]
+      }
+    ]
   },
   "pubdate": ["1890"]
 }
