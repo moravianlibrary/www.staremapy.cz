@@ -15,10 +15,10 @@
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    20.488909,
-    54.99128,
-    23.19126,
-    56.162395
+    20.516987,
+    54.940014,
+    23.149841,
+    56.20502
   ],
   "reviewed": null,
   "publisher": "Albrecht, Ignatz; Büsching, Anton Friedrich; Herausgegeben von F.I.I. Reilly",
@@ -53,7 +53,7 @@
     "transformation_method": "affine",
     "mapID": "4b32b9b1-afef-59a1-9dc1-1ae8b56d49eb",
     "affine_transformation": null,
-    "changed": "2015-01-17T12:46:12.408580+00:00",
+    "changed": "2024-01-25T18:26:40.595159+00:00",
     "gcps": [
       {
         "location": [
@@ -73,6 +73,26 @@
         "pixel": [
           4625,
           1723
+        ]
+      },
+      {
+        "location": [
+          22.57817336475082,
+          55.07516733618439
+        ],
+        "pixel": [
+          6432,
+          5572
+        ]
+      },
+      {
+        "location": [
+          21.21621200000472,
+          55.01358456754838
+        ],
+        "pixel": [
+          2642,
+          5428
         ]
       },
       {
@@ -113,6 +133,26 @@
         "pixel": [
           7359,
           4053
+        ]
+      },
+      {
+        "location": [
+          21.752482141606283,
+          55.125242476564864
+        ],
+        "pixel": [
+          4079,
+          5235
+        ]
+      },
+      {
+        "location": [
+          20.839954536747534,
+          55.15932578235527
+        ],
+        "pixel": [
+          2059,
+          4572
         ]
       }
     ]

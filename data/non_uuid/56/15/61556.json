@@ -15,10 +15,10 @@
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    5.140061,
-    50.42261,
-    10.383385,
-    53.96511
+    5.1404524,
+    50.44463,
+    10.381297,
+    53.921356
   ],
   "reviewed": null,
   "publisher": "Koperník, Mikuláš; Brahe, Tycho de; Doppelmayr, Johann Gabriel; In Verlegung des Auctoris",
@@ -53,8 +53,18 @@
     "transformation_method": "affine",
     "mapID": "37a1f29e-e2a5-5aac-b8a2-b529504bd72a",
     "affine_transformation": null,
-    "changed": "2014-11-25T14:38:23.608620+00:00",
+    "changed": "2024-01-25T18:45:08.746666+00:00",
     "gcps": [
+      {
+        "location": [
+          8.58301622967968,
+          53.553055419300705
+        ],
+        "pixel": [
+          13224,
+          8234
+        ]
+      },
       {
         "location": [
           7.464965797,
@@ -83,6 +93,16 @@
         "pixel": [
           11381,
           7262
+        ]
+      },
+      {
+        "location": [
+          9.99338610272656,
+          53.548976011629065
+        ],
+        "pixel": [
+          13361,
+          11880
         ]
       },
       {
