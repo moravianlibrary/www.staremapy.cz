@@ -9,16 +9,16 @@
   "external_id": "7488",
   "title": "II. vojenské mapování 5",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    17.506445,
-    49.660934,
-    18.28162,
-    50.0083
+    17.505667,
+    49.664204,
+    18.278978,
+    50.006374
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,35 +29,47 @@
   "georefereces": {
     "cutline": [
       [
-        1760,
-        1573
+        1852,
+        1604
       ],
       [
         6528,
         1605
       ],
       [
-        10800,
-        3733
+        10728,
+        1640
       ],
       [
-        10784,
-        7525
+        10722,
+        3849
       ],
       [
-        1856,
-        7461
+        10710,
+        7468
       ],
       [
-        1760,
-        1573
+        6066,
+        7458
+      ],
+      [
+        1850,
+        7431
+      ],
+      [
+        1854,
+        3913
+      ],
+      [
+        1852,
+        1604
       ]
     ],
     "created": "2014-12-26T07:12:46.852590+00:00",
     "transformation_method": "affine",
     "mapID": "08401ffd-cafb-5a5b-821b-e05c54db662f",
     "affine_transformation": null,
-    "changed": "2023-03-29T13:09:07.196588+00:00",
+    "changed": "2024-01-29T12:47:12.013244+00:00",
     "gcps": [
       {
         "location": [
@@ -157,6 +169,16 @@
         "pixel": [
           1529923,
           1145253
+        ]
+      },
+      {
+        "location": [
+          17.75230229685512,
+          49.90309519216029
+        ],
+        "pixel": [
+          4682,
+          3363
         ]
       },
       {

@@ -9,15 +9,15 @@
   "external_id": "6197",
   "title": "III. vojenské mapování 4149/2",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    12.584122,
-    49.624546,
-    12.833504,
+    12.583698,
+    49.62435,
+    12.833742,
     49.749535
   ],
   "reviewed": null,
@@ -29,31 +29,43 @@
   "georefereces": {
     "cutline": [
       [
-        45,
-        8973
+        26,
+        9001
       ],
       [
-        11373,
+        3445,
         8997
       ],
       [
-        11361,
-        269
+        11391,
+        9011
+      ],
+      [
+        11378,
+        4100
+      ],
+      [
+        11372,
+        253
+      ],
+      [
+        5938,
+        256
       ],
       [
         38,
         248
       ],
       [
-        45,
-        8973
+        26,
+        9001
       ]
     ],
     "created": "2014-12-10T06:30:54.844380+00:00",
     "transformation_method": "affine",
     "mapID": "4ca0c27f-d6e4-5042-98a2-2b0587e4ace7",
     "affine_transformation": null,
-    "changed": "2022-10-27T03:22:40.760678+00:00",
+    "changed": "2024-01-29T12:53:58.352711+00:00",
     "gcps": [
       {
         "location": [

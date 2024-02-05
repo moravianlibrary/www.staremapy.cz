@@ -9,16 +9,16 @@
   "external_id": "6467",
   "title": "III. vojenské mapování 4469/3",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    22.330227,
-    48.74746,
-    22.582075,
-    48.87418
+    22.330446,
+    48.74808,
+    22.582035,
+    48.8741
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,51 @@
   "georefereces": {
     "cutline": [
       [
-        66,
-        8995
+        65,
+        8997
       ],
       [
-        11579,
+        4697,
         8977
       ],
       [
-        11636,
-        189
+        11587,
+        8983
       ],
       [
-        37,
-        194
+        11616,
+        3414
       ],
       [
-        66,
-        8995
+        11639,
+        187
+      ],
+      [
+        10014,
+        175
+      ],
+      [
+        5806,
+        177
+      ],
+      [
+        38,
+        191
+      ],
+      [
+        47,
+        3962
+      ],
+      [
+        65,
+        8997
       ]
     ],
     "created": "2014-12-08T09:31:24.032180+00:00",
     "transformation_method": "affine",
     "mapID": "79a4b52b-4813-5e57-be20-588fde36d392",
     "affine_transformation": null,
-    "changed": "2022-11-07T08:29:34.334146+00:00",
+    "changed": "2024-02-02T12:36:02.703499+00:00",
     "gcps": [
       {
         "location": [
@@ -107,6 +127,16 @@
       },
       {
         "location": [
+          22.44535257762497,
+          48.85822300521701
+        ],
+        "pixel": [
+          5338,
+          1280
+        ]
+      },
+      {
+        "location": [
           22.484292984,
           48.803020413
         ],
@@ -143,16 +173,6 @@
         "pixel": [
           5516,
           298
-        ]
-      },
-      {
-        "location": [
-          22.38472193365969,
-          48.80737191323922
-        ],
-        "pixel": [
-          2577,
-          4665
         ]
       },
       {

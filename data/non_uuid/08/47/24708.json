@@ -9,16 +9,16 @@
   "external_id": "24708",
   "title": "Podrobné mapy zemí Koruny české v měřítku 1:75.000 a mapa vzdáleností všech míst při silnici ležících - Pelhřimov - Humpolec. Průvodce statisticko-historický po všech místech na těchto mapách uvedených a rejstřík věcný názvů hor, potoků, řek, rybníků atd. Sešit 45. List 84,",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    15.134599,
-    49.399906,
-    15.534599,
-    49.600082
+    15.133573,
+    49.39959,
+    15.5352955,
+    49.599953
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,28 +29,64 @@
   "georefereces": {
     "cutline": [
       [
-        516,
+        507,
+        5176
+      ],
+      [
+        1767,
+        5161
+      ],
+      [
+        1784,
         5168
       ],
       [
-        6578,
-        5158
+        3544,
+        5168
       ],
       [
-        6550,
-        2856
+        3572,
+        5169
       ],
       [
-        6542,
-        494
+        5330,
+        5171
       ],
       [
-        5335,
-        506
+        5365,
+        5167
       ],
       [
-        3543,
-        500
+        6589,
+        5168
+      ],
+      [
+        6571,
+        2845
+      ],
+      [
+        6566,
+        2810
+      ],
+      [
+        6544,
+        489
+      ],
+      [
+        5370,
+        499
+      ],
+      [
+        5319,
+        499
+      ],
+      [
+        3586,
+        498
+      ],
+      [
+        3544,
+        497
       ],
       [
         2190,
@@ -61,23 +97,27 @@
         495
       ],
       [
-        501,
-        491
+        488,
+        494
       ],
       [
-        505,
-        2855
+        495,
+        2829
       ],
       [
-        516,
-        5168
+        489,
+        2863
+      ],
+      [
+        507,
+        5176
       ]
     ],
     "created": "2014-12-15T16:25:41.896340+00:00",
     "transformation_method": "affine",
     "mapID": "2026a265-7ce4-534b-9457-2b64b5f1f8f8",
     "affine_transformation": null,
-    "changed": "2022-10-27T03:28:31.970117+00:00",
+    "changed": "2024-01-29T15:03:43.202850+00:00",
     "gcps": [
       {
         "location": [
@@ -517,6 +557,16 @@
         "pixel": [
           1391,
           4033
+        ]
+      },
+      {
+        "location": [
+          15.334147227021104,
+          49.4904839864204
+        ],
+        "pixel": [
+          3537,
+          3071
         ]
       }
     ]
