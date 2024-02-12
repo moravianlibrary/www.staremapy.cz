@@ -9,16 +9,16 @@
   "external_id": "24655",
   "title": "Podrobné mapy zemí Koruny české v měřítku 1:75.000 a mapa vzdáleností všech míst při silnici ležících - Brno. Průvodce statisticko-historický po všech místech na těchto mapách uvedených a rejstřík věcný názvů hor, potoků, řek, rybníků atd. Sešit 5. List 116,",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    16.334179,
-    48.998894,
-    16.733692,
-    49.207256
+    16.332684,
+    48.99893,
+    16.73387,
+    49.20794
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,47 +29,67 @@
   "georefereces": {
     "cutline": [
       [
-        246,
-        521
+        229,
+        506
       ],
       [
-        2186,
-        513
+        2167,
+        506
       ],
       [
-        2182,
-        417
+        2171,
+        482
       ],
       [
-        2598,
-        413
+        2171,
+        407
       ],
       [
-        2598,
-        513
+        2207,
+        406
+      ],
+      [
+        2585,
+        405
+      ],
+      [
+        2588,
+        505
       ],
       [
         3246,
-        513
+        507
       ],
       [
-        3230,
-        2797
+        3243,
+        1835
       ],
       [
-        230,
-        2789
+        3239,
+        2796
       ],
       [
-        246,
-        521
+        1597,
+        2795
+      ],
+      [
+        219,
+        2792
+      ],
+      [
+        225,
+        1425
+      ],
+      [
+        229,
+        506
       ]
     ],
     "created": "2014-12-19T10:01:18.639260+00:00",
     "transformation_method": "affine",
     "mapID": "c5076a42-3316-507a-a26f-32fa5adad929",
     "affine_transformation": null,
-    "changed": "2014-12-19T10:01:18.639260+00:00",
+    "changed": "2024-02-05T09:57:47.549936+00:00",
     "gcps": [
       {
         "location": [
@@ -189,6 +209,16 @@
         "pixel": [
           1532,
           830
+        ]
+      },
+      {
+        "location": [
+          16.614507085525922,
+          49.12755779195075
+        ],
+        "pixel": [
+          2346,
+          1316
         ]
       },
       {
