@@ -9,16 +9,16 @@
   "external_id": "24557",
   "title": "Podrobné mapy zemí Koruny české v měřítku 1:75.000 a mapa vzdáleností všech míst při silnici ležících - Příbram - Dobříš. Průvodce statisticko-historický po všech místech na těchto mapách uvedených a rejstřík věcný názvů hor, potoků, řek, rybníků atd./ Sešit 10. List 43,",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    13.933823,
-    49.599518,
-    14.333369,
-    49.799343
+    13.934109,
+    49.599472,
+    14.334751,
+    49.799324
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,15 +29,31 @@
   "georefereces": {
     "cutline": [
       [
-        637,
-        5351
+        636,
+        5352
       ],
       [
-        6677,
-        5351
+        1671,
+        5357
       ],
       [
-        6677,
+        3215,
+        5354
+      ],
+      [
+        3547,
+        5358
+      ],
+      [
+        6698,
+        5357
+      ],
+      [
+        6684,
+        2512
+      ],
+      [
+        6683,
         679
       ],
       [
@@ -45,15 +61,23 @@
         679
       ],
       [
-        637,
-        5351
+        640,
+        1327
+      ],
+      [
+        638,
+        2441
+      ],
+      [
+        636,
+        5352
       ]
     ],
     "created": "2014-12-05T14:23:39.592190+00:00",
     "transformation_method": "affine",
     "mapID": "15ce8766-799f-5c95-bcaf-c3dcbdfe110d",
     "affine_transformation": null,
-    "changed": "2014-12-05T14:23:39.592190+00:00",
+    "changed": "2024-02-22T12:33:56.262033+00:00",
     "gcps": [
       {
         "location": [
@@ -97,12 +121,42 @@
       },
       {
         "location": [
+          14.046361252462718,
+          49.63527308066307
+        ],
+        "pixel": [
+          2319,
+          4524
+        ]
+      },
+      {
+        "location": [
           14.327384233,
           49.783523418
         ],
         "pixel": [
           6589,
           1045
+        ]
+      },
+      {
+        "location": [
+          14.252151095375023,
+          49.640183125394515
+        ],
+        "pixel": [
+          5454,
+          4417
+        ]
+      },
+      {
+        "location": [
+          13.946927680802808,
+          49.716374981673454
+        ],
+        "pixel": [
+          830,
+          2629
         ]
       }
     ]

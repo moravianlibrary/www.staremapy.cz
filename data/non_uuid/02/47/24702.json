@@ -9,16 +9,16 @@
   "external_id": "24702",
   "title": "Podrobné mapy zemí Koruny české v měřítku 1:75.000 a mapa vzdáleností všech míst při silnici ležících - Suchdol n. Lužnicí. Průvodce statisticko-historický po všech místech na těchto mapách uvedených a rejstřík věcný názvů hor, potoků, řek, rybníků atd. Sešit 50. List 74,",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    14.729069,
-    48.801743,
-    15.133922,
-    48.999306
+    14.728824,
+    48.79994,
+    15.135243,
+    48.99908
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,43 @@
   "georefereces": {
     "cutline": [
       [
-        463,
-        2770
+        467,
+        2785
       ],
       [
-        3463,
-        2770
+        1497,
+        2785
       ],
       [
-        3463,
-        498
+        3473,
+        2791
       ],
       [
-        463,
-        498
+        3478,
+        499
       ],
       [
-        463,
-        2770
+        1753,
+        501
+      ],
+      [
+        460,
+        501
+      ],
+      [
+        464,
+        1475
+      ],
+      [
+        467,
+        2785
       ]
     ],
     "created": "2014-12-21T20:48:11.989460+00:00",
     "transformation_method": "affine",
     "mapID": "81d6f62e-f87d-5059-8f51-32c036b8154f",
     "affine_transformation": null,
-    "changed": "2022-07-07T09:08:05.051321+00:00",
+    "changed": "2024-02-20T14:49:35.729227+00:00",
     "gcps": [
       {
         "location": [
@@ -123,6 +135,16 @@
         "pixel": [
           963,
           2602
+        ]
+      },
+      {
+        "location": [
+          15.00981695387192,
+          48.97534543573286
+        ],
+        "pixel": [
+          2546,
+          772
         ]
       },
       {

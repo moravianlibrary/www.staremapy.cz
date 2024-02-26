@@ -9,16 +9,16 @@
   "external_id": "24669",
   "title": "Podrobné mapy zemí Koruny české v měřítku 1:75.000 a mapa vzdáleností všech míst při silnici ležících. Volary - Kunžvart. Průvodce statisticko-historický po všech místech na těchto mapách uvedených a rejstřík věcný názvů hor, potoků, řek, rybníků atd. Sešit 31. List 35",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    13.533374,
-    48.79899,
-    13.93635,
-    49.000126
+    13.533415,
+    48.798965,
+    13.936203,
+    49.000263
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,15 +29,27 @@
   "georefereces": {
     "cutline": [
       [
-        1111,
-        5637
+        1110,
+        5632
       ],
       [
-        7269,
+        3776,
+        5634
+      ],
+      [
+        7267,
         5635
       ],
       [
+        7248,
+        3364
+      ],
+      [
         7235,
+        969
+      ],
+      [
+        4077,
         969
       ],
       [
@@ -45,16 +57,30 @@
         968
       ],
       [
-        1111,
-        5637
+        1108,
+        3304
+      ],
+      [
+        1110,
+        5632
       ]
     ],
     "created": "2014-12-06T19:59:20.954780+00:00",
     "transformation_method": "affine",
     "mapID": "fb4d2834-5834-5234-bf50-052ccd04af75",
     "affine_transformation": null,
-    "changed": "2022-05-18T14:16:29.870647+00:00",
+    "changed": "2024-02-19T09:30:27.398410+00:00",
     "gcps": [
+      {
+        "location": [
+          13.583733052974372,
+          48.888909458214584
+        ],
+        "pixel": [
+          1861,
+          3611
+        ]
+      },
       {
         "location": [
           13.858165707,

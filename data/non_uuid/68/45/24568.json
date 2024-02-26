@@ -9,16 +9,16 @@
   "external_id": "24568",
   "title": "Podrobné mapy zemí Koruny české v měřítku 1:75.000 a mapa vzdáleností všech míst při silnici ležících - Libáň - Král. Městec - Nový Bydžov. Průvodce statisticko-historický po všech místech na těchto mapách uvedených a rejstřík věcný názvů hor, potoků, řek, rybníků atd. Sešit 19. List 80,",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    15.132787,
-    50.20039,
-    15.534181,
-    50.400677
+    15.131639,
+    50.19911,
+    15.535692,
+    50.401344
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,51 @@
   "georefereces": {
     "cutline": [
       [
-        651,
-        744
+        931,
+        717
       ],
       [
-        635,
-        5384
+        645,
+        719
       ],
       [
-        6567,
-        5400
+        637,
+        3015
       ],
       [
-        6571,
-        736
+        618,
+        5415
       ],
       [
-        651,
-        744
+        3075,
+        5417
+      ],
+      [
+        6589,
+        5418
+      ],
+      [
+        6587,
+        3296
+      ],
+      [
+        6595,
+        721
+      ],
+      [
+        3592,
+        716
+      ],
+      [
+        931,
+        717
       ]
     ],
     "created": "2014-12-16T23:16:26.405440+00:00",
     "transformation_method": "affine",
     "mapID": "1d575d61-2af1-50e5-a6bb-b0881ca1299e",
     "affine_transformation": null,
-    "changed": "2014-12-16T23:16:26.405440+00:00",
+    "changed": "2024-02-22T12:24:51.379294+00:00",
     "gcps": [
       {
         "location": [
@@ -133,6 +153,16 @@
         "pixel": [
           5915,
           4477
+        ]
+      },
+      {
+        "location": [
+          15.269097291747203,
+          50.33044553239395
+        ],
+        "pixel": [
+          2654,
+          2364
         ]
       }
     ]

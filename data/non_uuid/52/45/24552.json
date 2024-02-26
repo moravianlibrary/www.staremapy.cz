@@ -9,16 +9,16 @@
   "external_id": "24552",
   "title": "Podrobné mapy zemí Koruny české v měřítku 1:75.000 - Zbraslav - Říčany - Jílové. Průvodce statisticko-historický po všech místech na těchto mapách uvedených a rejstřík věcný názvů hor, potoků, řek, rybníků atd. a mapa vzdáleností všech míst při silnici ležících Sešit 3. List 56,",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    14.333688,
-    49.79898,
-    14.73379,
-    49.999264
+    14.332689,
+    49.79893,
+    14.734082,
+    49.999287
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,51 @@
   "georefereces": {
     "cutline": [
       [
-        616,
-        5381
+        602,
+        5382
       ],
       [
-        6620,
-        5381
+        4223,
+        5382
       ],
       [
-        6624,
-        721
+        6627,
+        5382
       ],
       [
-        616,
-        733
+        6621,
+        2489
       ],
       [
-        616,
-        5381
+        6621,
+        718
+      ],
+      [
+        5562,
+        723
+      ],
+      [
+        3449,
+        725
+      ],
+      [
+        608,
+        725
+      ],
+      [
+        608,
+        3014
+      ],
+      [
+        602,
+        5382
       ]
     ],
     "created": "2014-12-12T20:30:31.588560+00:00",
     "transformation_method": "affine",
     "mapID": "0a68aa8b-0a64-5842-a96f-83213ad54c4c",
     "affine_transformation": null,
-    "changed": "2014-12-12T20:30:31.588560+00:00",
+    "changed": "2024-02-20T14:47:53.554330+00:00",
     "gcps": [
       {
         "location": [
@@ -127,6 +147,16 @@
       },
       {
         "location": [
+          14.480820479392186,
+          49.95963837947929
+        ],
+        "pixel": [
+          2821,
+          1649
+        ]
+      },
+      {
+        "location": [
           14.548655544,
           49.854721476
         ],
@@ -163,6 +193,16 @@
         "pixel": [
           5434,
           900
+        ]
+      },
+      {
+        "location": [
+          14.710597392690133,
+          49.93700135659233
+        ],
+        "pixel": [
+          6268,
+          2163
         ]
       }
     ]

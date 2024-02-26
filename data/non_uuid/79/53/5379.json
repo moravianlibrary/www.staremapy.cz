@@ -9,16 +9,16 @@
   "external_id": "5379",
   "title": "III. vojenské mapování 4772",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    23.83024,
-    47.999527,
-    24.33068,
-    48.24771
+    23.82893,
+    47.998398,
+    24.332094,
+    48.24881
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,55 @@
   "georefereces": {
     "cutline": [
       [
-        480,
-        510
+        463,
+        493
       ],
       [
-        8294,
-        574
+        2555,
+        499
       ],
       [
-        8258,
-        6376
+        4531,
+        514
       ],
       [
-        432,
-        6316
+        6823,
+        533
       ],
       [
-        480,
-        510
+        8312,
+        555
+      ],
+      [
+        8298,
+        2610
+      ],
+      [
+        8283,
+        6407
+      ],
+      [
+        4595,
+        6372
+      ],
+      [
+        407,
+        6346
+      ],
+      [
+        436,
+        3917
+      ],
+      [
+        463,
+        493
       ]
     ],
     "created": "2014-12-10T16:48:21.876170+00:00",
     "transformation_method": "affine",
     "mapID": "5f3231f4-1f55-5d05-aa5b-107dee940e8b",
     "affine_transformation": null,
-    "changed": "2022-07-17T18:45:45.734105+00:00",
+    "changed": "2024-02-22T12:19:53.968092+00:00",
     "gcps": [
       {
         "location": [
@@ -83,6 +107,16 @@
         "pixel": [
           1337,
           2082
+        ]
+      },
+      {
+        "location": [
+          23.83379550651638,
+          47.99982079937823
+        ],
+        "pixel": [
+          479,
+          6316
         ]
       },
       {
@@ -153,6 +187,16 @@
         "pixel": [
           3497,
           3439
+        ]
+      },
+      {
+        "location": [
+          23.935995249486957,
+          48.22327928238528
+        ],
+        "pixel": [
+          2108,
+          1094
         ]
       },
       {
