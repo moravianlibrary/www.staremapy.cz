@@ -9,16 +9,16 @@
   "external_id": "6509",
   "title": "III. vojenské mapování 4565/2",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    20.581831,
-    48.62234,
-    20.831213,
-    48.74881
+    20.581911,
+    48.62229,
+    20.831287,
+    48.748833
   ],
   "reviewed": null,
   "publisher": null,
@@ -33,20 +33,28 @@
         180
       ],
       [
-        5805,
-        174
+        5816,
+        172
       ],
       [
-        11582,
-        181
+        10397,
+        179
+      ],
+      [
+        11584,
+        177
+      ],
+      [
+        11589,
+        3754
       ],
       [
         11587,
         4538
       ],
       [
-        11585,
-        8895
+        11587,
+        8899
       ],
       [
         8697,
@@ -55,6 +63,10 @@
       [
         5805,
         8885
+      ],
+      [
+        2989,
+        8892
       ],
       [
         21,
@@ -73,7 +85,7 @@
     "transformation_method": "affine",
     "mapID": "bec23b22-6c08-5f49-909b-6cb81583fbbf",
     "affine_transformation": null,
-    "changed": "2024-02-01T13:59:24.332403+00:00",
+    "changed": "2024-02-27T13:19:24.541553+00:00",
     "gcps": [
       {
         "location": [
@@ -173,6 +185,16 @@
         "pixel": [
           1894,
           900
+        ]
+      },
+      {
+        "location": [
+          20.740114617392933,
+          48.72962843388234
+        ],
+        "pixel": [
+          7342,
+          1475
         ]
       }
     ]

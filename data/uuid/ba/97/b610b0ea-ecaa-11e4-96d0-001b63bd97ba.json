@@ -13,12 +13,12 @@
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
+  "georeference_is_finished": true,
   "bounds": [
-    -173.66614,
-    -70.55813,
-    174.03098,
-    33.840683
+    16.311602,
+    49.72322,
+    16.451805,
+    49.812557
   ],
   "reviewed": null,
   "publisher": "bey Christian Friedrich Himburg,",
@@ -53,8 +53,39 @@
     "transformation_method": "affine",
     "mapID": "2f375164-f8e9-5053-baee-6a2980bf6172",
     "affine_transformation": null,
-    "changed": "2024-02-04T21:33:36.065810+00:00",
-    "gcps": []
+    "changed": "2024-03-01T17:37:01.954349+00:00",
+    "gcps": [
+      {
+        "location": [
+          16.355209127835803,
+          49.765829767601986
+        ],
+        "pixel": [
+          172,
+          209
+        ]
+      },
+      {
+        "location": [
+          16.35254837649303,
+          49.76738203936986
+        ],
+        "pixel": [
+          162,
+          197
+        ]
+      },
+      {
+        "location": [
+          16.359672323636584,
+          49.768379902115754
+        ],
+        "pixel": [
+          197,
+          198
+        ]
+      }
+    ]
   },
   "pubdate": [null]
 }

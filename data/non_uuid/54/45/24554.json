@@ -9,16 +9,16 @@
   "external_id": "24554",
   "title": "Podrobné mapy zemí Koruny české v měřítku 1:75.000 - Praha - Brandýs n. L. Průvodce statisticko-historický po všech místech na těchto mapách uvedených a rejstřík věcný názvů hor, potoků, řek, rybníků atd. a mapa vzdáleností všech míst při silnici ležících Sešit 1. List 55,",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    14.33392,
-    49.998962,
-    14.733911,
-    50.199104
+    14.333198,
+    49.99875,
+    14.734236,
+    50.199604
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,63 @@
   "georefereces": {
     "cutline": [
       [
-        619,
-        713
+        614,
+        706
       ],
       [
-        6622,
-        707
+        2577,
+        700
       ],
       [
-        6627,
-        5385
+        5205,
+        708
       ],
       [
-        622,
+        6624,
+        703
+      ],
+      [
+        6630,
+        1937
+      ],
+      [
+        6635,
+        3837
+      ],
+      [
+        6630,
+        5391
+      ],
+      [
+        4249,
+        5392
+      ],
+      [
+        3606,
         5397
       ],
       [
-        619,
-        713
+        618,
+        5402
+      ],
+      [
+        604,
+        3389
+      ],
+      [
+        606,
+        1316
+      ],
+      [
+        614,
+        706
       ]
     ],
     "created": "2014-12-08T22:35:12.369680+00:00",
     "transformation_method": "affine",
     "mapID": "2bd6532c-14b6-5d5d-991c-05e54ad608bd",
     "affine_transformation": null,
-    "changed": "2023-04-04T12:22:05.804847+00:00",
+    "changed": "2024-02-27T10:00:44.436452+00:00",
     "gcps": [
       {
         "location": [
@@ -103,6 +135,16 @@
         "pixel": [
           922,
           1838
+        ]
+      },
+      {
+        "location": [
+          14.640174656754382,
+          50.06003999024756
+        ],
+        "pixel": [
+          5218,
+          3972
         ]
       },
       {
@@ -183,6 +225,16 @@
         "pixel": [
           931,
           4913
+        ]
+      },
+      {
+        "location": [
+          14.480378511779847,
+          50.1038705844781
+        ],
+        "pixel": [
+          2817,
+          2947
         ]
       }
     ]

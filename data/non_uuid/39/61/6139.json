@@ -9,16 +9,16 @@
   "external_id": "6139",
   "title": "III. vojenské mapování 4053/3",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    14.333467,
-    49.748707,
-    14.5845375,
-    49.87438
+    14.333309,
+    49.74834,
+    14.584386,
+    49.874393
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,51 @@
   "georefereces": {
     "cutline": [
       [
-        646,
-        9431
+        627,
+        9462
       ],
       [
-        12022,
-        9431
+        5407,
+        9470
       ],
       [
-        12022,
-        679
+        12050,
+        9457
       ],
       [
-        646,
-        679
+        12037,
+        4916
       ],
       [
-        646,
-        9431
+        12017,
+        660
+      ],
+      [
+        6466,
+        667
+      ],
+      [
+        617,
+        670
+      ],
+      [
+        621,
+        1223
+      ],
+      [
+        618,
+        5350
+      ],
+      [
+        627,
+        9462
       ]
     ],
     "created": "2014-12-06T17:36:34.964580+00:00",
     "transformation_method": "affine",
     "mapID": "d5a1c709-a5d9-5394-acf2-c7d9e6beea4b",
     "affine_transformation": null,
-    "changed": "2022-10-29T12:51:32.565850+00:00",
+    "changed": "2024-02-27T12:18:40.924068+00:00",
     "gcps": [
       {
         "location": [
@@ -107,6 +127,16 @@
       },
       {
         "location": [
+          14.398165548279627,
+          49.81411146985292
+        ],
+        "pixel": [
+          3557,
+          4894
+        ]
+      },
+      {
+        "location": [
           14.554135229,
           49.815066153
         ],
@@ -123,6 +153,16 @@
         "pixel": [
           906,
           2888
+        ]
+      },
+      {
+        "location": [
+          14.356924801986532,
+          49.80322646419512
+        ],
+        "pixel": [
+          1674,
+          5626
         ]
       }
     ]

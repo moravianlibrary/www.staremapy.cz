@@ -9,16 +9,16 @@
   "external_id": "6187",
   "title": "III. vojenské mapování 4059/2",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    17.58121,
-    49.87263,
-    17.83353,
-    49.998905
+    17.581434,
+    49.87321,
+    17.831747,
+    49.998756
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,67 @@
   "georefereces": {
     "cutline": [
       [
-        126,
-        126
+        140,
+        143
+      ],
+      [
+        5807,
+        197
+      ],
+      [
+        7734,
+        224
+      ],
+      [
+        11484,
+        260
+      ],
+      [
+        11465,
+        2182
       ],
       [
         11454,
-        270
+        5059
       ],
       [
-        11502,
-        9070
+        11436,
+        6927
       ],
       [
-        62,
-        9022
+        11423,
+        9063
       ],
       [
-        126,
-        126
+        8381,
+        9037
+      ],
+      [
+        4152,
+        8990
+      ],
+      [
+        74,
+        8980
+      ],
+      [
+        83,
+        5822
+      ],
+      [
+        130,
+        2285
+      ],
+      [
+        140,
+        143
       ]
     ],
     "created": "2014-12-07T16:59:49.939000+00:00",
     "transformation_method": "affine",
     "mapID": "d8f77962-5b91-520e-a885-6a68a2b81fc9",
     "affine_transformation": null,
-    "changed": "2014-12-07T16:59:49.939000+00:00",
+    "changed": "2024-02-27T07:03:47.834844+00:00",
     "gcps": [
       {
         "location": [
@@ -123,6 +159,16 @@
         "pixel": [
           2867,
           5305
+        ]
+      },
+      {
+        "location": [
+          17.751228039132496,
+          49.95010160772236
+        ],
+        "pixel": [
+          7828,
+          3672
         ]
       },
       {

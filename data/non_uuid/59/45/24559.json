@@ -9,16 +9,16 @@
   "external_id": "24559",
   "title": "Podrobné mapy zemí Koruny české v měřítku 1:75.000 - Smečno - Kladno - Unhošť. Průvodce statisticko-historický po všech místech na těchto mapách uvedených a rejstřík věcný názvů hor, potoků, řek, rybníků atd. a mapa vzdáleností všech míst při silnici ležících Sešit 4. List 41,",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    13.933121,
-    49.999443,
-    14.335649,
-    50.19966
+    13.933071,
+    49.99937,
+    14.335762,
+    50.19999
   ],
   "reviewed": null,
   "publisher": null,
@@ -33,19 +33,43 @@
         712
       ],
       [
-        3629,
-        717
+        3644,
+        716
       ],
       [
-        6651,
-        717
+        5419,
+        715
+      ],
+      [
+        5449,
+        706
+      ],
+      [
+        5496,
+        716
+      ],
+      [
+        6652,
+        715
+      ],
+      [
+        6654,
+        2020
       ],
       [
         6656,
         2697
       ],
       [
-        6661,
+        6656,
+        3746
+      ],
+      [
+        6663,
+        5407
+      ],
+      [
+        4200,
         5409
       ],
       [
@@ -53,8 +77,20 @@
         5409
       ],
       [
-        644,
-        5403
+        1961,
+        5409
+      ],
+      [
+        642,
+        5402
+      ],
+      [
+        642,
+        4160
+      ],
+      [
+        641,
+        3043
       ],
       [
         644,
@@ -69,7 +105,7 @@
     "transformation_method": "affine",
     "mapID": "e7c1add7-f03f-57bc-9bec-9216e53d012c",
     "affine_transformation": null,
-    "changed": "2024-01-19T12:41:40.506194+00:00",
+    "changed": "2024-02-26T08:36:47.044811+00:00",
     "gcps": [
       {
         "location": [
@@ -753,6 +789,16 @@
       },
       {
         "location": [
+          14.023233585159842,
+          50.03035502716813
+        ],
+        "pixel": [
+          1985,
+          4685
+        ]
+      },
+      {
+        "location": [
           14.150827852,
           50.113906811
         ],
@@ -869,16 +915,6 @@
         "pixel": [
           2143,
           4517
-        ]
-      },
-      {
-        "location": [
-          14.021679488,
-          50.033363697
-        ],
-        "pixel": [
-          1903,
-          4605
         ]
       },
       {

@@ -9,16 +9,16 @@
   "external_id": "24686",
   "title": "Podrobné mapy zemí Koruny české v měřítku 1:75.000 a mapa vzdáleností všech míst při silnici ležících - Bechyně - Soběslav - Týn n. Vlt.. Průvodce statisticko-historický po všech místech na těchto mapách uvedených a rejstřík věcný názvů hor, potoků, řek, rybníků atd. Sešit 26. List 59,",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    14.334301,
-    49.199596,
-    14.732404,
-    49.39739
+    14.332456,
+    49.19797,
+    14.73371,
+    49.399387
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,47 @@
   "georefereces": {
     "cutline": [
       [
-        482,
-        2758
+        473,
+        2767
       ],
       [
-        3468,
-        2744
+        1518,
+        2762
       ],
       [
-        3452,
-        480
+        3478,
+        2753
       ],
       [
-        476,
-        488
+        3476,
+        2181
       ],
       [
-        482,
-        2758
+        3464,
+        468
+      ],
+      [
+        1717,
+        473
+      ],
+      [
+        463,
+        475
+      ],
+      [
+        470,
+        1761
+      ],
+      [
+        473,
+        2767
       ]
     ],
     "created": "2014-12-26T01:14:38.844800+00:00",
     "transformation_method": "affine",
     "mapID": "f403b05a-514f-5d2e-81dd-b8dfcc0c34d8",
     "affine_transformation": null,
-    "changed": "2014-12-26T01:14:38.844800+00:00",
+    "changed": "2024-02-26T08:34:38.449302+00:00",
     "gcps": [
       {
         "location": [
@@ -73,6 +89,16 @@
         "pixel": [
           3402,
           2457
+        ]
+      },
+      {
+        "location": [
+          14.705161426968937,
+          49.35640445039226
+        ],
+        "pixel": [
+          3258,
+          972
         ]
       },
       {
@@ -103,6 +129,16 @@
         "pixel": [
           1996,
           1742
+        ]
+      },
+      {
+        "location": [
+          14.468594789522182,
+          49.29577718575081
+        ],
+        "pixel": [
+          1493,
+          1650
         ]
       }
     ]
