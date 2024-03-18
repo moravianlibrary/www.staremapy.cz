@@ -9,16 +9,16 @@
   "external_id": "24570",
   "title": "Podrobné mapy zemí Koruny české v měřítku 1:75.000 a mapa vzdáleností všech míst při silnici ležících - Kutná Hora - Čáslav - Golčův Jeníkov. Průvodce statisticko-historický po všech místech na těchto mapách uvedených a rejstřík věcný názvů hor, potoků, řek, rybníků atd. Sešit 21. List 82,",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    15.133202,
-    49.800423,
-    15.533947,
-    49.998867
+    15.130541,
+    49.798634,
+    15.534598,
+    49.999523
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,51 @@
   "georefereces": {
     "cutline": [
       [
-        645,
-        5332
+        602,
+        5364
       ],
       [
-        6597,
-        5332
+        3313,
+        5371
       ],
       [
-        6597,
-        772
+        6619,
+        5367
       ],
       [
-        645,
-        772
+        6612,
+        4601
       ],
       [
-        645,
-        5332
+        6594,
+        2666
+      ],
+      [
+        6580,
+        747
+      ],
+      [
+        4110,
+        745
+      ],
+      [
+        617,
+        749
+      ],
+      [
+        613,
+        2824
+      ],
+      [
+        602,
+        5364
       ]
     ],
     "created": "2014-12-07T14:08:27.512270+00:00",
     "transformation_method": "affine",
     "mapID": "e8c3bd90-5353-579b-954f-5841a7b50c41",
     "affine_transformation": null,
-    "changed": "2021-01-14T10:32:14.633887+00:00",
+    "changed": "2024-03-12T11:28:57.326731+00:00",
     "gcps": [
       {
         "location": [
@@ -117,6 +137,26 @@
       },
       {
         "location": [
+          15.267657872640484,
+          49.94836287664887
+        ],
+        "pixel": [
+          2636,
+          1930
+        ]
+      },
+      {
+        "location": [
+          15.407075557144866,
+          49.96877802167029
+        ],
+        "pixel": [
+          4713,
+          1469
+        ]
+      },
+      {
+        "location": [
           15.348382732649641,
           49.90617854531857
         ],
@@ -133,6 +173,16 @@
         "pixel": [
           798,
           3085
+        ]
+      },
+      {
+        "location": [
+          15.353572591510819,
+          49.81387969466479
+        ],
+        "pixel": [
+          3924,
+          5027
         ]
       }
     ]

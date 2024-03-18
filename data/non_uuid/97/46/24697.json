@@ -9,16 +9,16 @@
   "external_id": "24697",
   "title": "Podrobné mapy zemí Koruny české v měřítku 1:75.000 a mapa vzdáleností všech míst při silnici ležících - Kaplice - Rožmberk. Průvodce statisticko-historický po všech místech na těchto mapách uvedených a rejstřík věcný názvů hor, potoků, řek, rybníků atd. Sešit 36. List 62,",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    14.333248,
-    48.599224,
-    14.735016,
-    48.799644
+    14.333371,
+    48.599327,
+    14.734883,
+    48.7996
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,47 @@
   "georefereces": {
     "cutline": [
       [
-        514,
-        5397
+        510,
+        5398
       ],
       [
-        6679,
-        5389
+        2943,
+        5399
       ],
       [
-        6638,
-        742
+        6684,
+        5388
+      ],
+      [
+        6655,
+        3322
+      ],
+      [
+        6639,
+        737
+      ],
+      [
+        3513,
+        737
       ],
       [
         490,
         744
       ],
       [
-        514,
-        5397
+        505,
+        3671
+      ],
+      [
+        510,
+        5398
       ]
     ],
     "created": "2014-12-12T20:18:32.365700+00:00",
     "transformation_method": "affine",
     "mapID": "500bd6c7-e1ac-548c-ac76-5e9182a5a144",
     "affine_transformation": null,
-    "changed": "2023-03-18T18:47:40.667458+00:00",
+    "changed": "2024-03-15T12:52:26.516980+00:00",
     "gcps": [
       {
         "location": [
@@ -117,6 +133,16 @@
       },
       {
         "location": [
+          14.627462970151424,
+          48.729512222935085
+        ],
+        "pixel": [
+          5019,
+          2359
+        ]
+      },
+      {
+        "location": [
           14.469417463,
           48.664904844
         ],
@@ -143,6 +169,16 @@
         "pixel": [
           764,
           1154
+        ]
+      },
+      {
+        "location": [
+          14.648414580409153,
+          48.669921947610476
+        ],
+        "pixel": [
+          5362,
+          3756
         ]
       }
     ]

@@ -9,16 +9,16 @@
   "external_id": "24567",
   "title": "Podrobné mapy zemí Koruny české v měřítku 1:75.000 a mapa vzdáleností všech míst při silnici ležících - Turnov - Sobotka - Jičín - Paka. Průvodce statisticko-historický po všech místech na těchto mapách uvedených a rejstřík věcný názvů hor, potoků, řek, rybníků atd. Sešit 15. List 79,",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    15.13312,
-    50.399338,
-    15.533862,
-    50.598522
+    15.132496,
+    50.398663,
+    15.534409,
+    50.59894
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,51 @@
   "georefereces": {
     "cutline": [
       [
-        620,
-        5353
+        611,
+        5362
       ],
       [
-        6548,
-        5357
+        1948,
+        5366
       ],
       [
-        6564,
-        717
+        5232,
+        5371
       ],
       [
-        644,
-        717
+        6561,
+        5370
       ],
       [
-        620,
-        5353
+        6566,
+        3675
+      ],
+      [
+        6572,
+        709
+      ],
+      [
+        3688,
+        708
+      ],
+      [
+        637,
+        708
+      ],
+      [
+        625,
+        3873
+      ],
+      [
+        611,
+        5362
       ]
     ],
     "created": "2014-12-16T18:50:23.818950+00:00",
     "transformation_method": "affine",
     "mapID": "9d34788c-3bf7-58a4-9cf5-767893964acc",
     "affine_transformation": null,
-    "changed": "2014-12-16T18:50:23.818950+00:00",
+    "changed": "2024-03-13T15:29:41.672025+00:00",
     "gcps": [
       {
         "location": [
@@ -113,6 +133,16 @@
         "pixel": [
           1035,
           995
+        ]
+      },
+      {
+        "location": [
+          15.353073716083971,
+          50.43636373600498
+        ],
+        "pixel": [
+          3894,
+          4491
         ]
       }
     ]

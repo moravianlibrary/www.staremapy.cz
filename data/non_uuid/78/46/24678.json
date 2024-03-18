@@ -9,16 +9,16 @@
   "external_id": "24678",
   "title": "Podrobné mapy zemí Koruny české v měřítku 1:75.000 a mapa vzdáleností všech míst při silnici ležících - Písek - Protivín. Průvodce statisticko-historický po všech místech na těchto mapách uvedených a rejstřík věcný názvů hor, potoků, řek, rybníků atd. Sešit 25. List 45,",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    13.932412,
-    49.198357,
-    14.330897,
-    49.39931
+    13.933085,
+    49.198986,
+    14.332457,
+    49.39865
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,107 @@
   "georefereces": {
     "cutline": [
       [
-        448,
-        471
+        444,
+        491
       ],
       [
-        6592,
-        503
+        1733,
+        486
+      ],
+      [
+        1761,
+        483
+      ],
+      [
+        3538,
+        482
+      ],
+      [
+        3574,
+        480
+      ],
+      [
+        4490,
+        481
+      ],
+      [
+        5344,
+        486
+      ],
+      [
+        5371,
+        481
+      ],
+      [
+        6612,
+        480
+      ],
+      [
+        6619,
+        2065
       ],
       [
         6624,
-        5175
+        2831
       ],
       [
-        448,
-        5191
+        6625,
+        2856
       ],
       [
-        448,
-        471
+        6647,
+        5160
+      ],
+      [
+        5379,
+        5161
+      ],
+      [
+        5356,
+        5165
+      ],
+      [
+        3587,
+        5163
+      ],
+      [
+        3556,
+        5163
+      ],
+      [
+        1784,
+        5166
+      ],
+      [
+        1754,
+        5170
+      ],
+      [
+        458,
+        5166
+      ],
+      [
+        456,
+        2869
+      ],
+      [
+        456,
+        2844
+      ],
+      [
+        447,
+        1013
+      ],
+      [
+        444,
+        491
       ]
     ],
     "created": "2014-12-25T13:03:41.197860+00:00",
     "transformation_method": "affine",
     "mapID": "e9093bb8-af2c-5712-8cfa-011a5438435d",
     "affine_transformation": null,
-    "changed": "2014-12-25T13:03:41.197860+00:00",
+    "changed": "2024-03-12T09:36:04.611663+00:00",
     "gcps": [
       {
         "location": [
@@ -133,6 +209,16 @@
         "pixel": [
           4739,
           4607
+        ]
+      },
+      {
+        "location": [
+          14.187103039685887,
+          49.27071336637226
+        ],
+        "pixel": [
+          4379,
+          3492
         ]
       },
       {

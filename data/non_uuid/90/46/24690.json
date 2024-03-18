@@ -9,16 +9,16 @@
   "external_id": "24690",
   "title": "Podrobné mapy zemí Koruny české v měřítku 1:75.000 a mapa vzdáleností všech míst při silnici ležících - České Budějovice - Trhové Sviny. Průvodce statisticko-historický po všech místech na těchto mapách uvedených a rejstřík věcný názvů hor, potoků, řek, rybníků atd. Sešit 33. List 61,",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    14.335462,
-    48.800102,
-    14.7340355,
-    48.998566
+    14.333321,
+    48.799088,
+    14.735051,
+    48.99958
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,63 @@
   "georefereces": {
     "cutline": [
       [
-        1147,
-        5591
+        1113,
+        5615
       ],
       [
-        7259,
-        5583
+        3796,
+        5614
       ],
       [
-        7211,
-        975
+        7275,
+        5611
       ],
       [
-        1123,
-        967
+        7273,
+        5188
       ],
       [
-        1147,
-        5591
+        7246,
+        3134
+      ],
+      [
+        7231,
+        944
+      ],
+      [
+        6864,
+        949
+      ],
+      [
+        6373,
+        948
+      ],
+      [
+        4028,
+        946
+      ],
+      [
+        1090,
+        953
+      ],
+      [
+        1095,
+        1711
+      ],
+      [
+        1110,
+        4393
+      ],
+      [
+        1113,
+        5615
       ]
     ],
     "created": "2014-12-12T20:15:05.141890+00:00",
     "transformation_method": "affine",
     "mapID": "c9d8a2e7-fd6b-5612-94aa-131ba62f53d5",
     "affine_transformation": null,
-    "changed": "2014-12-12T20:15:05.141890+00:00",
+    "changed": "2024-03-15T10:37:11.502013+00:00",
     "gcps": [
       {
         "location": [
@@ -283,6 +315,16 @@
         "pixel": [
           6719,
           2300
+        ]
+      },
+      {
+        "location": [
+          14.448084428983124,
+          48.900221948863845
+        ],
+        "pixel": [
+          2861,
+          3263
         ]
       }
     ]

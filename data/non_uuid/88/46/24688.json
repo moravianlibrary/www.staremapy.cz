@@ -9,16 +9,16 @@
   "external_id": "24688",
   "title": "Podrobné mapy zemí Koruny české v měřítku 1:75.000 a mapa vzdáleností všech míst při silnici ležících - Bechyně - Soběslav - Týn n. Vlt.. Průvodce statisticko-historický po všech místech na těchto mapách uvedených a rejstřík věcný názvů hor, potoků, řek, rybníků atd. Sešit 26. List 59,",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    14.333478,
-    49.19951,
-    14.733016,
-    49.39853
+    14.333212,
+    49.199146,
+    14.7333355,
+    49.398483
   ],
   "reviewed": null,
   "publisher": null,
@@ -33,16 +33,84 @@
         530
       ],
       [
+        1763,
+        529
+      ],
+      [
+        1793,
+        529
+      ],
+      [
+        3007,
+        528
+      ],
+      [
+        3593,
+        528
+      ],
+      [
+        3621,
+        527
+      ],
+      [
+        5409,
+        530
+      ],
+      [
+        5451,
+        528
+      ],
+      [
         6672,
-        524
+        525
+      ],
+      [
+        6684,
+        2845
+      ],
+      [
+        6685,
+        2872
       ],
       [
         6716,
         5197
       ],
       [
+        5450,
+        5202
+      ],
+      [
+        5418,
+        5201
+      ],
+      [
+        3630,
+        5204
+      ],
+      [
+        3600,
+        5201
+      ],
+      [
+        1806,
+        5204
+      ],
+      [
+        1783,
+        5206
+      ],
+      [
         531,
         5207
+      ],
+      [
+        527,
+        2888
+      ],
+      [
+        525,
+        2856
       ],
       [
         514,
@@ -53,7 +121,7 @@
     "transformation_method": "affine",
     "mapID": "ce8417e0-f05e-50d4-a972-bdc1a2deee01",
     "affine_transformation": null,
-    "changed": "2014-12-06T00:11:18.930320+00:00",
+    "changed": "2024-03-12T08:15:28.418449+00:00",
     "gcps": [
       {
         "location": [
@@ -107,6 +175,26 @@
       },
       {
         "location": [
+          14.57933988444268,
+          49.362407978369276
+        ],
+        "pixel": [
+          4329,
+          1377
+        ]
+      },
+      {
+        "location": [
+          14.539813522809672,
+          49.28939912578318
+        ],
+        "pixel": [
+          3736,
+          3091
+        ]
+      },
+      {
+        "location": [
           14.421165904,
           49.223271629
         ],
@@ -133,6 +221,36 @@
         "pixel": [
           3011,
           2385
+        ]
+      },
+      {
+        "location": [
+          14.599528262674134,
+          49.216792090002855
+        ],
+        "pixel": [
+          4649,
+          4767
+        ]
+      },
+      {
+        "location": [
+          14.483716690028935,
+          49.3949301573725
+        ],
+        "pixel": [
+          2843,
+          600
+        ]
+      },
+      {
+        "location": [
+          14.729213258696745,
+          49.30010621499355
+        ],
+        "pixel": [
+          6624,
+          2827
         ]
       }
     ]

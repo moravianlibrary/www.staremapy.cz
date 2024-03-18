@@ -9,16 +9,16 @@
   "external_id": "24740",
   "title": "Podrobné mapy zemí Koruny české v měřítku 1:75.000 a mapa vzdáleností všech míst při silnici ležících - Přeštice - Švihov - Klatovy. Průvodce statisticko-historický po všech místech na těchto mapách uvedených a rejstřík věcný názvů hor, potoků, řek, rybníků atd. Sešit 41. List 22,",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    13.134464,
-    49.39935,
-    13.533221,
-    49.599854
+    13.132753,
+    49.398457,
+    13.535723,
+    49.599464
   ],
   "reviewed": null,
   "publisher": null,
@@ -33,16 +33,24 @@
         2781
       ],
       [
-        3529,
-        2761
+        3527,
+        2759
       ],
       [
         3513,
         443
       ],
       [
-        497,
-        471
+        2026,
+        453
+      ],
+      [
+        502,
+        469
+      ],
+      [
+        512,
+        1505
       ],
       [
         523,
@@ -53,7 +61,7 @@
     "transformation_method": "affine",
     "mapID": "9f664793-b1d9-5788-8e16-a153c1115284",
     "affine_transformation": null,
-    "changed": "2014-12-02T20:38:17.365560+00:00",
+    "changed": "2024-03-12T15:50:26.326171+00:00",
     "gcps": [
       {
         "location": [
@@ -73,6 +81,36 @@
         "pixel": [
           1759,
           1575
+        ]
+      },
+      {
+        "location": [
+          13.511801423226908,
+          49.4123991882133
+        ],
+        "pixel": [
+          3364,
+          2600
+        ]
+      },
+      {
+        "location": [
+          13.51084305087419,
+          49.556070386845136
+        ],
+        "pixel": [
+          3338,
+          932
+        ]
+      },
+      {
+        "location": [
+          13.164318545488479,
+          49.428362504642394
+        ],
+        "pixel": [
+          757,
+          2447
         ]
       },
       {
@@ -103,6 +141,16 @@
         "pixel": [
           1679,
           1974
+        ]
+      },
+      {
+        "location": [
+          13.197996815572845,
+          49.56049140229081
+        ],
+        "pixel": [
+          992,
+          913
         ]
       }
     ]
