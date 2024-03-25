@@ -9,16 +9,16 @@
   "external_id": "24569",
   "title": "Podrobné mapy zemí Koruny české v měřítku 1:75.000 a mapa vzdáleností všech míst při silnici ležících - Kolín - Chlumec N. C - Týnec N. Lab.. Průvodce statisticko-historický po všech místech na těchto mapách uvedených a rejstřík věcný názvů hor, potoků, řek, rybníků atd. Sešit 20. List 81,",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    15.132713,
-    49.99805,
-    15.533299,
-    50.199696
+    15.132649,
+    49.998074,
+    15.533318,
+    50.199677
   ],
   "reviewed": null,
   "publisher": null,
@@ -49,6 +49,10 @@
         5396
       ],
       [
+        3995,
+        5396
+      ],
+      [
         2725,
         5394
       ],
@@ -73,7 +77,7 @@
     "transformation_method": "affine",
     "mapID": "b160c3eb-1e9b-55f3-a0f3-e08053c027e0",
     "affine_transformation": null,
-    "changed": "2024-01-15T15:42:29.273668+00:00",
+    "changed": "2024-03-22T11:34:17.883731+00:00",
     "gcps": [
       {
         "location": [
@@ -173,6 +177,16 @@
         "pixel": [
           4508,
           2301
+        ]
+      },
+      {
+        "location": [
+          15.181014683772455,
+          50.12532179731002
+        ],
+        "pixel": [
+          1366,
+          2447
         ]
       },
       {

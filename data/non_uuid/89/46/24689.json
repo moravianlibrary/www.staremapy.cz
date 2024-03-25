@@ -9,16 +9,16 @@
   "external_id": "24689",
   "title": "Podrobné mapy zemí Koruny české v měřítku 1:75.000 a mapa vzdáleností všech míst při silnici ležících - Veselí - Lomnice - Hluboká. Průvodce statisticko-historický po všech místech na těchto mapách uvedených a rejstřík věcný názvů hor, potoků, řek, rybníků atd. Sešit 27. List 60,",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    14.33338,
-    48.999462,
-    14.73583,
-    49.198925
+    14.3324795,
+    48.998825,
+    14.736266,
+    49.19948
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,51 @@
   "georefereces": {
     "cutline": [
       [
-        609,
-        730
+        595,
+        718
       ],
       [
-        661,
+        615,
+        3008
+      ],
+      [
+        634,
+        5380
+      ],
+      [
+        2904,
+        5375
+      ],
+      [
+        6768,
         5370
       ],
       [
-        6761,
-        5354
+        6728,
+        2339
       ],
       [
-        6693,
-        730
+        6709,
+        713
       ],
       [
-        609,
-        730
+        3643,
+        714
+      ],
+      [
+        1324,
+        715
+      ],
+      [
+        595,
+        718
       ]
     ],
     "created": "2014-12-06T22:59:25.529390+00:00",
     "transformation_method": "affine",
     "mapID": "6c276d15-05ef-564f-be31-e828a1dc4579",
     "affine_transformation": null,
-    "changed": "2023-10-19T09:47:36.024434+00:00",
+    "changed": "2024-03-22T13:30:29.772561+00:00",
     "gcps": [
       {
         "location": [
@@ -203,6 +223,16 @@
         "pixel": [
           1108,
           1607
+        ]
+      },
+      {
+        "location": [
+          14.52159508822296,
+          49.06759110021659
+        ],
+        "pixel": [
+          3490,
+          3782
         ]
       }
     ]

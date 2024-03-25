@@ -9,16 +9,16 @@
   "external_id": "24659",
   "title": "Podrobné mapy zemí Koruny české v měřítku 1:75.000 a mapa vzdáleností všech míst při silnici ležících - Železná Ruda - Dolní Rejštejn. Průvodce statisticko-historický po všech místech na těchto mapách uvedených a rejstřík věcný názvů hor, potoků, řek, rybníků atd. Sešit 40. List 24,",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    13.134545,
-    48.998096,
-    13.537555,
-    49.199665
+    13.133143,
+    48.999126,
+    13.533558,
+    49.198833
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,99 @@
   "georefereces": {
     "cutline": [
       [
-        521,
-        506
+        507,
+        524
       ],
       [
-        6745,
-        570
+        1753,
+        529
       ],
       [
-        6713,
-        5226
+        1795,
+        529
       ],
       [
-        553,
+        3561,
+        534
+      ],
+      [
+        3593,
+        533
+      ],
+      [
+        5369,
+        547
+      ],
+      [
+        5402,
+        540
+      ],
+      [
+        6691,
+        549
+      ],
+      [
+        6690,
+        2835
+      ],
+      [
+        6687,
+        2858
+      ],
+      [
+        6693,
+        4217
+      ],
+      [
+        6696,
+        5200
+      ],
+      [
+        5411,
+        5191
+      ],
+      [
+        5388,
         5194
       ],
       [
-        521,
-        506
+        3609,
+        5196
+      ],
+      [
+        3580,
+        5191
+      ],
+      [
+        1811,
+        5189
+      ],
+      [
+        1782,
+        5186
+      ],
+      [
+        510,
+        5180
+      ],
+      [
+        506,
+        2861
+      ],
+      [
+        510,
+        2833
+      ],
+      [
+        507,
+        524
       ]
     ],
     "created": "2014-12-07T07:46:43.368340+00:00",
     "transformation_method": "affine",
     "mapID": "78eae823-c30b-5c0b-aaa6-904923a8596b",
     "affine_transformation": null,
-    "changed": "2024-02-05T18:45:07.490730+00:00",
+    "changed": "2024-03-22T06:20:23.995209+00:00",
     "gcps": [
       {
         "location": [
@@ -83,6 +151,16 @@
         "pixel": [
           2905,
           2435
+        ]
+      },
+      {
+        "location": [
+          13.2332622469437,
+          49.014612430986745
+        ],
+        "pixel": [
+          2052,
+          4829
         ]
       },
       {
@@ -123,6 +201,26 @@
         "pixel": [
           1917,
           2647
+        ]
+      },
+      {
+        "location": [
+          13.493602250260942,
+          49.02402412830989
+        ],
+        "pixel": [
+          6092,
+          4622
+        ]
+      },
+      {
+        "location": [
+          13.386763157356025,
+          49.134973947221226
+        ],
+        "pixel": [
+          4438,
+          2019
         ]
       }
     ]

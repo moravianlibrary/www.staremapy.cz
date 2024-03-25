@@ -9,16 +9,16 @@
   "external_id": "6258",
   "title": "III. vojenské mapování 4158/4",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    17.082775,
-    49.496998,
-    17.331783,
-    49.62474
+    17.082012,
+    49.498608,
+    17.3317,
+    49.62386
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,47 @@
   "georefereces": {
     "cutline": [
       [
-        80,
-        93
+        73,
+        154
       ],
       [
-        11376,
-        125
+        5745,
+        161
       ],
       [
-        11472,
-        9021
+        11438,
+        156
       ],
       [
-        144,
-        8957
+        11456,
+        4746
       ],
       [
-        80,
-        93
+        11469,
+        8907
+      ],
+      [
+        5139,
+        8903
+      ],
+      [
+        72,
+        8897
+      ],
+      [
+        70,
+        5415
+      ],
+      [
+        73,
+        154
       ]
     ],
     "created": "2014-12-20T18:05:25.342290+00:00",
     "transformation_method": "affine",
     "mapID": "9050f649-9595-5086-a496-3749f116bcd0",
     "affine_transformation": null,
-    "changed": "2014-12-20T18:05:25.342290+00:00",
+    "changed": "2024-03-21T11:43:44.665975+00:00",
     "gcps": [
       {
         "location": [
@@ -203,6 +219,16 @@
         "pixel": [
           5411,
           818
+        ]
+      },
+      {
+        "location": [
+          17.211853326784333,
+          49.55707889638123
+        ],
+        "pixel": [
+          5996,
+          4807
         ]
       }
     ]

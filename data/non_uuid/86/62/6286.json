@@ -9,16 +9,16 @@
   "external_id": "6286",
   "title": "III. vojenské mapování 4163/3",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    19.332096,
-    49.498802,
-    19.581438,
-    49.62405
+    19.331514,
+    49.49862,
+    19.581928,
+    49.6243
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,55 @@
   "georefereces": {
     "cutline": [
       [
-        75,
-        8906
+        49,
+        8915
       ],
       [
-        11411,
-        8914
+        688,
+        8921
       ],
       [
-        11411,
+        4918,
+        8929
+      ],
+      [
+        11442,
+        8941
+      ],
+      [
+        11441,
+        4877
+      ],
+      [
+        11433,
+        201
+      ],
+      [
+        6030,
+        217
+      ],
+      [
+        2352,
         218
       ],
       [
-        91,
-        246
+        67,
+        225
       ],
       [
-        75,
-        8906
+        54,
+        7154
+      ],
+      [
+        49,
+        8915
       ]
     ],
     "created": "2014-12-06T13:32:51.584550+00:00",
     "transformation_method": "affine",
     "mapID": "4fcd29a9-701d-55ef-8c39-6ae4cf0db3d1",
     "affine_transformation": null,
-    "changed": "2024-01-07T09:05:39.949678+00:00",
+    "changed": "2024-03-21T10:45:08.043172+00:00",
     "gcps": [
       {
         "location": [
