@@ -9,16 +9,16 @@
   "external_id": "6541",
   "title": "III. vojenské mapování 4662/2",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    19.082012,
-    48.373386,
-    19.331078,
-    48.49865
+    19.081997,
+    48.373318,
+    19.331026,
+    48.498535
   ],
   "reviewed": null,
   "publisher": null,
@@ -33,20 +33,24 @@
         96
       ],
       [
-        6004,
-        119
+        6007,
+        126
       ],
       [
-        11738,
-        159
+        11737,
+        160
       ],
       [
         11733,
         3164
       ],
       [
-        11710,
-        8876
+        11719,
+        5706
+      ],
+      [
+        11708,
+        8875
       ],
       [
         6401,
@@ -73,7 +77,7 @@
     "transformation_method": "affine",
     "mapID": "49622ec0-87c5-52c6-8892-c3415c249bd8",
     "affine_transformation": null,
-    "changed": "2024-03-21T11:40:19.338708+00:00",
+    "changed": "2024-03-28T07:22:57.977168+00:00",
     "gcps": [
       {
         "location": [
@@ -213,6 +217,16 @@
         "pixel": [
           417,
           4758
+        ]
+      },
+      {
+        "location": [
+          19.15654098006871,
+          48.42554032729353
+        ],
+        "pixel": [
+          3566,
+          5171
         ]
       }
     ]

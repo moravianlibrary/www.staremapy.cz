@@ -9,16 +9,16 @@
   "external_id": "7427",
   "title": "II. vojenské mapování 15",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    17.495466,
-    49.012783,
-    18.250137,
-    49.34905
+    17.49563,
+    49.012543,
+    18.249693,
+    49.349075
   ],
   "reviewed": null,
   "publisher": null,
@@ -73,7 +73,7 @@
     "transformation_method": "affine",
     "mapID": "cbf193ce-683f-5067-82dd-d7f2625f8c5d",
     "affine_transformation": null,
-    "changed": "2024-02-19T15:08:25.450156+00:00",
+    "changed": "2024-03-26T13:03:10.551035+00:00",
     "gcps": [
       {
         "location": [
@@ -867,16 +867,6 @@
       },
       {
         "location": [
-          17.876681396,
-          49.281067664
-        ],
-        "pixel": [
-          5624,
-          2214
-        ]
-      },
-      {
-        "location": [
           17.707079956,
           49.292488618
         ],
@@ -1003,6 +993,26 @@
         "pixel": [
           7168,
           2002
+        ]
+      },
+      {
+        "location": [
+          18.1156813505944,
+          49.20619305177922
+        ],
+        "pixel": [
+          8572,
+          3441
+        ]
+      },
+      {
+        "location": [
+          18.11658109110886,
+          49.22519030983682
+        ],
+        "pixel": [
+          8577,
+          3109
         ]
       },
       {
@@ -1617,26 +1627,6 @@
       },
       {
         "location": [
-          18.112029144,
-          49.201495556
-        ],
-        "pixel": [
-          8452,
-          3574
-        ]
-      },
-      {
-        "location": [
-          18.117178985,
-          49.225156432
-        ],
-        "pixel": [
-          8564,
-          3216
-        ]
-      },
-      {
-        "location": [
           18.07786853,
           49.260906585
         ],
@@ -1903,6 +1893,16 @@
         "pixel": [
           6319,
           1940
+        ]
+      },
+      {
+        "location": [
+          17.86558406880841,
+          49.27894361498505
+        ],
+        "pixel": [
+          5586,
+          2201
         ]
       }
     ]

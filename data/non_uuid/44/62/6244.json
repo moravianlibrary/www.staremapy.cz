@@ -9,16 +9,16 @@
   "external_id": "6244",
   "title": "III. vojenské mapování 4157/1",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    16.333363,
-    49.62397,
-    16.583323,
-    49.749096
+    16.33309,
+    49.62375,
+    16.583311,
+    49.7491
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,32 +29,70 @@
   "georefereces": {
     "cutline": [
       [
-        477,
-        9230
+        465,
+        9234
+      ],
+      [
+        1469,
+        9248
+      ],
+      [
+        5232,
+        9241
       ],
       [
         11843,
         9224
       ],
       [
+        11838,
+        6739
+      ],
+      [
         11822,
         501
       ],
       [
-        521,
-        498
+        10049,
+        501
       ],
       [
-        477,
-        9230
+        6388,
+        494
+      ],
+      [
+        508,
+        493
+      ],
+      [
+        506,
+        2322
+      ],
+      [
+        488,
+        5966
+      ],
+      [
+        465,
+        9234
       ]
     ],
     "created": "2014-12-13T14:58:33.990560+00:00",
     "transformation_method": "affine",
     "mapID": "6d9545b3-63e7-5561-8e2e-9fa9628bb62f",
     "affine_transformation": null,
-    "changed": "2024-03-18T04:49:08.707188+00:00",
+    "changed": "2024-03-28T08:39:48.099253+00:00",
     "gcps": [
+      {
+        "location": [
+          16.47995891848396,
+          49.66612853211737
+        ],
+        "pixel": [
+          7154,
+          6312
+        ]
+      },
       {
         "location": [
           16.577472111,

@@ -9,15 +9,15 @@
   "external_id": "7462",
   "title": "II. vojenské mapování 24",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    12.972839,
-    49.304977,
-    13.744373,
+    12.973143,
+    49.304974,
+    13.743914,
     49.652905
   ],
   "reviewed": null,
@@ -81,7 +81,7 @@
     "transformation_method": "affine",
     "mapID": "8beda2e6-46e3-5f99-934c-d13a22db0a81",
     "affine_transformation": null,
-    "changed": "2024-03-21T11:42:25.745524+00:00",
+    "changed": "2024-03-26T09:12:55.126873+00:00",
     "gcps": [
       {
         "location": [
@@ -341,6 +341,16 @@
         "pixel": [
           9973,
           7192
+        ]
+      },
+      {
+        "location": [
+          13.549035942646748,
+          49.32897527226305
+        ],
+        "pixel": [
+          8207,
+          7462
         ]
       },
       {

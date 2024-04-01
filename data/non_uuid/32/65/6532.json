@@ -9,16 +9,16 @@
   "external_id": "6532",
   "title": "III. vojenské mapování 4660/1",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    17.834135,
-    48.373627,
-    18.083609,
-    48.49937
+    17.833422,
+    48.373642,
+    18.083555,
+    48.499985
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,55 @@
   "georefereces": {
     "cutline": [
       [
-        86,
-        222
+        53,
+        186
       ],
       [
-        11670,
-        222
+        6184,
+        192
       ],
       [
-        11766,
-        8894
+        11726,
+        179
       ],
       [
-        54,
-        8894
+        11736,
+        4114
       ],
       [
-        86,
-        222
+        11750,
+        7098
+      ],
+      [
+        11749,
+        8893
+      ],
+      [
+        6518,
+        8899
+      ],
+      [
+        21,
+        8904
+      ],
+      [
+        32,
+        6690
+      ],
+      [
+        56,
+        1605
+      ],
+      [
+        53,
+        186
       ]
     ],
     "created": "2014-12-26T07:47:41.941810+00:00",
     "transformation_method": "affine",
     "mapID": "6ba07a8f-dcc3-5507-bd3f-e8dd6f1dbf29",
     "affine_transformation": null,
-    "changed": "2022-10-29T11:50:52.613607+00:00",
+    "changed": "2024-03-28T07:11:26.222335+00:00",
     "gcps": [
       {
         "location": [
@@ -127,6 +151,16 @@
       },
       {
         "location": [
+          17.912387932728517,
+          48.4668372960725
+        ],
+        "pixel": [
+          3710,
+          2485
+        ]
+      },
+      {
+        "location": [
           17.993543731,
           48.408581498
         ],
@@ -173,6 +207,16 @@
         "pixel": [
           9455,
           2475
+        ]
+      },
+      {
+        "location": [
+          18.01853420678726,
+          48.42620839571532
+        ],
+        "pixel": [
+          8699,
+          5277
         ]
       }
     ]

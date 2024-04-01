@@ -9,16 +9,16 @@
   "external_id": "24665",
   "title": "Podrobné mapy zemí Koruny české v měřítku 1:75.000 a mapa vzdáleností všech míst při silnici ležících - Strakonice - Horažďovice. Průvodce statisticko-historický po všech místech na těchto mapách uvedených a rejstřík věcný názvů hor, potoků, řek, rybníků atd. Sešit 30. List 33,",
   "collection_id": "fda50bd4-3768-5330-93cc-560c17c6cc5f",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    13.534061,
-    49.197662,
-    13.936053,
-    49.3997
+    13.532726,
+    49.196438,
+    13.935766,
+    49.400177
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,47 @@
   "georefereces": {
     "cutline": [
       [
-        493,
-        2740
+        483,
+        2754
       ],
       [
-        3481,
-        2740
+        1674,
+        2754
       ],
       [
-        3481,
-        472
+        3483,
+        2752
       ],
       [
-        493,
-        472
+        3479,
+        1446
       ],
       [
-        493,
-        2740
+        3475,
+        466
+      ],
+      [
+        2152,
+        464
+      ],
+      [
+        485,
+        462
+      ],
+      [
+        483,
+        1779
+      ],
+      [
+        483,
+        2754
       ]
     ],
     "created": "2014-12-07T23:05:56.293480+00:00",
     "transformation_method": "affine",
     "mapID": "bdf70aa1-8735-5bf0-916e-67794232e32c",
     "affine_transformation": null,
-    "changed": "2014-12-07T23:05:56.293480+00:00",
+    "changed": "2024-03-27T10:31:29.730970+00:00",
     "gcps": [
       {
         "location": [
@@ -73,6 +89,16 @@
         "pixel": [
           1732,
           852
+        ]
+      },
+      {
+        "location": [
+          13.830380118779317,
+          49.27358359060278
+        ],
+        "pixel": [
+          2701,
+          1894
         ]
       },
       {
