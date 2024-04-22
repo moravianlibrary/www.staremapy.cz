@@ -9,16 +9,16 @@
   "external_id": "37886",
   "title": "Pražský hrad",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    14.396844,
-    50.088688,
-    14.406135,
-    50.092545
+    14.396854,
+    50.088696,
+    14.4061165,
+    50.092533
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,31 +29,47 @@
   "georefereces": {
     "cutline": [
       [
-        1497,
-        3677
+        1518,
+        3674
       ],
       [
-        9657,
+        4366,
         3669
       ],
       [
-        9657,
-        501
+        9642,
+        3656
       ],
       [
-        1505,
-        517
+        9643,
+        1692
       ],
       [
-        1497,
-        3677
+        9646,
+        514
+      ],
+      [
+        5283,
+        518
+      ],
+      [
+        1511,
+        526
+      ],
+      [
+        1517,
+        2206
+      ],
+      [
+        1518,
+        3674
       ]
     ],
     "created": "2014-12-05T09:19:02.902540+00:00",
     "transformation_method": "affine",
     "mapID": "a58bc26d-3f72-5698-ae1c-610bdbbcc7d2",
     "affine_transformation": null,
-    "changed": "2014-12-05T09:19:02.902540+00:00",
+    "changed": "2024-04-15T11:52:34.587399+00:00",
     "gcps": [
       {
         "location": [
@@ -133,6 +149,16 @@
         "pixel": [
           7719,
           3059
+        ]
+      },
+      {
+        "location": [
+          14.40235754557318,
+          50.091031156566544
+        ],
+        "pixel": [
+          6547,
+          1773
         ]
       }
     ]

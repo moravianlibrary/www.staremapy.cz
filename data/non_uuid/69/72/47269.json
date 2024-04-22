@@ -9,16 +9,16 @@
   "external_id": "47269",
   "title": "Státní mapa 1:5000 odvozená",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    12.721412,
-    50.38873,
-    12.760089,
-    50.41036
+    12.721325,
+    50.38882,
+    12.760152,
+    50.410263
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,35 +29,51 @@
   "georefereces": {
     "cutline": [
       [
-        1184,
-        843
+        1145,
+        833
       ],
       [
-        12912,
-        859
+        1856,
+        824
       ],
       [
-        12912,
-        10267
+        7828,
+        847
       ],
       [
-        1200,
-        10267
+        12940,
+        856
       ],
       [
-        1200,
-        10251
+        12938,
+        6963
       ],
       [
-        1184,
-        843
+        12932,
+        10315
+      ],
+      [
+        5279,
+        10312
+      ],
+      [
+        1147,
+        10305
+      ],
+      [
+        1147,
+        9767
+      ],
+      [
+        1145,
+        833
       ]
     ],
     "created": "2015-01-21T18:36:37.829180+00:00",
     "transformation_method": "affine",
     "mapID": "cf765006-d956-5e27-80a9-46aa4c4268ce",
     "affine_transformation": null,
-    "changed": "2015-01-21T18:36:37.829180+00:00",
+    "changed": "2024-04-17T12:27:14.570844+00:00",
     "gcps": [
       {
         "location": [
@@ -77,6 +93,16 @@
         "pixel": [
           10748,
           7806
+        ]
+      },
+      {
+        "location": [
+          12.756718948212498,
+          50.397232859542385
+        ],
+        "pixel": [
+          12199,
+          7660
         ]
       },
       {

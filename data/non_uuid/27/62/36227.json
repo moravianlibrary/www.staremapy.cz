@@ -9,16 +9,16 @@
   "external_id": "36227",
   "title": "Letecká mapa Evropy",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    13.952524,
-    43.98457,
-    18.36167,
-    46.33588
+    13.952215,
+    43.984566,
+    18.36184,
+    46.335876
   ],
   "reviewed": null,
   "publisher": null,
@@ -101,7 +101,7 @@
     "transformation_method": "affine",
     "mapID": "41382cf7-66fb-593d-82f3-68fe5c76dbe8",
     "affine_transformation": null,
-    "changed": "2015-01-03T15:45:29.753010+00:00",
+    "changed": "2024-04-15T08:06:12.357670+00:00",
     "gcps": [
       {
         "location": [
@@ -271,6 +271,16 @@
         "pixel": [
           11790,
           8180
+        ]
+      },
+      {
+        "location": [
+          15.546970752295355,
+          45.494205763324686
+        ],
+        "pixel": [
+          7466,
+          5466
         ]
       },
       {

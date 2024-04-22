@@ -15,10 +15,10 @@
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    9.770193,
-    42.672802,
-    12.416096,
-    44.486534
+    9.815049,
+    42.676937,
+    12.410157,
+    44.484276
   ],
   "reviewed": null,
   "publisher": "von Gesellschaft Geographen",
@@ -161,7 +161,7 @@
     "transformation_method": "affine",
     "mapID": "63fbc17d-9d7b-5d77-b3a5-a87d5fff2a76",
     "affine_transformation": null,
-    "changed": "2015-02-01T21:16:23.577560+00:00",
+    "changed": "2024-04-18T12:27:01.782994+00:00",
     "gcps": [
       {
         "location": [
@@ -235,6 +235,16 @@
       },
       {
         "location": [
+          11.423883314820905,
+          42.79397688496198
+        ],
+        "pixel": [
+          6865,
+          8146
+        ]
+      },
+      {
+        "location": [
           11.258239746,
           43.771094921
         ],
@@ -281,6 +291,16 @@
         "pixel": [
           6559,
           3066
+        ]
+      },
+      {
+        "location": [
+          11.950649531163613,
+          43.020880843754156
+        ],
+        "pixel": [
+          8634,
+          7105
         ]
       }
     ]

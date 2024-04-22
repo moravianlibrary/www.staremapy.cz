@@ -9,16 +9,16 @@
   "external_id": "29798",
   "title": "Nejnovější plán župního města Č. Budějovic",
   "collection_id": "ce112fe9-4942-5c37-8f3c-3a397ab0c99b",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    14.453191,
-    48.955795,
-    14.50884,
-    49.00166
+    14.453185,
+    48.955833,
+    14.508677,
+    49.001583
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,39 +29,55 @@
   "georefereces": {
     "cutline": [
       [
-        765,
-        900
+        766,
+        912
       ],
       [
-        7389,
-        908
+        2595,
+        919
       ],
       [
-        7365,
-        2968
+        7396,
+        923
       ],
       [
-        10221,
-        2980
+        7382,
+        2986
       ],
       [
-        10269,
-        12852
+        10227,
+        2997
       ],
       [
-        765,
-        12788
+        10249,
+        8018
       ],
       [
-        765,
-        900
+        10241,
+        12836
+      ],
+      [
+        5055,
+        12819
+      ],
+      [
+        773,
+        12809
+      ],
+      [
+        766,
+        8466
+      ],
+      [
+        766,
+        912
       ]
     ],
     "created": "2014-12-19T14:59:59.226930+00:00",
     "transformation_method": "affine",
     "mapID": "ad9ded60-1d77-59a6-9230-338ad5d36152",
     "affine_transformation": null,
-    "changed": "2024-03-28T08:08:01.203807+00:00",
+    "changed": "2024-04-15T07:59:12.179319+00:00",
     "gcps": [
       {
         "location": [
@@ -331,6 +347,26 @@
         "pixel": [
           3560,
           9581
+        ]
+      },
+      {
+        "location": [
+          14.498587890298916,
+          48.98306069350525
+        ],
+        "pixel": [
+          8551,
+          5725
+        ]
+      },
+      {
+        "location": [
+          14.457974347642025,
+          48.9784947975601
+        ],
+        "pixel": [
+          1562,
+          6957
         ]
       }
     ]
