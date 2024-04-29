@@ -9,16 +9,16 @@
   "external_id": "60408",
   "title": "mapa z atlasu \"Atlas Silesiae id est Dvcatvs Silesiae Generaliter Quatuor Mappis nec non specialiter XVI Mappis tot Principatvs repraesentatibvs geographice exhibitvs Addita Praefatione qua de Historia huius Atlantis agitvr\"",
   "collection_id": "c96b8290-8633-5c89-8aed-95da5c97814e",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    17.072422,
-    50.096714,
-    19.308336,
-    51.149883
+    17.06822,
+    50.092167,
+    19.52017,
+    51.149784
   ],
   "reviewed": null,
   "publisher": "Auctoritate publica in lucem emissus ab Homannianis Heredibus",
@@ -29,60 +29,76 @@
   "georefereces": {
     "cutline": [
       [
-        1250,
-        6066
+        1231,
+        6073
       ],
       [
-        1226,
-        13458
+        1227,
+        8768
+      ],
+      [
+        1228,
+        13505
+      ],
+      [
+        5184,
+        13523
+      ],
+      [
+        7753,
+        13534
+      ],
+      [
+        9552,
+        13537
+      ],
+      [
+        10079,
+        13533
+      ],
+      [
+        10514,
+        13559
+      ],
+      [
+        10746,
+        13529
+      ],
+      [
+        11064,
+        13535
+      ],
+      [
+        13840,
+        13587
       ],
       [
         17826,
         13626
       ],
       [
-        18026,
-        13186
+        18415,
+        13631
       ],
       [
-        17962,
-        12794
+        19640,
+        13649
       ],
       [
-        17530,
-        12010
+        19658,
+        12045
       ],
       [
-        17562,
-        11842
+        19688,
+        10333
       ],
       [
-        18138,
-        11402
+        17825,
+        10315
       ],
       [
-        17802,
-        11218
-      ],
-      [
-        17034,
-        11386
-      ],
-      [
-        17002,
-        10986
-      ],
-      [
-        16858,
-        10434
-      ],
-      [
-        16730,
-        9890
-      ],
-      [
-        16914,
-        9434
+        17777,
+        9413
       ],
       [
         17178,
@@ -241,20 +257,20 @@
         4234
       ],
       [
-        4554,
-        4866
+        4213,
+        4704
       ],
       [
-        4290,
-        5546
+        4098,
+        5119
       ],
       [
         3650,
         5570
       ],
       [
-        2810,
-        5810
+        2899,
+        5696
       ],
       [
         2210,
@@ -269,15 +285,19 @@
         5866
       ],
       [
-        1250,
-        6066
+        1231,
+        5889
+      ],
+      [
+        1231,
+        6073
       ]
     ],
     "created": "2015-01-28T22:14:24.536360+00:00",
     "transformation_method": "affine",
     "mapID": "5ead87d9-10c2-57c4-9037-7a09fdcf1835",
     "affine_transformation": null,
-    "changed": "2022-10-01T15:38:42.313964+00:00",
+    "changed": "2024-04-24T07:59:57.617263+00:00",
     "gcps": [
       {
         "location": [
@@ -347,6 +367,16 @@
         "pixel": [
           14006,
           11583
+        ]
+      },
+      {
+        "location": [
+          17.923632412370953,
+          50.666845259564354
+        ],
+        "pixel": [
+          7771,
+          6824
         ]
       },
       {

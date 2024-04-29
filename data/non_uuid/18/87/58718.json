@@ -9,16 +9,16 @@
   "external_id": "58718",
   "title": "mapa z atlasu \"Schauplatz der fünf Theile der Welt :\"",
   "collection_id": "c96b8290-8633-5c89-8aed-95da5c97814e",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    10.03279,
-    47.594875,
-    10.628944,
-    47.944485
+    10.031738,
+    47.596508,
+    10.629362,
+    47.943977
   ],
   "reviewed": null,
   "publisher": "Albrecht, Ignatz; Herausgegeben von F.I.I. Reilly",
@@ -73,8 +73,8 @@
         1994
       ],
       [
-        7881,
-        5320
+        7877,
+        5318
       ],
       [
         3222,
@@ -93,8 +93,28 @@
         2526
       ],
       [
-        3054,
-        1414
+        3004,
+        2278
+      ],
+      [
+        2986,
+        2110
+      ],
+      [
+        2920,
+        2008
+      ],
+      [
+        3004,
+        1908
+      ],
+      [
+        2909,
+        1607
+      ],
+      [
+        2867,
+        1406
       ],
       [
         2771,
@@ -105,7 +125,7 @@
     "transformation_method": "affine",
     "mapID": "f33a16d8-8144-570d-aede-a38c8db4bcd1",
     "affine_transformation": null,
-    "changed": "2014-12-05T11:47:50.720600+00:00",
+    "changed": "2024-04-24T11:20:20.113222+00:00",
     "gcps": [
       {
         "location": [
@@ -189,6 +209,16 @@
       },
       {
         "location": [
+          10.317519466167333,
+          47.7268990520146
+        ],
+        "pixel": [
+          5459,
+          3806
+        ]
+      },
+      {
+        "location": [
           10.239749717,
           47.695920528
         ],
@@ -205,16 +235,6 @@
         "pixel": [
           5667,
           1986
-        ]
-      },
-      {
-        "location": [
-          10.301693438,
-          47.840514106
-        ],
-        "pixel": [
-          4979,
-          2868
         ]
       },
       {
@@ -265,6 +285,16 @@
         "pixel": [
           3720,
           1450
+        ]
+      },
+      {
+        "location": [
+          10.301302059113013,
+          47.840445295523324
+        ],
+        "pixel": [
+          4979,
+          2868
         ]
       }
     ]

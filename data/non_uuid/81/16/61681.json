@@ -9,16 +9,16 @@
   "external_id": "61681",
   "title": "mapa z atlasu \"Atlas Sive Cosmographicae Meditationes De Fabrica Mvndi Et Fabricati Figvra. Denuo auctos\"",
   "collection_id": "c96b8290-8633-5c89-8aed-95da5c97814e",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    20.209152,
-    46.94976,
-    36.1482,
-    57.59715
+    20.397205,
+    47.025826,
+    36.193657,
+    57.269806
   ],
   "reviewed": null,
   "publisher": "Sumptibus",
@@ -29,35 +29,103 @@
   "georefereces": {
     "cutline": [
       [
-        1357,
-        723
+        2525,
+        2019
       ],
       [
-        11101,
-        659
+        2881,
+        1922
       ],
       [
-        11181,
+        3264,
+        1466
+      ],
+      [
+        3397,
+        1279
+      ],
+      [
+        3457,
+        1022
+      ],
+      [
+        3443,
+        732
+      ],
+      [
+        11099,
+        679
+      ],
+      [
+        11100,
+        1685
+      ],
+      [
+        11108,
+        4793
+      ],
+      [
+        11119,
+        6840
+      ],
+      [
+        11132,
+        9007
+      ],
+      [
+        6653,
+        9057
+      ],
+      [
+        4207,
         9075
       ],
       [
-        1373,
-        9139
+        1462,
+        9105
       ],
       [
-        1341,
-        755
+        1432,
+        5208
       ],
       [
-        1357,
-        723
+        1411,
+        1975
+      ],
+      [
+        1572,
+        2022
+      ],
+      [
+        2021,
+        2045
+      ],
+      [
+        2103,
+        2051
+      ],
+      [
+        2349,
+        1864
+      ],
+      [
+        2452,
+        1899
+      ],
+      [
+        2454,
+        1969
+      ],
+      [
+        2525,
+        2019
       ]
     ],
     "created": "2015-01-17T10:50:33.866000+00:00",
     "transformation_method": "affine",
     "mapID": "43a42cbb-af7a-5128-b3cb-a8e1daaba74d",
     "affine_transformation": null,
-    "changed": "2015-01-17T10:50:33.866000+00:00",
+    "changed": "2024-04-24T11:31:24.711621+00:00",
     "gcps": [
       {
         "location": [
@@ -97,6 +165,26 @@
         "pixel": [
           2498,
           4878
+        ]
+      },
+      {
+        "location": [
+          22.77021849438132,
+          49.783137968718364
+        ],
+        "pixel": [
+          2043,
+          8169
+        ]
+      },
+      {
+        "location": [
+          25.27992863922479,
+          54.68668657416248
+        ],
+        "pixel": [
+          4833,
+          3202
         ]
       },
       {

@@ -9,16 +9,16 @@
   "external_id": "61675",
   "title": "mapa z atlasu \"Atlas Sive Cosmographicae Meditationes De Fabrica Mvndi Et Fabricati Figvra. Denuo auctos\"",
   "collection_id": "c96b8290-8633-5c89-8aed-95da5c97814e",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    17.03028,
-    53.029682,
-    23.193752,
-    55.72572
+    16.861525,
+    52.980247,
+    23.37206,
+    55.778526
   ],
   "reviewed": null,
   "publisher": "Sumptibus",
@@ -29,31 +29,47 @@
   "georefereces": {
     "cutline": [
       [
-        766,
-        8941
+        725,
+        9017
       ],
       [
-        11470,
-        8941
+        4922,
+        9011
       ],
       [
-        11470,
-        813
+        8712,
+        9006
       ],
       [
-        806,
-        805
+        11514,
+        8994
       ],
       [
-        766,
-        8941
+        11503,
+        4902
+      ],
+      [
+        11517,
+        801
+      ],
+      [
+        4261,
+        807
+      ],
+      [
+        773,
+        795
+      ],
+      [
+        725,
+        9017
       ]
     ],
     "created": "2015-02-02T18:29:38.583570+00:00",
     "transformation_method": "affine",
     "mapID": "a02475ca-065e-545e-ac69-89a088b05f47",
     "affine_transformation": null,
-    "changed": "2021-08-03T18:27:07.301233+00:00",
+    "changed": "2024-04-24T05:33:56.263878+00:00",
     "gcps": [
       {
         "location": [
@@ -117,6 +133,16 @@
       },
       {
         "location": [
+          22.349477866387396,
+          53.82296549836241
+        ],
+        "pixel": [
+          9759,
+          6694
+        ]
+      },
+      {
+        "location": [
           20.537223816,
           54.980372896
         ],
@@ -143,6 +169,16 @@
         "pixel": [
           10251,
           2771
+        ]
+      },
+      {
+        "location": [
+          21.13306518102461,
+          55.70929855859612
+        ],
+        "pixel": [
+          8854,
+          1331
         ]
       }
     ]
