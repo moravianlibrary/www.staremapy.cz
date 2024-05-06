@@ -13,8 +13,13 @@
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
-  "georeference_is_finished": false,
-  "bounds": null,
+  "georeference_is_finished": true,
+  "bounds": [
+    16.333506,
+    48.867977,
+    16.337,
+    48.86963
+  ],
   "reviewed": null,
   "publisher": null,
   "link_url": "http://chartae-antiquae.cz/maps/39717",
@@ -48,26 +53,66 @@
     "transformation_method": "affine",
     "mapID": "83765989-758b-5786-94cf-7f3ebb6aeee5",
     "affine_transformation": null,
-    "changed": "2024-01-07T16:31:58.300772+00:00",
+    "changed": "2024-05-03T13:04:40.558161+00:00",
     "gcps": [
       {
         "location": [
-          12.376932169098492,
-          50.07452872395126
+          16.335955638059364,
+          48.8683554199809
         ],
         "pixel": [
-          3027,
-          3310
+          2704,
+          11616
         ]
       },
       {
         "location": [
-          12.373026038651282,
-          50.07327466727406
+          16.335778612264377,
+          48.86834483397655
         ],
         "pixel": [
-          4908,
-          9069
+          2385,
+          10629
+        ]
+      },
+      {
+        "location": [
+          16.335915404924137,
+          48.86870828550917
+        ],
+        "pixel": [
+          5658,
+          11639
+        ]
+      },
+      {
+        "location": [
+          16.335791943573142,
+          48.86869212473499
+        ],
+        "pixel": [
+          5654,
+          11105
+        ]
+      },
+      {
+        "location": [
+          16.334787329379786,
+          48.869318766889876
+        ],
+        "pixel": [
+          10437,
+          6384
+        ]
+      },
+      {
+        "location": [
+          16.335915248035892,
+          48.869071754555705
+        ],
+        "pixel": [
+          9011,
+          12032
         ]
       }
     ]

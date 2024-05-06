@@ -9,16 +9,16 @@
   "external_id": "61290",
   "title": "mapa z atlasu \"Grund-Riße derer Unterschiedenen Bewegungen und Kriegs Übungen, welche von denen Chur-Sächsischen Trouppen Ihrer Majestät, des Königs in Pohlen und Chur-Fürstens zu Sachsen in dem Lager bey Zeithayn vom 1. bis den 21. Junii 1730 vollzogen worden\"",
   "collection_id": "c96b8290-8633-5c89-8aed-95da5c97814e",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    13.260602,
-    51.280083,
-    13.437629,
-    51.42071
+    13.260628,
+    51.280342,
+    13.437241,
+    51.420307
   ],
   "reviewed": null,
   "publisher": null,
@@ -29,43 +29,111 @@
   "georefereces": {
     "cutline": [
       [
-        633,
-        940
+        677,
+        949
       ],
       [
-        761,
-        13868
+        725,
+        5210
       ],
       [
-        17557,
-        13824
+        762,
+        8925
       ],
       [
-        17598,
-        9350
+        798,
+        13843
       ],
       [
-        20498,
-        9225
+        6453,
+        13790
       ],
       [
-        20555,
-        665
+        11101,
+        13745
       ],
       [
-        10427,
-        761
+        17746,
+        13680
       ],
       [
-        633,
-        940
+        17640,
+        12623
+      ],
+      [
+        17671,
+        12180
+      ],
+      [
+        17667,
+        11563
+      ],
+      [
+        17786,
+        10794
+      ],
+      [
+        17760,
+        10623
+      ],
+      [
+        17732,
+        10138
+      ],
+      [
+        17742,
+        9773
+      ],
+      [
+        17833,
+        9538
+      ],
+      [
+        17975,
+        9328
+      ],
+      [
+        18154,
+        9235
+      ],
+      [
+        18866,
+        9266
+      ],
+      [
+        19516,
+        9266
+      ],
+      [
+        20179,
+        9242
+      ],
+      [
+        20606,
+        9253
+      ],
+      [
+        20514,
+        715
+      ],
+      [
+        10437,
+        806
+      ],
+      [
+        4504,
+        902
+      ],
+      [
+        677,
+        949
       ]
     ],
     "created": "2015-02-05T07:51:42.957170+00:00",
     "transformation_method": "affine",
     "mapID": "1af86eb7-9a99-5759-aed3-1ee341138fa2",
     "affine_transformation": null,
-    "changed": "2021-09-13T15:09:08.296749+00:00",
+    "changed": "2024-05-03T05:26:33.371847+00:00",
     "gcps": [
       {
         "location": [
@@ -275,6 +343,16 @@
         "pixel": [
           4185,
           8766
+        ]
+      },
+      {
+        "location": [
+          13.294031374323305,
+          51.34271606987605
+        ],
+        "pixel": [
+          6880,
+          2030
         ]
       },
       {

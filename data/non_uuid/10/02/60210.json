@@ -9,16 +9,16 @@
   "external_id": "60210",
   "title": "mapa z atlasu \"Vollständiger Hand-Atlas der neueren Erdbeschreibung über alle Theile der Erde in 82 Blättern\"",
   "collection_id": "c96b8290-8633-5c89-8aed-95da5c97814e",
-  "is_reviewed": false,
+  "is_reviewed": true,
   "contributor": null,
   "catalog_url": null,
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    1.6294026,
-    44.314228,
-    9.11254,
-    50.43648
+    1.6131356,
+    44.2837,
+    9.147618,
+    50.452854
   ],
   "reviewed": null,
   "publisher": "herausgegeben von Dr. K. Sohr",
@@ -29,31 +29,63 @@
   "georefereces": {
     "cutline": [
       [
-        226,
-        8131
+        204,
+        8148
       ],
       [
-        9998,
-        8084
+        1811,
+        8148
       ],
       [
-        10037,
-        357
+        5682,
+        8138
       ],
       [
-        230,
-        343
+        10044,
+        8121
       ],
       [
-        226,
-        8131
+        10044,
+        4532
+      ],
+      [
+        10052,
+        2277
+      ],
+      [
+        10060,
+        318
+      ],
+      [
+        8673,
+        317
+      ],
+      [
+        5164,
+        307
+      ],
+      [
+        203,
+        315
+      ],
+      [
+        201,
+        1773
+      ],
+      [
+        208,
+        4052
+      ],
+      [
+        204,
+        8148
       ]
     ],
     "created": "2015-01-16T14:46:12.366000+00:00",
     "transformation_method": "affine",
     "mapID": "f5c3b722-fde0-5857-9f45-05520795cb8f",
     "affine_transformation": null,
-    "changed": "2015-01-16T14:46:12.366000+00:00",
+    "changed": "2024-04-30T12:37:26.807419+00:00",
     "gcps": [
       {
         "location": [
@@ -83,16 +115,6 @@
         "pixel": [
           7350,
           3510
-        ]
-      },
-      {
-        "location": [
-          7.455597762,
-          46.941829212
-        ],
-        "pixel": [
-          6210,
-          1902
         ]
       },
       {
@@ -173,6 +195,16 @@
         "pixel": [
           542,
           7212
+        ]
+      },
+      {
+        "location": [
+          7.44868839157764,
+          46.946073891851114
+        ],
+        "pixel": [
+          6210,
+          1902
         ]
       },
       {
