@@ -15,10 +15,10 @@
   "viewer_url": null,
   "georeference_is_finished": true,
   "bounds": [
-    79.329506,
-    5.5325313,
-    81.68973,
-    9.362353
+    79.362206,
+    5.5274625,
+    81.684395,
+    9.399404
   ],
   "reviewed": null,
   "publisher": "Sumptibus",
@@ -77,7 +77,7 @@
     "transformation_method": "affine",
     "mapID": "400a2d02-188b-5f36-a9f5-f0f908d57e1e",
     "affine_transformation": null,
-    "changed": "2015-01-03T12:28:24.720960+00:00",
+    "changed": "2024-05-10T08:51:30.896503+00:00",
     "gcps": [
       {
         "location": [
@@ -147,6 +147,16 @@
         "pixel": [
           5535,
           969
+        ]
+      },
+      {
+        "location": [
+          80.26711842455978,
+          9.172900201537686
+        ],
+        "pixel": [
+          1989,
+          4860
         ]
       }
     ]
